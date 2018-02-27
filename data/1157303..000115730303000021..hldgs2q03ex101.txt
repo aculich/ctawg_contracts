@@ -1,0 +1,572 @@
+<DOCUMENT>
+<TYPE>EX-10.1
+<SEQUENCE>3
+<FILENAME>hldgs2q03ex101.txt
+<DESCRIPTION>EXHIBIT 10.1
+<TEXT>
+                                                                   EXHIBIT 10.1
+
+                      INTERNATIONAL SPECIALTY PRODUCTS INC.
+                          2000 LONG-TERM INCENTIVE PLAN
+                  (as amended and restated, as of May 15, 2003)
+
+
+                                  INTRODUCTION
+
+                  International Specialty Products Inc., a Delaware corporation
+(hereinafter referred to as the "Corporation"), hereby establishes an incentive
+compensation plan to be known as the "INTERNATIONAL SPECIALTY PRODUCTS 2000 LONG
+TERM INCENTIVE PLAN" (hereinafter referred to as the "Plan"), as set forth in
+this document. The Plan permits the grant of Incentive Units (as hereafter
+defined) to eligible employees of the Corporation and the Subsidiaries (as
+hereafter defined). The Plan provides for a long term incentive system that
+supports the Corporation's business strategy and emphasizes pay-for performance
+by tying reward opportunities to corporate goals.
+
+                  The Plan shall become effective on February 28, 2000 (the
+"Effective Date"), the date on which the Plan was adopted by the Board (as
+hereafter defined). This Plan shall terminate ten (10) years after Effective
+Date (unless sooner terminated by the Board).
+
+                               I. DEFINITIONS
+
+                  For purposes of this Plan, the following terms shall be
+defined as follows unless the context clearly indicates otherwise:
+
+                 (a) "Board of Directors" or "Board" shall mean the Board of
+Directors of the Corporation.
+
+                 (b) "Change in Control of the Corporation" shall mean (i) the
+sale or disposition, in one or a series of related transactions, of all or
+substantially all of the assets of the Corporation to any "person" or "group"
+(as such terms are defined in Sections 13(d)(3) and 14(d)(2) of The Securities
+Exchange Act of 1934, as amended (the "Act")) other than the Heyman Group or
+(ii) any person or group, other than Heyman Group, is or becomes the "beneficial
+owner" (as defined in Rules 13d-3 and 13d-5 under the Act), directly or
+indirectly, of more than 50% of the total voting power of the voting stock of
+the Corporation, including by way of merger, consolidation or otherwise, and the
+Heyman Group ceases to control the Board.
+
+                 (c) "Code" shall mean the Internal Revenue Code of 1986, as
+amended.
+
+                 (d) "Corporation" shall have the meaning set forth in the
+Introduction.
+
+                 (e) "Committee" shall have the meaning set forth in Section
+II(a) hereof.
+
+                 (f) "Dividend Incentive Unit" shall have the meaning set forth
+in Section IV(b) hereof.
+
+
+
+<PAGE>
+
+                 (g) "Effective Date" shall have the meaning set forth in the
+Introduction.
+
+                 (h) "Employee" shall mean a common-law employee of the
+Corporation or of any Subsidiary.
+
+                 (i) "Exercise Date" shall have the meaning set forth in
+Section IV(e) hereof.
+
+                 (j) "Final Value" shall have the meaning set forth in Section
+IV(f) hereof.
+
+                 (k) "Good Cause" shall, with respect to any Employee, mean (i)
+the Employee's willful or gross misconduct or willful or gross negligence in the
+performance of his duties for the Corporation or for any Subsidiary, (ii) the
+Employee's intentional or habitual neglect of his duties for the Corporation or
+for any Subsidiary, (iii) the Employee's theft or misappropriation of funds of
+the Corporation or of any Subsidiary, fraud, criminal misconduct, breach of
+fiduciary duty or dishonesty in the performance of his duties on behalf of the
+Corporation or any Subsidiary or commission of a felony, or crime of moral
+turpitude or any other conduct reflecting adversely upon the Corporation or any
+Subsidiary or (iv) the Employee's violation of any covenant not to compete or
+not to disclose confidential information with respect to the Corporation or any
+Subsidiary.
+
+                 (l) "Incentive Unit" shall mean a bookkeeping item equal in
+value to the excess, if any, of the Final Value over the Initial Value.
+
+                 (m) "Initial Value" shall have the meaning set forth in
+Section IV(a) hereof.
+
+                 (n) "Plan" shall have the meaning set forth in the
+Introduction.
+
+                 (o) "Retirement" shall mean an Employee's termination of
+employment after (i) he attains age fifty-five (55) and (ii) the sum of his age
+and the number of his years of service with the Corporation and/or any
+Subsidiary equals sixty (60) or more.
+
+                 (p) "Subsidiary" shall mean a corporation or other entity of
+which more than fifty percent (50%) of the aggregate of its outstanding voting
+securities are owned directly or indirectly by the Corporation.
+
+                 (q) "Valuation Date" shall mean the last day of business of
+each fiscal quarter of the Corporation.
+
+                  (r) "Value" shall mean, as of a specified date, (i) the
+Corporation's total stockholders' equity, adjusted to exclude accumulated
+comprehensive income and losses, and changes for the impairment of goodwill
+mandated by FASB 142, multiplied by .001, and divided by (ii) the total number
+of outstanding shares of the Corporation's common stock, all determined as of
+such Valuation Date. Specific goodwill adjustments will be made as follows:
+Goodwill that existed as of December 31, 2001 will continue to be amortized in
+the same manner as it was prior to adoption of FASB 142. Impairment of goodwill
+that existed as of December 31, 2001 will not be charged against equity. The
+value of each Incentive Unit as of a Valuation Date, the determination of
+accumulated comprehensive income and losses, and changes for the impairment
+
+                                       2
+<PAGE>
+
+of goodwill, and the total number of outstanding shares of the Corporation's
+common stock as of a Valuation Date, shall each be determined by the Committee
+in its sole discretion.
+
+                               II. ADMINISTRATION
+
+                 (a) Administration; Term of Office; Appointment of Chairperson.
+The Plan shall be administered by a committee (the "Committee") appointed by the
+Board from among the Employees. The Committee shall be comprised, unless
+otherwise determined by the Board, of the individuals serving as the
+Corporation's Chief Executive Officer, Chief Financial Officer and Sr. Vice
+President Human Resources. Each member of the Committee shall hold office until
+the date that he or she resigns from the Committee or is removed from membership
+on the Committee by action of the Board. In the event an individual for any
+reason ceases to be a member of the Committee, the Board shall appoint another
+qualified individual to serve on the Committee. The members of the Committee
+shall choose from among themselves one such member to serve as chairperson of
+the Committee.
+
+                 (b) Quorum and Manner of Acting. Except as hereinafter
+provided, a majority of the members of the entire Committee shall constitute a
+quorum for the transaction of business and the vote of a majority of the
+Committee members present at the time of the vote shall be the act of the
+Committee. In the absence of a quorum at any meeting of the Committee, a
+majority of the Committee members present may adjourn such meeting to another
+time and place. Notice of the time and place of any such adjourned meeting shall
+be given to the Committee members who were not present at the time of the
+adjournment and, unless such time and place were announced at the meeting at
+which the adjournment was taken, to the other Committee members. At any
+adjourned meeting at which a quorum is present, any business may be transacted
+which might have been transacted at the meeting as originally called. In the
+event any Committee member is disqualified from acting on a specific matter
+pursuant to Section II(f) hereof, such individual shall not be taken into
+account in determining whether a quorum of the Committee exists for taking
+action with respect to such matter. The Committee members shall act only as a
+Committee and the individual Committee members shall have no power as such. All
+decisions of the Committee or the Board in the interpretation and administration
+of the Plan shall lie within its sole and absolute discretion and shall be
+final, conclusive and binding on all parties concerned (including, but not
+limited to, Employees and their beneficiaries or successors).
+
+                 (c) Action Without a Meeting. Any action required or permitted
+to be taken by the Committee at a meeting may be taken without a meeting if all
+members of the Committee consent in writing to the adoption of a resolution
+authorizing such action. The resolution and written consents thereto by the
+members of the Committee shall be filed with the minutes of the proceedings of
+the Committee.
+
+                  (d) Telephonic Participation. Any one or more members of the
+Committee may participate in a meeting of the Committee by means of a conference
+telephone or similar communications equipment allowing all persons participating
+in the meeting to hear each other at the same time. Participation by such means
+shall constitute presence in person at the meeting.
+
+                                       3
+<PAGE>
+
+                 (e) Compensation. Members of the Committee shall not be
+compensated for service as a Committee member.
+
+                 (f) Disqualification. Each member of the Committee shall be
+disqualified from acting as such with respect to all matters that concern such
+person individually.
+
+                 (g) Responsibilities of the Committee. Except to the extent
+specifically reserved herein for the Board, the Committee shall have all powers,
+responsibilities and duties for controlling and administering the Plan,
+including, but not limited to, the following:
+
+                             (i)    to establish, amend and enforce certain
+                                    rules, regulations, and procedures as it
+                                    deems necessary or proper for the efficient
+                                    administration of the Plan;
+
+                             (ii)   to interpret the Plan and correct any defect
+                                    or supply and omission or reconcile any
+                                    inconsistency in the Plan in the manner and
+                                    to the extent the Committee deems necessary
+                                    or desirable;
+
+                             (iii)  to determine the ongoing eligibility of any
+                                    individual to participate in the Plan, and
+                                    to require any person to furnish any
+                                    information as it may request to properly
+                                    administer the Plan as a condition to that
+                                    person receiving any benefit under the Plan;
+
+                             (iv)   to compute the amount of benefits that are
+                                    payable to any Employee or beneficiary in
+                                    accordance with the provisions of the Plan,
+                                    and to determine the person or persons to
+                                    whom those benefits will be paid; and
+
+                             (v)    establish the terms and conditions of a
+                                    grant of Incentive Units under the Plan and
+                                    waive any such terms and conditions at any
+                                    time and to authorize the payment of
+                                    benefits from the Plan.
+
+                             (vi)   award Incentive Units in assumption of, or
+                                    in substituion for, outstanding awards
+                                    previously granted by the Corporation or its
+                                    Subsidiaries or a company acquired by the
+                                    Corporation or which the Corporation
+                                    combines.
+
+                        III. ELIGIBILITY TO PARTICIPATE
+
+                  Each individual who is an Employee of the Corporation, or of
+any Subsidiary, shall be initially eligible to participate in the Plan.
+Notwithstanding the above, the identity of the Employees who will be entitled to
+receive grants of Incentive Units under this Plan shall be determined by the
+Committee in its sole discretion. No individual shall automatically be entitled
+to receive a grant of Incentive Units solely because he is classified as an
+Employee.
+
+
+                                       4
+<PAGE>
+
+                              IV. INCENTIVE UNITS
+
+                 (a) Grant of Incentive Units. The Committee may, in its sole
+discretion, grant Incentive Units to any one or more Employees. The number of
+Incentive Units granted to each Employee shall be determined by the Committee
+in its sole discretion. Incentive Units shall normally be granted on the hire
+date, or effective date of promotion, of the employee to receive the grant. The
+Committee, however, may in its sole discretion grant Incentive Units on any
+other date during the year. Subject to adjustment as provided in Section IV(c)
+below, the "Initial Value" of any Incentive Unit granted under this Plan shall
+normally be equal to the Value of such Incentive Unit as of the Valuation Date
+immediately preceding the date on which such Incentive Unit is granted. The
+Committee, however, may in its sole discretion grant Incentive Units with an
+"Initial Value" that is lower or higher than the Value of such Incentive Units
+on the Valuation Date immediately preceding the date on which such Incentive
+Unit is granted.
+
+                 (b) Dividend Equivalents. Each Employee who has been granted
+one or more Incentive Units under this Plan shall be credited with additional
+whole or partial Incentive Units as of any date that dividends are declared on
+the Corporation's common stock. With respect to each award of Incentive Units,
+as of each such date, the number of whole and/or partial Incentive Units
+credited under this Section IV(b) (the "Dividend Incentive Units") shall be
+determined by multiplying the number of Incentive Units subject to such award
+by a fraction, the numerator being the fair market value (as determined by the
+Committee) of the dividend payable on one share of the Corporation's common
+stock multiplied by .001, and the denominator being the Value of an Incentive
+Unit as of the Valuation Date immediately preceding the date the dividend is
+declared. The Initial Value of the Dividend Incentive Units granted with respect
+to an award shall equal the Initial Value of the Incentive Units of such award.
+The Dividend Incentive Units shall vest when the Incentive Units subject to the
+award for which the Dividend Incentive Units were granted vest.
+
+                 (c) Recapitalization, Etc. In the event there is any change in
+the outstanding common stock of the Corporation by reason of any merger,
+reorganization, recapitalization, stock split, stock dividend, combination of
+shares or otherwise, each Incentive Unit then outstanding under the Plan shall
+be substituted for or adjusted, in the sole discretion of the Committee, to
+accurately reflect the effect of such merger, reorganization, recapitalization,
+stock split, stock dividend, share combination or other such event, and the
+Initial Value of each Incentive Unit shall also be adjusted by the Committee if
+it determines in its sole discretion that such adjustment is appropriate. In the
+event that the Corporation enters into a transaction with an affiliate of the
+Corporation, the Committee, may make an equitable adjustment to the Incentive
+Units if, in its sole discretion, the Committee determines that such adjustment
+is appropriate.
+
+                 (d) Vesting in Incentive Units. The Incentive Units granted to
+an Employee (including any Dividend Incentive Units credited to the Employee)
+shall normally vest cumulatively, in twenty percent (20%) increments, on each
+anniversary of the date such Incentive Units were granted to the Employee and
+such vesting shall end upon the termination of an Employee's employment with the
+Corporation or any subsidiary for any reason whatsoever; provided, however, that
+the Committee may in its sole discretion grant Incentive Units with any other
+vesting schedule. Notwithstanding the foregoing, to the extent not previously
+canceled or
+
+                                       5
+<PAGE>
+
+forfeited, Incentive Units will become fully and immediately vested and
+immediately payable in cash (pursuant to the terms of Section IV(f) hereof)
+upon a Change in Control.
+
+                 (e) Exercise of Incentive Units. Subject to the following, an
+Employee may exercise his vested Incentive Units at such times as are determined
+by the Committee in its sole discretion (an "Exercise Date"). Notwithstanding
+the preceding sentence, each Incentive Unit shall be immediately forfeited upon
+the earliest of (i) the sixth (6th) anniversary of the date the Incentive Unit
+is granted, (ii) one year after the Employee's termination of employment with
+the Corporation or any Subsidiary due to his (1) death, (2) long-term disability
+or (3) Retirement, (iii) ninety (90) days after the Employee's termination of
+employment by the Corporation or a Subsidiary without Good Cause (other than due
+to death or long-term disability) or by the Employee for any reason (other than
+due to Retirement) or (iv) immediately upon the Employee's termination by the
+Corporation or a Subsidiary for Good Cause. An Employee shall exercise his
+vested Incentive Units by completing a Notice of Exercise Form in the form of
+Exhibit A hereto, and delivering such form to the Corporation in accordance with
+the notice provisions set forth herein.
+
+                 (f) Value of Incentive Unit Upon Exercise; Guarantee. Upon the
+exercise of an Incentive Unit, the Employee shall receive from ISP Management
+Company, Inc. in cash the excess, if any, of the "Final Value" of such Incentive
+Unit (which Final Value shall equal the Value of the Incentive Unit as of the
+Valuation Date immediately preceding the Exercise Date) over the Initial Value
+of such Incentive Unit. The value of a partial Incentive Unit shall be
+determined under the immediately preceding sentence, but pro rated to reflect
+the percentage of a whole Incentive Unit reflected by such partial Incentive
+Unit. The payment obligations of ISP Management Company, Inc. hereunder is fully
+and unconditionally guaranteed by its parent company, ISP Inc.
+
+                          V. MISCELLANEOUS PROVISIONS
+
+                 (a) Assignment or Transfer. No right to any accrued but unpaid
+Incentive Unit shall be sold, assigned, redeemed, pledged, transferred or
+otherwise encumbered by an Employee except by will or the laws of descent and
+distribution.
+
+                 (b) Withholding Taxes. The Corporation or the appropriate
+Subsidiary shall have the right to deduct from all cash payments hereunder any
+federal, state, local or foreign income and employment taxes required by law to
+be withheld with respect to such payments.
+
+                 (c) Costs and Expenses. The costs and expenses of administering
+the Plan shall be borne by the Corporation and shall not be charged against any
+award nor to any Employee receiving an Incentive Unit.
+
+                 (d) Funding of Plan. The Plan shall be unfunded. The
+Corporation shall not be required to segregate any of its assets to assure the
+payment of any Incentive Unit under the Plan. Neither the Employees nor any
+other persons shall have any interest in any fund or in any specific asset or
+assets of the Corporation or any other entity by reason of any accrued but
+unpaid Incentive Unit. The interests of each Employee hereunder are unsecured
+and shall be subject to the general creditors of the Corporation and the
+applicable Subsidiaries.
+
+
+                                       6
+<PAGE>
+
+                 (e) Other Incentive Plans. The adoption of the Plan does not
+preclude the adoption by appropriate means of any other incentive plan for
+Employees of the Corporation or any Subsidiary.
+
+                 (f) Plurals and Gender. Where appearing in this Plan, masculine
+gender shall include the feminine and neuter genders, and the singular shall
+include the plural, and vice versa, unless the context clearly indicates a
+different meaning.
+
+                 (g) Headings. The headings and sub-headings in this Plan are
+inserted for the convenience of reference only and are to be ignored in any
+construction of the provisions hereof.
+
+                 (h) Severability. In case any provision of this Plan shall be
+held illegal or void, such illegality or invalidity shall not affect the
+remaining provisions of this Plan, but shall be fully severable, and the Plan
+shall be construed and enforced as if said illegal or invalid provisions had
+never been inserted herein.
+
+                 (i) Liability and Indemnification. (i) Neither the Corporation
+nor any Subsidiary shall be responsible in any way for any action or omission of
+the Committee, or any other fiduciaries in the performance of their duties and
+obligations as set forth in this Plan. Furthermore, neither the Corporation nor
+any Subsidiary shall be responsible for any act or omission of any of their
+agents, or with respect to reliance upon advice of their counsel, provided that
+the Corporation and/or the appropriate Subsidiary relied in good faith upon the
+action of such agent or the advice of such counsel. (ii) Neither the
+Corporation, any Subsidiary, the Committee, nor any agents, employees, officers,
+directors or stockholders of any of them, nor any other person shall have any
+liability or responsibility with respect to this Plan, except as expressly
+provided herein.
+
+                 (j) Incapacity. If the Committee shall receive evidence
+satisfactory to it that a person entitled to receive payment of, or exercise,
+any Incentive Unit is, at the time when such benefit becomes payable, a minor,
+or is physically or mentally incompetent to receive such Incentive Unit and to
+give a valid release thereof, and that another person or an institution is then
+maintaining or has custody of such person and that no guardian, committee or
+other representative of the estate of such person shall have been duly
+appointed, the Committee may make payment of such Incentive Unit otherwise
+payable to such person to such other person or institution, including a
+custodian under a Uniform Gifts to Minors Act, or corresponding legislation (who
+shall be an adult, a guardian of the minor or a trust company), and the release
+by such other person or institution shall be a valid and complete discharge for
+the payment or exercise of such Incentive Unit
+
+                 (k) Cooperation of Parties. All parties to this Plan and any
+person claiming any interest hereunder agree to perform any and all acts and
+execute any and all documents and papers which are necessary or desirable for
+carrying out this Plan or any of its provisions.
+
+                 (l) Governing Law. All questions pertaining to the validity,
+construction and administration of the Plan shall be determined in accordance
+with the laws of the State of New Jersey, without giving effect to conflict of
+law principles.
+
+
+                                       7
+<PAGE>
+
+                 (m) Nonguarantee of Employment. Nothing contained in this Plan
+shall be construed as a contract of employment between the Corporation or any
+Subsidiary and any Employee, as a right of any Employee to be continued in the
+employment of the Corporation or any Subsidiary, or as a limitation on the right
+of the Corporation or any Subsidiary to discharge any of its Employees, at any
+time, with or without cause.
+
+                 (n) Notices. Each notice relating to this Plan shall be in
+writing and delivered in person, by recognized overnight courier or by certified
+mail to the proper address. Except as otherwise provided in any Incentive Unit
+award agreement with respect to the exercise thereunder, all notices to the
+Corporation or the Committee shall be addressed to it at 1361 Alps Road, Wayne,
+New Jersey 07470, Attn: Senior Vice President Human Resources. All notices to
+Employees, former Employees, beneficiaries or other persons acting for or on
+behalf of such persons shall be addressed to such person at the last address for
+such person maintained in the Corporation's records.
+
+                     VI. AMENDMENT OR TERMINATION OF PLAN
+
+                  The Board may amend the Plan from time to time or suspend or
+terminate the Plan at any time. In the event the Plan is terminated for any
+reason, the vesting, exercise, and expiration provisions, as described in this
+Plan, for all Incentive Units granted up to and including the date of the
+termination of the Plan, will remain in effect.
+
+
+
+
+
+
+
+
+
+
+
+
+                                       8
+<PAGE>
+
+
+
+
+EXHIBIT A
+
+INTERNATIONAL SPECIALTY PRODUCTS
+NOTICE OF EXERCISE FORM
+LONG-TERM INCENTIVE UNITS
+
+Human Resources Department
+International Specialty Products Inc.
+1361 Alps Road
+Wayne, New Jersey  07470
+Attention:  Compensation
+
+Dear Sir/Madam:
+
+                  Pursuant to the provisions of the International Specialty
+Products 2000 Long-Term Incentive Plan (the "Plan"), pursuant to which you have
+granted to me Incentive Units, I hereby notify you that I elect to exercise the
+Incentive Units indicated on this Notice of Exercise Form. I understand that the
+terms of this exercise, and the amount of cash (subject to income tax and all
+other applicable withholding) I will receive pursuant to such exercise, shall be
+determined under the terms of the Plan.
+
+1. Name (Please Print)
+
+         Social Security # (US Only)
+                                               ---------------------------
+
+         Work Location
+                                               ---------------------------
+
+         Corporation Telephone Number
+                                               ---------------------------
+
+         Home Address
+                                               ----------------------------
+
+
+
+
+
+         Home Telephone Number
+                                              -----------------------------
+
+2. I would like to exercise the following Incentive Units:
+
+----------------------------- -------------------------- ------------------
+  Date of Incentive             # of Incentive             Initial Value
+  Unit Grant                    Units
+----------------------------- -------------------------- ------------------
+
+----------------------------- -------------------------- ------------------
+
+----------------------------- -------------------------- ------------------
+
+----------------------------- -------------------------- ------------------
+
+----------------------------- -------------------------- ------------------
+
+
+
+
+<PAGE>
+
+
+
+
+------------------------------------------------
+Signature and Date
+* Please call Human Resources, Compensation, at 973-628-3578, if you need to
+verify the number of exercisable Incentive Units.
+
+RECEIVED ON:
+
+
+
+-------------------------------            ------------------------
+HR Representative                          Date
+
+
+----------------------------------------------------------------------------
+
+
+
+For Payroll Use Only
+
+
+
+Pay Group:
+
+Employee Name:
+
+Employee File Number:
+
+SS Number:
+
+Gross Payment:
+
+Appropriate taxes should be withheld.                     54 - Book Value
+
+
+<PAGE>
+
+</TEXT>
+</DOCUMENT>

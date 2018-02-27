@@ -1,0 +1,1628 @@
+<DOCUMENT>
+<TYPE>EX-10.1
+<SEQUENCE>3
+<FILENAME>ex10-1.txt
+<DESCRIPTION>SUBSCRIPTION AGREEMENT DATED AS OF DEC 3, 2004
+<TEXT>
+
+                                                                    EXHIBIT 10.1
+
+                     INTERNATIONAL CARD ESTABLISHMENT, INC.
+    SHARES OF SERIES A CONVERTIBLE PREFERRED STOCK AND COMMON STOCK WARRANTS
+
+                             SUBSCRIPTION AGREEMENT
+
+                                                                December 6, 2004
+
+
+
+Mercator Advisory Group LLC
+Mercator Momentum Fund, L.P.
+Mercator Momentum Fund III, L.P.
+Robinson Reed, Inc.
+555 South Flower Street, Suite 4500
+Los Angeles, California 90071
+
+Ladies and Gentlemen:
+
+International Card Establishment,  Inc. a Delaware  corporation (the "COMPANY"),
+hereby  confirms its  agreement  with Mercator  Momentum  Fund,  L.P.,  Mercator
+Momentum Fund III, L.P., Robinson Reed, Inc. (collectively, the "Purchaser") and
+Mercator Advisory Group, LLC ("MAG"), as set forth below.
+
+         1.  THE  SECURITIES.   Subject  to  the  terms  and  conditions  herein
+contained,  the Company proposes to issue and sell to the Purchaser an aggregate
+of:  (a)  Thirty-Two  Thousand  (32,000)  shares  of its  Series  A  Convertible
+Preferred Stock (the "SERIES A STOCK"),  which shall be convertible  into shares
+(the "CONVERSION  SHARES") of the Company's Common Stock (the "COMMON STOCK") in
+accordance with the formula set forth in the Certificate of Designations further
+described below and (b) 8,010,012  warrants,  substantially in the form attached
+hereto at  EXHIBIT A (the  "WARRANTS"),  to acquire  up to  8,010,012  shares of
+Common Stock (the "WARRANT SHARES"). The exercise price per share for 50% of the
+Warrant  Shares shall be $ 0.47 per share;  and the exercise price per share for
+the remaining 50% of the Warrant Shares shall be $0.75. The rights,  preferences
+and  privileges  of the  Series A Stock are as set forth in the  Certificate  of
+Designations of Series A Preferred Stock as filed with the Secretary of State of
+the State of Delaware (the  "CERTIFICATE OF  DESIGNATIONS") in the form attached
+hereto as EXHIBIT B. The number of Conversion Shares and Warrant Shares that any
+Purchaser may acquire at any time are subject to  limitation in the  Certificate
+of Designations and in the Warrants,  respectively, so that the aggregate number
+of shares of Common  Stock of which such  Purchaser  and all persons  affiliated
+with such Purchaser have beneficial ownership (calculated pursuant to Rule 13d-3
+of the Securities  Exchange Act of 1934, as amended) does not at any time exceed
+9.99% of the Company's then outstanding Common Stock.
+
+         The Series A Stock and the Warrants are sometimes  herein  collectively
+referred  to  as  the  "SECURITIES."  This  Agreement  and  the  Certificate  of
+Designations are sometimes herein  collectively  referred to as the "TRANSACTION
+DOCUMENTS."
+
+                                      -1-
+
+<PAGE>
+
+
+         The Securities  will be offered and sold to the Purchaser  without such
+offers and sales being  registered  under the Securities Act of 1933, as amended
+(together  with  the  rules  and  regulations  of the  Securities  and  Exchange
+Commission  (the  "SEC")  promulgated  thereunder,  the  "SECURITIES  ACT"),  in
+reliance on exemptions therefrom.
+
+         In  connection  with the sale of the  Securities,  the Company has made
+available (including electronically via the SEC's EDGAR system) to Purchaser its
+periodic and current  reports,  forms,  schedules,  proxy  statements  and other
+documents  (including  exhibits  and  all  other  information   incorporated  by
+reference)  filed with the SEC under the  Securities  Exchange  Act of 1934,  as
+amended (the "EXCHANGE  ACT").  These  reports,  forms,  schedules,  statements,
+documents,   filings  and  amendments,  are  collectively  referred  to  as  the
+"DISCLOSURE DOCUMENTS." All references in this Agreement to financial statements
+and schedules and other information which is "contained," "included" or "stated"
+in the Disclosure Documents (or other references of like import) shall be deemed
+to mean and include all such  financial  statements  and  schedules,  documents,
+exhibits  and  other  information  which is  incorporated  by  reference  in the
+Disclosure Documents.
+
+         2.  REPRESENTATIONS AND WARRANTIES OF THE COMPANY.  Except as set forth
+on the Disclosure Schedule (the "DISCLOSURE  SCHEDULE") delivered by the Company
+to Purchaser  on the Closing  Date (as defined in Section 3 below),  the Company
+represents and warrants to and agrees with Purchaser and MAG as follows:
+
+                  (a)  To  the  best  of  Company's  knowledge,  the  Disclosure
+Documents  as of their  respective  dates did not,  and will not  (after  giving
+effect to any updated  disclosures  therein) as of the Closing Date, contain any
+untrue  statement of a material fact or omit to state a material fact  necessary
+to make the statements  therein,  in the light of the circumstances  under which
+they  were  made,  not  misleading.  To the  best of  Company's  knowledge,  the
+Disclosure Documents and the documents incorporated or deemed to be incorporated
+by reference  therein,  at the time they were filed or hereafter  are filed with
+the SEC,  complied  and will  comply,  at the time of  filing,  in all  material
+respects with the requirements of the Securities Act and/or the Exchange Act, as
+the case may be, as applicable.
+
+                  (b) SCHEDULE A attached  hereto sets forth a complete  list of
+the  subsidiaries of the Company (the  "SUBSIDIARIES").  Each of the Company and
+its  Subsidiaries  has been duly  incorporated  and each of the  Company and the
+Subsidiaries  is validly  existing in good standing as a  corporation  under the
+laws of its jurisdiction of  incorporation,  with the requisite  corporate power
+and authority to own its properties and conduct its business as now conducted as
+described in the Disclosure  Documents and is duly qualified to do business as a
+foreign  corporation  in good  standing  in all  other  jurisdictions  where the
+ownership or leasing of its  properties or the conduct of its business  requires
+such  qualification,  except  where the  failure to be so  qualified  would not,
+individually  or in  the  aggregate,  have  a  material  adverse  effect  on the
+business,  condition (financial or other),  properties,  prospects or results of
+operations  of the  Company  and the  Subsidiaries,  taken as a whole  (any such
+event, a "MATERIAL  ADVERSE  EFFECT");  as of the Closing Date, the Company will
+have the  authorized,  issued  and  outstanding  capitalization  set forth in on
+SCHEDULE B attached hereto (the "COMPANY  CAPITALIZATION");  except as set forth
+in the  Disclosure  Documents  or on SCHEDULE  A, the Company  does not have any
+
+                                      -2-
+
+<PAGE>
+
+subsidiaries  or own directly or  indirectly  any of the capital  stock or other
+equity or long-term debt  securities of or have any equity interest in any other
+person;  all of the  outstanding  shares of capital stock of the Company and the
+Subsidiaries  have been duly authorized and validly  issued,  are fully paid and
+nonassessable  and were not issued in  violation  of any  preemptive  or similar
+rights and are owned free and clear of all liens,  encumbrances,  equities,  and
+restrictions on transferability  (other than those imposed by the Securities Act
+and the state  securities or "Blue Sky" laws) or voting;  except as set forth in
+the Disclosure Documents,  all of the outstanding shares of capital stock of the
+Subsidiaries are owned,  directly or indirectly,  by the Company;  except as set
+forth in the  Disclosure  Documents,  no options,  warrants  or other  rights to
+purchase from the Company or any Subsidiary,  agreements or other obligations of
+the Company or any Subsidiary to issue or other rights to convert any obligation
+into, or exchange any  securities  for,  shares of capital stock of or ownership
+interests in the Company or any  Subsidiary are  outstanding;  and except as set
+forth in the  Disclosure  Documents  or on  SCHEDULE  C, there is no  agreement,
+understanding  or  arrangement  among the Company or any  Subsidiary and each of
+their  respective  stockholders or any other person relating to the ownership or
+disposition  of any  capital  stock  of the  Company  or any  Subsidiary  or the
+election of directors of the Company or any  Subsidiary or the governance of the
+Company's  or  any   Subsidiary's   affairs,   and,  if  any,  such  agreements,
+understandings  and arrangements will not be breached or violated as a result of
+the  execution  and  delivery  of,  or  the  consummation  of  the  transactions
+contemplated by, the Transaction Documents.
+
+                  (c)  The  Company  has  the  requisite   corporate  power  and
+authority to execute,  deliver and perform its obligations under the Transaction
+Documents.  Each  of  the  Transaction  Documents  has  been  duly  and  validly
+authorized by the Company and, when executed and delivered by the Company,  will
+constitute a valid and legally  binding  agreement  of the Company,  enforceable
+against  the  Company in  accordance  with its terms  except as the  enforcement
+thereof may be limited by (A) bankruptcy, insolvency, reorganization, fraudulent
+conveyance, moratorium or other similar laws now or hereafter in effect relating
+to or affecting  creditors' rights generally or (B) general principles of equity
+and the  discretion  of the court before which any  proceeding  therefore may be
+brought (regardless of whether such enforcement is considered in a proceeding at
+law or in equity) (collectively, the "ENFORCEABILITY EXCEPTIONS").
+
+                  (d)  The  Series  A Stock  and the  Warrants  have  been  duly
+authorized  and,  when  issued  upon  payment  thereof in  accordance  with this
+Agreement,  will have been validly issued,  fully paid and  non-assessable.  The
+Conversion  Shares issuable have been duly  authorized and validly  reserved for
+issuance,  and when issued upon  conversion  of the Series A Stock in accordance
+with the terms of the  Certificate  of  Designations,  will  have  been  validly
+issued,  fully  paid and  non-assessable.  The  Warrant  Shares  have  been duly
+authorized and validly  reserved for issuance,  and when issued upon exercise of
+the  Warrants  in  accordance  with the terms  thereof,  will have been  validly
+issued, fully paid and non-assessable.  The Common Stock of the Company conforms
+to  the  description  thereof  contained  in  the  Disclosure   Documents.   The
+stockholders of the Company have no preemptive or similar rights with respect to
+the Common Stock.
+
+                  (e)   No   consent,    approval,    authorization,    license,
+qualification, exemption or order of any court or governmental agency or body or
+third party is required for the performance of the Transaction  Documents by the
+
+                                      -3-
+
+<PAGE>
+
+Company  or for  the  consummation  by the  Company  of any of the  transactions
+contemplated  thereby, or the application of the proceeds of the issuance of the
+Securities as described in this Agreement, except for such consents,  approvals,
+authorizations, licenses, qualifications,  exemptions or orders (i) as have been
+obtained  on or  prior  to the  Closing  Date,  (ii) as are not  required  to be
+obtained on or prior to the Closing Date that will be obtained when required, or
+(iii) the failure to obtain which would not,  individually  or in the aggregate,
+have a Material Adverse Effect.
+
+                  (f) Except as set forth on  SCHEDULE D, none of the Company or
+the  Subsidiaries is (i) in material  violation of its articles of incorporation
+or bylaws (or similar organizational  document),  (ii) in breach or violation of
+any statute, judgment, decree, order, rule or regulation applicable to it or any
+of its properties or assets, which breach or violation would, individually or in
+the aggregate,  have a Material Adverse Effect,  or (iii) except as described in
+the  Disclosure  Documents,  in default (nor has any event  occurred  which with
+notice  or  passage  of time,  or  both,  would  constitute  a  default)  in the
+performance or observance of any  obligation,  agreement,  covenant or condition
+contained in any contract,  indenture,  mortgage, deed of trust, loan agreement,
+note, lease, license,  franchise agreement,  permit, certificate or agreement or
+instrument  to which it is a party or to  which  it is  subject,  which  default
+would, individually or in the aggregate, have a Material Adverse Effect.
+
+                  (g) The execution,  delivery and performance by the Company of
+the  Transaction   Documents  and  the   consummation  by  the  Company  of  the
+transactions  contemplated thereby and the fulfillment of the terms thereof will
+not (a)  violate,  conflict  with or  constitute  or  result in a breach of or a
+default under (or an event that,  with notice or lapse of time,  or both,  would
+constitute a breach of or a default under) any of (i) the terms or provisions of
+any contract,  indenture,  mortgage, deed of trust, loan agreement, note, lease,
+license, franchise agreement,  permit, certificate or agreement or instrument to
+which any of the Company or the Subsidiaries is a party or to which any of their
+respective   properties  or  assets  are  subject,   (ii)  the   Certificate  of
+Incorporation  or bylaws of any of the Company or the  Subsidiaries  (or similar
+organizational document) or (iii) any statute,  judgment, decree, order, rule or
+regulation of any court or  governmental  agency or other body applicable to the
+Company or the Subsidiaries or any of their  respective  properties or assets or
+(b)  result in the  imposition  of any lien upon or with  respect  to any of the
+properties  or assets now owned or  hereafter  acquired by the Company or any of
+the  Subsidiaries;  which violation,  conflict,  breach,  default or lien would,
+individually or in the aggregate, have a Material Adverse Effect.
+
+                  (h) The audited consolidated  financial statements included in
+the Disclosure  Documents  present fairly the consolidated  financial  position,
+results of  operations,  cash flows and changes in  shareholders'  equity of the
+entities,  at the dates and for the  periods to which they  relate and have been
+prepared in accordance with generally accepted accounting  principles applied on
+a consistent basis; the interim  un-audited  consolidated  financial  statements
+included in the Disclosure  Documents present fairly the consolidated  financial
+position, results of operations and cash flows of the entities, at the dates and
+for the periods to which they relate subject to year-end audit  adjustments  and
+have been prepared in accordance with generally accepted  accounting  principles
+applied on a consistent basis with the audited consolidated financial statements
+included  therein;  the selected  financial and statistical data included in the
+
+                                      -4-
+
+<PAGE>
+
+Disclosure  Documents present fairly the information shown therein and have been
+prepared  and  compiled  on  a  basis  consistent  with  the  audited  financial
+statements included therein, except as otherwise stated therein; and each of the
+auditors previously engaged by the Company or to be engaged in the future by the
+Company  is an  independent  certified  public  accountant  as  required  by the
+Securities Act for an offering registered thereunder.
+
+                  (i) Except as described in the Disclosure Documents,  there is
+not pending or, to the knowledge of the Company,  threatened  any action,  suit,
+proceeding, inquiry or investigation, governmental or otherwise, to which any of
+the  Company  or the  Subsidiaries  is a  party,  or to which  their  respective
+properties or assets are subject,  before or brought by any court, arbitrator or
+governmental agency or body, that, if determined adversely to the Company or any
+such  Subsidiary,  would,  individually  or in the  aggregate,  have a  Material
+Adverse Effect or that seeks to restrain, enjoin, prevent the consummation of or
+otherwise  challenge the issuance or sale of the Securities to be sold hereunder
+or the application of the proceeds therefrom or the other transactions described
+in the Disclosure Documents.
+
+                  (j) The Company and the  Subsidiaries  own or possess adequate
+licenses or other rights to use all patents,  trademarks,  service marks,  trade
+names, copyrights and know-how that are necessary to conduct their businesses as
+described in the Disclosure  Documents.  None of the Company or the Subsidiaries
+has  received  any  written  notice  of  infringement  of (or  knows of any such
+infringement  of)  asserted  rights  of  others  with  respect  to any  patents,
+trademarks,  service  marks,  trade names,  copyrights or know-how that, if such
+assertion of infringement or conflict were sustained,  would, individually or in
+the aggregate, have a Material Adverse Effect.
+
+                  (k) Each of the Company  and the  Subsidiaries  possesses  all
+licenses,   permits,   certificates,   consents,  orders,  approvals  and  other
+authorizations  from,  and has made  all  declarations  and  filings  with,  all
+federal,  state, local and other governmental  authorities,  all self-regulatory
+organizations and all courts and other tribunals presently required or necessary
+to own or lease,  as the case may be, and to operate its  respective  properties
+and to carry on its respective  businesses as now or proposed to be conducted as
+set forth in the Disclosure Documents  ("PERMITS"),  except where the failure to
+obtain such Permits would not, individually or in the aggregate, have a Material
+Adverse  Effect and none of the Company or the  Subsidiaries  has  received  any
+notice of any  proceeding  relating to  revocation or  modification  of any such
+Permit,  except as described in the  Disclosure  Documents and except where such
+revocation or modification would not,  individually or in the aggregate,  have a
+Material Adverse Effect.
+
+                  (l) Subsequent to the respective dates as of which information
+is given in the Disclosure  Documents and except as described  therein,  (i) the
+Company and the  Subsidiaries  have not  incurred any  material  liabilities  or
+obligations, direct or contingent, or entered into any material transactions not
+in the ordinary course of business or (ii) the Company and the Subsidiaries have
+not purchased any of their  respective  outstanding  capital stock, or declared,
+paid or otherwise made any dividend or  distribution of any kind on any of their
+respective  capital stock or otherwise  (other than, with respect to any of such
+Subsidiaries, the purchase of capital stock by the Company), (iii) there has not
+been any material  increase in the long-term  indebtedness of the Company or any
+of the  Subsidiaries,  (iv)  there  has not  occurred  any  event or  condition,
+
+                                      -5-
+
+<PAGE>
+
+individually or in the aggregate,  that has a Material  Adverse Effect,  and (v)
+the  Company  and the  Subsidiaries  have not  sustained  any  material  loss or
+interference  with respect to their  respective  businesses or  properties  from
+fire, flood, hurricane,  earthquake,  accident or other calamity, whether or not
+covered by  insurance,  or from any labor  dispute or any legal or  governmental
+proceeding.
+
+                  (m) There are no material  legal or  governmental  proceedings
+nor are  there  any  material  contracts  or  other  documents  required  by the
+Securities  Act to be described in a  prospectus  that are not  described in the
+Disclosure Documents.  Except as described in the Disclosure Documents,  none of
+the  Company  or the  Subsidiaries  is in  default  under  any of the  contracts
+described  in the  Disclosure  Documents,  has received a notice or claim of any
+such default or has knowledge of any breach of such contracts by the other party
+or  parties  thereto,  except  for such  defaults  or  breaches  as  would  not,
+individually or in the aggregate, have a Material Adverse Effect.
+
+                  (n)  Each of the  Company  and the  Subsidiaries  has good and
+marketable title to all real property  described in the Disclosure  Documents as
+being owned by it and good and marketable  title to the leasehold  estate in the
+real  property  described  therein as being  leased by it, free and clear of all
+liens, charges, encumbrances or restrictions, except, in each case, as described
+in the  Disclosure  Documents  or  such as  would  not,  individually  or in the
+aggregate,  have a Material Adverse Effect.  All material leases,  contracts and
+agreements  to which the  Company  or any of the  Subsidiaries  is a party or by
+which any of them is bound are valid and enforceable  against the Company or any
+such  Subsidiary,  are, to the knowledge of the Company,  valid and  enforceable
+against the other party or parties thereto and are in full force and effect.
+
+                  (o) Each of the  Company  and the  Subsidiaries  has filed all
+necessary  federal,  state and foreign income and franchise tax returns,  except
+where the  failure to so file such  returns  would not,  individually  or in the
+aggregate,  have a Material Adverse Effect,  and has paid all taxes shown as due
+thereon;  and other than tax deficiencies which the Company or any Subsidiary is
+contesting in good faith and for which  adequate  reserves have been provided in
+accordance  with  generally  accepted  accounting  principles,  there  is no tax
+deficiency  that has been asserted  against the Company or any  Subsidiary  that
+would, individually or in the aggregate, have a Material Adverse Effect.
+
+                  (p) None of the Company or the Subsidiaries is, or immediately
+after the Closing Date will be, required to register as an "investment  company"
+or a company  "controlled by" an "investment  company" within the meaning of the
+Investment Company Act of 1940, as amended (the "INVESTMENT COMPANY ACT").
+
+                  (q)  None  of the  Company  or  the  Subsidiaries  or,  to the
+knowledge of any of such entities'  directors,  officers,  employees,  agents or
+controlling persons, has taken, directly or indirectly,  any action designed, or
+that might  reasonably be expected,  to cause or result in the  stabilization or
+manipulation of the price of the Common Stock.
+
+                  (r)  None of the  Company,  the  Subsidiaries  or any of their
+respective  Affiliates  (as  defined in Rule  501(b) of  Regulation  D under the
+Securities Act) directly,  or through any agent,  engaged in any form of general
+
+                                      -6-
+
+<PAGE>
+
+solicitation  or general  advertising  (as those terms are used in  Regulation D
+under the Securities  Act) in connection  with the offering of the Securities or
+engaged in any other  conduct that would cause such  offering to be constitute a
+public  offering  within  the  meaning of Section  4(2) of the  Securities  Act.
+Assuming the accuracy of the  representations and warranties of the Purchaser in
+Section 6 hereof,  it is not  necessary in connection  with the offer,  sale and
+delivery of the Securities to the Purchaser in the manner  contemplated  by this
+Agreement to register any of the Securities under the Securities Act.
+
+                  (s)  There  is no  strike,  labor  dispute,  slowdown  or work
+stoppage with the employees of the Company or any of the  Subsidiaries  which is
+pending  or,  to the  knowledge  of  the  Company  or  any of the  Subsidiaries,
+threatened.
+
+                  (t) Each of the Company and the  Subsidiaries  carries general
+liability  insurance  coverage  comparable  to other  companies  of its size and
+similar business.
+
+                  (u)  Each  of  the  Company  and  the  Subsidiaries  maintains
+internal  accounting  controls  which  provide  reasonable  assurance  that  (A)
+transactions  are executed in accordance with  management's  authorization,  (B)
+transactions  are recorded as necessary to permit  preparation  of its financial
+statements and to maintain  accountability for its assets, and and (C) access to
+its  material  assets  is  permitted  only  in  accordance   with   management's
+authorization.
+
+                  (v)  Except  for a Due  Diligence  fee  payable  to MAG, a due
+diligence  fee payable to Robinson  Reed,  Inc. and a broker fee payable to J.P.
+Turner & Company,  L.L.C., ("JP Turner") in the amount of $320,000,  the Company
+does not know of any claims for services, either in the nature of a finder's fee
+or financial  advisory fee, with respect to the offering of the  Securities  and
+the transactions contemplated by the Transaction Documents.
+
+                  (w)  The  Common  Stock  is  traded  on  the  Over-the-Counter
+Bulletin Board (the "OTC-BB").  Except as described in the Disclosure Documents,
+the  Company  currently  is not in  violation  of, and the  consummation  of the
+transactions  contemplated  by the Transaction  Documents will not violate,  any
+rule of the National Association of Securities Dealers.
+
+                  (x) The  Company is eligible to use SB-2 for the resale of the
+Conversion  Shares and the Warrant Shares by Purchaser or their  transferees and
+the Warrant Shares by Purchaser,  MAG or their  transferees.  The Company has no
+reason to believe  that it is not  capable of  satisfying  the  registration  or
+qualification  requirements (or an exemption  therefrom) necessary to permit the
+resale of the  Conversion  Shares and the Warrant Shares under the securities or
+"blue sky" laws of any jurisdiction within the United States.
+
+                  (y)  The  attached   Schedule  E  accurately  sets  forth  the
+Company's intended use of proceeds for the Purchase Price.
+
+         3. PURCHASE,  SALE AND DELIVERY OF THE SECURITIES.  On the basis of the
+representations,  warranties,  agreements  and  covenants  herein  contained and
+subject to the terms and  conditions  herein set forth,  the  Company  agrees to
+issue  and sell to the  Purchaser,  and  Purchaser  agree to  purchase  from the
+
+                                      -7-
+
+<PAGE>
+
+Company,  Thirty-Two  Thousand  (32,000) shares of Series A Stock at $100.00 per
+share in the amounts shown on the signature page hereto.  In connection with the
+purchase  and sale of  Series  A Stock,  for no  additional  consideration,  the
+Purchaser  and MAG will  receive  Warrants to purchase an aggregate of 8,010,012
+shares of Common Stock, subject to adjustment as set forth in the Warrants.  The
+Warrants  shall  be  allocated  as set  forth  on the  signature  page  to  this
+Subscription Agreement.
+
+         The closing of the transactions  described herein (the "CLOSING") shall
+take place at a time and on a date (the  "CLOSING  DATE") to be specified by the
+parties,  which will be no later than 5:00 p.m.  (Pacific  time) on November 30,
+2004.  On the Closing  Date,  the Company  shall  deliver  (a)  certificates  in
+definitive form for the Series A Stock in the names and amounts set forth on the
+signature page hereto,  (b) Warrants,  in the names and amounts set forth on the
+signature  page  hereto,   (c)  the  Subscription   Agreement,   Certificate  of
+Designation and Registration  Rights Agreement,  each duly executed on behalf of
+the  Company,  and (d) the  Opinion of Counsel  in the form  attached  hereto as
+EXHIBIT C. On the Closing Date,  Purchaser shall deliver (i) 66% of the Purchase
+Price or $2,112,000 by wire transfer of immediately available funds to an escrow
+account mutually acceptable to the parties, and (ii) the Subscription  Agreement
+and Registration Rights Agreement, each duly executed on behalf of the Purchaser
+and MAG. The Closing will occur when all documents and instruments  necessary or
+appropriate to effect the transactions  contemplated herein are exchanged by the
+parties  and all  actions  taken  at the  Closing  will be  deemed  to be  taken
+simultaneously.
+
+         Upon receipt of written  confirmation  from MAG that all  documents and
+instruments  have been duly  executed  and  delivered,  the escrow  holder shall
+release (a) to the Company,  the sum of $1,762,080 (b) to MAG, the sum of 66% of
+its Due  Diligence  Fee or $97,020  and the legal fees in the amount of $12,000,
+(c) to Robinson Reed, Inc., the sum 66% of its Due Diligence fee or $29,700, and
+(d) to JP Turner the sum of 66% of its broker fee or $211,200.
+
+         Provided that Company is not in default under  Paragraph  10(i) (iv) or
+(v) hereof,  the Purchaser  covenants and agrees to pay, within two trading days
+after  Company  files the  Registration  Statement  (as  defined in  Paragraph 9
+below),  the  balance  of the  Purchase  Price or  $913,920  to  Company by wire
+transfer of immediately available funds to an escrow account mutually acceptable
+to the parties.  The escrow  holder shall then release via wire  transfer (a) to
+MAG the balance of its Due  Diligence  fee in the amount of $49,980,  (d) to the
+Robinson  Reed,  Inc.,  the  balance of its Due  Diligence  fee in the amount of
+$15,300,  (c) to JP Turner  the  balance of its fee or  $108,800  and (d) to the
+Company, the balance of the Purchase Price totaling $913,920.
+
+         4. CERTAIN  COVENANTS OF THE COMPANY.  The Company covenants and agrees
+with each Purchaser as follows:
+
+                  (a) None of the  Company or any of its  Affiliates  will sell,
+offer for sale or solicit offers to buy or otherwise negotiate in respect of any
+"security" (as defined in the Securities Act) which could be integrated with the
+sale of the  Securities in a manner which would require the  registration  under
+the Securities Act of the Securities.
+
+                                      -8-
+
+<PAGE>
+
+
+                  (b) The  Company  will not  become,  at any time  prior to the
+expiration  of three  years  after the  Closing  Date,  an  open-end  investment
+company,  unit investment trust,  closed-end  investment  company or face-amount
+certificate company that is or is required to be registered under the Investment
+Company Act.
+
+                  (c) None of the proceeds of the Series A Stock will be used to
+reduce or retire  any  insider  note or  convertible  debt held by an officer or
+director of the Company.
+
+                  (d) Subject to Section 10 of this  Agreement,  the  Conversion
+Shares  and  the  Warrant   Shares   will  be   eligible   for  trading  on  the
+Over-the-Counter Bulletin Board or such market on which the Company's shares are
+subsequently  listed or traded,  immediately  following the effectiveness of the
+Registration Statement.
+
+                  (e) The  Company  will use best  efforts to do and perform all
+things  required to be done and  performed  by it under this  Agreement  and the
+other Transaction  Documents and to satisfy all conditions precedent on its part
+to the  obligations  of the  Purchaser  to purchase  and accept  delivery of the
+Securities.
+
+                  (f) The  Purchaser  shall have a right of first refusal on any
+financing in which the Company is the issuer of debt or equity  securities  from
+the date of Closing through and including  eighty-five  (85) days after the date
+the Registration Statement is declared "effective." The Purchaser shall exercise
+its right of first refusal  within five (5) trading days of the date the Company
+provides written notice to Purchaser of all material terms and conditions of the
+proposed  financing.  In the event  Purchaser  declines to exercise its right of
+first refusal, then Company shall be entitled to complete the proposed financing
+on the terms and conditions stated.
+
+         5.  CONDITIONS OF THE  PURCHASER'  OBLIGATIONS.  The obligation of each
+Purchaser to purchase  and pay for the  Securities  is subject to the  following
+conditions unless waived in writing by the Purchaser:
+
+                  (a)  The   representations   and  warranties  of  the  Company
+contained in this Agreement  shall be true and correct in all material  respects
+(other  than  representations  and  warranties  with a Material  Adverse  Effect
+qualifier,  which shall be true and correct as written) on and as of the Closing
+Date;  the  Company  shall  have  complied  in all  material  respects  with all
+agreements and satisfied all conditions on its part to be performed or satisfied
+hereunder at or prior to the Closing Date.
+
+                  (b) None of the issuance and sale of the  Securities  pursuant
+to this Agreement or any of the  transactions  contemplated  by any of the other
+Transaction  Documents shall be enjoined  (temporarily  or  permanently)  and no
+restraining  order or other  injunctive  order shall have been issued in respect
+thereof; and there shall not have been any legal action,  order, decree or other
+administrative proceeding instituted or, to the Company's knowledge,  threatened
+against  the Company or against any  Purchaser  relating to the  issuance of the
+Securities or any  Purchaser's  activities in connection  therewith or any other
+transactions  contemplated by this Agreement, the other Transaction Documents or
+the Disclosure Documents.
+
+                                      -9-
+
+<PAGE>
+
+                  (c) The Purchaser shall have received certificates,  dated the
+Closing Date and signed by the Chief  Executive  Officer and the Chief Financial
+Officer of the Company, to the effect of paragraphs 5(a) and (b).
+
+                  (d) The Purchaser  shall have received an opinion of Ronald J.
+Stauber,  Esq.,  with respect to the  authorization  of the Series A Stock,  the
+Conversion  Shares,  the  Warrants  and the Warrant  Shares and other  customary
+matters in the form attached hereto as EXHIBIT C.
+
+
+         6. REPRESENTATIONS AND WARRANTIES OF THE PURCHASER.
+
+                  (a) Each  Purchaser  and MAG  represents  and  warrants to the
+Company  that the  Securities  to be acquired  by it  hereunder  (including  the
+Conversion  Shares and the Warrant Shares that it may acquire upon conversion or
+exercise thereof, as the case may be) are being acquired for its own account for
+investment and with no intention of  distributing  or reselling such  Securities
+(including the Conversion Shares and the Warrant Shares that it may acquire upon
+conversion  or  exercise  thereof,  as the case may be) or any part  thereof  or
+interest  therein  in  any  transaction  which  would  be in  violation  of  the
+securities  laws of the United  States of America or any State.  Nothing in this
+Agreement,  however,  shall prejudice or otherwise limit a Purchaser's  right to
+sell or  otherwise  dispose  of all or any  part of such  Conversion  Shares  or
+Warrant Shares under an effective  registration  statement  under the Securities
+Act  and in  compliance  with  applicable  state  securities  laws or  under  an
+exemption from such  registration.  By executing this Agreement,  each Purchaser
+further represents that such Purchaser does not have any contract,  undertaking,
+agreement  or   arrangement   with  any  person  to  sell,   transfer  or  grant
+participation to any Person with respect to any of the Securities.
+
+                  (b) Each  Purchaser and MAG  understands  that the  Securities
+(including the Conversion Shares and the Warrant Shares that it may acquire upon
+conversion  or exercise  thereof,  as the case may be) have not been  registered
+under the  Securities Act and may not be offered,  resold,  pledged or otherwise
+transferred  except (a) pursuant to an  exemption  from  registration  under the
+Securities  Act (and,  if  requested  by the  Company,  based upon an opinion of
+counsel  acceptable  to the  Company) or pursuant to an  effective  registration
+statement  under the  Securities  Act and (b) in accordance  with all applicable
+securities laws of the states of the United States and other jurisdictions.
+
+         Each  Purchaser  and  MAG  agrees  to  the   imprinting,   so  long  as
+appropriate, of the following legend on the Securities (including the Conversion
+Shares and the Warrant  Shares that it may acquire upon  conversion  or exercise
+thereof, as the case may be):
+
+         THE  SHARES  OF  STOCK  EVIDENCED  BY THIS  CERTIFICATE  HAVE  NOT BEEN
+         REGISTERED UNDER THE U.S.  SECURITIES ACT OF 1933, AS AMENDED,  AND MAY
+         NOT BE OFFERED, SOLD, PLEDGED OR OTHERWISE TRANSFERRED  ("TRANSFERRED")
+         IN  THE  ABSENCE  OF  SUCH  REGISTRATION  OR  AN  APPLICABLE  EXEMPTION
+         THEREFROM. IN THE ABSENCE OF SUCH REGISTRATION,  SUCH SHARES MAY NOT BE
+         TRANSFERRED UNLESS, IF THE COMPANY REQUESTS, THE COMPANY HAS RECEIVED A
+         WRITTEN OPINION FROM COUNSEL IN FORM AND SUBSTANCE  SATISFACTORY TO THE
+
+
+                                      -10-
+
+<PAGE>
+
+
+         COMPANY STATING THAT SUCH TRANSFER IS BEING MADE IN COMPLIANCE WITH ALL
+         APPLICABLE FEDERAL AND STATE SECURITIES LAWS.
+
+         The  legend set forth  above may be removed if and when the  Conversion
+Shares or the Warrant Shares, as the case may be, are disposed of pursuant to an
+effective  registration  statement under the Securities Act or in the opinion of
+counsel  to the  Company  experienced  in the  area  of  United  States  Federal
+securities   laws  such  legends  are  no  longer   required  under   applicable
+requirements  of the  Securities  Act.  The Series A Stock,  the  Warrants,  the
+Conversion  Shares and the  Warrant  Shares  shall  also bear any other  legends
+required by applicable  Federal or state  securities  laws, which legends may be
+removed  when in the  opinion  of  counsel  to the  Company  experienced  in the
+applicable securities laws, the same are no longer required under the applicable
+requirements  of such  securities  laws. The Company agrees that it will provide
+each Purchaser,  upon request, with a substitute  certificate,  not bearing such
+legend at such  time as such  legend is no  longer  applicable.  Each  Purchaser
+agrees that, in  connection  with any transfer of the  Conversion  Shares or the
+Warrant Shares by it pursuant to an effective  registration  statement under the
+Securities  Act,  such  Purchaser  will  comply  with  all  prospectus  delivery
+requirements  of the  Securities  Act.  The  Company  makes  no  representation,
+warranty or agreement as to the availability of any exemption from  registration
+under the Securities  Act with respect to any resale of the Series A Stock,  the
+Warrants, the Conversion Shares or the Warrant Shares.
+
+                  (c) Each Purchaser and MAG is an "accredited  investor" within
+the meaning of Rule 501(a) of  Regulation D under the  Securities  Act.  Neither
+Purchaser nor MAG learned of the opportunity to acquire  Securities or any other
+security  issuable by the Company  through  any form of general  advertising  or
+public solicitation.
+
+                  (d) Each  Purchaser  and MAG  represents  and  warrants to the
+Company that it has such  knowledge,  sophistication  and experience in business
+and financial  matters so as to be capable of evaluating the merits and risks of
+the  prospective  investment  in the  Securities,  having  been  represented  by
+counsel,  and has so evaluated  the merits and risks of such  investment  and is
+able to bear the economic risk of such  investment  and, at the present time, is
+able to afford a complete loss of such investment.
+
+                  (e) Each Purchaser represents and warrants to the Company that
+(i) the  purchase  of the  Securities  to be  purchased  by it has been duly and
+properly  authorized  and this Agreement has been duly executed and delivered by
+it or on its behalf and constitutes the valid and legally binding  obligation of
+the Purchaser,  enforceable  against the Purchaser in accordance with its terms,
+subject  to  bankruptcy,   insolvency,   fraudulent  transfer,   reorganization,
+moratorium  and similar laws of general  applicability  relating to or affecting
+creditors'  rights  generally  and to general  principles  of  equity;  (ii) the
+purchase of the  Securities  to be  purchased  by it does not  conflict  with or
+violate its charter, by-laws or any law, regulation or court order applicable to
+it; and (iii) the  purchase of the  Securities  to be  purchased  by it does not
+impose any penalty or other onerous condition on the Purchaser under or pursuant
+to any applicable law or governmental regulation.
+
+                                      -11-
+
+<PAGE>
+
+                  (f) Each  Purchaser  and MAG  represents  and  warrants to the
+Company that neither it nor any of its directors,  officers,  employees, agents,
+partners, members, controlling persons or shareholders holding 5% or more of the
+Common Stock  outstanding on the Closing Date, has taken or will take,  directly
+or indirectly, any actions designed, or might reasonably be expected to cause or
+result in the de-stabilization or manipulation of the price of the Common Stock.
+
+                  (g)   Each   Purchaser   and  MAG   acknowledges   it  or  its
+representatives  have reviewed the Disclosure Documents and further acknowledges
+that it or its  representatives  have been afforded (i) the  opportunity  to ask
+such  questions  as it has deemed  necessary  of, and to receive  answers  from,
+representatives  of the  Company  concerning  the  terms and  conditions  of the
+offering  of the  Securities  and the  merits  and  risks  of  investing  in the
+Securities;  (ii) access to  information  about the  Company  and the  Company's
+financial condition, results of operations, business, properties, management and
+prospects  sufficient to enable it to evaluate its investment in the Securities;
+and (iii)  the  opportunity  to obtain  such  additional  information  which the
+Company possesses or can acquire without  unreasonable effort or expense that is
+necessary to verify the accuracy and  completeness of the information  contained
+in the Disclosure Documents.
+
+                  (h) Each  Purchaser  and MAG  represents  and  warrants to the
+Company that it has based its investment  decision  solely upon the  information
+contained in the  Disclosure  Documents and such other  information  as may have
+been provided to it or its  representatives  by the Company in response to their
+inquiries,  and has not based its  investment  decision on any research or other
+report  regarding  the  Company  prepared  by  any  third  party  ("THIRD  PARTY
+REPORTS"). Each Purchaser understands and acknowledges that (i) the Company does
+not  endorse  any Third  Party  Reports  and (ii) its actual  results may differ
+materially from those projected in any Third Party Report.
+
+                  (i) Each Purchaser and MAG understands and  acknowledges  that
+(i)  any  forward-looking  information  included  in  the  Disclosure  Documents
+supplied to Purchaser by the Company or its  management  is subject to risks and
+uncertainties,  including  those  risks  and  uncertainties  set  forth  in  the
+Disclosure  Documents;   and  (ii)  the  Company's  actual  results  may  differ
+materially  from  those  projected  by the  Company  or its  management  in such
+forward-looking information.
+
+                  (j) Each Purchaser and MAG understands and  acknowledges  that
+(i)  the  Securities  are  offered  and  sold  without  registration  under  the
+Securities  Act in a  private  placement  that is exempt  from the  registration
+provisions of the  Securities  Act and (ii) the  availability  of such exemption
+depends in part on, and that the  Company and its  counsel  will rely upon,  the
+accuracy and truthfulness of the foregoing  representations and Purchaser hereby
+consents to such reliance.
+
+         7. COVENANTS OF PURCHASER NOT TO SHORT STOCK.  Purchaser,  on behalf of
+themselves and their  affiliates,  hereby covenant and agree not to, directly or
+indirectly,  offer to "short sell", contract to "short sell" or otherwise "short
+sell" the securities of the Company,  including,  without limitation,  shares of
+Common Stock that will be received as a result of the conversion of the Series A
+Stock or the exercise of the Warrants.
+
+                                      -12-
+
+<PAGE>
+
+
+         8. TERMINATION.
+
+                  (a) This Agreement may be terminated in the sole discretion of
+the Company by notice to each Purchaser if at the Closing Date:
+
+                           (i) the  representations  and warranties  made by any
+Purchaser in Section 6 are not true and correct in all material respects; or
+
+                           (ii) as to the  Company,  the sale of the  Securities
+hereunder (i) is prohibited or enjoined by any  applicable  law or  governmental
+regulation  or (ii)  subjects the Company to any penalty,  or in its  reasonable
+judgment,  other onerous  condition  under or pursuant to any  applicable law or
+government  regulation that would materially  reduce the benefits to the Company
+of the sale of the Securities to such Purchaser, so long as such regulation, law
+or  onerous  condition  was  not in  effect  in such  form  at the  date of this
+Agreement.
+
+                  (b) This  Agreement  may be terminated by any Purchaser or MAG
+by notice to the Company  given in the event that the Company shall have failed,
+refused or been  unable to satisfy  all  material  conditions  on its part to be
+performed or satisfied  hereunder on or prior to the Closing  Date,  or if after
+the  execution  and  delivery of this  Agreement  and  immediately  prior to the
+Closing  Date,  trading in  securities  of the  Company on the  Over-the-Counter
+Bulletin Board shall have been suspended.
+
+                  (c) This Agreement may be terminated by mutual written consent
+of all parties.
+
+         9.  REGISTRATION.  On or before  January  15,  2005 (the  "Registration
+Date"), the Company shall file a Registration  Statement on Form SB-2 or S3 with
+the SEC  registering  the maximum  number of shares of Common Stock to be issued
+upon   conversion  of  the   Preferred   Stock  and  exercise  of  the  Warrants
+(collectively,  the "REGISTRABLE SECURITIES"),  as set forth in the Registration
+Rights  Agreement  attached  hereto as Exhibit D. The Company shall use its best
+efforts to have the  Registration  Statement  declared  effective within 80 days
+after the initial filing with the SEC.
+
+         10. EVENT OF DEFAULT.  If an Event of Default (as defined below) occurs
+and remains uncured for a period of 5 days, the Purchaser and MAG shall have the
+right  to  exercise  any or all of the  rights  given to the  Purchaser  and MAG
+relating  to  the  Securities,  as  further  described  in  the  Certificate  of
+Designations.  In addition,  the price at which the shares of Series A Stock may
+be converted into Common Stock shall be reduced from 85% of the Market Price (as
+defined in the Certificate of Designations) to 75% of the Market Price,  subject
+to the  Ceiling  Price  and  Floor  Price  as those  terms  are  defined  in the
+Certificate of Designations.
+
+         The  Holder  need  not  provide  and  the  Company  hereby  waives  any
+presentment,  demand,  protest or other  notice of any kind,  and the Holder may
+immediately  and without  expiration of any grace period  enforce any and all of
+its rights and remedies  hereunder and all other remedies  available to it under
+applicable law. Such  declaration may be rescinded and annulled by Holder at any
+time prior to payment  hereunder.  No such  rescission or annulment shall affect
+any subsequent Event of Default or impair any right consequent thereon.
+
+                                      -13-
+
+<PAGE>
+
+         An "EVENT OF DEFAULT" shall include the  commencement by the Company of
+a  voluntary  case or  proceeding  under the  bankruptcy  laws or the  Company's
+failure to: (i) discharge or stay a bankruptcy proceeding within 60 days of such
+action being taken  against the Company,  (ii) file the  Registration  Statement
+with  the SEC on or  before  January  15,  2005,  (iii)  have  the  Registration
+Statement deemed effective by the SEC within 80 days after the date of filing of
+the Registration Statement;  (iv) maintain trading of the Company's Common Stock
+on the Over-the-Counter  Bulletin Board except for any periods when the stock is
+listed on the NASDAQ Small Stock Market,  the NASDAQ National Stock Market,  the
+AMEX or the NYSE,  (v) pay the expenses  referred to below or the Due  Diligence
+Fee within three (3) days after the Closing;  or (vi) deliver to  Purchaser,  or
+Purchaser'  broker,  as directed,  Common Stock that  Purchaser  have  converted
+within three (3) business days of such conversions.
+
+IN THE EVENT THAT THE COMPANY FAILS TO FILE THE REGISTRATION  STATEMENT WITH THE
+SEC ON OR  BEFORE  THE  REGISTRATION  DATE,  AS A  REMEDY  FOR  SUCH AN EVENT OF
+DEFAULT,  COMPANY  SHALL PAY TO  PURCHASER,  IN CASH,  $2,133  EACH DAY THAT THE
+REGISTRATION STATEMENT FILING IS DELAYED.  PURCHASER AND COMPANY ACKNOWLEDGE AND
+AGREE  THAT  THEY  HAVE  MUTUALLY   DISCUSSED  THE  IMPRACTICALITY  AND  EXTREME
+DIFFICULTY  OF FIXING THE ACTUAL  DAMAGES  PURCHASER  WOULD INCUR IN THE CASE OF
+SUCH AN EVENT OF DEFAULT,  AND THAT AS A RESULT OF SUCH  DISCUSSION  THE PARTIES
+AGREE THAT $2,133 FOR EACH DAY THAT THE REGISTRATION STATEMENT FILING IS DELAYED
+REPRESENTS A REASONABLE  ESTIMATE OF THE ACTUAL  DAMAGES WHICH  PURCHASER  WOULD
+INCUR IN THE CASE OF SUCH AN EVENT OF  DEFAULT.  BY SIGNING IN THE SPACES  WHICH
+FOLLOW,  PURCHASER AND COMPANY  SPECIFICALLY AND EXPRESSLY AGREE TO ABIDE BY THE
+TERMS AND PROVISIONS OF THIS PARAGRAPH CONCERNING LIQUIDATED DAMAGES.
+
+Purchaser:                              Company:
+Robinson Reed, Inc.,                    International Card Establishment, Inc.
+a British Virgin Islands Company        a Delaware corporation
+
+
+______________________________          By:           __________________________
+By:  Geoffrey Todd Magistrate           Name:         __________________________
+Its: Director                           Title:         _________________________
+Mercator Momentum Fund, L.P.            Mercator Momentum Fund III, L.P.
+
+
+By: Mercator Advisory Group, LLC        By: Mercator Advisory Group, LLC
+Its: General Partner                    Its: General Partner
+
+By: ______________________              By: ______________________
+Name: David Firestone                   Name: David Firestone
+Its: Managing Member                    Its: Managing Member
+
+                                      -14-
+
+<PAGE>
+
+
+         11. NOTICES. All communications hereunder shall be in writing and shall
+be hand delivered, mailed by first-class mail, couriered by next-day air courier
+or by facsimile and confirmed in writing (i) if to the Company, at the addresses
+set forth below,  or (ii) if to a Purchaser or MAG, to the address set forth for
+such party on the signature page hereto.
+
+If to the Company:
+
+300 Esplanade Drive, 19th Floor
+Oxnard, California 93036
+Attention: William Lopshire
+Telephone: 800-400-0206
+Facsimile:  866-556-7642
+
+with a copy to:
+
+Ronald J. Stauber, Inc.
+A Law Corporation
+1880 Century Park EastSuite 300
+Los Angeles, California 90067
+Attn: Ronald J. Stauber, Esq.
+Telephone:  310-556-0080
+Facsimile: 310-556-3687
+
+         All such notices and  communications  shall be deemed to have been duly
+given: (i) when delivered by hand, if personally  delivered;  (ii) five business
+days after being deposited in the mail,  postage  prepaid,  if mailed  certified
+mail,  return  receipt  requested;  (iii) one  business  day after being  timely
+delivered to a next-day air courier  guaranteeing  overnight delivery;  (iv) the
+date of transmission if sent via facsimile to the facsimile  number as set forth
+in this  Section or the  signature  page hereof prior to 6:00 p.m. on a business
+day, or (v) the  business day  following  the date of  transmission  if sent via
+facsimile at a facsimile  number set forth in this  Section or on the  signature
+page hereof after 6:00 p.m. or on a date that is not a business day. Change of a
+party's address or facsimile number may be designated hereunder by giving notice
+to all of the other parties hereto in accordance with this Section.
+
+         12.  SURVIVAL  CLAUSE.  The  respective  representations,   warranties,
+agreements  and  covenants  of the Company and the  Purchaser  set forth in this
+Agreement shall survive until the first anniversary of the Closing.
+
+         13. FEES AND  EXPENSES.  Within three (3) days of Closing,  the Company
+agrees  to pay  Purchaser'  legal  expenses  incurred  in  connection  with  the
+preparation and negotiation of the Transaction Documents up to $12,000. Any sums
+
+                                      -15-
+
+<PAGE>
+
+paid by Company upon  execution of the Term Sheet will be credited  against this
+amount.
+
+         14.  If any  action  at law or in equity is  necessary  to  enforce  or
+interpret  the terms of this  Agreement,  the  Warrants  or the  Certificate  of
+Designations,  the prevailing party or parties shall be entitled to receive from
+the other  party or parties  reasonable  attorneys'  fees,  costs and  necessary
+disbursements  in addition to any other relief to which the prevailing  party or
+parties may be entitled.
+
+         15.  SUCCESSORS.  This  Agreement  shall inure to the benefit of and be
+binding upon Purchaser,  MAG and the Company and their respective successors and
+legal  representatives,  and nothing expressed or mentioned in this Agreement is
+intended or shall be  construed  to give any other person any legal or equitable
+right, remedy or claim under or in respect of this Agreement,  or any provisions
+herein contained;  this Agreement and all conditions and provisions hereof being
+intended to be and being for the sole and exclusive  benefit of such persons and
+for the benefit of no other  person.  Neither the Company nor any  Purchaser may
+assign this  Agreement or any rights or obligation  hereunder  without the prior
+written consent of the other party.
+
+         16. NO WAIVER;  MODIFICATIONS  IN  WRITING.  No failure or delay on the
+part of the Company,  MAG or any  Purchaser in  exercising  any right,  power or
+remedy  hereunder  shall  operate as a waiver  thereof,  nor shall any single or
+partial  exercise  of any such  right,  power or  remedy  preclude  any other or
+further  exercise  thereof or the exercise of any other right,  power or remedy.
+The remedies  provided for herein are  cumulative  and are not  exclusive of any
+remedies that may be available to the Company, MAG or any Purchaser at law or in
+equity or  otherwise.  No waiver of or consent to any  departure by the Company,
+MAG or any  Purchaser  from any provision of this  Agreement  shall be effective
+unless signed in writing by the party entitled to the benefit thereof,  provided
+that notice of any such waiver  shall be given to each party hereto as set forth
+below.  Except as otherwise  provided  herein,  no  amendment,  modification  or
+termination of any provision of this Agreement shall be effective  unless signed
+in writing by or on behalf of each of the Company,  MAG and the  Purchaser.  Any
+amendment,  supplement or modification of or to any provision of this Agreement,
+any waiver of any provision of this Agreement,  and any consent to any departure
+by the Company,  MAG or any  Purchaser  from the terms of any  provision of this
+Agreement shall be effective only in the specific  instance and for the specific
+purpose for which made or given. Except where notice is specifically required by
+this Agreement,  no notice to or demand on the Company in any case shall entitle
+the  Company  to any other or  further  notice or  demand  in  similar  or other
+circumstances.
+
+         17.  ENTIRE  AGREEMENT.  This  Agreement,   together  with  Transaction
+Documents,  constitutes  the  entire  agreement  among the  parties  hereto  and
+supersedes  all  prior  agreements,  understandings  and  arrangements,  oral or
+written,  among the parties hereto with respect to the subject matter hereof and
+thereof.
+
+         18.  SEVERABILITY.  If any  provision  of this  Agreement is held to be
+invalid or unenforceable in any respect,  the validity and enforceability of the
+remaining  terms  and  provisions  of  this  Agreement  shall  not in any way be
+affected or impaired thereby.
+
+                                      -16-
+
+<PAGE>
+
+         19. APPLICABLE LAW. THE VALIDITY AND  INTERPRETATION OF THIS AGREEMENT,
+AND THE TERMS AND CONDITIONS SET FORTH HEREIN SHALL BE GOVERNED BY AND CONSTRUED
+IN ACCORDANCE WITH THE LAWS OF THE STATE OF CALIFORNIA, WITHOUT GIVING EFFECT TO
+PROVISIONS  RELATING TO  CONFLICTS OF LAW TO THE EXTENT THE  APPLICATION  OF THE
+LAWS OF ANOTHER  JURISDICTION  WOULD BE REQUIRED  THEREBY.  THE  PARTIES  HEREBY
+IRREVOCABLY AND UNCONDITIONALLY AGREE THAT ACTIONS, SUITS OR PROCEEDINGS ARISING
+OUT OF OR RELATING  TO THIS  AGREEMENT  MAY BE BROUGHT  ONLY IN STATE OR FEDERAL
+COURTS  LOCATED IN THE CITY OF LOS ANGELES,  CALIFORNIA AND HEREBY SUBMIT TO THE
+EXCLUSIVE JURISDICTION OF SUCH COURTS FOR SUCH PURPOSE.
+
+         20.  COUNTERPARTS.  This  Agreement  may be  executed  in  two or  more
+counterparts and may be delivered by facsimile transmission, each of which shall
+be deemed an original,  but all of which together  shall  constitute one and the
+same instrument.
+
+         21. If the foregoing  correctly  sets forth our  understanding,  please
+indicate your  acceptance  thereof in the space provided below for that purpose,
+whereupon this Agreement shall constitute a binding agreement among the Company,
+the Purchaser and MAG.
+
+Very truly yours,
+International Card Establishment, Inc.
+
+By:      ___________________________
+         Name:  ____________________
+         Title: ____________________
+
+
+                                      -17-
+<PAGE>
+
+
+ACCEPTED AND AGREED:
+
+MERCATOR ADVISORY GROUP, LLC                 ROBINSON REED, INC.
+
+By: __________________________               ______________________________
+    David Firestone
+    Managing Member                          By:  Geoffrey Todd Magistrate
+                                             Its: Director
+MERCATOR MOMENTUM FUND, L.P.                 MERCATOR MOMENTUM FUND III, L.P.
+
+
+By:  Mercator Advisory Group, LLC            By: Mercator Advisory Group, LLC
+Its: General Partner Its: General Partner
+
+By: ______________________                   By: ______________________
+Name: David Firestone                        Name: David Firestone
+Its: Managing Member                         Its: Managing Member
+
+Address for Notice to Robinson Reed, Inc.:   Addresses for Notice to Mercator
+                                             Momentum Fund, Mercator Momentum
+                                             Fund III, MAG:
+
+Robinson Reed, Inc.                          Mercator Advisory Group, LLC
+Road Town, Tortola                           555 South Flower Street, Suite 4500
+British Virgin Islands                       Los Angeles, California 90071
+Attn: Geoffrey Todd Magistrate, Director     Attention:  David Firestone
+Facsimile: 357-2533-9316                     Facsimile:  (213) 533-8285
+
+                                             with copy to:
+
+                                             David C. Ulich, Esq.
+                                             Sheppard, Mullin, Richter & Hampton
+                                             LLP
+                                             333 South Hope Street, 48th Floor
+                                             Los Angeles, California 90071
+                                             Facsimile: (213) 620-1398
+
+<TABLE>
+<CAPTION>
+
+-------------------------- ----------------- ----------------- ----------------- ----------------- -----------------
+                               MERCATOR          MERCATOR       ROBINSON REED,       MERCATOR           TOTAL
+                            MOMENTUM FUND,    MOMENTUM FUND          INC.        ADVISORY GROUP,
+                                  LP             III, LP                               LLC
+-------------------------- ----------------- ----------------- ----------------- ----------------- -----------------
+<S>                             <C>                <C>              <C>                                 <C>
+PURCHASE PRICE                  $ 1,300,000        $  900,000       $ 1,000,000         --              $ 3,200,000
+-------------------------- ----------------- ----------------- ----------------- ----------------- -----------------
+
+PREFERRED SHARES                     13,000             9,000            10,000         --                   32,000
+-------------------------- ----------------- ----------------- ----------------- ----------------- -----------------
+
+WARRANTS @ $0.75                    813,517           563,204           938,673         1,689,612         4,005,006
+-------------------------- ----------------- ----------------- ----------------- ----------------- -----------------
+WARRANTS @ $0.47                                                                                          4,005,006
+                                    813,517           563,204           938,673         1,689,612
+-------------------------- ----------------- ----------------- ----------------- ----------------- -----------------
+</TABLE>
+
+                                      -18-
+
+
+<PAGE>
+
+
+                                   SCHEDULE A
+
+   Direct and Indirect Subsidiaries of International Card Establishment, Inc.
+
+GlobalTech Leasing, Inc., a California   International Card Establishment, Inc.,
+corporation                              a Nevada corporation
+
+NEOS Merchant Solutions, Inc., a         Nevada iNetEvents, Inc., a
+Nevada corporation                       corporation
+
+
+
+
+                                      -1-
+
+
+<PAGE>
+
+
+
+                                   SCHEDULE B
+
+                             Company Capitalization
+
+Common Stock:
+
+         Authorized:                       100 million shares, $0.0005 par value
+         Issued and Outstanding:           28,396,324 shares
+
+Preferred Stock:
+
+         Authorized:                       10 million shares, $0.01 par value
+         Issued and Outstanding:           30,000 shares of Series A Preferred
+                                           Stock
+
+Common Stock Equivalents:
+
+         Warrants:                         Approximately 9.5 million at an
+                                           average exercise price of $0.62 per
+                                           share.
+
+                                      -1-
+<PAGE>
+
+
+                                   SCHEDULE C
+
+                               Other Arrangements
+
+
+
+Pursuant  to a  Proxy  Agreement  by and  between  the  Company,  NEOS  Merchant
+Solutions,  Inc. and NEOS Liquidating Trust, LLC, Company  shareholders  holding
+approximately  5  million  shares  of Common  Stock  have  agreed to vote in any
+election of directors for a nominee  designated by the NEOS  Liquidating  Trust,
+LLC.
+
+
+
+                                      -1-
+<PAGE>
+
+
+                                   SCHEDULE D
+
+                                   Violations
+
+                                       NA
+
+
+
+
+                                      -1-
+
+<PAGE>
+
+
+                                   SCHEDULE E
+
+                                 Use of Proceeds
+
+
+
+Acquisition of Lease Portfolio:                                    $1 million
+
+Acquisition of SCP Bankcard Portfolio:                             $700,000
+
+Bankcard Processing Center Joint Venture:                          $1.5 million
+
+                                                  Total:           $3.2 million
+
+
+
+                                      -2-
+
+<PAGE>
+
+
+
+                                    EXHIBIT A
+
+                                     Warrant
+
+
+
+
+                                      -3-
+
+<PAGE>
+
+
+
+                                    EXHIBIT B
+
+                         Certificate of Designations of
+                      Series A Convertible Preferred Stock
+                                       of
+                     International Card Establishment, Inc.
+
+
+
+
+
+                                      -4-
+
+
+<PAGE>
+
+
+
+                                    EXHIBIT C
+
+                              Form of Legal Opinion
+
+
+
+         1. The Company is a corporation duly incorporated, validly existing and
+in good standing under the laws of the State of Delaware,  with corporate  power
+to own its properties and to conduct its business.
+
+         2. The Company has the corporate power to execute,  deliver and perform
+the  Transaction  Documents,  including the Exhibits,  thereto.  The Transaction
+Documents  have been duly  authorized by all requisite  corporate  action by the
+Company  and  constitute  the  valid and  binding  obligations  of the  Company,
+enforceable in accordance  with their terms  (subject to  bankruptcy,  equitable
+principles and other customary exceptions).
+
+                  (a) The  authorized  capital stock of the Company  consists of
+____________ shares of Preferred Stock, and ____________ shares of Common Stock.
+
+                  (b) The shares of the Company's  Series A Stock have been duly
+authorized and, upon issuance,  delivery,  and payment  therefor as described in
+the   Subscription   Agreement,   will  be  validly   issued,   fully  paid  and
+non-assessable.
+
+                  (c)  The  shares  of  the  Company's  Common  Stock  initially
+issuable  upon  conversion  of the  shares of Series A Stock sold have been duly
+authorized  and reserved  for  issuance  and,  upon  issuance and delivery  upon
+conversion  of  the  Series  A  Stock  as  described  in  the   Certificate   of
+Designations, will be validly issued, fully paid and non-assessable.
+
+                  (d) The shares of the  Company's  Common Stock  issuable  upon
+exercise of the Warrants  have been duly  authorized  and reserved for issuance,
+and upon  issuance,  delivery,  and  payment  therefor  in  accordance  with the
+Warrants, will be validly issued, fully paid and non-assessable.
+
+         3. The Company's  execution and delivery of the  Transaction  Documents
+and the issue and sale of the Series A Stock and the Warrants,  on the terms and
+conditions set forth in the Subscription Agreement,  will not violate any law of
+the  United  States  or the State of  Delaware,  any rule or  regulation  of any
+governmental  authority or regulatory  body of the United States or the State of
+Delaware or any provision of the Company's Articles of Incorporation or Bylaws.
+
+         4. No consent, approval, order or authorization of, and no notice to or
+filing  with,  any  governmental  agency or body or any court is  required to be
+obtained or made by the Company for the  issuance and sale of the Series A Stock
+and the Warrants pursuant to the Transaction Documents, except such as have been
+obtained or made and such as may be required under applicable securities laws.
+
+
+                                      -1-
+
+<PAGE>
+
+
+         5. On the assumption that the  representations of the Purchaser and MAG
+in the  Subscription  Agreement are correct and complete,  the offer and sale of
+the Series A Stock and the  Warrants  pursuant to the terms of the  Subscription
+Agreement  are exempt  from the  registration  requirements  of Section 5 of the
+Securities Act of 1933, as amended,  and from the qualification  requirements of
+California securities statutes and regulations,  and, under such securities laws
+as they  presently  exist,  the  issuance  of the  Company's  Common  Stock upon
+conversion  of the Series A Stock and  exercise  of the  Warrants  would also be
+exempt from such registration and qualification requirements.
+
+         6. We know of no pending or overtly  threatened  action,  proceeding or
+governmental  investigation with respect to the Company's sale of Series A Stock
+and Warrants pursuant to the Transaction Documents.
+
+
+                                      -2-
+<PAGE>
+
+                                    EXHIBIT D
+                            TO SUBSCRIPTION AGREEMENT
+
+                          REGISTRATION RIGHTS AGREEMENT
+
+         AGREEMENT dated as of December 6, 2004, between Mercator Momentum Fund,
+L.P.,  Mercator  Momentum Fund III, L.P.,  ROBINSON REED,  INC. (the "FUND") and
+MERCATOR  ADVISORY  GROUP,  LLC  ("MAG")  (the Fund and MAG are ---  referred to
+individually as a "Holder" and collectively as the "HOLDERS"), and International
+Card Establishment, Inc., a Delaware corporation (the "COMPANY").
+
+
+         WHEREAS,  the Fund have purchased,  for an aggregate of $3,200,000,  an
+aggregate of 32,000 shares of Series A Convertible  Preferred Stock (the "SERIES
+A STOCK") from the Company,  and have the right to cause their Series A Stock to
+be converted into shares of Common Stock, $0.001 par value (the "COMMON STOCK"),
+of the Company,  pursuant to the conversion formula set forth in the Certificate
+of Determination;
+
+         WHEREAS,  each  Fund  and MAG have  acquired  Warrants  (together,  the
+"WARRANTS")  from the  Company,  pursuant to which the Holders have the right to
+purchase in the aggregate up to 8,010,012 shares of the Common Stock through the
+exercise of the Warrants;
+
+         WHEREAS,  the Company desires to grant to the Holders the  registration
+rights set forth herein with respect to the shares of Common Stock issuable upon
+the conversion of the Series A Stock and the exercise of the Warrants.
+
+         NOW, THEREFORE, the parties hereto mutually agree as follows:
+
+         I.  REGISTRABLE  SECURITIES.  As used  herein  the  terms  "REGISTRABLE
+SECURITY"  means  each of the  shares  of  Common  Stock  (i)  issued  upon  the
+conversion of the Series A Stock (the "CONVERSION SHARES") or (ii) upon exercise
+of the Warrants (the "WARRANT SHARES"),  provided, however, that with respect to
+any  particular  Registrable  Security,  such  security  shall  cease  to  be  a
+Registrable  Security when, as of the date of determination that (a) it has been
+effectively  registered  under  the  Securities  Act of 1933,  as  amended  (the
+"SECURITIES  ACT"), and disposed of pursuant thereto,  or (b) registration under
+the Securities Act is no longer required for the immediate  public  distribution
+of such security. The term "REGISTRABLE  SECURITIES" means any and/or all of the
+securities falling within the foregoing definition of a "Registrable  Security."
+In the event of any merger, reorganization,  consolidation,  recapitalization or
+other change in corporate  structure affecting the Common Stock, such adjustment
+shall be made in the definition of  "Registrable  Security" as is appropriate in
+order to prevent any dilution or enlargement  of the rights granted  pursuant to
+this Section 1.
+
+         II. REGISTRATION.
+
+         A. On or before January 15, 2005 (the "Registration Date"), the Company
+shall file a registration statement (the "Registration  Statement") on Form SB-2
+or S3 with the SEC  registering  the maximum number of shares of Common Stock to
+be issued upon  conversion of the Preferred  Stock and exercise of the Warrants.
+The  Company  shall  use its best  efforts  to have the  Registration  Statement
+
+                                      -1-
+
+<PAGE>
+
+declared  effective  within 80 days after the initial  filing with the SEC. Once
+effective,  the Company shall  maintain the  effectiveness  of the  Registration
+Statement  until  the  earlier  of (i)  the  date  that  all of the  Registrable
+Securities have been sold, or (ii) the date that the Company receives an opinion
+of counsel to the Company that all of the  Registrable  Securities may be freely
+traded without registration under the Securities Act, under Rule 144 promulgated
+under the Securities Act or otherwise.
+
+         B. The Company will initially include in the Registration  Statement as
+Registrable Securities 16,543,346 shares of Common Stock.
+
+         III. COVENANTS OF THE COMPANY WITH RESPECT TO REGISTRATION.
+
+         The Company covenants and agrees as follows:
+
+         A. The  Company  shall  use best  efforts  to  cause  the  Registration
+Statement  to become  effective  with the SEC as promptly as possible  and in no
+event more than 80 days after it is filed with the SEC.  If any stop order shall
+be issued by the SEC in connection therewith, the Company shall use best efforts
+to obtain  promptly the removal of such order.  Following the effective  date of
+the Registration  Statement,  the Company shall, upon the request of any Holder,
+forthwith supply such reasonable number of copies of the Registration Statement,
+preliminary prospectus and prospectus meeting the requirements of the Securities
+Act, and any other  documents  necessary or incidental to the public offering of
+the Registrable  Securities,  as shall be reasonably  requested by the Holder to
+permit  the Holder to make a public  distribution  of the  Holder's  Registrable
+Securities.  The  obligations  of the  Company  hereunder  with  respect  to the
+Holder's  Registrable  Securities are subject to the Holder's  furnishing to the
+Company  such  appropriate  information  concerning  the  Holder,  the  Holder's
+Registrable   Securities  and  the  terms  of  the  Holder's  offering  of  such
+Registrable Securities as the Company may reasonably request in writing.
+
+         B. The Company  shall pay all costs,  fees and  expenses in  connection
+with the  Registration  Statement filed pursuant to Section 2 hereof  including,
+without limitation,  the Company's legal and accounting fees, printing expenses,
+and blue sky fees and  expenses;  provided,  however,  that each Holder shall be
+solely  responsible  for the  fees of any  counsel  retained  by the  Holder  in
+connection  with  such  registration  and any  transfer  taxes  or  underwriting
+discounts,  commissions or fees applicable to the Registrable Securities sold by
+the Holder pursuant thereto.
+
+         C. The Company  will take all actions  which may be required to qualify
+or register the Registrable  Securities  included in the Registration  Statement
+for the offer and sale under the  securities  or blue sky laws of such states as
+are reasonably  requested by each Holder of such  securities,  provided that the
+Company shall not be obligated to execute or file any general consent to service
+of process or to qualify as a foreign  corporation to do business under the laws
+of any such jurisdiction.
+
+                                      -2-
+
+
+<PAGE>
+
+         IV. ADDITIONAL TERMS.
+
+                  A. The Company  shall  indemnify and hold harmless the Holders
+and each underwriter, within the meaning of the Securities Act, who may purchase
+from or sell for any Holder,  any Registrable  Securities,  from and against any
+and all losses,  claims,  damages and liabilities caused by any untrue statement
+of  a  material  fact  contained  in  the  Registration  Statement,   any  other
+registration  statement  filed by the  Company  under  the  Securities  Act with
+respect to the registration of the Registrable  Securities,  any  post-effective
+amendment to such registration statements, or any prospectus included therein or
+caused by any omission to state  therein a material  fact  required to be stated
+therein or  necessary  to make the  statements  therein not  misleading,  except
+insofar as such losses,  claims,  damages or liabilities  are caused by any such
+untrue statement or omission based upon information  furnished or required to be
+furnished in writing to the Company by the Holders or underwriter  expressly for
+use therein,  which  indemnification  shall  include  each  person,  if any, who
+controls any Holder or underwriter  within the meaning of the Securities Act and
+each  officer,  director,  employee  and agent of each  Holder and  underwriter;
+provided, however, that the indemnification in this Section 4(a) with respect to
+any prospectus  shall not inure to the benefit of any Holder or underwriter  (or
+to the benefit of any person  controlling  any Holder or underwriter) on account
+of any  such  loss,  claim,  damage  or  liability  arising  from  the  sale  of
+Registrable  Securities by the Holder or underwriter,  if a copy of a subsequent
+prospectus   correcting  the  untrue  statement  or  omission  in  such  earlier
+prospectus  was provided to such Holder or  underwriter  by the Company prior to
+the subject sale and the subsequent  prospectus was not delivered or sent by the
+Holder or underwriter to the purchaser prior to such sale and provided  further,
+that the Company  shall not be obligated to so indemnify  any Holder or any such
+underwriter  or other person  referred to above unless the Holder or underwriter
+or other  person,  as the case may be,  shall  at the same  time  indemnify  the
+Company, its directors, each officer signing the Registration Statement and each
+person,  if any, who controls the Company  within the meaning of the  Securities
+Act, from and against any and all losses, claims, damages and liabilities caused
+by any  untrue  statement  of a  material  fact  contained  in the  Registration
+Statement,  any registration statement or any prospectus required to be filed or
+furnished by reason of this Agreement or caused by any omission to state therein
+a  material  fact  required  to be  stated  therein  or  necessary  to make  the
+statements therein not misleading,  insofar as such losses,  claims,  damages or
+liabilities  are  caused  by  any  untrue   statement  or  omission  based  upon
+information  furnished  in writing to the  Company by the Holder or  underwriter
+expressly for use therein.
+
+                  B. If for any reason the  indemnification  provided for in the
+preceding section is held by a court of competent jurisdiction to be unavailable
+to an indemnified  party with respect to any loss, claim,  damage,  liability or
+expense  referred  to  therein,   then  the  indemnifying   party,  in  lieu  of
+indemnifying such indemnified  party thereunder,  shall contribute to the amount
+paid or payable by the indemnified party as a result of such loss, claim, damage
+or liability in such  proportion as is appropriate to reflect the relative fault
+of the  indemnified  party  and the  indemnifying  party,  as well as any  other
+relevant equitable considerations.
+
+                  C.  Neither  the  filing of a  Registration  Statement  by the
+Company   pursuant  to  this  Agreement  nor  the  making  of  any  request  for
+prospectuses  by the Holder shall impose upon any Holder any  obligation to sell
+the Holder's Registrable Securities.
+
+                                      -3-
+
+<PAGE>
+
+                  D. Each  Holder,  upon receipt of notice from the Company that
+an  event  has  occurred  which  requires  a  Post-Effective  Amendment  to  the
+Registration Statement or a supplement to the prospectus included therein, shall
+promptly  discontinue  the  sale of  Registrable  Securities  until  the  Holder
+receives a copy of a supplemented or amended prospectus from the Company,  which
+the Company shall provide as soon as practicable after such notice.
+
+                  E. If the  Company  fails to keep the  Registration  Statement
+referred to above continuously  effective during the requisite period,  then the
+Company  shall,  promptly  upon the request of any Holder,  use best  efforts to
+update the Registration  Statement or file a new registration statement covering
+the Registrable Securities remaining unsold, subject to the terms and provisions
+hereof.
+
+                  F.  Each  Holder  agrees  to  provide  the  Company  with  any
+information or undertakings reasonably requested by the Company in order for the
+Company to include  any  appropriate  information  concerning  the Holder in the
+Registration  Statement or in order to promote  compliance by the Company or the
+Holder with the Securities Act.
+
+                  (g)  The  Company  agrees  that  it  shall  cause  each of its
+directors,  officers and  shareholders  owning ten percent  (10%) or more of the
+Company's  outstanding  Common  Stock to refrain  from selling any shares of the
+Company's  Common  Stock  until the  Registration  Statement  has been  declared
+effective.
+
+                  7. (h) Each  Holder,  on behalf of itself and its  affiliates,
+hereby  covenants  and agrees not to,  directly or  indirectly,  offer to "short
+sell",  contract to "short sell" or otherwise "short sell" any securities of the
+Company,  including,  without  limitation,  shares of Common  Stock that will be
+received as a result of the  conversion of the Series A Stock or the exercise of
+the Warrants.
+
+         8.
+
+         V.  GOVERNING  LAW.  The  Registrable  Securities  will be, if and when
+issued,  delivered in California.  This  Agreement  shall be deemed to have been
+made and  delivered  in the  State of  California  and shall be  governed  as to
+validity, interpretation,  construction, effect and in all other respects by the
+internal  substantive laws of the State of California,  without giving effect to
+the choice of law rules thereof.
+
+         VI.  AMENDMENT.  This  Agreement  may  only  be  amended  by a  written
+instrument executed by the Company and the Holders.
+
+         VII. ENTIRE AGREEMENT.  This Agreement constitutes the entire agreement
+of the parties hereto with respect to the subject matter hereof,  and supersedes
+all prior agreements and understandings of the parties,  oral and written,  with
+respect to the subject matter hereof.
+
+         VIII. EXECUTION IN COUNTERPARTS.  This Agreement may be executed in one
+or more  counterparts,  each of which  shall be deemed an  original,  but all of
+which together shall constitute one and the same document.
+
+                                      -4-
+
+<PAGE>
+
+         IX. NOTICES. All communications hereunder shall be in writing and shall
+be hand delivered, mailed by first-class mail, couriered by next-day air courier
+or by facsimile at the addresses set forth below.
+
+                  If to the Holders,      Mercator Advisory Group, LLC
+                                          Mercator Momentum Fund, Ltd.
+                                          Mercator Momentum Fund, III, Ltd.
+                                          555 South Flower Street, Suite 4500
+                                          Los Angeles, CA  90071
+                                          Attention: David Firestone
+                                          Facsimile: 213-533-8285
+
+                                          Robinson Reed, Inc.
+                                          Road Town, Tortola
+                                          British Virgin Islands
+                                          Attention: Geoffrey Todd Magistrate,
+                                          Director
+                                          Facsimile: 357-2533-9316
+
+                  With a copy to          Sheppard Mullin Richter & Hampton LLP
+                                          333 South Hope Street
+                                          48th Floor
+                                          Los Angeles, CA 90071-1448
+                                          Telephone No.: (213) 620-1780
+                                          Facsimile No.:  (213) 620-1398
+                                          Attention: David C. Ulich
+
+                  If to the Company,      International Card Establishment, Inc.
+                                          300 Esplanade Drive, 19th
+                                          Floor Oxnard, California 93036
+                                          Attention: William Lopshire
+                                          Telephone: 800-400-0206
+                                          Facsimile: 866-556-7642
+
+                  With a copy to          Ronald J. Stauber, Inc.
+                                          A Law Corporation
+                                          1880 Century Park East,
+                                          Suite 300
+                                          Los Angeles, California 90067
+                                          Telephone No.: 310-556-0080
+                                          Facsimile No.: 310-556-3687
+                                          Attention: Ronald Stauber, Esq.
+
+                                      -5-
+
+<PAGE>
+
+All such notices and communications shall be deemed to have been duly given: (i)
+when delivered by hand, if personally  delivered;  (ii) five business days after
+being deposited in the mail,  postage prepaid,  if mailed certified mail, return
+receipt  requested;  (iii) one business  day after being  timely  delivered to a
+next-day  air  courier  guaranteeing  overnight  delivery;   (iv)  the  date  of
+transmission if sent via facsimile to the facsimile  number as set forth in this
+Section or the  signature  page hereof prior to 4:00 p.m. on a business  day, or
+(v) the business day following the date of transmission if sent via facsimile at
+a facsimile  number set forth in this  Section or on the  signature  page hereof
+after  4:00 p.m.  or on a date that is not a business  day.  Change of a party's
+address or facsimile number may be designated  hereunder by giving notice to all
+of the other parties hereto in accordance with this Section.
+
+         X.  BINDING  EFFECT;   BENEFITS.  Any  Holder  may  assign  its  rights
+hereunder.  This  Agreement  shall inure to the benefit of, and be binding upon,
+the parties hereto and their respective heirs, legal representatives, successors
+and assigns. Nothing herein contained, express or implied, is intended to confer
+upon any person other than the parties hereto and their respective heirs,  legal
+representatives  and  successors,  any rights or remedies  under or by reason of
+this Agreement.
+
+         XI. HEADINGS. The headings contained herein are for the sole purpose of
+convenience  of reference,  and shall not in any way limit or affect the meaning
+or interpretation of any of the terms or provisions of this Agreement.
+
+         XII.  SEVERABILITY.  Any provision of this Agreement which is held by a
+court  of  competent  jurisdiction  to be  prohibited  or  unenforceable  in any
+jurisdiction(s) shall be, as to such jurisdiction(s),  ineffective to the extent
+of such  prohibition  or  unenforceability  without  invalidating  the remaining
+provisions of this Agreement or affecting the validity or enforceability of such
+provision in any other jurisdiction.
+
+         XIII. JURISDICTION. Each of the parties irrevocably agrees that any and
+all suits or proceedings based on or arising under this Agreement may be brought
+only in and shall be resolved in the federal or state courts located in the City
+of Los Angeles,  California and consents to the  jurisdiction of such courts for
+such  purpose.  Each  of  the  parties  irrevocably  waives  the  defense  of an
+inconvenient  forum to the  maintenance  of such suit or  proceeding in any such
+court.  Each of the parties  further  agrees that  service of process  upon such
+party  mailed by first class mail to the address set forth in Section 9 shall be
+deemed in every respect effective service of process upon such party in any such
+suit or  proceeding.  Nothing  herein  shall affect the right of either party to
+serve process in any other manner  permitted by law. Each of the parties  agrees
+that a final  non-appealable  judgment in any such suit or  proceeding  shall be
+conclusive and may be enforced in other  jurisdictions  by suit on such judgment
+or in any other lawful manner.
+
+         XIV.  ATTORNEYS'  FEES AND  DISBURSEMENTS.  If any  action at law or in
+equity is  necessary to enforce or interpret  the terms of this  Agreement,  the
+prevailing party or parties shall be entitled to receive from the other party or
+parties  reasonable  attorneys' fees and  disbursements in addition to any other
+relief to which the prevailing party or parties may be entitled.
+
+                                      -6-
+
+<PAGE>
+
+         IN WITNESS  WHEREOF,  this Agreement has been executed and delivered by
+the parties hereto as of the date first above written.
+
+
+                                         INTERNATIONAL CARD ESTABLISHMENT, INC.
+
+
+
+                                         By:   _________________________________
+
+                                         Name: _________________________________
+                                              Its: Chief Executive Officer
+
+                         ADDITIONAL SIGNATURES TO FOLLOW
+
+
+                                      -7-
+
+
+<PAGE>
+
+                                         HOLDERS:
+
+                                         MERCATOR MOMENTUM FUND, L.P.
+
+                                         By: MERCATOR ADVISORY GROUP, LLC
+                                         Its: General Partner
+
+
+                                         By:_________________________________
+                                         Name: David Firestone
+                                         Its:  Managing Member
+
+
+                                         MERCATOR MOMENTUM FUND III, L.P.
+
+                                         By: MERCATOR ADVISORY GROUP, LLC
+                                         Its: General Partner
+
+
+                                         By: ________________________________
+                                         Name: David Firestone
+                                         Its:  Managing Member
+
+
+                                         ROBINSON REED, INC.
+
+
+                                         By: ________________________________
+                                         Name: Geoffrey Todd Magistrate
+                                         Its:  Director
+
+
+                                         MERCATOR ADVISORY GROUP, LLC
+
+
+                                         By: ________________________________
+                                         Name: David Firestone
+                                         Its:  Managing Member
+
+                                      -8-
+
+
+</TEXT>
+</DOCUMENT>

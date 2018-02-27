@@ -1,0 +1,1202 @@
+<DOCUMENT>
+<TYPE>EX-10.1
+<SEQUENCE>2
+<FILENAME>v010551_ex10-1.txt
+<TEXT>
+                         COMMON STOCK PURCHASE AGREEMENT
+
+THIS COMMON  STOCK  PURCHASE  AGREEMENT  is entered  into as of this 23rd day of
+December, 2004 (this "Agreement"),  by and between the seller listed on Schedule
+1.1 (the "Seller"), the Purchasers listed on Schedule 1.1 (the "Purchasers") and
+Autocarbon, Inc., a Delaware corporation ("ACB" or the "Company") with an office
+located at 126 East 83rd Street, Suite 3B, New York, NY 10028.
+
+      WHEREAS,  the Seller owns an aggregate of 31,100,000 shares (the "Shares")
+of common stock, par value $.0001 per share of the Company (the "Common Stock");
+and
+
+WHEREAS,  the  Purchasers  desire to purchase  from the  Seller,  and the Seller
+desires to sell to the  Purchasers,  29,500,000  of the Shares  (the  "Purchased
+Shares") upon the terms and conditions set forth in this Agreement.
+
+NOW,  THEREFORE,  in  consideration  of the premises  and the mutual  agreements
+contained  in this  Agreement,  the  Purchasers  and the Seller  hereby agree as
+follows:
+
+                                    ARTICLE 1
+                     SALE AND/OR CANCELLATION OF THE SHARES
+
+Section 1.1 Sale of the Shares. Subject to the terms and conditions set forth in
+this Agreement, Seller agrees to sell, transfer and assign to the Purchasers and
+the Purchasers agrees to purchase from the Seller the Purchased  Shares,  for an
+aggregate purchase price of $175,000 (the "Purchase Price").
+
+Section 1.2  Allocation of the Shares.  The  proportion of the Purchased  Shares
+purchased and the Purchase  Price to be paid, by the  Purchasers is set forth on
+Schedule 1.1 attached hereto.
+
+Section 1.3 Purchase Price. The Purchase Price shall be payable in two tranches;
+(i) an initial payment of TWENTY FIVE THOUSAND  DOLLARS  ($25,000) (the "Initial
+Payment"),  previously  paid into escrow (to the Attorney Trust Account of Roger
+L. Fidler), and the remaining portion of the Purchase Price of ONE HUNDRED FIFTY
+THOUSAND  DOLLARS  ($150,000) shall be paid at closing in good funds (the "Final
+Payment") so long as (a) the conditions  precedent set forth in Article 7 hereof
+have been  waived or  satisfied  in  accordance  with such  article and (b) this
+Agreement has not been terminated pursuant to Article 8 hereof.
+
+                                    ARTICLE 2
+                              CLOSING AND DELIVERY
+
+Section 2.1 Closing Date. Upon the terms and subject to the conditions set forth
+herein,  the  consummation of the purchase and sale of the Purchased Shares (the
+"Closing") shall be held on December 27, 2004 (the "Closing Date").  The Closing
+shall take place at the offices of Roger L. Fidler, 400 Grove Street, Glen Rock,
+NJ 07452 or by the  exchange of  documents  and  instruments  by mail,  courier,
+telecopy  and wire  transfer to the extent  mutually  acceptable  to the parties
+hereto.
+
+                                       1
+<PAGE>
+
+Section 2.2 Delivery at Closing. At the Closing:
+
+The Seller shall deliver to the Purchasers stock  certificates  representing the
+Purchased Shares,  duly endorsed for transfer to the Purchasers,  as applicable,
+and accompanied by, (i) if required by the Company's  transfer agent, an opinion
+of counsel reasonably acceptable to the Company, the Purchaser and the Company's
+transfer  agent and (ii) stock  powers or other  instruments  of  transfer  duly
+executed to the Purchasers,  with signature medallion  guaranteed,  and with all
+requisite documentary or transfer tax stamps affixed.
+
+                                    ARTICLE 3
+            REPRESENTATIONS AND WARRANTIES OF SELLER AND THE COMPANY
+
+Seller and the  Company  jointly  and  severally  represent  and  warrant to the
+Purchasers that:
+
+Section 3.1 Existence and Power. ACB is a corporation duly incorporated, validly
+existing  and in good  standing  under the laws of the State of Delaware and has
+all corporate powers and all  governmental  licenses,  authorizations,  permits,
+consents and approvals  required to carry on its business as now conducted.  ACB
+is duly qualified or authorized to do business as a foreign  corporation  and is
+in good standing under the laws of each  jurisdiction in which it owns or leases
+real property and each other  jurisdiction  in which the conduct of its business
+or the ownership of its properties requires such qualification or authorization,
+except  where the failure to be so qualified  would not have a material  adverse
+effect on the  business,  assets or financial  condition  of Company  taken as a
+whole  ("Material  Adverse  Effect").   ACB  has  heretofore  delivered  to  the
+Purchasers  true and complete  copies of the  Certificate of  Incorporation,  as
+amended, and By-laws, each as currently in effect.
+
+Section  3.2  Authorization;   No  Agreements.   The  execution,   delivery  and
+performance by Seller of this  Agreement,  the  performance  of its  obligations
+hereunder,  and the  consummation of the  transactions  contemplated  hereby are
+within  the  Seller's  powers.  Seller has full legal  capacity  to execute  and
+deliver this Agreement and perform his obligations hereunder. This Agreement has
+been duly and validly executed and delivered by the Seller and is a legal, valid
+and binding obligation of the Seller,  enforceable  against Seller in accordance
+with its terms.  The execution,  delivery and  performance by the Seller of this
+Agreement  does  not  violate  any  contractual  restriction  contained  in  any
+agreement  which  binds or affects  or  purports  to bind or affect the  Seller.
+Neither the Seller nor the Company is a party to any agreement, written or oral,
+creating  rights in respect of any of the Shares on the part of any third  party
+or  relating  to the voting of the  Shares.  Seller is the  lawful  owner of the
+Shares, free and clear of all security interests, liens, encumbrances,  equities
+and other charges.  Seller further  represents that it does not beneficially own
+any options or warrants or other rights to purchase  shares of the Common Stock.
+
+                                       2
+<PAGE>
+
+There  are no  outstanding  or  authorized  options,  warrants,  rights,  calls,
+commitments,  conversion  rights,  rights of exchange or other agreements of any
+character, contingent or otherwise, providing for the purchase, issuance or sale
+of any of the  Shares,  or any  arrangements  that  require or permit any of the
+Shares to be voted by or at the discretion of anyone other than the Seller,  and
+there are no restrictions of any kind on the transfer of any of the Shares other
+than (a)  restrictions  on transfer  imposed by the  Securities  Act of 1933, as
+amended  (the  "Securities  Act") and (b)  restrictions  on transfer  imposed by
+applicable state securities or "blue sky" laws.
+
+Section 3.3 Capitalization.
+
+(a) The authorized  capital stock of the Company consists of 100,000,000  shares
+of the Common Stock, par value $0.0001 per share, of which 34,156,215 shares are
+issued and  outstanding.  All of the issued  and  outstanding  shares of capital
+stock of the Company have been duly  authorized and validly issued and are fully
+paid and  nonassessable  and were not issued in violation of any  preemptive  or
+similar rights. All of the issued and outstanding shares of capital stock of the
+Company have been offered, issued and sold by the Company in compliance with all
+applicable  federal and state  securities laws. No securities of the Company are
+entitled to preemptive or similar  rights,  and no person,  natural or otherwise
+("Person"),  has  any  right  of  first  refusal,  preemptive  right,  right  of
+participation,   or  any  similar  right  to  participate  in  the  transactions
+contemplated hereby. There are no outstanding options,  warrants,  script rights
+to subscribe to, calls or commitments of any character  whatsoever  relating to,
+or securities,  rights or obligations  convertible into or exchangeable  for, or
+giving any  Person  any right to  subscribe  for or  acquire,  any shares of the
+Common Stock, or contracts, commitments, understandings or arrangements by which
+the  Company is or may  become  bound to issue  additional  shares of the Common
+Stock, or securities or rights  convertible or  exchangeable  into shares of the
+Common Stock.  The issuance and sale of the Shares will not obligate the Company
+to issue shares of the Common  Stock or other  securities  to any Person  (other
+than the  Purchaser)  and shall not  result in a right of any  holder of Company
+securities  to adjust the  exercise,  conversion,  exchange or reset price under
+such securities.
+
+(b) There are no  outstanding  obligations,  contingent or otherwise,  of ACB to
+redeem,  purchase  or  otherwise  acquire  or issue any  capital  stock or other
+securities of ACB.
+
+(c) There are no shareholder  agreements,  voting trusts or other  agreements or
+understandings  to which ACB or Seller is a party or by which either of them are
+bound relating to the voting of any shares of the capital stock of ACB.
+
+(e) The Shares,  when delivered in accordance  with the terms of this Agreement,
+shall be validly issued,  fully paid and non-assessable and the Shares shall not
+be  subject to any lien,  charge,  security  interest  or other  encumbrance  or
+preemptive or other similar right.
+
+Section 3.4 Subsidiary. ACB has no subsidiaries.
+
+                                       3
+<PAGE>
+
+Section 3.5 Financial Statements.
+
+a) SEC Reports; Financial Statements. The Company has filed all reports required
+to be filed by it under the Securities  Act and the  Securities  Exchange Act of
+1934, as amended (the "Exchange  Act"),  including  pursuant to Section 13(a) or
+15(d) of the Exchange  Act,  since its inception as a public  reporting  company
+(the  foregoing  materials  being  collectively  referred  to herein as the "SEC
+Reports") on a timely  basis or has  received a valid  extension of such time of
+filing and has filed any such SEC Reports  prior to the  expiration  of any such
+extension,  except with respect to the Company's late-filed Forms 10-KSB for the
+fiscal years  ending  September  30, 2003 and March 31,  2004,  which were filed
+April 23, 2004, and July 13, 2004,  respectively;  Form 8-K filed July 13, 2004;
+and Form 10-QSB for the quarter ending June 30, 2004,  which was filed September
+8, 2004.  The Seller has  identified and made available to the Purchasers a copy
+of all  SEC  Reports  filed  within  the 10  days  preceding  the  date  of this
+Agreement.  As of  their  respective  dates,  the SEC  Reports  complied  in all
+material  respects with the  requirements of the Securities Act and the Exchange
+Act and the rules and regulations of the Commission promulgated thereunder,  and
+none of the SEC  Reports,  when  filed,  contained  any  untrue  statement  of a
+material fact or omitted to state a material fact required to be stated  therein
+or  necessary  in  order  to  make  the  statements  therein,  in  light  of the
+circumstances  under  which  they  were  made,  not  misleading.  The  financial
+statements  of the Company  included in the SEC Reports  comply in all  material
+respects with applicable  accounting  requirements and the rules and regulations
+of the Commission with respect thereto as in effect at the time of filing.  Such
+financial  statements have been prepared in accordance  with generally  accepted
+accounting  principles applied on a consistent basis during the periods involved
+("GAAP"),  except as may be otherwise specified in such financial  statements or
+the notes  thereto,  and fairly  present in all material  respects the financial
+position  of the  Company and its  consolidated  subsidiaries  as of and for the
+dates thereof and the results of operations  and cash flows for the periods then
+ended,  subject,  in the case of unaudited  statements,  to normal,  immaterial,
+year-end audit adjustments.
+
+(b) Except as set forth in its Form  10-KSB for the fiscal  year ended March 31,
+2004, ACB has not been engaged in any business activity since at least March 31,
+2003.
+
+(c) Since the date of the  filing of its  annual  report on Form  10-KSB for the
+period  ended  March 31,  2004,  except  as  specifically  disclosed  in the SEC
+Reports: (i) there has been no event,  occurrence or development that has had or
+that could result in a material  adverse effect on (x) the condition  (financial
+or  otherwise),  assets,  liabilities or properties of the Company or (y) on the
+timely  consummation of the transactions  contemplated  hereby; (ii) the Company
+has not incurred any  liabilities  (contingent  or  otherwise) or amended of any
+material term of any outstanding security; (iii) the Company has not altered its
+method of accounting  or the identity of its auditors;  (iv) the Company has not
+declared or made any dividend or  distribution  of cash or other property to its
+stockholders or purchased, redeemed or made any agreements to purchase or redeem
+any  shares of its  capital  stock;  (v) the  Company  has not issued any equity
+securities to any officer,  director or Affiliate (as defined  below);  (vi) the
+Company has not made any loan, advance or capital contributions to or investment
+in any  Person;  (vii) the  Company  has not  entered  into any  transaction  or
+commitment  made,  or any contract or agreement  entered  into,  relating to its
+business or any of its assets  (including the  acquisition or disposition of, or
+creation of a lien on, any assets) or any  relinquishment by ACB of any contract
+or other right;  (viii) the Company has not granted any severance or termination
+pay to any current or former director,  officer or employee of ACB, or increased
+the benefits payable under any existing severance or termination pay policies or
+employment  agreements or entered into any employment,  deferred compensation or
+other similar  agreement (or any amendment to any such existing  agreement) with
+any current or former director, officer or employee of ACB; (ix) the Company has
+
+
+                                       4
+<PAGE>
+
+not  established,  adopted or amended (except as required by applicable law) any
+collective  bargaining,  bonus,  profit sharing,  thrift,  pension,  retirement,
+deferred  compensation,  compensation,  stock option,  restricted stock or other
+benefit plan or arrangement covering any current or former director,  officer or
+employee of ACB; (x) the Company has not  increased the  compensation,  bonus or
+other  benefits  payable or  otherwise  made  available to any current or former
+director,  officer or  employee  of ACB;  (xi) the  Company has not made any tax
+election or any  settlement or compromise of any tax  liability,  in either case
+that is material to ACB or entered  into any  transaction  by the Company not in
+the ordinary course of business.
+
+Section 3.6 No Liabilities or Debts. There are no liabilities or debts of ACB of
+any  kind  whatsoever,   whether  accrued,  contingent,   absolute,  determined,
+determinable or otherwise, and there is no existing condition,  situation or set
+of  circumstances  which  could  reasonably  be  expected  to  result  in such a
+liability  or  debt.  The  Company  is not a  guarantor  of or  liable  for  any
+indebtedness or obligation of any other person, firm or corporation.
+
+Section 3.7 Litigation.  There is no (a) action, suit,  investigation,  audit or
+proceeding  pending  against,  or, to the best  knowledge of the Seller and ACB,
+threatened or  contemplated  against or  affecting,  ACB or any of its assets or
+properties before or by any court or arbitrator or any governmental body, agency
+or official or (b) injunction,  outstanding judgment,  restraining order, decree
+or other  order of any  nature to which the  Company  is or may be subject or to
+which the  business,  assets or  property  of the  Company is or may be subject,
+except an action  pending  in the Nassau  County  Supreme  Court  brought by the
+Seller and ACB against  attorneys  Neil Kaufman and John Penn,  d/b/a  Kaufman &
+Associates,  L.L.C.  for  damages  and the  return  of  certain  documents.  The
+defendants have  threatened to  counterclaim  against ACB and Seller for various
+violations, including securities law violations, none of which have any merit in
+the opinion of counsel. Neither the Company, nor any officer, key employee or 5%
+or more stockholder,  including the Seller,  of the Company,  in his, her or its
+capacity as such,  is in default  with respect to any order,  writ,  injunction,
+decree,  ruling  or  decision  of any  court,  commission,  board  or any  other
+government  agency.  The Commission has not issued any stop order or other order
+suspending the effectiveness of any registration  statement filed by the Company
+under the Exchange Act or the Securities Act.
+
+                                       5
+<PAGE>
+
+Section  3.8  Taxes.  (a) ACB has (i) duly  filed  with the  appropriate  taxing
+authorities  all tax  returns  required  to be filed by or with  respect  to its
+business,  including with respect to the Subsidiary, and all such duly filed tax
+returns are true,  correct and complete in all material  respects in relation to
+any and all applicable taxes, fees, levies, duties, tariffs,  imposts, and other
+charges of any kind (together with any and all interest, penalties, additions to
+tax  and  additional  amounts  imposed  with  respect  thereto)  imposed  by any
+government  or taxing  authority,  including  taxes or other  charges on or with
+respect  to income,  franchises,  windfall  or other  profits,  gross  receipts,
+property,  sales,  use,  capital stock,  payroll,  employment,  social security,
+workers' compensation,  unemployment compensation,  or net worth; taxes or other
+charges in the nature of excise, withholding, ad valorem, stamp, transfer, value
+added,  or gains  taxes;  license,  registration  and  documentation  fees;  and
+customs' duties,  tariffs,  and similar  charges,  and (ii) paid in full or made
+adequate provisions for on its balance sheet (in accordance with GAAP) all taxes
+shown to be due on such tax  returns.  There  are no liens  for  taxes  upon the
+assets of ACB. ACB has not received any notice of audit,  is not  undergoing any
+audit of its tax  returns,  and has not  received  any notice of  deficiency  or
+assessment  from any taxing  authority with respect to liability for taxes which
+has not been  fully  paid or  finally  settled.  There  have been no  waivers of
+statutes of  limitations  by ACB with  respect to any tax  returns.  ACB has not
+filed a request  with the  Internal  Revenue  Service for changes in  accounting
+methods within the last three years which change would affect the accounting for
+tax purposes,  directly or indirectly,  of its business. ACB has not executed an
+extension  or  waiver  of  any  statute  of  limitations  on the  assessment  or
+collection  of any taxes  due  (excluding  such  statutes  that  relate to years
+currently under  examination by the Internal Revenue Service or other applicable
+taxing authorities) that is currently in effect.
+
+Section  3.9  Internal  Accounting  Controls;  Sarbanes-Oxley  Act of 2002.  The
+Company is in compliance  with the  requirements  of the  Sarbanes-Oxley  Act of
+2002. The Company maintains a system of internal  accounting controls sufficient
+to provide reasonable assurance that (i) transactions are executed in accordance
+with  management's  general or specific  authorizations,  (ii)  transactions are
+recorded  as  necessary  to  permit  preparation  of  financial   statements  in
+conformity  with GAAP and to  maintain  asset  accountability,  (iii)  access to
+assets is permitted  only in accordance  with  management's  general or specific
+authorization,  and (iv) the recorded accountability for assets is compared with
+the existing assets at reasonable intervals and appropriate action is taken with
+respect to any differences.  The Company has established disclosure controls and
+procedures  (as defined in Exchange Act Rules  13a-15(e) and  15d-15(e)) for the
+Company and designed  such  disclosures  controls and  procedures to ensure that
+material  information  relating to the Company,  is made known to the certifying
+officers by others  within  those  entities,  particularly  during the period in
+which  the  Company's  Form  10-KSB  or  10-QSB,  as the case  may be,  is being
+prepared.  The Company's certifying officers have evaluated the effectiveness of
+the Company's  controls and procedures as of the date of its most recently filed
+periodic report (such date, the "Evaluation Date"). The Company presented in its
+most recently filed periodic report the  conclusions of the certifying  officers
+about the effectiveness of the disclosure controls and procedures based on their
+evaluations as of the Evaluation  Date.  Since the Evaluation  Date,  there have
+been no significant  changes in the Company's internal controls (as such term is
+defined in Item  307(b) of  Regulation  S-K under the  Exchange  Act) or, to the
+Company's  knowledge,  in other  factors  that  could  significantly  affect the
+Company's  internal controls.  ACB's auditors,  at all relevant times, have been
+duly  registered in good standing with the Public Company  Accounting  Oversight
+Board.
+
+
+                                       6
+<PAGE>
+
+Section 3.10  Solvency;  Indebtedness.  Based on the financial  condition of the
+Company as of the Closing  Date:  (i) the fair  saleable  value of the Company's
+assets  equals or exceeds  the amount  that will be required to be paid on or in
+respect of the Company's  existing debts and other liabilities  (including known
+contingent  liabilities)  as they  mature;  (ii)  the  Company's  assets  do not
+constitute  unreasonably  small capital to carry on its business for the current
+fiscal year as now  conducted;  and (iii) the current  cash flow of the Company,
+together with the proceeds the Company would  receive,  were it to liquidate all
+of its assets, after taking into account all anticipated uses of the cash, would
+be  sufficient to pay all amounts on or in respect of its debt when such amounts
+are  required to be paid.  The Company does not intend to incur debts beyond its
+ability to pay such debts as they  mature.  The Company has no  knowledge of any
+facts  or  circumstances  which  lead  it to  believe  that  it  will  file  for
+reorganization or liquidation under the bankruptcy or reorganization laws of any
+jurisdiction  within one (1) year from the  Closing  Date.  The SEC  Reports set
+forth as of the dates thereof all outstanding secured and unsecured indebtedness
+of the Company, or for which the Company has commitments.  The Company is not in
+default  with  respect to any  Indebtedness.  At the  Closing,  there will be no
+outstanding liabilities, obligations or indebtedness of the Company whatsoever.
+
+Section 3.11 No Brokers.  No brokerage or finder's  fees or  commissions  are or
+will be payable by the  Company or Seller to any  broker,  financial  advisor or
+consultant,  finder,  placement agent,  investment banker,  bank or other person
+with respect to the transactions contemplated by this Agreement, and the Company
+has not taken any action  that would  cause the  Purchaser  to be liable for any
+such fees or commissions.  The Company and Seller agree that the Purchaser shall
+have no  obligation  with respect to any fees or with respect to any claims made
+by or on behalf of any Person, for fees of the type contemplated by this Section
+3.11 and Seller shall indemnify and hold the Purchaser and the Company  harmless
+from any fees, costs or liabilities of any kind incurred by the Purchaser or the
+Company in connection therewith.
+
+Section 3.12 Disclosure.  The Company and Seller confirm that neither it nor any
+other  Person  acting on its behalf has  provided  any of the  Purchaser  or its
+agents or counsel with any  information  that  constitutes  or might  constitute
+material,  nonpublic information  concerning the Company. The Company and Seller
+understand   and  confirm  that  the  Purchaser   will  rely  on  the  foregoing
+representations in effecting any transactions in securities of the Company.  All
+disclosure provided to the Purchaser regarding the Company, its business and the
+transactions  contemplated  hereby,  furnished by or on behalf of the Company or
+the Seller with respect to the  representations  and warranties made herein, are
+true and correct with respect to such  representations and warranties and do not
+contain any untrue  statement  of a material  fact or omit to state any material
+fact  necessary in order to make the  statements  made therein,  in light of the
+circumstances under which they were made, not misleading. The Company and Seller
+acknowledge  and agree that the  Purchaser  has not made,  nor is the  Purchaser
+making,  any  representations  or  warranties  with respect to the  transactions
+contemplated hereby other than those specifically set forth herein.
+
+
+                                       7
+<PAGE>
+
+Section 3.13 No Disagreements  with Accountants and Lawyers;  No Outstanding SEC
+Matters.  There  are  no  disagreements  of  any  kind  presently  existing,  or
+reasonably  anticipated  by the Company to arise,  between the  accountants  and
+lawyers formerly or presently employed by the Company and the Company is current
+with respect to any fees owed to its  accountants  and  lawyers,  except for the
+demand  made by Aaron  Stein that the Seller  and the  Company  refuse to pay as
+having  not been  earned.  The  Company  has not  received  any  correspondence,
+comments  letters,  demands  or  requests  from the SEC or any other  regulatory
+authority which have not be fully resolved.
+
+Section 3.14 No  Conflicts.  The  execution,  delivery and  performance  of this
+Agreement  and the  transactions  contemplated  hereby do not and will not:  (i)
+conflict with or violate any provision of the Company's  Certificate or Articles
+of Incorporation,  By-laws or other  organizational or charter  documents;  (ii)
+conflict with, or constitute a default (or an event that with notice or lapse of
+time or both  would  become a  default)  under,  or give to others any rights of
+termination,  amendment,  acceleration or cancellation  (with or without notice,
+lapse  of time  or  both)  of any  agreement,  credit  facility,  debt or  other
+instrument  (evidencing a Company debt or otherwise) or other  understanding  to
+which the Company is a party or by which any property or asset of the Company is
+bound or affected; and (iii) result in a violation of any law, rule, regulation,
+order,  judgment,  injunction,  decree  or  other  restriction  of any  court or
+governmental  authority to which the Company is subject  (including  federal and
+state securities laws and regulations), or by which any property or asset of the
+Company is bound or affected.
+
+Section 3.15 Filings, Consents and Approvals. Neither the Seller nor the Company
+is required to obtain any consent,  waiver,  authorization or order of, give any
+notice to, or make any filing or registration  with, any court or other federal,
+state, local or other governmental  authority or other Person in connection with
+the execution, delivery and performance of this Agreement.
+
+Section  3.16  Compliance.  The  Company:  (i)  is not in  default  under  or in
+violation  of (and no event has  occurred  that has not been waived  that,  with
+notice  or lapse of time or both,  would  result  in a  default  by the  Company
+under),  nor has the  Company  received  notice of a claim that it is in default
+under or that it is in violation of, any indenture,  loan or credit agreement or
+any other  agreement or  instrument to which it is a party or by which it or any
+of its  properties  is bound  (whether or not such default or violation has been
+waived),  (ii) is not in  violation  of any order of any  court,  arbitrator  or
+governmental body and (iii) is not and has not been in violation of any statute,
+rule or regulation of any governmental authority.
+
+      Section  3.17  Transactions  With  Affiliates  and  Employees.  Except  as
+required to be set forth in the SEC  Reports,  none of the officers or directors
+of the Company and, to the knowledge of the Seller,  no (a) Person that directly
+or indirectly,  through one or more intermediaries,  controls, is controlled by,
+or is under common  control with the Company (an  "Affiliate")  or (b) director,
+officer or employee of the Company is presently a party to any transaction  with
+the Company  (other than for services as  employees,  officers  and  directors),
+including  any  contract,  agreement  or  other  arrangement  providing  for the
+furnishing  of  services  to or by,  providing  for  rental of real or  personal
+property to or from,  or  otherwise  requiring  payments to or from any officer,
+director or such  employee or, to the  knowledge  of the Company,  any entity in
+which any officer,  director, or any such employee has a substantial interest or
+is an officer, director, trustee or partner.
+
+
+                                       8
+<PAGE>
+
+Section 3.18 Assets.  Except as set forth in the SEC Reports, the Company has no
+assets, including, without limitation, goodwill, assets, real property, tangible
+personal  property,  intangible  personal  property,  rights and benefits  under
+contracts and cash. All Company  leases,  if any, for real or personal  property
+are in good standing,  valid and effective in accordance  with their  respective
+terms, and there is not under any of such leases,  any existing material default
+or event of default (or event which with notice or lapse of time, or both, would
+constitute a material default).
+
+Section 3.19 Investment  Company/Investment Advisor. The business of the Company
+does not require it to be  registered  as an  investment  company or  investment
+advisor,  as such terms are  defined  under the  Investment  Company Act and the
+Investment Advisors Act of 1940.
+
+Section 3.20 Environmental Matters. The Company has complied with all applicable
+statutes, laws and regulations relating to the environment.  There is no related
+pending or threatened civil or criminal litigation, written notice of violation,
+formal  administrative  proceeding  or  investigation,  inquiry  or  information
+request by any governmental entity.
+
+Section  3.21  Informed  Decision.  Seller  is aware of the  Company's  business
+affairs and financial  condition  and has reached an informed and  knowledgeable
+decision to sell the Shares.
+
+Section  3.22 Future  Listing on the OTCBB.  Seller is not aware of any facts or
+circumstances  that would  prevent  the Common  Stock  from being  approved  for
+listing on the NASD's Over -The-Counter Bulletin Board (the "OTCBB"), other than
+the absence of a business.
+
+Section 3.23 Consummation of a Merger  Transaction.  Seller acknowledges that it
+is  the  intention  of  the  Purchaser,  upon  completion  of  the  transactions
+contemplated  hereby,  to cause  the  Company  to  consummate  a merger  with or
+acquisition of a yet unidentified  private  unaffiliated  company (the "Merger")
+some time in the future.  Seller further acknowledges that, upon consummation of
+the  Merger,  it is likely or possible  that each Share will  increase in value,
+possibly substantially. Seller has had such opportunity as it desires to ask the
+Purchaser  any  questions  and  receive  information  concerning  such  matters,
+including the risks associated therewith,  and has received satisfactory answers
+to such  questions  and desires to  complete  the sale of the  Purchased  Shares
+contemplated under this Agreement.
+
+
+                                       9
+<PAGE>
+
+Section 3.24 Change of Control. Neither the Company nor the Seller is a party to
+an agreement for, nor involved in any discussions, other than those contemplated
+herein,  concerning any transaction  that would reasonably be expected to result
+in any  "person" or "group" (as such terms are used in Sections  13(d) and 14(d)
+of the Exchange Act),  becoming the "beneficial owner" (as defined in Rule 13d-3
+under the  Exchange  Act),  directly or  indirectly,  of 5% or more of the total
+voting power of the outstanding Common Stock.
+
+Section 3.25 Blue Sky. The Seller and the Company  have  obtained all  necessary
+permits and qualifications,  if any, or secured an exception therefor,  required
+for the offer and sale of the Purchased Shares.
+
+Section 3.26  Appointment  of  Directors.  The board of directors of the Company
+shall immediately following the Closing,  appoint to the board of directors, one
+individual who is nominated by the Purchasers.  In addition, Simon Piers Thurlow
+shall resign from all positions with the Company,  including as president, chief
+financial officer and director, immediately after such appointments.
+
+Section 3.27 Notice of  Developments.  Prior to the Closing,  the Seller and the
+Company  shall  promptly  notify  the  Purchasers  in  writing  of  all  events,
+circumstances  facts  and  occurrences  arising  subsequent  to the date of this
+Agreement  which  would  reasonably  be  expected  to result in any  breach of a
+representation  or  warranty  or  covenant  of the Seller or the Company in this
+Agreement or which would reasonably be expected to have the effect of making any
+representation or warranty of the Seller or the Company in this Agreement untrue
+or  incorrect in any respect.  Such  notification  shall not affect or otherwise
+limit the  Purchaser's  right to enforce the terms of this  Agreement  hereto as
+they existed on the date hereof, without taking into account such notification.
+
+Section 3.28 Bona Fide  Services.  The Seller and Company  confirm that the bona
+fide services described in Section 7.1(k) hereof do not include or relate in any
+whatsoever to stock promotion or  capital-raising  activity by or concerning the
+Seller or the Company.
+
+Section 3.29 Patriot Act. The Seller and the Company  certify  that, to the best
+of their  knowledge,  the Company has not been  designated,  and is not owned or
+controlled,  by a "suspected terrorist" as defined in Executive Order 13224. The
+Seller  hereby  acknowledges  that  the  Purchasers  seek  to  comply  with  all
+applicable  laws  concerning  money  laundering  and  related   activities.   In
+furtherance  of those  efforts,  the Seller and the  Company  hereby  represent,
+warrant  and agree that:  (i) none of the cash or property  owned by the Company
+has been or shall be derived  from,  or related to, any activity  that is deemed
+criminal  under United  States law; and (ii) no  contribution  or payment by the
+Company has, and this Agreement will not, cause the Company or the Purchasers to
+be in  violation  of the United  States  Bank  Secrecy  Act,  the United  States
+International  Money  Laundering  Control  Act  of  1986  or the  United  States
+International  Money Laundering  Abatement and  Anti-Terrorist  Financing Act of
+2001.
+
+
+                                       10
+<PAGE>
+
+Section 3.30  Misrepresentation.  No representation or warranty of the Seller or
+the Company  contained in this  Agreement  or in any  schedule  hereto or in any
+certificate  or other  instrument  furnished  by the  Seller  to the  Purchasers
+pursuant to the terms  hereof,  knowingly  contains  any untrue  statement  of a
+material fact or knowingly  omits to state a material fact necessary to make the
+statements contained herein or therein not misleading.
+
+                                    ARTICLE 4
+                        REPRESENTATIONS OF THE PURCHASER
+
+The Purchasers  represent and warrant,  each solely as to itself, to the Seller,
+as follows:
+
+Section 4.1 Execution and Delivery.  The execution,  delivery and performance by
+the  Purchaser's  execution  and  delivery  of this  Agreement  is  within  such
+Purchaser's powers and does not violate any contractual restriction contained in
+any  agreement  which  binds  or  affects  or  purports  to bind or  affect  the
+Purchasers.
+
+Section 4.2 Binding Effect.  This Agreement,  when executed and delivered by the
+Purchasers shall be irrevocable and will constitute the legal, valid and binding
+obligations  of each of the  Purchasers  enforceable  against each  Purchaser in
+accordance  with its terms,  except as may be limited by applicable  bankruptcy,
+insolvency,   moratorium  and  other  laws  of  general  application   affecting
+enforcement  of  creditors'  rights  generally or general  principles  of equity
+(regardless  of whether such  enforceability  is  considered  in a proceeding in
+equity or at law).
+
+Section 4.3 Investment Purpose.  Each Purchaser represents that it is purchasing
+the Shares for its own account,  with the intention of holding the Shares,  with
+no present  intention  of  dividing or allowing  others to  participate  in this
+investment or of reselling or otherwise  participating,  directly or indirectly,
+in a  distribution  of the  Shares,  and shall not make any sale,  transfer,  or
+pledge thereof without  registration under the Securities Act and any applicable
+securities laws of any state unless an exemption from  registration is available
+under those laws. The Purchased  Shares delivered to the Purchasers shall bear a
+restrictive  legend  indicating  that  they have not been  registered  under the
+Securities Act of 1933 and are  "restricted  securities" as that term is defined
+in Rule 144 under the Act.
+
+Section 4.4 Investment Representation. The Purchasers each represent that it has
+adequate  means of providing for its current needs and has no need for liquidity
+in this  investment  in the  Shares.  The  Purchasers  represents  that it is an
+"accredited  investor"  as defined in Rule 501(a) of  Regulation  D  promulgated
+under the Securities Act. The Purchaser has no reason to anticipate any material
+change in its financial  condition for the foreseeable future. Each Purchaser is
+financially  able to bear the economic  risk of this  investment,  including the
+ability to hold the  Shares  indefinitely  or to afford a  complete  loss of its
+investment in the Shares.
+
+                                       11
+<PAGE>
+
+Section  4.5  Investment  Experience.  Each  Purchaser  has such  knowledge  and
+experience in financial and business  matters as to be capable of evaluating the
+merits and risks of an investment in the Shares.
+
+Section 4.6 Opportunity to Ask Questions. Each Purchaser has had a full and fair
+opportunity to make inquiries  about the terms and conditions of this Agreement,
+to discuss the same and all related matters with its own independent counsel and
+its own  accountants  and tax  advisers.  Each  Purchaser  has  been  given  the
+opportunity to ask questions of, and receive answers from Seller  concerning the
+terms and  conditions of this  Agreement and to obtain such  additional  written
+information  about ACB to the extent Seller  possesses  such  information or can
+acquire  it  without   unreasonable  effort  or  expense.   Notwithstanding  the
+foregoing, each Purchaser has had the opportunity to conduct its own independent
+investigation.
+
+                                    ARTICLE 5
+                            COVENANTS OF THE COMPANY
+
+Section 5.1 Public Company Status.  The Company shall make any and all necessary
+filings under the Exchange Act so that it remains a reporting  company under the
+Exchange Act and the Common Stock continues to be a publicly-traded security for
+not less than one year after the Closing Date.
+
+                                    ARTICLE 6
+                            COVENANTS OF THE PARTIES
+
+The parties hereto agree that:
+
+Section 6.1 Public  Announcements.  The Seller,  the Company and the  Purchasers
+shall  consult  with each other before  issuing any press  release or making any
+public statement with respect to this Agreement or the transactions contemplated
+hereby  and,  except  as  may be  required  by  applicable  statutes,  laws  and
+regulations,  including rules and regulations of the Commission,  will not issue
+any  such  press  release  or make  any  such  public  statement  prior  to such
+consultation and without the consent of the other parties.
+
+Section 6.2 Notices of Certain Events.  In addition to any other notice required
+to be given by the terms of this  Agreement,  each of the parties shall promptly
+notify the other party hereto of:
+
+(a) any notice or other  communication from any Person alleging that the consent
+of such Person is or may be required in connection with any of the  transactions
+contemplated by this Agreement;
+
+(b) any notice or other communication from any governmental or regulatory agency
+or authority in connection with the transactions contemplated by this Agreement;
+and
+
+                                       12
+<PAGE>
+
+(c) any actions,  suits, claims,  investigations or proceedings commenced or, to
+such  party's  knowledge,  threatened  against,  relating  to  or  involving  or
+otherwise  affecting such party that, if pending on the date of this  Agreement,
+would have been required to have been disclosed pursuant to Section 3 or Section
+4 (as the case may be) or that relate to the  consummation  of the  transactions
+contemplated by this Agreement.
+
+Section 6.3 Access to Information.  Following the date of this Agreement,  until
+consummation of all transactions contemplated hereby, the Seller and the Company
+shall give to the Purchaser, its counsel, financial advisers, auditors and other
+authorized representatives reasonable access to their offices, properties, books
+and records,  financial and other data and  information as the Purchaser and its
+respective representatives may reasonably request.
+
+Section 6.4 ACB's Business.  ACB will not,  without the prior written consent of
+the Purchaser,  except as set forth herein,  (i) make any material change in the
+type or nature of its business, or in the nature of its operations,  (ii) create
+or suffer to exist any debt, other than that currently shown in the SEC Reports,
+(iii) issue any capital stock or (iv) enter into any new  agreements of any kind
+(other  than  those  contemplated  by  this  Agreement)  or  undertake  any  new
+obligations or liabilities.
+
+Section 6.5 Indemnification. Indemnification.
+
+      (a) The  Seller  agrees  to  indemnify  and hold each  Purchaser,  and its
+respective directors,  officers, employees,  affiliates,  agents, successors and
+assigns  (collectively,  the "Purchaser  Indemnified Parties") harmless from and
+against:
+
+            (i) any and all liabilities of the Company of every kind, nature and
+description,  absolute or  contingent,  existing as against the Company prior to
+and  including  the Closing Date or  thereafter  coming into being or arising by
+reason of any state of facts existing,  or any  transaction  entered into, on or
+prior to the  Closing  Date,  except to the extent that the same have been fully
+provided for in the  Company's  Financial  Statements  or disclosed in the notes
+thereto or were incurred in the ordinary course of business;
+
+            (ii) any and all losses,  liabilities,  obligations,  damages, costs
+and expenses  based upon,  attributable  to or resulting from the failure of any
+representation or warranty of the Seller set forth herein, or any representation
+or warranty contained in any certificate delivered by or on behalf of the Seller
+pursuant to this  Agreement,  to be true and  correct in all  respects as of the
+date made;
+
+            (iii) any and all losses, liabilities,  obligations,  damages, costs
+and expenses  based upon,  attributable  to or resulting  from the breach of any
+covenant or other agreement on the part of the Seller under this Agreement;
+
+
+                                       13
+<PAGE>
+
+            (iv)  any and all  notices,  actions,  suits,  proceedings,  claims,
+demands,  assessments,  judgments,  costs,  penalties  and  expenses,  including
+attorneys'  and  other  professionals'  fees  and  disbursements  (collectively,
+"Expenses") incident to any and all losses, liabilities,  obligations,  damages,
+costs and expenses with respect to which  indemnification  is provided hereunder
+(collectively, "Losses").
+
+      (b) The Purchasers each hereby agrees to indemnify and hold the Seller and
+his  affiliates,  agents,  successors  and  assigns  (collectively,  the "Seller
+Indemnified Parties") harmless from and against:
+
+            (i) any and all Losses based upon, attributable to or resulting from
+the  failure of any  representation  or  warranty  of the  Purchasers  set forth
+herein, or any representation or warranty contained in any certificate delivered
+by or on behalf of the  Purchaser  pursuant  to this  Agreement,  to be true and
+correct as of the date made;
+
+            (ii) any and all Losses  based upon,  attributable  to or  resulting
+from the breach of any covenant or other  agreement on the part of the Purchaser
+under this  Agreement or arising from the  ownership or operation of the Company
+from and after the Closing Date; and
+
+            (iii)   any   and   all   Expenses   incident   to  the   foregoing.
+Indemnification Procedures.
+
+      In the event that any legal  proceedings  shall be  instituted or that any
+claim or demand  ("Claim")  shall be  asserted by any person in respect of which
+payment may be sought  hereunder,  the  indemnified  party shall  reasonably and
+promptly  cause  written  notice of the  assertion  of any Claim of which it has
+knowledge which is covered by this indemnity to be forwarded to the indemnifying
+party.  The  indemnifying  party  shall have the right,  at its sole  option and
+expense,  to be represented  by counsel of its choice,  which must be reasonably
+satisfactory to the indemnified party, and to defend against,  negotiate, settle
+or otherwise deal with any Claim which relates to any Losses indemnified against
+hereunder. If the indemnifying party elects to defend against, negotiate, settle
+or otherwise deal with any Claim which relates to any Losses indemnified against
+hereunder,  it shall within five (5) business days (or sooner,  if the nature of
+the Claim so requires)  notify the indemnified  party of its intent to do so. If
+the  indemnifying  party  elects  not to defend  against,  negotiate,  settle or
+otherwise  deal with any Claim which relates to any Losses  indemnified  against
+hereunder,  fails to notify  the  indemnified  party of its  election  as herein
+provided or contests its obligation to indemnify the indemnified  party for such
+Losses  under  this  Agreement,   the  indemnified  party  may  defend  against,
+negotiate,  settle or otherwise deal with such Claim. If the  indemnified  party
+defends any Claim,  then the indemnifying  party shall reimburse the indemnified
+party for the  Expenses  of  defending  such Claim upon  submission  of periodic
+bills.  If the  indemnifying  party shall  assume the defense of any Claim,  the
+indemnified party may participate,  at his or its own expense, in the defense of
+
+
+                                       14
+<PAGE>
+
+such Claim; provided,  however, that such indemnified party shall be entitled to
+participate  in any such  defense  with  separate  counsel at the expense of the
+indemnifying party if, (i) so requested by the indemnifying party to participate
+or (ii) in the  reasonable  opinion  of  counsel  to the  indemnified  party,  a
+conflict or potential  conflict  exists  between the  indemnified  party and the
+indemnifying party that would make such separate representation  advisable;  and
+provided,  further, that the indemnifying party shall not be required to pay for
+more than one such counsel for all  indemnified  parties in connection  with any
+Claim. The parties hereto agree to cooperate fully with each other in connection
+with the defense, negotiation or settlement of any such Claim.
+
+      After any final  judgment  or award  shall have been  rendered by a court,
+arbitration  board or  administrative  agency of competent  jurisdiction and the
+expiration of the time in which to appeal therefrom,  or a settlement shall have
+been consummated, or the indemnified party and the indemnifying party shall have
+arrived at a mutually binding  agreement with respect to a Claim hereunder,  the
+indemnified party shall forward to the indemnifying party notice of any sums due
+and owing by the  indemnifying  party pursuant to this Agreement with respect to
+such matter and the indemnifying  party shall be required to pay all of the sums
+so due and  owing to the  indemnified  party  by wire  transfer  of  immediately
+available funds within 10 business days after the date of such notice.
+
+      The failure of the indemnified  party to give reasonably  prompt notice of
+any Claim shall not release,  waive or otherwise affect the indemnifying party's
+obligations  with  respect  thereto  except to the extent that the  indemnifying
+party can demonstrate actual loss and prejudice as a result of such failure.
+
+Section 6.6 Reasonable  Efforts.  Each party agrees to use with all due dispatch
+its  reasonable  best efforts to take, or cause to be taken,  all actions and to
+do, or cause to be done,  all things  necessary or advisable to  consummate  and
+make effective as promptly as practicable the transactions  contemplated by this
+Agreement  and to  cooperate  with the  other  parties  in  connection  with the
+foregoing.  Each  party  further  agrees not to  undertake  any course of action
+inconsistent  with the  satisfaction  of the  conditions  to  Closing  set forth
+herein,  and to do all such acts and take all such measures as may be reasonable
+to comply, and be in compliance, with the representations, warranties, covenants
+and agreements contained in this Agreement.
+
+Section 6.7 Cooperation. In the event that any investigation,  inquiry, lawsuit,
+administrative  proceeding or any other  proceeding is commenced with respect to
+the Company,  the Seller shall fully  cooperate  with and provide all applicable
+documents  to, the  Company  and  Purchasers,  immediately  upon  request of the
+Company or the Purchasers.
+
+Section 6.8 Board of  Directors.  The Seller shall cause the Company to take all
+necessary  action to cause the Board of  Directors,  as of the closing  date, to
+appoint Ms.  Lianqin Qu as a director of the Company.  Simon Piers Thurlow shall
+resign from all  positions  with the  Company,  including  as  president,  chief
+financial officer and director, immediately after the Closing Date.
+
+
+                                       15
+<PAGE>
+
+                                    ARTICLE 7
+                              CONDITIONS PRECEDENT
+
+Section 7.1 Conditions of Obligations of the Purchasers.  The obligations of the
+Purchasers are subject to the satisfaction of the following  conditions,  any or
+all of which may be waived in whole or in part by the Purchasers:
+
+(a) Representations  and Warranties.  Each of the representations and warranties
+of the  Seller and the  Company  set forth in this  Agreement  shall be true and
+correct in all material respects as of (1) the date of this Agreement (except to
+the extent such representations and warranties speak as of an earlier date), and
+(2) the Closing Date, as though made on and as of all of such dates.
+
+(b) Compliance Certificate. The Seller and President of ACB shall deliver to the
+Purchasers at the Closing a certificate  certifying:  (i) that there has been no
+material  adverse  change  in  the  business,  affairs,  prospects,  operations,
+properties,  assets  or  conditions  of the  Company  since  the  date  of  this
+Agreement;  (ii) that  attached  thereto  is a true and  complete  copy of ACB's
+Certificate of  Incorporation,  as amended,  as in effect at the Closing;  (iii)
+that attached  thereto is a true and complete copy of its By-laws,  as in effect
+at the  Closing;  and (iv) each of the  representations  and  warranties  of the
+Seller and the Company set forth in this  Agreement  are true and correct in all
+material respects as of the Closing Date as though made on and as of the Closing
+Date.
+
+(c) Good Standing Certificates.  The Company shall have furnished the Purchasers
+with good standing and existence  certificates  for ACB in its  jurisdiction  of
+formation and such other jurisdictions as the Purchaser reasonably requests.
+
+(d)  Certified  List of Record  Holders.  The  Purchasers  shall have received a
+certified  list  prior to the  Closing  Date from  ACB's  transfer  agent of the
+holders of record of the Common Stock.
+
+(e) Company  Minutes.  The  Purchasers  shall have received prior to the Closing
+Date executed  copies of all minutes,  consents and  resolutions  of the Company
+(for meetings of or by  stockholders  and directors of the Company),  including,
+without  limitation,  those  relating to the  termination  of the Share Exchange
+Agreement,  dated  January 3, 2003,  by and between  the Company and  Autocarbon
+Limited  relating to the  Company's  previously  planned  purchase of all of the
+issued and outstanding  shares of Autocarbon  Limited, a United Kingdom company,
+as described in the SEC Reports (the "Transaction"),  and, in form and substance
+reasonably satisfactory to the Purchaser.
+
+(f) Board of Directors  Resolutions.  The Purchaser shall have received executed
+resolutions  of the  Board  of  Directors  of  ACB  approving  the  transactions
+contemplated  herein  including  the  resignation  of all current  directors and
+officers.
+
+
+                                       16
+<PAGE>
+
+(g)  Performance.  The Seller and the Company shall have  performed and complied
+with all agreements, obligations and conditions contained in this Agreement that
+are required to be performed or complied with by it on or before the Closing.
+
+(h) Filing of Reports.  The Company will, for so long as it is required to, make
+timely  filing  of such  reports  as are  required  to be  filed  by it with the
+Commission.
+
+(i) Counsel Opinion.  An opinion of Roger Fidler,  Esq., counsel to the Company,
+sufficient for the Company's  transfer agent to register the Purchased Shares as
+being owned of record by the Purchasers.
+
+Section 7.2  Conditions of  Obligations  of the Seller.  The  obligations of the
+Seller to effect the sale of the Shares are subject to the following conditions,
+any or all of which may be waived in whole or in part by the Seller:
+
+(a) Representations  and Warranties.  Each of the representations and warranties
+of the Purchasers  set forth in this Agreement  shall be true and correct in all
+material  respects  as of the date of this  Agreement  and (except to the extent
+such  representations  and  warranties  speak as of an  earlier  date) as of the
+Closing Date as though made on and as of the Closing Date.
+
+(b)  Compliance  Certificate.  An  authorized  officer of the  Purchasers  shall
+deliver  to the  Seller at the  Closing  a  certificate  certifying  each of the
+representations and warranties of such Purchaser set forth in this Agreement are
+true and correct in all material  respects as of the Closing Date as though made
+on and as of the Closing Date.
+
+(c)  Performance.  The  Purchasers  shall have  performed  and complied with all
+agreements,  obligations  and  conditions  contained in this  Agreement that are
+required to be performed or complied with by it or him on or before the Closing.
+
+                                    ARTICLE 8
+                                   TERMINATION
+
+Section 8.1  Termination.  This Agreement may be terminated and the purchase and
+sale of the Shares may be abandoned at any time prior to the Closing:
+
+(a) by mutual written consent of the parties hereto;
+
+(b) by  either  the  Seller  or the  Purchasers  if the  Closing  shall not have
+occurred on or before the Effective  Date (unless the failure to consummate  the
+transactions  by such date  shall be due to the  action or failure to act of the
+party seeking to terminate this Agreement);
+
+(c) by the  Purchasers  if (i) the Seller or the  Company  shall have  failed to
+comply in any material respect with any of the covenants,  conditions,  terms or
+agreements  contained in this  Agreement to be complied with or performed by the
+Seller or the Company;  or (ii) any  representations and warranties of Seller or
+the Company contained in this Agreement shall not have been true when made or on
+and as of the Closing  Date as if made on and as of Closing  Date (except to the
+extent it relates to a particular date); or
+
+
+                                       17
+<PAGE>
+
+(d) by the  Seller  if (i) the  Purchasers  shall  have  failed to comply in any
+material  respect with any of the  covenants,  conditions,  terms or  agreements
+contained in this  Agreement to be complied with or performed by it; or (ii) any
+representations  and  warranties  of the Purchaser  contained in this  Agreement
+shall not have been true when made or on and as of the Closing Date.
+
+Section  8.2  Effect of  Termination.  In the event of the  termination  of this
+Agreement  pursuant to this  Article 8, all further  obligations  of the parties
+under this Agreement shall forthwith be terminated without any further liability
+of any party to the other parties; provided,  however, that nothing contained in
+this Section 8.2 shall  relieve any party from  liability for any breach of this
+Agreement. In addition, the Initial Payment shall be retained by Seller.
+
+                                    ARTICLE 9
+                                  MISCELLANEOUS
+
+Section 9.1 Notices. All notices, requests and other communications to any party
+hereunder  shall be in writing and either  delivered  personally,  telecopied or
+sent by certified or registered mail, postage prepaid,
+
+If to the Seller: Simon Piers Thurlow
+                           Suite 3B, 126 East 83rd Street
+                           New York, NY 10028
+
+
+With a copy to:   Roger L. Fidler, Esq.
+                           400 Grove Street
+                           Glen Rock, NJ 07452
+                           Facsimile: 201-445-8862
+                           Rfidler0099@aol.com
+
+If to Purchasers: Dongyuan Investment Consultancy, H.K., Limited
+                           16/F, Flat C, MaxShare Centre,
+                           367-373, King's Road
+                           Northpoint, Hong Kong
+
+
+With a copy to:   Marc J. Ross, Esq.
+                           Sichenzia Ross Friedman Ference LLP
+                           1065 Avenue of the Americas
+                           21st Floor
+                           New York, NY 10018
+                           Phone 212-930-9700
+                           Fax   212-930-9725
+                           mross@srffllp.com
+
+
+                                       18
+<PAGE>
+
+If to the Company:         Autocarbon, Inc.
+                           126 East 83rd Street - Suite 3B
+                           New York, NY 10028
+                           Attn: Simon Piers Thurlow, President
+                           Facsimile: 212- 717-4254
+                           britishunion@aol.com
+
+or such other address or fax number as such party may hereafter  specify for the
+purpose by notice to the other parties  hereto.  All such notices,  requests and
+other  communications  shall be deemed received on the date delivered personally
+or by overnight  delivery  service or confirmed  facsimile  transmission  or, if
+mailed,  five (5) business days after the date of mailing if received prior to 5
+p.m.  in the place of  receipt  and such day is a  business  day in the place of
+receipt.  Otherwise,  any such notice,  request or communication shall be deemed
+not to have been received until the next succeeding business day in the place of
+receipt.
+
+
+Section 9.2 Amendments; No Waivers.
+
+(a) Any provision of this  Agreement with respect to  transactions  contemplated
+hereby may be amended or waived if, but only if, such  amendment or waiver is in
+writing and is signed, in the case of an amendment,  by the Seller,  the Company
+and the  Purchaser;  or in the case of a waiver,  by the party  against whom the
+waiver is to be effective.
+
+(b) No failure or delay by any party in exercising any right, power or privilege
+hereunder  shall  operate  as a waiver  thereof  nor shall any single or partial
+exercise  thereof preclude any other or further exercise thereof or the exercise
+of any other right, power or privilege.  The rights and remedies herein provided
+shall be cumulative and not exclusive of any rights or remedies provided by law.
+
+Section 9.3 Fees and Expenses.  Each of the Seller and the Purchasers shall bear
+all costs and expenses  incurred by them in connection with this Agreement,  and
+the  Company  shall  bear  no  expenses  in  connection   with  the  transaction
+anticipated hereby.
+
+Section 9.4  Successors and Assigns.  The provisions of this Agreement  shall be
+binding upon and inure to the benefit of the parties hereto and their respective
+successors  and assigns;  provided,  that the Purchaser  shall have the right to
+assign this Agreement to an affiliate of the Purchaser and no other party hereto
+may assign,  delegate or  otherwise  transfer  any of its rights or  obligations
+under this  Agreement  without the consent of each other party  hereto,  but any
+such  transfer  or  assignment  will not relieve  the  appropriate  party of its
+obligations hereunder.
+
+                                       19
+<PAGE>
+
+Section 9.5 Governing Law. This Agreement  shall be governed by and construed in
+accordance with the laws of the State of New York,  without giving effect to the
+principles of conflicts of law thereof.
+
+Section 9.6 Jurisdiction.  Any suit, action or proceeding seeking to enforce any
+provision of, or based on any matter arising out of or in connection  with, this
+Agreement or the transactions  contemplated hereby may be brought in any federal
+or state court located in the City of New York,  Borough of Manhattan,  and each
+of the parties hereto  consents to the  jurisdiction  of such courts (and of the
+appropriate  appellate courts  therefrom) in any such suit, action or proceeding
+and irrevocably  waives,  to the fullest extent  permitted by law, any objection
+which it may now or hereafter  have to the laying of the venue of any such suit,
+action  or  proceeding  in any  such  court or that any  such  suit,  action  or
+proceeding  which  is  brought  in  any  such  court  has  been  brought  in  an
+inconvenient forum. Process in any such suit, action or proceeding may be served
+on any party anywhere in the world,  whether within or without the  jurisdiction
+of any such  court.  Without  limiting  the  foregoing,  each party  agrees that
+service of process on such party as  provided  in Section  9.1.  shall be deemed
+effective  service of process on such party.  Each party hereto  (including  its
+affiliates,  agents,  officers,  directors and employees) irrevocably waives, to
+the fullest  extent  permitted by applicable  law, any and all right to trial by
+jury in any legal proceeding arising out of or relating to this Agreement or the
+transactions contemplated hereby.
+
+Section 9.7  Counterparts;  Effectiveness.  This  Agreement may be signed in any
+number of counterparts, each of which shall be an original, with the same effect
+as if the  signatures  thereto  and hereto were upon the same  instrument.  This
+Agreement   shall  become   effective   when  each  party  hereto  has  received
+counterparts  hereof  signed by all of the other  parties.  No provision of this
+Agreement  is intended to confer upon any Person  other than the parties  hereto
+any rights or remedies under this Agreement.
+
+Section 9.8 Entire  Agreement.  This  Agreement  and the  attached  Schedule 1.1
+constitute the entire agreement  between the parties with respect to the subject
+matter of this  Agreement and  supersedes  and merges all prior  agreements  and
+understandings,  both oral and written,  between the parties with respect to the
+subject matter of this Agreement.
+
+Section 9.9  Captions.  The captions are included for  convenience  of reference
+only  and  shall  be  ignored  in the  construction  or  interpretation  of this
+Agreement.
+
+Section 9.10 Severability.  If any term,  provision,  covenant or restriction of
+this Agreement is held by a court of competent  jurisdiction  or other authority
+to be invalid,  void or unenforceable,  the remainder of the terms,  provisions,
+covenants  and  restrictions  of this  Agreement  shall remain in full force and
+effect and shall in no way be affected,  impaired or  invalidated so long as the
+economic  or legal  substance  of the  transactions  contemplated  hereby is not
+affected  in  any  manner  materially  adverse  to  any  parties.  Upon  such  a
+determination,  the  parties  shall  negotiate  in good  faith  to  modify  this
+Agreement  so as to effect  the  original  intent of the  parties  as closely as
+possible in an  acceptable  manner in order that the  transactions  contemplated
+hereby  are  consummated  as  originally  contemplated  to  the  fullest  extent
+possible.
+
+
+                                       20
+<PAGE>
+
+Section 9.11 Specific  Performance.  The parties  hereto agree that  irreparable
+damage  would  occur  in the  event  any  provision  of this  Agreement  was not
+performed  in  accordance  with the its  terms  and that  the  parties  shall be
+entitled to specific  performance  of the terms of this Agreement in addition to
+any other remedy to which they are entitled at law or in equity.
+
+Section 9.12 Survival.  The  representations  and  warranties  contained in this
+Agreement  shall  survive the Closing and delivery of the Shares only as against
+Seller and  notwithstanding  any  provision  to the  contrary  contained in this
+Agreement,  upon and after the Closing,  any claim by Purchaser  for a breach of
+any  representation  or  warranty  of Seller or the  Company  contained  in this
+Agreement  may be made only  against  Seller and  Purchaser  shall have no claim
+against the Company for any such breach.
+
+[REMAINDER OF THE PAGE INTENTIONALLY LEFT BLANK]
+
+                                       21
+<PAGE>
+
+      IN WITNESS  WHEREOF,  each of the  following  individuals  has caused this
+Agreement to be signed, and each party that is not an individual has caused this
+Agreement to be duly executed under seal by its respective  authorized officers,
+all as of the day and year first above written.
+
+
+/s/ SIMON PIERS THURLOW
+-----------------------------
+Simon Piers Thurlow
+
+
+AUTOCARBON, INC.
+
+By: /s/ SIMON PIERS THURLOW
+-----------------------------
+Name:  Simon Piers Thurlow
+Title: President
+
+
+DONGYUAN INVESTMENT CONSULTANCY, H.K., LIMITED
+
+
+By:/s/ LIANQIN QU
+-----------------------------
+Name:  Lianqin Qu
+Title: President
+
+/s/ DONGHAI ZHANG
+-----------------------------
+Donghai Zhang
+
+/s/MEI DONG
+-----------------------------
+Mei Dong
+
+/s/LUNBEN CHE
+-----------------------------
+Lunben Che
+
+/s/BING WANG
+-----------------------------
+Bing WANG
+
+/s/ KEN WANG
+-----------------------------
+Ken Wang
+
+/s/ FRED CHANG
+-----------------------------
+Fred Chang
+
+/s/ LIUYI ZHANG
+-----------------------------
+Liuyi Zhang
+
+                                       22
+<PAGE>
+
+
+
+Schedule 1.1
+SELLER:                Simon Piers Thurlow
+                       126 E. 83rd Street
+                       Suite 2F
+                       New York, New York  10028
+                       Telephone:  (212) 717-4254
+
+                  Proportion of Purchased Shares and Purchase Price
+
+     PURCHASERS:       Dongyuan Investment Consultancy, H.K., Limited 10,246,870
+                       16/F, Flat C, MaxShare Centre,
+                       367-373, King's Road
+                       Northpoint, Hong Kong
+
+                       Donghai Zhang    10,246,860
+
+                       Mei Dong          1,387,520
+
+                       Lunben Che          553,900
+
+                       Bin Huang         2,124,170
+
+                       Ken Wang          2,154,940
+
+                       Fred Chang        1,748,760
+
+                       Liuyi Zhang         836,980
+
+                       Bing Wang           200,000
+
+
+PAYMENT WIRING INSTRUCTIONS
+
+Commerce Bank
+14-03 Saddle River Road
+Fair Lawn, New Jersey 07410
+(201) 794-1782
+
+Roger L. Fidler Attorney Trust Account
+Acc. #3450872001
+ABA Routing No. 021200957
+
+
+                                       23
+
+</TEXT>
+</DOCUMENT>

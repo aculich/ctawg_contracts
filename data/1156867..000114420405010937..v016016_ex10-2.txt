@@ -1,0 +1,621 @@
+<DOCUMENT>
+<TYPE>EX-10.2
+<SEQUENCE>8
+<FILENAME>v016016_ex10-2.txt
+<TEXT>
+
+                                                                       EXHIBIT E
+
+                               CUSTODIAL AGREEMENT
+
+      THIS CUSTODIAL AGREEMENT (this "Agreement") is made as of April 6, 2005,
+by and among TNX Television Holdings, Inc., a Delaware corporation with an
+address at Presidential Place, 800 S. Ocean Blvd, L1, Boca Raton Fla. 33432 (the
+"Company"), the purchasers signatory hereto (each individually, a "Purchaser,"
+and collectively, the "Purchasers"), and Feldman Weinstein LLP, as custodial
+agent for and for the benefit of the Purchasers, with an address at 420
+Lexington Avenue, Suite 2620, New York, New York 10170 (the "Custodian").
+Capitalized terms used but not defined herein shall have the meanings set forth
+in the Securities Purchase Agreement referred to in the first recital.
+
+                              W I T N E S S E T H:
+
+      WHEREAS, the Company and each Purchaser has entered into the Securities
+Purchase Agreement of even date herewith (the "Purchase Agreement"), pursuant to
+which the Purchasers are purchasing the Company's Secured Convertible Debentures
+due two years after their date of issuance (collectively, the "Debentures") and
+Warrants; and
+
+      WHEREAS, in order to induce the Purchasers to enter into the Purchase
+Agreement and to purchase the Debentures, and as a condition precedent thereto,
+the Company has agreed to secure the payment and performance of its obligations
+under the Purchase Agreement, the Debentures, this Agreement and the other
+Transaction Documents by granting to the Purchasers a first priority security
+interest in certain of the cash proceeds from the sale of the Debentures; and
+
+      WHEREAS, the Company and the Purchasers have requested that the Custodian
+hold 30% of the gross cash proceeds from the sale of the Debentures for the
+benefit of the Purchasers, as secured parties, in accordance with the terms
+hereof;
+
+      NOW, THEREFORE, in consideration of the premises and the mutual covenants
+hereinafter contained, and for other good and valuable consideration, the
+receipt and sufficiency of which are hereby acknowledged, the parties hereto
+agree as follows:
+
+      1. Closing.
+
+            (a) Upon the Custodian's receipt from the Purchasers of, in the
+      aggregate, up to $5,000,000 (the "Aggregate Purchase Price") into its
+      custodial account, together with each Purchaser's executed counterparts of
+      this Agreement, the Purchase Agreement, the Security Agreement, the
+      Registration Rights Agreement and, if applicable, the Series A Preferred
+      Stock, the certificates evidencing the Series A-1 Preferred Stock, the
+      Custodian shall telephonically advise the Company, or the Company's
+      designated attorney or agent, of its receipt of such funds and such
+      documents.
+
+
+<PAGE>
+
+            (b) Wire transfers to the Custodian shall be made as follows:
+
+                        STERLING NATIONAL BANK
+                        622 3RD AVENUE
+                        NEW YORK, NY 10017
+                        ACCOUNT NAME:  FELDMAN WEINSTEIN LLP
+                        ABA ROUTING NO: 026007773
+                        ACCT NO: 0814180101
+                        REMARK: TNXT/[FUND NAME]
+
+            (c) The Company, upon receipt of the telephonic notice described in
+      Section 1(a) above, shall deliver to the Custodian the certificates
+      representing the Debentures and the Warrants to be issued to each
+      Purchaser at the Closing together with:
+
+                  (i) a counterpart of the Registration Rights Agreement, duly
+            executed by the Company;
+
+                  (ii) the executed legal opinion of Company Counsel;
+
+                  (iii) a counterpart of the Purchase Agreement, duly executed
+            by the Company;
+
+                  (iv) a counterpart of this Agreement, duly executed by the
+            Company;
+
+                  (v) a counterpart of the Security Agreement, along with all
+            Security Documents;
+
+                  (vi) if applicable, a warrant(s) issued to First Montauk
+            Securities Corp. ("First Montauk") and/or its designees to purchase
+            up to a number of shares of Common Stock equal to 10% of the number
+            of shares of Common Stock issuable upon conversion of the Debentures
+            that are issued to the Purchasers who were introduced to the Company
+            by First Montauk, as set forth on Schedule 1.1(e) attached hereto,
+            with an exercise price of $0.75, subject to adjustment therein, and
+            otherwise in the form of the Warrants ("First Montauk Warrants");
+
+                  (vii) a warrant(s) issued to T.R. Winston & Company, LLC
+            ("T.R. Winston") and/or its designees to purchase up to a number of
+            shares of Common Stock equal to 10% of the number of shares of
+            Common Stock issuable upon conversion of the Debentures purchased by
+            Bristol Investment Fund, Ltd. ("Bristol"), as set forth on Schedule
+            1.1(e) attached hereto, with an exercise price of $0.75, subject to
+            adjustment therein, and otherwise in the form of the Warrants ("T.R.
+            Winston Warrants" and collectively with the First Montauk Warrants
+            and the vFinance Warrants, the "Placement Agent Warrants");
+
+                  (viii)a certificate evidencing a number of shares of Common
+            Stock equal to 5% of the Aggregate Purchase Price, as set forth on
+            Schedule 1.1(e) attached hereto, divided by the closing bid price on
+            the Trading Day immediately prior to the date of the Purchase
+            Agreement, registered in the name of such placement Agent (the
+            "Placement Agent Shares"); and
+
+
+                                       2
+<PAGE>
+
+                  (ix) if applicable, a Secretary's Certificate, as required
+            pursuant to Section 4.17 of the Purchase Agreement.
+
+            (d) In the event that the foregoing items have not been delivered to
+      the Custodian by the Company within five (5) Trading Days after the
+      Custodian has received all of the Subscription Amounts (net of any
+      permitted deductions pursuant to the Purchase Agreement), then each
+      Purchaser shall have an independent and separate right to demand and
+      receive the return of its Subscription Amount.
+
+            (e) Once the Custodian receives all of the items required to be
+      delivered hereunder, it shall wire the gross proceeds raised pursuant to
+      the Purchase Agreement per the written instructions of the Company less
+      (i) the balance of 30% of the Aggregate Gross Purchase Price (the "Secured
+      Proceeds") which shall be initially transferred into a separate
+      non-interest bearing Custodial Account of the Custodian (the "Custodial
+      Account"), (ii) 5% of the Aggregate Purchase Price of all Purchasers to
+      the Persons and in the amounts set forth on Schedule 1.1(e) attached
+      hereto, (iii) $10,000 to the Custodian for payment of legal fees and
+      expenses and (iv) 5% of the Subscription Amount purchased by Bristol.
+      Thereafter, the Custodial Account shall be maintained by the Custodian in
+      accordance with the terms of this Agreement and shall, if possible, be
+      invested in an interest-bearing government securities or commercial money
+      market fund made available by the Custodian's bank or as otherwise
+      directed in a writing executed by the Company and each Purchaser. The
+      Custodian, by its execution and delivery of this Agreement, hereby agrees
+      to accept receipt of the Secured Proceeds and to hold such proceeds for
+      the benefit of the Purchasers, as secured parties.
+
+            (f) Within five (5) Trading Days after transferring the Secured
+      Proceeds into the Custodial Account, the Custodian shall then arrange to
+      have originals or counterpart originals of the Purchase Agreement, the
+      Warrants, the Placement Agent Warrants (as applicable), the Debentures,
+      the Registration Rights Agreement, the Security Agreement and the Security
+      Documents, this Agreement, the Placement Agent Shares (as applicable) and
+      the opinion of counsel delivered to the appropriate parties.
+
+            (g) The Custodian shall hold the Secured Proceeds in the Custodial
+      Account, for the benefit of each Purchaser, and not release such proceeds
+      except as provided herein. NOTWITHSTANDING ANYTHING IN THIS AGREEMENT TO
+      THE CONTRARY, AS TO ANY PURCHASER, THE CUSTODIAN SHALL ONLY RELEASE FUNDS
+      TO THE COMPANY OR A PURCHASER UNDER THIS AGREEMENT TO THE EXTENT ALL SUCH
+      RELEASES ON ACCOUNT OF SUCH PURCHASER, IN THE AGGREGATE, DO NOT EXCEED 30%
+      OF THE ORIGINAL PRINCIPAL AMOUNT OF DEBENTURES PURCHASED BY SUCH PURCHASER
+      PURSUANT TO THE PURCHASE AGREEMENT.
+
+      2. Release of Secured Proceeds.
+
+
+                                       3
+<PAGE>
+
+            (a) Release Upon CVA Effective Date. Upon (a) the conclusion by TNCI
+      UK Ltd. (the "Subsidiary") of a Company Voluntary Arrangement with its
+      creditors under Part I of the Insolvency Act 1986, (b) the concurrent
+      discharge of the administration order under the Insolvency Act 1986 to
+      which Subsidiary is subject, (c) the approval by the boards of directors
+      of each of Subsidiary and the Company of resolutions in form and substance
+      satisfactory to a majority in interest of the Purchasers authorizing
+      Subsidiary to become jointly and severally obligated with the Company for
+      the loan of Secured Proceeds and to give security therefor, and (d) the
+      creation by Subsidiary in favor and for the benefit of the Purchasers of
+      (i) a first legal mortgage of all of Subsidiary's freehold and leasehold
+      property and of all of Subsidiary's shares, bonds or other securities and
+      investments, (ii) a first fixed charge of all of Subsidiary's plant and
+      machinery, accounts, agreements, instruments, insurance, intellectual
+      property and other assets, and (iii) a first floating charge of all of
+      Subsidiary's assets not at any time otherwise effectively mortgaged,
+      charged or assigned by way of fixed mortgage, charge or assignment in
+      favor of the Purchasers, such security to be in form and substance
+      satisfactory to a majority in interest of the Purchasers (the date on
+      which all of the foregoing actions shall have been completed and not
+      revoked or rescinded to be referred to as the "CVA Effective Date"), the
+      Company shall provide each Purchaser with evidence of the occurrence of
+      the CVA Effective Date, which evidence shall be satisfactory in form and
+      substance to Purchasers of a majority in interest of the outstanding
+      Principal Amount of Debentures ("Purchaser Majority"), wherefrom such
+      Purchaser Majority and the Company shall promptly thereafter execute a
+      joint certificate to the Custodian certifying that the CVA Effective Date
+      has occurred (a "CVA Certificate", such release upon the CVA Effective
+      Date shall be a "CVA Release" and such date of a CVA Release shall be the
+      "CVA Release Date"). Promptly after its receipt of a CVA Certificate, the
+      Custodian shall release all of the Secured Proceeds to the account
+      specified in the written instructions of the Company, net of actual legal
+      fees and expenses incurred by the Purchasers in connection with the lien
+      granted to the Purchasers by the Subsidiary in all of the assets of the
+      Subsidiary.
+
+            (b) Release Upon Conversion of Debentures. Upon the conversion by
+      any Purchaser of all or part of the principal amount of the Debenture(s)
+      held by such Purchaser in excess of such Purchaser's Pro Rata Fraction of
+      the sum of $_______________(1) (the "Pro Rata Fraction" is defined as the
+      Principal Amount of the Purchaser divided by the aggregate Principal
+      Amount that all of the Purchasers paid for in cash at the Closing) (the
+      "Converted Principal Amount"), such Purchaser and the Company shall
+      promptly thereafter execute a joint certificate to the Custodian
+      certifying that such Converted Principal Amount has been converted by the
+      Purchaser (a "Conversion Certificate", such release upon Conversion shall
+      be a "Conversion Release" and such date of a Conversion Release shall be
+      the "Conversion Release Date"). Promptly after its receipt of a Conversion
+      Certificate, the Custodian shall release out of the Secured Proceeds,
+      subject to the limitation set forth in Section 1(g), to the account
+      specified in the written instructions of the Company, an amount equal to
+      the Converted Principal Amount.
+
+----------
+(1)   75% of the aggregate Subscription Amounts.
+
+
+                                       4
+<PAGE>
+
+            (c) Release Upon Consent of Purchasers. Upon receipt by the Company
+      of written consent of each Purchaser to release any portion of the Secured
+      Proceeds, the Company and each Purchaser shall execute and deliver to the
+      Custodian a joint certificate (each, a "Consent Certificate" such release
+      upon consent shall be a "Consent Release" and such date of a Consent
+      Release shall be the "Consent Release Date") certifying that consent to
+      release such Secured Proceeds has been obtained, which Consent Certificate
+      shall include the amount of the Secured Proceeds to be released,
+      representations from each Purchaser as to the outstanding Principal Amount
+      of the Debentures held by it at the time such consent was obtained, and a
+      representation by the Company's chief financial officer as to the
+      aggregate Principal Amount of the Debentures outstanding at the time
+      consent was obtained. Any Purchaser may consent or withhold consent to any
+      such release of any of the Secured Proceeds in its sole and absolute
+      discretion. Upon receipt of the Consent Certificate, the Custodian shall
+      release, to the account of the Company designated in the Consent
+      Certificate, subject to Section 1(g), the portion of the Secured Proceeds
+      specified in the Consent Certificate. If less than all of the Secured
+      Proceeds are released, the remaining amount, for purposes of calculating
+      each Purchaser's rights hereunder, shall be re-allocated according to such
+      Purchaser's Pro Rata Portion.
+
+            (d) Release Upon an Event of Default. At any time after the
+      occurrence of an Event of Default, any Purchaser may, at its option,
+      deliver a certificate to the Custodian and the Company specifying the
+      nature of the Event of Default. If, within ten days after its receipt of
+      such certificate, the Custodian shall not have received written notice
+      from the Company that it disputes the occurrence of such Event of Default,
+      then the Custodian shall release to such Purchaser's Portion of the
+      Secured Proceeds remaining in the Custodial Account, subject to Section
+      1(g). In the event that the Company does deliver a timely notice to the
+      Custodian and each Purchaser that it disputes such determination, then
+      such dispute shall be resolved between the Company and the Purchaser by
+      arbitration conducted as follows: the arbitration shall be conducted in
+      New York, New York, before an arbitration panel of three arbitrators, one
+      of whom shall be selected by the Purchaser, one of whom shall be selected
+      by the Company, with the remaining arbitrator to be agreed upon by the
+      first two. The arbitration shall be conducted in accordance with the
+      commercial arbitration rules of the American Arbitration Association then
+      in effect. Any arbitration decision or award shall be final and conclusive
+      as to the parties to this Agreement and their successors and assigns;
+      judgment upon such decision or award may be entered in any competent
+      court. In the event that the arbitration shall be decided in favor of the
+      applicable Purchaser, then upon delivery of a written copy of such
+      decision by the Purchaser to the Custodian, the Custodian shall promptly
+      release the Purchaser's remaining Secured Proceeds to the Purchaser,
+      subject to Section 1(g).
+
+            (e) Release Upon Forced Conversion. Upon written notice by the
+      Company and any Purchaser to the Custodian that the Company has properly
+      forced conversion of the Debentures, pursuant to Section 6 of the
+      Debentures, then, such Purchaser and the Company shall promptly thereafter
+      execute a joint certificate to the Custodian certifying that such amount
+      under the Forced Conversion (as defined in the Debenture) has been
+      converted (a "Forced Conversion Certificate", such release upon a Forced
+      Conversion shall be a "Forced Conversion Release" and such date of a
+      Forced Conversion Release shall be the "Forced Conversion Release Date");
+
+
+                                       5
+<PAGE>
+
+      provided, however, if such Purchaser does not execute a Forced Conversion
+      Certificate to the Custodian or does not object to the Company and the
+      Custodian to the execution of such Forced Conversion Certificate within 5
+      Trading Days after written and confirmed notice to such Purchaser from the
+      Company of such request for release pursuant to this Section 2(e), then
+      such Purchaser shall be deemed to have consented to such release. Promptly
+      after its receipt of a Forced Conversion Certificate, the Custodian shall
+      release the Secured Proceeds to the account specified in the written
+      instructions of the Company, in an amount equal to the ratio that the
+      amount of principal amount of Debentures subject to the Forced Conversion
+      bears to the outstanding principal amount of the Debentures.
+
+            (f) Procedure for Release. In the event that any CVA Release Date,
+      Conversion Release Date, Consent Release, release upon an Event of Default
+      or Forced Conversion Release (collectively, the "Release" and, the date of
+      such Release, the "Release Date") is not a Business Day (as defined
+      herein), then such Release shall be deemed to be the next Business Day.
+      "Business Day" shall mean any day that is not a Saturday, a Sunday or a
+      day on which banks are required or permitted to be closed in the State of
+      New York. In the event that any of the Secured Proceeds shall have been
+      paid in whole or in part on or prior to the applicable Release Date, the
+      Company shall provide immediate telephonic notice thereof to the
+      Purchasers and to the Custodian, promptly followed by written confirmation
+      to such parties, and the amount requested pursuant to such Release shall
+      be reduced by the aggregate amount of payments received by the Company in
+      satisfaction of such Release.
+
+      3. Security Agreement.
+
+            (a) The Company hereby unconditionally and irrevocably grants to the
+      Purchasers, to secure the payment and performance in full when due of all
+      of the Obligations (as defined in the Security Agreement), a continuing
+      first priority security interest in, and so pledges and assigns to the
+      Purchasers all of, the Secured Proceeds and any interest that accrues
+      thereon ("Collateral"). Such security interest is set forth in the
+      Security Agreement. The security interest in the Secured Proceeds shall
+      terminate upon the release of all of the Secured Proceeds from the
+      Custodial Account, it being understood however that the Company's
+      obligations under the Debentures shall remain in full force and effect.
+
+            (b) Further Assurances. The Company agrees that at any time and from
+      time to time, at the expense of the Company, the Company shall promptly
+      execute and deliver all further instruments, documents and/or control
+      agreements and take all further action, that may be necessary or
+      desirable, or that the Purchasers may reasonably request, in order to
+      perfect and protect any security interest granted or purported to be
+      granted hereby or to enable any Purchaser to exercise and enforce its
+      rights and remedies hereunder with respect to any of the Collateral.
+
+            (c) Rights and Remedies. At any time after the occurrence of an
+      Event of Default, and without any other notice to or demand upon the
+      Company, the Purchasers shall have, in any jurisdiction in which
+      enforcement hereof is sought, in addition to all other rights and
+      remedies, the rights and remedies of a secured party under the Uniform
+      Commercial Code in effect from time to time in the State of New York (the
+      "UCC") and any additional rights and remedies which may be provided to a
+      secured party in any applicable jurisdiction.
+
+
+                                       6
+<PAGE>
+
+            (d) Power of Attorney. The Company hereby irrevocably constitutes
+      and appoints the Purchasers, and each of them, and any officer, partner,
+      member or agent thereof, with full power of substitution, as its true and
+      lawful attorneys-in-fact with full irrevocable power and authority in the
+      name, place and stead of the Company or in their own names, for the
+      purpose of carrying out the terms of this Agreement, to take any and all
+      appropriate action and to execute any and all documents and instruments
+      that may be necessary or useful to accomplish the purposes of this
+      Agreement and, without limiting the generality of the foregoing, hereby
+      gives said attorneys the power and right, on behalf of the Company,
+      without notice to or assent by the Company, at any time after the
+      occurrence of an Event of Default, to sell, transfer, pledge, make any
+      agreement with respect to or otherwise dispose of or deal with any of the
+      Collateral in such manner as is consistent with the UCC and as fully and
+      completely as though the Purchasers were the absolute owners thereof for
+      all purposes, and to do, at the Company's expense, at any time or from
+      time to time, all acts and things which the Purchasers deem necessary or
+      useful to protect, preserve or realize upon the Collateral and the
+      security interest of the Purchasers therein, in order to effect the intent
+      of this Agreement, all at least as fully and effectively as the Company
+      might do.
+
+            (e) Marshalling. All rights and remedies of the Purchasers hereunder
+      and in respect of the Collateral and other assurances of payment shall be
+      cumulative and in addition to all other rights and remedies, however
+      existing or arising. To the extent that it lawfully may, the Company
+      hereby agrees that it will not invoke any law relating to the marshalling
+      of assets which might cause a delay in or impede the enforcement of the
+      rights and remedies of the Purchasers under this Agreement, the
+      Debentures, the other Transaction Documents or under any other instrument
+      creating or evidencing any of the Obligations or under which any of the
+      Obligations is outstanding or by which any of the Obligations is secured
+      or payment thereof is otherwise assured, and to the extent that it
+      lawfully may, the Company hereby irrevocably waives the benefits of all
+      such law.
+
+            (f) No Waiver, etc. The Purchasers shall not be deemed to have
+      waived any of their rights or remedies in respect of the Obligations or
+      the Collateral unless such waiver shall be in writing and signed by the
+      Purchasers. No delay or omission on the part of the Purchasers in
+      exercising any right or remedy shall operate as a waiver of such right or
+      remedy or any other right or remedy. A waiver on any one occasion shall
+      not be construed as a bar to or waiver of any right or remedy on any
+      future occasion. All rights and remedies of the Purchasers with respect to
+      the Obligations or the Collateral, whether evidenced hereby or by any
+      other document or instrument, shall be cumulative and may be exercised
+      singularly, alternatively, successively or concurrently at such time or at
+      such times as the Purchasers deem expedient.
+
+
+                                       7
+<PAGE>
+
+            (g) Certain Defined Terms. Terms used in this Section 3 but not
+      otherwise defined in this Agreement that are defined in the UCC (as such
+      term is hereinafter defined) shall have the respective meanings given such
+      terms therein; provided, however, that if a term is defined in Article 9
+      of the UCC differently than in another Article of the UCC, then such term
+      shall have the meaning specified in Article 9. "UCC" means the Uniform
+      Commercial Code in effect from time to time in the State of New York.
+
+      4. Conditions to Custodian's Duties. The acceptance by the Custodian of
+its duties as such under this Agreement is subject to the following terms and
+conditions, which all of the parties to this Agreement hereby agree shall govern
+and control with respect to the rights, duties, liabilities and immunities of
+the Custodian:
+
+            (a) The Custodian is not a party to, nor is it bound by, any other
+      agreement by which the other parties hereto may be bound (whether or not
+      it has knowledge of such), other than as expressly herein set forth.
+
+            (b) The Custodian shall be protected in acting upon any written
+      notice, request, waiver, consent, receipt or other document which the
+      Custodian, in good faith, believes to be genuine and what it purports to
+      be. No waiver or any breach of any covenant or provision herein contained
+      shall be deemed a waiver of any preceding or succeeding breach thereof, or
+      of any other covenant or provision herein contained. No extension of time
+      for performance of any obligation or act shall be deemed an extension of
+      the time for performance of any other obligation or act. If the Custodian
+      reasonably requires other or further instruments in connection with this
+      Agreement or obligations in respect hereto, the necessary parties hereto
+      shall join in furnishing such instruments.
+
+            (c) The Custodian shall be indemnified and held harmless by the
+      Company and the Purchasers, jointly and severally, from and against any
+      and all loss, expense, fees (including attorneys' fees) and damages that
+      may be incurred by the Custodian as a result of its agreeing to act in
+      such capacity and its performance of this Agreement. The Custodian shall
+      not be obligated to any party for any error in judgment or for any act
+      done or steps taken or omitted by it in good faith, or for any mistake of
+      fact or law, or for anything which it may do or refrain from doing in
+      connection therewith, except as a result of its own gross negligence or
+      willful misconduct. This indemnity includes the costs of enforcing the
+      indemnification (including attorneys' fees).
+
+            (d) The Custodian may consult with or retain legal counsel in
+      connection with any dispute or question as to the construction of any of
+      the provisions hereof or with regard to its duties and shall be held
+      harmless and protected by the Company and the Purchasers in acting in good
+      faith in accordance with the instructions of such counsel. Such counsel's
+      fees and expenses shall be paid as set forth in Section 4(f) hereof. The
+      Custodian may represent itself at its usual rates.
+
+            (e) The Custodian shall not be responsible or liable for the default
+      or misconduct of its agents, attorneys or employees, if they are selected
+      with reasonable care.
+
+
+                                       8
+<PAGE>
+
+            (f) The Company will pay the Custodian's fees (at the Custodian's
+      customary hourly rate for legal services) and out-of-pocket disbursements
+      for time spent in performing its duties under this Agreement, and if any
+      of Custodian's invoices are not paid in full within 30 days, the Custodian
+      is directed to pay itself directly from the Custodial Account; provided
+      that if fees are taken directly from the Custodial Account by the
+      Custodian, the Purchasers shall have no claim against the Custodian for
+      such funds but shall have a claim against the Company for reimbursement.
+      The Company shall promptly replenish any funds that are disbursed to the
+      Custodian from the Custodial Account.
+
+            (g) The Custodian shall have no obligation to seek to maximize the
+      rate of interest on the Secured Proceeds, and shall be without liability
+      to any person in respect thereof.
+
+            (h) No modification of this Agreement shall, without the consent of
+      the Custodian and all other parties hereto, modify the provisions of this
+      Agreement relating to the duties, obligations or rights of the Custodian.
+      This Agreement is the final expression of, and contains the entire
+      agreement between, the parties with respect to the subject matter hereof
+      and supersedes all prior understandings with respect thereto.
+
+      5. Conflict with Respect to Collateral.
+
+                  (a) In the event that the Custodian at any time receives or
+            becomes aware of conflicting demands or claims with respect to the
+            Collateral, this Agreement or its duties hereunder, the Custodian
+            shall have the right to discontinue and refrain from any and all
+            activities on its part under this Agreement or in connection
+            herewith until such conflict is resolved to its satisfaction.
+
+                  (b) The Custodian shall have the further right to commence or
+            defend any action or proceedings for the determination of such
+            conflict. The Company and the Purchasers jointly and severally agree
+            to pay all costs, damages, judgments and expenses, including
+            reasonable attorneys' fees, suffered or incurred by the Custodian in
+            connection with or arising out of this Agreement and the
+            transactions described herein in the event of bona fide conflicting
+            claims or demands, including, but without limiting the generality of
+            the foregoing, a suit in interpleader brought by the Custodian. In
+            the event that the Custodian files a suit in interpleader, it shall
+            thereupon be fully released and discharged from all further
+            obligations to perform any and all duties or obligations imposed
+            upon it by this Agreement (except it may not release the Collateral
+            except as designated by the court).
+
+      6. Acknowledgement. All parties hereto agree that the Custodian is counsel
+for Bristol Investment Fund, Ltd. ("Bristol") and shall be entitled to represent
+Bristol with respect to the Purchase Agreement and the transactions contemplated
+thereunder; and the Company and each other Purchaser hereby waives any right or
+claim to object to such legal representation by Custodian of Bristol in
+connection with this transaction.
+
+      7. Resignation of Custodian. The Custodian may at any time resign
+hereunder by giving written notice of its resignation to the Company and the
+Purchasers, at least ten (10) days prior to the date specified for such
+resignation to take effect, and upon the effective date of such resignation, all
+property then held by the Custodian hereunder shall be delivered by it to such
+
+
+                                       9
+<PAGE>
+
+Person as may be designated by the Company and the Purchasers, in writing,
+whereupon all the Custodian's obligations hereunder shall cease and terminate.
+If no such Person shall have been designated by such date, all obligations of
+the Custodian hereunder shall, nevertheless, cease and terminate. The
+Custodian's sole responsibility thereafter shall be to keep safely all property
+then held by it and to deliver the same to a Person designated by the parties
+hereto or in accordance with the directions of a final order or judgment of a
+court of competent jurisdiction, or to file a suit in interpleader as provided
+in Section 5 above.
+
+      8. Interest on Secured Proceeds. The Custodian shall owe no duty and have
+no obligation whatsoever to the Company or the Purchasers to obtain or maintain
+any level of interest on the Secured Proceeds.
+
+      9. Successors and Assigns. The Purchasers may assign their rights
+hereunder in connection with the transfer of Debentures. The Company may not
+assign its rights under this Agreement. This Agreement shall be binding upon and
+inure to the benefit of the parties hereto and their respective heirs,
+administrators, successors and permitted assigns.
+
+      10. Governing Law; Jurisdiction. THIS AGREEMENT SHALL BE GOVERNED BY AND
+CONSTRUED IN ACCORDANCE WITH THE INTERNAL LAWS OF THE STATE OF NEW YORK, AND THE
+PARTIES AGREE AND CONSENT TO THE EXCLUSIVE JURISDICTION OF THE FEDERAL AND STATE
+COURTS LOCATED IN NEW YORK COUNTY, NEW YORK IN ANY ACTION OR PROCEEDING
+HEREUNDER, AND TO SERVICE OF PROCESS BY CERTIFIED MAIL, RETURN RECEIPT REQUESTED
+(WHICH SHALL CONSTITUTE "PERSONAL SERVICE"). THE PARTIES HERETO HEREBY
+IRREVOCABLY WAIVE, TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, ANY AND
+ALL RIGHT TO TRIAL BY JURY IN ANY LEGAL PROCEEDING ARISING OUT OF OR RELATING TO
+THIS AGREEMENT.
+
+      11. Amendment. No provision of this Agreement may be amended or waived
+without the prior written consent of the Company and all the Purchasers;
+provided, however, that any provision relating to the duties, obligations and
+rights of the Custodian shall in addition require the approval of the Custodian,
+as provided in Section 4 above.
+
+      12. Notices. All notices or other communications between the parties
+contemplated under, or relating to, this Agreement shall be in writing, shall be
+signed by each person giving such notice or communication, and shall be
+delivered by hand, reputable overnight courier or by certified mail, return
+receipt requested, to the parties at their respective addresses set forth above
+or to such other address as to which the sending party has received written
+notice in accordance with this Section 12.
+
+
+                                       10
+<PAGE>
+
+      IN WITNESS WHEREOF, the parties hereto have duly executed this Custodial
+Agreement as of the day and year first above written.
+
+
+TNX TELEVISION HOLDINGS, INC.
+
+
+By:__________________________________________
+     Name:
+     Title:
+
+CUSTODIAN:
+
+FELDMAN WEINSTEIN LLP
+
+
+By:__________________________________________
+     Name:
+     Title:
+
+
+                   [PURCHASERS' SIGNATURE PAGES TO FOLLOW]
+
+
+                                       11
+<PAGE>
+
+           [PURCHASER'S SIGNATURE PAGE TO TNXT CUSTODIAL AGREEMENT]
+
+
+Name of Investing Entity:__________________________
+
+Signature of Authorized Signatory of Investing Entity:__________________________
+
+Name of Authorized Signatory:_________________________
+
+Title of Authorized Signatory:__________________________
+
+              [ADDITIONAL PURCHASERS' SIGNATURE PAGES TO FOLLOW]
+
+
+                                       12
+</TEXT>
+</DOCUMENT>

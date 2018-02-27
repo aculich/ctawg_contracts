@@ -1,0 +1,42 @@
+<DOCUMENT>
+<TYPE>EX-2.6
+<SEQUENCE>8
+<FILENAME>dex26.txt
+<DESCRIPTION>BILL OF SALE
+<TEXT>
+<PAGE>
+
+
+
+                                                                     Exhibit 2.6
+
+BILL OF SALE
+
+July 18, 2002
+
+Marlin Data Research, Inc. has sold a TERM ROYALTY INTEREST as more fully
+described in the assignment dated and effective July 18, 2002 to Houston
+American Energy Corp. for ten dollars and acknowledges receipt of this amount.
+
+
+/s/  John F. Terwilliger                  /s/  John F. Terwilliger
+----------------------------------        ----------------------------------
+John F. Terwilliger                       John F. Terwilliger
+President                                 President
+Marlin Data Research, Inc.                Houston American Energy Corp.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOCUMENT>

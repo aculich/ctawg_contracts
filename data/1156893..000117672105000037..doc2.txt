@@ -1,0 +1,129 @@
+<DOCUMENT>
+<TYPE>EX-10.1(I)
+<SEQUENCE>2
+<FILENAME>doc2.txt
+<TEXT>
+                                                                 EXHIBIT 10.1(i)
+
+                                 PROMISSORY NOTE
+
+US$200,000.00                                                 February  3,  2005
+
+     FOR  VALUE RECEIVED, the undersigned, LONG DISTANCE BILLING SERVICES, INC.,
+a  Nevada  corporation (the "Maker"), hereby promises to pay to the order of NS8
+CORPORATION  (the  "Payee", which term includes any subsequent holder hereof) at
+Seattle,  Washington  or  at such other place as the Payee may from time to time
+hereafter  designate  to  the Maker in writing, on August 1, 2005, the principal
+sum  of TWO HUNDRED THOUSAND UNITED STATES DOLLARS AND NO CENTS (US$200,000.00).
+
+     The  unpaid  principal  balance  hereof from time to time outstanding shall
+bear  interest  at the rate of 12% per annum.  Interest shall be computed on the
+basis  of actual days elapsed and a year of 360 days.  Upon the happening of any
+Event  of  Default,  this  Note, at the option of the Payee, shall bear interest
+until  paid in full at a rate per annum equal to the rate of interest applicable
+immediately  prior  to  such  Event  of  Default  plus  3%.
+
+     Interest  hereon  shall  be  payable  in  arrears  at  final  maturity.
+
+     This  Note may be prepaid by the Maker at any time in whole or from time to
+time in part (in minimum partial payments of at least US$10,000) without premium
+or  penalty.  Any  prepayment  shall be applied first against accrued and unpaid
+interest  and  the  balance  shall  be  applied  against  principal.
+
+     This Note is secured by a Security Agreement dated February 3, 2005 (as the
+same  may  hereafter  be  amended,  modified  or  supplemented, or any agreement
+entered  into in substitution or replacement therefor, the "Security Agreement")
+given  by  the  Maker  to  the  Payee.
+
+     The  occurrence of any one or more of the following events shall constitute
+an  Event  of Default, and upon the occurrence of any Event of Default the Payee
+may  declare  this
+Note to be, and the same shall forthwith become, immediately due and payable and
+the  Payee may exercise all rights and remedies under the Security Agreement and
+as  may  otherwise  be  allowed  by  law:
+
+     (1)  The  Maker  shall  fail  to  make any payment of principal or interest
+          hereon  when  due.
+
+     (2)  The  Maker shall become insolvent or shall generally not pay its debts
+          as  they  mature  or  shall  apply  for,  shall  consent  to, or shall
+          acquiesce  in  the appointment of a custodian, trustee or receiver for
+          the Maker or for a substantial part of the property thereof or, in the
+          absence  of  such  application,  consent or acquiescence, a custodian,
+          trustee  or  receiver  shall  be  appointed  for  the  Maker  or for a
+          substantial  part  of  the  property  thereof;  or  any  bankruptcy,
+          reorganization,  debt  arrangement  or  other  proceedings  under  any
+          bankruptcy  or  insolvency  law  shall be instituted by or against the
+          Maker.
+
+
+                                        1
+<PAGE>
+
+     (3)  The maturity of any material indebtedness of the Maker (other than the
+          indebtedness  on  this  Note)  shall be accelerated or the Maker shall
+          fail to pay any such material indebtedness when due or, in the case of
+          indebtedness  payable  on  demand,  when demanded. For these purposes,
+          indebtedness  of  the  Maker  shall  be  deemed material if it exceeds
+          US$25,000  as  to any item of indebtedness or in the aggregate for all
+          items  of  indebtedness  with  respect  to  which  any  of  the events
+          described  in  this  paragraph  has  occurred.
+
+     (4)  Any  default shall occur under the terms of the Security Agreement and
+          shall  continue  for more than the period of grace, if any, applicable
+          thereto.
+
+     (5)  A  judgment or judgments for the payment of money in excess of the sum
+          of  US$25,000 in the aggregate shall be rendered against the Maker and
+          the  Maker  shall not discharge the same or provide for its discharge,
+          or procure a stay of execution thereof, prior to any execution on such
+          judgment,  within  30  days from the date of entry thereof, and within
+          said  period  of 30 days, or such longer period during which execution
+          shall be stayed, appeal therefrom and cause the execution to be stayed
+          during  such  appeal.
+
+     (6)  Any  execution  or  attachment shall be issued whereby any substantial
+          part  of  the  property of the Maker shall be taken or attempted to be
+          taken  and  the  same  shall not have been vacated or stayed within 30
+          days  after  the  issuance  thereof.
+
+     THE  VALIDITY,  CONSTRUCTION  AND  ENFORCEABILITY  OF  THIS  NOTE  SHALL BE
+GOVERNED  BY THE INTERNAL LAWS OF THE STATE OF WASHINGTON, WITHOUT GIVING EFFECT
+TO  CONFLICT  OF  LAWS  PRINCIPLES  THEREOF.
+
+     AT  THE  OPTION OF THE PAYEE THIS NOTE MAY BE ENFORCED IN ANY FEDERAL COURT
+OR  WASHINGTON  STATE  COURT  SITTING  IN KING COUNTY, WASHINGTON; AND THE MAKER
+CONSENTS TO THE JURISDICTION AND VENUE OF ANY SUCH COURT AND WAIVES ANY ARGUMENT
+THAT  THE  VENUE  IN  SUCH FORUMS IS NOT CONVENIENT.  IF THE MAKER COMMENCES ANY
+ACTION  IN  ANOTHER  JURISDICTION  OR  VENUE  UNDER  ANY TORT OR CONTRACT THEORY
+ARISING  DIRECTLY  OR INDIRECTLY FROM THE RELATIONSHIP CREATED BY THIS NOTE, THE
+PAYEE  AT  ITS  OPTION  SHALL  BE  ENTITLED  TO HAVE THE CASE TRANSFERRED TO THE
+JURISDICTION  AND  VENUE  ABOVE-DESCRIBED,  OR,  IF  SUCH  TRANSFER  CANNOT  BE
+ACCOMPLISHED  UNDER  APPLICABLE  LAW,  TO  HAVE  SUCH  CASE  DISMISSED  WITHOUT
+PREJUDICE.
+
+     The  Maker  hereby  waives  presentment  for  payment,  notice of dishonor,
+protest  and  notice  of  protest.
+
+
+                                        2
+<PAGE>
+
+     If  this  Note is not paid when due, the Maker shall pay all of the Payee's
+costs  of  collection  including  reasonable  attorneys'  fees.
+
+
+                                       MAKER:
+
+                                       Long Distance Billing Services, Inc.
+
+                                       By  /s/ Patric Boggs
+                                           -------------------
+                                           Its President & CEO
+
+
+                                        3
+<PAGE>
+
+</TEXT>
+</DOCUMENT>

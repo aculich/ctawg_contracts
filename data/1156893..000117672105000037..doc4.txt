@@ -1,0 +1,814 @@
+<DOCUMENT>
+<TYPE>EX-10.1(III)
+<SEQUENCE>4
+<FILENAME>doc4.txt
+<TEXT>
+                                                               EXHIBIT 10.1(iii)
+
+                               SECURITY AGREEMENT
+
+
+     THIS SECURITY AGREEMENT, dated as of February 3, 2005, is made and given by
+LONG  DISTANCE  BILLING SERVICES, INC., a Nevada corporation (the "Grantor"), to
+NS8  CORPORATION,  a  Delaware  corporation  (the  "Secured  Party").
+
+                                    RECITALS
+                                    --------
+
+     A.  The  Grantor  will  or  may  become, or is now, indebted to the Secured
+Party  under  that  certain  promissory  note  in  the amount of $200,000, dated
+February  3,  2005  (the  "Note").
+
+     B.  The  Secured  Party  has  required the Grantor to execute this Security
+Agreement  and  the  Grantor  has  agreed  to  do  so.
+
+     C.   The Grantor finds it advantageous, desirable and in its best interests
+to  comply  with  the  requirement  that  it  execute  and deliver this Security
+Agreement  to  the  Secured  Party.
+
+     NOW, THEREFORE, in consideration of the premises and in order to induce the
+Secured  Party  to  extend or continue credit accommodations to the Grantor, the
+Grantor  hereby agrees with the Secured Party for the Secured Party's benefit as
+follows:
+
+     Section  1.  Defined  Terms.
+                  --------------
+
+     1  (a)  As  used  in  this  Agreement,  the  following terms shall have the
+meanings  indicated:
+
+     "Account" shall mean the rights of the Grantor to payment for goods sold or
+      -------
+leased  or  for  services  rendered  which  is not evidenced by an Instrument or
+Chattel  Paper,  whether  or  not such right has been earned by performance, all
+guaranties  and  security  therefor,  and all interests in the goods the sale or
+lease  of  which  gave  rise  thereto, including the right to stop such goods in
+transit.
+
+     "Account  Debtor"  shall  mean  a  Person  who is obligated on or under any
+      ---------------
+Account,  Chattel  Paper,  Instrument  or  General  Intangible.
+
+     "Chattel  Paper"  shall  mean  a  writing or writings which evidence both a
+      --------------
+monetary  obligation and a security interest in or lease of specific goods; when
+a  transaction  is  evidenced  by both a security agreement or a lease and by an
+Instrument  or  a  series  of  Instruments, the group of writings taken together
+constitutes  Chattel  Paper.
+
+     "Collateral"  shall  mean  all property and rights in property now owned or
+      ---------
+hereafter  at  any  time  acquired  by  the  Grantor in or upon which a Security
+Interest  is  granted  to the Secured Party by the Grantor under this Agreement.
+
+
+                                        1
+<PAGE>
+
+     "Document"  shall  mean  any  bill  of  lading, dock warrant, dock receipt,
+      --------
+warehouse  receipt  or  order for the delivery of goods, together with any other
+document  or  receipt  which  in  the regular course of business or financing is
+treated as adequately evidencing that the Person in possession of it is entitled
+to  receive,  hold  and  dispose  of  the  document  and  the  goods  it covers.
+
+     "Equipment" shall mean all machinery, equipment, motor vehicles, furniture,
+      ---------
+furnishings  and fixtures, including all accessions, accessories and attachments
+thereto,  and  any  guaranties,  warranties, indemnities and other agreements of
+manufacturers,  vendors  and  others  with  respect  to  such  Equipment.
+
+     "Event  of Default" shall have the meaning given to such term in Section 18
+      ----------------
+hereof.
+
+     "Financing  Statement" shall have the meaning given to such term in Section
+      --------------------
+4  hereof.
+
+     "General  Intangibles"  shall mean any personal property (other than goods,
+      --------------------
+Accounts,  Chattel  Paper, Documents, Instruments and money) including choses in
+action, causes of action, contract rights, corporate and other business records,
+inventions,  designs,  patents,  patent applications, service marks, trademarks,
+tradenames,  trade  secrets,  internet  domain names, engineering drawings, good
+will,  registrations,  copyrights,  licenses,  franchises,  customer  lists, tax
+refund  claims, royalties, licensing and product rights, rights to the retrieval
+from  third parties of electronically processed and recorded data and all rights
+to  payment  resulting  from  an  order  of  any  court.
+
+"Instrument"  shall  mean  a draft, check, certificate of deposit, note, bill of
+ ----------
+exchange,  security  or any other writing which evidences a right to the payment
+of  money and is not itself a security agreement or lease and is of a type which
+is transferred in the ordinary course of business by delivery with any necessary
+endorsement  or  assignment.
+
+     "Inventory"  shall  mean  any  and  all  goods  owned or held by or for the
+      ---------
+account  of the Grantor for sale or lease, or for furnishing under a contract of
+service,  or  as  raw  materials,  work in process, materials incorporated in or
+consumed  in  the  production of any of the foregoing and supplies, in each case
+wherever  the  same  shall  be  located,  whether in transit, on consignment, in
+retail  outlets,  warehouses, terminals or otherwise, and all property the sale,
+lease  or  other disposition of which has given rise to an Account and which has
+been  returned  to  the  Grantor  or  repossessed  by  the Grantor or stopped in
+transit.
+
+"Lien"  shall  mean  any  security  interest,  mortgage,  pledge,  lien, charge,
+ ----
+encumbrance,  title  retention  agreement  or  analogous  instrument  or  device
+(including  the  interest of the lessors under capitalized leases), in, of or on
+any  assets  or  properties  of  the  Person  referred  to.
+
+
+                                        2
+<PAGE>
+
+     "Note"  shall  have  the  meaning  indicated  in  Recital  A.
+      ----
+
+     "Obligations"  shall  mean  (a) all principal of, and interest on, the Note
+      -----------
+and  any  extension,  renewal or replacement thereof, (b) all liabilities of the
+Grantor  under  this  Agreement.
+
+     "Person"  shall  mean  any  individual,  corporation,  partnership, limited
+      ------
+partnership, limited liability company, joint venture, firm, association, trust,
+unincorporated  organization,  government  or  governmental  agency or political
+subdivision  or  any other entity, whether acting in an individual, fiduciary or
+other  capacity.
+
+     "Security  Interest"  shall  have  the meaning given such term in Section 2
+      ------------------
+hereof.
+
+     1  (b)  All  other  terms used in this Agreement which are not specifically
+defined  herein  shall  have  the  meaning assigned to such terms in the Uniform
+Commercial  Code  in  effect  in  the State of Washington as of the date of this
+Agreement  to  the  extent  such  other  terms  are  defined  therein.
+
+     1  (c)  Unless  the  context  of this Agreement otherwise clearly requires,
+references to the plural include the singular, the singular, the plural and "or"
+has  the  inclusive  meaning  represented  by  the  phrase  "and/or."  The words
+"include,"  "includes"  and  "including"  shall  be deemed to be followed by the
+phrase  "without  limitation."  The  words  "hereof,"  "herein," "hereunder" and
+similar  terms  in  this Agreement refer to this Agreement as a whole and not to
+any  particular  provision  of  this  Agreement.  References  to  Sections  are
+references  to  Sections  in  this Security Agreement unless otherwise provided.
+
+     Section  2.  Grant  of  Security Interest.  As security for the payment and
+                  ---------------------------
+performance  of all of the Obligations, the Grantor hereby grants to the Secured
+Party  a  security  interest  (the  "Security Interest") in all of the Grantor's
+right,  title,  and  interest  in and to the following, whether now or hereafter
+owned,  existing,  arising  or  acquired  and  wherever  located:
+
+     2  (a)  All  Accounts.
+
+     2  (b)  All  Chattel  Paper.
+
+     2  (c)  All  Documents.
+
+     2  (d)  All  Equipment.
+
+     2  (e)  All  General  Intangibles.
+
+     2  (f)  All  Instruments.
+
+     2  (g)  All  Inventory.
+
+
+                                        3
+<PAGE>
+
+     2  (h) To the extent not otherwise included in the foregoing, (i) all other
+rights  to  the  payment of money, including rents and other sums payable to the
+Grantor  under  leases,  rental agreements and other Chattel Paper and insurance
+proceeds; (ii) all books, correspondence, credit files, records, invoices, bills
+of  lading,  and  other  documents  relating to any of the foregoing, including,
+without  limitation,  all tapes, cards, disks, computer software, computer runs,
+and  other  papers  and documents in the possession or control of the Grantor or
+any  computer  bureau from time to time acting for the Grantor; (iii) all rights
+in,  to  and  under  all  policies  insuring  the life of any officer, director,
+stockholder or employee of the Grantor, the proceeds of which are payable to the
+Grantor;  and  (iv) all accessions and additions to, parts and appurtenances of,
+substitutions  for  and  replacements  of  any  of  the  foregoing.
+
+     2  (i)  To  the extent not otherwise included, all proceeds and products of
+any  and  all  of  the  foregoing.
+
+     Section  3.  Grantor  Remains  Liable.  Anything  herein  to  the  contrary
+                  ------------------------
+notwithstanding, (a) the Grantor shall remain liable under the Accounts, Chattel
+Paper,  General  Intangibles  and  other items included in the Collateral to the
+extent set forth therein to perform all of its duties and obligations thereunder
+to  the same extent as if this Agreement had not been executed, (b) the exercise
+by  the  Secured  Party  of  any  of  the rights hereunder shall not release the
+Grantor  from  any  of its duties or obligations under any items included in the
+Collateral,  and  (c)  the  Secured  Party shall have no obligation or liability
+under  Accounts,  Chattel Paper, General Intangibles and other items included in
+the  Collateral  by  reason  of  this  Agreement, nor shall the Secured Party be
+obligated  to perform any of the obligations or duties of the Grantor thereunder
+or  to  take  any  action  to  collect or enforce any claim for payment assigned
+hereunder.
+
+     Section 4.  Title to Collateral.  The Grantor has (or will have at the time
+                 -------------------
+it  acquires  rights  in  Collateral  hereafter  acquired  or  arising) and will
+maintain  so long as the Security Interest may remain outstanding, title to each
+item of Collateral (including the proceeds and products thereof), free and clear
+of  all  Liens  except  the  Security  Interest.  The  Grantor  will  defend the
+Collateral  against all claims or demands of all Persons (other than the Secured
+Party)  claiming  the  Collateral  or  any  interest therein.  As of the date of
+execution  of this Security Agreement, no effective financing statement or other
+similar document used to perfect and preserve a security interest under the laws
+of  any  jurisdiction  (a "Financing Statement") covering all or any part of the
+Collateral  is  on  file  in  any recording office, except such as may have been
+filed  in  favor  of  the  Secured  Party  relating  to  this  Agreement,.
+
+     Section 5.  Disposition of Collateral.  The Grantor will not sell, lease or
+                 -------------------------
+otherwise  dispose  of,  or  discount  or  factor  with or without recourse, any
+Collateral,  except  sales  of  items  of  Inventory  in  the ordinary course of
+business.
+
+     Section  6.  Names,  Offices,  Locations.  The Grantor does business solely
+                  ---------------------------
+under its own name and the trade names and styles, if any, set forth on Schedule
+II  hereto.  Except as noted on said Schedule, no such trade names or styles and
+
+
+                                        4
+<PAGE>
+
+no  trademarks  or  other similar marks owned by the Grantor are registered with
+any  governmental  unit.  The chief place of business and chief executive office
+and  the office where it keeps its books and records concerning the Accounts and
+General  Intangibles  and  the  originals  of  all  Chattel Paper, Documents and
+Instruments  are  located at its address set forth on the signature page hereof.
+All  items of Equipment and Inventory existing on the date of this Agreement are
+located  at  the  places  specified  on  Schedule  I  hereto.  The  Grantor will
+immediately  notify  the Secured Party of any additional state in which any item
+of  Inventory  or Equipment is hereafter located.  The Grantor will from time to
+time  at the request of the Secured Party provide the Secured Party with current
+lists  as to the locations of the Equipment and Inventory.  The Grantor will not
+permit  any  Inventory,  Equipment,  Chattel  Paper  or Documents or any records
+pertaining  to  Accounts  and  General Intangibles to be located in any state or
+area  in  which,  in  the event of such location, a financing statement covering
+such  Collateral  would  be  required  to be, but has not in fact been, filed in
+order to perfect the Security Interest.  The Grantor will not change its name or
+the  location  of  its chief place of business and chief executive office unless
+the  Secured  Party has been given at least 30 days prior written notice thereof
+and  the  Grantor has executed and delivered to the Secured Party such Financing
+Statements  and  other  instruments  required  or  appropriate  to  continue the
+perfection  of  the  Security  Interest.
+
+     Section  7.  Rights  to  Payment.  As  of  the  date  of  execution of this
+                  -------------------
+Security  Agreement, the Accounts aged 60 days or less have a value in excess of
+US$1,000,000.  Each  Account,  Chattel  Paper,  Document, General Intangible and
+Instrument  constituting  or  evidencing  Collateral  is (or, in the case of all
+future  Collateral,  will  be  when  arising  or  issued) the valid, genuine and
+legally  enforceable  obligation  of  the  Account Debtor or other obligor named
+therein or in the Grantor's records pertaining thereto as being obligated to pay
+or  perform such obligation.  Without the Secured Party's prior written consent,
+the  Grantor  will  not  agree to any modifications, amendments, subordinations,
+cancellations  or terminations of the obligations of any such Account Debtors or
+other  obligors  except  in  the  ordinary course of business and in amounts not
+exceeding  $1,000 per Account Debtor or other obligor in any calendar year.  The
+Grantor  will  perform  and  comply  in  all  material  respects  with  all  its
+obligations under any items included in the Collateral and exercise promptly and
+diligently  its  rights  thereunder.
+
+     Section  8.   Further  Assurances;  Attorney-in-Fact.
+                   --------------------------------------
+
+     8  (a)  The  Grantor agrees that from time to time, at its expense, it will
+promptly execute and deliver all further instruments and documents, and take all
+further  action,  that may be necessary or that the Secured Party may reasonably
+request,  in  order  to  perfect  and  protect  the Security Interest granted or
+purported  to  be  granted hereby or to enable the Secured Party to exercise and
+enforce  its  rights  and remedies hereunder with respect to any Collateral (but
+any  failure  to  request  or  assure  that the Grantor execute and deliver such
+instrument  or  documents  or to take such action shall not affect or impair the
+validity,  sufficiency  or  enforceability  of  this  Agreement and the Security
+Interest,  regardless  of  whether  any  such  item  was or was not executed and
+delivered or action taken in a similar context or on a prior occasion).  Without
+limiting  the  generality  of the foregoing, the Grantor will, promptly and from
+time  to  time  at  the  request  of the Secured Party:  (i) mark, or permit the
+
+
+                                        5
+<PAGE>
+
+Secured Party to mark, conspicuously its books, records, and accounts showing or
+dealing  with  the  Collateral,  and  each item of Chattel Paper included in the
+Collateral,  with  a  legend,  in form and substance satisfactory to the Secured
+Party,  indicating  that  each  such  item  of  Collateral and each such item of
+Chattel  Paper  is subject to the Security Interest granted hereby; (ii) deliver
+and pledge to the Secured Party, all Instruments and Documents, duly indorsed or
+accompanied  by  duly  executed instruments of transfer or assignment, with full
+recourse  to  the Grantor, all in form and substance satisfactory to the Secured
+Party;  (iii)  execute  and  file  such  Financing  Statements  or  continuation
+statements in respect thereof, or amendments thereto, and such other instruments
+or  notices  (including fixture filings with any necessary legal descriptions as
+to any goods included in the Collateral which the Secured Party determines might
+be  deemed  to  be fixtures, and instruments and notices with respect to vehicle
+titles),  as may be necessary or desirable, or as the Secured Party may request,
+in  order  to  perfect,  preserve,  and enhance the Security Interest granted or
+purported to be granted hereby; and (iv) obtain waivers, in form satisfactory to
+the  Secured  Party,  of  any  claim  to  any  Collateral  from any landlords or
+mortgagees  of  any  property  where  any  Inventory  or  Equipment  is located.
+
+     8  (b)  The Grantor hereby authorizes the Secured Party to file one or more
+Financing  Statements  or  continuation  statements  in  respect  thereof,  and
+amendments  thereto,  relating  to all or any part of the Collateral without the
+signature  of  the  Grantor  where  permitted  by  law.  A  photocopy  or  other
+reproduction  of  this  Agreement  or  any  Financing  Statement  covering  the
+Collateral  or  any  part  thereof  shall be sufficient as a Financing Statement
+where  permitted  by  law.
+
+     8  (c)  The  Grantor  will  furnish  to the Secured Party from time to time
+statements  and  schedules further identifying and describing the Collateral and
+such  other  reports  in connection with the Collateral as the Secured Party may
+reasonably  request,  all  in  reasonable  detail  and  in  form  and  substance
+reasonably  satisfactory  to  the  Secured  Party.
+
+     8  (d)  In  furtherance, and not in limitation, of the other rights, powers
+and  remedies granted to the Secured Party in this Agreement, the Grantor hereby
+appoints  the  Secured Party the Grantor's attorney-in-fact, with full authority
+in  the place and stead of Grantor and in the name of Grantor or otherwise, from
+time  to  time  in the Secured Party's good faith discretion, to take any action
+(including the right to collect on any Collateral) and to execute any instrument
+that  the  Secured  Party  may  reasonably  believe is necessary or advisable to
+accomplish the purposes of this Agreement, in a manner consistent with the terms
+hereof.
+
+     Section  9.  Taxes and Claims.  The Grantor will promptly pay all taxes and
+                  ----------------
+other  governmental charges levied or assessed upon or against any Collateral or
+upon  or  against  the  creation,  perfection  or  continuance  of  the Security
+Interest,  as  well as all other claims of any kind (including claims for labor,
+material  and supplies) against or with respect to the Collateral, except to the
+extent  (a)  such  taxes, charges or claims are being contested in good faith by
+appropriate proceedings, (b) such proceedings do not involve any material danger
+
+
+                                        6
+<PAGE>
+
+of the sale, forfeiture or loss of any of the Collateral or any interest therein
+and  (c)  such  taxes,  charges or claims are adequately reserved against on the
+Grantor's  books  in  accordance  with generally accepted accounting principles.
+
+     Section  10.  Books and Records.  The Grantor will keep and maintain at its
+                   -----------------
+own  cost  and  expense  satisfactory  and  complete  records of the Collateral,
+including  a record of all payments received and credits granted with respect to
+all  Accounts,  Chattel  Paper  and  other  items  included  in  the Collateral.
+
+     Section  11.  Inspection, Reports, Verifications.  The Grantor will at
+                   ----------------------------------
+all  reasonable times permit the Secured Party or its representatives to examine
+or  inspect  any  Collateral, any evidence of Collateral and the Grantor's books
+and  records  concerning the Collateral, wherever located. The Grantor will from
+time  to time when requested by the Secured Party furnish to the Secured Party a
+report  on  its  Accounts,  Chattel  Paper, General Intangibles and Instruments,
+naming  the  Account  Debtors  or other obligors thereon, the amount due and the
+aging  thereof.  The  Secured  Party  or  its  designee is authorized to contact
+Account  Debtors and other Persons obligated on any such Collateral from time to
+time  to  verify  the  existence,  amount  and/or  terms  of  such  Collateral.
+
+     Section  12.  Notice of Loss.  The Grantor will promptly notify the Secured
+                   --------------
+Party of any loss of or material damage to any material item of Collateral or of
+any  substantial  adverse  change,  known  to  Grantor,  in any material item of
+Collateral  or  the  prospect  of  payment  or  performance  thereof.
+
+     Section  13.  Insurance.  The Grantor will keep the Inventory and Equipment
+                   ---------
+insured  against  "all risks" for the full replacement cost thereof subject to a
+deductible not exceeding the current deductible and with an insurance company or
+companies satisfactory to the Secured Party, the policies to protect the Secured
+Party  as  its  interests  may  appear,  with such policies or certificates with
+respect  thereto to be delivered to the Secured Party at its request.  Each such
+policy  or  the  certificate with respect thereto shall provide that such policy
+shall  not be canceled or allowed to lapse unless at least 30 days prior written
+notice  is  given  to  the  Secured  Party.
+
+     Section 14.  Lawful Use; Fair Labor Standards Act. The Grantor will use and
+                  ------------------------------------
+keep  the  Collateral, and will require that others use and keep the Collateral,
+only  for lawful purposes, without violation of any federal, state or local law,
+statute  or  ordinance.  All  Inventory  of  the  Grantor as of the date of this
+Agreement  that was produced by the Grantor or with respect to which the Grantor
+performed any manufacturing  or assembly process was produced by the Grantor (or
+such  manufacturing  or  assembly  process  was  conducted) in compliance in all
+material respects with all requirements of the Fair Labor Standards Act, and all
+Inventory  produced,  manufactured or assembled by the Grantor after the date of
+this  Agreement  will be so produced, manufactured or assembled, as the case may
+be.
+
+     Section 15.  Action by the Secured Party.  If the Grantor at any time fails
+                  ---------------------------
+to  perform  or observe any of the foregoing agreements, the Secured Party shall
+
+
+                                        7
+<PAGE>
+
+have  (and  the Grantor hereby grants to the Secured Party) the right, power and
+authority  (but not the duty) to perform or observe such agreement on behalf and
+in  the name, place and stead of the Grantor (or, at the Secured Party's option,
+in  the  Secured  Party's  name) and to take any and all other actions which the
+Secured  Party  may  reasonably  deem  necessary to cure or correct such failure
+(including, without limitation, the payment of taxes, the satisfaction of Liens,
+the  procurement  and  maintenance  of  insurance, the execution of assignments,
+security  agreements  and  Financing  Statements,  and  the  indorsement  of
+instruments); and the Grantor shall thereupon pay to the Secured Party on demand
+the  amount  of  all  monies  expended  and  all  costs  and expenses (including
+reasonable  attorneys' fees and legal expenses) incurred by the Secured Party in
+connection  with  or  as  a  result  of  the  performance  or observance of such
+agreements  or  the  taking  of  such action by the Secured Party, together with
+interest  thereon  from the date expended or incurred at the highest lawful rate
+then  applicable  to any of the Obligations, and all such monies expended, costs
+and  expenses  and  interest thereon shall be part of the Obligations secured by
+the  Security  Interest.
+
+     Section  16.  Insurance Claims.  As additional security for the payment and
+                   ----------------
+performance  of the Obligations, the Grantor hereby assigns to the Secured Party
+any  and  all  monies  (including  proceeds of insurance and refunds of unearned
+premiums)  due  or to become due under, and all other rights of the Grantor with
+respect  to,  any  and  all  policies  of insurance now or at any time hereafter
+covering  the  Collateral  or  any  evidence  thereof or any business records or
+valuable  papers  pertaining  thereto.  At any time, whether before or after the
+occurrence of any Event of Default, the Secured Party may (but need not), in the
+Secured  Party's name or in Grantor's name, execute and deliver proofs of claim,
+receive  all  such  monies,  indorse  checks  and other instruments representing
+payment  of  such  monies, and adjust, litigate, compromise or release any claim
+against the issuer of any such policy.  Notwithstanding any of the foregoing, so
+long  as  no  Event  of  Default  exists  the  Grantor  shall be entitled to all
+insurance  proceeds  with  respect  to Equipment or Inventory provided that such
+proceeds  are  applied  to  the  cost  of  replacement  Equipment  or Inventory.
+
+     Section  17.  The  Secured  Party's  Duties.  The  powers  conferred on the
+                   -----------------------------
+Secured Party hereunder are solely to protect its interest in the Collateral and
+shall  not  impose  any  duty  upon it to exercise any such powers.  The Secured
+Party  shall  be  deemed to have exercised reasonable care in the safekeeping of
+any  Collateral  in  its  possession  if  such  Collateral is accorded treatment
+substantially  equal  to the safekeeping which the Secured Party accords its own
+property  of  like  kind.  Except  for  the safekeeping of any Collateral in its
+possession  and  the  accounting  for  monies  and for other properties actually
+received  by  it  hereunder,  the  Secured  Party  shall have no duty, as to any
+Collateral,  as  to  ascertaining  or  taking  action  with  respect  to  calls,
+conversions,  exchanges,  maturities,  tenders  or other matters relative to any
+Collateral,  whether or not the Secured Party has or is deemed to have knowledge
+of  such  matters, or as to the taking of any necessary steps to preserve rights
+against  any  Persons  or  any  other  rights pertaining to any Collateral.  The
+Secured  Party  will  take  action  in  the  nature  of  exchanges, conversions,
+redemptions,  tenders  and  the  like  requested  in writing by the Grantor with
+respect to the Collateral in the Secured Party's possession if the Secured Party
+in  its  reasonable  judgment  determines  that  such action will not impair the
+Security  Interest  or the value of the Collateral, but a failure of the Secured
+Party to comply with any such request shall not of itself be deemed a failure to
+exercise  reasonable  care.
+
+     Section  18.  Default.  Each  of the following occurrences shall constitute
+                   -------
+an Event of Default under this Agreement:  (a) the failure of the Grantor to pay
+when  due  any of the Obligations; (b) the failure of the Grantor to perform any
+agreement  of  the  contained  herein or in any other agreement with the Secured
+Party;  (c) any statement, representation or warranty of the Grantor made herein
+or at any time furnished to the Secured Party is untrue in any respect as of the
+date  made;  (d)  the entry of any judgment against the Grantor; (e) the Grantor
+becomes  insolvent  or is generally not paying its debts as they become due; (f)
+the  appointment of or assignment to a custodian, as that term is defined in the
+United  States Bankruptcy Code, for any property of the Grantor, or encumbrance,
+levy,  seizure  or  attachment  of  any  portion  of  the  Collateral;  (g)  the
+commencement  of  any  proceeding  or the filing of a petition by or against the
+Grantor  under  the  provisions  of  the  United  States  Bankruptcy  Code  for
+liquidation,  reorganization  or adjustment of debts or under any insolvency law
+or  other  statute  or  law  providing for the modification or adjustment of the
+
+
+                                        8
+<PAGE>
+
+rights  of  creditors; or (h) dissolution, consolidation, or merger, or transfer
+of  a  substantial  part  of  the  property  of  the  Grantor.
+
+     Section  19.  Remedies  on  Default.  Upon  the  occurrence  of an Event of
+                   ---------------------
+Default  and  at  any  time  thereafter:
+
+     19  (a)  The  Secured Party may exercise and enforce any and all rights and
+remedies  available upon default to a secured party under the Uniform Commercial
+Code.
+
+     19  (b)  The  Secured Party shall have the right to enter upon and into and
+take  possession  of all or such part or parts of the properties of the Grantor,
+including  lands,  plants, buildings, Equipment, Inventory and other property as
+may  be  necessary or appropriate in the judgment of the Secured Party to permit
+or  enable the Secured Party to  manufacture, produce, process, store or sell or
+complete the  manufacture, production, processing, storing or sale of all or any
+part  of  the Collateral, as the Secured Party may elect, and to use and operate
+said  properties  for  said  purposes and for such length of time as the Secured
+Party may deem necessary or appropriate for said purposes without the payment of
+any compensation to Grantor therefor.  The Secured Party may require the Grantor
+to,  and the Grantor hereby agrees that it will, at its expense and upon request
+of  the  Secured  Party  forthwith,  assemble  all  or part of the Collateral as
+directed  by  the  Secured Party and make it available to the Secured Party at a
+place  or  places  to  be  designated  by  the  Secured  Party.
+
+     19  (c)  Any  sale of Collateral may be in one or more parcels at public or
+private  sale,  at any of the Secured Party's offices or elsewhere, for cash, on
+credit,  or  for future delivery, and upon such other terms as the Secured Party
+may reasonably believe are commercially reasonable.  The Secured Party shall not
+be  obligated to make any sale of Collateral regardless of notice of sale having
+been  given,  and  the Secured Party may adjourn any public or private sale from
+time to time by announcement made at the time and place fixed therefor, and such
+
+
+                                        9
+<PAGE>
+
+sale  may, without further notice, be made at the time and place to which it was
+so  adjourned.
+
+     19 (d) The Secured Party is hereby granted a license or other right to use,
+without  charge,  all  of the Grantor's property, including, without limitation,
+all  of  the  Grantor's  labels, trademarks, copyrights, patents and advertising
+matter,  or  any property of a similar nature, as it pertains to the Collateral,
+in  completing  production  of, advertising for sale and selling any Collateral,
+and  the  Grantor's rights under all licenses and all franchise agreements shall
+inure  to  the  Secured  Party's benefit until the Obligations are paid in full.
+
+     19  (e)  If notice to the Grantor of any intended disposition of Collateral
+or  any  other intended action is required by law in a particular instance, such
+notice  shall be deemed commercially reasonable if given in the manner specified
+for  the  giving of notice in Section 24 hereof at least ten calendar days prior
+to  the  date of intended disposition or other action, and the Secured Party may
+exercise  or  enforce  any  and all other rights or remedies available by law or
+agreement  against  the  Collateral,  against  the Grantor, or against any other
+Person  or  property.
+
+     Section 20.  Remedies as to Certain Rights to Payment.  Upon the occurrence
+                  ----------------------------------------
+of  an  Event of Default and at any time thereafter the Secured Party may notify
+any Account Debtor or other Person obligated on any Accounts or other Collateral
+that  the  same  have been assigned or transferred to the Secured Party and that
+the  same  should be performed as requested by, or paid directly to, the Secured
+Party, as the case may be.  The Grantor shall join in giving such notice, if the
+Secured  Party  so requests.  The Secured Party may, in the Secured Party's name
+or  in  the  Grantor's  name,  demand,  sue for, collect or receive any money or
+property  at any time payable or receivable on account of, or securing, any such
+Collateral  or grant any extension to, make any compromise or settlement with or
+otherwise  agree  to  waive,  modify, amend or change the obligation of any such
+Account  Debtor  or  other  Person.  If  any payments on any such Collateral are
+received  by  the  Grantor after an Event of Default has occurred, such payments
+shall  be  held in trust by the Grantor as the property of the Secured Party and
+shall  not  be commingled with any funds or property of the Grantor and shall be
+forthwith  remitted  to  the  Secured  Party for application on the Obligations.
+
+     Section  21.  Application  of Proceeds.   All cash proceeds received by the
+                   ------------------------
+Secured  Party  in respect of any sale of, collection from, or other realization
+upon  all  or  any  part of the Collateral may, in the discretion of the Secured
+Party,  be  held  by the Secured Party as collateral for, or then or at any time
+thereafter  be  applied in whole or in part by the Secured Party against, all or
+any  part of the Obligations (including, without limitation, any expenses of the
+Secured  Party  payable  pursuant  to  Section  22  hereof).
+
+     Section  22.  Costs  and  Expenses;  Indemnity.  The  Grantor  will  pay or
+                   --------------------------------
+reimburse  the Secured Party on demand for all out-of-pocket expenses (including
+in each case all filing and recording fees and taxes and all reasonable fees and
+expenses of counsel and of any experts and agents) incurred by the Secured Party
+
+
+                                       10
+<PAGE>
+
+in  connection  with  the  creation,  perfection,  protection,  satisfaction,
+foreclosure  or  enforcement  of  the  Security  Interest  and  the preparation,
+administration, continuance, amendment or enforcement of this Agreement, and all
+such costs and expenses shall be part of the Obligations secured by the Security
+Interest.  The  Grantor shall indemnify and hold the Secured Party harmless from
+and  against  any  and  all claims, losses and liabilities (including reasonable
+attorneys'  fees)  growing  out  of  or  resulting  from  this Agreement and the
+Security  Interest  hereby  created (including enforcement of this Agreement) or
+the  Secured  Party's  actions  pursuant  hereto,  except  claims,  losses  or
+liabilities  resulting  from  the  Secured  Party's  gross negligence or willful
+misconduct  as  determined  by  a  final  judgment  of  a  court  of  competent
+jurisdiction.  Any  liability  of  the Grantor to indemnify and hold the Secured
+Party  harmless  pursuant  to  the  preceding  sentence  shall  be  part  of the
+Obligations  secured  by  the Security Interest.  The obligations of the Grantor
+under  this  Section  shall  survive  any  termination  of  this  Agreement.
+
+     Section 23.  Waivers; Remedies; Marshalling.  This Agreement can be waived,
+                  ------------------------------
+modified,  amended,  terminated  or discharged, and the Security Interest can be
+released, only explicitly in a writing signed by the Secured Party.  A waiver so
+signed  shall  be  effective  only in the specific instance and for the specific
+purpose  given.  Mere delay or failure to act shall not preclude the exercise or
+enforcement  of  any  rights  and  remedies available to the Secured Party.  All
+rights  and  remedies  of  the  Secured  Party  shall  be  cumulative and may be
+exercised  singly  in  any  order  or  sequence, or concurrently, at the Secured
+Party's  option,  and  the  exercise  or enforcement of any such right or remedy
+shall  neither  be  a  condition  to  nor bar the exercise or enforcement of any
+other.  The  Grantor  hereby waives all requirements of law, if any, relating to
+the  marshalling  of  assets  which  would  be applicable in connection with the
+enforcement  by the Secured Party of its remedies hereunder, absent this waiver.
+
+     Section  24.   Notices.  Any  notice or other communication to any party in
+                    -------
+connection  with  this Agreement shall be in writing and shall be sent by manual
+delivery,  telegram,  telex, facsimile transmission, overnight courier or United
+States  mail  (postage prepaid) addressed to such party at the address specified
+on  the signature page hereof, or at such other address as such party shall have
+specified  to the other party hereto in writing.  All periods of notice shall be
+measured  from the date of delivery thereof if manually delivered, from the date
+of  sending  thereof  if sent by telegram, telex or facsimile transmission, from
+the  first  business day after the date of sending if sent by overnight courier,
+or  from  four  days  after  the  date  of  mailing  if  mailed.
+
+     Section  25.   Grantor  Acknowledgments.  The  Grantor  hereby acknowledges
+                    ------------------------
+that  (a)  it  has  been  advised  by  counsel in the negotiation, execution and
+delivery  of this Agreement, (b) the Secured Party has no fiduciary relationship
+to  the  Grantor, the relationship being solely that of debtor and creditor, and
+(c)  no  joint  venture  exists  between  the  Grantor  and  the  Secured Party.
+
+     Section 26.  Continuing Security Interest.  This Agreement shall (a) create
+                  ----------------------------
+a  continuing security interest in the Collateral and shall remain in full force
+and  effect  until  payment in full of the Obligations and the expiration of the
+obligations, if any, of the Secured Party to extend credit accommodations to the
+Grantor,  (b)  be  binding upon the Grantor, its successors and assigns, and (c)
+
+
+                                       11
+<PAGE>
+
+inure  to  the  benefit  of,  and  be  enforceable by, the Secured Party and its
+successors,  transferees,  and  assigns.
+
+     Section 27.  Termination of Security Interest.  Upon payment in full of the
+                  --------------------------------
+Obligations  and the expiration of any obligation of the Secured Party to extend
+credit accommodations to the Grantor, the Security Interest granted hereby shall
+terminate.  Upon  any  such  termination,  the  Secured Party will return to the
+Grantor  such  of  the Collateral then in the possession of the Secured Party as
+shall  not  have been sold or otherwise applied pursuant to the terms hereof and
+execute  and  deliver  to  the  Grantor  such  documents  as  the  Grantor shall
+reasonably  request  to  evidence  such termination.  Any reversion or return of
+Collateral upon termination of this Agreement and any instruments of transfer or
+termination shall be at the expense of the Grantor and shall be without warranty
+by,  or  recourse  on,  the  Secured  Party.  As used in this Section, "Grantor"
+includes  any  assigns  of  Grantor,  any  Person holding a subordinate security
+interest  in  any  of the Collateral or whoever else may be lawfully entitled to
+any  part  of  the  Collateral.
+
+     SECTION  28.  GOVERNING  LAW  AND CONSTRUCTION.  THE VALIDITY, CONSTRUCTION
+                   --------------------------------
+AND  ENFORCEABILITY OF THIS AGREEMENT SHALL BE GOVERNED BY THE LAWS OF THE STATE
+OF  WASHINGTON,  WITHOUT  GIVING  EFFECT TO CONFLICT OF LAWS PRINCIPLES THEREOF,
+EXCEPT  TO  THE  EXTENT THAT THE VALIDITY OR PERFECTION OF THE SECURITY INTEREST
+HEREUNDER,  OR  REMEDIES  HEREUNDER, IN RESPECT OF ANY PARTICULAR COLLATERAL ARE
+MANDATORILY  GOVERNED  BY  THE  LAWS  OF  A JURISDICTION OTHER THAN THE STATE OF
+WASHINGTON.   Whenever  possible, each provision of this Agreement and any other
+statement,  instrument  or  transaction  contemplated  hereby or relating hereto
+shall  be  interpreted  in  such  manner as to be effective and valid under such
+applicable  law, but, if any provision of this Agreement or any other statement,
+instrument  or  transaction contemplated hereby or relating hereto shall be held
+to  be  prohibited or invalid under such applicable law, such provision shall be
+ineffective  only  to  the  extent  of  such  prohibition or invalidity, without
+invalidating the remainder of such provision or the remaining provisions of this
+Agreement  or any other statement, instrument or transaction contemplated hereby
+or  relating  hereto.
+
+          SECTION  29.  CONSENT  TO  JURISDICTION.  AT THE OPTION OF THE SECURED
+                        -------------------------
+PARTY,  THIS  AGREEMENT MAY BE ENFORCED IN ANY FEDERAL COURT OR WASHINGTON STATE
+COURT  SITTING  IN KING COUNTY; AND THE GRANTOR CONSENTS TO THE JURISDICTION AND
+VENUE OF ANY SUCH COURT AND WAIVES ANY ARGUMENT THAT VENUE IN SUCH FORUMS IS NOT
+CONVENIENT.  IN  THE  EVENT  THE  GRANTOR  COMMENCES  ANY  ACTION  IN  ANOTHER
+JURISDICTION  OR  VENUE  UNDER  ANY  TORT OR CONTRACT THEORY ARISING DIRECTLY OR
+INDIRECTLY FROM THE RELATIONSHIP CREATED BY THIS AGREEMENT, THE SECURED PARTY AT
+ITS  OPTION  SHALL  BE ENTITLED TO HAVE THE CASE TRANSFERRED TO THE JURISDICTION
+
+
+                                       12
+<PAGE>
+
+AND  VENUE  ABOVE-DESCRIBED,  OR  IF  SUCH TRANSFER CANNOT BE ACCOMPLISHED UNDER
+APPLICABLE  LAW,  TO  HAVE  SUCH  CASE  DISMISSED  WITHOUT  PREJUDICE.
+
+     SECTION  30.  WAIVER  OF NOTICE AND HEARING.  THE GRANTOR HEREBY WAIVES ALL
+                   -----------------------------
+RIGHTS  TO  A  JUDICIAL HEARING OF ANY KIND PRIOR TO THE EXERCISE BY THE SECURED
+PARTY  OF ITS RIGHTS TO POSSESSION OF THE COLLATERAL WITHOUT JUDICIAL PROCESS OR
+OF  ITS  RIGHTS  TO  REPLEVY,  ATTACH, OR LEVY UPON THE COLLATERAL WITHOUT PRIOR
+NOTICE OR HEARING.  THE GRANTOR ACKNOWLEDGES THAT IT HAS BEEN ADVISED BY COUNSEL
+OF  ITS  CHOICE  WITH  RESPECT  TO  THIS  PROVISION  AND  THIS  AGREEMENT.
+
+     SECTION  31.  WAIVER  OF  JURY  TRIAL.  EACH OF THE GRANTOR AND THE SECURED
+                   -----------------------
+PARTY, BY ITS ACCEPTANCE OF THIS AGREEMENT, IRREVOCABLY WAIVES ANY AND ALL RIGHT
+TO  TRIAL  BY  JURY  IN  ANY LEGAL PROCEEDING ARISING OUT OF OR RELATING TO THIS
+AGREEMENT  OR  THE  TRANSACTIONS  CONTEMPLATED  HEREBY.
+
+     Section 32.  Counterparts.  This Agreement may be executed in any number of
+                  ------------
+counterparts,  each  of  which when so executed and delivered shall be deemed an
+original,  but  all  such counterparts together shall constitute but one and the
+same  instrument.
+
+     Section 33.  General.  All representations and warranties contained in this
+                  -------
+Agreement  or  in  any other agreement between the Grantor and the Secured Party
+shall  survive the execution, delivery and performance of this Agreement and the
+creation  and  payment  of  the  Obligations.  The  Grantor waives notice of the
+acceptance  of  this Agreement by the Secured Party.  Captions in this Agreement
+are  for  reference and convenience only and shall not affect the interpretation
+or  meaning  of  any  provision  of  this  Agreement.
+
+     IN  WITNESS  WHEREOF,  the Grantor has caused this Security Agreement to be
+duly  executed  and delivered by its officer thereunto duly authorized as of the
+date  first  above  written.
+
+                                            LONG DISTANCE BILLING SERVICES, INC.
+
+                                            By  /s/ Patric Boggs
+                                                ------------------
+
+                                            Title  President & CEO
+                                                   -----------------
+Address  for  Grantor:
+436  Lynchburg  Avenue
+Brookneal,  Virginia  24528
+[    ]
+Fax  [425]  799-4481
+Grantor's  Tax  ID  #  [54]  1994680
+
+                                       13
+<PAGE>
+
+Address  for  the  Secured  Party:
+NS8  Corporation
+One  Union  Square,  Suite  1525
+600  University  Street
+Seattle,  Washington
+98101
+Fax  (206)  342-1799
+
+
+                                       14
+<PAGE>
+
+                                   SCHEDULE I
+                                       to
+                               Security Agreement
+
+
+Locations  of  Equipment  and  Inventory  as  of  Date  of  Security  Agreement
+
+
+[Locations  to  be  provided,  including county.  Locations not owned by Grantor
+should  be  specified  with  name  of  landlord  or  warehouse.]
+
+436  Lynchburg  Avenue
+Brookneal,  Virginia  24528
+Campbell  County
+
+Brookneal  Rescue  Squad  owns  the  physical  building  -  we rent it from them
+
+
+                                       15
+<PAGE>
+
+                                   SCHEDULE II
+                                       to
+                               Security Agreement
+
+
+Trade  Names  and  Trade  Styles
+
+
+
+[To  be  provided.]
+
+Long  Distance  Billing  Service,  Inc.
+"LDBS,  Inc."
+
+
+
+                                       16
+<PAGE>
+
+</TEXT>
+</DOCUMENT>

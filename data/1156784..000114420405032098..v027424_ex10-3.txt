@@ -1,0 +1,918 @@
+<DOCUMENT>
+<TYPE>EX-10.3
+<SEQUENCE>4
+<FILENAME>v027424_ex10-3.txt
+<TEXT>
+                                                                    Exhibit 10.3
+
+                                                         Dated:  October 7, 2005
+
+      NEITHER THIS  DEBENTURE NOR THE  SECURITIES  INTO WHICH THIS  DEBENTURE IS
+      CONVERTIBLE   HAVE  BEEN  REGISTERED  WITH  THE  SECURITIES  AND  EXCHANGE
+      COMMISSION OR THE  SECURITIES  COMMISSION OF ANY STATE IN RELIANCE UPON AN
+      EXEMPTION FROM  REGISTRATION  UNDER THE SECURITIES ACT OF 1933, AS AMENDED
+      (THE  "SECURITIES  ACT"),  AND,  ACCORDINGLY,  MAY NOT BE  OFFERED OR SOLD
+      EXCEPT  PURSUANT  TO  AN  EFFECTIVE   REGISTRATION   STATEMENT  UNDER  THE
+      SECURITIES  ACT  OR  PURSUANT  TO AN  AVAILABLE  EXEMPTION  FROM,  OR IN A
+      TRANSACTION  NOT  SUBJECT  TO,  THE   REGISTRATION   REQUIREMENTS  OF  THE
+      SECURITIES ACT AND IN ACCORDANCE WITH APPLICABLE STATE SECURITIES LAWS.
+
+No. CCP-1                                                               $ 55,000
+
+                              INNOVA HOLDINGS, INC
+
+                          Secured Convertible Debenture
+
+
+                                Due April 7, 2006
+
+      This Secured  Convertible  Debenture (the "Debenture") is issued by INNOVA
+HOLDINGS,  INC, a  Delaware  corporation  (the  "Obligor"),  to CORNELL  CAPITAL
+PARTNERS,  LP (the  "Holder"),  pursuant  to that  certain  Securities  Purchase
+Agreement (the "Securities Purchase Agreement") of even date herewith.
+
+      FOR VALUE  RECEIVED,  the Obligor hereby  promises to pay to the Holder or
+its  successors  and assigns the  principal  sum of Fifty Five  Thousand  (U.S.)
+Dollars  ($55,000)  together with accrued but unpaid interest on or before April
+7, 2006 (the "Maturity Date") in accordance with the following terms:
+
+      Principal and Interest.  The Obligor hereby  promises to pay the Holder on
+the  Maturity  Date in  lawful  money of the  United  States of  America  and in
+immediately  available  funds the sum of Fifty Five Thousand  Dollars  ($55,000)
+plus  accrued  and unpaid  interest  subject to any  payments  made as set forth
+below.  Interest shall accrue on the outstanding  principal balance hereof at an
+annual rate equal to twelve percent  (12%).  Interest shall be calculated on the
+basis of a 360-day  year and the actual  number of days  elapsed,  to the extent
+permitted by applicable  law.  Interest  hereunder will be paid to the Holder or
+its  assignee  (as  defined  in  Section  4) in whose  name  this  Debenture  is
+registered on the records of the Obligor regarding registration and transfers of
+Debentures (the "Debenture Register").
+
+      Payments.  Prior to the Maturity  Date,  the Obligor shall pay directly to
+the Holder all revenues  received by the Obligor  until all amounts of principal
+and interest  outstanding under this Debenture have been paid. All such payments
+shall be due within  five  business  days of receipt by the Obligor and shall be
+applied to principal,  accrued  interest and charges and expenses owing under or
+in connection  with this  Debenture in such order as the Holder  elects,  except
+that  payments  shall  be  applied  to  accrued   interest   before   principal.
+Notwithstanding  the foregoing,  this Debenture shall become due and immediately
+payable, including all accrued but unpaid interest, upon an Event of Default (as
+defined  in  Section 2  hereof).  So long as this  Debenture  is held by Cornell
+Capital Partners, LP or its affiliates (as defined in Rule 144 promulgated under
+the  Securities  Act,  as  amended),  the  Obligor  may not repay or redeem this
+Debenture with the proceeds of the Standby Equity Distribution Agreement between
+the Company and Cornell Capital Partners, LP.
+
+
+                                       1
+<PAGE>
+
+      Right of Redemption.  The Obligor at its option shall have the right, with
+three (3) business days advance  written notice (the  "Redemption  Notice"),  to
+redeem a portion or all amounts  outstanding  under this Debenture  prior to the
+Maturity Date in an amount equal to the principal amount outstanding and accrued
+interest  (collectively  referred to as the  "Redemption  Amount").  The Obligor
+shall deliver to the Holder the  Redemption  Amount on the third (3rd)  business
+day after the Redemption Notice.
+
+      Notwithstanding the foregoing in the event that the Obligor has elected to
+redeem a portion of the outstanding  principal amount and accrued interest under
+this  Debenture the Holder shall still be entitled to effectuate  Conversions as
+contemplated hereunder.
+
+      Security  Agreements.  This  Debenture is secured by a Security  Agreement
+(the  "Security  Agreement")  of even date herewith  between the Obligor and the
+Holder.
+
+      Consent  of  Holder to Sell  Capital  Stock or Grant  Security  Interests.
+Except  for the  capital  stock to be  issued  pursuant  to the  Standby  Equity
+Distribution  Agreement  of even date  herewith  between the Obligor and Cornell
+Capital Partners, LP, so long as any of the principal amount or interest on this
+Debenture  remains unpaid and  unconverted,  the Obligor shall not,  without the
+prior  written  consent of the  Holder,  (i) issue or sell any  common  stock or
+preferred stock with or without consideration,  (ii) issue or sell any preferred
+stock, warrant,  option, right, contract,  call, or other security or instrument
+granting  the holder  thereof the right to acquire  common stock with or without
+consideration,  (iii) enter into any security  instrument  granting the holder a
+security  interest  in any of the  assets  of the  Obligor,  or  (iv)  file  any
+registration statements on Form S-8.
+
+      This Debenture is subject to the following additional provisions:
+
+      Section 1. This Debenture is exchangeable for an equal aggregate principal
+amount of Debentures of different authorized denominations,  as requested by the
+Holder  surrendering  the  same.  No  service  charge  will  be  made  for  such
+registration of transfer or exchange.
+
+      Section 2. Events of Default.
+
+      (a) An "Event of  Default",  wherever  used  herein,  means any one of the
+following  events  (whatever  the reason and  whether it shall be  voluntary  or
+involuntary or effected by operation of law or pursuant to any judgment,  decree
+or order of any court, or any order, rule or regulation of any administrative or
+governmental body):
+
+
+                                       2
+<PAGE>
+
+            (i) Any default in the payment of the principal  of,  interest on or
+other charges in respect of this Debenture,  free of any claim of subordination,
+as and when the same shall  become due and  payable  (whether  on a payment  due
+date, a Conversion Date or the Maturity Date or by acceleration or otherwise);
+
+            (ii)  The  Obligor  shall  fail to  observe  or  perform  any  other
+covenant,  agreement or warranty contained in, or otherwise commit any breach or
+default of any provision of this Debenture  (except as may be covered by Section
+2(a)(i) hereof) or any  Transaction  Document (as defined in Section 4) which is
+not cured with in the time prescribed;
+
+            (iii) The Obligor or any  subsidiary of the Obligor shall  commence,
+or there shall be commenced against the Obligor or any subsidiary of the Obligor
+under any applicable bankruptcy or insolvency laws as now or hereafter in effect
+or any  successor  thereto,  or the  Obligor or any  subsidiary  of the  Obligor
+commences any other proceeding under any reorganization, arrangement, adjustment
+of debt,  relief of debtors,  dissolution,  insolvency or liquidation or similar
+law of any  jurisdiction  whether  now or  hereafter  in effect  relating to the
+Obligor or any  subsidiary  of the  Obligor or there is  commenced  against  the
+Obligor or any  subsidiary  of the Obligor any such  bankruptcy,  insolvency  or
+other  proceeding  which  remains  undismissed  for a period of 61 days;  or the
+Obligor or any subsidiary of the Obligor is  adjudicated  insolvent or bankrupt;
+or any order of relief or other order  approving  any such case or proceeding is
+entered; or the Obligor or any subsidiary of the Obligor suffers any appointment
+of any custodian,  private or court appointed receiver or the like for it or any
+substantial part of its property which continues  undischarged or unstayed for a
+period of sixty one (61) days;  or the Obligor or any  subsidiary of the Obligor
+makes a general  assignment for the benefit of creditors;  or the Obligor or any
+subsidiary of the Obligor shall fail to pay, or shall state that it is unable to
+pay, or shall be unable to pay,  its debts  generally as they become due; or the
+Obligor or any  subsidiary  of the Obligor shall call a meeting of its creditors
+with a view to  arranging a  composition,  adjustment  or  restructuring  of its
+debts;  or the  Obligor or any  subsidiary  of the  Obligor  shall by any act or
+failure to act expressly indicate its consent to, approval of or acquiescence in
+any of the  foregoing;  or any corporate or other action is taken by the Obligor
+or any  subsidiary  of the  Obligor  for the  purpose  of  effecting  any of the
+foregoing;
+
+            (iv) The Obligor or any  subsidiary  of the Obligor shall default in
+any of its  obligations  under  any  other  debenture  or any  mortgage,  credit
+agreement or other facility,  indenture agreement,  factoring agreement or other
+instrument under which there may be issued,  or by which there may be secured or
+evidenced any  indebtedness  for borrowed money or money due under any long term
+leasing or factoring arrangement of the Obligor or any subsidiary of the Obligor
+in an amount exceeding  $100,000,  whether such indebtedness now exists or shall
+hereafter be created and such default shall result in such indebtedness becoming
+or being declared due and payable prior to the date on which it would  otherwise
+become due and payable;
+
+            (v) The Common  Stock shall cease to be quoted for trading or listed
+for trading on either the Nasdaq OTC Bulletin  Board  ("OTC"),  Nasdaq  SmallCap
+Market, New York Stock Exchange,  American Stock Exchange or the Nasdaq National
+Market (each, a "Subsequent Market") and shall not again be quoted or listed for
+trading thereon within five (5) Trading Days of such delisting;
+
+
+                                       3
+<PAGE>
+
+            (vi) The Obligor or any  subsidiary  of the Obligor shall be a party
+to any Change of Control Transaction (as defined in Section 4);
+
+            (vii)  The  Obligor  shall  fail  to  file  the  Underlying   Shares
+Registration Statement (as defined in Section 4) with the Commission (as defined
+in Section 4), or the Underlying  Shares  Registration  Statement shall not have
+been declared effective by the Commission,  in each case within the time periods
+set forth in the Registration Rights Agreement of even date herewith between the
+Obligor and the Holder;
+
+            (viii) If the  effectiveness of the Underlying  Shares  Registration
+Statement  lapses for any reason or the Holder  shall not be permitted to resell
+the shares of Common Stock underlying this Debenture under the Underlying Shares
+Registration  Statement,  in either  case,  for more  than five (5)  consecutive
+Trading  Days  or an  aggregate  of  eight  Trading  Days  (which  need  not  be
+consecutive Trading Days);
+
+            (ix) The Obligor  shall fail for any reason to deliver  Common Stock
+certificates to a Holder prior to the fifth (5th) Trading Day after a Conversion
+Date or the Obligor  shall  provide  notice to the Holder,  including  by way of
+public  announcement,  at any time, of its intention not to comply with requests
+for conversions of this Debenture in accordance with the terms hereof;
+
+            (x) The Obligor  shall fail for any reason to deliver the payment in
+cash pursuant to a Buy-In (as defined herein) within three (3) days after notice
+is claimed delivered hereunder;
+
+      (b) During the time that any portion of this Debenture is outstanding,  if
+any Event of Default has occurred,  the full principal amount of this Debenture,
+together with interest and other amounts owing in respect  thereof,  to the date
+of  acceleration  shall become at the  Holder's  election,  immediately  due and
+payable in cash,  provided  however,  the Holder may request  (but shall have no
+obligation  to request)  payment of such amounts in Common Stock of the Obligor.
+If an Event of Default occurs and remains uncured, the Conversion Price shall be
+reduced to $0.005. In addition to any other remedies,  the Holder shall have the
+right (but not the  obligation)  to convert this Debenture at any time after (x)
+an Event of  Default  or (y) the  Maturity  Date at the  Conversion  Price  then
+in-effect.  The  Holder  need not  provide  and the  Obligor  hereby  waives any
+presentment,  demand,  protest or other  notice of any kind,  and the Holder may
+immediately  and without  expiration of any grace period  enforce any and all of
+its rights and remedies  hereunder and all other remedies  available to it under
+applicable law. Such  declaration may be rescinded and annulled by Holder at any
+time prior to payment  hereunder.  No such  rescission or annulment shall affect
+any subsequent Event of Default or impair any right consequent thereon.  Upon an
+Event of Default,  notwithstanding  any other provision of this Debenture or any
+Transaction  Document,  the Holder  shall have no  obligation  to comply with or
+adhere to any  limitations,  if any, on the  conversion of this Debenture or the
+sale of the Underlying Shares.
+
+      Section 3. Conversion.
+
+      (a) (i) Conversion at Option of Holder.
+
+
+                                       4
+<PAGE>
+
+            (A) This Debenture shall be convertible  into shares of Common Stock
+at the  option of the  Holder,  in whole or in part at any time and from time to
+time,  after the  Original  Issue Date (as defined in Section 4) (subject to the
+limitations on conversion set forth in Section 3(a)(ii)  hereof).  The number of
+shares of Common Stock issuable upon a conversion  hereunder equals the quotient
+obtained  by  dividing  (x)  the  outstanding  amount  of this  Debenture  to be
+converted  by (y) the  Conversion  Price (as  defined in Section  3(c)(i)).  The
+Obligor shall deliver Common Stock certificates to the Holder prior to the Fifth
+(5th) Trading Day after a Conversion Date.
+
+            (B) Notwithstanding anything to the contrary contained herein, if on
+any  Conversion  Date:  (1) the  number of  shares  of Common  Stock at the time
+authorized, unissued and unreserved for all purposes, or held as treasury stock,
+is  insufficient  to pay  principal  and interest  hereunder in shares of Common
+Stock; (2) the Common Stock is not listed or quoted for trading on the OTC or on
+a  Subsequent  Market;  (3)  the  Obligor  has  failed  to  timely  satisfy  its
+conversion; or (4) the issuance of such shares of Common Stock would result in a
+violation of Section 3(a)(ii),  then, at the option of the Holder,  the Obligor,
+in lieu of  delivering  shares of Common Stock  pursuant to Section  3(a)(i)(A),
+shall deliver, within three (3) Trading Days of each applicable Conversion Date,
+an amount in cash equal to the product of the outstanding principal amount to be
+converted  plus any interest  due therein  divided by the  Conversion  Price and
+multiplied by the highest closing price of the stock from date of the conversion
+notice till the date that such cash payment is made.
+
+      Further,  if the Obligor shall not have  delivered any cash due in respect
+of conversion of this  Debenture or as payment of interest  thereon by the fifth
+(5th) Trading Day after the  Conversion  Date,  the Holder may, by notice to the
+Obligor, require the Obligor to issue shares of Common Stock pursuant to Section
+3(c), except that for such purpose the Conversion Price applicable thereto shall
+be the lesser of the Conversion  Price on the Conversion Date and the Conversion
+Price on the date of such Holder demand.  Any such shares will be subject to the
+provisions of this Section.
+
+            (C) The Holder shall effect conversions by delivering to the Obligor
+a  completed  notice in the form  attached  hereto as  Exhibit A (a  "Conversion
+Notice").  The date on which a Conversion Notice is delivered is the "Conversion
+Date." Unless the Holder is converting the entire principal  amount  outstanding
+under this  Debenture,  the Holder is not required to physically  surrender this
+Debenture to the Obligor in order to effect conversions.  Conversions  hereunder
+shall have the  effect of  lowering  the  outstanding  principal  amount of this
+Debenture plus all accrued and unpaid interest thereon in an amount equal to the
+applicable conversion. The Holder and the Obligor shall maintain records showing
+the principal amount converted and the date of such conversions. In the event of
+any dispute or  discrepancy,  the records of the Holder shall be controlling and
+determinative in the absence of manifest error.
+
+            (ii) Certain Conversion Restrictions.
+
+
+                                       5
+<PAGE>
+
+                  (A) A Holder may not convert this  Debenture or receive shares
+of Common Stock as payment of interest  hereunder to the extent such  conversion
+or receipt of such interest  payment  would result in the Holder,  together with
+any affiliate  thereof,  beneficially  owning (as determined in accordance  with
+Section  13(d) of the  Exchange  Act and the rules  promulgated  thereunder)  in
+excess of 4.9% of the then  issued  and  outstanding  shares  of  Common  Stock,
+including  shares  issuable upon conversion of, and payment of interest on, this
+Debenture  held by such Holder  after  application  of this  Section.  Since the
+Holder  will not be  obligated  to report to the Obligor the number of shares of
+Common  Stock it may  hold at the time of a  conversion  hereunder,  unless  the
+conversion  at issue would  result in the  issuance of shares of Common Stock in
+excess of 4.9% of the then outstanding  shares of Common Stock without regard to
+any other shares which may be  beneficially  owned by the Holder or an affiliate
+thereof, the Holder shall have the authority and obligation to determine whether
+the restriction  contained in this Section will limit any particular  conversion
+hereunder  and to the extent  that the  Holder  determines  that the  limitation
+contained in this Section  applies,  the  determination  of which portion of the
+principal  amount of this Debenture is convertible  shall be the  responsibility
+and  obligation of the Holder.  If the Holder has delivered a Conversion  Notice
+for a  principal  amount of this  Debenture  that,  without  regard to any other
+shares that the Holder or its affiliates may  beneficially  own, would result in
+the issuance in excess of the  permitted  amount  hereunder,  the Obligor  shall
+notify the Holder of this fact and shall  honor the  conversion  for the maximum
+principal amount permitted to be converted on such Conversion Date in accordance
+with the  periods  described  in Section  3(a)(i)(A)  and,  at the option of the
+Holder,  either retain any principal amount tendered for conversion in excess of
+the  permitted  amount  hereunder for future  conversions  or return such excess
+principal amount to the Holder.  The provisions of this Section may be waived by
+a Holder (but only as to itself and not to any other  Holder) upon not less than
+65 days prior notice to the Obligor.  Other  Holders  shall be unaffected by any
+such waiver.
+
+      (b) (i)  Nothing  herein  shall  limit a Holder's  right to pursue  actual
+damages  or declare  an Event of  Default  pursuant  to Section 2 herein for the
+Obligor 's failure to deliver  certificates  representing shares of Common Stock
+upon conversion  within the period  specified  herein and such Holder shall have
+the right to pursue all remedies  available to it at law or in equity including,
+without limitation,  a decree of specific  performance and/or injunctive relief,
+in each case  without  the need to post a bond or provide  other  security.  The
+exercise  of any such  rights  shall not  prohibit  the Holder  from  seeking to
+enforce damages pursuant to any other Section hereof or under applicable law.
+
+            (ii) In addition to any other rights available to the Holder, if the
+Obligor fails to deliver to the Holder such certificate or certificates pursuant
+to Section  3(a)(i)(A) by the fifth (5th) Trading Day after the Conversion Date,
+and if after such fifth  (5th)  Trading  Day the  Holder  purchases  (in an open
+market  transaction or otherwise)  Common Stock to deliver in  satisfaction of a
+sale by such  Holder  of the  Underlying  Shares  which the  Holder  anticipated
+receiving upon such  conversion (a "Buy-In"),  then the Obligor shall (A) pay in
+cash to the Holder (in addition to any  remedies  available to or elected by the
+Holder) the amount by which (x) the Holder's  total  purchase  price  (including
+brokerage commissions, if any) for the Common Stock so purchased exceeds (y) the
+product of (1) the  aggregate  number of shares of Common Stock that such Holder
+anticipated  receiving from the conversion at issue multiplied by (2) the market
+price of the Common  Stock at the time of the sale giving rise to such  purchase
+obligation  and (B) at the option of the Holder,  either  reissue a Debenture in
+the principal amount equal to the principal  amount of the attempted  conversion
+or deliver  to the  Holder the number of shares of Common  Stock that would have
+been issued had the Obligor timely complied with its delivery requirements under
+Section  3(a)(i)(A).  For example, if the Holder purchases Common Stock having a
+total  purchase  price of $11,000 to cover a Buy-In with respect to an attempted
+conversion  of  Debentures  with  respect  to  which  the  market  price  of the
+Underlying  Shares on the date of conversion was a total of $10,000 under clause
+(A) of the immediately preceding sentence,  the Obligor shall be required to pay
+the  Holder  $1,000.  The  Holder  shall  provide  the  Obligor  written  notice
+indicating the amounts payable to the Holder in respect of the Buy-In.
+
+
+                                       6
+<PAGE>
+
+      (c) (i) The  conversion  price (the  "Conversion  Price") in effect on any
+Conversion  Date shall be equal to Three  Cents  ($0.03),  which may be adjusted
+pursuant to the other terms of this Debenture.
+
+            (ii)  If  the  Obligor,   at  any  time  while  this   Debenture  is
+outstanding,  shall (a) pay a stock dividend or otherwise make a distribution or
+distributions  on  shares  of its  Common  Stock or any  other  equity or equity
+equivalent   securities  payable  in  shares  of  Common  Stock,  (b)  subdivide
+outstanding  shares of Common Stock into a larger number of shares,  (c) combine
+(including  by way of reverse  stock split)  outstanding  shares of Common Stock
+into a smaller number of shares, or (d) issue by  reclassification  of shares of
+the Common Stock any shares of capital stock of the Obligor, then the Conversion
+Price  shall be  multiplied  by a fraction of which the  numerator  shall be the
+number of shares of Common Stock (excluding treasury shares, if any) outstanding
+before such event and of which the denominator  shall be the number of shares of
+Common Stock  outstanding after such event. Any adjustment made pursuant to this
+Section  shall  become  effective  immediately  after  the  record  date for the
+determination of stockholders  entitled to receive such dividend or distribution
+and shall become effective immediately after the effective date in the case of a
+subdivision, combination or re-classification.
+
+            (iii)  If  the  Obligor,   at  any  time  while  this  Debenture  is
+outstanding,  shall issue  rights,  options or warrants to all holders of Common
+Stock (and not to the Holder) entitling them to subscribe for or purchase shares
+of  Common  Stock at a price per share  less than the  Closing  Bid Price at the
+record date mentioned below,  then the Conversion Price shall be multiplied by a
+fraction,  of which the denominator  shall be the number of shares of the Common
+Stock (excluding treasury shares, if any) outstanding on the date of issuance of
+such rights or warrants  (plus the number of  additional  shares of Common Stock
+offered for  subscription or purchase),  and of which the numerator shall be the
+number  of  shares of the  Common  Stock  (excluding  treasury  shares,  if any)
+outstanding on the date of issuance of such rights or warrants,  plus the number
+of shares which the  aggregate  offering  price of the total number of shares so
+offered would purchase at such Closing Bid Price.  Such adjustment shall be made
+whenever  such  rights  or  warrants  are  issued,  and shall  become  effective
+immediately after the record date for the determination of stockholders entitled
+to receive such rights, options or warrants. However, upon the expiration of any
+such  right,  option or  warrant  to  purchase  shares of the  Common  Stock the
+issuance of which resulted in an adjustment in the Conversion  Price pursuant to
+this  Section,  if any such right,  option or warrant shall expire and shall not
+have been exercised, the Conversion Price shall immediately upon such expiration
+be recomputed and effective immediately upon such expiration be increased to the
+price  which it would have been (but  reflecting  any other  adjustments  in the
+Conversion  Price made  pursuant to the  provisions  of this  Section  after the
+issuance of such rights or warrants) had the adjustment of the Conversion  Price
+made upon the  issuance of such  rights,  options or  warrants  been made on the
+basis of offering for subscription or purchase only that number of shares of the
+Common Stock  actually  purchased  upon the exercise of such rights,  options or
+warrants actually exercised.
+
+
+                                       7
+<PAGE>
+
+            (iv) If the Obligor or any subsidiary thereof, as applicable, at any
+time while this Debenture is outstanding,  shall issue shares of Common Stock or
+rights, warrants,  options or other securities or debt that are convertible into
+or  exchangeable  for  shares  of  Common  Stock  ("Common  Stock  Equivalents")
+entitling  any Person to acquire  shares of Common  Stock,  at a price per share
+less than the  Conversion  Price (if the  holder of the  Common  Stock or Common
+Stock  Equivalent so issued shall at any time,  whether by operation of purchase
+price adjustments, reset provisions,  floating conversion,  exercise or exchange
+prices or  otherwise,  or due to warrants,  options or rights per share which is
+issued in connection with such issuance, be entitled to receive shares of Common
+Stock at a price  per  share  which  is less  than the  Conversion  Price,  such
+issuance shall be deemed to have occurred for less than the  Conversion  Price),
+then, at the sole option of the Holder,  the Conversion  Price shall be adjusted
+to mirror the  conversion,  exchange or purchase  price for such Common Stock or
+Common Stock Equivalents (including any reset provisions thereof) at issue. Such
+adjustment shall be made whenever such Common Stock or Common Stock  Equivalents
+are issued.  The Obligor  shall notify the Holder in writing,  no later than one
+(1)  business  day  following  the  issuance of any Common Stock or Common Stock
+Equivalent subject to this Section,  indicating therein the applicable  issuance
+price, or of applicable reset price, exchange price,  conversion price and other
+pricing  terms.  No  adjustment  under this Section shall be made as a result of
+issuances and exercises of options to purchase shares of Common Stock issued for
+compensatory  purposes  pursuant to any of the  Obligor's  stock option or stock
+purchase plans.
+
+            (v) If the Obligor, at any time while this Debenture is outstanding,
+shall  distribute  to all  holders  of  Common  Stock  (and  not to the  Holder)
+evidences of its  indebtedness  or assets or rights or warrants to subscribe for
+or purchase any security,  then in each such case the Conversion  Price at which
+this  Debenture  shall   thereafter  be  convertible   shall  be  determined  by
+multiplying the Conversion Price in effect  immediately prior to the record date
+fixed for determination of stockholders entitled to receive such distribution by
+a fraction of which the denominator shall be the Closing Bid Price determined as
+of the record date  mentioned  above,  and of which the numerator  shall be such
+Closing Bid Price on such  record  date less the then fair market  value at such
+record  date of the  portion  of such  assets or  evidence  of  indebtedness  so
+distributed  applicable  to  one  outstanding  share  of  the  Common  Stock  as
+determined  by the  Board  of  Directors  in good  faith.  In  either  case  the
+adjustments  shall be  described  in a  statement  provided to the Holder of the
+portion  of  assets  or  evidences  of   indebtedness  so  distributed  or  such
+subscription  rights  applicable to one share of Common Stock.  Such  adjustment
+shall be made whenever any such  distribution is made and shall become effective
+immediately after the record date mentioned above.
+
+            (vi) In case of any  reclassification  of the  Common  Stock  or any
+compulsory  share exchange  pursuant to which the Common Stock is converted into
+other securities,  cash or property,  the Holder shall have the right thereafter
+to, at its option, (A) convert the then outstanding  principal amount,  together
+with all accrued but unpaid  interest and any other amounts then owing hereunder
+in respect of this Debenture into the shares of stock and other securities, cash
+and property receivable upon or deemed to be held by holders of the Common Stock
+following  such  reclassification  or share  exchange,  and the  Holder  of this
+Debenture  shall  be  entitled  upon  such  event  to  receive  such  amount  of
+securities,  cash or property  as the shares of the Common  Stock of the Obligor
+into which the then outstanding principal amount,  together with all accrued but
+unpaid  interest and any other  amounts then owing  hereunder in respect of this
+Debenture could have been converted  immediately prior to such  reclassification
+or share exchange would have been entitled, or (B) require the Obligor to prepay
+the outstanding principal amount of this Debenture,  plus all interest and other
+amounts due and payable  thereon.  The entire  prepayment price shall be paid in
+cash. This provision shall  similarly apply to successive  reclassifications  or
+share exchanges.
+
+
+                                       8
+<PAGE>
+
+            (vii) The Obligor  shall  maintain a share  reserve of not less than
+one  hundred  percent  (100%)  of the  shares  of  Common  Stock  issuable  upon
+conversion of this  Debenture;  and within three (3) Business Days following the
+receipt  by the  Obligor  of a  Holder's  notice  that  such  minimum  number of
+Underlying  Shares is not so  reserved,  the Obligor  shall  promptly  reserve a
+sufficient number of shares of Common Stock to comply with such requirement.
+
+            (viii) All calculations  under this Section 3 shall be rounded up to
+the nearest $0.001 of a share.
+
+            (ix) Whenever the Conversion Price is adjusted pursuant to Section 3
+hereof, the Obligor shall promptly mail to the Holder a notice setting forth the
+Conversion  Price after such  adjustment and setting forth a brief  statement of
+the facts requiring such adjustment.
+
+            (x) If (A) the  Obligor  shall  declare  a  dividend  (or any  other
+distribution)  on the Common  Stock;  (B) the  Obligor  shall  declare a special
+nonrecurring  cash  dividend on or a  redemption  of the Common  Stock;  (C) the
+Obligor  shall  authorize the granting to all holders of the Common Stock rights
+or warrants to  subscribe  for or  purchase  any shares of capital  stock of any
+class or of any  rights;  (D) the  approval of any  stockholders  of the Obligor
+shall be required in connection with any  reclassification  of the Common Stock,
+any  consolidation  or  merger  to which  the  Obligor  is a party,  any sale or
+transfer  of all or  substantially  all of the  assets  of the  Obligor,  of any
+compulsory  share  exchange  whereby the Common  Stock is  converted  into other
+securities,  cash or property;  or (E) the Obligor shall authorize the voluntary
+or  involuntary  dissolution,  liquidation  or winding up of the  affairs of the
+Obligor;  then, in each case, the Obligor shall cause to be filed at each office
+or agency maintained for the purpose of conversion of this Debenture,  and shall
+cause to be mailed to the Holder at its last address as it shall appear upon the
+stock books of the  Obligor,  at least  twenty (20)  calendar  days prior to the
+applicable record or effective date hereinafter  specified, a notice stating (x)
+the date on which a record  is to be taken  for the  purpose  of such  dividend,
+distribution, redemption, rights or warrants, or if a record is not to be taken,
+the date as of which the holders of the Common Stock of record to be entitled to
+such  dividend,  distributions,   redemption,  rights  or  warrants  are  to  be
+determined  or (y)  the  date on  which  such  reclassification,  consolidation,
+merger,  sale,  transfer or share  exchange is expected to become  effective  or
+close,  and the date as of which it is expected that holders of the Common Stock
+of record  shall be entitled to exchange  their  shares of the Common  Stock for
+securities,  cash or other  property  deliverable  upon  such  reclassification,
+consolidation,  merger,  sale,  transfer or share exchange,  provided,  that the
+failure to mail such  notice or any defect  therein  or in the  mailing  thereof
+shall not affect the validity of the corporate  action  required to be specified
+in such  notice.  The Holder is entitled to convert  this  Debenture  during the
+20-day calendar period  commencing the date of such notice to the effective date
+of the event triggering such notice.
+
+
+                                       9
+<PAGE>
+
+            (xi) In case of any (1) merger or  consolidation  of the  Obligor or
+any  subsidiary of the Obligor with or into another  Person,  or (2) sale by the
+Obligor or any  subsidiary of the Obligor of more than one-half of the assets of
+the Obligor in one or a series of related transactions,  a Holder shall have the
+right to (A) exercise any rights under Section  2(b),  (B) convert the aggregate
+amount of this  Debenture  then  outstanding  into the shares of stock and other
+securities, cash and property receivable upon or deemed to be held by holders of
+Common Stock following such merger, consolidation or sale, and such Holder shall
+be entitled  upon such event or series of related  events to receive such amount
+of  securities,  cash and property as the shares of Common Stock into which such
+aggregate   principal  amount  of  this  Debenture  could  have  been  converted
+immediately  prior to such  merger,  consolidation  or  sales  would  have  been
+entitled, or (C) in the case of a merger or consolidation, require the surviving
+entity to issue to the Holder a convertible  Debenture  with a principal  amount
+equal to the  aggregate  principal  amount of this  Debenture  then held by such
+Holder,  plus all accrued and unpaid  interest and other amounts owing  thereon,
+which such  newly  issued  convertible  Debenture  shall  have  terms  identical
+(including with respect to conversion) to the terms of this Debenture, and shall
+be entitled to all of the rights and  privileges of the Holder of this Debenture
+set forth  herein and the  agreements  pursuant  to which this  Debentures  were
+issued. In the case of clause (C), the conversion price applicable for the newly
+issued shares of convertible preferred stock or convertible  Debentures shall be
+based upon the amount of securities, cash and property that each share of Common
+Stock  would  receive in such  transaction  and the  Conversion  Price in effect
+immediately prior to the effectiveness or closing date for such transaction. The
+terms of any such merger,  sale or consolidation  shall include such terms so as
+to  continue to give the Holder the right to receive  the  securities,  cash and
+property set forth in this Section upon any  conversion or redemption  following
+such event. This provision shall similarly apply to successive such events.
+
+      (d) The  Obligor  covenants  that it will at all  times  reserve  and keep
+available out of its authorized  and unissued  shares of Common Stock solely for
+the  purpose of  issuance  upon  conversion  of this  Debenture  and  payment of
+interest on this Debenture, each as herein provided, free from preemptive rights
+or any other actual contingent purchase rights of persons other than the Holder,
+not less than such number of shares of the Common Stock as shall (subject to any
+additional  requirements  of the  Obligor as to  reservation  of such shares set
+forth in this  Debenture) be issuable  (taking into account the  adjustments and
+restrictions  of Sections 2(b) and 3(c)) upon the conversion of the  outstanding
+principal  amount of this  Debenture  and  payment of  interest  hereunder.  The
+Obligor  covenants  that all shares of Common  Stock  that shall be so  issuable
+shall,  upon  issue,  be duly and  validly  authorized,  issued and fully  paid,
+nonassessable  and, if the  Underlying  Shares  Registration  Statement has been
+declared  effective  under the  Securities  Act,  registered  for public sale in
+accordance with such Underlying Shares Registration Statement.
+
+      (e) Upon a conversion hereunder the Obligor shall not be required to issue
+stock certificates representing fractions of shares of the Common Stock, but may
+if otherwise permitted,  make a cash payment in respect of any final fraction of
+a share based on the Closing Bid Price at such time. If the Obligor  elects not,
+or is unable,  to make such a cash  payment,  the Holder  shall be  entitled  to
+receive,  in lieu of the final  fraction  of a share,  one whole share of Common
+Stock.
+
+
+                                       10
+<PAGE>
+
+      (f) The  issuance  of  certificates  for  shares  of the  Common  Stock on
+conversion of this Debenture  shall be made without charge to the Holder thereof
+for any documentary stamp or similar taxes that may be payable in respect of the
+issue or delivery of such  certificate,  provided  that the Obligor shall not be
+required to pay any tax that may be payable in respect of any transfer  involved
+in the issuance and delivery of any such  certificate  upon conversion in a name
+other than that of the Holder of such  Debenture  so  converted  and the Obligor
+shall not be required to issue or deliver such certificates  unless or until the
+person or persons requesting the issuance thereof shall have paid to the Obligor
+the  amount of such tax or shall have  established  to the  satisfaction  of the
+Obligor that such tax has been paid.
+
+      (g) Any notices,  consents,  waivers or other  communications  required or
+permitted  to be given  under the terms  hereof  must be in writing  and will be
+deemed to have been delivered: (i) upon receipt, when delivered personally; (ii)
+upon receipt,  when sent by facsimile (provided  confirmation of transmission is
+mechanically or electronically generated and kept on file by the sending party);
+or  (iii)  one (1)  trading  day  after  deposit  with a  nationally  recognized
+overnight  delivery  service,  in each case  properly  addressed to the party to
+receive the same.  The addresses and facsimile  numbers for such  communications
+shall be:
+
+
+If to the Company, to:                    Innova Holdings, Inc
+                                          17105 San Carlos Boulevard
+                                          Suite A6151
+                                          Fort Myers, FL 33931
+                                          Attention:        Walter Weisel
+                                          Telephone:        (239) 466-0488
+                                          Facsimile:        (239) 466-7270
+With a copy to:
+                                          Innova Holdings, Inc.
+                                          17105 San Carlos Boulevard
+                                          Suite A6151
+                                          For Myers, FL 33931
+                                          Attention:        Sheri Aws
+                                          Telephone:        (239) 466-0488
+                                          Facsimile:        (239) 466-7270
+
+If to the Holder:                         Cornell Capital Partners, LP
+                                          101 Hudson Street, Suite 3700
+                                          Jersey City, NJ 07303
+                                          Attention:        Mark Angelo
+                                          Telephone:        (201) 985-8300
+
+With a copy to:                           David Gonzalez, Esq.
+                                          101 Hudson Street - Suite 3700
+                                          Jersey City, NJ 07302
+                                          Telephone:        (201) 985-8300
+                                          Facsimile:        (201) 985-8266
+
+
+                                       11
+<PAGE>
+
+or at such other address and/or facsimile number and/or to the attention of such
+other person as the  recipient  party has  specified by written  notice given to
+each other  party three (3)  business  days prior to the  effectiveness  of such
+change.  Written  confirmation  of receipt  (i) given by the  recipient  of such
+notice,   consent,   waiver  or  other   communication,   (ii)  mechanically  or
+electronically  generated by the sender's facsimile machine containing the time,
+date,  recipient  facsimile  number  and an  image  of the  first  page  of such
+transmission  or (iii) provided by a nationally  recognized  overnight  delivery
+service, shall be rebuttable evidence of personal service,  receipt by facsimile
+or receipt from a nationally recognized overnight delivery service in accordance
+with clause (i), (ii) or (iii) above, respectively.
+
+      Section 4. Definitions. For the purposes hereof, the following terms shall
+have the following meanings:
+
+      "Business  Day"  means any day except  Saturday,  Sunday and any day which
+shall be a federal  legal holiday in the United States or a day on which banking
+institutions  are  authorized or required by law or other  government  action to
+close.
+
+      "Change of Control Transaction" means the occurrence of (a) an acquisition
+after the date hereof by an  individual or legal entity or "group" (as described
+in Rule  13d-5(b)(1)  promulgated  under the Exchange Act) of effective  control
+(whether through legal or beneficial  ownership of capital stock of the Obligor,
+by  contract or  otherwise)  of in excess of fifty  percent  (50%) of the voting
+securities of the Obligor (except that the  acquisition of voting  securities by
+the Holder  shall not  constitute a Change of Control  Transaction  for purposes
+hereof), (b) a replacement at one time or over time of more than one-half of the
+members of the board of  directors  of the  Obligor  which is not  approved by a
+majority of those  individuals  who are members of the board of directors on the
+date hereof (or by those  individuals who are serving as members of the board of
+directors on any date whose nomination to the board of directors was approved by
+a majority of the members of the board of directors  who are members on the date
+hereof), (c) the merger, consolidation or sale of fifty percent (50%) or more of
+the assets of the Obligor or any subsidiary of the Obligor in one or a series of
+related  transactions  with or into another entity,  or (d) the execution by the
+Obligor of an agreement to which the Obligor is a party or by which it is bound,
+providing for any of the events set forth above in (a), (b) or (c).
+
+      "Commission" means the Securities and Exchange Commission.
+
+      "Common  Stock" means the common stock,  par value $0.001,  of the Obligor
+and stock of any other class into which such shares may  hereafter be changed or
+reclassified.
+
+      "Exchange Act" means the Securities Exchange Act of 1934, as amended.
+
+      "Original  Issue Date"  shall mean the date of the first  issuance of this
+Debenture  regardless of the number of transfers and regardless of the number of
+instruments, which may be issued to evidence such Debenture.
+
+      "Closing Bid Price" means the price per share in the last  reported  trade
+of the Common Stock on the OTC or on the exchange which the Common Stock is then
+listed as quoted by Bloomberg, LP.
+
+
+                                       12
+<PAGE>
+
+      "Person" means a corporation, an association, a partnership, organization,
+a business,  an individual,  a government or political  subdivision thereof or a
+governmental agency.
+
+      "Securities  Act" means the  Securities  Act of 1933, as amended,  and the
+rules and regulations promulgated thereunder.
+
+      "Trading  Day" means a day on which the shares of Common  Stock are quoted
+on the OTC or quoted or traded on such Subsequent  Market on which the shares of
+Common  Stock are then  quoted or listed;  provided,  that in the event that the
+shares of Common  Stock are not listed or quoted,  then Trading Day shall mean a
+Business Day.
+
+      "Transaction  Documents"  means the Securities  Purchase  Agreement or any
+other agreement  delivered in connection with the Securities Purchase Agreement,
+including, without limitation, the Security Agreement, the Pledge Agreement, the
+Officer Pledge Agreement, and the Investor Registration Rights Agreement.
+
+      "Underlying  Shares"  means  the  shares  of Common  Stock  issuable  upon
+conversion of this  Debenture or as payment of interest in  accordance  with the
+terms hereof.
+
+      "Underlying Shares Registration  Statement" means a registration statement
+meeting  the  requirements  set  forth  in the  Registration  Rights  Agreement,
+covering among other things the resale of the  Underlying  Shares and naming the
+Holder as a "selling stockholder" thereunder.
+
+      Section 5. Except as  expressly  provided  herein,  no  provision  of this
+Debenture  shall  alter or impair  the  obligations  of the  Obligor,  which are
+absolute and unconditional,  to pay the principal of, interest and other charges
+(if any) on, this  Debenture at the time,  place,  and rate,  and in the coin or
+currency,  herein  prescribed.  This  Debenture  is a direct  obligation  of the
+Obligor.  This  Debenture  ranks  pari passu  with all other  Debentures  now or
+hereafter issued under the terms set forth herein.  As long as this Debenture is
+outstanding,  the Obligor shall not and shall cause their  subsidiaries  not to,
+without the consent of the Holder,  (i) amend its certificate of  incorporation,
+bylaws or other  charter  documents so as to adversely  affect any rights of the
+Holder;  (ii)  repay,  repurchase  or offer to repay,  repurchase  or  otherwise
+acquire shares of its Common Stock or other equity  securities  other than as to
+the Underlying  Shares to the extent permitted or required under the Transaction
+Documents;  or  (iii)  enter  into  any  agreement  with  respect  to any of the
+foregoing.
+
+      Section  6. This  Debenture  shall not  entitle  the  Holder to any of the
+rights of a stockholder of the Obligor,  including without limitation, the right
+to vote, to receive dividends and other distributions,  or to receive any notice
+of, or to attend,  meetings  of  stockholders  or any other  proceedings  of the
+Obligor,  unless  and to the extent  converted  into  shares of Common  Stock in
+accordance with the terms hereof.
+
+      Section 7. If this Debenture is mutilated,  lost, stolen or destroyed, the
+Obligor shall  execute and deliver,  in exchange and  substitution  for and upon
+cancellation of the mutilated Debenture,  or in lieu of or in substitution for a
+lost, stolen or destroyed Debenture, a new Debenture for the principal amount of
+this Debenture so mutilated,  lost, stolen or destroyed but only upon receipt of
+evidence  of such  loss,  theft or  destruction  of such  Debenture,  and of the
+ownership hereof, and indemnity,  if requested,  all reasonably  satisfactory to
+the Obligor.
+
+
+                                       13
+<PAGE>
+
+      Section 8. No  indebtedness  of the Obligor is senior to this Debenture in
+right of payment, whether with respect to interest,  damages or upon liquidation
+or dissolution or otherwise.  Without the Holder's consent, the Obligor will not
+and will not permit any of their subsidiaries to, directly or indirectly,  enter
+into, create,  incur, assume or suffer to exist any indebtedness of any kind, on
+or with respect to any of its property or assets now owned or hereafter acquired
+or any  interest  therein or any income or profits  there from that is senior in
+any respect to the obligations of the Obligor under this Debenture.
+
+      Section 9. This Debenture shall be governed by and construed in accordance
+with the laws of the State of New Jersey,  without giving effect to conflicts of
+laws thereof.  Each of the parties  consents to the jurisdiction of the Superior
+Courts of the State of New Jersey sitting in Hudson  County,  New Jersey and the
+U.S. District Court for the District of New Jersey sitting in Newark, New Jersey
+in connection  with any dispute  arising under this Debenture and hereby waives,
+to the maximum extent  permitted by law, any objection,  including any objection
+based on forum non  conveniens  to the bringing of any such  proceeding  in such
+jurisdictions.
+
+      Section 10. If the Obligor fails to strictly comply with the terms of this
+Debenture,  then the Obligor shall  reimburse the Holder  promptly for all fees,
+costs and expenses, including, without limitation,  attorneys' fees and expenses
+incurred  by the  Holder  in any  action  in  connection  with  this  Debenture,
+including, without limitation, those incurred: (i) during any workout, attempted
+workout,  and/or in  connection  with the  rendering  of legal  advice as to the
+Holder's rights, remedies and obligations, (ii) collecting any sums which become
+due  to the  Holder,  (iii)  defending  or  prosecuting  any  proceeding  or any
+counterclaim to any proceeding or appeal;  or (iv) the protection,  preservation
+or enforcement of any rights or remedies of the Holder.
+
+      Section 11. Any waiver by the Holder of a breach of any  provision of this
+Debenture  shall  not  operate  as or be  construed  to be a waiver of any other
+breach  of such  provision  or of any  breach  of any  other  provision  of this
+Debenture. The failure of the Holder to insist upon strict adherence to any term
+of this Debenture on one or more  occasions  shall not be considered a waiver or
+deprive that party of the right  thereafter  to insist upon strict  adherence to
+that term or any other term of this Debenture. Any waiver must be in writing.
+
+      Section 12. If any  provision  of this  Debenture  is invalid,  illegal or
+unenforceable,  the balance of this Debenture shall remain in effect, and if any
+provision is inapplicable to any person or circumstance,  it shall  nevertheless
+remain applicable to all other persons and  circumstances.  If it shall be found
+that any interest or other amount deemed  interest due  hereunder  shall violate
+applicable laws governing  usury,  the applicable rate of interest due hereunder
+shall  automatically be lowered to equal the maximum permitted rate of interest.
+The Obligor  covenants  (to the extent that it may lawfully do so) that it shall
+not at any time insist upon,  plead, or in any manner  whatsoever  claim or take
+the benefit or advantage of, any stay, extension or usury law or other law which
+would  prohibit  or forgive  the  Obligor  from paying all or any portion of the
+principal of or interest on this  Debenture  as  contemplated  herein,  wherever
+enacted,  now or at any time  hereafter  in  force,  or  which  may  affect  the
+covenants or the performance of this  indenture,  and the Obligor (to the extent
+it may lawfully do so) hereby  expressly waives all benefits or advantage of any
+such law,  and  covenants  that it will not, by resort to any such law,  hinder,
+delay or impeded the  execution of any power herein  granted to the Holder,  but
+will  suffer and permit  the  execution  of every such as though no such law has
+been enacted.
+
+
+                                       14
+<PAGE>
+
+      Section 13.  Whenever any payment or other  obligation  hereunder shall be
+due on a day other than a Business  Day,  such payment shall be made on the next
+succeeding Business Day.
+
+      Section 14. THE PARTIES HEREBY  KNOWINGLY,  VOLUNTARILY AND  INTENTIONALLY
+WAIVE  THE  RIGHT  ANY OF THEM  MAY HAVE TO A TRIAL  BY JURY IN  RESPECT  OF ANY
+LITIGATION  BASED  HEREON OR ARISING OUT OF,  UNDER OR IN  CONNECTION  WITH THIS
+AGREEMENT  OR ANY  TRANSACTION  DOCUMENT  OR ANY  COURSE OF  CONDUCT,  COURSE OF
+DEALING,  STATEMENTS  (WHETHER VERBAL OR WRITTEN) OR ACTIONS OF ANY PARTY.  THIS
+PROVISION  IS  A  MATERIAL  INDUCEMENT  FOR  THE  PARTIES'  ACCEPTANCE  OF  THIS
+AGREEMENT.
+
+                   [REMAINDER OF PAGE INTENTIONLLY LEFT BLANK]
+
+
+                                       15
+<PAGE>
+
+      IN WITNESS  WHEREOF,  the  Obligor  has caused  this  Secured  Convertible
+Debenture to be duly  executed by a duly  authorized  officer as of the date set
+forth above.
+
+                                             INNOVA HOLDINGS, INC
+
+                                             By:/s/ Walter K. Weisel
+                                                -----------------------
+                                             Name:  Walter K. Weisel
+                                             Title: Chief Executive Officer
+
+
+                                       16
+<PAGE>
+
+                                   EXHIBIT "A"
+
+
+                              NOTICE OF CONVERSION
+
+
+        (To be executed by the Holder in order to convert the Debenture)
+
+
+
+TO:
+
+      The undersigned  hereby  irrevocably  elects to convert $ of the principal
+amount of the above  Debenture  into Shares of Common Stock of Innova  Holdings,
+Inc,  according to the conditions  stated  therein,  as of the  Conversion  Date
+written below.
+
+Conversion Date:
+                                           -------------------------------------
+Applicable Conversion Price:
+                                           -------------------------------------
+Signature:
+                                           -------------------------------------
+Name:
+                                           -------------------------------------
+Address:
+                                           -------------------------------------
+Amount to be converted:                   $
+                                           -------------------------------------
+Amount of Debenture unconverted:          $
+                                           -------------------------------------
+Conversion Price per share:               $
+                                           -------------------------------------
+Number of shares of Common Stock to be
+issued:
+                                           -------------------------------------
+Please issue the shares of Common Stock
+in  the  following  name and to the
+following address:
+                                           -------------------------------------
+Issue to:
+                                           -------------------------------------
+Authorized Signature:
+                                           -------------------------------------
+Name:
+                                           -------------------------------------
+Title:
+                                           -------------------------------------
+Phone Number:
+                                           -------------------------------------
+Broker DTC Participant Code:
+                                           -------------------------------------
+Account Number:
+                                           -------------------------------------
+
+</TEXT>
+</DOCUMENT>

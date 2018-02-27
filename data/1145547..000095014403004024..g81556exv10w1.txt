@@ -1,0 +1,327 @@
+<DOCUMENT>
+<TYPE>EX-10.1
+<SEQUENCE>3
+<FILENAME>g81556exv10w1.txt
+<DESCRIPTION>EX-10.1 DIRECTOR STOCK INCENTIVE PLAN
+<TEXT>
+<PAGE>
+                                                                    EXHIBIT 10.1
+
+
+                                GREER STATE BANK
+                            DIRECTORS INCENTIVE PLAN
+
+         1.       PURPOSE.  The purpose of the Greer State Bank Directors
+Incentive Plan (the "Plan") is to improve the interests of Greer State Bank (the
+"Company") by encouraging ownership of the Company's Five Dollar ($5.00) par
+value common stock (the "Common Stock") by Directors of the Company, thereby
+assisting the Company in attracting and retaining Directors of outstanding
+ability and giving such Directors an increased incentive to devote their efforts
+to the success of the Company.
+
+         2.       ADMINISTRATION.  Grants of options under the Plan shall be
+automatic. The Plan is intended to be a "formula plan" as recognized by Rule
+16b-3(c)(2)(ii) promulgated under the Securities Exchange Act of 1934, as
+amended (the "Exchange Act"), and shall be interpreted accordingly. The
+Company's Board of Directors or a committee appointed by the Board of Directors
+composed of at least three (3) members of the Board of Directors (which may be
+any Committee of the Board of Directors) shall have complete and conclusive
+authority to interpret the Plan and to make all other determinations necessary
+or advisable for the administration of the Plan.
+
+         3.       ELIGIBILITY.  Except as provided otherwise in this Paragraph
+3, options under the Plan shall be granted in accordance with Paragraph 5 to
+each member of the Company's Board of Directors who is not also an employee of
+the Company; provided that shares of Common Stock remain available for grant
+hereunder in accordance with Paragraph 4. No employee of the Company who is
+also a member of the Company's Board of Directors may participate in this Plan.
+A Director to whom an option is granted under the Plan shall be referred to
+hereinafter as a "Grantee."
+
+         4.       SHARES SUBJECT TO PLAN.  The shares subject to the Plan shall
+be authorized but unissued, or reacquired, shares of Common Stock. Subject to
+adjustment in accordance with the provisions of Paragraph 6 of the Plan, the
+maximum number of shares of Common Stock for which options may be granted under
+the Plan shall be forty-five thousand (45,000) and the initial adoption of the
+Plan by the Board of Directors of the Company shall constitute a reservation of
+forty-five thousand (45,000) authorized but unissued, or reacquired, shares of
+Common Stock for issuance only upon the exercise of options granted under the
+Plan. In the event that any outstanding option granted under the Plan for any
+reason expires or is terminated prior to the end of the period during which
+options may be granted under the Plan, the shares of Common Stock allocable to
+the unexercised portion of such option may again be subject in whole or in part
+to any option granted under the Plan.
+
+
+                                       1
+<PAGE>
+
+         5.       TERMS AND CONDITIONS OF OPTIONS.  Options granted
+pursuant to the Plan shall be evidenced by Stock Option Agreements
+in such form as shall comply with and be subject to the following terms
+and conditions:
+
+                  (a)      Grant.  Beginning with the adjournment of the 1996
+         Annual Meeting of Shareholders of Greer State Bank (the "1996 Annual
+         Meeting") and at the adjournment of the annual meetings for each of
+         the succeeding years during the term of the Plan in which the return
+         on average equity of Greer State Bank for the fiscal year preceding
+         the annual meeting as reported by Greer State Bank in its earnings
+         release for such prior fiscal year is twelve percent (12%),
+         respectively, or greater, each Director who was also serving in such
+         capacity as of December 31 of the preceding year shall be granted an
+         option to purchase five hundred (500) shares of the Company's Common
+         Stock, subject to adjustment as provided in Paragraph 6 and provided
+         that no Director may receive grants of options for shares of Common
+         Stock under the Plan in excess of five thousand (5,000) shares. Each
+         such day that options are to be granted under the Plan is referred to
+         hereinafter as a "Grant Date."
+
+                  If on any Grant Date, shares of Common Stock are not
+         available under the Plan to grant to Directors the full amount of a
+         grant contemplated by the immediately preceding paragraph, then each
+         Director shall receive an option (a "Reduced Grant") to purchase
+         shares of Common Stock in an amount equal to the number of shares of
+         Common Stock then available under the Plan divided by the number of
+         Directors as of the applicable Grant Date. Fractional shares shall be
+         ignored and not granted.
+
+                  If a Reduced Grant has been made and, thereafter, during the
+         term of the Plan, additional shares of Common Stock become available
+         for grant (e.g., because of the forfeiture or lapse of an option),
+         then each person who was a Director both on the Grant Date on which
+         the Reduced Grant was made and on the date additional shares of Common
+         Stock become available (a "Continuing Director") shall receive an
+         additional option to purchase shares of Common Stock. The number of
+         newly available shares shall be divided equally among the options
+         granted to the Continuing Directors; provided, however, that the
+         aggregate number of shares of Common Stock subject to a Continuing
+         Director's additional option plus any prior Reduced Grant to the
+         Continuing Director on the applicable Grant Date shall not exceed five
+         thousand (5,000) shares of Common Stock (subject to adjustment
+         pursuant to Paragraph 6). If more than one Reduced Grant has been
+         made, available options shall be granted beginning with the earliest
+         such Grant Date.
+
+
+                                       2
+<PAGE>
+         (b)      Option Price.     The option price for each option granted
+under the Plan shall be the Fair Market Value (as defined below) of the shares
+of Common Stock subject to the option on the Grant Date of the option. For
+purposes of the Plan, the "Fair Market Value" of the shares of Common Stock
+shall mean the last sales price on the day on which such value is to be
+determined or, if no shares were traded on such day, on the next preceding day
+on which the shares were traded, as quoted by a national quotation service, or
+if none by J. C. Bradford & Company, Greenville, South Carolina. If the shares
+are listed on a national securities exchange, "Fair Market Value" means the
+closing price of the shares on such national securities exchange on the day on
+which such value is to be determined or, if no shares were traded on such day,
+on the next preceding day on which shares were traded, as reported by National
+Quotation Bureau, Inc. or other national quotation service.
+
+         (c)      Medium and Time of Payment. The option price shall be payable
+in full upon the exercise of an option in cash or by check. To the extent
+permitted under Regulation T of the Federal Reserve Board, and subject to
+applicable securities laws, options may be exercised through a broker in a
+so-called "cashless exercise" whereby the broker sells the option shares and
+delivers cash sales proceeds to the Company in payment of the exercise price.
+In no event may shares of Common Stock be used as payment of the exercise price
+of the option.
+
+         (d)      Term. Each option granted under the Plan shall, to the extent
+not previously exercised, terminate and expire on the date ten (10) years after
+the date of grant of the option, unless earlier terminated as provided
+hereinafter in Paragraph 5(g).
+
+         (e)      Exercisability. Each option granted under the Plan shall,
+unless earlier terminated as provided hereinafter in Paragraph 5(g), become
+exercisable on the date six (6) months and one day following the date of grant.
+
+         (f)      Method of Exercise. All options granted under the Plan shall
+be exercised by an irrevocable written notice directed to the Secretary of the
+company at the Company's principal place of business. Except in the case of a
+"cashless exercise" through a broker, such written notice shall be accompanied
+by payment in full of the option price for the shares for which such option is
+being exercised. In the case of a "cashless exercise," payment in full of the
+option price for the shares for which such option is being exercised shall be
+paid in cash by the broker from the sale proceeds. The Company shall make
+delivery of certificates representing the shares for which an option has been
+exer-
+
+
+                                       3
+<PAGE>
+
+         cised within a reasonable period of time; provided, however, that if
+         any law, regulation or agreement requires the Company to take any
+         action with respect to the shares for which an option has been
+         exercised before the issuance thereof, then the date of delivery of
+         such shares shall be extended for the period necessary to take such
+         action. Certificates representing shares for which options are
+         exercised under the Plan may bear such restrictive legends as may be
+         necessary or desirable in order to comply with applicable federal and
+         state securities laws. Nothing contained in the Plan shall be construed
+         to require the Company to register any shares of Common Stock
+         underlying options granted under the Plan.
+
+                  (g)      Effect of Termination of Directorship or Death.
+
+                           (i)      Termination of Directorship.  Upon
+                  termination of any Grantee's membership on the Board of
+                  Directors of the Company for any reason other than for cause
+                  or death, the options held by the Grantee under the Plan shall
+                  terminate ninety (90) days following the date of termination
+                  of the Grantee's membership on the Board or, if earlier, on
+                  the date of expiration of the options as provided by Paragraph
+                  5(d) of the Plan. If the Grantee exercises the options after
+                  termination of the Grantee's service on the Board of
+                  Directors, the Grantee may exercise the options only with
+                  respect to the shares that were otherwise exercisable on the
+                  date of termination of the Grantee's service on the Board.
+                  Such exercise otherwise shall be subject to the terms and
+                  conditions of the Plan. If the Grantee's membership on
+                  the Board of Directors is terminated for cause, all options
+                  granted to such Grantee shall expire upon such termination.
+
+                           (ii)     Death.  In the event of the death of a
+                  Grantee, the Grantee's personal representatives, heirs or
+                  legatees (the "Grantee's Successors") may exercise the
+                  options held by the Grantee on the date of death, upon proof
+                  satisfactory to the Company of their authority. The Grantee's
+                  Successors must exercise any such options within one (1) year
+                  after the Grantee's death and in any event prior to the date
+                  on which the options expire as provided by Paragraph 5(d) of
+                  the Plan. Such exercise otherwise shall be subject to the
+                  terms and conditions of the Plan.
+
+                  (h)      Nonassignability of Options Rights.  No option shall
+         be assignable or transferable by the Grantee except by will, by the
+         laws of descent and distribution or pursuant to a qualified domestic
+         relations order as defined in Title I of the Employee Retirement Income
+         Security Act of 1974, as
+
+
+                                       4
+<PAGE>
+amended ("ERISA"), and the Internal Revenue Code of 1986, as amended (the
+"Code"). During the lifetime of the Grantee, the option shall be exercisable
+only by the Grantee.
+
+         (i)      Rights as Shareholder. Neither the Grantee nor the Grantee's
+Successors shall have rights as a shareholder of the Company with respect to
+shares of Common Stock covered by the Grantee's option until the Grantee or the
+Grantee's Successors become the holder of record of such shares.
+
+         (j)      No Options after Ten Years. No options shall be granted
+except within a period of ten (10) years after the effective date of the Plan.
+
+6.       ADJUSTMENTS.
+
+         (a)      Certain Recapitalizations. If any change is made in the Common
+Stock subject to the Plan, or subject to any option granted under the Plan
+(through merger, consolidation, reorganization, recapitalization, stock
+dividend, dividend in property other than cash, stock split, liquidating,
+dividend, combination of shares, exchange of shares, change in corporate
+structure or otherwise), the Plan and outstanding options will be automatically
+and appropriately adjusted, including the maximum number of shares subject to
+the Plan and number of shares and price per share of stock subject to
+outstanding options. A stock dividend in 1996 shall not cause an adjustment to
+the outstanding options.
+
+         (b)      Certain Reorganizations. In the event of: (i) a merger or
+consolidation in which the Company is not the surviving corporation; (ii) a
+reverse merger in which the Company is the surviving corporation but the shares
+of the Company's Common Stock outstanding immediately preceding the merger are
+converted by virtue of the merger into other property, whether in the form of
+securities, cash or otherwise; or (iii) any other capital reorganization in
+which more than fifty percent (50%) of the shares of the Company entitled to
+vote are exchanged, then any surviving corporation shall assume any options
+outstanding under the Plan or shall substitute similar options for those
+outstanding under the Plan. If there is no surviving corporation, all
+outstanding options shall expire.
+
+7.       EFFECTIVE DATE AND TERMINATION OF PLAN.
+
+         (a)      Effective Date. If approved by the Board of Directors and
+shareholders of the Company, the Plan shall become effective upon the
+adjournment of the 1996 Annual Meeting.
+
+
+                                       5
+<PAGE>
+
+                  (b)      Termination.  The Plan shall terminate ten (10) years
+         after its effective date, but the Board of Directors may terminate the
+         Plan at any time prior to such date. Termination of the Plan shall not
+         alter or impair any of the rights or obligations under any option
+         theretofore granted under the Plan unless the Grantee shall so consent.
+
+         8.       NO OBLIGATION TO EXERCISE OPTION.  The granting of an option
+shall impose no obligation upon the Grantee to exercise such option.
+
+         9.       AMENDMENT.  The Board of Directors of the Company by majority
+vote may amend the Plan; provided, however, that without the approval of the
+shareholders of the Company, no such amendment shall change:
+
+                  (a)      The maximum number of shares of Common Stock as to
+         which options may be granted under the Plan (except by operation of the
+         adjustment provisions of the Plan); or
+
+                  (b)      The date on which the Plan will terminate as provided
+         by Paragraph 7(b) of the Plan; or
+
+                  (c)      The number of shares of Common Stock subject to each
+         option; or
+
+                  (d)      The option price as provided under Paragraph 5(b) of
+         the Plan; or
+
+                  (e)      The provisions of Paragraph 3 of the Plan relating to
+         the determination of persons to whom options may be granted; or
+
+                  (f)      The provisions of the Plan in such a manner so as to
+         increase materially (within the meaning of Rule 16b-3 under the
+         Exchange Act) the benefits accruing under the Plan.
+
+                  The provisions of the Plan determining (i) the persons
+         eligible to receive grants of options, (ii) the timing of option
+         grants, (iii) the number of shares subject to options, (iv) the
+         exercise price of options, (v) the periods during which options are
+         exercisable, and (vi) the dates on which options terminate, may not be
+         amended more than once every six (6) months other than to comport with
+         changes in the Code, the ERISA, or the rules and regulations
+         thereunder.
+
+                  It is expressly contemplated that the Board may amend the Plan
+         in any respect that the Board deems necessary to cause the Plan to meet
+         the requirements of Rule 16b-3 (or any successor rule) under the
+         Exchange Act and otherwise to
+
+
+                                       6
+<PAGE>
+         comport with the provisions of such Act and the applicable regulations
+         thereunder.
+
+                  Any amendment to the Plan shall not, without the written
+         consent of the Grantee, affect such Grantee's rights under any option
+         theretofore granted to such Grantee.
+
+         In witness whereof, the Greer State Bank Directors Incentive Plan has
+been executed by its duly authorized officer this 26th day of June, 1996.
+
+
+                                        GREER STATE BANK
+
+                                        By:  /s/ R. Dennis Hennett
+                                             ----------------------------------
+                                        Its: President
+                                             ----------------------------------
+
+
+                                       7
+
+
+</TEXT>
+</DOCUMENT>

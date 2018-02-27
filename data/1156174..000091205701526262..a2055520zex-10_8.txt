@@ -1,0 +1,99 @@
+<DOCUMENT>
+<TYPE>EX-10.8
+<SEQUENCE>13
+<FILENAME>a2055520zex-10_8.txt
+<DESCRIPTION>EXHIBIT 10.8
+<TEXT>
+<Page>
+
+                                Construction Note
+
+Note Date: September 25, 2000                                  $26,600,000.00
+Maturity Date: September 1, 2011
+
+FOR VALUE RECEIVED, DAKOTA ETHANOL, L.L.C., a South Dakota limited liability
+company ("BORROWER") promises to pay to the order of First National Bank of
+Omaha ("BANK"), at its principal office or such other address as BANK or holder
+may designate from time to time, the principal sum of Twenty Six Million Six
+Hundred Thousand and No/100 Dollars ($26,600,000.00), or the amount shown on the
+BANK's records to be outstanding, plus interest (calculated on the basis of
+actual days elapsed in a 360-day year) accruing each day on the unpaid principal
+balance at the annual interest rates defined below. Absent manifest error, the
+BANK's records shall be conclusive evidence of the principal and accrued
+interest owing hereunder.
+
+This promissory note is executed pursuant to a Construction Loan Agreement
+("CONSTRUCTION LOAN AGREEMENT") between BORROWER and BANK dated as of September
+25, 2000. All capitalized terms not otherwise defined in this note shall have
+the meanings provided in the CONSTRUCTION LOAN AGREEMENT.
+
+INTEREST ACCRUAL. Interest on the principal amount outstanding shall accrue, for
+the period through and including the COMPLETION DATE, at a rate (the "RATE")
+equal to the BASE RATE in effect from time to time until maturity, and three per
+cent (3%) above the BASE RATE in effect from time to time after maturity,
+whether by acceleration or otherwise. For purposes hereof, BASE RATE shall mean
+the rate announced by BANK from time to time as its "National Base Rate."
+
+Each time the BASE RATE shall change, the RATE shall change contemporaneously
+with such change in the BASE RATE. Interest shall be calculated on the basis of
+a 360-day year, counting the actual number of days elapsed.
+
+Following the COMPLETION DATE, interest on the CONSTRUCTION LOAN shall accrue at
+a rate of nine (9%) percent per annum prior to maturity, and twelve (12%)
+percent per annum after maturity, whether by acceleration or otherwise.
+
+REPAYMENT TERMS. Until COMPLETION DATE, interest only shall be payable on the
+1St day of each calendar quarter, commencing September 1, 2000. After COMPLETION
+DATE, BORROWER will pay forty equal quarterly payments of amortized interest and
+principal, commencing November 1, 2001, with the full amount of the CONSTRUCTION
+LOAN outstanding on COMPLETION DATE being amortized over a period of ten years.
+Any remaining principal balance, plus any accrued but unpaid interest, shall be
+fully due and payable on September 1, 2011.
+
+PREPAYMENT. The BORROWER may prepay this CONSTRUCTION NOTE in full or in part at
+any time. Provided, however, a condition of any prepayment is that a fee shall
+be paid to BANK sufficient to make BANK whole for any expenses related to
+breaking fixed interest rates. Each prepayment may be applied in inverse order
+of maturity or as the BANK in its sole discretion may
+
+
+                                       1
+<Page>
+
+deem appropriate. Such prepayment shall not excuse the BORROWER from making
+subsequent payments each quarter until the indebtedness is paid in full.
+
+ADDITIONAL TERMS AND CONDITIONS. The LOAN AGREEMENT, and any amendments or
+substitutions, contains additional terms and conditions, including default and
+acceleration provisions, which are incorporated into this CONSTRUCTION NOTE by
+reference. The BORROWER agrees to pay all costs of collection, including
+reasonable attorneys fees and legal expenses incurred by the BANK if this
+CONSTRUCTION NOTE is not paid as provided above. This CONSTRUCTION NOTE shall be
+governed by the substantive laws of the State of Nebraska.
+
+WAIVER OF PRESENTMENT AND NOTICE OF DISHONOR. BORROWER and any other person who
+signs, guarantees or endorses this CONSTRUCTION NOTE, to the extent allowed by
+law, hereby waives presentment, demand for payment, notice of dishonor, protest,
+and any notice relating to the acceleration of the maturity of this CONSTRUCTION
+NOTE.
+
+___________________________                          DAKOTA ETHANOL, L.L.C.
+
+                                                     By /s/ Doug Van Duyn
+                                                     Its:  Chairman
+
+STATE OF SOUTH DAKOTA      )
+                           ) ss.
+COUNTY OF MINNEHARA        )
+
+         On this 25th day of September, 2000, before me, the undersigned, a
+Notary Public, personally appeared Doug Van Duyn, the Chairman of the Board of
+Governors, Dakota Ethanol, L.L.C., on behalf of said entity, who executed the
+foregoing instrument, and acknowledged that he executed the same as his
+voluntary act and deed.
+
+___________________________                          /s/ James M. Wiederrich
+                                                     Notary Public
+
+</TEXT>
+</DOCUMENT>

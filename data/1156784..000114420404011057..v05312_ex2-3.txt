@@ -1,0 +1,307 @@
+<DOCUMENT>
+<TYPE>EX-2.3
+<SEQUENCE>4
+<FILENAME>v05312_ex2-3.txt
+<TEXT>
+                                                                     EXHIBIT 2.3
+
+                                LICENSE AGREEMENT
+
+         THIS LICENSE  AGREEMENT  (the "License  Agreement")  is effective as of
+June 23, 2004 (the "Effective  Date") by and among  Encompass Group  Affiliates,
+Inc., a Delaware corporation, located at ____________________  ("Licensee"), and
+Hy-Tech  Technology  Group,  Inc. and Hy-Tech  Computer  Systems,  Inc.,  each a
+Delaware  Corporation,  located at 1840 Boy Scout  Drive,  Ft.  Myers,  FL 33907
+(together, "Licensors"). Licensee and each Licensor are individually referred to
+as a "Party" and collectively referred to as the "Parties."
+
+                                    RECITALS
+
+         WHEREAS,  Licensee  desires to license  certain assets of Licensors and
+Licensors desire to grant to Licensee a license in those assets on the terms and
+condition contained herein.
+
+         NOW THEREFORE,  in  consideration  of the mutual promises and covenants
+herein, and other good and valuable  consideration,  the receipt and sufficiency
+of which is hereby acknowledged, the Parties agree as follows:
+
+                                    AGREEMENT
+
+1. DEFINITIONS.  The following terms shall have the following meaning as used in
+this License Agreement:
+
+         "Affiliate" means, with respect to any legally recognizable entity, any
+other such entity  directly or indirectly  Controlling,  Controlled by, or under
+common Control with such entity.  "Control," as used in this  definition,  means
+the  possession,  directly  or  indirectly,  of the power to direct or cause the
+direction  of the  management  and  policies of a legally  recognizable  entity,
+whether  through the  ownership of voting shares or other voting  interests,  by
+contract,  or otherwise.  Where such entity is a partnership,  limited liability
+company,   corporation,   or  similar  entity  and  has  partners,  members,  or
+shareholders  with equal  ownership  interests or equal  control  interests,  by
+contract or otherwise,  then each such partner,  member,  or shareholder will be
+deemed to  possess,  directly  or  indirectly,  the power to direct or cause the
+direction of the management and policies of that entity.
+
+         "Convertible  Debenture" shall mean the 10% Senior Secured  Convertible
+Debentures described on Schedule I hereto.
+
+         "Customer Lists" shall mean those customers lists of Licensor delivered
+to  Licensee,  on the date  hereof,  on CD ROM  media in a file  format  that is
+compatible with Microsoft Excel, which constitute true and accurate lists of all
+of each Licensor's customers, and all rights related to the Customer Lists.
+
+         Other  Terms.  All other terms  defined in the text of this  Technology
+License Agreement shall have the meanings set forth in such text.
+
+2.  LICENSE GRANTS, RIGHTS, AND OWNERSHIP.
+
+         2.1 Customer Lists  License.  Each Licensor on behalf of itself and its
+respective  Affiliates  hereby grants  Licensee and its Affiliates an exclusive,
+worldwide,   royalty  free,  fully  paid  up,  perpetual,   non-terminable   and
+irrevocable  right and license to: (1) use, copy and modify the Customer  Lists;
+and (2) sublicense to third parties the foregoing rights in (1) above, including
+the right to sublicense to further third parties (the "License").
+
+                                       1
+<PAGE>
+
+         2.2 Ownership.  Subject to the License,  each Licensor shall retain all
+right, title, and interest in and to its Customer List.
+
+         2.3 Covenant Not to Sue. In addition to the License,  each  Licensor on
+behalf of itself and its Affiliates  hereby  covenant that neither it nor any of
+its  Affiliates  will  sue  Licensee  or any of its  Affiliates  or any of their
+respective  licensees,  distributors,  customers,  or end users for infringement
+based on such party's use of the Customer Lists.
+
+3. FEES AND  PAYMENT.  In full and  complete  consideration  for the License and
+covenant  not to sue set forth in Section 2,  Licensee  will assume and agree to
+perform,   pay  or  discharge  a  total  of  Three  Hundred   Thousand   Dollars
+(US$300,000.00) due and owing by Licensors under the Convertible Debenture.
+
+4. WARRANTIES. Each Licensor represents and warrants that:
+
+         (i)   Each Licensor owns all right,  title,  and interest in and to its
+               Customer List and has the sole, full unencumbered and clear title
+               to and is the true and  lawful  exclusive  owner of its  Customer
+               List and associated good will;
+
+         (ii)  This License Agreement is a legal,  valid and binding  obligation
+               of each Licensor and the execution,  delivery and  performance of
+               this  License  Agreement by each  Licensor  does not and will not
+               conflict with any agreement, instrument or understanding, oral or
+               written,  to which either  Licensor is a party or by which either
+               Licensor may be bound, nor violate any laws, rules or regulations
+               of any court,  governmental  authority or administrative or other
+               agency having authority over either Licensor,  the Customer Lists
+               or the associated good will;
+
+         (iii) Neither Licensor has granted and neither will grant any rights in
+               its  Customer  List  that  are  inconsistent  with  this  License
+               Agreement and the rights granted to Licensee herein;
+
+         (iv)  Each  Licensor has all right,  power and  authority  necessary to
+               execute this License  Agreement and to grant Licensee the license
+               rights set forth herein;
+
+         (v)   Neither  Licensor  has  knowledge  nor has  either  received  any
+               notices or claims that the use or licensing of the Customer Lists
+               infringe upon the rights of any third party; and
+
+         (vi)  Neither   Licensor  has  pledged,   hypothecated,   or  otherwise
+               encumbered  its Customer  List;  and the  Customer  Lists are not
+               subject to any pledge, security interest, or other encumbrance.
+
+5.  CONFIDENTIALITY.  Each  Licensor  agrees  that  it will  hold  in  strictest
+confidence,  and will not use or disclose  to any third  party,  the  existence,
+terms and conditions of this License  Agreement  until such time as Licensee may
+choose, in its sole discretion,  to publicly disclose such information.  Nothing
+herein shall prevent or prohibit  either  Licensor from making any disclosure to
+its  legal  counsel  under  obligations  of   confidentiality  as  necessary  to
+consummate  the  transactions  contemplated  herein or to its  financial and tax
+advisors  under  obligations  of  confidentiality  as  necessary  to file either
+Licensor's tax returns.
+
+6. NOTICES.  All notices and requests in connection with this License  Agreement
+shall be deemed given as of the day they are received by the intended  recipient
+via  messenger,  delivery  service,  or in the United  States of America  mails,
+postage  prepaid,  certified  or  registered,   return  receipt  requested,  and
+addressed  as  follows,  or to such other  address  as the Party to receive  the
+notice or request so designates by written notice to the other:
+
+                                       2
+<PAGE>
+
+To Licensee:                              To Licensors:
+-----------                               ------------
+
+Encompass :                               c/o HY-TECH Technology Group, Inc.
+c/o Advanced Communications               1840 Boy Scout Drive
+Technologies, Inc.                        Fort Myers, Florida  33907
+420 Lexington Avenue, Suite 2739          Attention:  _____________________
+New York, New York  10170                 Phone:  _________________________
+Attention: Wayne I. Danson                Fax:    _________________________
+Facsimile No.: 646-227-1666
+
+Copy to:                                  Copy to:
+-------                                   -------
+Eckert Seamans Cherin & Mellott LLC       Gottbetter & Partners, LLP
+1515 Market Street, 9th Floor             488 Madison Avenue, 12th Floor
+Philadelphia, PA  19102                   New York, NY  10022
+Attention: Gary A. Miller, Esquire        Attention: Adam S. Gottbetter, Esquire
+Phone:     (215) 851-8472                 Phone:     (212) 400-6900
+Fax:       (215) 851-8383                 Fax:       (212) 400-6901
+
+
+8. AMENDMENTS/WAIVER.  No amendment,  waiver, or forbearance of any provision of
+this License  Agreement shall be effective unless the same shall be in a writing
+signed by the Parties.  Any such waiver or  forbearance  shall only be effective
+for the specific purpose and in the specific instance given and not for other or
+subsequent  purposes or instances and no  forbearance or waiver shall affect the
+Parties' rights to refuse further forbearances or waivers.
+
+9.  INTERPRETATION.  This License  Agreement has been generated  pursuant to the
+equal  negotiations  and advice of the Parties and their  counsel.  Accordingly,
+this License  Agreement should not be construed or interpreted more favorably or
+unfavorably as to any Party hereto.
+
+10.  GOVERNING  LAW AND VENUE.  This License  Agreement  shall be construed  and
+controlled  by the laws of the State of  Delaware,  and the  Parties  consent to
+exclusive  jurisdiction  and venue in the  federal and state  courts  sitting in
+Delaware.  The Parties waive all defenses of lack of personal  jurisdiction  and
+forum  non  conveniens.  Process  may be  served  on  any  Party  in the  manner
+authorized by  applicable  law or court rule. In any action to enforce any right
+or remedy under this License  Agreement  or to interpret  any  provision of this
+License  Agreement,  the  prevailing  Party  shall be  entitled  to recover  its
+reasonable attorneys' fees, costs and other expenses.
+
+11.  SEVERABILITY.  If any  provision,  or  portion  thereof,  of  this  License
+Agreement is held by a court of competent  jurisdiction  to be invalid under any
+applicable  statute or rule of law, the Parties agree that such invalidity shall
+not affect the validity of the remaining  portions of this License Agreement and
+further agree to substitute for the invalid  provision a valid  provision  which
+most  closely  approximates  the  intent  and  economic  effect  of the  invalid
+provision.
+
+12. COUNTERPARTS.  The signature pages of this License Agreement may be executed
+in counterparts  and by facsimile and all such pages shall  constitute  original
+signature page(s) hereof and taken together all such  counterparts  shall be one
+and the same instrument.
+
+                                       3
+<PAGE>
+
+13. AUTHORITY. Licensee or each Licensor represents and warrants that it has the
+authority and power to execute and deliver this License Agreement.
+
+14. INDEPENDENT CONTRACTORS.  The Parties hereunder are operating as independent
+contractors,  and  nothing  in this  License  Agreement  shall be  construed  as
+creating a partnership,  franchise,  joint venture,  employer-employee or agency
+relationship.
+
+15.  HEADINGS/CONSTRUCTION.  The Section headings used in this License Agreement
+are for convenience only and shall not be given substantive effect.
+
+16. BINDING EFFECT; ASSIGNMENT. This License Agreement shall be binding upon and
+inure to the benefit of the  successors  and assigns of each party  hereto,  and
+their  Affiliates,  divisions,  parents  and  subsidiaries.  "Successors"  shall
+include, but not be limited to, heirs, executors,  administrators and receivers,
+and shall  also  include  any new  entity to which any  substantial  part of the
+assets of a party are transferred in any manner,  including,  but not limited to
+transfers by merger, consolidation, reorganization, or otherwise.
+
+17.  PROHIBITION  ON  ASSIGNMENT.  Neither  Licensor  may  assign  this  License
+Agreement,  or any rights or  obligations  hereunder,  whether by  operation  of
+contract,  law or otherwise,  except with the prior,  express written consent of
+Licensee,  and any attempted  assignment by either Licensor in violation of this
+Section 17 shall be void.
+
+18. TERM. The term of this License  Agreement shall commence as of the Effective
+Date and shall continue in perpetuity.
+
+                  (REMAINDER OF PAGE INTENTIONALLY LEFT BLANK.)
+
+
+
+
+
+
+
+
+
+
+                                       4
+<PAGE>
+
+
+         IN WITNESS WHEREOF,  the Parties have caused this License  Agreement to
+be executed by their duly  authorized  Representatives  as of the Effective Date
+first written above.
+
+ENCOMPASS GROUP AFFILIATES, INC.               HY-TECH TECHNOLOGY GROUP, INC.
+
+
+By:                                            By:
+    ------------------------------------           -----------------------------
+    Name:                                          Name:
+    Title:                                         Title:
+
+
+
+
+                                               HY-TECH COMPUTER SYSTEMS, INC.
+
+                                               By:
+                                                   -----------------------------
+                                                   Name:
+                                                   Title:
+
+
+
+
+
+
+
+
+
+                                       5
+<PAGE>
+
+                                                                  EXECUTION COPY
+                                                                       EXHIBIT C
+
+                                   Schedule I
+                              Convertible Debenture
+
+--------------------------------------------------------------------------------
+Name and Address                                 Principal amount of Debenture
+--------------------------------------------------------------------------------
+KT Capital, LP                                   $ 60,000
+237 Park Avenue South
+New York, NY 10017
+Attn: Jeffrey Kwit, Managing Partner
+--------------------------------------------------------------------------------
+David H. Boshart & Elizabeth F. Boshart          $ 60,000
+8504 Charter Club Circle, No. 10
+Fort Myers, FL 33919
+--------------------------------------------------------------------------------
+David H. Boshart, Bruce H. Boshart &             $ 60,000
+ Bethany Maahs-Hoagsberg
+8504 Charter Club Circle, No. 10
+Fort Myers, FL 33919
+--------------------------------------------------------------------------------
+David H. Boshart                                 $ 60,000
+8504 Charter Club Circle, No. 10
+Fort Myers, FL 33919
+--------------------------------------------------------------------------------
+Maximum Ventures, Inc.                           $ 60,000
+1175 Walt Whitman Road
+Fort Myers, FL 33907
+--------------------------------------------------------------------------------
+Total                                            $300,000
+--------------------------------------------------------------------------------
+
+
+</TEXT>
+</DOCUMENT>

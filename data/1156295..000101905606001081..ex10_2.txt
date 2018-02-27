@@ -1,0 +1,355 @@
+<DOCUMENT>
+<TYPE>EX-10.2
+<SEQUENCE>3
+<FILENAME>ex10_2.txt
+<DESCRIPTION>EXHIBIT 10.2
+<TEXT>
+
+                                                                    EXHIBIT 10.2
+
+
+                                                                  Execution Copy
+                                                                  --------------
+
+                                                               November 10, 2006
+
+                                                        PLAN SUPPORT AGREEMENT
+
+         WHEREAS, SeraCare Life Sciences, Inc. (as debtor and
+debtor-in-possession, the "Debtor") commenced a voluntary case under chapter 11
+of the Bankruptcy Code on March 22, 2006 (the "Bankruptcy Case");
+
+         WHEREAS, Harbinger Capital Partners Master Fund I, L.P., Harbinger
+Capital Partners Special Situations Fund L.P. (collectively, "Harbinger"),
+Blackhorse Capital Advisors LLC ("Blackhorse") and certain funds and accounts
+collectively known as The Wolfson Group are the members of an ad hoc committee
+of equityholders (the "Ad Hoc Committee"), and collectively hold over 30% of the
+outstanding common shares of the Debtor;
+
+         WHEREAS, exclusivity has been terminated in the Bankruptcy Case, and
+the Ad Hoc Committee is prepared to file and seek confirmation of a plan of
+reorganization that the Debtor would possibly oppose;
+
+         WHEREAS, the Debtor has filed a motion seeking approval of a financing
+(Docket No. 668, the "Financing Motion") that the Ad Hoc Committee opposes, and
+the Ad Hoc Committee has filed an Objection to the Financing Motion;
+
+         WHEREAS, in connection with the Financing Motion, the Debtor would
+likely file and seek confirmation of a plan of reorganization that the Ad Hoc
+Committee would oppose;
+
+         WHEREAS, the Debtor and the Ad Hoc Committee also have other disputes;
+
+         WHEREAS, a securities-fraud class-action relating to the Debtor is
+pending against various parties, including the current directors of the Debtor,
+styled In re SeraCare Life Sciences, Inc. Securities Litigation, S.D. Cal.
+05-CV-2335 (the "10b5 Class Action"), and the plaintiffs in such action have
+filed a class proof of claim in the Bankruptcy Case (the "Class Action Class 6
+Claim");
+
+         WHEREAS, the Debtor and the Ad Hoc Committee have determined to settle
+their disputes regarding the reorganization of the Debtor and many of their
+other disputes, by filing and seeking confirmation of a joint plan of
+reorganization, substantially in the form attached hereto as Exhibit A (the
+"Joint Plan"), and committing to consent to settlements with various other
+parties in interest on certain terms;
+
+         NOW THEREFORE, the Debtor and the undersigned members of the Ad Hoc
+Committee, for good and valuable consideration, hereby agree as follows:
+
+         1.       Withdrawal of Financing Motion. The Debtor shall immediately
+file and prosecute a motion (the "Plan Procedures Motion") seeking Bankruptcy
+Court entry of an order in the form attached hereto as Exhibit B (the "Plan
+
+<PAGE>
+
+Procedures Order") that: (i) pursuant to Bankruptcy Rule 7041, approves
+withdrawal of the Financing Motion and no further performance by the Debtor of
+any obligations to Allegiant (including payment of any breakup fee or
+substantial contribution claim, except that Allegiant's rights, if any, under a
+minute order of the court regarding payment of $100,000 legal fees and $35,000
+of due diligence expenses, with all parties in interest retaining their rights
+regarding such amounts), (ii) vacates the existing scheduling order with respect
+to the Financing Motion, and (iii) approves, and authorizes and directs the
+Debtor to perform, the provisions of this Agreement. The Debtor shall seek an
+order shortening time seeking to have the Plan Procedures Motion heard on the
+current hearing date of November 20, 2006, or as soon thereafter as the motion
+may be heard. The Ad Hoc Committee shall support the Plan Procedures Motion. All
+other covenants in this Agreement shall be subject to the entry of the Plan
+Procedures Order.
+
+         2.       Rights Offering Backstop Commitment. Contemporaneously
+herewith, certain members of the Ad Hoc Committee (the "Backstop Purchasers")
+are delivering to the Debtor: (i) irrevocable commitment letters with an
+aggregate commitment of $20 million of funding for the rights offering to be
+consummated via the Joint Plan and (ii) certification that the Backstop
+Purchasers have the ability to financially perform such commitments. The
+commitment letters may be rescinded if the Bankruptcy Court does not make a
+ruling approving the Plan Procedures Motion prior to November 21, 2006.
+
+         3.       Option for Purchase of Bank Debt. For the sole benefit of the
+Debtor the Backstop Purchasers hereby also agree, upon written request of the
+Debtor, that they will (i) purchase the existing bank debt of the Debtor at par,
+on an as-is, where-is basis (with each Backstop Purchaser acquiring a share set
+forth in the commitment letter described in paragraph 2) and replace the agent
+and collateral agent, if the Debtor provides express written consent to such
+purchase and to the replacement of the agents with one or more affiliates of the
+Backstop Purchasers (it being understood that such agents would not be
+commercial banks), (ii) consent, following the consummation of such purchase and
+until June 30, 2007, to the Debtor's use of collateral and cash collateral
+without requiring a budget or any interim payments of interest, principal or
+fees, and no other adequate protection except the existing replacement liens and
+liens on the proceeds of any collateral sold outside the ordinary course of
+business and (iii) in the event of such purchase, not demand the payment of any
+default interest (from and after the Petition Date), so long as all other
+interest, principal and accrued fees and expenses are paid by the Debtor.
+
+         4.       Fees and Expenses of Ad Hoc Committee. In consideration of,
+among other things, the agreements of the Backstop Purchasers set forth in
+paragraphs 2 and 3, and also pursuant to Bankruptcy Code section 503(b)(3) and
+(b)(4), the Debtor hereby agrees to pay, without further motion or order (except
+the entry of the Plan Procedures Order), the fees and expenses of the Ad Hoc
+Committee incurred to date in the bankruptcy case, and the fees and expenses of
+the Ad Hoc Committee until the earlier of the termination of this Agreement and
+the effective date of the Joint Plan, which shall be payable immediately upon
+the earlier of (i) the entry of any order confirming any plan of reorganization
+in the Bankruptcy Case, whether the Joint Plan or any other plan sponsored by
+any other person, (ii) conversion or dismissal of the Bankruptcy Case and (iii)
+any termination of this Agreement other than for material breach by the Ad Hoc
+Committee or under clause 9(f); provided, however, that in the event of a
+material breach of this Agreement by the Ad Hoc Committee prior to any of the
+
+<PAGE>
+
+foregoing events, no such fees shall not be payable except on further motion of
+the Ad Hoc Committee, with the Debtor and all parties in interest retaining
+their rights to object to such motion.
+
+         5.       Support of Joint Plan. Each of the undersigned hereby agrees
+to use commercially reasonable efforts to (i) file and prosecute a motion
+seeking approval of the disclosure statement (the "Joint Disclosure Statement")
+attached hereto as Exhibit C, and voting procedures and other ancillary relief
+regarding the voting process and to schedule a hearing on confirmation of the
+Joint Plan and (ii) seek confirmation of the Joint Plan. Until termination of
+the Agreement, the Ad Hoc Committee shall not support or propose any other plan
+of reorganization other than the Joint Plan. The Debtor agrees to provide a
+written report to counsel to the Ad Hoc Committee not later than 25 days after
+the end of the month, reporting the Debtor's EBITDA (excluding the GCI business)
+for the prior month.
+
+         6.       No Other Debtor Plan.
+                  --------------------
+
+                  a.       In light of the fact that exclusivity has been
+                           terminated and any party in interest may file and
+                           seek confirmation of a plan of reorganization, the
+                           Debtor shall not file, or seek confirmation of, or be
+                           the proponent or co-proponent of, any other plan of
+                           reorganization in the bankruptcy case other than the
+                           Joint Plan, and shall not assist any other party in
+                           prosecuting confirmation of any plan of
+                           reorganization; provided, however, that the Debtor
+                           shall be permitted to provide due diligence materials
+                           to other persons seeking to file plans of
+                           reorganization, so long as the Debtor (i) promptly
+                           alerts the Ad Hoc Committee of the requests and
+                           provision of such information, and (ii)
+                           contemporaneously provides the same information to
+                           the Ad Hoc Committee.
+
+                  b.       This paragraph 6 is a material part of the settlement
+                           of disputes in this Agreement (including the Ad Hoc
+                           Committee's agreement to proceed with the Joint
+                           Plan), and the Ad Hoc Committee is agreeing to
+                           support the Joint Plan specifically in reliance on
+                           the Debtor's agreement not to file any other plan,
+                           based on the cases of In re Palmer, 134 B.R. 472
+                           (Bankr. D. Conn. 1991); In re Lenox, 902 F. 2d 737
+                           (9th Cir. 1990); and In re Allen, 300 F. 3d 1055 (9th
+                           Cir. 2002).
+
+                  c.       The Debtor's obligations in this paragraph 6 shall
+                           survive termination of this Agreement, so long as the
+                           Ad Hoc Committee did not materially breach this
+                           Agreement prior to its termination and the Ad Hoc
+                           Committee is pursuing the confirmation of a plan of
+                           reorganization (i) that pays all general
+                           nonsubordinated unsecured creditors in full, in cash,
+                           with interest on the Effective Date of such plan (or,
+                           with respect to any disputed claim, forthwith after
+                           such claim is allowed), (ii) but which may otherwise
+                           be on terms different from the Joint Plan with
+                           respect to (A) any provision of the Joint Plan that
+                           the Bankruptcy Court has affirmatively indicated it
+                           would not approve and (B) any price adjustments set
+                           forth in paragraph 10.
+<PAGE>
+
+         7.       D&O Insurance. The Ad Hoc Committee agrees that, after (i)
+entry of the Plan Procedures Order and (ii) receipt of a written consent from
+all the current members of the Debtor's special board committee and any present
+and former directors and officers of the Debtor who have taken a position with
+respect to the pending motion for lift-stay with respect to the Debtor's
+directors and officers insurance, that the Ad Hoc Committee shall consent to the
+pending motion to lift the stay with respect to the directors and officers
+insurance. The written consent of the directors and officers shall consent to
+immediate payment to the Debtor from such insurance of all amounts paid and/or
+accrued as of the date of this Agreement by the Debtor in connection with the
+defense (whether for the Debtor or present or former directors and officers) of
+the 10b5 Class Action, the Class Action Class 6B Claim and the Government
+Investigations.
+
+         8.       Agreements Regarding Future Litigation.
+                  --------------------------------------
+
+                  a.       The Debtor and the Ad Hoc Committee shall jointly
+                           prosecute a motion to estimate the Class Action Class
+                           6B Claim.
+
+                  b.       The Ad Hoc Committee shall use commercially
+                           reasonable efforts to prosecute a motion to disallow,
+                           under Bankruptcy Code Section 502(e) (and on any
+                           other grounds that the Ad Hoc Committee deems
+                           appropriate, after consultation with the Debtor), one
+                           or more (at the election of the Ad Hoc Committee) of
+                           the indemnification, reimbursement and contribution
+                           claims that would otherwise be Class 6B Claims.
+
+         9.       Termination. This Agreement shall terminate, upon notice given
+by any party to this Agreement:
+
+                  a.       If the bankruptcy case is dismissed or converted, or
+                           there is appointment of a trustee or examiner with
+                           expanded powers;
+
+                  b.       If the Bankruptcy Court does not make a ruling
+                           approving the Joint Disclosure Statement on or before
+                           December 31, 2006;
+
+                  c.       If the Bankruptcy Court does not enter an order
+                           confirming the Joint Plan on or before May 31, 2007;
+
+                  d.       If the Effective Date of the Joint Plan has not
+                           occurred on or before June 30, 2007;
+
+                  e.       If the EBITDA of the Debtor for the trailing 6 months
+                           is less than $1.5 million (excluding the GCI business
+                           and nonrecurring charges) measured in any month
+                           beginning with February 2007, unless the Joint Plan
+                           has been confirmed by February 28, 2007 and the
+                           Effective Date has occurred by March 31, 2007; and
+
+                  f.       Any material breach of this Agreement by the Debtor
+                           or the Ad Hoc Committee (notice may only be given by
+                           nonbreaching party).
+
+<PAGE>
+
+In the case of a termination, there shall be no liability of either party,
+except that in all cases except a material breach by the Ad Hoc Committee, the
+Debtor shall continue to be obligated to comply with paragraph 6.
+
+         10.      Certain Price Adjustments. For each semi-monthly period
+(ending either on the 15th day or the last day of each month) after February 28,
+2007 until the Joint Plan is confirmed, the Subscription Price in the Rights
+Offering shall be reduced by $0.25/share. For each 15-day period after the 30th
+day after the Bankruptcy Court rules in favor of confirming the Joint Plan,
+until the Effective Date of the Joint Plan, the Subscription Price in the Rights
+Offering shall be reduced by $0.25/share; provided that there shall be no
+adjustment pursuant to this sentence so long as the Effective Date of the Joint
+Plan occurs on or prior to March 31, 2007 corresponding adjustments shall be
+made to the number of shares in the offering to maintain the total financing
+amount.
+
+
+                               [signatures follow]
+
+<PAGE>
+                  SERACARE LIFE SCIENCES, INC.
+
+                  By: /s/ SUSAN L. N. VOGT
+                      ------------------------------------------
+                      Name:  Susan L.N. Vogt
+                      Title: President & Chief Executive Officer
+
+
+                  HARBINGER CAPITAL PARTNERS MASTER FUND I, Ltd.
+                  By: Harbinger Capital Partners Offshore Manager, L.L.C.
+                  By: HMC Investors, L.L.C., Managing Member
+
+                  By: /s/ PHILIP A. FALCONE
+                      ------------------------------------------
+                      Name:  Philip A. Falcone
+                      Title: Vice President
+
+                      Shares: 2,829,258
+                              ----------------
+
+
+                  HARBINGER CAPITAL PARTNERS SPECIAL SITUATIONS FUND, L.P.
+                  By: Harbinger Capital Partners Special Situations GP, LLC
+                  By: HMC - New York, Inc., Managing Member
+
+                  By: /s/ PHILIP A. FALCONE
+                      ------------------------------------------
+                      Name:  Philip A. Falcone
+                      Title: Vice President
+
+                      Shares: 137,800
+                              ----------------
+
+
+                  BLACK HORSE CAPITAL L.P.
+                  By: Black Horse Capital Management LLC
+
+                  By: /s/ DALE B. CHAPPELL
+                      ------------------------------------------
+                      Name:  Dale B. Chappell
+                      Title: Managing Member
+
+                      Shares: 673,957
+                              ---------------
+
+
+                  BLACK HORSE CAPITAL (QP) LP
+                  By: Black Horse Capital Management LLC
+
+                  By: /s/ Dale B. Chappell
+                      ------------------------------------------
+                      Name:  Dale B. Chappell
+                      Title: Managing Member
+
+                      Shares: 205,653
+                              ---------------
+
+
+
+<PAGE>
+
+
+
+                  BLACK HORSE CAPITAL OFFSHORE LTD.
+                  By: Black Horse Capital Advisors LLC
+
+                  By: /s/ DALE B. CHAPPELL
+                      ------------------------------------------
+                      Name:  Dale B. Chappell
+                      Title: Managing Member
+
+                      Shares: 162,240
+                              ---------------
+
+
+                  CHESED CONGREGATIONS OF AMERICA
+
+                  By: /s/ ANDREW WOLFSON
+                      ------------------------------------------
+                      Name:  Andrew Wolfson
+                      Title: V.P. & Treasurer
+
+                      Shares: 161,260
+                              ---------------
+
+
+</TEXT>
+</DOCUMENT>

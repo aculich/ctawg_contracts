@@ -1,0 +1,113 @@
+<DOCUMENT>
+<TYPE>EX-10.24
+<SEQUENCE>7
+<FILENAME>a84640exv10w24.txt
+<DESCRIPTION>EXHIBIT 10.24
+<TEXT>
+<PAGE>
+                                                               EXHIBIT NO. 10.24
+
+                     TransAlta Energy Marketing (U.S.) Inc.
+                     110-12 Avenue SW (T2-3E)
+                     Calgary, Alberta T2P 2M1
+
+
+             CONFIRMATION OF MULTI-BLOCK ELECTRIC POWER TRANSACTION
+
+16APR02
+TransAlta Ref.#: AEH522-F2881
+Broker: DECISION STRATEGIES LLC
+
+This Confirmation sets forth the specific terms of the Transaction orally
+agreed to by the representatives of TransAlta Energy Marketing (U.S.) Inc.
+("TransAlta") and Counterparty pursuant to the WSPP Agreement effective March
+1, 2002.
+
+Trade Date: 11APR02
+
+Buyer:      COMMONWEALTH ENERGY CORPORATION
+Attn:       MAX CARPENTER
+Tel:
+Fax:        714-259-2592
+
+Seller:     TEMUS
+Attn:       Manager, Financial Operations
+Tel:        403-267-6995
+Fax:        403-267-6908
+
+Obligation: FIRM - SERVICE SCHEDULE "C"
+
+Contract Quantity: [CONFIDENTIAL TREATMENT REQUESTED]* MWH during term
+Energy: PHYSICAL POWER
+Delivery/Receive Point(s): NORTH PATH 15
+
+North Path 15 - "NP15" means California ISO Zone NP-15 as currently defined,
+until such time that the definition of NP-15 changes or the zone ceases to
+exist, when the Delivery Point shall be that zone, or any physical location or
+bus, that reasonably resembles, in terms of liquidity and homogeneity and
+physical location, PGE3, and specifically excluding the proposed "North Bay and
+Greater Bay Area Zones" as identified in Figure 1 on page 10 of Appendix H
+(located at http:www.caiso.com/docs/09003a6080/06/ec/09003a608006ec61.pdf) to
+the document entitled "Congestion Management Reform Recommendations" (Draft
+Proposal) dated July 28, 2000 issued by the California ISO on its official
+website: http://www.caiso.com.
+
+Special Terms and Exceptions: Seller has initially granted Buyer [CONFIDENTIAL
+TREATMENT REQUESTED]* of open-line credit based on Seller's current credit
+policy and analysis and Buyer's financial statements. This [CONFIDENTIAL
+TREATMENT REQUESTED]* open-line credit amount may be increased, reduced, or
+removed by Seller at any time in its sole discretion and without notice to
+Buyer. For greater certainty, nothing contained in this confirmation shall
+waive, reduce, or limit the Seller's rights pursuant to Section 27 of the WSPP
+Agreement to request
+
+------------
+
+* The omitted information has been filed separately with the Securities and
+  Exchange Commission pursuant to Rule 24b-2.
+<PAGE>
+any additional assurances of Purchaser's ability to perform.
+
+================================ TRADE DETAILS =================================
+
+<TABLE>
+<CAPTION>
+SDATE      EDATE      AMOUNT        PRICE                  START   END         SDAY  EDAY   HDY
+=======    =======    ======  ===   =====   ===  ===  ===  =====   ====  ===   ====  ====   ===
+<S>        <C>        <C>     <C>   <C>     <C>  <C>  <C>  <C>     <C>   <C>   <C>   <C>    <C>
+[Confidential treatment requested]*
+[Confidential treatment requested]*
+[Confidential treatment requested]*
+</TABLE>
+
+
+To give or receive operational notices, contact scheduling desk at tel:
+403-267-6956
+
+TransAlta Energy Marketing (U.S.) Inc.
+
+/s/ R.W. CRAIG
+-----------------------------
+R.W. Craig
+Manager, Financial Operations
+
+COMMONWEALTH ENERGY CORPORATION
+
+/s/ [ILLEGIBLE SIGNATURE]
+-----------------------------
+
+If you agree that this Confirmation accurately reflects our agreement, please
+execute and return a copy by fax to TransAlta Energy Marketing (U.S.) Inc.
+(Contract Administration) at fax 403-267-6908; otherwise, please contact us
+immediately by telephone and facsimile transmission as failure by recipient to
+execute and return this Confirmation or to notify sender of its disagreement
+within five (5) business days of receiving this Confirmation shall constitute
+the recipient's agreement to the terms set forth herein.
+
+------------
+
+* The omitted information has been filed separately with the Securities and
+  Exchange Commission pursuant to Rule 24b-2.
+
+</TEXT>
+</DOCUMENT>

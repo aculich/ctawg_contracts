@@ -1,0 +1,272 @@
+<DOCUMENT>
+<TYPE>EX-10.23
+<SEQUENCE>6
+<FILENAME>a84640exv10w23.txt
+<DESCRIPTION>EXHIBIT 10.23
+<TEXT>
+<PAGE>
+
+                                                         [DTE ENERGY LETTERHEAD]
+
+                                                                   EXHIBIT 10.23
+
+Date:   July 25, 2002
+
+To:     Commonwealth Energy Corp.
+        15901 Red Hill Ave., Suite 100
+        Tustin, CA 92780
+        Attn: Dick Paulsen
+        Phone: 714.259.2523
+        Fax:   714.259.2563
+
+Re:     CONFIRMATION OF TRANSACTION WITH COMMONWEALTH ENERGY FOR WHOLESALE
+        ELECTRICITY TO SUPPLY COMMONWEALTH ENERGY'S RETAIL CUSTOMER LOAD IN
+        DETROIT EDISON'S SERVICE TERRITORY
+
+This Confirmation memorializes the oral Transaction agreement between Steve
+Sheppard of DTE Energy Trading, Inc. ("DTEET") and Dick Paulsen of
+Commonwealth Energy ("CE") dated July 25, 2002 regarding the Transaction set
+forth below.
+
+AGREED TO ECONOMIC TERMS
+
+BUYER:                  CE
+
+SELLER:                 DTEET
+
+PRODUCT:                [Confidential treatment requested]*
+
+                        [Confidential treatment requested]*
+
+                        [Confidential treatment requested]*
+
+DELIVERY PERIOD:        As defined in Sections 2.2 and 2.3 of the Operating
+                        Agreement between Seller and Buyer, effective July 24,
+                        2002 ("Operating Agreement") and with respect to this
+                        Transaction:
+
+                                -       [Confidential treatment requested]*
+
+                                -       [Confidential treatment requested]*
+                                        from the date the last
+                                        CE Customer begins taking Energy
+                                        supplied by CE under the terms of this
+                                        Transaction
+
+WHOLESALE CONTRACT
+QUANTITY:               As defined in Sections 2.2, 2.3, and 3.1 of the
+                        Operating Agreement and with respect to this
+                        Transaction:
+
+                                -       Maximum demand of [Confidential
+                                        treatment requested]*
+
+                                -       Estimated Energy [Confidential treatment
+                                        requested]*
+
+
+
+------------
+
+* The omitted information has been filed separately with the Securities and
+  Exchange Commission pursuant to Rule 24b-2.
+
+
+
+
+                                       1
+<PAGE>
+
+                                                              [DTE ENERGY LOGO]
+
+                                   -  Actual Energy volume, as provided by
+                                      ITC/MISO and reduced by ITC/Detroit
+                                      Edison transmission and distribution
+                                      losses, will determine the actual
+                                      Wholesale Contract Quantity delivered.
+
+TRANSMISSION & SCHEDULING
+REQUIREMENTS:                 Seller will function as CE's Marketer in
+                              accordance with the Marketer Agreement for
+                              Electric Choice Program between The Detroit
+                              Edison Company and Seller. Seller will schedule
+                              point-to-point transmission service and schedule
+                              ancillary services up to the CE Customer meter(s).
+
+CONTRACT PRICE:               As defined in Sections 2.2 and 3.2 of the
+                              Operating Agreement and with respect to this
+                              Transaction;
+
+                                   [Confidential treatment requested]*
+
+
+DELIVERY POINT:               CE Customer meter(s)
+
+PRODUCT FIRMNESS:             Physical, Firm Energy with Liquidated Damages.
+
+SCHEDULING
+REQUIREMENTS:                 Seller will schedule and deliver Energy according
+                              to the Wholesale Contract Quantity. Further,
+                              Seller will develop it's own day-ahead forecast
+                              for energy scheduling.
+
+SPECIAL CONDITIONS:           Buyer will function as the AES/Retailer in
+                              accordance with the AES/Retailer Agreement for
+                              Electric Choice Program between The Detroit
+                              Edison Company and Buyer.
+
+                              Buyer will select Optional Retail Access Backup
+                              Service when enrolling CE Customers in Detroit
+                              Edison's Electric Choice Program.
+
+                              Buyer is responsible for all expenses, including
+                              taxes, after the Delivery Point. Seller is
+                              responsible for all expenses, including taxes,
+                              before the Delivery Point.
+
+REGULATORY OR
+RULE CHANGES:                 If any of the following occurrences have material
+                              adverse economic consequences to Seller or Buyer,
+                              then the parties agree to use their best efforts
+                              to negotiate in good faith to restore the
+                              original economic value of this Transaction: 1) a
+                              change in existing rules, regulations, procedures
+                              or protocols of the entity governing the
+                              transmission of Energy, capacity, scheduling or
+                              ancillary services, or 2) a change in the
+                              obligations of load serving entities in the ITC
+                              (or its successor entity) control area.
+
+SECURITY FOR CE'S
+PERFORMANCE:                  In connection with Energy provided by DTEET under
+                              this Transaction, CE will grant DTEET a security
+                              interest in, and lien on (and right of setoff
+                              against), and assignment of, all account
+                              receivables relating to the sale of Energy by CE
+                              to certain CE Customers (the "Secured Party
+                              Accounts Receivable") pursuant to that certain
+                              Security Agreement dated July 24, 2002, which is
+                              hereby incorporated by reference ("the Security
+                              Agreement").
+
+SPECIAL PAYMENT
+TERMS:                        CE will pay DTEET for the Energy pursuant to the
+                              terms of that certain Escrow Agreement dated July
+                              24, 2002, which is incorporated by reference (the
+                              "Escrow Agreement").
+
+
+------------
+
+* The omitted information has been filed separately with the Securities and
+  Exchange Commission pursuant to Rule 24b-2.
+
+
+                                       2
+
+
+<PAGE>
+
+                                                     [DTE ENERGY LOGO]
+
+
+CE's REPRESENTATIONS
+AND WARRANTIES:          CE represents and warrants that there are no
+                         encumbrances limiting or interfering with DTEET's
+                         rights in the Secured Party Accounts Receivable;
+
+                         CE represents and warrants that it will undertake no
+                         action to negate or diminish DTEET's interest in the
+                         Secured Party Accounts Receivable and will cooperate
+                         fully with DTEET to protect DTEET's interest arising
+                         under this Transaction;
+
+                         CE represents and warrants that it has irrevocably
+                         instructed each CE Customer receiving the Energy and
+                         all other persons or entities paying CE for the Energy,
+                         and shall so instruct all future CE Customers receiving
+                         the Energy and all other persons or entities at any
+                         time paying CE for the Energy, to make payment to the
+                         Lockbox (as defined in the Escrow Agreement), and that
+                         it will use all commercially reasonable efforts to
+                         cause all such persons or entities to agree to make
+                         payments to the Lockbox; provided, however, that CE
+                         may, subject to the terms and conditions of the Escrow
+                         Agreement, Security Agreement, and EEI Master Power
+                         Purchase and Sale Agreement, instruct each CE Customer
+                         receiving the Energy and all other persons or entities
+                         paying CE for the Energy to make payment to a different
+                         account upon the termination of this Transaction or the
+                         Escrow Agreement); and
+
+                         CE represents and warrants that it will promptly notify
+                         DTEET if it is aware that any person or entity
+                         instructed to make payment to the Lockbox has refused
+                         or failed to make any such payment to the Lockbox, and
+                         will as promptly as possible deposit such payments
+                         received by CE into the Lockbox.
+
+                         CE represents and warrants that it will only use the
+                         Products purchased hereunder to serve its retail
+                         customer load under the Detroit Edison Electric Choice
+                         Program, and that it will not be resold in the
+                         wholesale market.
+
+This Transaction Letter shall be governed by the terms and conditions set forth
+herein and the EEI Master Power Purchase and Sale Agreement between DTEET and
+Buyer, effective May 11, 2001 (the "Master Agreement") which is incorporated by
+reference and made a part here of. In the event of a conflict between this
+Transaction Letter and the terms and conditions of the Master Agreement,
+including, but not limited to, the product definitions in Schedule P of the
+Master Agreement, this Transaction Letter shall govern.
+
+Please execute this Transaction Letter by signing below and returning a coy to
+Joseph Gallagher, Risk Monitor, by facsimile at 734.887.2056.
+
+
+
+                                       3
+
+<PAGE>
+CONFIDENTIAL & PROPRIETARY
+
+                                                               [DTE ENERGY LOGO]
+
+
+If this Transaction Letter is not executed and returned within two (2) Business
+Days, it shall be deemed correct as sent. Questions should be referred to Joseph
+Gallagher, of DTEET, at 734.887.2004.
+
+
+Sincerely,
+
+DTE Energy Trading, Inc.
+
+Approved
+
+/s/ RANDALL D. BALHORN
+-------------------------------------
+Randall D. Balhorn, President
+
+7/25/02
+-------------------------------------
+Date
+
+
+ACCEPTED AND AGREED:
+
+Commonwealth Energy Corporation
+
+/s/ DICK PAULSEN
+-------------------------------------
+Dick Paulsen, Chief Operating Officer
+
+7/26/02
+-------------------------------------
+Date
+
+
+                                       4
+
+</TEXT>
+</DOCUMENT>

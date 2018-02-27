@@ -1,0 +1,48 @@
+<DOCUMENT>
+<TYPE>EX-10.4
+<SEQUENCE>5
+<FILENAME>hldgs2q05ex104.txt
+<DESCRIPTION>2003 EXECUTIVE LONG TERM INCENTIVE PLAN AGREEMENT
+<TEXT>
+                                                                EXHIBIT 10.4
+
+                     INTERNATIONAL SPECIALTY PRODUCTS INC.
+
+               2003 EXECUTIVE LONG TERM INCENTIVE PLAN AGREEMENT
+
+                                   "N" PLAN
+
+-----------------------------------------------------------------------------
+
+[Name]
+[Address]
+
+[ID]
+
+Pursuant to the ISP 2003 Executive Long Term Incentive Plan (the "Plan"), you
+are hereby awarded Incentive Units as follows:
+
+         Award No.                             [Number]
+
+         Award Date                            [Date]
+
+         Vesting Schedule                      20%   [Award Date +1 year]
+                                               40%   [Award Date +2 years]
+                                               60%   [Award Date +3 years]
+                                               80%   [Award Date +4 years]
+                                               100% [Award Date +5 years]
+
+         Expiration Date                       [Award Date +10 years]
+
+         Total Number of Units Awarded         [Number]
+
+         Book Value                            [$   .   ]
+                                                 --- ---
+
+
+
+-----------------------------------------              ---------------
+For International Specialty Products Inc.                   Date
+
+</TEXT>
+</DOCUMENT>

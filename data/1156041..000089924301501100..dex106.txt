@@ -1,0 +1,467 @@
+<DOCUMENT>
+<TYPE>EX-10.6
+<SEQUENCE>12
+<FILENAME>dex106.txt
+<DESCRIPTION>AGREEMENT DATED MARCH 23, 2001
+<TEXT>
+<PAGE>
+
+                                                                    EXHIBIT 10.6
+
+                                   AGREEMENT
+
+     THIS AGREEMENT is made this 23rd day of March, 2001, by and between
+UNICORP, INC., a Nevada corporation having its principal office and place of
+business in Harris County, Texas ("Unicorp"), EQUITABLE ASSETS, INCORPORATED, a
+Belize corporation having its principal office and place of business in Belize
+City, Belize ("Equitable"), TEXAS NEVADA OIL & GAS CO., a Texas corporation
+having its principal office and place of business in Harris County, Texas
+("TNOG"), and OPPORTUNITY ACQUISITION COMPANY, a Texas corporation having its
+principal office and place of business in Harris County, Texas ("Opportunity").
+
+     WHEREAS, Unicorp desires to spin-off TNOG (the "Spin-Off") to its
+shareholders (the "Unicorp Shareholders");
+
+     WHEREAS, following the Spin-Off, and subject to all of the terms of this
+Agreement, TNOG will merge with Opportunity; and
+
+     WHEREAS, Equitable, as the controlling shareholder of Unicorp, desires to
+ensure that Unicorp and TNOG perform all of their obligations hereunder;
+
+     NOW, THEREFORE, in consideration of the foregoing and the following mutual
+covenants and agreements, the parties hereto do hereby agree as follows:
+
+     1.  Spin-Off and Registration.  Unicorp will Spin-Off TNOG to the Unicorp
+Shareholders.  The Spin-Off will be accomplished by Unicorp's distribution to
+the Unicorp Shareholders all of the issued and outstanding shares of the common
+stock, no par value per share, of TNOG (the "TNOG Stock") owned by Unicorp.
+Further, the Spin-Off shall be exempt from registration under the Securities Act
+of 1933, as amended (the "Securities Act").  In conjunction with the Spin-Off,
+TNOG and Unicorp will promptly cause the TNOG Stock to be registered pursuant to
+a Registration Statement on Form 10-SB (the "Exchange Act Registration") under
+the Securities Exchange Act of 1934, as amended (the "Exchange Act").  After the
+Spin-Off and the effectiveness of the Exchange Act Registration, TNOG will be a
+fully reporting company under the Exchange Act and will have no liabilities.  In
+addition, TNOG will have at least (a) 400 "round lot" shareholders, and (b) one
+market maker for the TNOG Stock.
+
+     2.  Merger.  Following the Spin-Off and the effectiveness of the Exchange
+Act Registration, Opportunity will enter into an agreement of merger (the
+"Merger Agreement") with TNOG, whereby TNOG will merge with Opportunity (the
+"Merger") pursuant to Section 368(a)(1)(A) of the Internal Revenue Code of 1986,
+as amended. Opportunity will be the surviving entity. The Merger Agreement will
+provide that the shares of the common stock of Opportunity (the "Opportunity
+Stock") following the Merger will be held five percent by the Unicorp
+Shareholders and 95 percent by the shareholders of Opportunity before the
+Merger.
+
+     3.  Information Statement.  Prior to the Merger, TNOG and Unicorp will
+promptly prepare and send to the Unicorp Shareholders an Information Statement
+as required by the Exchange Act (the "Information Statement") in connection with
+obtaining approval for the Merger by the Unicorp Shareholders.
+
+     4.  Registration of Opportunity's Stock. In conjunction with the
+Information Statement, and as part of the Merger, an S-4 Registration Statement
+(the "Securities Act Registration") in accordance with the Securities Act will
+be prepared and filed by Opportunity to register the Opportunity Stock to be
+received by the Unicorp Shareholders.
+
+     5.  Representations of Unicorp and Equitable.  Unicorp and Equitable
+represent that:
+
+        (a) Equitable owns 95.5 percent of the issued and outstanding shares of
+     the voting capital stock of Unicorp, and as such, it has the power and
+     authority to cause Unicorp and TNOG to perform all of their obligations
+     hereunder.
+
+                                       1
+<PAGE>
+
+        (b) Unicorp owns all of the issued and outstanding shares of the capital
+     stock of TNOG, and is fully authorized to perform all of its obligations
+     hereunder.
+
+     6.  Covenants of Equitable.  Equitable hereby covenants that as the
+controlling shareholder of Unicorp and by extension, TNOG, it will cause both
+Unicorp and TNOG to perform all of their obligations hereunder, including, but
+not limited to, the obligation of Unicorp and TNOG to pay any amounts which may
+become due to Opportunity in the event that Unicorp or TNOG fail to satisfy any
+of the conditions precedent to Opportunity's obligations hereunder as specified
+in Paragraph 7 hereof.
+
+     7.  Conditions Precedent to Opportunity's Obligations.  Notwithstanding
+anything herein contained to the contrary, Opportunity shall have no obligation
+hereunder with respect to the Merger or any other matter referred to herein, if
+any representation by Unicorp or Equitable is untrue, or Unicorp and TNOG shall
+fail to consummate the Spin-Off and the Exchange Act Registration within 120
+days from the date of this Agreement. Following the Spin-Off and the Exchange
+Act Registration, TNOG and Unicorp will enter into the Merger Agreement with
+Opportunity. The Merger Agreement will contain the usual and customary
+representations and warranties, including, but not limited to a representation
+and warranty with respect to the fact that TNOG has no liabilities, and such
+other matters as to which the parties can reasonably agree. In addition, the
+Merger Agreement will provide for an opinion of counsel by the attorney
+representing Unicorp, Equitable, and TNOG that the Spin-Off, the Exchange Act
+Registration, and the Merger have been authorized and concluded in conformity
+with all applicable laws, including, but not limited to the Securities Act and
+the Exchange Act, and any applicable state corporate and securities laws. If
+Unicorp, Equitable, or TNOG fail to comply with the terms of this Agreement,
+then Opportunity, at its sole option, may terminate this Agreement, whereupon no
+party shall have any further obligation hereunder, other than the obligation of
+Unicorp, Equitable, and TNOG to repay any of the costs paid by Opportunity as
+specified in Paragraph 8 hereof.
+
+     8.  Payment of Unicorp's, Equitable, and TNOG's Expenses.  Opportunity will
+pay the costs of Unicorp, Equitable, and TNOG in connection with the Spin-Off,
+the Exchange Act Registration, the Merger, and the Information Statement to the
+Unicorp Shareholders with respect to the Merger, in an amount not to exceed
+$75,000. It is understood by Opportunity that Unicorp, Equitable, and TNOG will
+have to pay certain "clean-up costs" pertaining to Unicorp before the
+transactions described herein can be completed. However, before payment of any
+expenses will be made by Opportunity, any invoices must be submitted by Unicorp
+to Opportunity for approval. Thereafter, Opportunity will pay any approved
+invoice within 10 days after its receipt and approval by Opportunity. Unicorp,
+Equitable, and TNOG will pay all of their costs in excess of $75,000. In the
+event that Unicorp, Equitable, or TNOG fail to comply with the terms of this
+Agreement, any costs paid by Opportunity on behalf of Unicorp, Equitable, or
+TNOG hereunder will be repaid to Opportunity on demand by Opportunity. In
+connection with the agreement by Opportunity to pay certain expenses of Unicorp,
+Equitable, and TNOG hereunder, Unicorp, Equitable, and TNOG will execute a
+promissory note in the form attached hereto as Exhibit A and incorporated herein
+by reference for all purposes (the "Note"). If Unicorp, Equitable, and TNOG
+fully perform all of their obligations hereunder, the Note will be cancelled.
+
+     9.  Payment of Opportunity's Expenses.  Opportunity will pay all of its own
+costs associated with the Merger and the Securities Act Registration, provided
+Unicorp, Equitable, and TNOG have performed all of their obligations hereunder.
+If Unicorp, Equitable, or TNOG fail to fully perform their obligations
+hereunder, then the costs paid by Opportunity associated with the Merger and the
+Securities Act Registration, as well as this Agreement, will be added to the
+principal of the Note and paid by Unicorp, Equitable, and TNOG.
+
+     10.  Other Agreements and Documents.  In carrying out the intent of this
+Agreement, there are several agreements and documents which will need to be
+prepared, including, but not limited to the Exchange Act Registration, the
+Information Statement, the Securities Act Registration, and the Merger
+Agreement.  The parties agree to act in good faith and to attempt to reasonably
+agree on the terms of such agreements and documents.
+
+     11.  Attorney's Fees.  In the event that it should become necessary for any
+party entitled hereunder to bring suit against any other party to this Agreement
+for enforcement of the covenants herein contained, the parties hereby covenant
+and agree that the party who is found to be in violation of said covenants shall
+also be liable for all reasonable attorney's fees and costs of court incurred by
+the other parties hereto.
+
+                                       2
+<PAGE>
+
+     12.  Mediation and Arbitration.  All disputes arising or related to this
+Agreement must exclusively be resolved first by mediation with a mediator
+selected by the parties, with such mediation to be held in Houston, Texas.  If
+such mediation fails, then any such dispute shall be resolved by binding
+arbitration under the Commercial Arbitration Rules of the American Arbitration
+Association in effect at the time the arbitration proceeding commences, except
+that (a) Texas law and the Federal Arbitration Act must govern construction and
+effect, (b) the locale of any arbitration must be in Houston, Texas, and (c) the
+arbitrator must with the award provide written findings of fact and conclusions
+of law.  Any party may seek from a court of competent jurisdiction any
+provisional remedy that may be necessary to protect its rights or assets pending
+the selection of the arbitrator or the arbitrator's determination of the merits
+of the controversy.  The exercise of such arbitration rights by any party will
+not preclude the exercise of any self-help remedies (including without
+limitation, setoff rights) or the exercise of any non-judicial foreclosure
+rights.  An arbitration award may be entered in any court having jurisdiction.
+
+     13.  Benefit.  All the terms and provisions of this Agreement shall be
+binding upon and inure to the benefit of and be enforceable by the parties
+hereto, and their respective heirs, executors, administrators, personal
+representatives, successors and permitted assigns.
+
+     14.  Notices.  All notices, requests, demands, and other communications
+hereunder shall be in writing and delivered personally or sent by registered or
+certified United States mail, return receipt requested with postage prepaid, if
+to Unicorp, Equitable, or TNOG, addressed to Mr. Louis Mehr at 1907 Tarpley,
+Katy, Texas 77493, with a copy to M. Stephen Roberts, Esquire, at P.O. Box
+981021, Houston, Texas 770098, telecopier (713) 961-1148, and e-mail
+sroberts@bigfoot.com; and if to Opportunity, addressed to Mr. John F.
+Terwilliger at 801 Travis Street, Suite 1425, Houston, Texas 77002, telecopier
+(713) 221-8845, and e-mail mooseoil@swbell.net, with a copy to Norman T.
+Reynolds, Esquire, Jackson Walker L.L.P. at 1100 Louisiana Street, Suite 4200,
+Houston, Texas 77002, telecopier (713) 752-4221, and e-mail nreynolds@jw.com.
+Any party hereto may change its address upon 10 days' written notice to any
+other party hereto.
+
+     15.  Construction.  Words of any gender used in this Agreement shall be
+held and construed to include any other gender, and words in the singular number
+shall be held to include the plural, and vice versa, unless the context requires
+otherwise. In addition, the pronouns used in this Agreement shall be understood
+and construed to apply whether the party referred to is an individual,
+partnership, joint venture, corporation or an individual or individuals doing
+business under a firm or trade name, and the masculine, feminine and neuter
+pronouns shall each include the other and may be used interchangeably with the
+same meaning.
+
+     16.  Waiver.  No course of dealing on the part of any party hereto or its
+agents, or any failure or delay by any such party with respect to exercising any
+right, power or privilege of such party under this Agreement or any instrument
+referred to herein shall operate as a waiver thereof, and any single or partial
+exercise of any such right, power or privilege shall not preclude any later
+exercise thereof or any exercise of any other right, power or privilege
+hereunder or thereunder.
+
+     17.  Cumulative Rights.  The rights and remedies of any party under this
+Agreement and the instruments executed or to be executed in connection herewith,
+or any of them, shall be cumulative and the exercise or partial exercise of any
+such right or remedy shall not preclude the exercise of any other right or
+remedy.
+
+     18.  Invalidity.  In the event any one or more of the provisions contained
+in this Agreement or in any instrument referred to herein or executed in
+connection herewith shall, for any reason, be held to be invalid, illegal or
+unenforceable in any respect, such invalidity, illegality, or unenforceability
+shall not affect the other provisions of this Agreement or any such other
+instrument.
+
+     19.  Time of the Essence.  Time is of the essence of this Agreement.
+
+     20.  Headings.  The headings used in this Agreement are for convenience and
+reference only and in no way define, limit, simplify or describe the scope or
+intent of this Agreement, and do not effect or constitute a part of this
+Agreement.
+
+                                       3
+<PAGE>
+
+     21.  No Assignment.  This Agreement may not be assigned by any party hereto
+without the prior written consent of the other parties hereto.
+
+     22.  Excusable Delay.  None of the parties hereto shall be obligated to
+perform and none shall be deemed to be in default hereunder, if the performance
+of a non-monetary obligation is prevented by the occurrence of any of the
+following, other than as the result of the financial inability of the party
+obligated to perform: acts of God, strikes, lock-outs, other industrial
+disturbances, acts of a public enemy, wars or war-like action (whether actual,
+impending or expected and whether de jure or de facto), arrest or other
+restraint of governmental (civil or military) blockades, insurrections, riots,
+epidemics, landslides, lightning, earthquakes, fires, hurricanes, storms,
+floods, washouts, sink holes, civil disturbances, explosions, breakage or
+accident to equipment or machinery, confiscation or seizure by any government of
+public authority, nuclear reaction or radiation, radioactive contamination or
+other causes, whether of the kind herein enumerated, or otherwise, that are not
+reasonably within the control of the party claiming the right to delay
+performance on account of such occurrence.
+
+     23.  No Third-Party Beneficiary.  Any agreement to pay an amount and any
+assumption of liability herein contained, express or implied, shall be only for
+the benefit of the undersigned parties and their respective successors and
+permitted assigns (as herein expressly permitted), and such agreements and
+assumptions shall not inure to the benefit of the obligees or any other party,
+whomsoever, it being the intention of the parties hereto that no one shall be or
+be deemed to be a third-party beneficiary of this Agreement.
+
+     24.  Multiple Counterparts.  This Agreement may be executed in one or more
+counterparts, each of which shall be deemed an original, but all of which
+together shall constitute one and the same instrument.
+
+     25.  Governing law; Jurisdiction.  This Agreement shall be governed by and
+construed in accordance with the laws of the State of Texas, without regard to
+any conflicts of laws provisions thereof.  Each party hereby irrevocably submits
+to the personal jurisdiction of the United States District Court for Harris
+County, Texas, as well as of the District Courts of the State of Texas in Harris
+County, Texas over any suit, action or proceeding arising out of or relating to
+this Agreement.  Each party hereby irrevocably waives, to the fullest extent
+permitted by law, any objection which it may now or hereafter have to the laying
+of the venue of any such mediation, arbitration, suit, action or proceeding
+brought in any such county and any claim that any such mediation, arbitration,
+suit, action or proceeding brought in such county has been brought in an
+inconvenient forum.
+
+     26.  Perfection of Title.  The parties hereto shall do all other acts and
+things that may be reasonably necessary or proper, fully or more fully, to
+evidence, complete or perfect this Agreement, and to carry out the intent of
+this Agreement.
+
+     27.  Entire Agreement.  This instrument contains the entire understanding
+of the parties with respect to the subject matter hereof, and may not be changed
+orally, but only by an instrument in writing signed by the party against whom
+enforcement of any waiver, change, modification, extension, or discharge is
+sought.
+
+                                       4
+<PAGE>
+
+     IN WITNESS WHEREOF, this Agreement has been executed in multiple
+counterparts on the date first written above.
+
+                                   UNICORP, INC.
+
+
+
+                                   By   /s/ Louis Mehr
+                                     ---------------------------------
+                                     Louis Mehr, President
+
+
+
+                                   EQUITABLE ASSETS, INCORPORATED
+
+
+
+                                   By   /s/ Louis Mehr
+                                     ---------------------------------
+                                     Louis Mehr, President
+
+
+
+                                   TEXAS NEVADA OIL & GAS CO.
+
+
+
+                                   By   /s/ Louis Mehr
+                                     ---------------------------------
+                                     Louis Mehr, President
+
+
+
+                                   OPPORTUNITY ACQUISITION COMPANY
+
+
+
+                                   By   /s/ John F. Terwilliger
+                                     ---------------------------------
+                                     John F. Terwilliger, President
+
+Attachment:
+----------
+Exhibit A - The Note
+
+                                       5
+<PAGE>
+
+                                  EXHIBIT A
+
+                                PROMISSORY NOTE
+
+$75,000.00                                                     March ___, 2001
+
+     After date, without grace, for value received, UNICORP, INC., a Nevada
+corporation having its principal office and place of business in Harris County,
+Texas ("Unicorp"), EQUITABLE ASSETS, INCORPORATED, a Belize corporation having
+its principal office and place of business in Belize City, Belize ("Equitable"),
+and TEXAS NEVADA OIL & GAS CO., a Texas corporation having its principal office
+and place of business in Harris County, Texas ("TNOG") (Unicorp, Equitable and
+TNOG are collectively referred to herein as the "Makers") hereby jointly and
+severally promise to pay to the order of OPPORTUNITY ACQUISITION COMPANY, a
+Texas corporation having its principal office and place of business in Harris
+County, Texas (the "Payee"), the original principal amount of SEVENTY FIVE
+THOUSAND AND NO/100 DOLLARS ($75,000.00), or so much thereof as may actually be
+advanced hereunder, together with interest, as hereinafter described.  This Note
+is payable in lawful money of the United States of America at 801 Travis, Suite
+1425, Houston, Harris County, Texas 77002, or such other place as the Payee may
+designate in writing to the Makers.
+
+     The payment of this Note is subject to the terms of that certain Agreement
+of even date herewith, between the Makers and the Payee (the "Agreement"), which
+is incorporated herein by reference for all purposes.
+
+     This Note shall be due and payable on demand.  Interest at a rate of ten
+percent (10%) per annum shall accrue on the unpaid principal balance of this
+Note beginning on the date any such funds are advanced to the Makers by the
+Payee.  If this Note is not paid at maturity, however maturity may be brought
+about, all principal due on the date of such maturity shall bear interest from
+the date of such maturity at the maximum contract rate of interest which the
+Payee may charge the Makers under applicable law. Interest on the Note shall be
+computed for the actual number of days elapsed and on the basis of a year
+consisting of 360 days.
+
+     If, for any reason whatever, the interest paid on this Note shall exceed
+the maximum non-usurious amount permitted by law, the Payee shall refund to the
+Makers such portion of said interest as may be necessary to cause the interest
+paid on this Note to equal the maximum non-usurious amount permitted by law, and
+no more.  All sums paid or agreed to be paid to the Payee for the use,
+forbearance or detention of the indebtedness evidenced hereby shall to the
+extent permitted by applicable law be amortized, prorated, allocated and spread
+throughout the full term of this Note until payment in full.
+
+     The Makers shall be entitled to prepay this Note in whole or in part at any
+time without the payment of a prepayment premium.
+
+     In the event of default in the payment of this Note or under any instrument
+executed in connection with this Note, the Makers agree to pay on demand all
+costs incurred by the Payee (i) in the collection of any sums, including, but
+not limited to, principal, interest, expenses, and reimbursements due and
+payable on this Note, and (ii) in the enforcement of the other terms and
+provisions of this Note or the Agreement, whether such collection or enforcement
+be accomplished by suit or otherwise, including the Payee's reasonable
+attorney's fees.
+
+     It is agreed that time is of the essence of this Note, and upon the failure
+of the Makers to cure an event of default in the payment of any payment when due
+hereunder within 10 days after receipt of notice from the Payee or other holder
+of such failure, or upon the failure of the Maker to cure any event of default
+within 10 days after receipt of notice from the Payee or other holder of such
+failure in the performance of any covenant, agreement or obligation to be
+performed under any documents executed in connection with this Note, including,
+but not limited to, the Agreement, the Payee may declare the whole sum of the
+principal of this Note remaining at the time unpaid, and, to the extent
+permitted under applicable law, costs and reasonable attorney's fees incurred by
+the Payee in collecting or enforcing the payment thereof, immediately due and
+payable without further notice, and failure to exercise said option shall not
+constitute a waiver on the part of the Payee of the right to exercise the same
+at any other time.
+
+                                       1
+<PAGE>
+
+     Except as otherwise provided for herein, each maker, surety, guarantor and
+endorser of this Note expressly waives all notices, including, but not limited
+to, all demands for payment, presentations for payment, notice of opportunity to
+cure default, notice of intention to accelerate the maturity, notice of protest
+and notice of acceleration of the maturity, notice of protest and notice of
+acceleration of the maturity of this Note, and consents that this Note may be
+renewed and the time of payment extended without notice and without releasing
+any of the parties.
+
+     Any check, draft, money order or other instrument given in payment of all
+or any portion of this Note may be accepted by the Payee or any other holder
+hereof and handled in collection in the customary manner, but the same shall not
+constitute payment hereunder or diminish any rights of the Payee or any other
+holder hereof, except to the extent that actual cash proceeds of such instrument
+are unconditionally received by the Payee or any other holder hereof and applied
+to the indebtedness as herein provided.
+
+     Notwithstanding anything herein contained to the contrary, if any of the
+Makers fail to fully perform its obligations under the Agreement or this Note,
+then the costs paid by the Payee associated with the Agreement, will be added to
+the principal of this Note and paid by the Makers.
+
+     This Note shall be governed by and construed in accordance with the laws of
+the State of Texas and applicable federal law.
+
+
+                                            UNICORP, INC.
+
+                                            By
+                                              ---------------------------------
+                                              Louis Mehr, President
+
+
+                                            EQUITABLE ASSETS, INCORPORATED
+
+                                            By
+                                              ---------------------------------
+                                              Louis Mehr, President
+
+
+                                            TEXAS NEVADA OIL & GAS CO.
+
+                                            By
+                                              ---------------------------------
+                                              Louis Mehr, President
+
+
+                                       2
+
+</TEXT>
+</DOCUMENT>

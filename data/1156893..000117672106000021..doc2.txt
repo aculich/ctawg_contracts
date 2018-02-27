@@ -1,0 +1,152 @@
+<DOCUMENT>
+<TYPE>EX-10.61
+<SEQUENCE>2
+<FILENAME>doc2.txt
+<DESCRIPTION>AMENDMENT TO SECURITIES PURCHASE AGMT
+<TEXT>
+
+                                                                   EXHIBIT 10.61
+
+
+                               AMENDMENT NO. 1 TO
+                          SECURITIES PURCHASE AGREEMENT
+
+
+     THIS  AMENDMENT  NO.  1  TO THE SECURITIES PURCHASE AGREEMENT is made as of
+February  7,  2006  (this "Amendment"), by and among NS8 Corporation, a Delaware
+corporation  (the  "Company") and each of the Buyers listed on Schedule I of the
+Securities  Purchase  Agreement,  dated as of November 14, 2005 (individually, a
+"Buyer"  or  collectively  the  "Buyers").
+
+     WHEREAS,  the  Company  has heretofore entered into the Securities Purchase
+Agreement,  dated  November  14,  2005  (the  "Original  Securities  Purchase
+Agreement),  with  the  Buyers;
+
+     WHEREAS,  the  Original  Securities  Purchase  Agreement  provides that the
+provisions  of  the  Original  Securities  Purchase  Agreement  may be waived or
+amended  by  an  instrument  in  writing  signed by the party to be charged with
+enforcement;
+
+     WHEREAS,  the Company and the Buyer desire to amend the Original Securities
+Purchase  Agreement;
+
+     NOW,  THEREFORE,  in  consideration  of  the agreements and obligations set
+forth  herein  and for other good and valuable consideration, the sufficiency of
+which  is  hereby  acknowledged,  the  parties  hereby  agree  as  follows:
+
+     Section  1.  Amendment  to  Section  1  of the Original Securities Purchase
+     -----------  --------------------------------------------------------------
+Agreement.  The  Company  and  the Buyers hereby agree that the last sentence of
+----------  Section  1(a)  is  deleted  in  its  entirety  and  replaced  by the
+following:
+
+1.     PURCHASE  AND  SALE  OF  CONVERTIBLE  DEBENTURES.
+       ------------------------------------------------
+
+(a)     Purchase  of  Convertible  Debentures.  Subject  to the satisfaction (or
+        -------------------------------------
+waiver)  of  the  terms  and  conditions  of  this Agreement, each Buyer agrees,
+severally and not jointly, to purchase at each Closing and the Company agrees to
+sell  and  issue  to  each  Buyer,  severally  and not jointly, at each Closing,
+Convertible Debentures in amounts corresponding with the Subscription Amount set
+forth opposite each Buyer's name on Schedule I hereto.  Upon execution hereof by
+a  Buyer,  the  Buyer  shall  wire  transfer  the  Subscription Amount set forth
+opposite  his  name  on  Schedule  I  in  same-day  funds  or a check payable to
+"Gallagher,  Brody  &  Butler,  as  Escrow  Agent  for  NS8  Corporation/Cornell
+Capital  Partners,  LP",  which  Subscription  Amount  shall  be  held in escrow
+pursuant to the terms of the  Escrow  Agreement  (as  hereinafter  defined)  and
+disbursed  in  accordance  therewith.
+
+
+<PAGE>
+
+(b)     Closing  Date.  The  First  Closing  of  the  purchase  and  sale of the
+        -------------
+Convertible  Debentures  shall take place at 10:00 a.m. Eastern Standard Time on
+the  fifth (5th) business day following the date hereof, subject to notification
+of  satisfaction  of the conditions to the First Closing set forth herein and in
+Sections  6  and  7  below  (or  such later date as is mutually agreed to by the
+Company  and the Buyer(s)) (the "First Closing Date"), the Second Closing of the
+purchase  and  sale of the Convertible Debentures shall take place at 10:00 a.m.
+Eastern  Standard  Time two (2) business days prior to the date the Registration
+Statement  is filed with the SEC, subject to notification of satisfaction of the
+conditions  to the Second Closing set forth herein and in Sections 6 and 7 below
+(the  "Second  Closing  Date") and the Third Closing of the purchase and sale of
+the  Convertible Debentures shall take place at 10:00 a.m. Eastern Standard Time
+on the fifth (5th) business day following the date the Registration Statement is
+declared  effective  by  the SEC, subject to notification of satisfaction of the
+conditions  to  the Third Closing set forth herein and in Sections 6 and 7 below
+(the  "Third  Closing  Date")  (collectively referred to a the "Closing Dates").
+Closings  shall  occur  on  the  respective  Closing  Dates  at  the  offices of
+Yorkville  Advisors, LLC, 101 Hudson Street, Suite 3700, Jersey City, New Jersey
+07302  (or  such  other  place  as  is mutually agreed to by the Company and the
+Buyer(s)).
+
+(c)     Escrow Arrangements; Form of Payment.  Upon execution hereof by Buyer(s)
+        ------------------------------------
+and  pending  the  Closings,  the  aggregate  proceeds  of  the  sale  of  the
+Convertible  Debentures  to  Buyer(s)  pursuant  hereto  shall be deposited in a
+non-interest  bearing  escrow  account with Gallagher, Brody & Butler, as escrow
+agent  (the  "Escrow  Agent"),  pursuant  to  the  terms  of an escrow agreement
+between  the  Company,  the  Buyer(s)  and  the  Escrow  Agent  in  the  form
+attached  hereto  as  Exhibit  B  (the  "Escrow  Agreement").  Subject  to  the
+satisfaction  of  the terms and  conditions  of  this  Agreement, on the Closing
+Dates,  (i)  the  Escrow  Agent shall  deliver  to  the  Company  in  accordance
+with  the  terms  of  the  Escrow  Agreement  such  aggregate  proceeds  for the
+Convertible  Debentures  to be issued and  sold  to  such  Buyer(s) and (ii) the
+Company  shall  deliver  to  each  Buyer,  Convertible  Debentures  which  such
+Buyer(s)  is  purchasing  in amounts indicated opposite  such  Buyer's  name  on
+Schedule  I,  duly  executed  on  behalf  of  the  Company.
+
+
+     Section  2.  Governing  Law.  This  Amendment  shall  be  governed  by  and
+     -----------  --------------
+Interpreted  in  accordance  with  the  laws of the State of New Jersey, without
+regard  to  principles  of  conflicts  of  law.
+
+     Section  3.  References  to  the  Agreement.  Except  as  amended  by  the
+     -----------  -------------------------------
+Amendment,  all other terms, conditions and covenants of the Original Securities
+Purchase  Agreement  are  hereby  confirmed  by  the  parties  hereto and remain
+unchanged  and  in  full  force and effect.  From and after the date hereof, all
+references  to  the  "Agreement"  contained  in the Original Securities Purchase
+Agreement, shall be deemed to be references to the Securities Purchase Agreement
+as  amended  by  this  Amendment.
+
+
+<PAGE>
+
+     Section  4.  Counterparts.  This  Amendment  may  be  executed  in separate
+     -----------  -------------
+counterparts,  each  of which, when executed and delivered shall be an original,
+but  all  such  counterparts  shall  together  constitute  but  one and the same
+instrument.
+
+     IN  WITNESS  WHEREOF,  the  parties hereto have caused this Amendment to be
+duly  executed  as  of  the  day  and  year  first  above  written.
+
+
+                               NS8  CORPORATION
+
+
+
+                               By:  /s/ Ricardo Rosado
+                                    ------------------------------------
+                                    Name:  Ricardo Rosado
+                                    Title:  CFO
+
+
+                               CORNELL  CAPITAL  PARTNERS,  LP
+                               By:  Yorkville  Advisors,  LLC
+                               Its:  General  Partner
+
+                               By:  /s/ Mark  Angelo
+                                    --------------------------------
+                               Name:  Mark  Angelo
+                               Title:  Portfolio  Manager
+
+
+<PAGE>
+
+</TEXT>
+</DOCUMENT>

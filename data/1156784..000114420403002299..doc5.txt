@@ -1,0 +1,645 @@
+<DOCUMENT>
+<TYPE>EX-10.2
+<SEQUENCE>6
+<FILENAME>doc5.txt
+<TEXT>
+<PAGE>
+
+Exhibit 10.2
+
+                  STOCK OPTION AND IRREVOCABLE PROXY AGREEMENT
+
+         This Stock Option and  Irrevocable  Proxy Agreement is made as of April
+__, 2003 by and between Gary F. McNear, trustee for the Gary F. McNear Revocable
+Trust dated March 17, 1998 (the "Gary Trust"),  Susan M. McNear, trustee for the
+Susan M. McNear Revocable Trust dated March 17, 1998 (the "Susan Trust"),  Craig
+W.  Conklin,  trustee for the Craig W. Conklin  Revocable  Trust dated April 19,
+2000 (the "Craig  Trust"),  Margaret  L.  Conklin,  trustee for the  Margaret L.
+Conklin   Revocable   Trust  dated  April  19,  2000  (the  "Margaret   Trust"),
+(collectively, the Gary Trust, the Susan Trust, the Craig Trust and the Margaret
+Trust are referred to as the "Trusts") and Altos Bancorp Inc. (the "Optionee").
+
+                                    RECITALS
+
+         A.  Optionee  has entered  into an Advisory  Agreement  (the  "Advisory
+Agreement") with Hy-Tech  Technologies Group, Inc. (the "Company"),  pursuant to
+which there is a condition  that the Trusts  grant an option to the  Optionee to
+acquire ten million  (10,000,000) shares of common stock held by the Trusts (the
+"Option  Shares") and a proxy (the "Proxy') with respect to all of the shares of
+common  stock held by the Trusts.  The Trusts  hereby agree to grant such option
+for the Option Shares and Proxy as hereinafter provided.
+
+NOW THEREFORE, specifically incorporating these recitals herein, it is agreed as
+follows:
+
+                                    AGREEMENT
+
+
+                                   SECTION 1
+                                GRANT OF OPTIONS
+
+1.1 NUMBER OF SHARES. Subject to the terms and conditions of this Agreement, the
+Trusts  grant to Optionee,  Options to purchase  from the Trusts an aggregate of
+ten million  (10,000,000)  shares (the "Option  Shares") of the Company's common
+stock.  Each of the Trusts  grants an option for the number of Option Shares set
+forth next to its name on Schedule A attached hereto.
+
+1.2 EXERCISE  PRICE.  Each Option Share is exercisable at a price of US $.01 per
+share (the "Option Price").
+
+1.3 TERM. The Expiration Date for all Options shall be the later of (a) the date
+occurring  three (3) years from the date of this  Agreement or (b) the date that
+this three (3) years after the date that this  Agreement is released to Optionee
+under the terms of the Advisory Agreement.
+
+1.4  VESTING.  The Options  granted  herein  fully vest upon  execution  of this
+Agreement.
+
+1.5 CONDITIONS OF OPTION. The Options may be exercised immediately upon delivery
+to Optionee under the terms of the Advisory Agreement,  subject to the terms and
+conditions as set forth in this Agreement.
+
+
+<PAGE>
+
+                                   SECTION 2
+                               EXERCISE OF OPTION
+
+2.1 DATE  EXERCISABLE.  The  Options  shall  become  exercisable  by Optionee in
+accordance with Section 1.4 above.
+
+2.2 MANNER OF EXERCISE OF OPTIONS AND PAYMENT FOR COMMON STOCK.  The Options may
+be exercised by the Optionee,  in whole or in part, by giving  written notice to
+the Trust or Trusts whose Option  Shares are subject to such  exercise,  setting
+forth the number of Shares with respect to which Options are being exercised, in
+the form attached  hereto as Exhibit A. The purchase  price of the Option Shares
+upon  exercise  of the  Options by the  Optionee  shall be paid in full in cash,
+except as provided in section 2.3 below.
+
+2.3 CASHLESS  EXERCISE.  Optionee may, at its option, in lieu of paying cash for
+the Option Shares,  exercise this Option by an exchange, in whole or in part (an
+"Option  Exchange"),  by  delivery  of (i) a duly  executed  Notice of  Exercise
+electing an Option  Exchange  and (ii) the Option  Agreement  representing  this
+Option. In connection with any Option Exchange,  the Optionee shall be deemed to
+have paid for the Option Shares an amount equal to the Fair Market Value of each
+Option  delivered,  and the Options shall be deemed  exercised for the amount so
+paid.  For this purpose,  the Fair Market Value of each Option is the difference
+between the Market Value of a Share of Common  Stock and the  Exercise  Price on
+the date of  delivery.  Market  Value  shall mean the average of the closing bid
+price for a Share of common Stock  during the ten (10)  trading  days  preceding
+delivery.  In no event shall the  Optionee be entitled to receive  more than the
+total number of Option Shares granted hereunder.
+
+2.4 STOCK  CERTIFICATES.  Promptly after any exercise in whole or in part of the
+Options by Optionee,  the Trust or Trusts subject to such exercise shall deliver
+to Optionee a certificate or certificates  for the number of Shares with respect
+to which the Options were so exercised,  registered in Optionee's  name. In lieu
+thereof,  if the certificates  for the Shares are held in escrow,  they shall be
+delivered to Optionee by the escrow agent or comparable  party. The certificates
+for the Shares shall bear a legend  referring to the  restrictions  set forth in
+this Agreement and that the Shares are subject to the Option and Proxy set forth
+in this Agreement..
+
+                                   SECTION 3
+                                 TRANSFERABILITY
+
+3.1 NO RESTRICTION. The Options are transferable by Optionee.
+
+                                   SECTION 4
+                IRREVOCABLE PROXY; NO OTHER RIGHTS AS SHAREHOLDER
+                               PRIOR TO EXERCISE
+
+4.1 Each Trust,  being a holder of Shares of Common Stock of the  Company,  does
+hereby  constitute and appoint  Optionee,  with full power of substitution,  the
+true and lawful  attorney and proxy of such Trust for it and in its name,  place
+and  stead,  to attend  and to vote as the proxy of such  Trust,  at any and all
+meetings of shareholders of the Company or any adjournments  thereof, all of the
+Common Stock eligible to vote which are held of record or beneficially,  by such
+Trust,  on any and all matters,  proposals and  questions,  that may be lawfully
+considered  there, and to execute any written consents of Shareholder  which may
+be solicited as fully and with the same number of votes and with the same effect
+as such Trust could do if personally present thereat or if personally  solicited
+
+                                       2
+<PAGE>
+
+to  execute  such  written  consents.  Each Trust  hereby  revokes  all  proxies
+heretofore  made by it. Each Trust hereby  ratifies all that the Optionee may or
+shall lawfully do in voting the Common Stock in accordance  herewith at any such
+meeting or adjournment  in respect of all matters,  proposals and questions that
+may properly come before the shareholders  for  consideration  and action.  Each
+Trust  acknowledges  that  this  proxy  is  coupled  with  an  interest  and  is
+irrevocable  with  respect to all Common  Stock owned by such Trust for the term
+set forth in the forms of proxy  attached  hereto.  The Gary Trust shall execute
+and deliver  the form of  irrevocable  proxy  attached  hereto as  Schedule  B-1
+simultaneously  with the  execution  of this  Agreement.  The Susan  Trust shall
+execute and deliver the form of irrevocable  proxy attached  hereto as Schedules
+B-2 and B-3 simultaneously with the execution of this Agreement. The Craig Trust
+shall  execute and  deliver the form of  irrevocable  proxy  attached  hereto as
+Schedule B-4 simultaneously  with the execution of this Agreement.  The Margaret
+Trust shall execute and deliver the form of irrevocable proxy attached hereto as
+Schedule B-5 and B-6 simultaneously with the execution of this Agreement.
+
+4.2 Except for the  irrevocable  proxy set forth in section 4.1,  Optionee shall
+not be deemed for any purpose to be a shareholder of Company with respect to any
+shares  subject to the Options  under this  Agreement to which the Options shall
+not have been exercised.
+
+                                   SECTION 5
+                                   ADJUSTMENTS
+
+5.1 NO EFFECT ON CHANGES IN COMPANY'S  CAPITAL  STRUCTURE.  The existence of the
+Options  shall not  affect in any way the right or power of the  Company  or its
+shareholders   to  make  or   authorize   any   adjustments,   recapitalization,
+reorganization,  or other  changes in the  Company's  capital  structure  or its
+business,  or any merger or consolidation of the Company, or any issue of bonds,
+debentures,  preferred or  preference  stocks  ahead of or affecting  the Option
+Shares,  or the  dissolution  or  liquidation  of the  Company,  or any  sale or
+transfer of all or any part of its assets or  business,  or any other  corporate
+act or proceeding, whether of a similar character or otherwise.
+
+5.2  ADJUSTMENT  TO OPTION  SHARES.  The Option Shares are subject to adjustment
+upon recapitalization,  reclassification, consolidation, merger, reorganization,
+stock  dividend,  reverse or forward  stock  split and the like.  If the Company
+shall be  reorganized,  consolidated  or merged with another  Company,  Optionee
+shall be entitled to receive upon the exercise of the Option the same number and
+kind of shares of stock or the same amount of property,  cash or  securities  as
+Optionee  would have been  entitled to receive  upon the  happening  of any such
+corporate event as if Optionee had been,  immediately  prior to such event,  the
+holder of the  number of Shares  covered by the  Option.  If the  Company  shall
+declare  any  dividend  or  distribution  after  the date of  execution  of this
+Agreement,  the Trust or Trusts  whose  Shares are  subject to the Option  shall
+deliver such dividend or distribution to the Optionee along with the certificate
+for such shares when the Option is exercised.
+
+
+                                       3
+<PAGE>
+
+                                   SECTION 6
+                            MISCELLANEOUS PROVISIONS
+
+6.1 DISPUTES; CONSENT TO JURISDICTION.  All of the parties hereto hereby consent
+to the  jurisdiction of the Federal and State courts located in New York, NY, in
+any proceeding  arising out of or in connection with this Agreement.  The Trusts
+each  waive  any  objection  to such  proceeding  based on  venue  or forum  non
+conveniens.  The Optionee and the Trusts each waive personal  service of any and
+all process upon them and consent that all such service may be made by certified
+mail (return receipt requested) directed to them as provided in section 6.2.
+
+6.2 NOTICES. Any notice that a party may be required or permitted to give to the
+other shall be in writing, and may be delivered personally, by overnight courier
+or by certified or registered mail, postage prepaid, addressed to the parties at
+their current  principal  addresses,  or such other address as either party,  by
+notice to the other, may designate in writing from time to time.
+
+6.3 LAW  GOVERNING.  This  Agreement  shall  be  governed  by and  construed  in
+accordance with the laws of the State of New York.
+
+6.4 TITLES AND  CAPTIONS.  All  section  titles or  captions  contained  in this
+Agreement are for  convenience  only and shall not be deemed part of the context
+nor effect the interpretation of this Agreement.
+
+6.5 ENTIRE AGREEMENT.  This Agreement contains the entire understanding  between
+the parties and supersedes any prior  understandings and agreements between them
+respecting the subject matter of this Agreement.
+
+6.6  AGREEMENT  BINDING.  This  Agreement  shall  be  binding  upon  the  heirs,
+executors, administrators, successors and assigns of the parties hereto.
+
+6.7 PRONOUNS AND PLURALS.  All  pronouns  and any  variations  thereof  shall be
+deemed to refer to the masculine,  feminine,  neuter, singular, or plural as the
+identity of the person or persons may require.
+
+6.8 FURTHER ACTION.  The parties hereto shall execute and deliver all documents,
+provide  all  information  and take or  forbear  from all such  action as may be
+necessary or appropriate to achieve the purposes of the Agreement.
+
+6.9 PARTIES IN INTEREST.  Nothing herein shall be construed to be to the benefit
+of any third  party,  nor is it  intended  that any  provision  shall be for the
+benefit of any third party.
+
+6.10 SAVINGS CLAUSE.  If any provision of this Agreement,  or the application of
+such  provision  to any  person  or  circumstance,  shall be held  invalid,  the
+remainder of this Agreement,  or the application of such provision to persons or
+circumstances  other  than  those as to which it is held  invalid,  shall not be
+affected thereby.
+
+6.11 COUNTERPARTS.  This Agreement may be exercised in two or more counterparts,
+all of which taken together shall be treated as one and the same agreement.
+
+
+                                       4
+<PAGE>
+
+6.12  EFFECTIVE  DATE;  RELEASE  OF  AGREEMENT.   This  Agreement  shall  become
+effective, and will be released to the Optionee and the Trusts, on the same date
+that the Company receives not less than one million dollars ($1,000,000) in debt
+financing.
+
+
+
+                            [Signatures on Next Page]
+
+
+
+                                       5
+<PAGE>
+
+
+
+IN WITNESS  WHEREOF,  the parties  hereto have executed this Agreement as of the
+day and year first written above.
+
+
+
+                    ALTOS BANCORP, INC.
+
+
+                    By: _____________________________
+                    Martin Nielson, CEO
+
+
+                    Gary F. McNear, trustee for the
+                    Gary F. McNear Revocable Trust dated March 17, 1998
+
+                    By: _____________________________
+                             Gary F. McNear
+
+
+                    Susan M. McNear, trustee for the
+                    Susan M. McNear Revocable Trust dated March 17, 1998
+
+                    By: _____________________________
+                             Susan M. McNear
+
+
+                    Craig W. Conklin, trustee for the
+                    Craig W. Conklin Revocable Trust dated April 19, 2000
+
+                    By: _____________________________
+                             Craig W. Conklin
+
+
+                    Margaret L. Conklin, trustee for the
+                    Margaret L. Conklin Revocable Trust dated April 19, 2000
+
+                    By: _____________________________
+                             Margaret L. Conklin
+
+
+
+                                       6
+<PAGE>
+
+
+                                    EXHIBIT A
+
+                HY-TECH TECHNOLOGIES GROUP, INC. (the "Company")
+
+                       NOTICE OF EXERCISE OF STOCK OPTION
+
+The undersigned  hereby exercises the Stock Option granted by  _________________
+(insert  name of Trust)  and seeks to  purchase  ____________________  shares of
+Common Stock of the Company pursuant to said Option. The undersigned understands
+that this  exercise  is  subject  to all the terms and  provisions  of the Stock
+Option and Irrevocable Proxy Agreement dated as of April __,, 2003.
+
+
+Enclosed is a check in the sum of US  $_____________________ in payment for such
+shares.
+
+
+-----------------------------------------------------
+Signature of Optionee
+
+
+
+
+Date:
+       ----------------------------------------------
+
+
+
+
+                                       7
+<PAGE>
+
+
+                                   SCHEDULE A
+
+
+The  following  calculation  is upon the  assumption  that as of the date of the
+execution of this contract, HYTT has approximately 27 million shares outstanding
+on a  fully-diluted  basis  (assuming the certificate to Mercatus for 13,888,889
+shares will be cancelled).
+
+Shares by McNear,  Conklin, and affiliates subject to option (10,000,000 shares)
+and irrevocable proxy (15,838,448):
+
+<TABLE>
+<CAPTION>
+                                                                      Shares Subject       Shares
+                                                                      To Option            Subject to
+                                                                                           Proxy*
+
+<S>                                                                    <C>                  <C>
+Gary F. McNear, trustee for the
+Gary F. McNear Revocable Trust dated March 17, 1998                     3,959,612           3,959,612
+
+Susan M. McNear, trustee for the
+Susan M. McNear Revocable Trust dated March 17, 1998                    1,040,388           3,959,612
+
+Craig W. Conklin, trustee for the
+Craig W. Conklin Revocable Trust dated April 19, 2000                   3,959,612           3,959,612
+
+Margaret L. Conklin, trustee for the
+Margaret L. Conklin Revocable Trust dated April 19, 2000                1,040,388           3,959,612
+                                                                       ----------           ---------
+
+Total                                                                  10,000,000          15,838,444
+</TABLE>
+
+* The proxy will be  irrevocable  for (a) the term of the option with respect to
+shares  that are  subject to the option and (b) six (6) months  with  respect to
+shares that are not subject to the option.
+
+
+                                       8
+<PAGE>
+
+
+                                  SCHEDULE B-1
+
+                                IRREVOCABLE PROXY
+                             EXECUTED April __, 2003
+
+         THE UNDERSIGNED SHAREHOLDER  ("Shareholder"),  being a holder of shares
+of common stock (the "Common Stock") of Hy-Tech  Technologies  Group,  Inc. (the
+"Company"),  does hereby constitute and appoint Altos Bancorp Inc. (the "Proxy")
+the true and lawful  attorney and proxy of  Shareholder  for it and in its name,
+place and stead,  with full power of substitution,  to attend and to vote as the
+proxy of Shareholder,  at any and all meetings of shareholders of the Company or
+any  adjournments  thereof,  three  million nine hundred fifty nine thousand six
+hundred and twelve (3,959,612) shares of the Common Stock eligible to vote which
+are held of record or beneficially by Shareholder,  for the period ending on the
+later of (a) the date  occurring  three (3) years from the date of this Proxy or
+(b) the date that is three (3) years after the date that this Irrevocable  Proxy
+is released to the Proxy under the terms of the Advisory  Agreement of even date
+herewith of which the  undersigned is a signatory  (the "Term"),  on any and all
+matters,  proposals and questions, that may be lawfully considered there, and to
+execute any written  consents of Shareholder  which may be solicited  during the
+Term,  as fully and with the same  number  of votes and with the same  effect as
+Shareholder could do if personally present thereat or if personally solicited to
+execute such written consents.
+
+         Shareholder hereby revokes all proxies heretofore made by it.
+
+         Shareholder hereby ratifies all that the Proxy may or shall lawfully do
+in voting  the  Common  Stock in  accordance  herewith  at any such  meeting  or
+adjournment in respect of all matters, proposals and questions that may properly
+come before the shareholders for consideration and action.
+
+         Shareholder acknowledges that this proxy is coupled with an interest as
+to all of  Shareholder's  Common  Stock  that is  subject  to this  Proxy and is
+irrevocable for the Term.
+
+                            Gary F. McNear, trustee for the
+                            Gary F. McNear Revocable Trust dated March 17, 1998
+
+                            By:________________________
+                                       Gary F. McNear
+
+
+                                       9
+<PAGE>
+
+                                  SCHEDULE B-2
+
+                                IRREVOCABLE PROXY
+                             EXECUTED April __, 2003
+
+         THE UNDERSIGNED SHAREHOLDER  ("Shareholder"),  being a holder of shares
+of common stock (the "Common Stock") of Hy-Tech  Technologies  Group,  Inc. (the
+"Company"),  does hereby constitute and appoint Altos Bancorp Inc. (the "Proxy")
+the true and lawful  attorney and proxy of  Shareholder  for it and in its name,
+place and stead,  with full power of substitution,  to attend and to vote as the
+proxy of Shareholder,  at any and all meetings of shareholders of the Company or
+any adjournments  thereof, one million forty thousand three hundred eighty eight
+(1,040,388) shares of the Common Stock eligible to vote which are held of record
+or beneficially  by  Shareholder,  for the period ending on the later of (a) the
+date occurring  three (3) years from the date of this Proxy or (b) the date that
+is three (3) years after the date that this Irrevocable Proxy is released to the
+Proxy under the terms of the Advisory  Agreement of even date  herewith of which
+the undersigned is a signatory (the "Term"),  on any and all matters,  proposals
+and questions, that may be lawfully considered there, and to execute any written
+consents of  Shareholder  which may be solicited  during the Term,  as fully and
+with the same number of votes and with the same effect as  Shareholder  could do
+if personally present thereat or if personally solicited to execute such written
+consents.
+
+         Shareholder hereby revokes all proxies heretofore made by it.
+
+         Shareholder hereby ratifies all that the Proxy may or shall lawfully do
+in voting  the  Common  Stock in  accordance  herewith  at any such  meeting  or
+adjournment in respect of all matters, proposals and questions that may properly
+come before the shareholders for consideration and action.
+
+         Shareholder acknowledges that this proxy is coupled with an interest as
+to all of  Shareholder's  Common  Stock  that is  subject  to this  Proxy and is
+irrevocable for the Term.
+
+                          Susan M. McNear, trustee for the
+                          Susan M. McNear Revocable Trust dated March 17, 1998
+
+                          By:________________________
+                                  Susan M. McNear
+
+
+                                       10
+<PAGE>
+
+
+                                  SCHEDULE B-3
+
+                                IRREVOCABLE PROXY
+                             EXECUTED April __, 2003
+
+         THE UNDERSIGNED SHAREHOLDER  ("Shareholder"),  being a holder of shares
+of common stock (the "Common Stock") of Hy-Tech  Technologies  Group,  Inc. (the
+"Company"),  does hereby constitute and appoint Altos Bancorp Inc. (the "Proxy")
+the true and lawful  attorney and proxy of  Shareholder  for it and in its name,
+place and stead,  with full power of substitution,  to attend and to vote as the
+proxy of Shareholder,  at any and all meetings of shareholders of the Company or
+any adjournments thereof, two million nine hundred nineteen thousand two hundred
+twenty four  (2,919,224)  shares of the Common Stock  eligible to vote which are
+held of record or  beneficially  by  Shareholder,  for the period  ending on the
+later of (a) the date  occurring  six (6) months  from the date of this Proxy or
+(b) the date that is six (6) months after the date that this  Irrevocable  Proxy
+is released to the Proxy under the terms of the Advisory  Agreement of even date
+herewith of which the  undersigned is a signatory  (the "Term"),  on any and all
+matters,  proposals and questions, that may be lawfully considered there, and to
+execute any written  consents of Shareholder  which may be solicited  during the
+Term,  as fully and with the same  number  of votes and with the same  effect as
+Shareholder could do if personally present thereat or if personally solicited to
+execute such written consents.
+
+         Shareholder hereby revokes all proxies heretofore made by it.
+
+         Shareholder hereby ratifies all that the Proxy may or shall lawfully do
+in voting  the  Common  Stock in  accordance  herewith  at any such  meeting  or
+adjournment in respect of all matters, proposals and questions that may properly
+come before the shareholders for consideration and action.
+
+         Shareholder acknowledges that this proxy is coupled with an interest as
+to all of  Shareholder's  Common  Stock  that is  subject  to this  Proxy and is
+irrevocable for the Term.
+
+                          Susan M. McNear, trustee for the
+                          Susan M. McNear Revocable Trust dated March 17, 1998
+
+                          By:________________________
+                                Susan M. McNear
+
+
+                                       11
+<PAGE>
+
+                                  SCHEDULE B-4
+
+                                IRREVOCABLE PROXY
+                             EXECUTED April __, 2003
+
+         THE UNDERSIGNED SHAREHOLDER  ("Shareholder"),  being a holder of shares
+of common stock (the "Common Stock") of Hy-Tech  Technologies  Group,  Inc. (the
+"Company"),  does hereby constitute and appoint Altos Bancorp Inc. (the "Proxy")
+the true and lawful  attorney and proxy of  Shareholder  for it and in its name,
+place and stead,  with full power of substitution,  to attend and to vote as the
+proxy of Shareholder,  at any and all meetings of shareholders of the Company or
+any  adjournments  thereof,  three  million nine hundred fifty nine thousand six
+hundred and twelve (3,959,612) shares of the Common Stock eligible to vote which
+are held of record or beneficially by Shareholder,  for the period ending on the
+later of (a) the date  occurring  three (3) years from the date of this Proxy or
+(b) the date that is three (3) years after the date that this Irrevocable  Proxy
+is released to the Proxy under the terms of the Advisory  Agreement of even date
+herewith of which the  undersigned is a signatory  (the "Term"),  on any and all
+matters,  proposals and questions, that may be lawfully considered there, and to
+execute any written  consents of Shareholder  which may be solicited  during the
+Term,  as fully and with the same  number  of votes and with the same  effect as
+Shareholder could do if personally present thereat or if personally solicited to
+execute such written consents.
+
+         Shareholder hereby revokes all proxies heretofore made by it.
+
+         Shareholder hereby ratifies all that the Proxy may or shall lawfully do
+in voting  the  Common  Stock in  accordance  herewith  at any such  meeting  or
+adjournment in respect of all matters, proposals and questions that may properly
+come before the shareholders for consideration and action.
+
+         Shareholder acknowledges that this proxy is coupled with an interest as
+to all of  Shareholder's  Common  Stock  that is  subject  to this  Proxy and is
+irrevocable for the Term.
+
+                          Craig W. Conklin, trustee for the
+                          Craig W. Conklin Revocable Trust dated April 19, 2000
+
+                          By:________________________
+                                 Craig W. Conklin
+
+
+                                       12
+<PAGE>
+
+                                  SCHEDULE B-5
+
+                                IRREVOCABLE PROXY
+                             EXECUTED April __, 2003
+
+         THE UNDERSIGNED SHAREHOLDER  ("Shareholder"),  being a holder of shares
+of common stock (the "Common Stock") of Hy-Tech  Technologies  Group,  Inc. (the
+"Company"),  does hereby constitute and appoint Altos Bancorp Inc. (the "Proxy")
+the true and lawful  attorney and proxy of  Shareholder  for it and in its name,
+place and stead,  with full power of substitution,  to attend and to vote as the
+proxy of Shareholder,  at any and all meetings of shareholders of the Company or
+any adjournments  thereof, one million forty thousand three hundred eighty eight
+(1,040,388) shares of the Common Stock eligible to vote which are held of record
+or beneficially  by  Shareholder,  for the period ending on the later of (a) the
+date occurring  three (3) years from the date of this Proxy or (b) the date that
+is three (3) years after the date that this Irrevocable Proxy is released to the
+Proxy under the terms of the Advisory  Agreement of even date  herewith of which
+the undersigned is a signatory (the "Term"),  on any and all matters,  proposals
+and questions, that may be lawfully considered there, and to execute any written
+consents of  Shareholder  which may be solicited  during the Term,  as fully and
+with the same number of votes and with the same effect as  Shareholder  could do
+if personally present thereat or if personally solicited to execute such written
+consents.
+
+         Shareholder hereby revokes all proxies heretofore made by it.
+
+         Shareholder hereby ratifies all that the Proxy may or shall lawfully do
+in voting  the  Common  Stock in  accordance  herewith  at any such  meeting  or
+adjournment in respect of all matters, proposals and questions that may properly
+come before the shareholders for consideration and action.
+
+         Shareholder acknowledges that this proxy is coupled with an interest as
+to all of  Shareholder's  Common  Stock  that is  subject  to this  Proxy and is
+irrevocable for the Term.
+
+                      Margaret L. Conklin, trustee for the
+                      Margaret L. Conklin Revocable Trust dated April 19, 2000
+
+                      By:________________________
+                             Margaret L. Conklin
+
+
+                                       13
+<PAGE>
+
+
+                                  SCHEDULE B-6
+
+                                IRREVOCABLE PROXY
+                             EXECUTED April __, 2003
+
+         THE UNDERSIGNED SHAREHOLDER  ("Shareholder"),  being a holder of shares
+of common stock (the "Common Stock") of Hy-Tech  Technologies  Group,  Inc. (the
+"Company"),  does hereby constitute and appoint Altos Bancorp Inc. (the "Proxy")
+the true and lawful  attorney and proxy of  Shareholder  for it and in its name,
+place and stead,  with full power of substitution,  to attend and to vote as the
+proxy of Shareholder,  at any and all meetings of shareholders of the Company or
+any adjournments thereof, two million nine hundred nineteen thousand two hundred
+twenty four  (2,919,224)  shares of the Common Stock  eligible to vote which are
+held of record or  beneficially  by  Shareholder,  for the period  ending on the
+later of (a) the date  occurring  six (6) months  from the date of this Proxy or
+(b) the date that is six (6) months after the date that this  Irrevocable  Proxy
+is released to the Proxy under the terms of the Advisory  Agreement of even date
+herewith of which the  undersigned is a signatory  (the "Term"),  on any and all
+matters,  proposals and questions, that may be lawfully considered there, and to
+execute any written  consents of Shareholder  which may be solicited  during the
+Term,  as fully and with the same  number  of votes and with the same  effect as
+Shareholder could do if personally present thereat or if personally solicited to
+execute such written consents.
+
+         Shareholder hereby revokes all proxies heretofore made by it.
+
+         Shareholder hereby ratifies all that the Proxy may or shall lawfully do
+in voting  the  Common  Stock in  accordance  herewith  at any such  meeting  or
+adjournment in respect of all matters, proposals and questions that may properly
+come before the shareholders for consideration and action.
+
+         Shareholder acknowledges that this proxy is coupled with an interest as
+to all of  Shareholder's  Common  Stock  that is  subject  to this  Proxy and is
+irrevocable for the Term.
+
+                     Margaret L. Conklin, trustee for the
+                     Margaret L. Conklin Revocable Trust dated April 19, 2000
+
+                     By:________________________
+
+                        Margaret L.  Conklin
+
+                                       14
+<PAGE>
+
+</TEXT>
+</DOCUMENT>

@@ -1,0 +1,909 @@
+<DOCUMENT>
+<TYPE>EX-10.7
+<SEQUENCE>5
+<FILENAME>v88605exv10w7.txt
+<DESCRIPTION>EXHIBIT 10.7
+<TEXT>
+<PAGE>
+
+                                                                    EXHIBIT 10.7
+
+                              AMENDED AND RESTATED
+                    INDEMNIFICATION IMPLEMENTATION AGREEMENT
+
+      This Amended and Restated Indemnification Implementation Agreement ("this
+Agreement") is entered into as of April 20, 1994 by and between Thrifty PayLess
+Holdings, Inc. (formerly TCH Corporation), a Delaware corporation ("TPH"), and
+United Merchandising Corp., a California corporation (and successor by merger to
+the rights and obligations of Big 5 Holdings, Inc., a Delaware corporation)
+("UMC"). All capitalized terms used but not elsewhere defined in this Agreement
+shall have the meanings set forth in the Glossary attached to, and forming part
+of, this Agreement.
+
+                                    RECITALS
+
+      The purpose of this Agreement is to implement and supplement, as between
+TPH and UMC, the provisions of the Acquisition Agreements relating to PE
+Indemnification Claims. In particular, this Agreement is intended to supplement:
+
+            (a)   those provisions of the Big 5 Agreement which preclude UMC
+                  from asserting its PE Indemnification Claims against PE
+                  directly and requires them to be asserted exclusively through
+                  TPH as Agent; and
+
+            (b)   those provisions of the Acquisition Agreements that impose
+                  dollar limitations on PE Indemnification Claims, specifically
+                  the Minimum PE Claim Amount and the Maximum PE Claim
+                  Limitations.
+
+      This Agreement is not intended to affect or modify either Party's rights
+or obligations with respect to indemnifications for Federal Tax Liability,
+Indemnified Other Income Tax Liability or ERISA Liability, as such terms are
+defined, and because such matters are governed by, the Tax Indemnity Agreement
+referred to in the Acquisition Agreements.
+
+                                    ARTICLE 1
+                PROVISIONS RELATING TO PE INDEMNIFICATION CLAIMS
+
+      1.1 Right to Assert PE Indemnification Claim.
+
+            1.1.1 The Parties acknowledge that the Minimum PE Claim Amount is
+applicable to the PE Indemnification Claims of both of them in the aggregate
+(including, in case of TPH, "Gart Claims and "MC Claims" as defined in the
+Allocation
+
+
+<PAGE>
+
+Agreement), as well as of each of them individually, so that the failure of
+either Party to assert a PE Indemnification Claim against PE may have the
+practical effect of delaying or precluding the ability of the other Party to
+assert against PE a separate PE Indemnification Claim that does not itself
+result in the Minimum PE Claim Amount being exceeded.
+
+            1.1.2 The Parties further acknowledge that the Maximum PE Claim
+Limitations are applicable to the PE Indemnification Claims of both Parties in
+the aggregate, as well as of each of them individually, so that the assertion by
+either of them of a PE Indemnification Claim against PE may have the practical
+effect of limiting the amount of, or precluding the assertion of, PE
+Indemnification Claims the other Party may otherwise have against PE.
+
+            1.1.3 Notwithstanding Sections l.1.1 and 1.1.2 or this Agreement,
+but subject to Section 1.2 of this Agreement, each Party shall be free to
+determine for itself whether or not to assert on its own behalf any PE
+Indemnification Claim and shall have no contractual, fiduciary or other
+obligation to the other with respect to any such determination except for those
+contractual obligations expressly set forth below in this Agreement.
+
+      1.2 Agency of TPH with Respect to UMC's PE Indemnification Claims.
+
+            1.2.1 Pursuant to Section 5.5(b) of the Big 5 Agreement, UMC hereby
+appoints TPH as its exclusive agent and attorney-in-fact (the "Agent"), with no
+power of substitution or re-delegation, for the purpose of making, pursuing,
+settling, compromising, negotiating with PE with respect to, and otherwise
+disposing of all of BFH's PE Indemnification Claims. UMC further agrees that all
+of its PE Indemnification Claims shall be asserted on its behalf by the Agent.
+However, the foregoing appointment, and the powers of the Agent, are expressly
+subject to the other provisions of this Section 1.2.
+
+            1.2.2 UMC shall have the right to direct the Agent as to all aspects
+of its activities as Agent (including, without limitation, the selection of
+counsel) and the Agent shall take no action except as expressly directed or
+approved in writing by UMC. Without limiting the foregoing:
+
+            (a)   as promptly as practicable, and in no event later than three
+                  Business Days, after receipt thereof from UMC, the Agent shall
+                  execute such documents as UMC shall direct in writing for the
+                  purpose of asserting a PE Indemnification Claim against PE on
+                  behalf of UMC (an "Agency Claim") and forward such documents
+                  to PE in the manner specified in the Thrifty Agreement;
+
+
+                                      -2-
+<PAGE>
+
+            (b)   the Agent shall promptly comply with all further written
+                  instructions from UMC relating to the prosecution of an Agency
+                  Claim, including, without limitation, instructions as to
+                  amendments, modifications and supplements thereto, any
+                  settlement or compromise thereof, any arbitration of a dispute
+                  with PE with respect thereto, and the execution and filing or
+                  delivery of any documents in connection therewith;
+
+            (c)   the Agent shall not amend, modify, supplement, settle,
+                  compromise or discharge an Agency Claim without the prior
+                  written consent of UMC;
+
+            (d)   the Agent shall immediately remit to UMC all monies or
+                  property it receives from PE or any third party that were paid
+                  or delivered to it as payment (in whole or in part) of an
+                  Agency Claim; and
+
+            (a)   the Agent shall keep UMC apprised on a current basis of all
+                  developments regarding a pending Agency Claim.
+
+            1.2.3 UMC shall reimburse all of TPH's reasonable and documented
+out-of-pocket costs and expenses incurred in the performance of its duties as
+Agent (including, without limitation, reasonable attorneys' fees) ("Agent
+Expenses"). Agent Expenses shall be billed no more frequently than monthly and
+shall be payable by UMC within ten Business Days of billing. UMC shall have the
+right to request reasonably detailed substantiation of any Agent Expense and the
+purpose for which it was incurred. In addition, UMC shall indemnify and hold the
+Agent and its directors, officers, shareholders, agents and representatives
+harmless from and against any and all losses, damages, liabilities, claims,
+demands, judgments and settlements of any nature resulting from or arising out
+of its conduct as Agent ("Agent Losses"). Notwithstanding the foregoing,
+however, UMC shall have no reimbursement or indemnification obligation to the
+extent that an Agent Expense or an Agent Loss is determined, by agreement
+between the Parties or by arbitration pursuant to Article 3 of this Agreement,
+to have been caused by the Agent's gross negligence or willful misconduct.
+
+            1.2.4 TPH shall indemnify and hold harmless UMC and its directors,
+officers, shareholders, agents and representatives from and against any and all
+losses, damages, liabilities, claims, demands, judgments, settlements, costs and
+expenses of any nature resulting from or arising out of any action taken by it
+as Agent without prior written authorization from, or in violation of written
+instructions received from, UMC or otherwise in violation of the terms of
+
+
+                                      -3-
+<PAGE>
+
+the agency created by this Section 1.2 ("Principal Losses") to the extent that a
+Principal Loss is determined, by agreement between the Parties or by arbitration
+pursuant to Article 3 of this Agreement, to have been caused by the Agent's
+gross negligence or willful misconduct.
+
+            1.2.5 In the event of any dispute between the Parties as to the
+appropriate allocation of out-of-pocket costs and expenses or losses, damages,
+liabilities, claims, demands or settlements, in any case incurred in connection
+with their respective PE Indemnification Claims (collectively "Claim Costs"),
+such dispute shall be determined by mutual agreement between the Parties or, if
+they are unable to agree within thirty days of either Party giving written
+notice under this Agreement of its desire to engage in negotiations over the
+allocation of such Claim Costs, by arbitration pursuant to Article 3 of this
+Agreement.
+
+      1.3 Payment of PE Indemnification Claims. Without limiting Section 1.2.4
+of this Agreement, but subject to Section 1.5 of this Agreement, TPH shall have
+no obligation to make any payment from its own funds to UMC in respect of any of
+UMC's PE Indemnification Claims and UMC's sole remedy in respect thereof shall
+be to pursue such PE Indemnification Claims directly against PE (or its
+successors and assigns) through TPH as Agent. Without limiting Section 1.2.3 of
+this Agreement, UMC shall have no obligation to make any payment from its own
+funds to TPH in respect of TPH's PE Indemnification Claims and TPH's sole remedy
+in respect thereof shall be to pursue such PE Indemnification Claims directly
+against PE (or its successors or assigns).
+
+      1.4 Notice of Certain Matters. Without limiting the Agent's obligations
+under Section 1.2.2(e) of this Agreement, each Party shall give the other prompt
+written notice of the assertion and disposition of PE Indemnification Claims and
+keep the other Party promptly apprised of material developments with respect
+thereto, subject to its right to preserve the attorney/client and other
+privileges. However, no failure by either Party to comply with its obligations
+under this section 1.4 shall impair its rights against the other Party under
+this Agreement.
+
+      1.5 Certain Effects of Amendatory Agreement. Each of the Parties
+acknowledges that, pursuant to the Amendatory Agreement, certain claims that
+would or might otherwise have been PE Indemnification Claims have been
+irrevocably waived and released in favor of PE and, as a result, will not give
+rise to Indemnification Re-Allocation Claims under this Agreement. Neither Party
+shall have any rights or remedies against the other Party under this Agreement
+as a result of the execution, delivery or performance of the Amendatory
+Agreement by TPH, all of which rights and remedies (if any) are hereby fully and
+irrevocably waived and released.
+
+
+                                      -4-
+<PAGE>
+
+                                    ARTICLE 2
+           PROVISIONS RELATING TO INDEMNIFICATION RE-ALLOCATION CLAIMS
+
+      2.1 General Provisions.
+
+            2.1.1 It is not the intention of the Parties that either of them
+should be substituted for PE as indemnitor vis-a-vis the other or otherwise be
+subject to unlimited liability with respect to any Indemnification Re-Allocation
+Claim the other may have. Rather, it is their intention that, except for the
+provisions for re-allocation of Final PE Recoveries expressly set forth in this
+Article 2, neither of them should have any recourse against the other, any
+subsidiary of the other or any director, officer, shareholder, agent or
+representative of the other or of the other's, respective subsidiaries solely on
+the basis that an otherwise-valid claim against PE is precluded by a Maximum PE
+Claim Limitation.
+
+            2.1.2 In Order to give effect to the re-allocation provisions, of
+this Article 2, TPH and UMC shall establish an intercompany account (the
+"Intercompany Indemnity Re-Allocation Account"). Each of TPH and UMC shall
+designate from time to time one of its officers to collaborate with the other's
+designated officer for the purpose of documenting all transactions in the
+Intercompany Indemnity Re-Allocation Account and verifying the accuracy thereof
+on a periodic basis.
+
+            2.1.3 The only amounts which shall be subject to re-allocation
+pursuant to this Article 2 shall be Final PE Recoveries. Each of TPH and UMC
+shall notify the other of the receipt of Final PE Recoveries, which shall be
+recorded in the Intercompany Indemnity Re-Allocation Account.
+
+            2.1.4 In the event that either Party, pursuant to this Article 2,
+wishes to assert an Indemnification Re-Allocation Claim, it shall give notice to
+the other Party of such Indemnification Re-Allocation Claim, setting forth with
+reasonable particularity the basis therefor, and shall, without having to waive
+any attorney/client or other privilege and subject to its right to require
+reasonable protection with respect to confidential information and any
+confidentiality obligations it may have under applicable law or contracts to
+which it is a party, furnish to the other such additional information about the
+nature, basis and value of Indemnification Re-Allocation Claim as the other may
+reasonably request. All defenses which would have been available to PE (other
+than the preclusive effect of the applicable Maximum PE Claim Limitation) shall
+be available to either Party in any dispute involving an Indemnification
+Re-Allocation Claim by the other Party.
+
+            2.1.5 Upon the resolution, as between the Parties, of any
+Indemnification Re-Allocation Claim, by agreement or
+
+
+                                      -5-
+<PAGE>
+
+arbitration, if the outcome of such resolution is that a re-allocation of any
+Final PE Recoveries is required an appropriate entry shall be made in the
+Intercompany Indemnity Re-Allocation Account. Subject to Section 2.1.6 of this
+Agreement, all amounts which either Party may owe to the other Party as a result
+of the resolution of Indemnification Re-Allocation Claims shall be netted
+against one another on the last day of each calendar quarter and whichever Party
+is determined to owe the other Party any amount as a result of such calculation
+shall pay the amount within ten Business Days.
+
+            2.1.6 Notwithstanding any other provision of this Article 2, neither
+Party shall be required to make any payment to the other in respect of any
+Indemnification Re-Allocation Claims unless and until the aggregate of all
+Indemnification Re-Allocation Claims which have been resolved adversely to that
+Party and which, but for this Section 2.1.6, would have resulted in an
+obligation of that Party to pay any amount to the other under Section 2.1.5 of
+this Agreement, exceeds $125,000 (the "Minimum Re-Allocation Claim Amount").
+However:
+
+            (a)   the foregoing requirement relating to the Minimum
+                  Re-Allocation Claim Amount shall not toll any statutory,
+                  contractual or equitable statute of limitation or other time
+                  bar relating to the initial assertion of an Indemnification
+                  Re-Allocation Claim by one Party against the other pursuant to
+                  Section 2.1.4 of this Agreement nor prevent either Party from
+                  asserting or prosecuting against the other to final resolution
+                  an Indemnification Re-Allocation Claim;
+
+            (b)   all recoveries to which either Party becomes entitled, but for
+                  the Minimum Re-Allocation Claim Amount as a result of the
+                  resolution of an Indemnification Re-Allocation Claim shall be
+                  recorded in the Intercompany Indemnity Re-Allocation Amount;
+                  and
+
+            (c)   once such recoveries of either Party exceed the Minimum
+                  Re-Allocation Claim Amount, that Party shall be entitled, as
+                  soon as payment becomes due from the other pursuant to Section
+                  2.1.5 of the Agreement, to be paid the full amount of the
+                  recoveries to which it has become entitled, not only the
+                  portion thereof in excess of the Minimum Re-Allocation Claim
+                  Amount.
+
+      2.2 Entitlement to Assert Indemnification Re-Allocation Claims
+
+
+                                      -6-
+<PAGE>
+
+            2.2.1 Subject to the other provisions of this Article 2, UMC shall
+be entitled to assert all of its Indemnification Re-Allocation Claims against
+TPH, including Potential Indemnification Re-Allocation Claims.
+
+            2.2.2 Subject to the other provisions of this Article 2, but
+notwithstanding any provision thereof to the contrary, the only Indemnification
+Re-Allocation Claims which TPH shall be entitled to assert against BFH shall be
+Potential Indemnification Re-Allocation Claims.
+
+            2.2.3 Notwithstanding any other provision of this Article 2, to the
+extent that the subsequent adverse disposition of one or more PE Indemnification
+Claims pending against PE, and being disputed by it, at the time either Party
+asserts against the other Party a Potential Indemnification Re-Allocation Claim
+results in the claimant Party becoming entitled, under the applicable
+Acquisition Agreement, to assert such Potential Indemnification Re-Allocation
+Claim against PE as a PE Indemnification Claim:
+
+            (a)   such Party shall cease to be entitled to pursue such Potential
+                  Indemnification Re-Allocation Claim against the other Party;
+
+            (b)   if such Potential Indemnification Re-Allocation Claim has by
+                  then been resolved in favor of the claimant Party, the entry
+                  in the Intercompany Indemnification Re-Allocation Account
+                  reflecting such resolution shall be reversed and any payment
+                  made to the claimant Party on account thereof by the other
+                  Party shall be immediately repaid; and
+
+            (c)   such Potential Indemnification Re-Allocation Claim may not
+                  thereafter be reasserted against the other Party (although the
+                  foregoing shall not impair the claimant Party's right to
+                  assert any other Indemnification Re-Allocation Claim against
+                  the other Party to the extent otherwise permitted by this
+                  Article 2).
+
+      2.3 Calculation of Re-Allocations of Final PE Recoveries
+
+            2.3.1 Whenever a re-allocation is required with respect to Final PE
+Recoveries under Sections 2.1 and 2.2 of this Agreement as a result of the
+resolution in favor of the claimant Party of an Indemnification Re-Allocation
+Claim (a "Re-Allocable Claim"), the amount of the re-allocation shall be
+calculated on the following basis:
+
+            (a)   First: a determination shall be made as to which Maximum PE
+                  Claim Limitation precluded (or potentially precludes) the
+                  assertion of such
+
+
+                                      -7-
+<PAGE>
+
+                  Indemnification Re-Allocation Claim directly against PE as a
+                  PE Indemnification Claim.
+
+            (b)   Second: all Final PE Recoveries theretofore realized by TPH
+                  shall be aggregated with all re-allocations to which TPH has
+                  theretofore become entitled in respect of previously-asserted
+                  and resolved Potential Indemnification Re-Allocation Claims
+                  which have not been reversed under Section 2.2.3 of this
+                  Agreement.
+
+            (c)   Third: all Final PE Recoveries theretofore realized by UMC
+                  shall be aggregated with all re-allocations to which UMC has
+                  theretofore become entitled in respect of previously-asserted
+                  and resolved Indemnification Re-Allocation Claims which have
+                  not been reversed under Section 2.2.3 of this Agreement.
+
+            (d)   Fourth: The amount of the Re-Allocable Claim shall be added to
+                  the aggregate amount determined with respect to the successful
+                  claimant under (b) or (c), as applicable.
+
+            (e)   Fifth: the aggregate amounts determined under (b) or (c), as
+                  applicable, with respect to the non-claimant shall be added
+                  together and aggregated with the amount determined under (d).
+
+            (f)   Sixth: the amount determined under (d) shall be divided by the
+                  total amount determined with respect to the successful
+                  claimant under (e) to determine the total amount of the
+                  successful claimant's resolved Indemnification Claims as a
+                  percentage of the total amount of all resolved Indemnification
+                  Claims.
+
+            (g)   Seventh: the percentage determined under (f) shall be
+                  multiplied by the amount of the applicable Maximum PE Claim
+                  Limitation determined under (a).
+
+            (h)   Eighth: to the extent that the amount determined under (g)
+                  exceeds the actual amount of Final PE Recoveries theretofore
+                  realized by the successful claimant, such excess shall
+                  constitute the amount of the re-allocation required as a
+                  result of the Re-Allocable Claim and the successful claimant
+                  shall be entitled to receive, in accordance with section 2.1.5
+                  of this Agreement, a payment from the other Party in such
+                  amount.
+
+
+                                      -8-
+<PAGE>
+
+            2.3.2 For illustrative purposes only, the following examples of the
+calculation specified in Section 2.3.1 of this Agreement are set forth below:
+
+                                  FIRST EXAMPLE
+
+            (a)   The applicable Maximum PE Claim Limitation is the general
+                  $25,000,000 limitation specified in Section 5.5(b) of the
+                  Thrifty Agreement (as made applicable to the Big 5 Agreement
+                  by Section 5.5(b) thereof and as preserved by Section 3(a) of
+                  the Amendatory Agreement with respect to the PE
+                  Indemnification Claims expressly excluded by said Section 3(a)
+                  from the release set forth therein).
+
+            (b)   TPH has heretofore realized Final PE Recoveries of $15 million
+                  and no Potential Indemnification Re-Allocation Claims have
+                  been made by it.
+
+            (c)   UMC has heretofore realized Final PE Recoveries of $10 million
+                  and no Indemnification Re-Allocation Claims have been made by
+                  it except for the Re-Allocable Claim that is the subject of
+                  this example, which is in the amount of $3 million.
+
+            (d)   The sum of the Re-Allocable Claim and UMC's Final PE
+                  recoveries is $13 million.
+
+            (e)   The total amounts determined under (b) and (d) is $28 million.
+
+            (f)   The amount determined under (d) (namely $13 million), divided
+                  by the total amount determined under (e) (namely $28 million)
+                  computes to a percentage of 46.43%.
+
+            (g)   46.43% of the applicable Maximum PE Claim Limitation of $25
+                  million equals $11,607,500.
+
+            (h)   $11,607,500 exceeds UMC's actual Final PE Recoveries of $10
+                  million by $1,607.500. Accordingly, subject to possible
+                  further re-allocations pursuant to this Article 2, an entry
+                  shall be made in the Intercompany Indemnity Re-Allocation
+                  Account to reflect UMC's entitlement, at the next payment date
+                  applicable under Section 2.1.5 of this Agreement, to be paid
+                  by TPH $1,607,500.
+
+
+                                      -9-
+<PAGE>
+
+                                 SECOND EXAMPLE
+
+            (a)   The applicable Maximum PE Claim Limitation is the $40,000,000
+                  limitation specified in Section 5.5(b) of the Thrifty
+                  Agreement (as made applicable to the Big 5 Agreement by
+                  Section 5.5(b) thereof and as preserved by Section 3(a) of
+                  the Amendatory Agreement with respect to the PE
+                  Indemnification Claims expressly excluded by said Section 3(a)
+                  from the release set forth therein) with respect to Section
+                  2.19(b) of the Thrifty Agreement (as made applicable to the
+                  Big 5 Agreement by Section 2.9 thereof).
+
+            (b)   TPH has heretofore realized Final PE Recoveries of $30 million
+                  and no Potential Indemnification Re-Allocation claims have
+                  been made by it.
+
+            (c)   UMC has heretofore realized Final PE Recoveries of $10 million
+                  and no Indemnification Re-Allocation Claims have been made by
+                  it except for the Re-Allocable Claim that is the subject of
+                  this example, which is in the amount of $8 million.
+
+            (d)   The sum of the Re-Allocable Claim and UMC's Final PE
+                  recoveries is $18 million.
+
+            (e)   The total amount determined under (b) and (d) is $48 million.
+
+            (f)   The amount determined under (d) (namely $18 million), divided
+                  by the total amount determined under (e) (namely $48 million)
+                  computes to a percentage of 37.5%.
+
+            (g)   37.5% of the applicable Maximum PE Claim Limitation of $40
+                  million equals $15,000,000.
+
+            (h)   $15,000,000 exceeds UMC's actual Final PE Recoveries of $10
+                  million by $5,000,000. Accordingly, subject to possible
+                  further re-allocations pursuant to this Article 2, an entry
+                  shall be made in the Intercompany Indemnity Re-Allocation
+                  Account to reflect UMC' s entitlement, at the next payment
+                  date applicable under Section 2.1.5 of this Agreement, to be
+                  paid by TPH $5,000,000.
+
+            2.3.3 In the event that Final PE Recoveries are realized with
+respect to a PE Indemnification Claim which is, or is claimed by either Party to
+be, attributable to both Parties, the allocation of such Final PE Recoveries
+between
+
+
+                                      -10-
+<PAGE>
+
+the Parties shall be as determined by mutual agreement between the Parties or,
+if they are unable to agree within thirty days of either Party giving written
+notice under this Agreement of its desire to engage in negotiations upon the
+allocation of such Final PE Recoveries, by arbitration pursuant to Article 3 of
+this Agreement.
+
+                                    ARTICLE 3
+                                   ARBITRATION
+
+      3.1 Agreement to Arbitrate Disputes.
+
+            3.1.2 Subject to Section 3.1.2 of this Agreement, any and all
+disputes between the Parties arising out of or relating to a claim by either
+Party against the other Party pursuant to this Agreement shall be finally
+settled by arbitration in the City of Los Angeles, California in accordance with
+the Commercial Arbitration Rules of the American Arbitration Association then in
+effect (except as otherwise specified below in this Article 3), and judgment
+upon the award rendered by the Arbitrator(s) may be entered in any court having
+jurisdiction thereof. The Parties hereby submit to the in personam jurisdiction
+of the Superior Court of the State of California for purposes of confirming any
+such award and entering judgment thereon.
+
+            3.1.2 Notwithstanding Section 3.3.1 of this Agreement, neither Party
+may initiate any arbitration under this Article 3 more frequently than once in
+any twelve-month period measured from the date of this Agreement and subsequent
+anniversaries thereof, and all claims and disputes then pending between the
+Parties and covered by said Section 3.3.1 shall be consolidated and arbitrated
+in a single arbitration proceeding; provided, however, that either Party may
+initiate any arbitration under this Article 3 at any time when either (i) such
+Party seeks arbitration with respect to one or more claims or disputes which,
+individually or in the aggregate, involve at least $2 million, as determined by
+a signed certification accompanying its notice of intent to arbitrate and
+setting forth its good faith estimate of the aggregate amount of such claim(s)
+or dispute(s) and the basis for such estimate, or (ii) such Party's ability
+effectively to present its case could be materially adversely affected by any
+delay in the initiation of such arbitration and such Party so states in a signed
+certification accompanying its notice of intent to arbitrate and setting forth
+the nature of such material adverse effect.
+
+      3.2 Certain Rules Governing Arbitration. Notwithstanding anything to
+the contrary which may now or hereafter be contained in the Commercial
+Arbitration Rules of the American Arbitration Association:
+
+
+                                      -11-
+<PAGE>
+
+            3.2.1 Any arbitration under this Article 3 shall be conducted before
+one or more arbitrators (an "Arbitrator"). Arbitrators shall be compensated for
+their services at a rate to be determined by the American Arbitration
+Association in the event the Parties are not able to agree upon the rate of
+compensation. Arbitrators shall be chosen in accordance with the following
+provisions:
+
+            (a)   In the event the Parties agree on the designation of a single
+                  Arbitrator within ten Business Days from the date when the
+                  Party initiating an arbitration files and delivers a notice of
+                  intent to arbitrate, such arbitration shall be conducted by
+                  such single Arbitrator.
+
+            (b)   In the event the Parties fail to agree upon the designation of
+                  a single Arbitrator within the period of the ten Business Days
+                  specified in Section 3.2.1(a) of this Agreement, than: (i)
+                  each Party shall have the right, within a further period of
+                  ten Business Days, to designate one Arbitrator and if, within
+                  such period, either Party has failed to appoint an Arbitrator,
+                  the American Arbitration Association shall make the
+                  appointment; and (ii) the two Arbitrators designated pursuant
+                  to clause (ii) above shall agree upon and designate a third
+                  Arbitrator within five Business Days from the date of the
+                  designation of the later-designated of such two Arbitrators
+                  and if they fail to do so the American Arbitration Association
+                  shall appoint the third Arbitrator.
+
+            3.2.2 In any arbitration proceedings under this Article 3:
+
+            (a)   all testimony of witnesses shall be taken under oath;
+
+            (b)   it is specifically contemplated and agreed by the Parties that
+                  the provisions of Section 1283.05 of the California Code of
+                  Civil Procedure, as presently in force, be incorporated into
+                  and made a part of, and be applicable to, the arbitration
+                  agreement set forth in this Article 3;
+
+            (c)   without limiting the generality of Section 3.2.2(c) of this
+                  Agreement, neither Party shall object to the issuance of
+                  orders by the Arbitrator(s) granting access to relevant books
+                  and records of PE and compelling relevant testimony from PE to
+                  the extent such orders are
+
+
+                                      -12-
+<PAGE>
+
+                  permissible under said Section 1283.05 and the relevant
+                  information is not otherwise available to the applicable
+                  Party; and
+
+            (d)   upon conclusion of any arbitration proceedings under this
+                  Article 3, the Arbitrator(s) shall render findings of fact and
+                  conclusions of law in a written opinion setting forth the
+                  basis and reasons for any decision reached and deliver such
+                  documents to each Party along with a signed copy of the award
+                  in accordance with Section 1283.6 of the California Code of
+                  Civil Procedure.
+
+      3.3 Certain Powers of Arbitrators.
+
+            3.3.1 Arbitrators shall have the power to issue any award, and order
+any relief, which they adjudge appropriate to give effect to their findings as
+to the purpose of this Agreement and to effect a fair and equitable resolution
+of the dispute. However, they shall not have the power to award any punitive
+damages and the limitations set forth on their powers in Sections 3.3.2 and
+3.4.2 shall also apply.
+
+            3.3.2 Arbitrators shall not have the power to alter, amend or
+otherwise affect the provisions of this Article 3.
+
+      3.4 Costs of Arbitration.
+
+            3.4.1 The prevailing Party shall be entitled to recover all costs
+incurred in preparation for and as a result of any arbitration pursuant to this
+Article 3, including without limitation filing fees, attorneys' fees, the
+compensation to be paid to the Arbitrator(s) in any such arbitration and costs
+of transcripts.
+
+            3.4.2 In an award of any such costs, Arbitrators shall not have
+power or competence to allocate between the Parties expenses, fees or shares of
+Arbitrators' compensation except as provided in Section 3.4.1 of this Agreement.
+
+                                    ARTICLE 4
+                                  MISCELLANEOUS
+
+      4.1 Notices. All notices and other communications under this Agreement
+shall be in writing and shall be deemed given upon receipt if delivered
+personally or sent by facsimile transmission (receipt of which is confirmed) or
+by courier service promising overnight delivery (with delivery confirmed the
+next day) or three Business Days after deposit in the U.S. mails, first class
+postage prepaid. Notices to either Party shall be addressed as follows:
+
+To TPH:                 Thrifty PayLess Holdings, Inc.
+
+
+                                      -13-
+<PAGE>
+
+                        9275 SW Peyton Lane
+                        Wilsonville, Oregon 97070
+                        Attention:  Chief Financial Officer
+                        Facsimile: (503) 685-6064
+
+To UMC:                 United Merchandising Corp.
+                        2525 East El Segundo Boulevard
+                        El Segundo, California 90245
+                        Attention: Kathleen Reid-Seidner, Esq.
+                                   General Counsel
+                        Facsimile: (310) 297-7592
+
+In Each Case
+With Copies To:         Leonard Green & Partners
+                        333 South Grand Avenue
+                        Suite 5400
+                        Los Angeles, California 90071
+                        Attention: Jonathan D. Sokoloff
+                        Facsimile: (213) 625-2043
+
+                                       and
+
+                        Irell & Manella
+                        333 South Hope Street, 33rd Floor
+                        Los Angeles, California 90071
+                        Attention: Edmund N. Kaufman, Esq.
+                        Facsimile: (213) 229-0515
+
+Either Party may from time to time change its address for the purpose of notices
+by a similar notice specifying the new address but no such change shall be
+effective as against the other Party until such other Party shall have actually
+received it.
+
+      4.2 Entire Agreement.
+
+            4.2.1 Subject to Section 4.2.2 of this Agreement, this Agreement
+(including the Glossary) contains the entire agreement between the Parties with
+respect to the subject matter of this Agreement and supersedes all written or
+verbal representations, warranties, commitments and other understandings prior
+to the date of this Agreement.
+
+            4.2.2 All rights and obligations existing between the Parties,
+immediately prior to the effectiveness of this Agreement, pursuant to the terms
+of the Indemnification Implementation Agreement dated as of September 25, 1992
+(the "Original Agreement") between TPH and BFH (including the rights and
+obligations to which UNC succeeded upon the merger of BFH with and into UMC) are
+hereby expressly preserved and made subject to the terms of the Agreement as if
+they arose hereunder and all actions taken by either Party (or by BFH as
+predecessor to UMC) under the Original Agreement shall, to the
+
+
+                                      -14-
+<PAGE>
+
+extent they were effective under the Original Agreement for all purposes
+continue to be effective hereunder.
+
+      4.3 Counterparts. This Agreement may be executed in one or more
+counterparts, each of which shall be deemed an original but all of which
+together shall constitute one and the same instrument.
+
+      4.4 Severability. If any provision of this Agreement shall be held to be,
+or shall hereafter become, unenforceable or invalid by any court of competent
+jurisdiction or as a result of future legislative action, such holding or action
+shall be strictly construed and shall not alter the enforceability, validity or
+effect of any other provision hereof.
+
+      4.5 Assignability. This Agreement shall be binding upon and shall inure to
+the benefit of the successors and assigns of the Parties. However, neither this
+Agreement nor any right or obligation hereunder may be assigned by either Party
+without the prior written consent of the other.
+
+      4.6 Captions. The descriptive headings herein are inserted for convenience
+only and are intended to be part of or to affect the meaning or interpretation
+of this Agreement.
+
+      4.7 Governing Law. This Agreement shall be governed by and construed in
+accordance with the laws of the State of California without regard to any
+principles of conflict of laws.
+
+      4.8 Amendment and Waiver. This Agreement may be amended, modified or
+supplemented only by an instrument in writing signed by both Parties. No waiver
+by either Party of any of the provisions of this Agreement shall be effective
+unless set forth in writing and executed by the Party so waiving.
+
+      4.9 Confidentiality. Each Party shall maintain, and instruct its agents
+and representatives to maintain, as confidential information both the existence
+and terms of this Agreement except to the extent that such information (a) was
+known by a third party recipient when received, (b) is or hereafter becomes
+lawfully obtainable from other sources, (c) as may otherwise be required by law
+or (d) to the extent such duty as to confidentiality is waived in writing by the
+other Party; provided, however, that (i) the existence and terms of this
+Agreement may be made known to the "Lender Parties" as defined in the Credit
+Agreement dated as of the date hereof among TPI and the other parties set forth
+therein, and (ii) the existence of this Agreement may be made known to PE.
+
+
+                                      -15-
+<PAGE>
+
+      4.10 Acknowledgment. UMC hereby acknowledges the fact that, in connection
+with a distribution by TPH to its stockholders of the stock of Gart Sports
+Company, a Delaware corporation ("GSC") that will own all of the outstanding
+stock of Gart Bros. Sporting Goods Company, a Colorado corporation ("Gart"), and
+MC Sports Company, a Delaware corporation ("MCSC") that will own all of the
+outstanding stock of Michigan Sporting Goods Distributors, Inc., a Michigan
+corporation ("MC"), TPH, GSC and MCSC are concurrently herewith entering into an
+Indemnification Allocation Agreement (the "Allocation Agreement") pursuant to
+which TPH is conferring on GSC and MSCS, respectively, all of TPH's beneficial
+interest in the economic benefit of "Gart Claims" and "MC Claims" (as therein
+defined), and agreeing to act as agent for GSC and MCSC in pursuing such claims
+against PE. It is expressly agreed that nothing contained in the Allocation
+Agreement shall amend or modify, impair any rights or either Party under, or
+give rise to any claim by either Party against the other under or with respect
+to, this Agreement.
+
+      IN WITNESS WHEREOF, the parties have caused this Agreement to be signed by
+their respective officers therewith duly authorized as of the date first written
+above.
+
+THRIFTY PAYLESS                              UNITED MERCHANDISING CORP.
+  HOLDINGS, INC.
+
+
+By: /s/ Daniel A. Seigel                     By: /s/ Kathleen Reid-Seidner
+   -----------------------------                -----------------------------
+   Name: Daniel A. Seigel                       Name: Kathleen Reid-Seidner
+   Title: President                             Title: Vice President and
+                                                       Secretary
+
+
+                                      -16-
+<PAGE>
+
+                                    GLOSSARY
+
+      Each capitalized term used and not defined in this Agreement shall have
+the meaning set forth below or, in the case of a capitalized terms not listed
+below, the meaning set forth in the Thrifty Agreement, and in each case shall
+include the plural as well as the singular.
+
+      "Acquisition Agreements" means the Big 5 Agreement and the Thrifty
+Agreement.
+
+      "Allocation Agreement" has the meaning set forth in Section 4.9 of this
+Agreement.
+
+      "Amendatory Agreement" means the Agreement and Release dated as of March
+11, 1994 among PE, TPH, TPI and UMC.
+
+      "Agency Claim" has the meaning set forth in Section 1.2.2(a) of this
+Agreement.
+
+      "Agent" has the meaning set forth in Section 1.2.1 of this Agreement.
+
+      "Agent Expenses" has the meaning set forth in Section 1.2.4 of this
+Agreement.
+
+      "Agent Losses" has the meaning set forth in Section 1.2.4 of this
+Agreement.
+
+      "Arbitrator" has the meaning set forth in Section 3.2.1 of this Agreement.
+
+      "Big 5 Agreement" means the Purchase and Sale Agreement dated as of
+May 22, 1992 by and between Big 5 Holdings, Inc., a Delaware corporation, PE and
+Thrifty Corporation, a California corporation, as amended, (including pursuant
+to the Amendatory Agreement) through and including the date of this Agreement
+and as affected and interpreted (other than by way of amendment) by the
+Amendatory Agreement.
+
+      "Claim Costs" has the meaning set forth in Section 1.2.5 at this
+Agreement.
+
+      "Final PE Recoveries" means amounts which either TPH or BFH have recovered
+from PE in respect of PE Indemnification Claims and as to which any dispute with
+PE has been finally resolved by arbitration, agreement or the preclusive effect
+of any statutory, contractual or equitable statute of limitation or time bar.
+
+      "GSC" has the meaning set forth in Section 4.9 of this Agreement.
+
+
+                                      -17-
+<PAGE>
+
+      "Indemnification Claim" means an Indemnification Re-Allocation Claim and a
+PE Indemnification Claim.
+
+      "Indemnification Re-Allocation Claim" means a claim which one party has
+against the other Party, the sole remedy for which is re-allocation of Final PE
+Recoveries under Article 2 of this Agreement, to assert a claim (or a portion of
+a claim) which would be assertable against PE as a PE Indemnification Claim but
+for the fact that such assertion is precluded by a Maximum Claim Limitation. A
+claim which is precluded from assertion against PE by any other bar, including,
+without limitation, any statutory, contractual or equitable statute of
+limitation or time bar, shall not constitute an Indemnification Re-Allocation
+Claim. A Potential Indemnification Re-Allocation Claim shall constitute an
+Indemnification Re-Allocation Claim except as otherwise provided in Section
+2.2.3 of this Agreement.
+
+      "Intercompany Indemnity Re-Allocation Account" has the meaning set forth
+in Section 2.1.2 of this Agreement.
+
+      "Maximum PE Claim Limitation" means, with respect to any claim for
+indemnification that would otherwise be a PE Indemnification Claim, the
+limitation on the aggregate amount of claims of that category for which PE is
+required to provide indemnification under Article 5 of the Thrifty Agreement
+that is applicable under section 5.5 of the Thrifty Agreement (as made
+applicable to the Big 5 Agreement by Section 5.5(b) thereof).
+
+      "MCSC" has the meaning set forth in Section 4.9 of this Agreement.
+
+      "Maximum Re-Allocation Claim Amount" has the meaning set forth in Section
+2.1.6 of this Agreement.
+
+      "Minimum PE Claim Amount" means the amount of $1,500,000 specified in
+Section 5.5(a) of the Thrifty Agreement and Section 5.5(a)(i) of the Big 5
+Agreement (in each case, as amended by Section 4(d) of the Amendatory Agreement)
+as the minimum aggregate amount of PE Indemnification Claims which must be
+exceeded before PE is required to indemnify either TPH under Article 5 of the
+Thrifty Agreement or UMC under Article 5 of the Big 5 Agreement.
+
+      "Party" means either TPH or UMC as a party to this Agreement.
+
+      "PE" means Pacific Enterprises, a California corporation.
+
+      "PE Indemnification Claim" means a claim arising against PE either (i) by
+TPH under Article 5 of the Thrifty Agreement or (ii) by UMC under Article 5 of
+the Big 5 Agreement, but
+
+
+                                      -18-
+<PAGE>
+
+does not, under either clause (i) or clause (ii) of this definition, include an
+Indemnification Re-Allocation Claim.
+
+      "Potential Indemnification Re-Allocation Claim" means a claim (or a
+portion of a claim): (i) the assertion of which against PE is potentially
+precluded by a Maximum PE Claim Limitation as a result of the aggregate amount
+of all other PE Indemnification Claims of TPH and UMC which are subject to the
+same applicable Maximum PE Claim Limitation and which are pending against PE and
+being disputed by it at the time the status of such claim is required to be
+determined under Article 2 of this Agreement; but (ii) which has not by then
+become definitively precluded by such Maximum PE Claim Limitation because the
+final resolution of much pending PE Indemnification Claims has not yet occurred.
+However: (a) no such claim (or portion of a claim) is a Potential
+Indemnification Re-Allocation Claim during any period when it is in fact being
+asserted against PE; and (b) no claim of TPH arising under Section 5.2(c) of the
+Thrifty Agreement shall constitute a Potential Indemnification Re-Allocation
+Claim.
+
+      "Preserved UMC Claims" bee the meaning set forth in Section 1.5.2 of this
+Agreement.
+
+      "Principal Lones" has the meaning set forth in Section 1.2.5 of this
+Agreement.
+
+      "Re-Allocable Claim" has the meaning set forth in Section 2.3.1 of this
+Agreement.
+
+      "Thrifty Agreement" means the Purchase and Sale Agreement dated as of May
+22, 1992 by and between TPH and PE, as amended (including pursuant to the
+Amendatory Agreement) through and including the date of this Agreement and as
+affected and interpreted (other than by way of amendment) by the Amendatory
+Agreement.
+
+      "TPI" means Thrifty PayLess, Inc. (formerly Thrifty Holdings, Inc.), a
+California corporation.
+
+
+</TEXT>
+</DOCUMENT>

@@ -1,0 +1,1646 @@
+<DOCUMENT>
+<TYPE>EX-10.1
+<SEQUENCE>7
+<FILENAME>v92885exv10w1.txt
+<DESCRIPTION>EXHIBIT 10.1
+<TEXT>
+<PAGE>
+
+                                                                    EXHIBIT 10.1
+
+
+
+                             SUBSCRIPTION AGREEMENT
+
+
+                                 by and between
+
+
+                               Vital Living, Inc.
+
+
+                                       and
+
+
+                                 SkyePharma PLC
+
+
+                           Dated as of August 20, 2003
+<PAGE>
+                                TABLE OF CONTENTS
+
+<TABLE>
+<S>   <C>                                                                    <C>
+1.    Certain Filings......................................................    1
+2.    Purchase and Sale of Securities; Closing.............................    2
+      2.1   Authorization of Preferred Shares..............................    2
+      2.2   Purchase and Sale..............................................    2
+      2.3   The Closing....................................................    2
+      2.4   Delivery of Convertible Preferred Shares.......................    2
+      2.5   Delivery of the Registration Rights Agreement..................    2
+3.    Representations and Warranties of the Corporation....................    3
+      3.1   Organization Standing and Power................................    3
+      3.2   Authorization of Preferred Shares..............................    3
+      3.3   Authorization of Reserved Common Shares........................    3
+      3.4   Capitalization.................................................    4
+      3.5   Authority......................................................    5
+      3.6   No Undisclosed Liabilities.....................................    6
+      3.7   Deferred Compensation..........................................    6
+      3.8   No Changes.....................................................    7
+      3.9   Taxes..........................................................    8
+      3.10  Title to Properties; Absence of Liens and Encumbrances;
+            Condition of Equipment and Inventory...........................    8
+      3.11  Intellectual Property..........................................    9
+      3.12  Agreements, Contracts and Commitments..........................    9
+      3.13  Interested Party Transactions..................................   11
+      3.14  Governmental Authorization.....................................   11
+      3.15  Litigation.....................................................   12
+      3.16  Brokers' and Finders' Fees.....................................   12
+      3.17  Employee Benefit Plans and Compensation........................   12
+      3.18  Environmental Matters..........................................   13
+      3.19  Insurance......................................................   14
+      3.20  Compliance with Laws...........................................   14
+      3.21  Disclosure.....................................................   14
+      3.22  Stock Exchange Documents; Corporation Financial
+            Statements; Other Representations..............................   14
+      3.23  Acknowledgement Regarding Securities...........................   15
+      3.24  Agreements Regarding Confidential Information,
+            Proprietary Information and Intellectual Property..............   15
+      3.25  Registration Rights............................................   15
+      3.26  Rights of First Refusal; Voting and Registration Rights........   16
+      3.27  Issuances Exempt...............................................   16
+      3.28  No Integrated Offering.........................................   16
+      3.29  Securities Offerings...........................................   17
+      3.30  Investment Company Act.........................................   17
+      3.31  Nevada Corporate Statutes......................................   17
+      3.32  Use of Proceeds................................................   18
+4.    Representations and Warranties of the Purchaser......................   18
+</TABLE>
+<PAGE>
+<TABLE>
+<S>   <C>                                                                    <C>
+      4.1   Due Organization...............................................   18
+      4.2   Authorization; Execution and Delivery of Agreement.............   18
+      4.3   No Consent or Approval Required................................   18
+      4.4   Brokers' and Finders' Fees.....................................   18
+      4.5   Access to Information..........................................   18
+      4.6   Acquisition For Own Account....................................   19
+      4.7   Accredited Investor............................................   19
+5.    Conditions to Obligations of the Purchaser at the Closing
+      under this Agreement.................................................   19
+      5.1   Corporate Proceedings; Consents; Etc...........................   20
+      5.2   Blue Sky Matters...............................................   20
+      5.3   Registration Rights Agreement..................................   20
+      5.4   Merger Agreement...............................................   20
+      5.5   Filings and Documents..........................................   20
+      5.6   Regulatory Approvals...........................................   20
+      5.7   Representations, Warranties and Covenants......................   21
+      5.8   No Litigation..................................................   21
+      5.9   No Prohibition.................................................   21
+      5.10  Opinion of Counsel.............................................   21
+6.    Conditions to Obligations of Corporation at the Closing
+      under this Agreement.................................................   21
+      6.1   Representations and Warranties.................................   21
+      6.2   Registration Rights Agreement..................................   21
+      6.3   No Litigation..................................................   22
+      6.4   No Prohibition.................................................   22
+7.    Covenants ...........................................................   22
+      7.1   Insurance......................................................   22
+      7.2   Ongoing Filing Requirements....................................   22
+      7.3   Public Disclosure of Transactions..............................   22
+      7.4   Information Rights.............................................   22
+      7.5   Nevada Corporate Statutes......................................   24
+8.    Indemnification; Survival............................................   24
+      8.1   Indemnification by the Corporation.............................   24
+      8.2   Indemnification by the Purchaser...............................   24
+      8.3   Procedures Relating to Third Party Claims......................   24
+      8.4   Survival of Representations, Warranties and Agreements.........   25
+9.    Expenses.............................................................   25
+10.   Notices..............................................................   25
+11.   Successors and Assigns...............................................   27
+12.   Amendments...........................................................   27
+13.   Entire Agreement.....................................................   27
+14.   Termination..........................................................   27
+15.   Counterparts.........................................................   27
+16.   Headings.............................................................   27
+17.   Governing Law; Submission to Jurisdiction; Selection of Forum........   28
+</TABLE>
+
+<PAGE>
+                               VITAL LIVING, INC.
+
+                             SUBSCRIPTION AGREEMENT
+
+            SUBSCRIPTION AGREEMENT (this "Agreement") dated as of August 20,
+2003 by and between Vital Living, Inc., a Nevada corporation (the
+"Corporation"), and SkyePharma PLC, a company incorporated under the laws of
+England and Wales (the "Purchaser").
+
+            WHEREAS, the Purchaser will acquire 14,204,548 shares of the
+Corporation's Common Stock pursuant to the merger of e-nutriceuticals, Inc.
+("ENI") with the Corporation (the "Merger"), subject to the terms and conditions
+set forth in the Agreement and Plan of Merger (the "Merger Agreement") between
+the Corporation, VLEN Acquisition Corp., Inc., a wholly-owned subsidiary of the
+Corporation, and ENI, dated as of the date hereof;
+
+            WHEREAS, the Purchaser wishes to purchase from the Corporation, and
+the Corporation wishes to sell to the Purchaser, 1,000,000 shares of the
+Corporation's Series D Convertible Preferred Stock, at a price of US$1.00 per
+share of Convertible Preferred Stock, subject to the terms and conditions set
+forth herein; and
+
+            WHEREAS, the Purchaser and the Corporation are entering into this
+Agreement to provide for such purchase and sale and to establish various rights
+and obligations in connection therewith.
+
+            NOW, THEREFORE, in consideration of the mutual promises and
+covenants contained herein, and other good and valuable consideration, the
+receipt, sufficiency and adequacy of which are hereby acknowledged, the parties
+hereto hereby agree as follows:
+
+1.    CERTAIN FILINGS
+
+            The Corporation has filed with the Secretary of State of the State
+of Nevada (a) the Amended and Restated Articles of Incorporation of the
+Corporation in the form of EXHIBIT A attached hereto (the "Articles of
+Incorporation"), pursuant to which the Board of Directors of the Corporation is
+authorized to establish a series of preferred stock consisting of 1,000,000
+shares, par value $0.001 per share, to be designated as Series D Convertible
+Preferred Stock of the Corporation (the "Convertible Preferred Stock") and (b) a
+Certificate of Designations, Preferences and Relative, Participating, Optional
+or Other Special Rights of Series D Convertible Preferred Stock of the
+Corporation, in the form of EXHIBIT B attached hereto (the "Certificate of
+Designations"), designating the voting powers, designations, preferences and
+other special rights, and qualifications, limitations and restrictions of the
+Convertible Preferred Stock.
+
+
+                                       1
+<PAGE>
+2.    PURCHASE AND SALE OF SECURITIES; CLOSING
+
+            2.1   Authorization of Preferred Shares
+
+            On the terms and subject to the conditions hereof the Corporation
+has authorized the issuance of an aggregate of 1,000,000 shares of Convertible
+Preferred Stock (the "Preferred Shares") and has authorized the reservation of
+that number of shares of common stock of the Corporation (the "Common Stock")
+which will be issuable upon conversion of the Preferred Shares (the "Reserved
+Common Shares").
+
+            2.2   Purchase and Sale
+
+            At the Closing (as defined herein), upon the terms and subject to
+the conditions hereinafter set forth, the Corporation will sell to the Purchaser
+and the Purchaser shall purchase from the Corporation, one million newly-issued
+shares of Convertible Preferred Stock at a purchase price of $1.00 per share and
+$1,000,000 in the aggregate.
+
+            2.3   The Closing
+
+            The closing (the "Closing") hereunder with respect to the Preferred
+Shares will take place at the offices of Becker Glynn Melamed & Muffly LLP, New
+York, New York on the date of the execution of this Agreement, subject to the
+prior satisfaction or waiver of all conditions set forth in Sections 5 and 6
+hereof (other than any such conditions which, by their terms, cannot be
+satisfied until the Closing), or at such other time and place as the Corporation
+and the Purchaser may agree. The date on which the Closing occurs is referred as
+to the "Closing Date".
+
+            2.4   Delivery of Convertible Preferred Shares
+
+            At the Closing, the Corporation shall deliver to the Purchaser a
+stock certificate representing one million shares of Convertible Preferred
+Stock, registered in the name of the Purchaser, or at the direction of the
+Purchaser, in the name of one of its affiliates, and dated the Closing Date,
+against payment in full of the Purchase Price (defined below) to be satisfied by
+receipt by the Corporation of a certified or official bank check payable to the
+Corporation, or a wire transfer of immediately available funds, to an account
+designated by the Corporation at least one business day prior to the Closing
+Date of $1,000,000 (the "Purchase Price").
+
+            2.5   Delivery of the Registration Rights Agreement
+
+            At the Closing, the Corporation and the Purchaser shall deliver to
+the other duly executed copies of even date herewith of the Registration Rights
+Agreement, by and between the Corporation and the Purchaser, in the form
+attached hereto as EXHIBIT C (the "Registration Rights Agreement").
+
+
+                                       2
+<PAGE>
+3.    REPRESENTATIONS AND WARRANTIES OF THE CORPORATION
+
+            For the purpose of inducing the Purchaser to enter into this
+Agreement and to approve the Merger contemplated in the Merger Agreement, the
+Corporation represents and warrants to the Purchaser subject to the exceptions
+specifically disclosed in the disclosure schedule, set forth as Exhibit D hereto
+(referencing the appropriate section number) supplied by the Corporation (the
+"Disclosure Schedule"), as follows:
+
+            3.1   Organization Standing and Power
+
+            The Corporation is a corporation duly organized, validly existing
+and in good standing under the laws of Nevada. The Corporation has the corporate
+power to own its properties and to carry on its business as now being conducted
+and is duly qualified to do business and is in good standing in Arizona and each
+other jurisdiction in which the failure to be so qualified would have a material
+adverse effect on the ability of Corporation to consummate the transactions
+contemplated hereby.
+
+            3.2   Authorization of Preferred Shares
+
+            The issuance, sale and delivery of the Preferred Shares have been
+duly authorized by all requisite corporate action of the Corporation; and the
+Preferred Shares have been duly authorized and duly reserved for issuance
+pursuant to this Agreement, and when issued, sold and delivered in accordance
+with the terms of this Agreement and the Certificate of Designations, the
+Preferred Shares will be validly issued and outstanding, fully paid and
+nonassessable and will not create or vest any preemptive or other similar
+rights, or cause any adjustment in the number of securities issuable pursuant
+to, or the conversion or exercise price of, any outstanding rights to purchase,
+acquire or subscribe to shares in the Corporation or securities convertible into
+shares of the Corporation by any of the beneficial holders of shares of the
+Corporation or any securities convertible into, or exercisable for, shares of
+the Corporation, and will be free and clear of all liens, pledges, charges,
+claims, security interests or other encumbrances of any sort ("Liens").
+
+            3.3   Authorization of Reserved Common Shares
+
+            The Reserved Common Shares have been duly authorized and duly
+reserved for issuance upon conversion of the Preferred Shares. When and if
+issued, sold and delivered in accordance with the terms of the Certificate of
+Designations, the Reserved Common Shares will be duly authorized, validly issued
+and outstanding, fully paid and nonassessable and will not create or vest any
+preemptive or other similar rights, or cause any adjustment in the number of
+securities issuable pursuant to, or the conversion or exercise price of, any
+outstanding rights to purchase, acquire or subscribe to shares in the
+Corporation or securities convertible into shares of the Corporation by any of
+the beneficial holders of shares of the Corporation or any securities
+convertible into, or exercisable for, shares of the Corporation, and will be
+free and clear of all Liens.
+
+
+                                       3
+<PAGE>
+            3.4   Capitalization
+
+            (a) The authorized capital stock of the Corporation consists solely
+      of 100,000,000 shares of Common Stock, par value $0.001 per share (the
+      "Common Stock"), of which 21,267,116 shares are issued and outstanding,
+      and 50,000,000 shares of Preferred Stock, par value $0.001 per share
+      ("Preferred Stock"), of which 5,592,488 shares are issued and outstanding.
+      All of the outstanding shares of Common Stock and Preferred Stock of the
+      Corporation have been duly authorized, validly issued, fully paid and
+      non-assessable and are not subject to preemptive rights.
+
+            (b) Section 3.4(b) of the Disclosure Schedule sets forth the capital
+      structure of the Corporation (computed without taking into account the
+      full-ratchet anti-dilution adjustments for the warrants issued to Stuart
+      Benson (i) which will be cancelled and of no further force and (ii) in
+      place of which a finite number of warrants shall be established as set
+      forth in Section 3.4(c) of the Disclosure Schedule, as of the Effective
+      Time as defined in the Merger Agreement). Except as set forth in Section
+      3.4(b) of the Disclosure Schedule there are no (i) outstanding warrants,
+      options, agreements, convertible securities or other commitments or
+      instruments pursuant to which the Corporation is or may become obligated
+      to issue or sell any shares of capital stock or other securities of the
+      Corporation, (ii) equity interests, stock appreciation rights, phantom
+      stock, profit participation rights or other equity or equity derivative
+      security of any kind of the Corporation, (iii) preemptive or similar
+      rights to purchase or otherwise acquire shares of capital stock of the
+      Corporation pursuant to any provision of law, the Articles of
+      Incorporation or Bylaws of the Corporation or any agreement to which the
+      Corporation is party or otherwise, (iv) obligation (contingent or
+      otherwise) of the Corporation to purchase, redeem or otherwise acquire any
+      shares of its capital stock or any interest therein or to pay any dividend
+      or make any other distribution in respect thereof or (v) voting trusts,
+      voting agreements, proxies or other agreements or instruments with respect
+      to the voting of the Corporation's Common Stock or other securities to
+      which the Corporation is a party, or to the best knowledge of the
+      Corporation, among or between any individual, corporation, partnership,
+      limited liability company, joint venture association, joint-stock company,
+      trust, unincorporated organization or government or other agency or
+      political subdivision thereof (any "Persons") other than the Corporation.
+
+            (c) Section 3.4(c) of the Disclosure Schedule sets forth the
+      post-merger capital structure of the Corporation, on a fully diluted
+      basis, as it will exist upon consummation of the Closing. Upon
+      consummation of the Closing, the Corporation will have 54,965,726 shares
+      of Common Stock issued and outstanding and 6,592,488 shares of Preferred
+      Stock issued and outstanding. If all of the shares of Common Stock
+      issuable after consummation of the Merger Agreement and assuming the
+      conversion of all securities convertible at any time into shares of Common
+      Stock and the exercise of all options or warrants or other rights to
+      purchase or receive shares of the Common Stock, whether or not
+
+
+                                       4
+<PAGE>
+      immediately exercisable, as described in Section 3.4(c) of the Disclosure
+      Schedule, were issued, the Corporation would have 81,379,212 shares of
+      Common Stock issued and outstanding, not including the Contingent Equity
+      Issuances (as defined in Section 3.4(b) of the Disclosure Schedule) and
+      options exercisable into 600,000 shares of Common Stock under the
+      Christopher's Original Formulas, Inc. incentive compensation arrangements.
+      Upon the purchase and sale of the Preferred Shares described herein, in
+      combination with the shares of Common Stock to be acquired by the
+      Purchaser pursuant to the Merger Agreement, the Purchaser will hold at
+      least 18.68% of the fully diluted Common Stock, assuming for purposes of
+      this Section 3.4(c) the conversion of all securities convertible at any
+      time into shares of Common Stock and the exercise of all options or
+      warrants or other rights to purchase or receive shares of the Common
+      Stock, whether or not immediately exercisable, as set forth in the third
+      sentence of this paragraph. It shall not be a breach of this Section
+      3.4(c) if the number of shares of Common Stock listed in the third
+      sentence of this paragraph is inaccurate up to a maximum of 100,000 shares
+      of Common Stock in the aggregate.
+
+            (d) Except for its ownership of 100% of the capital stock of Nature
+      Systems Inc. and VLEN Acquisition Corp., Inc. and 100% of the limited
+      liability company interests of MAF BioNutritionals, LLC (the
+      "Subsidiaries"), the Corporation does not own and has not owned any
+      interest, beneficially or of record, in any corporation, partnership,
+      joint venture or organization, whether incorporated or unincorporated.
+
+            3.5   Authority
+
+            The Corporation has all requisite power and authority to enter into
+this Agreement, the Registration Rights Agreement, the Merger Agreement and the
+Assignment and Assumption Agreement executed on the date hereof by ENI, the
+Purchaser and the Corporation (collectively, the "Transaction Agreements"), as
+applicable, and to consummate the transactions contemplated hereby and thereby.
+The execution and delivery of the Transaction Agreements and the consummation of
+the transactions contemplated thereby have been duly authorized by all necessary
+corporate action on the part of the Corporation. The Corporation's Board of
+Directors has duly approved the Transaction Agreements, as applicable. This
+Agreement has been duly executed and delivered, and the other Transaction
+Agreements, when delivered, will have been duly executed and delivered by the
+Corporation and constitute valid and binding obligations of the Corporation,
+enforceable in accordance with their terms except as such enforceability may be
+limited by principles of public policy and subject to the laws of general
+application relating to bankruptcy, insolvency and the relief of debtors and
+rules of law governing specific performance, injunctive relief or other
+equitable remedies. The execution and delivery of the Transaction Agreements by
+the Corporation and the consummation of the transactions contemplated thereby do
+not conflict with, or result in any violation of, or default under (with or
+without notice or lapse of time, or both), or give rise to a right of
+termination, cancellation, modification or acceleration of any obligation or
+loss of any benefit under (any such event, a "Conflict") (i) any provision of
+
+
+                                       5
+<PAGE>
+the Articles of Incorporation of the Corporation or the Subsidiaries, as
+amended, or (ii) any material mortgage, indenture, lease, contract or other
+material agreement or instrument applicable to the Corporation or the
+Subsidiaries or its or their properties or assets. No consent, waiver, approval,
+order or authorization of, or registration, declaration or filing with, any
+court, administrative agency or commission or other federal, state, county,
+local or foreign governmental authority, instrumentality, agency or Commission
+("Governmental Entity") or any third party or any shareholder or shareholders of
+the Corporation, including a party to any agreement with the Corporation or the
+Subsidiaries (so as not to create or cause any Conflict), is required by or with
+respect to the Corporation or the Subsidiaries in connection with the execution
+and delivery of the Transaction Agreements or the consummation of the
+transactions contemplated thereby (including in order so that the securities
+issued by the Corporation pursuant to the Transaction Agreements shall be free
+and clear of any restrictions imposed on the Purchaser under the laws of Nevada
+or any other statute that are not imposed generally upon the holders of each
+security and that the Purchaser shall have available to it all rights and
+privileges of the securities which any other stockholder of the Corporation
+could exercise) except for such consents, waivers, approvals, orders,
+authorizations, registrations, declarations, and filings as may be required
+under applicable securities laws thereby.
+
+            3.6   No Undisclosed Liabilities
+
+            Except as set forth in Section 3.6 of the Disclosure Schedule, to
+the best knowledge of the Corporation, except for obligations incurred in the
+ordinary course of business which are not material and not required under U.S.
+generally accepted accounting principles ("GAAP") to be set forth or reflected
+on a balance sheet or the notes thereto, neither the Corporation nor the
+Subsidiaries have any liability, indebtedness, obligation, expense, claim,
+deficiency, guaranty or endorsement of any type, whether accrued, absolute,
+contingent, matured, unmatured or other (whether or not required to be reflected
+in financial statements in accordance with GAAP), which individually or in the
+aggregate, (i) has not been reflected in the Corporation's financial statements
+as filed in the Corporation's Annual Report on Form 10-K for the fiscal year
+ended December 31, 2002 (the "Annual Report") and the Corporation's Quarterly
+Report on Form 10-Q for the three months ended March 31, 2003 (the "Quarterly
+Report"), or (ii) has not been specifically described in this Agreement and
+specifically identified herein as not being included in such financial
+statements.
+
+            3.7   Deferred Compensation
+
+            Other than Brad Edson, Stuart Benson, Robert Scott and Jim Jepson,
+there are no employees, directors and consultants who are eligible for any
+deferred compensation, bonuses, profit participation or expenses payable to the
+employee, director or consultant. No compensation is owed by the Corporation or
+the Subsidiaries to such individuals or to any other employees, directors or
+consultants of the Corporation or the Subsidiaries other than ordinary payroll
+payable by the Corporation at the end of each pay period. Additionally, each of
+the individuals set forth above are eligible by the terms of their employment
+agreements to participate in a plan allocating 6% of the
+
+
+                                       6
+<PAGE>
+Corporation's pre-tax profit, if and when such a plan is adopted by the
+Corporation's Board of Directors.
+
+            3.8   No Changes.
+
+            Except as set forth in Section 3.8 of the Disclosure Schedule, since
+June 30, 2003, neither the Corporation nor any Subsidiary has suffered any
+change or development which has had a material adverse effect or has conducted
+their respective businesses other than in the ordinary and usual course
+consistent with past practices and has not:
+
+            (a) sold, leased, transferred or otherwise disposed of any of the
+      assets (other than dispositions in the ordinary course of business
+      consistent with past practices);
+
+            (b) terminated or amended in any material respect any material
+      contract or lease to which the Corporation or any Subsidiary is a party or
+      to which the Corporation or any Subsidiary is bound or to which the
+      Corporation's or any Subsidiary's properties are subject;
+
+            (c) suffered any loss, damage or destruction, whether or not covered
+      by insurance, which has had a material adverse effect;
+
+            (d) made any change in the accounting methods or practices the
+      Corporation or any Subsidiary follows, whether for general, financial or
+      tax purposes;
+
+            (e) incurred any liabilities (other than in the ordinary course of
+      business or contractual liabilities) which, individually or in the
+      aggregate, have had a material adverse effect;
+
+            (f) incurred, created or suffered to exist any Liens (other than
+      non-material Liens) on the Corporation's or any Subsidiary's assets;
+
+            (g) increased the compensation payable, or to become payable, to any
+      of the Corporation's or any Subsidiary's officers or employees or
+      increased any bonus, severance, accrued vacation, insurance, pension or
+      other employee benefit plan, payment or arrangement made by the
+      Corporation or any Subsidiary for or with any such officers or employees
+      out of the ordinary course of business;
+
+            (h) suffered any labor dispute, strike, or other work stoppage;
+
+            (i) made or obligated the Corporation or any Subsidiary to make any
+      capital expenditures in excess of $50,000 individually;
+
+            (j) entered into any contract or other agreement requiring the
+      Corporation or any Subsidiary to make payments in excess of $50,000
+      individually;
+
+
+                                       7
+<PAGE>
+            (k) other than as disclosed in the Registration Statement on Form
+      SB-2/A of the Corporation filed on July 22, 2003 (the "Registration
+      Statement"), paid any dividends, whether in cash or property, on account
+      of, or repurchased any of, the Common Stock; or
+
+            (l) entered into any agreement to do any of the foregoing.
+
+            3.9   Taxes
+
+            The Corporation and each Subsidiary have filed all Tax Returns and
+paid all Taxes shown thereon to be due, if any, that are required to have been
+filed on or before the Closing with appropriate federal, state, foreign, county
+and local governmental agencies or instrumentalities, except where the failure
+to do so would not have a material adverse effect upon the business of the
+Corporation or any Subsidiary. As of the date hereof, there are not pending or,
+to the best knowledge of the Corporation threatened, any audits, examinations,
+investigations or other proceedings in respect of Taxes or Tax matters. There
+are not, to the best knowledge of the Corporation, any unresolved questions or
+claims concerning the Corporation's Tax liability that are reasonably likely to
+have a material adverse effect on the business of the Corporation. Neither the
+Corporation nor any Subsidiary has any liability with respect to any income,
+payroll, withholding, franchise or similar Taxes.
+
+            As used in this Agreement, (i) the term "Tax" (including, with
+correlative meaning, the terms "Taxes" and "Taxable") includes all federal,
+state and local income, profits, franchise, gross receipts, environmental,
+customs duty, capital stock, severances, stamp, payroll, withholding, excise,
+production, value added, occupancy and other taxes, duties or assessments of any
+nature whatsoever, together with all interest, penalties and additions imposed
+with respect to such amounts and any interest in respect of such penalties and
+additions, and (ii) the term "Tax Return" includes all returns and reports
+(including elections, declarations, disclosures, schedules, estimates and
+information returns) required to be supplied to a Tax authority relating to
+Taxes.
+
+            3.10  Title to Properties; Absence of Liens and Encumbrances;
+                  Condition of Equipment and Inventory
+
+            (a) The Registration Statement contains a true, accurate and
+      complete list of all real property currently leased by the Corporation and
+      any Subsidiary, the name of the lessor, the date of the lease and each
+      amendment thereto and the aggregate annual rental and/or other fees
+      payable under any such lease. All such leases are in full force and
+      effect, are valid and effective in accordance with their respective terms,
+      and there is not, under any of such leases, any existing default or event
+      of default (or event which with notice or lapse of time, or both, would
+      constitute a default). Neither the Corporation nor any of its Subsidiaries
+      owns any real property.
+
+            (b) Each of the Corporation and the Subsidiaries has good and valid
+      title to, or, in the case of leased properties and assets, valid leasehold
+      interests in,
+
+
+                                       8
+<PAGE>
+      all of its tangible properties and assets as defined below free and clear
+      of any Liens, except (i) as reflected in the Registration Statement, (ii)
+      for liens for taxes not yet due and payable and such imperfections of
+      title, (iii) for encumbrances, if any, which are not material in
+      character, amount or extent, and which do not materially detract from the
+      value, or materially interfere with the present use, of the property
+      subject thereto or affected thereby, and (iv) all Liens on any asset of
+      the Corporation, as set forth on Section 3.10(b) of the Disclosure
+      Schedule.
+
+            3.11  Intellectual Property
+
+            Section 3.11 of the Disclosure Schedule sets forth a complete list
+of all patents or patents pending or any trademark, tradenames, service marks
+and copyrights of the Corporation and its Subsidiaries (the "Intellectual
+Property Rights" and individually, an "Intellectual Property Right"), and any
+applications therefor in respect of any of the foregoing, included in the
+Intellectual Property Rights, and specifies, where applicable, the jurisdictions
+in which each such Intellectual Property Right has been issued or registered or
+in which an application for such issuance and registration has been filed,
+including the respective registration or application numbers and the names of
+all registered owners. No claims with respect to the Intellectual Property
+Rights have been asserted against the Corporation or any Subsidiary, nor are
+threatened against the Corporation or any Subsidiary or have been asserted or
+threatened against a third party, nor is the Corporation or any Subsidiary
+aware, except as disclosed on Section 3.11 of the Disclosure Schedule, of any
+reasonable basis for any claims (i) against the use by the Corporation or any
+Subsidiary of any distribution rights, trademarks, service marks, trade names,
+trade secrets, copyrights, patents, technology, know-how or computer software
+programs and applications used in the Corporation's or any Subsidiary's business
+as currently conducted or (ii) challenging the validity, effectiveness, or
+ownership by the Corporation or any Subsidiary of any of the Intellectual
+Property Rights. All registered patents, trademarks, service marks and
+copyrights held by the Corporation and each Subsidiary are valid and subsisting.
+To the knowledge of the Corporation and its Subsidiaries, there is no
+unauthorized use, infringement or misappropriation of any of the Intellectual
+Property Rights owned by the Corporation or any Subsidiary by any third party,
+including any employee or former employee of the Corporation or any Subsidiary.
+No Intellectual Property Right or product of the Corporation or any Subsidiary
+is subject to any outstanding decree, order, judgment, or stipulation
+restricting in any manner the licensing thereof by the Corporation or any
+Subsidiary. Neither the Corporation nor any Subsidiary has entered into any
+agreement under which the Corporation or any Subsidiary is restricted from
+selling, licensing or otherwise distributing any of its products to any class of
+customers, in any geographic area, during any period of time or in any segment
+of the market other than as described in the Registration Statement.
+
+            3.12  Agreements, Contracts and Commitments.
+
+            Except as set forth in Section 3.12 of the Disclosure Schedule,
+neither the Corporation nor any of its Subsidiaries has continuing obligations
+under, is not a party to nor is it bound by:
+
+
+                                       9
+<PAGE>
+            (a) any collective bargaining agreements;
+
+            (b) any agreements or arrangements that contain any severance pay or
+      post-employment liabilities or obligations;
+
+            (c) any bonus, deferred compensation, pension, profit sharing or
+      retirement plans, or any other employee benefit plans or arrangements;
+
+            (d) any employment, sales or consulting agreement, contract or
+      commitment with an employee, individual consultant or salesperson or
+      consulting or sales agreement, contract or commitment with a firm or other
+      organization;
+
+            (e) any agreement or plan, including, without limitation, any stock
+      option plan, stock appreciation rights plan or stock purchase plan, any of
+      the benefits of which will be increased, or the vesting of benefits of
+      which will be accelerated, by the occurrence of any of the transactions
+      contemplated by the Transaction Agreements or the value of any of the
+      benefits of which will be calculated on the basis of any of the
+      transactions contemplated by the Transaction Agreements, except as
+      provided herein;
+
+            (f) any fidelity or surety bond;
+
+            (g) any lease of personal property having annual lease payments
+      individually in excess of $50,000;
+
+            (h) any agreement of indemnification or guaranty other than in the
+      ordinary course of business;
+
+            (i) any agreement, contract or commitment containing any covenant
+      limiting the freedom of the Corporation or any Subsidiary to engage in any
+      line of business or to compete with any Person;
+
+            (j) any agreement, contract or commitment relating to capital
+      expenditures and involving future payments in excess of $50,000;
+
+            (k) any agreement, contract or commitment relating to the
+      disposition or acquisition of material assets or any interest in any
+      business enterprise outside the ordinary course of the Corporation's
+      business;
+
+            (l) any purchase order or contract for the purchase of raw materials
+      involving $50,000 or more;
+
+            (m) any construction contracts;
+
+            (n) any agreement, contract or commitment, including distribution or
+      agency or sales representative agreements, with any party which, during
+      the last two fiscal years of the Corporation, accounted for, or is
+      expected to account
+
+
+                                       10
+<PAGE>
+      during the Corporation's current fiscal year, for more than five percent
+      (5%) of the Corporation's revenue or trade payables;
+
+            (o) any mortgages, indentures, loans or credit agreements, security
+      agreements or other agreements or instruments relating to the borrowing of
+      money or extension of credit.
+
+            Each of the Corporation and its Subsidiaries has not breached,
+violated or defaulted under, or received notice that it has breached, violated
+or defaulted under, any of the material terms or conditions of (i) any
+agreement, contract or commitment set forth in Section 3.12 of the Disclosure
+Schedule, or (ii) any other material agreement, contract or commitment to which
+it is a party or by which it is bound (any such agreement, contract or
+commitment, a "Contract"). Each Contract is in full force and effect and, except
+as otherwise disclosed in Section 3.12 of the Disclosure Schedule, is not
+subject to any default thereunder of which the Corporation is aware by any party
+obligated to the Corporation or any Subsidiary pursuant thereto, other than late
+payments. Each of the Corporation and its Subsidiaries has obtained all
+necessary consents, waivers and approvals of parties to any Contract as are
+required in connection with the transactions contemplated by the Transaction
+Agreements, or as are required or advisable in order to remain in effect without
+modification after the transactions contemplated by the Transaction Agreements.
+Each Contract requiring any consent, waiver or third-party approval as a result
+of the transactions contemplated by the Transaction Agreements is disclosed in
+Section 3.12 of the Disclosure Schedule. Neither the execution of the
+Transaction Agreements nor consummation of the transactions contemplated thereby
+will cause any default or breach under any Contract, including without
+limitation any key man clause in any Contract, or the acceleration of any
+payment obligation of the Corporation or any Subsidiary.
+
+            3.13  Interested Party Transactions
+
+            Except as disclosed in the section entitled "Certain Transactions
+and Related Transactions" in the Registration Statement, no officer, director or
+employee or stockholder (nor any spouse of any of such persons, or any trust,
+partnership or corporation in which any of such persons has or has had an
+interest), has or has had, directly or indirectly, (i) an interest in any entity
+which furnished or sold, or furnishes or sells, services or products that the
+Corporation or any Subsidiary furnishes or sells, or proposes to furnish or
+sell, or (ii) any interest in any entity that purchases from or sells or
+furnishes to, the Corporation or any Subsidiary any goods or services or (iii) a
+beneficial interest in any contract or agreement with the Corporation or any
+Subsidiary, other than Robert Eide, who will be receiving a portion of the
+proceeds of the compensation arrangements with HCFP Brenner Securities described
+in Section 3.16, in his capacity as a principal of Aegis Capital Corp.
+
+            3.14  Governmental Authorization
+
+            Each material consent, license, grant, permit or other authorization
+issued to the Corporation or any Subsidiary by any Governmental Entity (i)
+pursuant to which
+
+
+                                       11
+<PAGE>
+the Corporation or any Subsidiary currently operates or holds any interest in
+any of its properties or (ii) which is required for the operation of its
+business or the holding of any such interest (herein collectively called
+"Corporation Authorizations") are in full force and effect. The Corporation
+Authorizations constitute all Corporation Authorizations required to permit the
+Corporation and its Subsidiaries to operate or conduct their business or hold
+any interest in their properties or assets.
+
+            3.15  Litigation
+
+            There is no action, suit, claim or proceeding of any nature pending,
+or threatened against the Corporation or any Subsidiary, its properties or any
+of its officers or directors, in their capacities as agents of the Corporation
+or any Subsidiary. To the best knowledge of the Corporation, there is no
+investigation pending or threatened against the Corporation or any Subsidiary,
+its properties or any of its officers or directors, in their capacities as
+agents of the Corporation or any Subsidiary by or before any Governmental
+Entity. No Governmental Entity has at any time challenged or questioned the
+legal right of the Corporation or any Subsidiary to manufacture, offer or sell
+any of its products in the present manner or style thereof.
+
+            3.16  Brokers' and Finders' Fees
+
+            Other than the issuance to HCFP Brenner Securities of 1,150,000
+shares of Common Stock and $150,000 as payment for advisory services, and
+$60,000 which remains owing to HCFP Brenner Securities as payment for previously
+delivered advisory services and will be paid upon the Closing, neither the
+Corporation nor any Subsidiary has incurred, nor will it incur, directly or
+indirectly, any liability for brokerage or finders' fees or agents' commissions
+or any similar charges in connection with the Transaction Agreements or any
+transaction contemplated thereby or hereby.
+
+            3.17  Employee Benefit Plans and Compensation
+
+            (a) No employee of the Corporation or any Subsidiary is in violation
+      of any term of any employment contract, patent disclosure agreement or any
+      other contract or agreement relating to the relationship of any such
+      employee with the Corporation or any Subsidiary or any other party as a
+      result of the nature of the business presently conducted or proposed to be
+      conducted by the Corporation or any Subsidiary. Neither the Corporation
+      nor any Subsidiary has any collective bargaining agreement covering any of
+      its employees.
+
+            (b) Neither the Corporation nor any Subsidiary has any employee
+      benefit plan covering employees, whether subject to ERISA or otherwise.
+
+            (c) Neither the Corporation nor any entity which is considered one
+      employer with the Corporation under Section 4001 of ERISA or Section 414
+      of the Code has ever maintained or contributed to any employee benefit
+      plan subject to Title IV of ERISA. All contributions required to be made
+      under the terms of any plan have been timely made or have been reflected
+      on the Corporation's financial statements.
+
+
+                                       12
+<PAGE>
+
+      (d) Neither the Corporation nor any Subsidiary has any obligations for
+retiree health and life benefits under any benefit plan.
+
+      (e) The consummation of the transactions contemplated by this Agreement
+and the Transaction Agreements will not (x) entitle any employees to severance
+pay or (y) accelerate the time of payment or vesting or trigger any payment or
+funding (through a grantor trust or otherwise) of compensation or benefits
+under, increase the amount payable or trigger any other material obligation
+pursuant to, any of the Corporation's or Subsidiary's employee benefit plans.
+
+      3.18 Environmental Matters
+
+      (a) Except as would not, individually or in the aggregate, have a material
+adverse effect on the Corporation:
+
+         (i)      no notice, notification, demand, request for information,
+                  citation, summons or order has been received, no complaint has
+                  been filed, no penalty has been assessed, and no
+                  investigation, action, claim, suit, proceeding or review is
+                  pending or, to the best knowledge of the Corporation or its
+                  Subsidiaries, is threatened by any governmental entity or
+                  other Person relating to or arising out of any Environmental
+                  Law (as defined below);
+
+         (ii)     each of the Corporation and any Subsidiary is and has been in
+                  compliance with all Environmental Laws and all Environmental
+                  Permits (as defined below); and
+
+         (iii)    there are no liabilities of or relating to the Corporation or
+                  any Subsidiary of any kind whatsoever, whether accrued,
+                  contingent, absolute, determined, determinable or otherwise
+                  arising under or relating to any Environmental Law and there
+                  are no facts, conditions, situations or set of circumstances
+                  which could reasonably be expected to result in or be the
+                  basis for any such liability.
+
+      (b) "Environmental Laws" means any federal, state, local or foreign law
+(including, without limitation, common law), treaty, judicial decision,
+regulation, rule, judgment, order, decree, injunction, permit or governmental
+restriction or requirement or any agreement with any governmental authority or
+other third party, relating to human health and safety or the environment and
+arising from the use, presence, disposal, discharge or release of pollutants,
+contaminants, wastes or chemicals or any toxic, radioactive, ignitable,
+corrosive, reactive or otherwise hazardous substances, wastes or materials.
+"Environmental Permits" means, with respect to any Person, all permits,
+licenses, franchises, certificates, approvals and other similar authorizations
+of governmental
+
+
+                                       13
+<PAGE>
+   authorities relating to or required by Environmental Laws and affecting, or
+   relating in any way to, the business of such Person as currently conducted.
+
+      3.19 Insurance
+
+      The Corporation maintains insurance policies and fidelity bonds covering
+the assets, business, equipment, properties, operations, employees, officers and
+directors of the Corporation and its Subsidiaries that provide full and adequate
+coverage for its business. There is no claim by the Corporation or any
+Subsidiary pending under any of such policies or bonds as to which coverage has
+been questioned, denied or disputed by the underwriters of such policies or
+bonds. All premiums due and payable under all such policies and bonds have been
+paid and the Corporation and any Subsidiary are otherwise in material compliance
+with the terms of such policies and bonds. The Corporation has no knowledge of
+any threatened termination of, or material premium increase with respect to, any
+of such policies.
+
+      3.20 Compliance with Laws
+
+      Each of the Corporation and each Subsidiary has complied with, is not in
+violation of, and has not received any notices of violation with respect to, any
+foreign, federal, state or local statute, law or regulation.
+
+      3.21 Disclosure
+
+      Neither this Agreement nor any exhibit or schedule hereto nor any
+statement, document, list or certificate delivered or shown to Purchaser
+pursuant hereto or pursuant to any request therefor, contains any untrue
+statement of a material fact or omits to state a material fact necessary in
+order to make the statements contained herein and therein, in light of the
+circumstances in which they were made, not misleading. Nothing contained in this
+Section 3.21 shall diminish or derogate from any of the other representations
+and warranties of the Corporation contained in this Section 3.
+
+      3.22 Stock Exchange Documents; Corporation Financial Statements; Other
+Representations
+
+      The Corporation has timely filed all reports, schedules, forms, statements
+and other documents required to be filed by it with the United States Securities
+and Exchange Commission (the "SEC") pursuant to the reporting requirements of
+the Securities Exchange Act of 1934, as amended, and the rules promulgated
+thereunder, (the "Exchange Act"), (all of the foregoing filed prior to the date
+hereof and all exhibits included therein and financial statements and schedules
+thereto and documents incorporated by reference therein, being hereinafter
+referred to herein as the "Exchange Documents"). The Corporation has furnished
+to the Purchaser true and complete copies of the Annual Report and the Quarterly
+Report. As of their respective filing dates, the Exchange Documents complied in
+all material respects with the requirements of the Exchange Act and none of the
+Exchange Documents contained any untrue statement of a material fact or omitted
+to state a material fact required to be stated therein or necessary to make the
+statements made therein, in light of the circumstances in which they were
+
+
+                                       14
+<PAGE>
+
+made, not misleading, except to the extent corrected by a subsequently filed
+document with the SEC. The financial statements of Corporation, including the
+notes thereto, included in the Exchange Documents comply as to form in all
+material respects with applicable accounting requirements in effect at the time
+of filing of such Exchange Documents and with the published rules and
+regulations of the SEC with respect thereto in effect at the time of filing of
+such Exchange Document, and have been prepared in accordance with GAAP
+consistently applied (except as may be indicated in the notes thereto) and
+present fairly the consolidated financial position of Corporation at the dates
+thereof and of its operations and cash flows for the periods then ended
+(subject, in the case of unaudited statements, to normal audit adjustments).
+There have been no material adverse changes in the business, operations, or
+financial condition of the Corporation that are not reflected in such Exchange
+Documents or that have occurred since the period covered by the most recent of
+such Exchange Documents.
+
+      3.23 Acknowledgement Regarding Securities
+
+      The Corporation acknowledges that its obligation to issue Common Stock
+upon conversion of the Preferred Shares, in accordance with the terms of this
+Agreement and the Certificate of Designations, is absolute and unconditional,
+regardless of the dilution that such issuance may have on the ownership
+interests of other stockholders of the Corporation. Taking the foregoing into
+account, the Corporation's Board of Directors has determined in its good faith
+business judgment that the issuance of the Preferred Shares hereunder and the
+consummation of the other transactions contemplated hereby are (a) in the best
+interests of the Corporation and its stockholders and (b) do not breach (with or
+without the passage of time or the giving of notice) any obligations of the
+Corporation the result of which would have, individually or in the aggregate, a
+material adverse effect on the condition (financial or otherwise), operations,
+prospects, business, assets, liabilities or earnings of the Corporation. The
+Corporation's Board of Directors has approved the terms of this Agreement and
+the Certificate of Designations and the transactions contemplated hereby and
+thereby. There are no adjustments, Liens or rights that would be triggered by
+the issuance of the Preferred Shares pursuant to agreements between the
+Corporation and any lender or holder of an equity interest or other securities
+of the Corporation.
+
+      3.24 Agreements Regarding Confidential Information, Proprietary
+Information and Intellectual Property
+
+      The Corporation has caused employees and consultants of the Corporation or
+any Subsidiary to execute and deliver such agreements with the Corporation or
+any Subsidiary with respect to non-disclosure, non-competition and assignment of
+Intellectual Property Rights that provide full and adequate coverage for the
+Intellectual Property Rights.
+
+      3.25 Registration Rights
+
+      Except as provided in the Registration Rights Agreement, and in the
+registration rights agreement, dated as of November 20, 2002, between the
+Corporation
+
+
+                                       15
+<PAGE>
+
+and the holders of the Series A Preferred Stock, copies of which have been
+previously delivered to Purchaser, the Corporation is not under any contractual
+obligation to register any of its outstanding securities.
+
+      3.26 Rights of First Refusal; Voting and Registration Rights
+
+      To the best of the Corporation's knowledge, no party has any right of
+first refusal, right of first offer, right of co-sale, preemptive right or other
+similar right regarding the Corporation's securities. There are no provisions of
+the Articles of Incorporation or the Bylaws of the Corporation, no agreements to
+which the Corporation is a party and no agreements by which the Corporation, or
+the Preferred Shares are bound, which (a) may affect or restrict the voting
+rights of the Purchaser with respect to the Preferred Shares in its capacity as
+a stockholder of the Corporation, (b) restrict the ability of the Purchaser, or
+any successor thereto or assignee or transferee thereof, to transfer the
+Preferred Shares, (c) would adversely affect the Corporation's or the
+Purchaser's right or ability to consummate the transactions contemplated by the
+Transaction Agreements or to comply with the terms of the transactions
+contemplated hereby or thereby, (d) require the vote of more than a majority of
+the Corporation's issued and outstanding Common Stock, voting together as a
+single class, to take or prevent any corporate action, other than those matters
+requiring a class vote under Nevada law, or (e) entitle any party to nominate or
+elect any director of the Corporation or require any of the Corporation's
+stockholders to vote for any such nominee or other person as a director of the
+Corporation in each case.
+
+      3.27 Issuances Exempt
+
+      All shares of Common Stock and other securities issued by the Corporation
+prior to or on the Closing Date have been issued in transactions either
+registered under the Securities Act of 1933, as amended (the "Securities Act")
+or exempt from the registration requirements under the Securities Act and all
+applicable state securities or "blue sky" laws, and in compliance with all
+applicable corporate laws. The Corporation has not offered any of its Common
+Stock or any other securities for sale, or solicited any offers to buy, any of
+the foregoing from the Corporation or otherwise approached or negotiated with
+any other Person in respect thereof in such a manner as to require registration
+under the Securities Act. No holder of any of the Corporation's capital stock
+has any rescission or pre-emptive rights.
+
+      3.28 No Integrated Offering
+
+      Neither the Corporation nor any other Person acting on the Corporation's
+behalf has directly or indirectly engaged in any form of general solicitation or
+general advertising with respect to the Preferred Shares nor have any of such
+Persons made any offers or sales of any security or solicited any offers to buy
+any security under circumstances that would require registration of the
+Preferred Shares under the Securities Act or cause this offering of Preferred
+Shares to be integrated with any prior offering of securities of the Corporation
+for purposes of the Securities Act.
+
+                                       16
+<PAGE>
+
+      3.29 Securities Offerings
+
+      Subject to the accuracy of the Purchaser's representations and warranties
+made in Section 4 hereof to the Corporation, (i) the offer, sale and issuance of
+the Preferred Shares to the Purchaser in conformity with the terms of this
+Agreement, and (ii) the issuance to the Purchaser of the Reserved Common Shares,
+each constitute or will constitute transactions exempt from the registration
+requirements of Section 5 of the Securities Act and the registration or
+qualification requirements of any applicable state securities or "blue sky"
+laws.
+
+      3.30 Investment Company Act
+
+      The Corporation is not now, and after giving effect to the sale of the
+Preferred Shares and the application of the proceeds thereof will not be,
+required to register as an "investment company" as such term is defined in the
+Investment Company Act of 1940, as amended.
+
+      3.31 Nevada Corporate Statutes
+
+            (a) The provisions of Nevada Revised Statutes 78.378-393 (the
+      "Nevada Acquisition Statute") are or have been made inapplicable to the
+      Corporation and to the Purchaser, and, after the Closing and the
+      consummation of the Merger and the other transactions contemplated by the
+      Transaction Agreements, the Purchaser shall not be an "acquiring person"
+      or hold a "controlling interest" under, and shall no way be prohibited in
+      the exercise of its rights, privileges, power or authority with respect to
+      voting any of its shares of the Corporation's capital stock, by the Nevada
+      Acquisition Statute.
+
+            (b) The provisions of Nevada Revised Statutes 78.411-444 (the
+      "Nevada Moratorium Statute") are or have been made inapplicable to the
+      Purchaser, and, after the Closing and the consummation of the Merger and
+      the other transactions contemplated by the Transaction Agreements, the
+      Purchaser shall not be an "interested stockholder" for purposes of the
+      Nevada Moratorium Statute.
+
+            (c) The securities issued by the Corporation pursuant to the
+      Transaction Agreements shall be free and clear of any restrictions imposed
+      on the Purchaser under the laws of Nevada or any other statute that are
+      not imposed generally upon the holders of each security, and the Purchaser
+      shall have available to it all rights and privileges of the securities
+      which any other stockholder of the Corporation could exercise. The
+      Corporation has taken all necessary corporate action prior to the Closing,
+      including but not limited to, amending the Articles of Incorporation and
+      Bylaws and convening any required stockholders' meetings, to effect the
+      foregoing representation and warranty contained in this Section 3.31.
+
+                                       17
+<PAGE>
+
+      3.32 Use of Proceeds
+
+      The Corporation will utilize the net proceeds from the sale of the
+Preferred Shares for general corporate purposes.
+
+4. REPRESENTATIONS AND WARRANTIES OF THE PURCHASER
+
+      The Purchaser hereby represents and warrants to the Corporation as
+follows:
+
+      4.1 Due Organization
+
+      The Purchaser is a company duly organized and validly existing under the
+laws of England and Wales.
+
+      4.2 Authorization; Execution and Delivery of Agreement
+
+      The Purchaser has all requisite power and authority to execute this
+Agreement and the Registration Rights Agreement, to perform its obligations
+hereunder and thereunder and to consummate the transactions contemplated hereby
+and thereby. The execution and delivery of this Agreement and the consummation
+of the transactions contemplated hereby have been duly authorized by all
+necessary actions on the part of the Purchaser. This Agreement has been duly
+executed and delivered by the Purchaser and this Agreement constitutes the
+legal, valid, binding and enforceable obligation of the Purchaser, subject to
+applicable bankruptcy, insolvency, moratorium or other similar laws relating to
+creditors' rights and general principles of equity.
+
+      4.3 No Consent or Approval Required
+
+      Other than as a result of the reporting requirements of the Exchange Act,
+no consent, approval, order or authorization of, or registration, declaration,
+filing with or notice to, any authority is required to be made or obtained by
+the Purchaser in order to execute or deliver this Agreement or to consummate the
+transactions contemplated hereby.
+
+      4.4 Brokers' and Finders' Fees
+
+      No broker, finder or investment banker is entitled to any brokerage,
+finder's or other fee or commission in connection with the transactions
+contemplated hereby based upon arrangements made by or on behalf of the
+Purchaser, for which the Corporation will become liable.
+
+      4.5 Access to Information
+
+      The Purchaser has had adequate opportunity to ask questions of, and
+receive answers from, the Corporation's officers, employees, agents,
+accountants, and representatives concerning the Corporation's business,
+operations, financial condition, assets, liabilities, and all other matters
+relevant to its investment in the Preferred Shares.
+
+
+                                       18
+<PAGE>
+
+The foregoing, however, does not limit or modify the representations and
+warranties of the Corporation in Section 3 of this Agreement or the right of the
+Purchaser to rely thereon.
+
+      4.6 Acquisition For Own Account
+
+            (a) The Purchaser, by reason of its business and financial
+      experience, has such knowledge, sophistication and experience in business
+      and financial matters as to be capable of evaluating the merits and risks
+      of its investment in the Preferred Shares, and is purchasing the Preferred
+      Shares hereunder for its own account, for investment and not with a view
+      to, or any present intention of, effecting a distribution of such
+      securities or any part thereof. The Purchaser acknowledges that the
+      Preferred Shares to be purchased hereunder and the shares of common stock
+      issuable upon the conversion thereof have not been registered under the
+      Securities Act, or the securities laws of any state or other jurisdiction
+      and cannot be disposed of unless they are subsequently registered under
+      the Securities Act and any applicable state laws or exemption from such
+      registration is available. Furthermore, the Purchaser acknowledges that
+      the Corporation shall place upon each certificate representing the
+      Preferred Shares and such shares of common stock, a legend substantially
+      in the following form; provided, however, that the Preferred Shares and
+      such shares of common stock will not be required to bear a legend more
+      restrictive than the legend provided for or for a longer period of time
+      than as provided in the Registration Rights Agreement.
+
+            "The securities represented by this certificate have been issued
+            without registration or qualification under the Securities Act of
+            1933, as amended (the "Securities Act"), or any applicable state
+            securities laws (the "State Acts"). Such securities may not be sold,
+            assigned, transferred or otherwise disposed of, beneficially or on
+            the records of the company, unless the securities represented by
+            this certificate have been registered or qualified under the
+            Securities Act and the applicable State Acts or an exception
+            therefrom is available."
+
+      4.7 Accredited Investor
+
+      The Purchaser is an "accredited investor" (as such term is defined in Rule
+501 of Regulation D promulgated under the Securities Act).
+
+5. CONDITIONS TO OBLIGATIONS OF THE PURCHASER AT THE CLOSING UNDER THIS
+AGREEMENT
+
+      The obligation of the Purchaser to consummate the Closing is subject to
+the satisfaction of the following conditions on or prior to the Closing:
+
+                                       19
+<PAGE>
+
+      5.1 Corporate Proceedings; Consents; Etc.
+
+      All corporate and/or other proceedings to be taken by the Corporation, its
+officers, directors and stockholders and all waivers, filings and consents to be
+obtained by the Corporation in connection with the transactions contemplated by
+the Transaction Agreements shall have been taken or obtained, other than those
+filings which must be made after the Closing.
+
+      5.2 Blue Sky Matters
+
+      All consents, approvals, qualifications and/or registrations required to
+be obtained or effected under any applicable state securities or "blue-sky" laws
+in connection with the execution and delivery of the Preferred Shares shall have
+been obtained or effected.
+
+      5.3 Registration Rights Agreement
+
+      The Registration Rights Agreement, in the form of Exhibit C attached
+hereto, shall have been executed and delivered by the Corporation.
+
+      5.4 Merger Agreement
+
+      The Merger shall have been consummated pursuant to Section 1.2 of the
+Merger Agreement.
+
+      5.5 Filings and Documents
+
+            (a) The Certificate of Designations in the form of Exhibit B hereto
+      shall have been duly authorized by the Board of Directors of the
+      Corporation, duly executed on behalf of the Corporation and filed with the
+      Secretary of State of the State of Nevada.
+
+            (b) The Corporation shall have delivered to the Purchaser a
+      certificate of the Secretary of the Corporation at the Closing certifying
+      that attached thereto is: (i) a true and complete copy of the
+      Corporation's Articles of Incorporation, as in effect at the Closing; (ii)
+      a true and complete copy of its Bylaws, as in effect at the Closing; (iii)
+      a true and complete copy of the Certificate of Designations; and (iv) a
+      true and complete copy of all resolutions duly adopted by its Board of
+      Directors (x) authorizing the execution, delivery and performance of this
+      Agreement, and (y) authorizing the consummation of the transactions
+      contemplated hereby.
+
+      5.6 Regulatory Approvals
+
+      All approvals and authorizations of, filings and registrations with, and
+notifications to, all Governmental Entities required for the consummation of the
+transactions contemplated by this Agreement shall have been obtained or made and
+shall be in full force and effect.
+
+                                       20
+<PAGE>
+
+      5.7 Representations, Warranties and Covenants
+
+      Each representation and warranty of the Corporation shall be true and
+correct in all respects as of the Closing Date (other than representations and
+warranties that expressly speak only as of a prior date); the Corporation shall
+have complied in all respects with its covenants and agreements to be performed
+at or prior to the Closing; and the Corporation shall have delivered to the
+Purchaser a certificate of the Chief Executive Officer of the Corporation in a
+form previously agreed between the parties, certifying as to the foregoing
+matters.
+
+      5.8 No Litigation
+
+      No litigation or other formal proceeding shall have been instituted or
+threatened seeking to enjoin any of the transactions contemplated hereby or
+seeking damages in respect thereof, and no injunction or temporary restraining
+order shall have been issued with respect to any of the transactions
+contemplated hereby.
+
+      5.9 No Prohibition
+
+      There shall be no federal and state statutes, laws, rules, regulations,
+codes and ordinances of any Governmental Entity in effect that prohibits the
+purchase of the Preferred Shares by the Purchaser or that would otherwise impose
+a material penalty upon the Purchaser in respect of the purchase of the
+Preferred Shares.
+
+      5.10 Opinion of Counsel
+
+      The Purchaser shall have received an opinion, dated as of the Closing
+Date, of Kelly Lytton & Vann LLP in the form attached hereto as EXHIBIT D.
+
+6. CONDITIONS TO OBLIGATIONS OF CORPORATION AT THE CLOSING UNDER THIS AGREEMENT
+
+      The obligations of the Corporation to consummate the Closing is subject to
+the satisfaction of the following conditions on or prior to the Closing:
+
+      6.1 Representations and Warranties
+
+      Each representation and warranty of the Purchaser shall be true and
+correct in all respects as of the Closing Date (other than representations and
+warranties that expressly speak only as of a prior date).
+
+      6.2 Registration Rights Agreement
+
+      The Registration Rights Agreement, in the form of Exhibit C attached
+hereto, shall have been executed and delivered by the Purchaser.
+
+                                       21
+<PAGE>
+
+      6.3 No Litigation
+
+      No litigation or other formal proceeding shall have been instituted or
+threatened seeking to enjoin any of the transactions contemplated hereby or
+seeking damages in respect thereof, and no injunction or temporary restraining
+order shall have been issued with respect to any of the transactions
+contemplated hereby.
+
+      6.4 No Prohibition
+
+      There shall be no federal and state statutes, laws, rules, regulations,
+codes and ordinances of any Governmental Entity in effect that prohibits the
+sale of the Preferred Shares by the Corporation or that would otherwise impose a
+material penalty upon the Corporation in respect of the sale of the Preferred
+Shares.
+
+7. COVENANTS
+
+      7.1 Insurance
+
+      The Corporation shall as promptly as practicable after the date hereof
+purchase professional liability, errors and omissions, general liability,
+property and casualty and business interruption insurance as the Board of
+Directors deems adequate. The Corporation shall also use its best efforts to
+purchase any other type of insurance reasonably requested by the Purchaser. Such
+insurance policies shall provide full and adequate coverage for all normal risks
+incident to the business of the Corporation and its directors, officers and
+other personnel, properties and assets, and shall be in character and amount at
+least equivalent to that carried by Persons engaged in similar businesses and
+subject to the same or similar perils or hazards.
+
+      7.2 Ongoing Filing Requirements
+
+      Corporations shall file any Exchange Documents required to be filed when
+and as required by the Securities and Exchange Commission.
+
+      7.3 Public Disclosure of Transactions
+
+      Neither the Corporation nor the Purchaser shall, without the prior consent
+of the other party, directly or indirectly issue any public disclosure with
+respect to the Transaction Agreements or the investment by the Purchaser
+pursuant to, or the other transactions contemplated by, the Transaction
+Agreements, except as may be required by applicable law (or under the rules and
+regulations of any securities exchange on which the Purchaser's capital stock is
+listed), in which case the Corporation and the Purchaser, as the case may be,
+shall issue any required statement only after consulting with the other party
+and furnishing such disclosure to the other party prior to such consultation.
+
+      7.4 Information Rights
+
+            (a) From the date hereof and thereafter for so long as the Purchaser
+      owns any Preferred Shares issued hereunder the Corporation shall, and
+      shall cause
+
+                                       22
+<PAGE>
+
+      each Subsidiary to, afford to the Purchaser, the affiliates of the
+      Purchaser and each of their respective officers, directors, employees,
+      advisors, counsel and other authorized representatives (collectively the
+      "Representatives"), during normal business hours, reasonable access, upon
+      reasonable advance notice, to all of the books, records and properties of
+      the Corporation and any Subsidiary or future subsidiaries and all officers
+      and employees of the Corporation and any Subsidiary or future
+      subsidiaries. The Purchaser shall keep confidential information obtained
+      by it in connection with any such inspection, except that the Purchaser
+      shall be permitted to disclose the information relating to the
+      Corporation's business (i) to such of its representatives as need to know
+      such information relating to the Corporation's business for the sole
+      purpose of evaluating the business of the Corporation, provided such
+      Persons are informed of the confidential nature of the information
+      relating to the Corporation's business and the restrictions imposed
+      hereby; (ii) to the extent required by law, rule or regulation or legal
+      process; (iii) to the extent such information relating to the
+      Corporation's or any Subsidiary's or future subsidiary's breach is or
+      becomes publicly available other than as a result of a breach of this
+      Section 7.4(a); or (iv) to the extent the Corporation shall have consented
+      to such disclosure.
+
+            (b) From the Closing Date and thereafter for so long as the
+      Purchaser owns at least ten percent (10%) of the Preferred Shares issued
+      pursuant to this Agreement or ten percent (10%) of the Reserved Common
+      Shares, the Corporation shall furnish promptly to the Purchaser:
+
+                  (A) notification in writing of the existence of any default
+            under any material agreement or instrument to which the Corporation
+            or any Subsidiary or future subsidiary is a party or by which any of
+            their assets are bound;
+
+                  (B) upon specific request, copies of all financial statements,
+            reports, press releases, notices, proxy statements and other
+            documents sent by the Corporation or any Subsidiary or future
+            subsidiary to its stockholders generally or released to the public
+            and copies of all regular and periodic reports, if any, filed by the
+            Corporation or any Subsidiary or future subsidiary with the SEC, any
+            securities exchange or the NASD and copies of all reports prepared
+            for or delivered to the management of the Corporation or any
+            Subsidiary or future subsidiary by its accountants; and
+
+                  (C) upon specific request, any other routinely collected
+            financial or other information available to management of the
+            Corporation or any Subsidiary or future subsidiary (including
+            without limitation, routinely collected statistical data).
+
+                                       23
+<PAGE>
+
+      7.5 Nevada Corporate Statutes
+
+            (a) The Corporation shall at all times maintain provisions of its
+      Articles of Incorporation and Bylaws to ensure that the Nevada Acquisition
+      Statute and the Nevada Moratorium Statute are inapplicable to the
+      Purchaser.
+
+8. INDEMNIFICATION; SURVIVAL
+
+      8.1 Indemnification by the Corporation
+
+      The Corporation hereby agrees to indemnify and hold harmless the Purchaser
+and its respective affiliates, directors, officers and employees (collectively,
+the "Purchaser Indemnified Parties") from and against any and all liabilities,
+judgments, claims, settlements, losses, damages (including any diminution in
+value of its investment in the Corporation), reasonable fees (including
+attorneys' and other experts' fees and disbursements), Liens, Taxes, penalties,
+obligations and expenses (collectively, "Losses") incurred or suffered by any
+such Person arising from, by reason of or in connection with any
+misrepresentation or breach of any representation, warranty or covenant of the
+Corporation pursuant to this Agreement (for the period such representation,
+warranty or covenant survives) or any certificate or other document delivered by
+the Corporation under this Agreement. This indemnification provision shall be in
+addition to the rights of the Purchaser to bring an action against the
+Corporation for breach of any term of the Transaction Agreements.
+
+      8.2 Indemnification by the Purchaser
+
+      The Purchaser hereby agrees to indemnify and hold harmless the Corporation
+and its affiliates, directors, officers and employees (the "Corporation
+Indemnified Parties"), from and against any and all Losses incurred or suffered
+by any such Person arising from, by reason of or in connection with any
+misrepresentation or breach of any representation, warranty or covenant of the
+Purchaser contained in this Agreement (for the period such representation,
+warranty or covenant survives) or any certificate or other document delivered by
+the Purchaser under this Agreement. Notwithstanding anything else to the
+contrary, the Purchaser's maximum liability in the Agreement under this Section
+8.2 shall not exceed the amount of the purchase price paid by the Purchaser
+hereunder. This indemnification provision shall be in addition to the rights of
+the Corporation to bring an action against the Purchaser for breach of any term
+of this Agreement and the Registration Rights Agreement.
+
+      8.3 Procedures Relating to Third Party Claims
+
+      A party seeking indemnification pursuant to Section 8.1 or 8.2 (an
+"Indemnified Party") shall give prompt notice to the party from whom such
+indemnification is sought (the "Indemnifying Party") of the assertion of any
+claim or assessment, or the commencement of any action, suit or proceeding, by a
+third party in respect of which indemnity may be sought hereunder (a "Third
+Party Claim") and will give the Indemnifying Party such information with respect
+thereto as the Indemnifying Party may reasonably request, but no failure to give
+such notice shall relieve the
+
+
+                                       24
+<PAGE>
+
+Indemnifying Party of any liability hereunder (except to the extent the
+Indemnifying Party has suffered actual and material prejudice thereby). The
+Indemnifying Party shall have the right, exercisable by written notice (the
+"Notice") to the Indemnified Party within 14 days of receipt of notice from the
+Indemnified Party of commencement of or assertion of any Third Party Claim, to
+assume the defense of such Third Party Claim, using counsel selected by the
+Indemnifying Party and reasonably acceptable to the Indemnified Party; provided,
+that the Indemnifying Party shall not have the right to assume a Third Party
+Claim if the Indemnified Party shall have been advised in writing by counsel
+that a conflict will arise in the event both the Indemnified Party and the
+Indemnifying Party are represented by the same counsel with respect to the Third
+Party Claim, in which case such Indemnified Party shall have the right to
+control the defense of such Third Party Claim and all Losses in connection
+therewith shall be reimbursed by the Indemnifying Party from time to time upon
+demand of the Indemnified Party. In addition, if the Indemnifying Party fails to
+give the Indemnified Party the Notice complying with the provisions stated above
+within the stated time period, the Indemnified Party shall have the right to
+assume control of the defense of the Third Party Claim and all Losses in
+connection therewith shall be reimbursed by the Indemnifying Party from time to
+time upon the demand of the Indemnified Party. In no event may any Indemnifying
+Party settle or compromise any Third Party Claim without the prior written
+consent of an Indemnified Party.
+
+      8.4 Survival of Representations, Warranties and Agreements
+
+      Notwithstanding any investigation conducted or notice or knowledge
+obtained by or on behalf of any party hereto, each representation and warranty
+in this Agreement and each agreement or covenant in this Agreement shall survive
+the execution and delivery of this Agreement, the Closing and any termination of
+this Agreement pursuant to Section 14 until 90 days after the filing of audited
+accounts for the year to December 31, 2005.
+
+9. EXPENSES
+
+      The Corporation, on the one hand, and Purchaser on the other hand, each
+shall bear its own expenses in connection with the preparation for and
+consummation of the transactions contemplated by this Agreement.
+
+10. NOTICES
+
+      All notices, advice and communications to be given or otherwise made to
+any party to this Agreement shall be deemed to be sufficient if contained in a
+written instrument delivered in person or by telecopier or duly sent by first
+class registered or certified mail, return receipt requested, postage prepaid,
+or by overnight courier, or by electronic mail, with a copy thereof to be sent
+by mail (as aforesaid) within 24 hours of such electronic mail, addressed to
+such party at the address set forth below or at such other address as may
+hereafter be designated in writing by the addressee to the addresser listing all
+parties:
+
+                                       25
+<PAGE>
+
+                 (a) if to the Corporation, to:
+
+                  Vital Living, Inc.
+                  5080 North 40th Street, Suite 105
+                  Phoenix, Arizona 85018-2158
+                  Attention:  Bradley D. Edson, CEO
+                  Telecopier: +1 602 952 6907
+
+                  with a copy to:
+
+                  Kelly Lytton & Vann LLP
+                  1900 Avenue of the Stars
+                  Los Angeles, CA 90067
+                  Attention:  Bruce P. Vann
+                  Telecopier: +1 350 277 5953
+
+                           -and-
+
+                 (b) if to the Purchaser, to:
+
+                  SkyePharma PLC
+                  105 Piccadilly
+                  London, England, WIJ 7NJ
+                  Attention: Company Secretary
+                  Telecopier:  +44 20 7491 3338
+
+                  with a copy to:
+
+                  Sullivan & Cromwell LLP
+                  1 New Fetter Lane
+                  London, England, EC4A 1AN
+                  Attention: Kathryn A. Campbell, Esq.
+                  Telecopier:  +44 20 7959 8950
+
+or to such other address as the party to whom notice is to be given may have
+furnished to the other parties hereto in writing in accordance herewith. Any
+such notice or communication shall be deemed to have been delivered and received
+(i) in the case of personal delivery, delivery by telecopier or transmittal by
+electronic mail, on the date of such delivery, (ii) in the case of
+nationally-recognized overnight courier, on the next business day after the date
+when sent and (iii) in the case of mailing, on the third business day following
+that on which the piece of mail containing such communication is posted. As used
+in this Section 10, "business day" shall mean any day other than a day on which
+banking institutions in the State of New York are legally closed, or authorized
+to close, for business.
+
+                                       26
+<PAGE>
+
+11. SUCCESSORS AND ASSIGNS
+
+      Except as otherwise expressly provided herein, this Agreement shall bind
+and inure to the benefit of the parties hereto and the respective successors and
+permitted assigns of the parties hereto. Neither this Agreement, nor the rights
+and obligations hereunder, is assignable by any party hereto (except to a
+successor-in-interest by operation of law) without the prior written consent of
+the other. Any such purported assignment made without such prior written consent
+shall be null and void. No Person other than the parties hereto, the Purchaser
+Indemnified Parties (in respect of Section 8 only) and the Corporation
+Indemnified Parties (in respect of Section 8 only) and their respective
+successors and permitted assigns shall have any rights or claims under this
+Agreement.
+
+12. AMENDMENTS
+
+      The terms and provisions of this Agreement may only be amended or waived
+either (a) with the written consent of the parties hereto or (b) in a writing by
+the party against whom such amendment or waiver is sought to be enforced.
+
+13. ENTIRE AGREEMENT
+
+      This Agreement and the other writings or documents referred to herein or
+delivered pursuant hereto which form a part hereof contain the entire agreement
+among the parties with respect to the subject matter hereof and supersede all
+prior and contemporaneous arrangements or understandings with respect thereto.
+
+14. TERMINATION
+
+      This Agreement may be terminated by either party if the other party is in
+material breach of this Agreement and such breach is not cured within twenty-one
+days following the delivery of written notice thereof. Such termination right
+may be exercised only by the delivery of written notice of such termination by
+the terminating party to the other party and such termination will not relieve
+any party of liability for its prior breach. This Agreement may also be
+terminated by the mutual written consent of the parties hereto except that each
+representation and warranty in this Agreement and each agreement or covenant in
+this Agreement shall survive such termination.
+
+15. COUNTERPARTS
+
+      This Agreement may be executed in any number of separate counterparts, and
+each such counterpart shall be deemed to be an original instrument, but all such
+counterparts together shall constitute but one agreement.
+
+16. HEADINGS
+
+      The headings of the various sections of and schedules to this Agreement
+have been inserted for convenience of reference only and shall not be deemed to
+be a part of this Agreement.
+
+                                       27
+<PAGE>
+
+17. GOVERNING LAW; SUBMISSION TO JURISDICTION; SELECTION OF FORUM
+
+      This Agreement shall be construed in accordance with the laws of the State
+of New York, without regard to conflict of law provisions thereof. Each party
+hereto agrees that it shall bring up any action or proceeding in respect of any
+claim arising out of or related to this agreement or the transactions contained
+in and contemplated by this Agreement, whether in tort or contract or at law or
+in equity, exclusively in the United States District Court for the Southern
+District of New York or, if such court is not available, the Supreme Court of
+the State of New York for the county of New York (the "Chosen Courts") and
+solely in connection with claims arising under this Agreement or the
+transactions contained in or contemplated by this Agreement (i) irrevocably
+submits to the exclusive jurisdiction of the Chosen Courts, (ii) waives any
+objection to laying venue in any such action or proceeding in the Chosen Courts
+and agrees not to commence any action in respect of any such claim in any other
+court or forum, (iii) waives any objection that the Chosen Courts are an
+inconvenient forum or do not have jurisdiction over any party hereto, (iv)
+waives any right to a trial by jury and (v) agrees that service of process upon
+such party in any such action or proceeding shall be effective if notice is
+given in accordance with Section 10 of this Agreement. Without limiting the
+foregoing, each of the Corporation and the Purchaser hereby appoints, in the
+case of any such action or proceeding brought in the courts of or in the State
+of New York, CT Corporation system with its offices at 111 8th Avenue, 13th
+Floor, New York, N.Y. 10011 to receive, for it and on its behalf, service of
+process in the State of New York with respect thereto, provided the Corporation
+and the Purchaser may appoint any other Person, reasonably acceptable to the
+other party, with offices in the State of New York to replace such agent for
+service of process upon delivery to the other party of a reasonably acceptable
+agreement of such new agent agreeing to act.
+
+                                       28
+<PAGE>
+
+
+
+
+      IN WITNESS WHEREOF, the undersigned have caused this Purchase Agreement to
+be executed as of the date first written above.
+
+                               VITAL LIVING, INC.
+
+                               By:
+                                  -----------------------------------------
+                                  Name:  Bradley Edson
+                                  Title: Chairman of the Board and
+                                         Chief Executive Officer
+
+                               By:
+                                  -----------------------------------------
+                                  Name:  Stuart Benson
+                                  Title: President
+
+
+
+                               SKYEPHARMA PLC
+
+                               By:
+                                  -----------------------------------------
+                                  Name:  Donald Nicholson
+                                  Title: Finance Director
+
+
+
+                                       29
+
+</TEXT>
+</DOCUMENT>

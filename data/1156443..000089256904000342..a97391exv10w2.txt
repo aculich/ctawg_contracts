@@ -1,0 +1,146 @@
+<DOCUMENT>
+<TYPE>EX-10.2
+<SEQUENCE>4
+<FILENAME>a97391exv10w2.txt
+<DESCRIPTION>EXHIBIT 10.2
+<TEXT>
+<PAGE>
+                                                                    Exhibit 10.2
+
+                    SECOND AMENDMENT TO EMPLOYMENT AGREEMENT
+
+
+     THIS SECOND AMENDMENT TO EMPLOYMENT AGREEMENT is entered into as of March
+16, 2004 (the "Amendment") by and among Commonwealth Energy Corporation, a
+California corporation (the "Company"), and Ian B. Carter ("Employee").
+
+     WHEREAS, the parties entered into a certain Employment Agreement dated as
+of January 1, 2000, as amended by an Addendum to Employment Agreement dated as
+of November 1, 2000 (collectively, the "Employment Agreement," the defined terms
+of which shall be used in this Amendment unless otherwise defined herein);
+
+     WHEREAS, the parties now desire to amend the Employment Agreement to modify
+certain of the terms thereof;
+
+     NOW, THEREFORE, for good and valuable consideration, the receipt and
+adequacy of which are hereby acknowledged by each of the parties hereto, the
+parties hereto, intending to be legally bound, do hereby agree as follows:
+
+     1. Amendment of Paragraph 3.2(a). Paragraph 3.2(a) of the Employment
+Agreement is hereby amended and restated in its entirety to read as follows:
+
+          "(a) Bonus Upon Sale of Assets or Control of the Company. If during
+     the term of the Agreement (i) all or substantially all of the assets of the
+     Company or more than fifty percent (50%) of the issued and outstanding
+     voting shares of the Company are, in any transaction or series of
+     transactions, acquired by any one person or entity not then affiliated with
+     the Company, or (ii) control of the Company is taken over by a group of
+     shareholders when no significant change of ownership has taken place, or
+     (iii) a liquidity event such as a merger, acquisition, strategic alliance
+     or any other event that could bring substantial capital into the company
+     and any of these events listed require that the Employee be terminated,
+     leave the company, replaced or any other event that no longer allows or
+     requires the Employee to remain with the Company, then the Company shall
+     pay to the Employee a bonus equal to three (3) times the Employee's Annual
+     Compensation (for purposes of this Paragraph 3.2(a), "Annual Compensation"
+     shall be defined as the sum of the Employee's then-current Base Salary and
+     the average of the two (2) highest bonuses paid to the Employee by the
+     Company) plus the amount of I.R.S. Code 280 G taxes payable by the
+     Employee. In addition, all stock options referred to in this Agreement,
+     whether earned or unearned, shall be deemed to be valued at two (2) times
+     the then aggregate price value of the Company's capital stock (See
+     Paragraph 3.9). The bonus shall be paid to the Employee and the options
+     purchased from the Employee prior to the Closure date of such an event
+     taking place. The bonus shall be payable to the Employee whether or not the
+     Employee elects to terminate this Agreement pursuant to Paragraph 7.3
+     below."
+
+<PAGE>
+
+     2. Amendment of Paragraph 7.3. Paragraph 7.3 of the Employment Agreement is
+hereby amended and restated in its entirety to read as follows:
+
+          "7.3 Termination by Employee for Cause. Employee may terminate this
+     Agreement only for cause, which shall be limited to any one of the
+     following:
+
+          "(a) The sale of all or substantially all of the Company's assets to a
+     person unaffiliated with the Company or the occurrence of a Change of
+     Control, in either case without Employee's prior written consent, which
+     consent may be given or withheld by Employee in his sole and arbitrary
+     discretion.
+
+          "(b) The Company's material breach of any of the terms and conditions
+     of this Agreement, provided that termination pursuant to this subsection
+     (b) shall not constitute a valid termination for cause unless the Board
+     shall have first received written notice from Employee stating with
+     specificity the nature of such material breach and affording the Company at
+     least thirty (30) days to cure the material breach alleged.
+
+          "Upon any termination of this Agreement by Employee for cause,
+     Employee shall not be required to render or to provide any further services
+     pursuant to this Agreement and shall be entitled to receive in one lump sum
+     within fifteen (15) days following notice of such termination, a
+     termination payment equal, in the case of termination under (a) above,
+     three (3) times the Employee's Annual Compensation (as defined in Paragraph
+     3.2(a) of this Agreement) and equal, in the case of termination under (b)
+     above, to the monetary value (not discounted to present value) of all of
+     the compensation, including all the options, and other benefits payable to
+     Employee pursuant to this Agreement for the remainder of the term hereof.
+     Such compensation shall be in addition to, and not in lieu of, any other
+     damages to which Employee may otherwise be entitled."
+
+     3. Effect of Amendment. Except as specifically amended herein, the
+Employment Agreement shall remain in full force and effect without any other
+changes, amendments or modifications.
+
+     4. Counterparts. This Amendment may be executed in one or more
+counterparts, each of which shall be deemed an original, but all of which
+together shall constitute one and the same instrument.
+
+     5. Further Acts. The parties agree to execute and deliver all such further
+documents, agreements and instruments and take such other and further action as
+may be necessary or appropriate to carry out the purposes and intent of this
+Amendment.
+
+     6. Entire Agreement. This Amendment and the Employment Agreement, as
+amended by this Amendment, sets forth the entire understanding of the parties
+with respect to the subject matter of the Employment Agreement, supersedes all
+existing agreements between them concerning such subject matter, and may be
+modified only by a written instrument duly executed by each party.
+
+
+                                      -2-
+<PAGE>
+
+     IN WITNESS WHEREOF, the parties hereto have executed this Amendment as of
+the day and year first above written.
+
+"Company"                              COMMONWEALTH ENERGY CORPORATION
+
+
+
+                                       By: /s/ ROBERT C. PERKINS
+                                           -------------------------------------
+                                       Name:  Robert C. Perkins
+                                       Title: Chairman of the Compensation
+                                              Committee
+
+
+                                       By:
+                                           -------------------------------------
+                                       Name:
+                                             -----------------------------------
+                                       Title:
+                                              ----------------------------------
+
+
+"Employee"                             /s/ IAN B. CARTER
+                                       -----------------------------------------
+                                       Ian B. Carter
+
+
+                                      -3-
+
+</TEXT>
+</DOCUMENT>

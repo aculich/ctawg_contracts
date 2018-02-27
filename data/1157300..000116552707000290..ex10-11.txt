@@ -1,0 +1,106 @@
+<DOCUMENT>
+<TYPE>EX-10.11
+<SEQUENCE>3
+<FILENAME>ex10-11.txt
+<DESCRIPTION>STOCK PLEDGE AGREEMENT
+<TEXT>
+                                                                   Exhibit 10.11
+
+                             STOCK PLEDGE AGREEMENT
+
+Pledger: Mr. Daojun Wang
+Pledgee: Jilin Tian Yao Science and Technology Limited Company
+
+Where as Pledger and Pledgee have entered an Equity and Claim Transfer Agreement
+on  May  11,  2007,  in the  agreement,  Pledger  agrees  to  pledge  95% of the
+outstanding shares of Jilin Yicaotang Pharmaceutical Co., Ltd. ("YCT") after the
+shares are  transferred  to Pledger,  to ensure Pledger make payments to Pledgee
+according to the  schedule  listed in the Equity and Claim  Transfer  Agreement.
+This Stock Pledge Agreement is irrevocable,  and is part of the Equity and Claim
+Transfer Agreement.
+
+1. Collateral
+
+     i)   The  collateral  consists of the shares of YCT and any equity  derived
+          from the shares.
+
+     ii)  The collateral is pledged to secure a payment of 8,500,000 RMB.
+
+2. Claims
+
+     i)   Pledgee is entitled to a claim of 8,500,000 RMB over pledger  pursuant
+          to the Equity and Claim Transfer Agreement.
+
+     ii)  The claims of 8,500,000  RMB will be paid to Pledgee  according to the
+          schedule listed in the Equity and Claim Transfer Agreement.
+
+     iii) Pledger has made the following  declaration:  1. Pledger's decision to
+          pledge the shares is made by him, and is his true intention. 2. Before
+          this Stock  Pledge  Agreement  is signed,  Pledger has not pledged the
+          shares of YCT to a party other than  Pledgee,  and before  Pledger has
+          made full  payment to Pledgee  according to the schedule in the Equity
+          and Claims Transfer  Agreement,  Pledger will not pledge the shares of
+          YCT to any party other than Pledgee.
+
+     iv)  Pledger agrees to not sign any agreements with a third party which the
+          agreement  may harm the  execution  of the Equity and Claims  Transfer
+          Agreement.
+
+     v)   If the Equity and Claims  Transfer  Agreement is modified,  this Stock
+          Pledge Agreement will be updated accordingly.
+
+     vi)  If this Stock  Pledge  Agreement  is caused to be modified or altered,
+          Pledger  agrees to not reduce the  responsibilities  the  Pledger  has
+          before the Agreement is modified or altered.
+
+     vii) After this Stock Pledge Agreement is signed, Pledger is responsible to
+          assist the pledge registration.
+
+3. Defaults
+
+     When any one of the following happens, Pledgee has the right to dispose the
+     collateral and any equities it derived, the income will be used towards the
+     payment to Pledgee according to the Equity and Claims Transfer Agreement.
+
+     i)   Pledger has made false  statement  in this Stock  Pledge  Agreement or
+          failed to execute this Stock Pledge Agreement.
+
+     ii)  Pledger  failed to make payment  according to the payment  schedule in
+          the Equity and Claim Transfer Agreement.
+<PAGE>
+     iii) Pledger  failed to comply  with this  Stock  Pledge  Agreement  or the
+          Equity  and  Claim  Transfer   Agreement.   Pledgee's  rights  on  the
+          collateral includes (but not limited to) the following:  1. Claims the
+          title of the  collateral,  thus  replace  the  shareholder  status  of
+          Pledger at YCT. 2.  Dispose the  collateral  through  transfer,  sale,
+          auction sell or other methods, Pledger has no rights to interfere.
+
+4. Validity
+
+     i)   This Stock Pledge  Agreement is effective once the Pledger has signed.
+          ii) This Stock Pledge Agreement is valid until the Pledger has paid in
+          full to the Pledgee.
+
+
+Pledgee: Jilin Tian Yao Science and Technology Limited Company
+Address: 509 Maoxiang Street, High-Tech Development Area, Changchun, Jilin,
+         China
+
+
+Signature: /s/ Lianqin Qu
+          -------------------------------------
+Name: Lianqin Qu, President
+
+
+
+Pledger: Daojun Wang
+
+Signature: /s/ Daojun Wang
+          -------------------------------------
+
+
+Date: May 11, 2007
+
+                                       2
+</TEXT>
+</DOCUMENT>

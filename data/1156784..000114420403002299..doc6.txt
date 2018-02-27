@@ -1,0 +1,1826 @@
+<DOCUMENT>
+<TYPE>EX-10.3
+<SEQUENCE>7
+<FILENAME>doc6.txt
+<TEXT>
+<PAGE>
+
+Exhibit 10.3
+
+-------------------------------------------------------------------------------
+
+
+                    CONVERTIBLE DEBENTURE PURCHASE AGREEMENT
+
+                                     BETWEEN
+
+                                 SANJAY HARYAMA
+
+                                       AND
+
+                           THE PURCHASER(S) LISTED ON
+                                SCHEDULE 1 HERETO
+
+
+              ----------------------------------------------------
+
+                                 APRIL 21, 2003
+
+              ----------------------------------------------------
+
+
+-------------------------------------------------------------------------------
+
+<PAGE>
+
+<TABLE>
+<CAPTION>
+
+                                TABLE OF CONTENTS
+
+<S>                                                                                                              <C>
+ARTICLE I           CERTAIN DEFINITIONS...........................................................................1
+         1.1      CERTAIN DEFINITIONS.............................................................................1
+
+ARTICLE II          PURCHASE AND SALE OF CONVERTIBLE DEBENTURES...................................................5
+         2.1      PURCHASE AND SALE; PURCHASE PRICE...............................................................5
+         2.2      EXECUTION AND DELIVERY OF DOCUMENTS; THE CLOSING................................................5
+         2.3      THE POST-CLOSING................................................................................6
+
+ARTICLE III          REPRESENTATIONS AND WARRANTIES...............................................................7
+         3.1      REPRESENTATIONS, WARRANTIES AND AGREEMENTS OF THE COMPANY.......................................7
+         3.2      REPRESENTATIONS AND WARRANTIES OF THE PURCHASER................................................10
+
+ARTICLE IV          OTHER AGREEMENTS OF THE PARTIES..............................................................12
+         4.1      MANNER OF OFFERING.............................................................................12
+         4.2      FURNISHING OF INFORMATION......................................................................12
+         4.3      NOTICE OF CERTAIN EVENTS.......................................................................12
+         4.4      COPIES AND USE OF DISCLOSURE DOCUMENTS AND NON-PUBLIC FILINGS..................................12
+         4.5      MODIFICATION TO DISCLOSURE DOCUMENTS...........................................................12
+         4.6      BLUE SKY LAWS..................................................................................13
+         4.7      INTEGRATION....................................................................................13
+         4.8      FURNISHING OF RULE 144(C) MATERIALS............................................................13
+         4.9      SOLICITATION MATERIALS.........................................................................13
+         4.10     SUBSEQUENT FINANCIAL STATEMENTS................................................................13
+         4.11     PROHIBITION ON CERTAIN ACTIONS.................................................................13
+         4.12     LISTING OF COMMON STOCK........................................................................14
+         4.13     ESCROW.........................................................................................14
+         4.14     CONVERSION PROCEDURES; MAINTENANCE OF ESCROW SHARES............................................14
+         4.15     ATTORNEY-IN-FACT...............................................................................14
+         4.16     INDEMNIFICATION................................................................................14
+         4.17     EXCLUSIVITY....................................................................................16
+         4.18     PURCHASER'S OWNERSHIP OF COMMON STOCK..........................................................16
+         4.19     PURCHASER'S RIGHTS IF TRADING IN COMMON STOCK IS SUSPENDED.....................................17
+         4.20     NO VIOLATION OF APPLICABLE LAW.................................................................18
+         4.21     REDEMPTION RESTRICTIONS........................................................................18
+         4.22     NO OTHER REGISTRATION RIGHTS...................................................................18
+         4.23     MERGER OR CONSOLIDATION........................................................................18
+         4.24     REGISTRATION OF ESCROW SHARES..................................................................19
+         4.25     LIQUIDATED DAMAGES.............................................................................20
+         4.26     SHORT SALES....................................................................................20
+         4.27     FEES...........................................................................................21
+         4.28     ADDITIONAL FEES................................................................................21
+         4.29     CHANGES TO FEDERAL AND STATE SECURITIES LAWS...................................................21
+         4.30     MERGER AGREEMENT...............................................................................21
+</TABLE>
+
+                                       i
+<PAGE>
+
+<TABLE>
+<CAPTION>
+<S>                                                                                                             <C>
+ARTICLE V           TERMINATION..................................................................................22
+         5.1      TERMINATION BY THE COMPANY OR THE PURCHASER....................................................22
+         5.2.     REMEDIES.......................................................................................23
+
+ARTICLE VI          LEGAL FEES AND DEFAULT INTEREST RATE.........................................................23
+
+ARTICLE VII       MISCELLANEOUS................................................................................. 23
+         7.1      FEES AND EXPENSES..............................................................................23
+         7.2      ENTIRE AGREEMENT; AMENDMENTS...................................................................24
+         7.3      NOTICES........................................................................................24
+         7.4      AMENDMENTS; WAIVERS............................................................................25
+         7.5      HEADINGS.......................................................................................25
+         7.6      SUCCESSORS AND ASSIGNS.........................................................................25
+         7.7      NO THIRD PARTY BENEFICIARIES...................................................................25
+         7.8      GOVERNING LAW; VENUE; SERVICE OF PROCESS.......................................................25
+         7.9      SURVIVAL.......................................................................................26
+         7.10     COUNTERPART SIGNATURES.........................................................................26
+         7.11     PUBLICITY......................................................................................26
+         7.12     SEVERABILITY...................................................................................26
+         7.13     LIMITATION OF REMEDIES.........................................................................26
+         7.14     OMNIBUS PROVISION..............................................................................26
+</TABLE>
+
+LIST OF SCHEDULES:
+
+Schedule 1        Purchaser(s)
+Schedule 3.1(a)   Subsidiaries
+Schedule 3.1(c)   Capitalization and Registration Rights
+Schedule 3.1(d)   Equity and Equity Equivalent Securities
+Schedule 3.1(e)   Conflicts
+Schedule 3.1(f)   Consents and Approvals
+Schedule 3.1(g)   Litigation
+Schedule 3.1(h)   Defaults and Violations
+Schedule 5.1      Form 8-K Disclosure Obligations
+
+LIST OF EXHIBITS:
+
+Exhibit A         Convertible Debenture
+Exhibit B         Agreement and Plan of Merger
+Exhibit C1        Articles of Merger
+Exhibit C2        Certificate of Merger
+Exhibit D         Conversion Procedures
+Exhibit E         Escrow Agreement
+Exhibit F         Power of Attorney
+Exhibit G         Legal Opinion
+Exhibit H         Rule 504 Legal Opinion
+Exhibit I         Officer's Certificate
+
+                                       ii
+<PAGE>
+
+         THIS CONVERTIBLE DEBENTURE PURCHASE AGREEMENT ("AGREEMENT") is made and
+entered  into as of April  21,  2003,  between  SANJAY  HARYAMA,  a  corporation
+organized and existing  under the laws of the State of Wyoming (the  "COMPANY"),
+and the purchaser(s) listed on SCHEDULE 1 hereto (the "PURCHASER").
+
+         WHEREAS,  subject  to the  terms  and  conditions  set  forth  in  this
+Agreement,  the  Company  desires  to issue  and sell to the  Purchaser  and the
+Purchaser  desires to acquire  from the Company  the  Company's  $1,000,000,  1%
+Convertible  Debenture,  due April 20, 2008, at the price of One Million Dollars
+($1,000,000)  (the "DEBENTURE  CONSIDERATION")  in the form of EXHIBIT A annexed
+hereto and made a part hereof (the "DEBENTURES").
+
+         IN CONSIDERATION  of the mutual covenants  contained in this Agreement,
+the Company and each Purchaser agree as follows:
+
+ARTICLE I
+
+                               CERTAIN DEFINITIONS
+
+         1.1  CERTAIN  DEFINITIONS.  As used in this  Agreement,  and unless the
+context  requires a different  meaning,  the  following  terms have the meanings
+indicated:
+
+         "AFFILIATE"  means,  with  respect  to any  Person,  any  Person  that,
+directly or  indirectly,  controls,  is controlled by or is under common control
+with such Person.  For the purposes of this  definition,  "CONTROL"  (including,
+with correlative  meanings,  the terms "CONTROLLED BY" and "UNDER COMMON CONTROL
+WITH") shall mean the possession, directly or indirectly, of the power to direct
+or cause the direction of the  management  and policies of such Person,  whether
+through the ownership of voting securities or by contract or otherwise.
+
+         "AGREEMENT"  shall  have the  meaning  set  forth  in the  introductory
+paragraph of this Agreement.
+
+         "ATTORNEY-IN-FACT"   shall  have  the  meaning  set  forth  in  SECTION
+2.3(B)(II) hereof.
+
+         "BUSINESS DAY" means any day except Saturday,  Sunday and any day which
+shall be a legal holiday or a day on which banking  institutions in the State of
+New York are authorized or required by law or other government actions to close.
+
+         "CLOSING" shall have the meaning set forth in SECTION 2.2(A).
+
+         "CLOSING DATE" shall have the meaning set forth in SECTION 2.2(A).
+
+         "COMMISSION" means the Securities and Exchange Commission.
+
+         "COMMON STOCK" means shares now or hereafter authorized of the class of
+common stock,  par value $0.001 per share, of the Company and stock of any other
+class into which such shares may hereafter have been reclassified or changed.
+
+
+                                       1
+<PAGE>
+
+         "COMPANY"  shall  have  the  meaning  set  forth  in  the  introductory
+paragraph.
+
+         "CONTROL  PERSON"  shall have the meaning set forth in SECTION  4.16(A)
+hereof.
+
+         "CONVERSION DATE" shall have the meaning set forth in the Debentures.
+
+         "DEBENTURES" shall have the meaning set forth in the recital.
+
+         "DEFAULT"  means any event or condition  which  constitutes an Event of
+Default  or which  with the  giving of  notice  or lapse of time or both  would,
+unless cured or waived, become an Event of Default.
+
+         "DISCLOSURE  DOCUMENTS" means (a) all documents and materials  provided
+to the Purchaser and/or its  representatives  in connection with the Company and
+this offering,  including,  but not limited to, the Company's  unaudited balance
+sheet as at March 31,  2003 and  profit  and loss  statement  for the year ended
+March  31,  2003  and (b)  the  Schedules  required  to be to  furnished  to the
+Purchaser by or on behalf of the Company pursuant to SECTION 3.1 hereof.
+
+         "EFFECTIVE  DATE"  shall mean the date on which the  articles of merger
+and certificate of merger (collectively,  the "Articles of Merger"),  annexed as
+EXHIBIT C1 AND EXHIBIT C2 hereto,  are filed with the  Secretary of State of the
+States of  Wyoming  and  Delaware,  respectively,  to effect  the  merger of the
+Company with and into  HY-TECH  TECHNOLOGY  GROUP INC.,  a Delaware  corporation
+("HYTT"), (the "Merger") pursuant to the Agreement and Plan of Merger annexed as
+EXHIBIT B hereto.
+
+         "ESCROW  AGENT"  means  Kaplan  Gottbetter  &  Levenson,  LLP,  or  its
+successors or assigns,  630 Third Avenue,  5th Floor,  New York, NY 10017;  Tel:
+212-983-6900; Fax: 212-983-9210.
+
+         "ESCROW  AGREEMENT"  shall have the meaning  set forth in SECTION  4.13
+hereof.
+
+         "ESCROW  SHARES"  means  the  certificates   representing  Ten  Million
+(10,000,000) shares of duly issued Common Stock,  without restriction and freely
+tradable upon resale pursuant to Rule 504 of Regulation D of the Securities Act,
+in the share denominations specified by the Purchaser, registered in the name of
+the Purchaser and/or its assigns to be held in escrow pursuant to this Agreement
+and the  Escrow  Agreement.  The Escrow  Shares  are the  shares  into which the
+Debentures  are  convertible  in  accordance  with  the  terms  hereof  and  the
+Debentures.  For purposes of this Agreement,  such conversion shares may also be
+referred to as the "UNDERLYING SHARES."
+
+         "EVENT OF DEFAULT" shall have the meaning set forth in SECTION 5.
+
+         "EXCHANGE ACT" means the Securities Exchange Act of 1934, as amended.
+
+         "EXECUTION DATE" means the date of this Agreement first written above.
+
+
+                                       2
+<PAGE>
+
+         "FULL  CONVERSION  SHARES"  shall have the meaning set forth in SECTION
+4.14 hereof.
+
+         "INDEMNIFIED PARTY" shall have the meaning set forth in SECTION 4.16(B)
+hereof.
+
+         "INDEMNIFYING  PARTY"  shall  have the  meaning  set  forth in  SECTION
+4.16(B) hereof.
+
+         "KGL" means Kaplan  Gottbetter & Levenson,  LLP, or its  successors  or
+assigns.
+
+         "LIMITATION ON CONVERSION"  shall have the meaning set forth in SECTION
+4.18 hereof.
+
+         "LOSSES" shall have the meaning set forth in SECTION 4.16(A) hereof.
+
+         "MATERIAL"  shall  mean  having a  financial  consequence  in excess of
+$100,000.
+
+         "MATERIAL  ADVERSE  EFFECT" shall have the meaning set forth in SECTION
+3.1(A).
+
+         "MERGER  AGREEMENT" means the Agreement and Plan of Merger between HYTT
+and the Company, annexed as EXHIBIT B hereto.
+
+         "NASD" means the National Association of Securities Dealers, Inc.
+
+         "NASDAQ" shall mean the Nasdaq Stock Market, Inc.(R)
+
+         "NON-PUBLIC  FILINGS"  shall have the  meaning set forth in SECTION 4.2
+hereof.
+
+         "NOTICE OF  CONVERSION"  shall have the  meaning set forth in EXHIBIT D
+annexed hereto.
+
+         "ORIGINAL  ISSUANCE  DATE,"  shall  have the  meaning  set forth in the
+Debentures.
+
+         "OTCBB"  shall mean the NASD  over-the  counter  Bulletin  Board(R)  or
+similar organization or agency succeeding to its functions.
+
+         "PER DEBENTURE  CONSIDERATION"  shall have the meaning set forth in the
+recital.
+
+         "PER SHARE MARKET  VALUE" of the Common  Stock means on any  particular
+date (a) the last sale  price of  shares of Common  Stock on such date or, if no
+such sale takes place on such date, the last sale price on the most recent prior
+date, in each case as officially  reported on the principal national  securities
+exchange on which the Common Stock is then listed or admitted to trading, or (b)
+if the Common  Stock is not then listed or  admitted to trading on any  national
+securities  exchange,  the closing bid price per share as reported by Nasdaq, or
+(c) if the Common Stock is not then listed or admitted to trading on the Nasdaq,
+the closing bid price per share of the Common  Stock on such date as reported on
+the OTCBB or if there is no such price on such date,  then the last bid price on
+the date nearest  preceding  such date, or (d) if the Common Stock is not quoted
+on the OTCBB,  the closing bid price for a share of Common Stock on such date in
+the  over-the-counter  market as  reported  by the  Pinksheets  LLC (or  similar
+
+                                       3
+<PAGE>
+
+organization  or agency  succeeding to its functions of reporting  prices) or if
+there is no such price on such date, then the last bid price on the date nearest
+preceding  such date, or (e) if the Common Stock is no longer  publicly  traded,
+the fair  market  value  of a share of the  Common  Stock  as  determined  by an
+Appraiser (as defined in Section  4(c)(iv) of the  Debentures)  selected in good
+faith by the holders of a majority of the Debentures;  PROVIDED,  HOWEVER,  that
+the Company,  after receipt of the  determination by such Appraiser,  shall have
+the right to select an  additional  Appraiser,  in which  case,  the fair market
+value  shall  be  equal  to the  average  of the  determinations  by  each  such
+Appraiser.
+
+         "PERSON"  means an individual  or a  corporation,  partnership,  trust,
+incorporated or  unincorporated  association,  joint venture,  limited liability
+company, joint stock company,  government (or an agency or political subdivision
+thereof) or other entity of any kind.
+
+         "POST-CLOSING" shall have the meaning set forth in SECTION 2.3(A).
+
+         "POST-CLOSING DATE" shall have the meaning set forth in SECTION 2.3(A).
+
+         "POWER OF ATTORNEY"  means the power of attorney in the form of EXHIBIT
+F annexed hereto.
+
+         "PROCEEDING" means an action, claim, suit,  investigation or proceeding
+(including,  without limitation, an investigation or partial proceeding, such as
+a deposition), whether commenced or threatened.
+
+         "PURCHASE PRICE" shall have the meaning set forth in SECTION 2.1.
+
+         "PURCHASER"  shall  have the  meaning  set  forth  in the  introductory
+paragraph.
+
+         "REGISTRABLE  SECURITIES"  means the  Underlying  Shares and the Escrow
+Shares entitled to registration pursuant to SECTION 4.24 and SECTION 4.29.
+
+         "REPORTING  ISSUER"  means a company  that is subject to the  reporting
+requirements of Section 13 or 15(d) of the Exchange Act.
+
+         "REQUIRED  APPROVALS"  shall  have the  meaning  set  forth in  SECTION
+3.1(F).
+
+         "SECURITIES" means the Debentures, the Underlying Shares and the Escrow
+Shares.
+
+         "SEC" means the Securities and Exchange Commission.
+
+         "SECURITIES ACT" means the Securities Act of 1933, as amended.
+
+         "SHORT SALE" shall have the meaning set forth in SECTION 4.26 hereof.
+
+         "SUBSIDIARIES" shall have the meaning set forth in SECTION 3.1(A).
+
+
+                                       4
+<PAGE>
+
+         "TRADING  DAY" means (a) a day on which the  Common  Stock is quoted on
+Nasdaq,  the OTCBB or the principal stock exchange on which the Common Stock has
+been listed,  or (b) if the Common  Stock is not quoted on Nasdaq,  the OTCBB or
+any  stock  exchange,  a day  on  which  the  Common  Stock  is  quoted  in  the
+over-the-counter  market,  as  reported  by the  Pinksheets  LLC (or any similar
+organization or agency succeeding its functions of reporting prices).
+
+         "TRANSACTION  DOCUMENTS"  means this  Agreement  and all  exhibits  and
+schedules  hereto and all other  documents,  instruments  and writings  required
+pursuant to this Agreement.
+
+         "UNDERLYING  SHARES"  means the  shares of duly  issued  Common  Stock,
+without  restriction  and freely  tradable  upon resale  pursuant to Rule 504 of
+Regulation D of the Securities Act, into which the Debentures are convertible in
+accordance with the terms hereof and the Debentures.
+ARTICLE II
+
+                   PURCHASE AND SALE OF CONVERTIBLE DEBENTURES
+
+         2.1  PURCHASE  AND  SALE;  PURCHASE  PRICE.  Subject  to the  terms and
+conditions set forth herein,  the Company shall issue and sell and the Purchaser
+shall purchase an aggregate principal amount of One Million Dollars ($1,000,000)
+(the  "PURCHASE  PRICE")  of the  Debentures.  The  Debentures  shall  have  the
+respective  rights,  preferences  and  privileges  as set forth in the Debenture
+annexed as EXHIBIT A hereto.
+
+         2.2 EXECUTION AND DELIVERY OF DOCUMENTS; THE CLOSING.
+
+                  (a) The  Closing of the  purchase  and sale of the  Debentures
+(the "CLOSING") shall take place  simultaneously with the execution and delivery
+of this  Agreement  (the "CLOSING  DATE").  On the Closing Date,
+
+                           (i) the parties  shall execute and deliver the Escrow
+                  Agreement;
+
+                           (ii) the Company  shall  deliver to the Purchaser the
+                  (A) a duly executed  copy of the Merger  Agreement and (B) the
+                  legal opinions of counsel to the Company  substantially in the
+                  form of Exhibit G and EXHIBIT H annexed  hereto,  addressed to
+                  the Purchaser and dated the date hereof;
+
+                           (iii) the Company  shall  deliver to the Escrow Agent
+                  (A) original and duly  executed  Debentures  registered in the
+                  name of the  Purchaser  in the amount set forth in SCHEDULE 1,
+                  (B) an original  and duly  executed  Power of Attorney and (C)
+                  the original Escrow Shares;
+
+                           (iv) the  Company  shall  execute  and deliver to the
+                  Purchaser  a  certificate  of its  President,  in the  form of
+                  EXHIBIT I annexed hereto,  certifying that attached thereto is
+                  a copy of  resolutions  duly adopted by the Board of Directors
+                  of the Company  authorizing the Company to execute and deliver
+                  the Transaction  Documents and to enter into the  transactions
+                  contemplated thereby; and
+
+
+                                       5
+<PAGE>
+
+                           (v) the  Purchaser  shall deliver to the Escrow Agent
+                  the  Purchase  Price by wire  transfer of One Million  Dollars
+                  ($1,000,000)  pursuant  to the Escrow  Agent's  wire  transfer
+                  instructions.
+
+                  (b) If this  Agreement is terminated  pursuant to SECTIONS 5.1
+hereof, then, within two (2) Business Days from the date of termination,  either
+the Company or the Purchaser shall notify the Escrow Agent of same, and
+
+                  (i) the Escrow  Agent shall,  within two (2) Business  Days of
+         its receipt of such notice,
+
+                           (A)      return the Purchase  Price to the Purchaser;
+                                    and
+
+                           (B)      return the certificates representing (A) the
+                                    Debentures  and
+
+                       (B) the Escrow Shares to the Company.
+
+         2.3 THE POST-CLOSING.
+
+         (a) The  post-closing  of the purchase and sale of the Debentures  (the
+"POST-CLOSING")  shall  take place  immediately  after the  Effective  Date (the
+"POST-CLOSING DATE") at the offices of Kaplan Gottbetter & Levenson, LLP, or its
+successors or assigns, 630 Third Avenue, New York, NY 10017; PROVIDED,  HOWEVER,
+that all of the  transactions  contemplated by the Merger  Agreement  annexed as
+EXHIBIT B hereto shall have been consummated in accordance with the terms of the
+Merger  Agreement prior to the  Post-Closing;  and FURTHER,  PROVIDED,  that the
+Post-Closing  may not occur  later  than ten (10) days  after the  Closing  Date
+(except if such 10th day is not a Business  Day,  then the next  Business  Day),
+unless the Purchaser agrees in writing in advance to an extension, which writing
+shall set forth the new Closing  Date.  The Merger  Agreement  shall be executed
+immediately after the Closing.
+
+         (b) At the Post-Closing,
+
+                  (i) the Escrow Agent shall deliver to the  Purchaser  original
+         and duly executed  Debentures and/or its assigns in share denominations
+         specified  by the  Purchaser  in the  amount  set forth in  SCHEDULE  1
+         hereto;
+
+                  (ii) the Company shall deliver to the Purchaser the following:
+
+                           (A)  certified  copies of the  Articles  of Merger as
+                  filed with the  Secretary  of State of the States of  Delaware
+                  and Wyoming; and
+
+                           (B) all other  documents,  instruments  and  writings
+                  required to have been  delivered by the Company at or prior to
+                  the Post-Closing pursuant to this Agreement.
+
+         (c) Upon receipt by the  Purchaser of those items set forth in SECTIONS
+2.3(B)(I)  AND (II) above,  the Escrow Agent shall  deliver the following to the
+Company:
+
+
+                                       6
+<PAGE>
+
+                  (i)  the  Purchase  Price  by  wire  transfer  of  immediately
+         available  funds in the  amount  of One  Million  Dollars  ($1,000,000)
+         pursuant to written wire transfer instructions delivered by the Company
+         to the  Escrow  Agent at least  three (3)  Business  Days  prior to the
+         Post-Closing Date; and
+
+                  (ii) all documents, instruments, and writings required to have
+         been  delivered  or necessary  at or prior to the  Post-Closing  by the
+         Purchaser pursuant to this Agreement.
+
+(d)      The Escrow Agent shall retain and hold the Escrow Shares,  all of which
+         shall be held in  accordance  with the terms of this  Agreement and the
+         Escrow Agreement.
+
+                                  ARTICLE III
+
+                         REPRESENTATIONS AND WARRANTIES
+
+         3.1  REPRESENTATIONS,  WARRANTIES  AND  AGREEMENTS OF THE COMPANY.  The
+Company  hereby  makes  the  following  representations  and  warranties  to the
+Purchaser, all of which shall survive the Post-Closing:
+
+         (a) ORGANIZATION AND QUALIFICATION.  The Company is a corporation, duly
+incorporated,  validly existing and in good standing under the laws of the State
+of Wyoming,  with the requisite corporate power and authority to own and use its
+properties and assets and to carry on its business as currently  conducted.  The
+Company has no subsidiaries  other than as set forth on SCHEDULE 3.1(A) attached
+hereto  (collectively,  the  "SUBSIDIARIES").  Each  of  the  Subsidiaries  is a
+corporation, duly incorporated,  validly existing and in good standing under the
+laws of the jurisdiction of its incorporation, with the full corporate power and
+authority to own and use its  properties and assets and to carry on its business
+as  currently  conducted.  Each  of the  Company  and the  Subsidiaries  is duly
+qualified to do business  and is in good  standing as a foreign  corporation  in
+each  jurisdiction  in which the nature of the  business  conducted  or property
+owned by it makes such qualification  necessary,  except where the failure to be
+so qualified or in good standing, as the case may be, would not, individually or
+in the aggregate,  have a material  adverse effect on the results of operations,
+assets,  prospects,  or financial condition of the Company and the Subsidiaries,
+taken as a whole (a "MATERIAL ADVERSE EFFECT").
+
+         (b) AUTHORIZATION, ENFORCEMENT. The Company has the requisite corporate
+power  and  authority  to  enter  into  and  to  consummate   the   transactions
+contemplated  hereby and by each other Transaction  Document and to otherwise to
+carry out its obligations  hereunder and thereunder.  The execution and delivery
+of this Agreement and each of the other Transaction Documents by the Company and
+the consummation by it of the transactions  contemplated  hereby and thereby has
+been duly authorized by all necessary action on the part of the Company. Each of
+this Agreement and each of the other  Transaction  Documents has been or will be
+duly  executed by the Company and when  delivered in  accordance  with the terms
+hereof or  thereof  will  constitute  the valid and  binding  obligation  of the
+Company  enforceable against the Company in accordance with its terms, except as
+such  enforceability  may  be  limited  by  applicable  bankruptcy,  insolvency,
+reorganization,   moratorium,  liquidation  or  similar  laws  relating  to,  or
+
+                                       7
+<PAGE>
+
+affecting  generally the  enforcement of,  creditors'  rights and remedies or by
+other equitable principles of general application.
+
+         (c)  CAPITALIZATION.  The authorized,  issued and  outstanding  capital
+stock of the Company is set forth on SCHEDULE  3.1(C).  No Debentures  have been
+issued  as of the date  hereof.  No  shares of  Common  Stock  are  entitled  to
+preemptive or similar rights,  nor is any holder of the Common Stock entitled to
+preemptive or similar rights arising out of any agreement or understanding  with
+the Company by virtue of this Agreement.  Except as described in this Agreement,
+or disclosed in SCHEDULE  3.1(C),  there are no outstanding  options,  warrants,
+script, rights to subscribe to, registration rights, calls or commitments of any
+character  whatsoever  relating  to, or,  except as a result of the purchase and
+sale of the Debentures hereunder,  securities, rights or obligations convertible
+into or  exchangeable  for, or giving any person any right to  subscribe  for or
+acquire, any shares of Common Stock, or contracts, commitments,  understandings,
+or arrangements by which the Company or any Subsidiary is or may become bound to
+issue additional shares of Common Stock, or securities or rights  convertible or
+exchangeable into shares of Common Stock. Neither the Company nor any Subsidiary
+is in  violation  of any of the  provisions  of its  respective  Certificate  of
+Incorporation, bylaws or other charter documents.
+
+         (d) ISSUANCE OF  SECURITIES.  The Debentures and the Escrow Shares have
+been duly and validly  authorized for issuance,  offer and sale pursuant to this
+Agreement and, when issued and delivered as provided  hereunder  against payment
+in accordance with the terms hereof,  shall be valid and binding  obligations of
+the Company  enforceable in accordance with their respective  terms. The Company
+has and at all times  while the  Debentures  are  outstanding  will  continue to
+maintain an adequate  reserve of shares of Common  Stock to enable it to perform
+its  obligations  under  this  Agreement  and the  Debentures.  When  issued  in
+accordance  with the  terms  hereof,  the  Securities  will be duly  authorized,
+validly issued,  fully paid and non-assessable.  Except as set forth in SCHEDULE
+3.1(D) hereto, there is no equity,  equity equivalent  security,  debt or equity
+lines of credit  outstanding  that is  substantially  similar to the Debentures,
+including any security having a floating conversion price substantially  similar
+to the Debentures; PROVIDED, HOWEVER, that, except as otherwise provided herein,
+nothing  contained in this SECTION 3.1(D) shall be deemed to permit the issuance
+of any convertible security or instrument or equity line of credit.
+
+         (e) NO  CONFLICTS.  The  execution,  delivery and  performance  of this
+Agreement  and  the  other   Transaction   Documents  by  the  Company  and  the
+consummation by the Company of the transactions  contemplated hereby and thereby
+do not  and  will  not  (i)  conflict  with  or  violate  any  provision  of its
+Certificate of Incorporation or bylaws (each as amended through the date hereof)
+or (ii) be subject  to  obtaining  any of the  consents  referred  to in SECTION
+3.1(F), conflict with, or constitute a default (or an event which with notice or
+lapse of time or both  would  become a  default)  under,  or give to others  any
+rights  of  termination,   amendment,   acceleration  or  cancellation  of,  any
+agreement,  indenture or  instrument  to which the Company is a party,  or (iii)
+result in a violation of any law, rule, regulation, order, judgment, injunction,
+decree or other restriction of any court or governmental  authority to which the
+Company or its Subsidiaries is subject (including,  but not limited to, those of
+other countries and the federal and state securities laws and  regulations),  or
+by which any  property or asset of the Company or its  Subsidiaries  is bound or
+affected,  except  in  the  case  of  clause  (ii),  such  conflicts,  defaults,
+
+                                       8
+<PAGE>
+
+terminations,  amendments, accelerations,  cancellations and violations as would
+not,  individually  or in the aggregate,  have a Material  Adverse  Effect.  The
+business of the Company and its Subsidiaries is not being conducted in violation
+of any law, ordinance or regulation of any governmental authority.
+
+         (f)  CONSENTS  AND  APPROVALS.  Except  as  specifically  set  forth in
+SCHEDULE  3.1(F),  neither the Company nor any  Subsidiary is required to obtain
+any  consent,  waiver,  authorization  or  order  of,  or  make  any  filing  or
+registration   with,  any  court  or  other  federal,   state,  local  or  other
+governmental  authority  or other  Person  in  connection  with  the  execution,
+delivery and  performance by the Company of this Agreement and each of the other
+Transaction Documents,  except for the filing of the Articles of Merger with the
+Secretary  of State of the States of  Delaware  and Wyoming to effect the Merger
+pursuant  to the Merger  Agreement,  which shall be filed no later than ten (10)
+days  from  the  Execution   Date   (together   with  the   consents,   waivers,
+authorizations,  orders, notices and filings referred to in SCHEDULE 3.1(F), the
+"REQUIRED APPROVALS").
+
+         (g)  LITIGATION;  PROCEEDINGS.  Except  as  specifically  disclosed  in
+SCHEDULE 3.1(G),  there is no action,  suit, notice of violation,  proceeding or
+investigation  pending  or, to the best  knowledge  of the  Company,  threatened
+against or  affecting  the  Company or any of its  Subsidiaries  or any of their
+respective  properties  before or by any court,  governmental or  administrative
+agency or regulatory authority (federal,  state, county, local or foreign) which
+(i) relates to or challenges the legality,  validity or enforceability of any of
+the Transaction Documents,  the Debentures or the Underlying Shares, (ii) could,
+individually or in the aggregate, have a Material Adverse Effect or (iii) could,
+individually or in the aggregate,  materially  impair the ability of the Company
+to  perform  fully on a timely  basis  its  obligations  under  the  Transaction
+Documents.
+
+         (h) NO DEFAULT OR  VIOLATION.  Except as set forth in  SCHEDULE  3.1(H)
+hereto,  neither the Company nor any  Subsidiary  (i) is in default  under or in
+violation of any indenture,  loan or credit  agreement or any other agreement or
+instrument  to which it is a party  or by which it or any of its  properties  is
+bound,  except such  conflicts  or  defaults  as do not have a Material  Adverse
+Effect,  (ii)  is in  violation  of  any  order  of  any  court,  arbitrator  or
+governmental  body, except for such violations as do not have a Material Adverse
+Effect,  or (iii) is in  violation  of any statute,  rule or  regulation  of any
+governmental  authority  which  could  (individually  or in the  aggregate)  (x)
+adversely affect the legality, validity or enforceability of this Agreement, (y)
+have a Material Adverse Effect or (z) adversely impair the Company's  ability or
+obligation  to  perform  fully on a timely  basis  its  obligations  under  this
+Agreement.
+
+         (i) CERTAIN FEES. No fees or commission  will be payable by the Company
+to any investment  banker,  broker,  placement agent or bank with respect to the
+consummation  of the  transactions  contemplated  hereby  except as  provided in
+SECTION 4.27 hereof.
+
+         (j) DISCLOSURE DOCUMENTS.  The Disclosure Documents are accurate in all
+material  respects and do not contain any untrue statement of a material fact or
+omit to state any material fact necessary in order to make the  statements  made
+therein,  in  light  of the  circumstances  under  which  they  were  made,  not
+misleading.
+
+
+                                       9
+<PAGE>
+
+         (k) MANNER OF OFFERING.  The  Securities  are being offered and sold to
+the  Purchaser  without  registration  under  the  Securities  Act in a  private
+placement that is exempt from registration  pursuant to Rule 504 of Regulation D
+of the Securities Act and without registration under the Colorado Securities Act
+of the Colorado Revised Statues (the "COLORADO ACT") upon the exemption provided
+by Section  11-51-308 of the Colorado Act and  regulation  51-3.13B  promulgated
+thereunder. Accordingly, the Securities are being issued without restriction and
+may be freely  traded upon resale  pursuant to Rule 504 of  Regulation  D of the
+Securities Act.
+
+         (l) NON-REGISTERED OFFERING.  Neither the Company nor any Person acting
+on its behalf has taken or will take any action (including,  without limitation,
+any offering of any  securities of the Company under  circumstances  which would
+require the  integration  of such offering  with the offering of the  Securities
+under the Securities Act) which might subject the offering,  issuance or sale of
+the Securities to the  registration  requirements of Section 5 of the Securities
+Act.
+
+         (m) NOT A REPORTING COMPANY; ELIGIBILITY TO USE EXEMPTION UNDER 504(B).
+The  Company  is not  subject  to the  reporting  requirements  of Section 13 or
+Section 15(d) of the Exchange Act. The Company has not sold any securities under
+Rule 504(b) in the last twelve months,  except as disclosed in Schedule  3.1(m).
+The Company is eligible to issue securities exempt from registration pursuant to
+Rule 504 of Regulation D promulgated under the Securities Act.
+
+The Purchaser  acknowledges and agrees that the Company makes no  representation
+or warranty  with  respect to the  transactions  contemplated  hereby other than
+those specifically set forth in SECTION 3.1 hereof.
+
+         3.2  REPRESENTATIONS  AND  WARRANTIES OF THE  PURCHASER.  The Purchaser
+hereby represents and warrants to the Company as follows:
+
+         (a)  ORGANIZATION;  AUTHORITY.  The  Purchaser  is a limited  liability
+company, duly organized, validly existing and in good standing under the laws of
+the  jurisdiction  of its formation  with the  requisite  power and authority to
+enter into and to consummate  the  transactions  contemplated  hereby and by the
+other Transaction Documents and otherwise to carry out its obligations hereunder
+and  thereunder.  The  acquisition  of the  Debentures  to be  purchased  by the
+Purchaser hereunder has been duly authorized by all necessary action on the part
+of the  Purchaser.  This  Agreement  has been duly executed and delivered by the
+Purchaser  and  constitutes  the valid and  legally  binding  obligation  of the
+Purchaser,  enforceable  against it in accordance with its terms, except as such
+enforceability   may  be   limited   by   applicable   bankruptcy,   insolvency,
+reorganization,  moratorium or similar laws relating to, or affecting  generally
+the enforcement of, creditors rights and remedies or by other general principles
+of equity.
+
+         (b) INVESTMENT  INTENT. The Purchaser is acquiring the Debentures to be
+purchased by it hereunder,  and will acquire the Underlying  Shares  relating to
+such Debentures for its own account for investment  purposes only and not with a
+view to or for distributing or reselling such Debentures or Underlying Shares or
+any part  thereof or  interest  therein,  without  prejudice,  however,  to such
+Purchaser's right, subject to the provisions of this Agreement,  at all times to
+
+                                       10
+<PAGE>
+
+sell or otherwise  dispose of all or any part of such  Debentures  or Underlying
+Shares in compliance with applicable federal and state securities laws.
+
+         (c)  PURCHASER  STATUS.  At the  time the  Purchaser  was  offered  the
+Debentures to be acquired by it hereunder,  it was and at the date hereof, it is
+an "accredited investor" as defined in Rule 501(a) under the Securities Act.
+
+         (d) EXPERIENCE OF PURCHASER.  The  Purchaser,  either alone or together
+with its representatives,  has such knowledge,  sophistication and experience in
+business and financial  matters so as to be capable of evaluating the merits and
+risks of an investment in the securities to be acquired by it hereunder, and has
+so evaluated the merits and risks of such investment.
+
+         (e) ABILITY OF PURCHASER TO BEAR RISK OF  INVESTMENT.  The Purchaser is
+able to bear the economic risk of an investment in the securities to be acquired
+by it hereunder  and, at the present  time, is able to afford a complete loss of
+such investment.
+
+         (f)  PROHIBITED  TRANSACTIONS.  The  securities  to be  acquired by the
+Purchaser  hereunder are not being  acquired,  directly or indirectly,  with the
+assets of any "employee benefit plan," within the meaning of Section 3(3) of the
+Employment Retirement Income Security Act of 1974, as amended.
+
+         (g) ACCESS TO INFORMATION.  The Purchaser  acknowledges  receipt of the
+Disclosure  Documents and further acknowledges that it has been afforded (i) the
+opportunity to ask such questions as it has deemed  necessary of, and to receive
+answers from, representatives of the Company concerning the terms and conditions
+of the  securities  offered  hereunder  and the merits and risks of investing in
+such securities;  (ii) access to information about the Company and the Company's
+financial condition, results of operations, business, properties, management and
+prospects sufficient to enable it to evaluate its investment in such securities;
+and (iii)  the  opportunity  to obtain  such  additional  information  which the
+Company possesses or can acquire without  unreasonable effort or expense that is
+necessary to make an informed investment decision with respect to the investment
+and to verify the accuracy and completeness of the information  contained in the
+Disclosure Documents.
+
+         (h) RELIANCE.  The Purchaser  understands and acknowledges that (i) the
+Debentures  being  offered and sold to it hereunder  are being  offered and sold
+without  registration  under the Securities  Act in a private  placement that is
+exempt from the registration provisions of the Securities Act under Section 4(2)
+of the Securities  Act and (ii) the  availability  of such exemption  depends in
+part on, and that the Company will rely upon the accuracy and  truthfulness  of,
+the  foregoing  representations  and  such  Purchaser  hereby  consents  to such
+reliance.
+
+         The  Company  acknowledges  and  agrees  that  the  Purchaser  makes no
+representations  or  warranties  with respect to the  transactions  contemplated
+hereby other than those specifically set forth in this SECTION 3.2.
+
+
+                                       11
+<PAGE>
+
+                                   ARTICLE IV
+
+                         OTHER AGREEMENTS OF THE PARTIES
+
+         4.1 MANNER OF OFFERING.  The  Securities  are being issued  pursuant to
+Rule 504 (b) of  Regulation  D of the  Securities  Act. The  Securities  will be
+exempt from restrictions on transfer,  and will carry no restrictive legend with
+respect to the exemption from registration under the Securities Act. The Company
+will use its best  efforts  to  insure  that no  actions  are taken  that  would
+jeopardize the availability of the exemption from registration under Rule 504(b)
+for the Securities  and, if for any reason such exemption  becomes  unavailable,
+shall cause the Securities to be registered under the Securities Act as required
+by SECTION 4.29.
+
+         4.2 FURNISHING OF INFORMATION. As long as the Purchaser owns any of the
+Securities,  the Company will  promptly  furnish to the Purchaser all annual and
+quarterly reports  comparable to those required by Section 13(a) or 15(d) of the
+Exchange Act (the "NON-PUBLIC FILINGS").
+
+         4.3 NOTICE OF CERTAIN EVENTS. The Company shall, on a continuing basis,
+(i)  advise the  Purchaser  promptly  after  obtaining  knowledge  of,  and,  if
+requested by the Purchaser,  confirm such advice in writing, of (A) the issuance
+by  any  state   securities   commission  of  any  stop  order   suspending  the
+qualification  or  exemption  from   qualification  of  the  Debentures  or  the
+Underlying Shares,  for offering or sale in any jurisdiction,  or the initiation
+of any proceeding for such purpose by any state  securities  commission or other
+regulatory  authority,  or (B) any event that makes any  statement of a material
+fact made by the Company in SECTION 3.1 or in the Disclosure Documents untrue or
+that  requires the making of any additions to or changes in SECTION 3.1 in or in
+the Disclosure  Documents in order to make the statements  therein, in the light
+of the  circumstances  under which they are made, not  misleading,  (ii) use its
+best efforts to prevent the issuance of any stop order or order  suspending  the
+qualification or exemption from  qualification of the Securities under any state
+securities  or Blue Sky  laws,  and  (iii) if at any time any  state  securities
+commission or other  regulatory  authority  shall issue an order  suspending the
+qualification  or exemption from  qualification of the Securities under any such
+laws, and use its best efforts to obtain the withdrawal or lifting of such order
+at the earliest possible time.
+
+         4.4 COPIES AND USE OF DISCLOSURE  DOCUMENTS AND NON-PUBLIC FILINGS. The
+Company  shall  furnish the  Purchaser,  without  charge,  as many copies of the
+Disclosure   Documents  and  the  Non-Public   Filings  and  any  amendments  or
+supplements  thereto  as the  Purchaser  may  reasonably  request.  The  Company
+consents to the use of the Disclosure  Documents and the Non-Public  Filings and
+any  amendments  and  supplements  to any of them by the Purchaser in connection
+with resales of the Securities.
+
+         4.5 MODIFICATION TO DISCLOSURE DOCUMENTS. If any event shall occur as a
+result of which, in the reasonable judgment of the Company or the Purchaser,  it
+becomes  necessary  or advisable to amend or  supplement  any of the  Disclosure
+Documents or the Non-Public Filings in order to make the statements  therein, in
+the light of the  circumstances  at the time such  Disclosure  Documents  or the
+Non-Public  Filings were delivered to the Purchaser,  not  misleading,  or if it
+becomes necessary to amend or supplement any of the Disclosure  Documents or the
+Non-Public  Filings to comply with  applicable  law, the Company shall  promptly
+prepare an appropriate amendment or supplement to each such document in form and
+substance reasonably  satisfactory to both the Purchaser and Company so that (i)
+
+                                       12
+<PAGE>
+
+as so amended or  supplemented,  each such  document  will not include an untrue
+statement of material fact or omit to state a material  fact  necessary in order
+to make the statements  therein,  in the light of the circumstances  existing at
+the  time  it is  delivered  to the  Purchaser,  not  misleading  and  (ii)  the
+Disclosure Documents and the Non-Public Filings will comply with applicable law.
+
+         4.6 BLUE SKY LAWS.  The Company shall  cooperate  with the Purchaser in
+connection  with the exemption from  registration  of the  Securities  under the
+securities or Blue Sky laws of such jurisdictions as the Purchasers may request;
+PROVIDED,  HOWEVER,  that  neither  the Company  nor its  Subsidiaries  shall be
+required in connection  therewith to qualify as a foreign corporation where they
+are not now so qualified.  The Company agrees that it will execute all necessary
+documents  and pay all  necessary  state  filing  or notice  fees to enable  the
+Company to sell the Securities to the Purchasers.
+
+         4.7  INTEGRATION.  The Company shall not and shall use its best efforts
+to ensure that no Affiliate shall sell,  offer for sale or solicit offers to buy
+or  otherwise  negotiate  in respect of any security (as defined in Section 2 of
+the  Securities  Act)  that  would be  integrated  with the offer or sale of the
+Securities in a manner that would require the registration  under the Securities
+Act of the sale of the Securities to the Purchaser.
+
+         4.8 FURNISHING OF RULE 144(C) MATERIALS. The Company shall, for so long
+as any of the Securities  remain  outstanding and during any period in which the
+Company  is not  subject  to  Section  13 or 15(d)  of the  Exchange  Act,  make
+available to any registered holder of the Securities  ("Holder" or "Holders") in
+connection  with  any  sale  thereof  and  any  prospective  purchaser  of  such
+Securities  from such Person,  such  information in accordance  with Rule 144(c)
+promulgated under the Securities Act as is required to sell the Securities under
+Rule 144 promulgated under the Securities Act.
+
+         4.9  SOLICITATION  MATERIALS.  The Company shall not (i) distribute any
+offering materials in connection with the offering and sale of the Debentures or
+the Underlying Shares other than the Disclosure Documents and any amendments and
+supplements thereto prepared in compliance herewith or (ii) solicit any offer to
+buy or sell the  Debentures  or the  Underlying  Shares  by means of any form of
+general solicitation or advertising.
+
+         4.10  SUBSEQUENT  FINANCIAL  STATEMENTS.   If  not  otherwise  publicly
+available,  the Company  shall  promptly  furnish to the Purchaser a copy of all
+financial  statements  for any period  subsequent  to the period  covered by the
+financial  statements  included  in the  Disclosure  Documents  until  the  full
+conversion of the Debentures..
+
+         4.11 PROHIBITION ON CERTAIN  ACTIONS.  From the date hereof through the
+Post-Closing  Date, the Company shall not and shall cause the  Subsidiaries  not
+to,  without  the  prior  written  consent  of  the  Purchaser,  (i)  amend  its
+certificate or articles of incorporation,  by-laws or other charter documents so
+as to  adversely  affect any rights of the  Purchaser;  (ii)  split,  combine or
+reclassify its outstanding capital stock; (iii) declare, authorize, set aside or
+pay any dividend or other  distribution  with respect to the Common Stock;  (iv)
+redeem,  repurchase or offer to repurchase  or otherwise  acquire  shares of its
+Common  Stock;  or (v)  enter  into any  agreement  with  respect  to any of the
+foregoing.
+
+
+                                       13
+<PAGE>
+
+         4.12 LISTING OF COMMON  STOCK.  If the Common Stock shall become listed
+on the OTCBB or on another exchange,  the Company shall (a) use its best efforts
+to maintain the listing of its Common Stock on the OTCBB or such other  exchange
+on which the Common Stock is then listed until expiration of each of the periods
+during which the Shares may be converted  and (b) shall provide to the Purchaser
+evidence of such listing.
+
+         4.13  ESCROW.  The  Company  and the  Purchaser  agree to  execute  and
+deliver,  simultaneously with the execution and delivery of this Agreement,  the
+escrow agreement  attached hereto and made part hereof as EXHIBIT D (the "ESCROW
+AGREEMENT"),  and to issue into escrow the certificates to be held by the Escrow
+Agent,  registered  in the name of the  Purchaser  and without  any  restrictive
+legend of any kind, pursuant to the terms of such escrow.
+
+         4.14  CONVERSION  PROCEDURES;  MAINTENANCE OF ESCROW SHARES.  EXHIBIT D
+attached hereto and made a part hereof sets forth the procedures with respect to
+the conversion of the Debentures,  including the form of Notice of Conversion to
+be provided upon  conversion,  instructions  as to the procedures for conversion
+and such other  information and  instructions as may be reasonably  necessary to
+enable the  Purchaser or its  permitted  transferee(s)  to exercise the right of
+conversion smoothly and expeditiously.  The Company agrees that, at any time the
+conversion price of the Debentures is such that the number of Escrow Shares with
+respect  to the  Debentures  is less than 200% of the number of shares of Common
+Stock that would be needed to satisfy full  conversion of all of the  Debentures
+given the then current  conversion  price (the "FULL CONVERSION  SHARES"),  upon
+five (5) Business Days written notice of such circumstance to the Company by the
+Purchaser  and/or the Escrow  Agent,  the Company shall issue  additional  share
+certificates  in the name of the Purchaser  and/or its assigns in  denominations
+specified by the Purchaser,  and deliver same to the Escrow Agent, such that the
+new number of Escrow  Shares with respect to the  Debentures is equal to 200% of
+the Full Conversion Shares.
+
+         4.15  ATTORNEY-IN-FACT.  To effectuate the terms and provisions of this
+Agreement and the Escrow Agreement, the Company hereby agrees to give a power of
+attorney as is evidenced by EXHIBIT F annexed  hereto.  All acts done under such
+power  of  attorney   are  hereby   ratified   and   approved  and  neither  the
+Attorney-in-Fact  nor any designee or agent thereof shall be liable for any acts
+of commission or omission,  for any error of judgment or for any mistake of fact
+or law, as long as the  Attorney-in-Fact  is  operating  within the scope of the
+power of attorney and this  Agreement and its  exhibits.  The power of attorney,
+being coupled with an interest, shall be irrevocable while any of the Debentures
+remain  unconverted  or any portion of this  Agreement  or the Escrow  Agreement
+remains  unsatisfied.  In addition,  the Company shall give the Attorney-in-Fact
+resolutions  executed by the Board of Directors of the Company  which  authorize
+transfers of the  Debentures and future  issuances of the Underlying  Shares for
+the Debentures,  and which resolutions state that they are irrevocable while any
+of the  Debentures  remain  unconverted  or any portion of this Agreement or the
+Escrow Agreement remains unsatisfied.
+
+         4.16 INDEMNIFICATION.
+
+             (a)      Indemnification
+
+                  (i) The Company  shall,  notwithstanding  termination  of this
+         Agreement  and  without  limitation  as to  time,  indemnify  and  hold
+         harmless the Purchaser and its officers,  directors,  agents, employees
+         and  affiliates,  each Person who  controls the  Purchaser  (within the
+
+                                       14
+<PAGE>
+
+         meaning  of  Section  15 of the  Securities  Act or  Section  20 of the
+         Exchange Act) (each such Person, a "CONTROL  PERSON") and the officers,
+         directors,  agents,  employees  and  affiliates  of each  such  Control
+         Person,  to the fullest  extent  permitted by applicable  law, from and
+         against  any  and  all  losses,  claims,  damages,  liabilities,  costs
+         (including,  without  limitation,  costs of preparation  and attorneys'
+         fees) and expenses (collectively,  "LOSSES"), as incurred,  arising out
+         of,  or  relating  to,  a breach  or  breaches  of any  representation,
+         warranty,  covenant or agreement by the Company under this Agreement or
+         any other Transaction Document.
+
+                  (ii) The Purchaser shall,  notwithstanding termination of this
+         Agreement  and  without  limitation  as to  time,  indemnify  and  hold
+         harmless the Company,  its officers,  directors,  agents and employees,
+         each Control Person and the officers,  directors,  agents and employees
+         of each Control Person,  to the fullest extent permitted by application
+         law, from and against any and all Losses, as incurred,  arising out of,
+         or relating to, a breach or breaches of any  representation,  warranty,
+         covenant or  agreement  by the  Purchaser  under this  Agreement or the
+         other Transaction Documents.
+
+                  (b) CONDUCT OF INDEMNIFICATION  PROCEEDINGS. If any Proceeding
+shall be brought or asserted against any Person entitled to indemnity  hereunder
+(an  "INDEMNIFIED  PARTY"),  such  Indemnified  Party  promptly shall notify the
+Person from whom indemnity is sought (the "INDEMNIFYING  PARTY") in writing, and
+the  Indemnifying  Party  shall  assume  the  defense  thereof,   including  the
+employment of counsel  reasonably  satisfactory to the Indemnified Party and the
+payment of all fees and expenses  incurred in connection  with defense  thereof;
+provided,  that the failure of any  Indemnified  Party to give such notice shall
+not relieve the Indemnifying Party of its obligations or liabilities pursuant to
+this  Agreement,  except  (and  only) to the  extent  that it  shall be  finally
+determined  by a court of competent  jurisdiction  (which  determination  is not
+subject to appeal or further  review) that such failure  shall have  proximately
+and materially adversely prejudiced the Indemnifying Party.
+
+                  An Indemnified  Party shall have the right to employ  separate
+counsel in any such  Proceeding and to participate in the defense  thereof,  but
+the  fees  and  expenses  of  such  counsel  shall  be at the  expense  of  such
+Indemnified  Party or Parties unless:  (1) the Indemnifying  Party has agreed to
+pay such fees and  expenses;  or (2) the  Indemnifying  Party  shall have failed
+promptly  to  assume  the  defense  of such  Proceeding  and to  employ  counsel
+reasonably satisfactory to such Indemnified Party in any such Proceeding; or (3)
+the named parties to any such Proceeding (including any impeded parties) include
+both such  Indemnified  Party and the  Indemnifying  Party, and such Indemnified
+Party shall have been  advised by counsel  that a conflict of interest is likely
+to exist if the same counsel were to represent  such  Indemnified  Party and the
+Indemnifying  Party (in which  case,  if such  Indemnified  Party  notifies  the
+Indemnifying  Party in writing that it elects to employ separate  counsel at the
+expense of the Indemnifying  Party,  the  Indemnifying  Party shall not have the
+right to assume the defense of the claim against the Indemnified  Party but will
+
+                                       15
+<PAGE>
+
+retain the right to control the overall Proceedings out of which the claim arose
+and such counsel  employed by the  Indemnified  Party shall be at the expense of
+the  Indemnifying  Party).  The  Indemnifying  Party shall not be liable for any
+settlement of any such Proceeding  effected without its written  consent,  which
+consent shall not be unreasonably withheld. No Indemnifying Party shall, without
+the prior written consent of the Indemnified Party, effect any settlement of any
+pending Proceeding in respect of which any Indemnified Party is a party,  unless
+such settlement includes an unconditional release of such Indemnified Party from
+all liability on claims that are the subject matter of such Proceeding.
+
+                  All fees and  expenses of the  Indemnified  Party to which the
+Indemnified Party is entitled hereunder (including  reasonable fees and expenses
+to the extent incurred in connection with  investigating  or preparing to defend
+such Proceeding in a manner not inconsistent with this Section) shall be paid to
+the  Indemnified  Party,  as incurred,  within ten (10) Business Days of written
+notice thereof to the Indemnifying Party.
+
+                  No right of  indemnification  under this Section 4.16 shall be
+available  as to a  particular  Indemnified  Party if there is a  non-appealable
+final judicial determination that such Losses arise solely out of the negligence
+or bad faith of such  Indemnified  Party in performing  the  obligations of such
+Indemnified  Party under this Agreement or a breach by such Indemnified Party of
+its obligations under this Agreement.
+
+                  (c) CONTRIBUTION.  If a claim for  indemnification  under this
+Section  4.16(a) is unavailable to an Indemnified  Party or is  insufficient  to
+hold such  Indemnified  Party  harmless  for any Losses in respect of which this
+Section  4.16  would  apply by its terms  (other  than by  reason of  exceptions
+provided in this Section  4.16(c)),  then each  Indemnifying  Party,  in lieu of
+indemnifying  such  Indemnified  Party,  shall  contribute to the amount paid or
+payable by such Indemnified  Party as a result of such Losses in such proportion
+as is appropriate to reflect the relative  benefits received by the Indemnifying
+Party on the one hand and the  Indemnified  Party on the other and the  relative
+fault of the  Indemnifying  Party and  Indemnified  Party in connection with the
+actions or omissions  that resulted in such Losses as well as any other relevant
+equitable  considerations.  The relative  fault of such  Indemnifying  Party and
+Indemnified  Party shall be  determined  by reference  to,  among other  things,
+whether there was a judicial determination that such Losses arise in part out of
+the  negligence  or bad  faith  of  the  Indemnified  Party  in  performing  the
+obligations of such  Indemnified  Party under this Agreement or the  Indemnified
+Party's  breach of its  obligations  under this  Agreement.  The amount  paid or
+payable  by a party as a result of any  Losses  shall be deemed to  include  any
+attorneys' or other fees or expenses  incurred by such party in connection  with
+any  Proceeding  to the extent such party would have been  indemnified  for such
+fees  or  expenses  if the  indemnification  provided  for in this  Section  was
+available to such party.
+
+                  (d) NON-EXCLUSIVITY. The indemnity and contribution agreements
+contained in this Section are in addition to any  obligation  or liability  that
+the Indemnifying Parties may have to the Indemnified Parties.
+
+         4.17  EXCLUSIVITY.  During  the  five  year  period  commencing  on the
+Original  Issuance  Date (as  defined in the  Debentures),  the  Company and its
+Affiliates  shall not offer or issue any  convertible  security or instrument or
+any equity line of credit, other than to the Purchaser or any of its Affiliates.
+
+         4.18  PURCHASER'S  OWNERSHIP OF COMMON STOCK. In addition to and not in
+lieu  of  the  limitations  on  conversion  set  forth  in the  Debentures,  the
+conversion rights of the Purchaser set forth in the Debentures shall be limited,
+solely  to the  extent  required,  from  time to time,  such  that,  unless  the
+
+                                       16
+<PAGE>
+
+Purchaser  gives  written  notice  75  days in  advance  to the  Company  of the
+Purchaser's  intention to exceed the Limitation on Conversion as defined herein,
+with  respect  to  all  or  a  specified   amount  of  the  Debentures  and  the
+corresponding  number  of  the  Underlying  Shares,  in no  instance  shall  the
+Purchaser (singularly, together with any Persons who in the determination of the
+Purchaser,  together with the  Purchaser,  constitute a group as defined in Rule
+13d-5 of the Exchange  Act) be entitled to convert the  Debentures to the extent
+such conversion would result in the Purchaser beneficially owning more than five
+percent (5%) of the outstanding shares of Common Stock of the Company. For these
+purposes,  beneficial  ownership  shall be defined and  calculated in accordance
+with Rule 13d-3,  promulgated under the Exchange Act (the foregoing being herein
+referred to as the  "LIMITATION ON  CONVERSION");  PROVIDED,  HOWEVER,  that the
+Limitation on Conversion  shall not apply to any forced or automatic  conversion
+pursuant to this Agreement or the Debentures; and PROVIDED, FURTHER that if such
+Purchaser  shall have  declared  an Event of Default  and,  if a cure  period is
+provided,  the  Company  shall not have  properly  and fully cured such Event of
+Default  within any such cure period,  the provisions of this Section 4.18 shall
+be null and void from and after such date. The Company shall,  promptly upon its
+receipt  of a Notice  of  Conversion  tendered  by such  Purchaser  (or its sole
+designee)  for  the  Debentures,  notify  such  Purchaser  by  telephone  and by
+facsimile of the number of shares of Common Stock  outstanding  on such date and
+the number of  Underlying  Shares which would be issuable to such  Purchaser (or
+its  sole  designee,  as the case may be) if the  conversion  requested  in such
+Notice of Conversion  were effected in full,  whereupon,  in accordance with the
+Debentures notwithstanding anything to the contrary set forth in the Debentures,
+such  Purchaser  may within one (1)  Business  Day of its receipt of the Company
+notice required by this Section 4.18 by facsimile  revoke such conversion to the
+extent (in whole or in part) that such Purchaser determines that such conversion
+would  result in the  ownership  by such  Purchaser of shares of Common Stock in
+excess of the Limitation on Conversion.
+
+         4.19 PURCHASER'S RIGHTS IF TRADING IN COMMON STOCK IS SUSPENDED. If the
+Common Stock is listed on any exchange,  then at any time after the Post-Closing
+if trading in the shares of the Common  Stock is suspended  (and not  reinstated
+within ten (10)  Trading  Days) on such stock  exchange or market upon which the
+Common  Stock  is  then  listed  for  trading  (other  than as a  result  of the
+suspension  of trading in  securities  on such  market  generally  or  temporary
+suspensions pending the release of material information), or the Common Stock is
+delisted from the OTCBB (and not reinstated within ten (10) Trading Days), then,
+at the  option of the  Purchaser  exercisable  by giving  written  notice to the
+Company (the "Redemption Notice"), the Company shall redeem, as applicable,  all
+of the Debentures and Underlying  Shares owned by such Purchaser at an aggregate
+purchase price equal to the sum of:
+
+         (i) the product of (1) the average Per Share  Market Value for the five
+(5) Trading Days  immediately  preceding (a) the date of the Redemption  Notice,
+(b) the date of payment in full of the repurchase  price under this SECTION 4.19
+recalculated  as of  such  date,  or (c) the  day  when  the  Common  Stock  was
+suspended, delisted or deleted from trading, whichever is greater, multiplied by
+(2) the  aggregate  number  of  Underlying  Shares  then  held and owned by such
+Purchaser;
+
+         (ii) the greater of (A) the  outstanding  principal  amount and accrued
+and  unpaid  interest  on the  Debentures  owned by such  Purchaser  and (B) the
+product of (1) the average Per Share  Market Value for the five (5) Trading Days
+immediately  preceding (a) the date of the  Redemption  Notice,  (b) the date of
+
+                                       17
+<PAGE>
+
+payment in full of the repurchase price under this SECTION 4.19  recalculated as
+of such date,  or (c) the day when the Common Stock was  suspended,  delisted or
+deleted from  trading,  whichever is greater,  multiplied  by (B) the  aggregate
+number of  Underlying  Shares  issuable upon the  conversion of the  outstanding
+Debentures then held and owned by the Purchaser(without  taking into account the
+Limitation on Conversion described in Section 4.18 hereof); and
+
+         (iii)  interest on such amounts set forth in (i) - (ii) above  accruing
+from the seventh  (7th) day after the date of the  Redemption  Notice  until the
+repurchase price under this Section 4.19 is paid in full, at the rate of fifteen
+percent (15%) per annum.
+
+         4.20 NO VIOLATION OF APPLICABLE LAW.  Notwithstanding  any provision of
+this  Agreement to the  contrary,  if the  redemption  of the  Debentures or the
+Underlying  Shares  otherwise  required  under this  Agreement or the Debentures
+would be prohibited by the relevant  provisions of Wyoming law, such  redemption
+shall be effected as soon as it is permitted under such law; PROVIDED,  HOWEVER,
+that interest  payable by the Company with respect to any such redemption  shall
+accrue in accordance with SECTION 4.19.
+
+         4.21  REDEMPTION  RESTRICTIONS.  Notwithstanding  any provision of this
+Agreement to the contrary, if any redemption of the Debentures or the Underlying
+Shares  otherwise  required  under this  Agreement  or the  Debentures  would be
+prohibited  in the  absence of consent  from any lender to the Company or any of
+the  Subsidiaries,  or by the holders of any class of securities of the Company,
+the Company  shall use its best  efforts to obtain  such  consent as promptly as
+practicable  after any such  redemption  is  required.  Interest  payable by the
+Company with respect to any such  redemption  shall  accrue in  accordance  with
+SECTION 4.19 until such consent is obtained.  Nothing  contained in this SECTION
+4.21 shall be construed  as a waiver by the  Purchaser of any rights it may have
+by virtue of any breach of any  representation or warranty of the Company herein
+as to the absence of any requirement to obtain any such consent.
+
+         4.22 NO OTHER REGISTRATION RIGHTS.  During the period commencing on the
+date hereof and ending on the Post-Closing  Date, the Company shall not file any
+registration  statement that provides for the  registration  of shares of Common
+Stock to be sold by security  holders of the Company,  other than the  Purchaser
+and/or its respective  Affiliates or assigns,  without the prior written consent
+of the Purchaser or its assigns,  provided,  however, that the limitation on the
+right to file registration  statements  contained in this SECTION 4.22 shall not
+apply to registration  statements relating solely to (i) employee benefit plans,
+notwithstanding  the inclusion of a resale  prospectus for  securities  received
+under  any  such  employee  benefit  plan,  or (ii)  business  combinations  not
+otherwise  prohibited  by the terms of this  Agreement or the other  Transaction
+Documents.
+
+         4.23  MERGER  OR  CONSOLIDATION.  Until  the  earlier  of (a) the  full
+conversion of the  Debentures  and (b) the Maturity Date of the  Debentures  (as
+that term is defined in the  Debentures),  the Company and each  Subsidiary will
+not,  in  a  single  transaction  or  a  series  of  related  transactions,  (i)
+consolidate  with or merge  with or into any other  Person,  or (ii)  permit any
+other  Person to  consolidate  with or merge into it,  unless (w) either (A) the
+Company  shall  be the  survivor  of such  merger  or  consolidation  or (B) the
+surviving  Person shall expressly  assume by  supplemental  agreement all of the
+obligations  of the Company under the  Debentures,  this Agreement and the other
+
+                                       18
+<PAGE>
+
+Transaction  Documents;  (x)  immediately  before and  immediately  after giving
+effect to such transactions  (including any indebtedness incurred or anticipated
+to be incurred in connection with the  transactions),  no Event of Default shall
+have occurred and be continuing; (y) if the Company is not the surviving entity,
+such  surviving  entity's  common  shares  will be listed on either The New York
+Stock  Exchange,  American  Stock  Exchange,  Nasdaq  National  Market or Nasdaq
+SmallCap Market, or the OTCBB on or prior to the closing of such  transaction(s)
+and  (z)  the  Company  shall  have  delivered  to the  Purchaser  an  officers*
+certificate and opinion of counsel, each stating that such consolidation, merger
+or transfer complies with this Agreement, that the surviving Person agrees to be
+bound thereby and that all conditions  precedent in this  Agreement  relating to
+such transaction(s) have been satisfied.
+
+         4.24 REGISTRATION OF ESCROW SHARES. (a) So long as the Purchaser and/or
+its assigns owns any of the Securities  and the  Underlying  Shares would not be
+freely  transferable  without  registration,  the  Company  agrees not to file a
+registration statement with the SEC, other than on Form 10, Form S-4 (except for
+a public  reoffering or resale) or Form S-8 without first having  registered the
+Registrable Securities for resale under the Securities Act and in such states of
+the United States as the holders thereof shall reasonably request.
+
+         (b) If the Company shall propose to file with the SEC any  registration
+statement  other than a Form 10,  Form S-4 (except  for a public  reoffering  or
+resale)  or Form S-8 which  would  cause,  or have the  effect of  causing,  the
+Company to become a Reporting Issuer or to take any other action, other than the
+sale of the Debentures to the Purchaser hereunder,  the effect of which would be
+to cause the  Underlying  Shares to be  restricted  securities  (as such term is
+defined in Rule 144 promulgated under the Securities Act), the Company agrees to
+give written  notification of such to the holders of the Securities at least two
+weeks  prior to such  filing  or taking of the  proposed  action.  If any of the
+Securities  are  then  outstanding,  the  Company  agrees  to  include  in  such
+registration  statement the Registrable  Securities unless the Underlying Shares
+would be freely  transferable  upon  conversion of the  Debentures  without such
+registration, so as to permit the public resale thereof.
+
+         If  the  registration  of  which  the  Company  gives  notice  is for a
+registered public offering involving an underwriting, the Company will so advise
+the holders of the Securities. In such event, these registration rights shall be
+conditioned  upon  such  holder's  participation  in such  underwriting  and the
+inclusion of such holder's  Registrable  Securities in the  underwriting  to the
+extent provided herein.  All holders  proposing to distribute their  Registrable
+Securities through such underwriting shall enter into an underwriting  agreement
+in customary  form with the  underwriter  selected by the Company.  In the event
+that the lead or managing underwriter in its good faith judgment determines that
+material  adverse market factors require a limitation on the number of shares to
+be underwritten, the underwriter may limit the number of Registrable Securities.
+In such event, the Company shall so advise all holders of securities  requesting
+registration,  and the number of shares of  securities  that are  entitled to be
+included in the registration and underwriting  shall be allocated pro rata among
+all holders and other  participants,  including the Company,  in proportion,  as
+nearly as practicable,  to the respective amounts of Registrable  Securities and
+other  securities  which they had requested to be included in such  registration
+statement  at the time of  filing  the  registration  statement.  If any  holder
+disapproves  of the terms of any such  underwriting,  he may  elect to  withdraw
+there from by written notice to the Company and the  underwriter,  provided such
+notice is delivered  within sixty (60) days of full  disclosure of such terms to
+
+                                       19
+<PAGE>
+
+such holder,  without thereby  affecting the right of such holder to participate
+in subsequent offerings hereunder.
+
+         (c) Notwithstanding the foregoing,  if the Company for any reason shall
+have taken any action,  other than the sale of the  Debentures  to the Purchaser
+hereunder,  the effect of which would be to cause the Registrable  Securities to
+be restricted  securities (as such term is defined in Rule 144 promulgated under
+the Securities  Act),  the Company  agrees to immediately  file with the SEC and
+cause to become effective a registration statement which would permit the public
+resale of the Registrable Securities under the Securities Act and in such states
+of the United States as the holders thereof shall reasonably request.
+
+         (d) The Company agrees to keep any  registration  required  pursuant to
+this SECTION 4.24 continuously  effective under the Securities Act and with such
+states of the United States as the holders of the Registrable  Securities  shall
+reasonably  request  until  the  earlier  of (i) the  date on  which  all of the
+Registrable  Securities  covered by any such  registration  have been sold, (ii)
+five (5) years from the effective  date of any such  registration,  or (iii) the
+date on which all of the Registrable  Securities may be sold without restriction
+pursuant to Rule 144 of the  Securities  Act. All costs and expenses of any such
+registration   and  related   Blue  Sky  filings  and   maintaining   continuous
+effectiveness of such registration and filings shall be borne by the Company.
+
+         (e) The Escrow  Shares  shall be  registered  by the Company  under the
+Securities Act if required by Section 4.29 and subject to the conditions  stated
+therein.
+
+         4.25  LIQUIDATED  DAMAGES.  The Company  understands  and agrees that a
+breach by the Company of Section 4.1, Section 4.24,  Section 4.29,  Section 4.30
+or an  Event  of  Default  as  contained  in this  Agreement  and/or  any  other
+Transaction  Document will result in substantial economic loss to the Purchaser,
+which loss will be extremely  difficult to calculate with precision.  Therefore,
+if, for any reason,  the Company breaches  Sections 4.1,  Section 4.24,  Section
+4.29,  Section  4.30 or fails to cure any Event of Default  within the time,  if
+any, given to cure such Event of Default, as compensation and liquidated damages
+for such breach or default,  and NOT as a penalty, the Company agrees to pay the
+Purchaser an amount  obtained by  multiplying  the Purchase Price times two (2).
+The Company shall,  upon demand,  pay the Purchaser such  liquidated  damages by
+wire transfer of  immediately  available  funds to an account  designated by the
+Purchaser.  Nothing  herein  shall  limit the right of the  Purchaser  to pursue
+actual damages (less the amount of any liquidated  damages received  pursuant to
+the foregoing) for the Company's  breach of Section 4.1,  Section 4.24,  Section
+4.29,  Section 4.30 or failure to cure an Event of Default,  consistent with the
+terms of this Agreement.  NOTWITHSTANDING  ANYTHING TO THE CONTRARY CONTAINED IN
+THIS AGREEMENT OR THE OTHER  TRANSACTION  DOCUMENTS,  THE COMPANY'S  OBLIGATIONS
+UNDER THIS SECTION SHALL SURVIVE ANY  TERMINATION OF THIS AGREEMENT OR THE OTHER
+TRANSACTION DOCUMENTS.
+
+         4.26 SHORT SALES.  The Purchaser agrees that it will not enter into any
+Short Sales (as hereinafter defined) until the earlier to occur of the date that
+the Purchaser no longer owns the  Debentures  and the Maturity Date. For purpose
+hereof,  a "SHORT SALE" shall mean a sale of Common Stock by the Purchaser  that
+is marked as a short sale and that is made at a time when there is no equivalent
+offsetting long position in the Common Stock by the Purchaser.  For the purposes
+
+                                       20
+<PAGE>
+
+of determining  whether there is an equivalent  offsetting  long position in the
+Common  Stock  held by the  Purchaser,  shares of  Common  Stock  issuable  upon
+conversion  of the  Debentures  shall be deemed to be held long by the Purchaser
+with  respect  to the  Underlying  Shares  for which a Notice of  Conversion  is
+delivered  within two (2) Trading Days following the Trading Day that such short
+sale is entered into.
+
+         4.27 FEES.  The Company  will pay the  following  fees and  expenses in
+connection with the transactions  contemplated hereby: (a) to KGL (i) legal fees
+for  document  production  in the amount of $25,000  and (ii) all  out-of-pocket
+expenses incurred in connection with such document production; (b) to the Escrow
+Agent,  $5,000 for the escrow agent fee; and (c) to Hand & Hand, a  Professional
+Corporation,  $5,000 for legal fees.  Unless paid prior,  all fees and  expenses
+will be paid at Post-Closing  and the Company and the Purchaser hereby authorize
+and direct the  Escrow  Agent to deduct  such fees and  expenses  directly  from
+escrow prior to  distributing  any funds to the Company.  Except with respect to
+the fees set forth in  subparagraphs  (b) and (c) of this SECTION 4.27, all fees
+and expenses shall be paid regardless of whether the  transactions  contemplated
+hereby are closed or otherwise  completed.  All fees to be paid hereunder  shall
+have no offsets, are non-refundable and non-cancelable.
+
+         4.28  ADDITIONAL  FEES. If the Company or any of its Affiliates  enters
+into any future  financing  with any  prospective  purchaser  introduced  by the
+Purchaser  within a period of two (2) years from the date  hereof,  the  Company
+agrees to pay to the Purchaser simultaneously with the closing of such financing
+an amount equal to four percent (4%) of the  aggregate  amount of the portion of
+such financing purchased by or for the account of such Person.
+
+         4.29  CHANGES  TO  FEDERAL  AND STATE  SECURITIES  LAWS.  If any of the
+Securities require  registration with or approval of any governmental  authority
+under any federal  (including  but not limited to the  Securities Act or similar
+federal  statute  then in  force)  or state  law,  or  listing  on any  national
+securities  exchange,  before  they may be resold  or  transferred  without  any
+restrictions on their resale or transfer for reasons including,  but not limited
+to, a  material  change  in Rule  504 of  Regulation  D  promulgated  under  the
+Securities  Act or a  change  to the  exemption  for  sales  made to  Accredited
+Investors in the state in which the Purchaser resides,  the Company will, at its
+expense, (a) as expeditiously as possible cause the Registrable Securities to be
+duly  registered  or  approved  or listed on the  relevant  national  securities
+exchange,  as the  case may be,  and (b) keep  such  registration,  approval  or
+listing, as the case may be, continuously effective until the earlier of (i) the
+date on which all of the  Registrable  Securities  have been sold, (ii) five (5)
+years from the  effective  date of any such  registration,  or (iii) the date on
+which all of the Registerable Shares may be sold without restriction pursuant to
+Rule 144 of the Securities Act. The Registrable  Securities  shall be registered
+by the Company under the  Securities Act if required by Section 4.24 and subject
+to the conditions stated therein.
+
+         4.30 MERGER AGREEMENT.  Immediately upon the Effective Date, all of the
+transactions  contemplated by the Merger  Agreement  annexed hereto as EXHIBIT B
+shall be consummated in accordance with the terms thereof.
+
+         4.31 FUTURE  FINANCING.  If, at any time the Debenture is  outstanding,
+the Company, or its successors in interest due to mergers, consolidations and/or
+acquisitions  (the  "Successors-in-Interest"),  is funded an amount  equal to or
+exceeding Five Million United States  dollars  ($5,000,000),  the Company or the
+Successors-in-Interest,  as the  case may be,  agrees  to pay the  Purchaser  an
+
+                                       21
+<PAGE>
+
+amount  equal to One  Hundred  Fifty  Percent  (150%)  of the  then  outstanding
+Debenture (the "Lump Sum Payment"). Upon the Purchaser's receipt of the Lump Sum
+Payment, any and all remaining  obligations then outstanding between the Company
+or the  Successors-in-Interest,  as the case may be, and Purchaser in connection
+with  this  Agreement  shall  be deem  satisfied,  and the  Agreement  shall  be
+terminated. This provision shall survive both Closing and Post-Closing.
+
+                                   ARTICLE V
+
+                                   TERMINATION
+
+         5.1  TERMINATION BY THE COMPANY OR THE PURCHASER.  This Agreement shall
+be  terminated as follows upon the  occurrence  of any of the  following  events
+(each an "Event of Default"):
+
+                  (a) Automatically terminated prior to Post-Closing if:
+
+                           (i) there shall be in effect any statute,  rule,  law
+                  or  regulation,  including an amendment to  Regulation D or an
+                  interpretive  release  promulgated or issued thereunder,  that
+                  prohibits  the  consummation  of  the  Post-Closing  or if the
+                  consummation   of   the   Post-Closing   would   violate   any
+                  non-appealable  final  judgment,   order,  decree,  ruling  or
+                  injunction of any court of or  governmental  authority  having
+                  competent jurisdiction;
+
+                           (ii) the Post-Closing  shall not have occurred by the
+                  Post-Closing Date;
+
+                           (iii)  the  common  stock  of HYTT is not  registered
+                  under Section 12 of the Exchange Act;
+
+                           (iv) HYTT is not current in its reporting obligations
+                  under Section 13 or 15(d) of the Exchange Act;
+
+                           (v)  an  event  occurs  prior  to  the   Post-Closing
+                  requiring HYTT to report such event to the SEC on Form 8-K and
+                  not otherwise set forth in SCHEDULE  5.1,  provided,  however,
+                  such event shall only include the  following  items under Form
+                  8-K:  Item 1; Item 2 to the extent  that any event is reported
+                  under  Item 2 that  involves  a change in the nature of HYTT's
+                  business; Item 3; or Item 4 (provided further, that as to Item
+                  4,  only if the  event  requires  disclosure  under  Item  304
+                  (a)(1)(iv) under Regulation S-B);
+
+                           (vi)  trading  in the  common  stock of HYTT has been
+                  suspended,  delisted, or otherwise ceased by the Commission or
+                  the NASD or other exchange or the Nasdaq (whether the National
+                  Market or otherwise),  except for any suspension of trading of
+                  limited  duration solely to permit  dissemination  of material
+                  information regarding HYTT, and not reinstated within ten (10)
+                  Trading Days; or
+
+
+                                       22
+<PAGE>
+
+                           (vii) the  Company  fails to  deliver or caused to be
+                  delivered the  Debentures and Escrow Shares as required by and
+                  by the date set forth in Section 2.2 hereof.
+
+                  (b) Prior to Post-Closing by the Purchaser,  by giving written
+         notice  of  such  termination  to  the  Company,  if  the  Company  has
+         materially breached any representation, warranty, covenant or agreement
+         contained in this Agreement or the other Transaction Documents and such
+         breach is not cured within five (5) Business Days following  receipt by
+         the Company of notice of such breach.
+
+                  (c) Prior to  Post-Closing  by the Company,  by giving written
+         notice of such  termination  to the  Purchaser,  if the  Purchaser  has
+         materially breached any representation, warranty, covenant or agreement
+         contained in this Agreement or the other Transaction Documents and such
+         breach is not cured within five (5) Business Days following  receipt by
+         the Purchaser of notice of such breach.
+
+         5.2 REMEDIES.  Notwithstanding  anything else  contained  herein to the
+contrary,  if an Event of Default has occurred pursuant to Section 5.1, and only
+with  respect to  Section  5.1(b)  has not been  cured  within  the cure  period
+provided for therein, the defaulting party shall be deemed in default hereof and
+the  non-defaulting  party  shall be  entitled  to pursue all  available  rights
+without further notice.  The defaulting  party shall pay all attorney's fees and
+costs incurred in enforcing this Agreement and the other Transaction  Documents.
+In  addition,  all unpaid  amounts  shall  accrue  interest at a rate of 15% per
+annum.
+
+                                   ARTICLE VI
+
+                      LEGAL FEES AND DEFAULT INTEREST RATE
+
+         In the event any party  hereto  commences  legal  action to enforce its
+rights  under  this   Agreement   or  any  other   Transaction   Document,   the
+non-prevailing  party shall pay all reasonable costs and expenses (including but
+not limited to reasonable attorney's fees,  accountant's fees,  appraiser's fees
+and  investigative  fees) incurred in enforcing such rights.  In the event of an
+uncured Event of Default by any party  hereunder,  interest  shall accrue on all
+unpaid amounts due the aggrieved party at the rate of 15% per annum,  compounded
+annually.
+
+                                  ARTICLE VII
+
+                                  MISCELLANEOUS
+
+         7.1 FEES AND  EXPENSES.  Except  as set forth in this  Agreement,  each
+party shall pay the fees and expenses of its advisers, counsel,  accountants and
+other experts, if any, and all other expenses incurred by such party incident to
+the  negotiation,  preparation,  execution,  delivery  and  performance  of this
+Agreement.  The Company shall pay the fees of the Escrow Agent and all stamp and
+other taxes and duties levied in connection  with the issuance of the Debentures
+(and, upon conversion,  the Underlying  Shares)  pursuant hereto.  The Purchaser
+shall be responsible  for any taxes payable by the Purchaser that may arise as a
+result of the  investment  hereunder or the  transactions  contemplated  by this
+
+                                       23
+<PAGE>
+
+Agreement or any other  Transaction  Document.  Whether or not the  transactions
+contemplated hereby and thereby are consummated or this Agreement is terminated,
+the Company shall pay (i) all costs,  expenses,  fees and all taxes  incident to
+and in connection  with: (A) the  preparation,  printing and distribution of any
+registration  statement  required  hereunder and all amendments and  supplements
+thereto (including, without limitation,  financial statements and exhibits), and
+all  preliminary  and  final  Blue  Sky  memoranda  and  all  other  agreements,
+memoranda,   correspondence  and  other  documents  prepared  and  delivered  in
+connection  herewith,  (B) the issuance and delivery of the Securities,  (C) the
+exemption  from  registration  of the  Securities  for  offer  and  sale  to the
+Purchaser under the securities or Blue Sky laws of the applicable  jurisdiction,
+(D) furnishing such copies of any registration statement required hereunder, the
+preliminary and final  prospectuses and all amendments and supplements  thereto,
+as may  reasonably  be  requested  for use in  connection  with  resales  of the
+Securities,   and  (E)  the  preparation  of  certificates  for  the  Securities
+(including,  without limitation,  printing and engraving thereof), (ii) all fees
+and  expenses of counsel and  accountants  of the Company and (iii) all expenses
+and fees of listing on securities exchanges, if any.
+
+         7.2 ENTIRE AGREEMENT;  AMENDMENTS. This Agreement, together with all of
+the Exhibits and Schedules annexed hereto,  and any other  Transaction  Document
+contains  the entire  understanding  of the parties  with respect to the subject
+matter hereof and supersede all prior  agreements  and  understandings,  oral or
+written,  with respect to such matters.  This Agreement  shall be deemed to have
+been drafted and  negotiated by both parties  hereto and no  presumptions  as to
+interpretation,  construction  or  enforceability  shall  be made by or  against
+either party in such regard.
+
+         7.3 NOTICES. Any notice or other communication required or permitted to
+be given  hereunder  shall be in  writing  and shall be deemed to have been duly
+given  upon  facsimile  transmission  (with  written  transmission  confirmation
+report) at the number  designated  below (if  delivered on a Business Day during
+normal  business  hours  where  such  notice  is to be  received),  or the first
+Business Day following such delivery (if delivered  other than on a Business Day
+during  normal  business  hours where such notice is to be  received)  whichever
+shall first occur. The addresses for such communications shall be:
+
+                  If to the Company:    Sanjay Haryama
+                                        24351 Pasto Road, Suite B
+                                        Dana Point, California 92629
+                                        Attn:  Jay Hand
+                                        Tel:    (949) 489-2400
+                                        Fax:    (949) 489-0034
+
+                  With copies to:       Kaplan Gottbetter & Levenson, LLP, or
+                                        its successors or assigns
+                                        630 Third Avenue
+                                        New York, NY 10017-6705
+                                        Attn:  Adam S. Gottbetter, Esq.
+                                        Tel: (212) 983-6900
+                                        Fax: (212) 983-9210
+
+
+                                       24
+<PAGE>
+
+                  If to the Purchaser:  See SCHEDULE 1 attached hereto
+
+                  With copies to:       Kaplan Gottbetter & Levenson, LLP, or
+                                        its successors or assigns
+                                        630 Third Avenue
+                                        New York, NY 10017-6705
+                                        Attn:  Adam S. Gottbetter, Esq.
+                                        Tel: (212) 983-6900
+                                        Fax: (212) 983-9210
+
+                  If to Escrow Agent:   Kaplan Gottbetter & Levenson, LLP, or
+                                        its successors or assigns
+                                        630 Third Avenue
+                                        New York, NY 10017-6705
+                                        Attn:  Adam S. Gottbetter, Esq.
+                                        Tel: (212) 983-6900
+                                        Fax: (212) 983-9210
+
+
+or such other address as may be designated hereafter by notice given pursuant to
+the terms of this Section 7.3.
+
+         7.4 AMENDMENTS;  WAIVERS.  No provision of this Agreement may be waived
+or amended except in a written  instrument  signed, in the case of an amendment,
+by both the Company and the Purchaser, or, in the case of a waiver, by the party
+against whom enforcement of any such waiver is sought.  No waiver of any default
+with respect to any provision,  condition or requirement of this Agreement shall
+be  deemed  to be a  continuing  waiver  in the  future or a waiver of any other
+provision,  condition or requirement  hereof, nor shall any delay or omission of
+either party to exercise any right  hereunder in any manner  impair the exercise
+of any such right accruing to it thereafter.
+
+         7.5  HEADINGS.  The headings  herein are for  convenience  only, do not
+constitute a part of this  Agreement  and shall not be deemed to limit or affect
+any of the provisions hereof.
+
+         7.6  SUCCESSORS AND ASSIGNS.  This Agreement  shall be binding upon and
+inure  to the  benefit  of the  parties  and  their  respective  successors  and
+permitted  assigns.  This  Agreement  and  any  of  the  rights,   interests  or
+obligations  hereunder may be assigned by the  Purchaser  without the consent of
+the Company.  This  Agreement  and any of the rights,  interests or  obligations
+hereunder may not be assigned by the Company  without the prior written  consent
+of the Purchaser.
+
+         7.7 NO THIRD PARTY  BENEFICIARIES.  This  Agreement is intended for the
+benefit of the parties  hereto and their  respective  permitted  successors  and
+assigns and is not for the benefit of, nor may any provision  hereof be enforced
+by, any other person.
+
+         7.8  GOVERNING  LAW;  VENUE;  SERVICE OF PROCESS.  The  parties  hereto
+acknowledge  that  the  transactions  contemplated  by  this  Agreement  and the
+
+                                       25
+<PAGE>
+
+exhibits hereto bear a reasonable relation to the State of New York. The parties
+hereto agree that the  internal  laws of the State of New York shall govern this
+Agreement  and the exhibits  hereto,  including,  but not limited to, all issues
+related to usury.  Any action to enforce the terms of this  Agreement  or any of
+its exhibits  shall be brought  exclusively  in the state and/or  federal courts
+situate in the County and State of New York. Service of process in any action by
+the  Purchaser to enforce the terms of this  Agreement  may be made by serving a
+copy of the summons and complaint,  in addition to any other relevant documents,
+by  commercial  overnight  courier to the Company at its  principal  address set
+forth in this Agreement.
+
+         7.9 SURVIVAL. The representations and warranties of the Company and the
+Purchaser  contained  in Article III and the  agreements  and  covenants  of the
+parties  contained  in  Article  IV and  this  Article  VII  shall  survive  the
+Post-Closing (or any earlier termination of this Agreement).
+
+         7.10 COUNTERPART  SIGNATURES.  This Agreement may be executed in two or
+more counterparts,  all of which when taken together shall be considered one and
+the same agreement and shall become effective when counterparts have been signed
+by each party and delivered to the other party,  it being  understood  that both
+parties need not sign the same  counterpart.  In the event that any signature is
+delivered by facsimile  transmission,  such  signature  shall create a valid and
+binding  obligation of the party executing (or on whose behalf such signature is
+executed) the same with the same force and effect as if such facsimile signature
+page were an original thereof.
+
+         7.11  PUBLICITY.  The Company and the Purchaser shall consult with each
+other in issuing any press releases or otherwise  making public  statements with
+respect to the  transactions  contemplated  hereby and neither party shall issue
+any such press release or otherwise make any such public  statement  without the
+prior written  consent of the other,  which  consent  shall not be  unreasonably
+withheld or delayed,  unless counsel for the disclosing  party deems such public
+statement to be required by applicable  federal  and/or state  securities  laws.
+Except as otherwise  required by applicable law or regulation,  the Company will
+not disclose to any third party the names of the Purchaser.
+
+         7.12  SEVERABILITY.  In case any one or more of the  provisions of this
+Agreement  shall be invalid or  unenforceable  in any respect,  the validity and
+enforceability of the remaining terms and provisions of this Agreement shall not
+in any way be affected or impaired thereby and the parties will attempt to agree
+upon a valid and enforceable  provision  which shall be a reasonable  substitute
+therefore,  and upon so agreeing, shall incorporate such substitute provision in
+this Agreement.
+
+         7.13  LIMITATION OF REMEDIES.  With respect to claims by the Company or
+any person  acting by or through the  Company  for  remedies at law or at equity
+relating to or arising  out of a breach of this  Agreement,  liability,  if any,
+shall, in no event, include loss of profits or incidental,  indirect, exemplary,
+punitive, special or consequential damages of any kind.
+
+         7.14  OMNIBUS  PROVISION.  Anything  contained  herein  or in the other
+Transaction Documents notwithstanding,  in the event that the Common Stock shall
+become listed on the OTCBB and  subsequently  ceases to be listed for trading on
+the OTCBB, then any reference thereto in this Agreement or the other Transaction
+Documents  shall be  deemed  to be a  reference  to (a) the  principal  national
+securities  exchange  on which the Common  Stock is then  listed or  admitted to
+
+                                       26
+<PAGE>
+
+trading, or (b) if the Common Stock is not then listed or admitted to trading on
+any national securities exchange, Nasdaq, or (c) if the Common Stock is not then
+listed or  admitted  to  trading  on Nasdaq,  then the  over-the-counter  market
+reported by the Pinksheets LLC (or similar  organization or agency succeeding to
+its functions of reporting prices).
+
+
+                            [SIGNATURE PAGE FOLLOWS]
+
+
+                                       27
+<PAGE>
+
+
+
+         IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be
+duly executed as of the date first indicated above.
+
+                                            Company:
+
+                                            Sanjay Haryama
+
+
+                                            By:  ________________________
+                                                 Name:     Jay Hand
+                                                 Title:    President
+
+
+
+                                            Purchaser:
+
+                                            HEM Mutual Assurance LLC
+
+                                            By:  ________________________
+                                                 Name:     Pierce Loughran
+                                                 Title:    Manager
+
+
+                                       28
+<PAGE>
+
+
+                                   Schedule 1
+
+                                  PURCHASER(S)
+
+
+          --------------------------------------- -----------------------------
+              Name and Address of Purchaser        Full Amount of Debentures
+                                                        to be Purchased
+          --------------------------------------- -----------------------------
+          HEM Mutual Assurance LLC
+          One Tabor Center                                 $1,000,000
+          1200 17th Street
+          Suite 1000
+          Denver, CO  80202
+          --------------------------------------- -----------------------------
+
+
+
+
+                                       29
+<PAGE>
+
+
+
+                                 Schedule 3.1(a)
+
+                                  SUBSIDIARIES
+
+None.
+
+
+                                       30
+<PAGE>
+
+
+
+                                 Schedule 3.1(c)
+
+                     CAPITALIZATION AND REGISTRATION RIGHTS
+
+The articles of incorporation provide for unlimited  authorization of the number
+of shares of Common Stock and Preferred Stock.  1,000 shares of Common Stock are
+outstanding.
+
+
+                                       31
+<PAGE>
+
+
+
+                                 Schedule 3.1(d)
+
+                     EQUITY AND EQUITY EQUIVALENT SECURITIES
+
+None.
+
+
+                                       32
+<PAGE>
+
+
+
+                                 Schedule 3.1(e)
+
+                                    CONFLICTS
+
+None.
+
+
+                                       33
+<PAGE>
+
+
+
+                                 Schedule 3.1(f)
+
+                             CONSENTS AND APPROVALS
+
+SEC Filing - Form D
+
+Colorado Blue Sky Filing (or exemption therefrom)
+
+
+                                       34
+<PAGE>
+
+
+
+                                 Schedule 3.1(g)
+
+                                   LITIGATION
+
+None.
+
+
+                                       35
+<PAGE>
+
+
+
+                                 Schedule 3.1(h)
+
+                             DEFAULTS AND VIOLATIONS
+
+None.
+
+
+                                       36
+<PAGE>
+
+
+
+                                  Schedule 5.1
+
+                         FORM 8-K DISCLOSURE OBLIGATIONS
+
+None.
+
+
+                                       37
+<PAGE>
+
+</TEXT>
+</DOCUMENT>

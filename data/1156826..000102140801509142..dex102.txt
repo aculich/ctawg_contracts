@@ -1,0 +1,1138 @@
+<DOCUMENT>
+<TYPE>EX-10.2
+<SEQUENCE>9
+<FILENAME>dex102.txt
+<DESCRIPTION>AGREEMENT AND FIRST AMENDMENT TO CREDIT AGREEMENT
+<TEXT>
+<PAGE>
+
+                                                                    EXHIBIT 10.2
+
+                          AGREEMENT AND FIRST AMENDMENT
+                               TO CREDIT AGREEMENT
+
+         THIS AGREEMENT and First Amendment to Credit Agreement, hereinafter
+referred to as this "Amendment", dated as of September 21, 2001, is made and
+entered into by and among ARCHSTONE COMMUNITIES TRUST, a Maryland real estate
+investment trust (the "Borrower"), the financial institutions (including Chase,
+                       --------
+the Syndication Agent and the Documentation Agent, the "Lenders") which are now
+                                                        -------
+or may hereafter become signatories hereto, THE CHASE MANHATTAN BANK, a New York
+banking corporation ("Chase"), as administrative agent for Lenders (in such
+                      -----
+capacity, "Agent"), WELLS FARGO BANK, NATIONAL ASSOCIATION, as syndication agent
+           -----
+for Lenders (in such capacity, "Syndication Agent"), and BANK OF AMERICA, N.A.,
+                                -----------------
+as documentation agent for the Lenders (in such capacity, "Documentation
+                                                           -------------
+Agent").
+-----
+
+                              W I T N E S S E T H:
+                              - - - - - - - - - -
+
+         WHEREAS, the Borrower, the Agent, the Syndication Agent, the
+Documentation Agent and the Lenders have entered into a Credit Agreement dated
+as of December 20, 2000 (the "Credit Agreement"); and
+                              ----------------
+
+         WHEREAS, the Borrower intends to effect a business reorganization
+whereby the Borrower will reorganize into an umbrella partnership real estate
+investment trust (the "Reorganization"); and
+                       --------------
+
+         WHEREAS, shortly following the completion of the Reorganization, the
+Borrower intends to effect a business combination transaction with Charles E.
+Smith Residential Realty L.P., a Delaware limited partnership ("Smith
+                                                                -----
+Residential L.P."), whereby Smith Residential L.P. will merge with and into the
+----------------
+Borrower, with the Borrower as the surviving entity and such surviving entity
+will thereafter operate under the name "Archstone-Smith Operating Trust," such
+business combination transaction being referred to herein as the "Subsidiary
+                                                                  ----------
+Merger"; and
+------
+
+         WHEREAS, substantially contemporaneously with the Subsidiary Merger,
+Archstone-Smith Trust, a Maryland real estate investment trust
+("Archstone-Smith") intends to effect a business combination transaction with
+  ---------------
+Charles E. Smith Residential Realty, Inc., a Maryland corporation ("Smith
+                                                                    -----
+Residential Inc."), whereby Smith Residential Inc. will merge with and into
+----------------
+Archstone-Smith, with Archstone-Smith as the surviving entity and such surviving
+entity will continue under the name "Archstone-Smith Trust," such business
+combination transaction being referred to herein as the "Parent Merger" and
+                                                         -------------
+together with the Subsidiary Merger the "Mergers"; and
+                                         -------
+
+<PAGE>
+
+         WHEREAS, as a result of the Reorganization, Archstone-Smith Trust will
+become the parent company of Archstone-Smith Operating Trust; and
+
+         WHEREAS, the Borrower, the Agent, the Syndication Agent, the
+Documentation Agent and the Lenders desire to amend the Credit Agreement in
+certain respects in contemplation of the Reorganization and the Mergers;
+
+         NOW, THEREFORE, in consideration of the premises and the mutual
+agreements, representations and warranties herein set forth, and for other good
+and valuable consideration, the Borrower, the Agent, the Syndication Agent, the
+Documentation Agent and the Lenders do hereby agree as follows:
+
+         Section 1. Capitalized terms used herein that are defined in the Credit
+Agreement shall have the same meanings when used herein unless otherwise defined
+herein.
+
+         Section 2. The definition of "Pool Value" in the Credit Agreement is
+hereby amended to be and read as follows:
+
+         Pool Value shall mean the Value of the Pool.
+         ----------
+
+         Section 3. After the Merger, for the purposes of the definitions of
+Coverage Ratio, Debt to Total Asset Value Ratio, Fixed Charge Coverage Ratio and
+Secured Debt, references to "Indebtedness" and to "Interest Expense" shall be
+deemed to include the Parent's Indebtedness and the Parent's Interest Expense.
+
+         Section 4. The following definitions are added to the Credit Agreement
+to be inserted in alphabetical order:
+
+         (a)      DC Holdings  Entities shall mean  Metropolitan  Acquisition
+                  ---------------------
+         Finance LP, Smith Property  Holdings  Cronin's  Landing LP, Smith
+         Property Holdings Crystal towers LP, Smith Property Holdings One LP,
+         Smith Property Holdings Two LP, Smith Property Holdings Three LP, Smith
+         Property Holdings Four LP, Smith Property Holdings Five LP, Smith
+         Property Holdings Six LP, Smith Property Holdings Seven LP, Smith
+         Property Holdings Alban Towers LLC, First Herndon Associates LP, Smith
+         Property Holdings One (DC) LP, Smith Property Holdings Two (DC) LP,
+         Smith Property Holdings Three (DC) LP, Smith Property Holdings Kenmore
+         LP, Smith Property Holdings Five (DC) LP, Smith Property Holdings Six
+         (DC) LP, Smith Property Holdings Van Ness LP, Smith Property Holdings
+         Consulate LLC and Smith Property Holdings Columbia Road, Smith Property
+         Holdings Aventura A LLC, Smith Property Holdings Aventura B LLC, Smith
+         Property Holdings Aventura C LLC, Smith Property Sunset Pointe West LLC
+         and any Person formed solely for the purpose of owning Real Property in
+         the District of Columbia.
+
+                                       2
+
+<PAGE>
+
+        (b)     Merger shall mean the merger of Archstone  Communities Trust and
+                ------
+         Charles E. Smith Residential Realty L.P. as described in the consent
+         solicitation statement-prospectus of Archstone Communities Trust,
+         Archstone-Smith Trust and Charles E. Smith Residential Realty L.P.
+         dated September 20, 2001.
+
+         (c)    Parent shall mean Archstone-Smith Trust, a Maryland real estate
+                ------
+         investment trust which will become the parent company of
+         Archstone-Smith Operating Trust (formerly known as Archstone
+         Communities Trust) after the Reorganization.
+
+         (d)    QRS Entities shall mean Smith One, Inc., Smith Two, Inc., Smith
+                ------------
+         Three, Inc., Smith Four, Inc., Smith Five, Inc., Smith Six, Inc. and
+         Smith Seven, Inc.
+
+         (e)    Reorganization  shall mean the reorganization of Archstone
+                --------------
+         Communities Trust into an umbrella real estate investment trust as
+         described in the consent solicitation statement-prospectus of Archstone
+         Communities Trust, Archstone-Smith Trust and Charles E. Smith
+         Residential Realty L.P. dated September 20, 2001.
+
+         Section 5. Section 4.8 of the Credit Agreement is hereby deleted and
+replaced with the term "Intentionally Omitted" and the numbering of the sections
+shall not change.
+
+         Section 6. Sections 5.2(a), (b), (d), (e) and (f) of the Credit
+Agreement are each hereby amended to apply to and require the information
+described therein from the Parent after the Reorganization, as well as from the
+Borrower. Information provided pursuant to Sections 5.2(a) and (b) will be based
+on the Parent's fiscal year. Whenever the Credit Agreement requires the Borrower
+to provide an Officer's Certificate, the Parent will execute the Officer's
+Certificate also.
+
+         Section 7. Section 5.3(d) of the Credit Agreement is hereby amended to
+be and read as follows:
+
+         (d) a Tangible Net Worth of at least One Billion Eight Hundred
+         Fifty-Five Million Dollars ($1,855,000,000.00) before the Merger, and
+         at least Three Billion Five Hundred Million Dollars ($3,500,000,000.00)
+         after the Merger.
+
+         Section 8. Section 5.11(b) of the Credit Agreement is hereby amended to
+be and read as follows:
+
+         (b) Prior to the Reorganization the Borrower, and after the
+         Reorganization the Parent, will comply with all Legal Requirements to
+         maintain, and will at all times elect, qualify as and maintain, its
+         status as a real estate investment trust under Section 856(c)(1) of the
+         Code.
+
+                                       3
+
+<PAGE>
+
+         Section 9.  Effective on the date of the Reorganization, Section
+5.11(c) of the Credit Agreement is hereby amended to be and read as follows:
+
+         (c) The Parent will (i) maintain at least one class of common shares of
+         the Parent having trading privileges on the New York Stock Exchange or
+         the American Stock Exchange, or which is listed on The NASDAQ Stock
+         Market's National Market; (ii) own, directly or indirectly, at least
+         fifty-one percent (51%) of (1) the shares of beneficial interest of the
+         Borrower, and (2) the Class A-2 Common Units of the Borrower and any
+         other class of security issued by the Borrower with the power to elect
+         the Trustees of the Borrower; (iii) maintain management and control of
+         the Borrower; and (iv) not sell, transfer or convey any of the shares
+         of beneficial interest of the Borrower owned by the Parent, except (A)
+         in payment of the purchase price of Property (including mergers with
+         and acquisitions of Persons) acquired by the Borrower, (B) upon
+         conversion or redemption of securities of the Borrower in accordance
+         with their terms or (C) upon any repurchase by the Borrower of the
+         Borrower's securities from the Parent in connection with a repurchase
+         by the Parent of the Parent's securities.
+
+         Section 10. The Credit Agreement is hereby amended by adding thereto
+the following sections:
+
+         6.6 DC Holdings. After the Merger the Borrower shall maintain at least
+             -----------
+         99.5% aggregate ownership of the indicia of ownership of each DC
+         Holdings Entity, and shall maintain management and control of each DC
+         Holdings Entity.
+
+         6.7 Parent Negative Covenants. After the Merger the Parent will not (a)
+             -------------------------
+         have any Subsidiary that is a "qualified REIT subsidiary" under Section
+         856 of the Code other than the QRS Entities; (b) own any Property other
+         than the ownership interests of the Borrower, and the Parent's
+         ownership interests as of the date of the Merger in the QRS Entities;
+         (c) give or allow any Lien on any of its Property including the
+         ownership interests of the Borrower; and (d) create, incur, suffer or
+         permit to exist, or assume or guarantee, directly or indirectly,
+         contingently or otherwise, or become or remain liable with respect to
+         (i) any Indebtedness if the aggregate of such Indebtedness and the
+         Indebtedness of the Borrower would violate Sections 5.3(a), (b), (c) or
+                                                             ------  ---  ---
+         (e) if such aggregate Indebtedness is treated as the Borrower's
+         ---
+         Indebtedness, and (ii) any Indebtedness of a Person other than the
+         Parent.
+
+         Section 11. Exhibit A to the Credit Agreement is deleted and replaced
+with Exhibit A attached hereto and hereby made a part hereof.
+     ---------
+
+         Section 12. Borrower plans to effectuate the Reorganization and the
+Mergers on or about October 31, 2001. After the Reorganization and the Mergers,
+the Parent will hold all of its
+
+                                       4
+
+<PAGE>
+
+assets and conduct all of its operations through Borrower, the existing QRS
+Entities and one or more of Borrower's Subsidiaries. The Agent and the Lenders
+hereby consent to the Mergers and the Reorganization as described in this
+Amendment, conditioned upon Borrower providing the Agent with copies of the
+documentation effectuating the Merger and Reorganization, and conditioned upon
+full payment and termination of all unsecured debt facilities of Smith
+Residential L.P. From and after the Mergers and the Reorganization all
+references to Borrower shall be deemed to be references to Archstone-Smith
+Operating Trust. The Organizational Documents of Archstone-Smith Operating Trust
+will be subject to the Agent's review and consent in accordance with the Credit
+Agreement. Immediately after the Mergers and the Reorganization are completed,
+Parent and Borrower will execute all agreements and amendments to the Credit
+Documents as the Agent may reasonably request in order to reflect the terms of
+the Mergers and the Reorganization, including agreement by Parent to the terms
+of Sections 5.2(a), (b), (d), (e) and (f), 5.11(b) and (c), and 6.7 of the
+Credit Agreement, as amended by this Amendment.
+
+     Section 13. Borrower represents and warrants that the representations and
+warranties contained in Section 4 of the Credit Agreement, as modified by this
+Amendment, are true and correct in all material respects on and as of the date
+hereof as though made on and as of such date. Borrower hereby certifies that no
+event has occurred and is continuing which constitutes an Event of Default under
+the Credit Agreement or which upon the giving of notice or the lapse of time or
+both would constitute such an Event of Default.
+
+     Section 14. Except as expressly amended hereby, the Credit Agreement and
+the other Credit Documents shall remain in full force and effect. The Credit
+Agreement, as hereby amended, and all rights and powers created thereby or
+thereunder and under the other Credit Documents are in all respects ratified and
+confirmed and remain in full force and effect.
+
+     Section 15. The term "Credit Agreement" as used in the Credit Agreement,
+the other Credit Documents or any other instrument, document or writing
+furnished to the Agent or the Lenders by the Borrower shall mean the Credit
+Agreement as hereby amended.
+
+     Section 16. Guarantor hereby joins in this Amendment to evidence
+Guarantor's consent to execution by the Borrower of this Amendment, to confirm
+that the Guaranty applies and shall continue to apply to the Credit Agreement as
+modified by this Amendment and to acknowledge that without such consent and
+confirmation, the Agent and the Lenders would not execute this Amendment or
+otherwise consent to such modification.
+
+     Section 17. This Amendment (a) shall be binding upon the Borrower, the
+Guarantor, the Agent and the Lenders and their respective successors and assigns
+(provided, however, no party may assign its rights hereunder except in
+accordance with the Credit Agreement); (b) may be modified or amended only in
+accordance with the Credit Agreement; (c) shall be governed by and construed in
+accordance with the laws of the State of Texas and the United States of America;
+(d) may be executed in several counterparts, and by the parties hereto on
+separate counterparts, and each counterpart, when so executed and delivered,
+shall constitute an original agreement, and
+
+                                        5
+
+<PAGE>
+
+all such separate counterparts shall constitute but one and the same agreement;
+and (e) embodies the entire agreement and understanding between the parties with
+respect to the subject matter hereof and supersedes all prior agreements,
+consents and understandings relating to such subject matter.
+
+                                       6
+
+<PAGE>
+
+         IN WITNESS WHEREOF, the parties hereto have caused this Amendment to be
+signed by their respective duly authorized officers, effective as of the date
+first set forth herein.
+
+                           ARCHSTONE COMMUNITIES TRUST
+
+
+
+                           By:     /s/ Caroline Brower
+                                  ----------------------------------------------
+                           Name:   Caroline Brower
+                                  ----------------------------------------------
+                           Title:  Senior Vice President
+                                  ----------------------------------------------
+
+
+                           PTR-CALIFORNIA HOLDINGS (3)
+                           INCORPORATED
+
+
+
+                           By:     /s/ Caroline Brower
+                                  ----------------------------------------------
+                           Name:   Caroline Brower
+                                  ----------------------------------------------
+                           Title:  Senior Vice President
+                                  ----------------------------------------------
+
+
+                           SCA-NORTH CAROLINA LIMITED
+                           PARTNERSHIP
+
+                           BY:    SCA-North Carolina (1) Incorporated,
+                                  General Partner
+
+
+
+                                  By:     /s/ Caroline Brower
+                                         ---------------------------------------
+                                  Name:   Caroline Brower
+                                         ---------------------------------------
+                                  Title:  Senior Vice President
+                                         ---------------------------------------
+
+
+                           SCA-NORTH CAROLINA (1) INCORPORATED
+
+
+
+                           By:     /s/ Caroline Brower
+                                  ----------------------------------------------
+                           Name:   Caroline Brower
+                                  ----------------------------------------------
+                           Title:  Senior Vice President
+                                  ----------------------------------------------
+
+
+
+                                        7
+
+<PAGE>
+
+
+                           SCA-NORTH CAROLINA (2) INCORPORATED
+
+
+                           By:     /s/ Caroline Brower
+                                  ----------------------------------------------
+                           Name:   Caroline Brower
+                                  ----------------------------------------------
+                           Title:  Senior Vice President
+                                  ----------------------------------------------
+
+
+                           SCA-1 INCORPORATED
+
+
+                           By:     /s/ Caroline Brower
+                                  ----------------------------------------------
+                           Name:   Caroline Brower
+                                  ----------------------------------------------
+                           Title:  Senior Vice President
+                                  ----------------------------------------------
+
+
+                           ATLANTIC MULTIFAMILY LIMITED
+                           PARTNERSHIP-1
+
+                           BY:    SCA-1 Incoporated,
+                                  General Partner
+
+
+                                  By:     /s/ Caroline Brower
+                                         ---------------------------------------
+                                  Name:   Caroline Brower
+                                         ---------------------------------------
+                                  Title:  Senior Vice President
+                                         ---------------------------------------
+
+
+
+                           ASN MASSACHUSETTS HOLDINGS (3)
+                           INCORPORATED
+
+
+
+                           By:     /s/ Caroline Brower
+                                  ----------------------------------------------
+                           Name:   Caroline Brower
+                                  ----------------------------------------------
+                           Title:  Senior Vice President
+                                  ----------------------------------------------
+
+
+
+
+                                        8
+
+<PAGE>
+
+
+                           ARCHSTONE COMMUNITIES LIMITED
+                           PARTNERSHIP II
+
+                           BY:    Archstone Communities Trust,
+                                  General Partner
+
+
+
+                                  By:     /s/ Caroline Brower
+                                         ---------------------------------------
+                                  Name:   Caroline Brower
+                                         ---------------------------------------
+                                  Title:  Senior Vice President
+                                         ---------------------------------------
+
+                           ASN NORTHGATE, L.L.C.
+
+                           By:    Archstone Communities Trust,
+                                  Sole Member
+
+
+
+                                  By:     /s/ Caroline Brower
+                                         ---------------------------------------
+                                  Name:   Caroline Brower
+                                         ---------------------------------------
+                                  Title:  Senior Vice President
+                                         ---------------------------------------
+
+
+
+                                        9
+
+<PAGE>
+
+
+                           THE CHASE MANHATTAN BANK,
+                            as Agent and as a Lender
+
+
+
+                           By:     /s/ Kent Kaiser
+                                  ----------------------------------------------
+                           Name:   Kent Kaiser
+                                  ----------------------------------------------
+                           Title:  Senior Vice President
+                                  ----------------------------------------------
+
+
+
+
+                                       10
+
+<PAGE>
+
+
+                                  CITICORP NORTH AMERICA, INC.
+
+
+                                  By:     /s/ Michael Chilopak
+                                         ---------------------------------------
+                                  Name:   Michael Chilopak
+                                         ---------------------------------------
+                                  Title:  VP Citicorp North America, Inc.
+                                         ---------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                       11
+
+<PAGE>
+
+
+
+                                             BANK OF AMERICA, N.A.
+
+
+
+                                             By:    /s/ Patrick Trowbridge
+                                                    ----------------------------
+                                             Name:  Patrick Trowbridge
+                                                    ----------------------------
+                                             Title: Vice President
+                                                    ----------------------------
+
+
+
+                                       12
+
+<PAGE>
+
+
+
+                           WELLS FARGO BANK, NATIONAL
+                           ASSOCIATION
+
+                           By:    /s/ John W. McKinny
+                                  ---------------------------------------------
+                           Name:  John W. McKinny
+                                  ---------------------------------------------
+                           Title: Vice President
+                                  ---------------------------------------------
+
+
+
+                                       13
+
+<PAGE>
+
+
+
+
+
+                            COMMERZBANK AG, NEW YORK
+                            AND GRAND CAYMAN BRANCHES
+
+                            By:    /s/ [Illegible]
+                                   ---------------------------------------------
+                            Name:
+                                   ---------------------------------------------
+                            Title:
+                                   ---------------------------------------------
+
+
+                            By:    /s/ [Illegible]
+                                   ---------------------------------------------
+                            Name:
+                                   ---------------------------------------------
+                            Title:
+                                   ---------------------------------------------
+
+
+
+                                       14
+
+<PAGE>
+
+
+
+                               BANK HAPOALIM B.M.
+
+
+
+                               By:    /s/ Marc Bosc
+                                      ------------------------------------------
+                               Name:  Marc Bosc
+                                      ------------------------------------------
+                               Title: Vice President
+                                      ------------------------------------------
+
+
+                               By:    /s/ Laura Anne Raffa
+                                      ------------------------------------------
+                               Name:  Laura Anne Raffa
+                                      ------------------------------------------
+                               Title: Senior Vice President & Corporate Manager
+                                       -----------------------------------------
+
+
+
+
+                                       15
+
+<PAGE>
+
+
+
+                                        WACHOVIA BANK, N.A.
+
+
+
+                                        By:     /s/ Rob Carter
+                                                ------------------------------
+                                        Name:   Rob Carter
+                                                ------------------------------
+                                        Title:  Vice President
+                                                ------------------------------
+
+
+
+                                       16
+
+<PAGE>
+
+
+
+
+                                   FIRST UNION NATIONAL BANK
+
+                                   By:    /s/ Daniel J. Sullivan
+                                          --------------------------------------
+                                   Name:  Daniel J. Sullivan
+                                          --------------------------------------
+                                   Title: Managing Director
+                                          --------------------------------------
+
+                                       17
+
+<PAGE>
+
+
+
+
+
+                                      MELLON BANK, N.A.
+
+
+
+                                      By:    /s/ James G. McDunn
+                                             -----------------------------------
+                                      Name:  James G. McDunn
+                                             -----------------------------------
+                                      Title: Vice President
+                                             -----------------------------------
+
+
+
+
+                                       18
+
+<PAGE>
+
+
+
+                                      SOUTHTRUST BANK
+
+
+
+                                      By:    /s/ Lynn Feuerlein
+                                             ----------------------------------
+                                      Name:  Lynn Feuerlein
+                                             ----------------------------------
+                                      Title: Group Vice President
+                                             ----------------------------------
+
+
+
+
+
+                                       19
+
+<PAGE>
+
+
+                                      SUNTRUST BANK
+
+
+
+                                      By:    /s/ Gregory T. Herstman
+                                             -----------------------------------
+                                      Name:  Gregory T. Herstman
+                                             -----------------------------------
+                                      Title: Senior Vice President
+                                             -----------------------------------
+
+
+
+                                       20
+
+<PAGE>
+
+
+
+                                      BANK ONE, NA
+
+
+
+                                      By:    /s/ Dell K. McCoy
+                                             ----------------------------------
+                                      Name:  Dell K. McCoy
+                                             ----------------------------------
+                                      Title: Vice President
+                                             ----------------------------------
+
+
+                                       21
+
+<PAGE>
+
+
+                                       UNION BANK OF CALIFORNIA, N.A.
+
+
+                                       By:    /s/ Karen K. Kokame
+                                              ----------------------------------
+                                       Name:  Karen K. Kokame
+                                              ----------------------------------
+                                       Title: Vice President
+                                              ----------------------------------
+
+
+                                       22
+
+<PAGE>
+
+
+
+                                   KEY BANK
+
+
+
+                                   By:    /s/ Dan Heberle
+                                          --------------------------------------
+                                   Name:  Dan Heberle
+                                          --------------------------------------
+                                   Title: V.P.
+                                          --------------------------------------
+
+
+
+
+
+                                       23
+
+<PAGE>
+
+
+                                  FLEET NATIONAL BANK, successor by merger to
+                                  Summit Bank
+
+
+
+                                  By:    /s/ Bill Lamb
+                                         ---------------------------------------
+                                  Name:  Bill Lamb
+                                         ---------------------------------------
+                                  Title: Vice President
+                                         ---------------------------------------
+
+
+
+
+
+                                       24
+
+<PAGE>
+
+
+                                    CITIZENS BANK OF RHODE ISLAND
+
+                                    By:    /s/ Craig E. Schermerhorn
+                                           -------------------------------------
+                                    Name:  Craig E. Schermerhorn
+                                           -------------------------------------
+                                    Title: Vice President
+                                           -------------------------------------
+
+
+
+
+
+
+                                       25
+
+<PAGE>
+
+                              OFFICER'S CERTIFICATE
+                              ---------------------
+
+         Archstone-Smith Operating Trust, formerly known as Archstone
+Communities Trust (the "Borrower"), The Chase Manhattan Bank ("Chase"), Wells
+Fargo Bank, N.A. and Bank of America, N.A., as Agents (the "Agents") and certain
+other Lenders (the "Lenders") entered into that certain Credit Agreement (the
+"Agreement") dated as of December 20, 2000, as the same has been amended. Any
+term used herein and not otherwise defined shall have the meaning ascribed to it
+in the Agreement.
+
+         The undersigned hereby certifies that:
+
+I.       I am a Vice President of the Borrower and a Vice  President of the
+         Parent,  and I make these  certifications  on behalf of the Borrower or
+         the Parent, as applicable.
+
+II.      The Parent's financial statements as of _________ as filed with the
+         Securities and Exchange Commission ("SEC"), and the Borrower's
+         financial statements as of _____________ delivered to Chase, were
+         prepared in conformity with generally accepted accounting principles
+         consistently applied and present fairly the financial position of the
+         Parent and of the Borrower, respectively, as of the date thereof and
+         the results of its operations for the period covered thereby subject to
+         normal year-end adjustments.
+
+III.     Borrower hereby certifies the following as of the end of the period
+         covered by the financial statements described above:
+
+         1.       Maximum Debt to Total Asset Value Calculation
+                  ---------------------------------------------
+                  (Section 5.3 (e))
+
+<TABLE>
+          <S>                                                                              <C>
+         (A)      Indebtedness
+                  Total Unsecured Debt (per GAAP)                                          $__________
+                  Total Secured Debt (per GAAP)                                            $__________
+                  Guarantees, Endorsements and Other Contingent Obligations                $__________
+                  Obligations under Hedging Agreements, as defined                         $__________
+                  Equity Percentage of Indebtedness of Unconsolidated Affiliates           $__________
+                  Equity Percentage of Indebtedness of Ameriton                            $__________
+                  Other (pursuant to the Agreement)                                        $__________
+                  Total Indebtedness, as defined                                           $__________
+         (B)      Total Asset Value:
+                  Aggregated Net Operating Income from Stabilized Properties
+                  Divided by 8.65%                                                         $__________
+                  Historical Value of Pre-Stabilized Properties                            $__________
+                  Historical Value of Properties Under Construction                        $__________
+                  Historical Value of Undeveloped Land                                     $__________
+</TABLE>
+
+                                   EXHIBIT A
+                                   ---------
+                                Page 1 of 7 Pages
+
+<PAGE>
+
+<TABLE>
+         <S>                                                                    <C>
+                  Other Assets (excluding intangibles as defined by GAAP)                      $__________
+                  Total Asset Value of Unconsolidated Affiliates                               $__________
+                  Contribution from Ameriton                                                   $__________
+                  Total Asset Value, as defined                                                $__________
+         (C)      Maximum Debt to Total Asset Value (Ratio of 1(A) to 1(B))
+                  Required:  Maximum:
+                                                                                                    55%
+                                                                                                ----------
+
+         2.       Maximum Secured Debt Calculation
+                  --------------------------------
+                  (Section 5.3 (a))
+
+                  (A)      Secured Debt, as defined                                            $__________
+                  (B)      Total Asset Value, as defined                                       $__________
+                  (C)      Maximum Secured Debt to Total Asset Value
+                  (Ratio of 2(A) to 2(B))                                                       __________
+                  Required:Maximum:                                                                40%
+                                                                                                __________
+
+         3.       Coverage Ratio Calculation
+                  --------------------------
+                  (Section 5.3 (b))
+
+         (A)      Borrower's EBITDA:
+                  Net Income (per GAAP)                                                        $__________
+                  Plus:
+                  Depreciation and Amortization (per GAAP)                                     $__________
+                  Interest Expense, as defined                                                 $__________
+                  Income Taxes (per GAAP)                                                      $__________
+                  Extraordinary Gains/Losses (per GAAP)                                        $__________
+                  Payments on Borrower's Preferred Stock (to
+                  the extent included in net income)                                           $__________
+                  Equity Percentage of EBITDA for                                              $__________
+                  Unconsolidated Affiliates                                                    $__________
+                  Equity Percentage of Ameriton's Funds from Operations                        $__________
+                  Other (pursuant to the Agreement)                                            $__________
+                  Borrower's EBITDA, as defined                                                $__________
+         (B)      Dividends and Distributions Paid with Respect to Disqualified
+                  Stock                                                                        $__________
+         (C)      Interest Expense, as defined                                                 $__________
+         (D)      Sum of 3(B) and  3(C)                                                        $__________
+         (E)      Coverage Ratio (Ratio of 3(A) to 3(D))                                       :    1.0
+                                                                                                ----------
+
+                  Required:                                                     Minimum of 2.0 to 1.0
+</TABLE>
+
+                                   EXHIBIT A
+                                   ---------
+                               Page 2 of 7 Pages
+
+<PAGE>
+
+<TABLE>
+         <S>                                                             <C>
+         4.       Fixed Charge Coverage Ratio Calculation
+                  ---------------------------------------
+                  (Section 5.3(c))
+
+         (A)      Borrower's EBITDA, as defined                                                   $_________
+         (B)      Unit Capital Expenditures                                                       $_________
+         (C)      EBITDA minus Unit Capital Expenditures                                          $_________
+         (D)      Interest Expense, as defined                                                    $_________
+         (E)      Payments and Payables on Disqualified Stock                                     $_________
+         (F)      Regularly Scheduled Principal Paid and Payable                                  $_________
+         (G)      Sum of 4(D), 4(E) and 4(F)                                                      $_________
+         (H)      Fixed Charge Coverage Ratio (Ratio of 4(C) to 4(G))                                 1.0
+                                                                                                   ---------
+
+                  Required:                                                  Minimum of 1.75 to 1.0
+
+         5.       Tangible Net Worth
+                  -------------------
+                  (Section 5.3(d))
+                  Assets                                                                          $_________
+                  Liabilities                                                                     $_________
+                  Tangible Net Worth, as defined                                                  $_________
+
+
+                  Required:                                              Minimum of $3.500 billion
+
+         6.       Maximum Recourse Indebtedness Calculation
+                  -----------------------------------------
+                  (Section 6.1)
+
+         (A)      Indebtedness with a Final Maturity of Five Years or less                        $_________
+         (B)      Investment Grade Debt included in 6(A)                                          $_________
+         (C)      Non-recourse Debt included in 6(A), excluded from 6(B)                          $_________
+         (D)      Amortizing Debt included in 6(A) excluded from 6(B) or 6(C)                     $_________
+         (E)      Credit Enhancement included in 6(A), excluded from 6(B)
+                  or 6(C) or 6(D)                                                                 $_________
+         (F)      Acquisition Indebtedness included in 6(A), excluded from 6(B)
+                  or 6(C) or 6(D) or 6(E)                                                         $_________
+         (G)      Recourse Indebtedness as Calculated: 6(A) less 6(B), 6(C), 6(D),
+                  6(E) and 6(F) (may not exceed $100,000,000)                                     $_________
+
+
+         7.       Property Pool
+                  -------------
+                  (Section 5.15)
+
+         (A)      Sum of the Aggregate Net Operating Income for Pool Real Estate
+                  That Has Reached the Stabilization Date Divided by 8.65% and the
+                  Aggregate Historical Value for Pool Real Estate That Has Not
+</TABLE>
+
+                                   EXHIBIT A
+                                   ---------
+                               Page 3 of 7 Pages
+
+<PAGE>
+
+<TABLE>
+<S>                                                                             <C>
+                  Reached the Stabilization Date                                              $_________
+         (B)      Outstanding Unsecured Indebtedness                                          $_________
+         (C)      Pool Value Divided by Outstanding Unsecured
+                  Indebtedness (7(A) divided by 7(B))                                         _________%
+
+         Required:                                                              Minimum of 175%
+
+         (D)      Pool Value attributable to unimproved land (Maximum-5%)                     $_________
+         (E)      Pool Value attributable to unimproved land and land under
+                  construction or development (Maximum-20%)                                   $_________
+         (F)      Pool Value attributable to improved property that is not
+                  multifamily residential (Maximum-7-1/2%)                                    $_________
+
+
+         8.       Specified Permitted Holdings
+                  (Section 6.4)
+
+         (A)      Securities Received in Settlement Liabilities Created in the
+                  Ordinary Course of Business                                                 __________
+                  (Maximum - 5%)
+         (B)      Unconsolidated Affiliates Engaged in Permitted Businesses                   __________
+                  (Maximum - 10%)
+         (C)      Investment in Ameriton                                                      __________
+                  (Maximum - 15%)
+         (D)      Loans to Unaffiliated Persons                                               __________
+                  (Maximum - 10%)
+         (E)      Other Securities                                                            __________
+                  (Maximum - 10%)
+         (F)      Income Producing Properties That Are Not Multifamily
+                  Residential                                                                 __________
+                  (Maximum - 10%)
+         (G)      Unimproved Land                                                             __________
+                  (Maximum - 7.5%)
+         (H)      Unrelated, Non-Incidental Investments                                       __________
+                  (Maximum - 5%)
+         (I)      Aggregate Value of the specified Permitted Holdings (sum of 8(A)
+                  through 8(H))                                                               __________
+                  (Maximum - 30%)
+
+
+IV.      A review of the activities of the Borrower during the period covered by
+         the financial statements has been made under my supervision and with a
+         view to determining whether during such period the Borrower has kept,
+         observed, performed and fulfilled all of its obligations under the
+         Agreement.
+</TABLE>
+
+                                   EXHIBIT A
+                                   ---------
+                               Page 4 of 7 Pages
+
+<PAGE>
+
+         The Parent has made available its financial statements and related
+         footnotes for the most recent period ended _________, as filed with the
+         SEC and can be accessed at http://www.sec.gov/. The Borrower has
+                                    --------------------
+         delivered to Chase its financial statements and related footnotes for
+         the most recent period ended ____________. The Parent's and the
+         Borrower's earnings press releases and supplemental information for
+         such period have been posted to the Parent's website
+         (___________________________). The financial statements were prepared
+         in conformity with generally accepted accounting principles
+         consistently applied (except for the omission of footnote disclosures
+         and appropriately disclosed consistency exceptions) and present fairly
+         the financial position of the Parent and the Borrower, respectively, as
+         of the date thereof and the results of its operations for the period
+         covered thereby subject to normal year-end adjustments.
+
+V.       (Check either (A) or (B))
+                ------
+
+         [  ]     (A) The Borrower has kept, observed, performed and fulfilled
+                  each and every one of its obligations under the Agreement
+                  during the period covered by the applicable financial
+                  statements.
+
+         [  ]     (B) The Borrower has kept, observed, performed and fulfilled
+                  each and every one of its obligations under the Agreement
+                  during the period covered by the applicable financial
+                  statements except for the following matters: [Describe all
+                  such defaults, specifying the nature, duration and status
+                  thereof and what action the Borrower has taken or proposes to
+                  take with respect thereto].
+
+VI.      With regard to Section 1004 of the Indenture dated as of February 1,
+         1994 between the Borrower and Morgan Guaranty Trust Company of New
+         York, as Trustee (and using the terms defined therein), a certificate
+         required thereunder showing compliance with Section 1004 is attached
+         (only required for the fourth quarter Officer's Certificate), for the
+         most recent period ended ____________:
+
+<TABLE>
+         <S>                                                                          <C>
+         1.       (A)      Sum of Total Assets, Aggregate Purchase Price of Real
+                           Estate Assets, or Mortgages Receivable Acquired, and
+                           Securities Offering Proceeds Received to Purchase
+                           said Assets                                                $_____________
+                  (B)      Maximum amount of Debt                                     $_____________
+                  (C)      Debt                                                       $_____________
+
+         2.       (A)      Consolidated Income Available for Debt Service             $_____________
+                  (B)      Annual Service Charge                                      $_____________
+                  (C)      Ratio of Consolidated Income Available for Debt
+                           Service to Annual Service Charge                           ______________
+</TABLE>
+
+                                   EXHIBIT A
+                                   ---------
+                               Page 5 of 7 Pages
+
+<PAGE>
+
+         3.       (A)     Total Assets                            $_____________
+                  (B)     Maximum Secured Debt                    $_____________
+                  (C)     Secured Debt                            $_____________
+
+
+VII.     The Parent hereby  certifies the following as to itself as of the end
+         of the period covered by the financial  statements dated
+         ______________ as filed with the SEC:
+
+         1.       Indebtedness                                    $_____________
+         2.       Interest Expense                                $_____________
+
+
+VIII.    Check either (A) or (B)
+
+         [_]      (A) The Parent has kept, observed, performed and fulfilled
+                  each and every one of its obligations under the Agreement
+                  during the period covered by the applicable financial
+                  statements.
+
+         [_]      (B) The Parent has kept, observed, performed and fulfilled
+                  each and every one of its obligations under the Agreement
+                  during the period covered by the applicable financial
+                  statements except for the following matters: [Describe all
+                  such defaults, specifying the nature, duration and status
+                  thereof and what action the Parent has taken or proposes to
+                  take with respect thereto].
+
+Date:______________________              Name:__________________________________
+                                                    [Vice President Name]
+
+(A manually signed Officer's Certificate is available at the request of any
+Agent or Lender.)
+
+                                   EXHIBIT A
+                                   ---------
+                               Page 6 of 7 Pages
+
+<PAGE>
+
+POOL PROPERTY LIST
+
+     List each property separately showing the Historical Value and the
+components, the city, the state, the occupancy level for the past three months,
+the number of units, the age of the property and net operating income.
+
+                                   EXHIBIT A
+                                   ---------
+                               Page 7 of 7 Pages
+
+</TEXT>
+</DOCUMENT>

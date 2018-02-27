@@ -1,0 +1,96 @@
+<DOCUMENT>
+<TYPE>EX-10.4
+<SEQUENCE>10
+<FILENAME>dex104.txt
+<DESCRIPTION>PROMISSORY NOTE
+<TEXT>
+<PAGE>
+
+                                                                    Exhibit 10.4
+
+                                 PROMISSORY NOTE
+
+
+$216,981.06                                                       April 15, 2001
+
+         After date, without grace, for value received, HOUSTON AMERICAN ENERGY
+CORP., a Delaware corporation having its principal office and place of business
+in Harris County, Texas (the "Maker") hereby promises to pay to the order of
+MOOSE OIL & GAS COMPANY, a Texas corporation having its principal office and
+place of business in Harris County, Texas (the "Payee"), the original principal
+amount of TWO HUNDRED SIXTEEN THOUSAND NINE HUNDRED EIGHTY-ONE and 06/100
+DOLLARS ($216,981.06), together with interest, as hereinafter described. This
+Note is payable in lawful money of the United States of America at 801 Travis,
+Suite 1425, Houston, Harris County, Texas 77002, or such other place as the
+Payee may designate in writing to the Maker.
+
+         The payment of this Note is subject to the terms of that certain
+Assignment of Interests in Oil and Gas Leases and Bill of Sale of even date
+herewith, between the Maker and the Payee (the "Assignment"), which is
+incorporated herein by reference for all purposes.
+
+         This Note shall be due and payable on demand as to both principal and
+interest. Interest at a rate of ten percent (10%) per annum shall accrue on the
+unpaid principal balance of this Note. If this Note is not paid at maturity,
+however maturity may be brought about, all principal due on the date of such
+maturity shall bear interest from the date of such maturity at the maximum
+contract rate of interest which the Payee may charge the Maker under applicable
+law. Interest on this Note shall be computed for the actual number of days
+elapsed and on the basis of a year consisting of 360 days.
+
+         If, for any reason whatever, the interest paid on this Note shall
+exceed the maximum non-usurious amount permitted by law, the Payee shall refund
+to the Maker such portion of said interest as may be necessary to cause the
+interest paid on this Note to equal the maximum non-usurious amount permitted by
+law, and no more. All sums paid or agreed to be paid to the Payee for the use,
+forbearance or detention of the indebtedness evidenced hereby shall to the
+extent permitted by applicable law be amortized, prorated, allocated and spread
+throughout the full term of this Note until payment in full.
+
+         The Maker shall be entitled to prepay this Note in whole or in part at
+any time without the payment of a prepayment premium.
+
+         In the event of default in the payment of this Note or under any
+instrument executed in connection with this Note, the Maker agrees to pay on
+demand all costs incurred by the Payee (i) in the collection of any sums,
+including, but not limited to, principal, interest, expenses, and reimbursements
+due and payable on this Note, and (ii) in the enforcement of the other terms and
+provisions of this Note or the Assignment, whether such collection or
+enforcement be accomplished by suit or otherwise, including the Payee's
+reasonable attorney's fees.
+
+         Except as otherwise provided for herein, each maker, surety, guarantor
+and endorser of this Note expressly waives all notices, including, but not
+limited to, all demands for payment, presentations for payment, notice of
+opportunity to cure default, notice of intention to accelerate the maturity,
+notice of protest and notice of acceleration of the maturity, notice of protest
+and notice of acceleration of the maturity of this Note, and consents that this
+Note may be renewed and the time of payment extended without notice and without
+releasing any of the parties.
+
+         Any check, draft, money order or other instrument given in payment of
+all or any portion of this Note may be accepted by the Payee or any other holder
+hereof and handled in collection in the customary manner, but the same shall not
+constitute payment hereunder or diminish any rights of the Payee or any other
+holder hereof, except to the extent that actual cash proceeds of such instrument
+are unconditionally received by the Payee or any other holder hereof and applied
+to the indebtedness as herein provided.
+
+                                       1
+<PAGE>
+
+     This Note shall be governed by and construed in accordance with the laws of
+the State of Texas and applicable federal law.
+
+                                         HOUSTON AMERICAN ENERGY CORP.
+
+
+
+                                         By /s/ John F. Terwilliger
+                                           ----------------------------------
+                                           John F. Terwilliger, President
+
+                                       2
+
+</TEXT>
+</DOCUMENT>

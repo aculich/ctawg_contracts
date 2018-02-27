@@ -1,0 +1,1119 @@
+<DOCUMENT>
+<TYPE>EX-10.1
+<SEQUENCE>2
+<FILENAME>v027424_ex10-1.txt
+<TEXT>
+                                                                    Exhibit 10.1
+                                                                    ------------
+                          SECURITIES PURCHASE AGREEMENT
+                          -----------------------------
+
+      THIS SECURITIES PURCHASE AGREEMENT (this "Agreement"), dated as of October
+7,  2005,  by and among  INNOVA  HOLDINGS,  INC,  a  Delaware  corporation  (the
+"Company"), and the Buyers listed on Schedule I attached hereto (individually, a
+"Buyer" or collectively "Buyers").
+
+                                   WITNESSETH
+                                   ----------
+
+      WHEREAS,  the Company and the Buyer(s) are executing and  delivering  this
+Agreement in reliance upon an exemption from securities registration pursuant to
+Section 4(2) and/or Rule 506 of Regulation D ("Regulation  D") as promulgated by
+the U.S. Securities and Exchange Commission (the "SEC") under the Securities Act
+of 1933, as amended (the "Securities Act");
+
+      WHEREAS,  the  parties  desire  that,  upon the terms and  subject  to the
+conditions  contained herein,  the Company shall issue and sell to the Buyer(s),
+as provided  herein,  and the Buyer(s) shall purchase Fifty Five Thousand (U.S.)
+Dollars   ($55,000)  of  secured   convertible   debentures  (the   "Convertible
+Debentures"),  which shall be  convertible  into shares of the Company's  common
+stock,  par value  $0.001 per share (the  "Common  Stock")  (as  converted,  the
+"Conversion  Shares")  which  shall be funded on the fifth  (5th)  business  day
+following the date hereof (the "Closing") (referred to as the "Closing"),  for a
+total  purchase  price of Fifty Five Thousand  (U.S.)  Dollars  ($55,000),  (the
+"Purchase  Price") in the  respective  amounts set forth  opposite each Buyer(s)
+name on Schedule I (the "Subscription Amount"); and
+
+      WHEREAS,  contemporaneously  with  the  execution  and  delivery  of  this
+Agreement, the parties hereto are executing and delivering a Registration Rights
+Agreement  substantially in the form attached hereto as Exhibit A (the "Investor
+Registration  Rights  Agreement")  pursuant  to which the  Company has agreed to
+provide certain  registration  rights under the Securities Act and the rules and
+regulations promulgated there under, and applicable state securities laws; and
+
+      WHEREAS, the aggregate proceeds of the sale of the Convertible  Debentures
+contemplated  hereby shall be held in escrow  pursuant to the terms of an escrow
+agreement  substantially in the form of the Escrow Agreement  attached hereto as
+Exhibit B.
+
+      WHEREAS,  contemporaneously  with  the  execution  and  delivery  of  this
+Agreement,  the parties hereto are executing and delivering a Security Agreement
+substantially   in  the  form  attached  hereto  as  Exhibit  C  (the  "Security
+Agreement")  pursuant  to which the  Company  has agreed to provide  the Buyer a
+security  interest in Pledged  Property (as this term is defined in the Security
+Agreement)  to secure  the  Company's  obligations  under  this  Agreement,  the
+Convertible   Debenture,   the  Investor  Registration  Rights  Agreement,   the
+Irrevocable  Transfer Agent Instructions,  the Security Agreement,  or any other
+obligations of the Company to the Buyer; and
+
+      WHEREAS,  contemporaneously  with  the  execution  and  delivery  of  this
+Agreement,  the parties hereto are executing and delivering Irrevocable Transfer
+Agent  Instructions  substantially in the form attached hereto as Exhibit D (the
+"Irrevocable Transfer Agent Instructions")
+
+
+<PAGE>
+
+      NOW,  THEREFORE,  in  consideration  of the  mutual  covenants  and  other
+agreements contained in this Agreement the Company and the Buyer(s) hereby agree
+as follows:
+
+      1.    PURCHASE AND SALE OF CONVERTIBLE DEBENTURES.
+
+            (a) Purchase of Convertible Debentures.  Subject to the satisfaction
+(or waiver) of the terms and  conditions of this  Agreement,  each Buyer agrees,
+severally and not jointly,  to purchase at the Closing and the Company agrees to
+sell  and  issue to each  Buyer,  severally  and not  jointly,  at the  Closing,
+Convertible Debentures in amounts corresponding with the Subscription Amount set
+forth opposite each Buyer's name on Schedule I hereto.  Upon execution hereof by
+a Buyer,  the Buyer  shall  wire  transfer  the  Subscription  Amount  set forth
+opposite his name on Schedule I in same-day  funds or a check  payable to "David
+Gonzalez,  Esq.,  as  Escrow  Agent for  Innova  Holdings,  Inc/Cornell  Capital
+Partners, LP", which Subscription Amount shall be held in escrow pursuant to the
+terms  of the  Escrow  Agreement  (as  hereinafter  defined)  and  disbursed  in
+accordance  therewith.  Notwithstanding the foregoing,  a Buyer may withdraw his
+Subscription  Amount and terminate  this  Agreement as to such Buyer at any time
+after the execution hereof and prior to Closing (as hereinafter defined).
+
+            (b)  Closing  Date.  The  Closing  of the  purchase  and sale of the
+Convertible  Debentures  shall take place at 10:00 a.m. Eastern Standard Time on
+the fifth (5th) business day following the date hereof,  subject to notification
+of  satisfaction  of the  conditions  to the  Closing  set forth  herein  and in
+Sections  6 and 7 below  (or such  later  date as is  mutually  agreed to by the
+Company and the Buyer(s)) (the "Closing  Date").  The Closing shall occur on the
+Closing  Date at the offices of Yorkville  Advisors,  LLC,  3700 Hudson  Street,
+Suite 3700,  Jersey  City,  New Jersey 07302 (or such other place as is mutually
+agreed to by the Company and the Buyer(s)).
+
+            (c) Escrow Arrangements;  Form of Payment.  Upon execution hereof by
+Buyer(s) and pending the  Closings,  the  aggregate  proceeds of the sale of the
+Convertible  Debentures  to Buyer(s)  pursuant  hereto  shall be  deposited in a
+non-interest  bearing escrow account with David Gonzalez,  Esq., as escrow agent
+(the "Escrow Agent"),  pursuant to the terms of an escrow agreement  between the
+Company,  the  Buyer(s)  and the  Escrow  Agent in the form  attached  hereto as
+Exhibit B (the "Escrow Agreement"). Subject to the satisfaction of the terms and
+conditions of this  Agreement,  on the Closing Date,  (i) the Escrow Agent shall
+deliver to the Company in accordance with the terms of the Escrow Agreement such
+aggregate proceeds for the Convertible  Debentures to be issued and sold to such
+Buyer(s)  and  (ii)  the  Company  shall  deliver  to  each  Buyer,  Convertible
+Debentures which such Buyer(s) is purchasing in amounts indicated  opposite such
+Buyer's name on Schedule I, duly executed on behalf of the Company.
+
+      2.    BUYER'S REPRESENTATIONS AND WARRANTIES.
+
+      Each Buyer represents and warrants, severally and not jointly, that:
+
+            (a)  Investment  Purpose.  Each Buyer is acquiring  the  Convertible
+Debentures  and,  upon  conversion  of  Convertible  Debentures,  the Buyer will
+acquire the Conversion Shares then issuable,  for its own account for investment
+only and not with a view towards,  or for resale in connection  with, the public
+sale or distribution  thereof,  except pursuant to sales  registered or exempted
+under the Securities Act; provided,  however, that by making the representations
+herein, such Buyer reserves the right to dispose of the Conversion Shares at any
+time in  accordance  with or pursuant  to an  effective  registration  statement
+covering such Conversion  Shares or an available  exemption under the Securities
+Act.
+
+
+                                       2
+<PAGE>
+
+            (b)  Accredited  Investor  Status.  Each  Buyer  is  an  "Accredited
+Investor" as that term is defined in Rule 501(a)(3) of Regulation D.
+
+            (c)  Reliance  on  Exemptions.   Each  Buyer  understands  that  the
+Convertible  Debentures are being offered and sold to it in reliance on specific
+exemptions from the registration requirements of United States federal and state
+securities  laws and that the  Company  is  relying  in part  upon the truth and
+accuracy of, and such Buyer's compliance with, the representations,  warranties,
+agreements, acknowledgments and understandings of such Buyer set forth herein in
+order to determine the  availability  of such  exemptions and the eligibility of
+such Buyer to acquire such securities.
+
+            (d)  Information.  Each  Buyer  and its  advisors  (and his or,  its
+counsel),  if any,  have  been  furnished  with all  materials  relating  to the
+business,  finances  and  operations  of the Company and  information  he deemed
+material to making an informed investment decision regarding his purchase of the
+Convertible  Debentures and the Conversion Shares,  which have been requested by
+such  Buyer.  Each  Buyer  and its  advisors,  if any,  have been  afforded  the
+opportunity  to ask  questions of the Company and its  management.  Neither such
+inquiries nor any other due diligence  investigations conducted by such Buyer or
+its advisors,  if any, or its representatives shall modify, amend or affect such
+Buyer's right to rely on the Company's  representations and warranties contained
+in  Section  3  below.  Each  Buyer  understands  that  its  investment  in  the
+Convertible Debentures and the Conversion Shares involves a high degree of risk.
+Each Buyer is in a position regarding the Company, which, based upon employment,
+family relationship or economic bargaining power, enabled and enables such Buyer
+to obtain information from the Company in order to evaluate the merits and risks
+of this investment. Each Buyer has sought such accounting, legal and tax advice,
+as it has  considered  necessary to make an informed  investment  decision  with
+respect to its  acquisition  of the  Convertible  Debenture  and the  Conversion
+Shares.
+
+            (e) No Governmental  Review.  Each Buyer  understands that no United
+States federal or state agency or any other  government or  governmental  agency
+has  passed on or made any  recommendation  or  endorsement  of the  Convertible
+Debentures  or the  Conversion  Shares,  or the fairness or  suitability  of the
+investment in the Convertible Debentures or the Conversion Shares, nor have such
+authorities  passed  upon  or  endorsed  the  merits  of  the  offering  of  the
+Convertible Debentures or the Conversion Shares.
+
+            (f)  Transfer  or Resale.  Each  Buyer  understands  that  except as
+provided in the Investor  Registration  Rights  Agreement:  (i) the  Convertible
+Debentures have not been and are not being  registered  under the Securities Act
+or any state securities laws, and may not be offered for sale, sold, assigned or
+transferred  unless (A) subsequently  registered  thereunder,  or (B) such Buyer
+shall have  delivered  to the  Company an opinion  of  counsel,  in a  generally
+acceptable  form,  to the effect that such  securities  to be sold,  assigned or
+transferred may be sold,  assigned or transferred  pursuant to an exemption from
+such  registration  requirements;  (ii)  any  sale  of such  securities  made in
+reliance  on Rule 144 under the  Securities  Act (or a successor  rule  thereto)
+("Rule  144")  may be made  only in  accordance  with the  terms of Rule 144 and
+further,  if Rule 144 is not  applicable,  any resale of such  securities  under
+circumstances  in which the seller (or the person through whom the sale is made)
+may be deemed to be an  underwriter  (as that term is defined in the  Securities
+Act) may require  compliance  with some other exemption under the Securities Act
+or the rules and  regulations  of the SEC  thereunder;  and  (iii)  neither  the
+Company nor any other person is under any obligation to register such securities
+under the  Securities  Act or any state  securities  laws or to comply  with the
+terms and conditions of any exemption thereunder. The Company reserves the right
+to place stop transfer  instructions against the shares and certificates for the
+Conversion Shares.
+
+
+                                       3
+<PAGE>
+
+            (g) Legends.  Each Buyer  understands that the certificates or other
+instruments representing the Convertible Debentures and or the Conversion Shares
+shall bear a restrictive  legend in substantially the following form (and a stop
+transfer order may be placed against transfer of such stock certificates):
+
+         THE SECURITIES  REPRESENTED BY THIS  CERTIFICATE HAVE NOT BEEN
+         REGISTERED  UNDER THE SECURITIES  ACT OF 1933, AS AMENDED,  OR
+         APPLICABLE  STATE  SECURITIES  LAWS. THE SECURITIES  HAVE BEEN
+         ACQUIRED  SOLELY FOR  INVESTMENT  PURPOSES AND NOT WITH A VIEW
+         TOWARD  RESALE  AND  MAY  NOT  BE  OFFERED  FOR  SALE,   SOLD,
+         TRANSFERRED  OR  ASSIGNED  IN  THE  ABSENCE  OF  AN  EFFECTIVE
+         REGISTRATION STATEMENT FOR THE SECURITIES UNDER THE SECURITIES
+         ACT OF 1933, AS AMENDED,  OR APPLICABLE STATE SECURITIES LAWS,
+         OR AN OPINION OF COUNSEL, IN A GENERALLY ACCEPTABLE FORM, THAT
+         REGISTRATION  IS NOT  REQUIRED  UNDER  SAID ACT OR  APPLICABLE
+         STATE SECURITIES LAWS.
+
+The  legend set forth  above  shall be removed  and the  Company  within two (2)
+business days shall issue a certificate without such legend to the holder of the
+Conversion  Shares upon which it is stamped,  if, unless  otherwise  required by
+state securities laws, (i) in connection with a sale  transaction,  provided the
+Conversion  Shares are registered under the Securities Act or (ii) in connection
+with a sale transaction,  after such holder provides the Company with an opinion
+of counsel,  which opinion shall be in form,  substance and scope  customary for
+opinions  of counsel in  comparable  transactions,  to the effect  that a public
+sale,  assignment  or  transfer  of the  Conversion  Shares may be made  without
+registration under the Securities Act.
+
+            (h)  Authorization,  Enforcement.  This  Agreement has been duly and
+validly  authorized,  executed  and  delivered  on behalf of such Buyer and is a
+valid and binding  agreement of such Buyer  enforceable  in accordance  with its
+terms,  except as such  enforceability  may be limited by general  principles of
+equity  or  applicable  bankruptcy,  insolvency,   reorganization,   moratorium,
+liquidation  and other  similar laws  relating to, or affecting  generally,  the
+enforcement of applicable creditors' rights and remedies.
+
+
+                                       4
+<PAGE>
+
+            (i)  Receipt of  Documents.  Each Buyer and his or its  counsel  has
+received and read in their entirety: (i) this Agreement and each representation,
+warranty and covenant set forth  herein,  the Security  Agreement,  the Investor
+Registration  Rights  Agreement,  the  Escrow  Agreement,  and  the  Irrevocable
+Transfer Agent Agreement; (ii) all due diligence and other information necessary
+to verify the accuracy and completeness of such representations,  warranties and
+covenants;  (iii) the Company's  Form 10-KSB for the fiscal year ended  December
+31, 2004;  (iv) the Company's Form 10-QSB for the fiscal quarter ended March 31,
+2005 and (v)  answers to all  questions  each  Buyer  submitted  to the  Company
+regarding  an  investment  in the  Company;  and each  Buyer  has  relied on the
+information  contained  therein and has not been furnished any other  documents,
+literature, memorandum or prospectus.
+
+            (j) Due Formation of Corporate and Other Buyers.  If the Buyer(s) is
+a  corporation,  trust,  partnership  or other entity that is not an  individual
+person, it has been formed and validly exists and has not been organized for the
+specific purpose of purchasing the Convertible  Debentures and is not prohibited
+from doing so.
+
+            (k) No Legal Advice From the Company. Each Buyer acknowledges,  that
+it  had  the   opportunity  to  review  this  Agreement  and  the   transactions
+contemplated  by this Agreement with his or its own legal counsel and investment
+and tax advisors.  Each Buyer is relying solely on such counsel and advisors and
+not  on  any  statements  or  representations  of  the  Company  or  any  of its
+representatives  or agents for legal,  tax or investment  advice with respect to
+this  investment,  the  transactions  contemplated  by  this  Agreement  or  the
+securities laws of any jurisdiction.
+
+      3.    REPRESENTATIONS AND WARRANTIES OF THE COMPANY.
+
+      The Company  represents and warrants to each of the Buyers that, except as
+set forth in the SEC Documents (as defined herein):
+
+            (a) Organization and Qualification. The Company and its subsidiaries
+are corporations  duly organized and validly existing in good standing under the
+laws of the jurisdiction in which they are incorporated,  and have the requisite
+corporate  power to own their  properties  and to carry on their business as now
+being conducted. Each of the Company and its subsidiaries is duly qualified as a
+foreign corporation to do business and is in good standing in every jurisdiction
+in which the nature of the  business  conducted  by it makes such  qualification
+necessary,  except to the extent  that the failure to be so  qualified  or be in
+good standing  would not have a material  adverse  effect on the Company and its
+subsidiaries taken as a whole.
+
+            (b) Authorization,  Enforcement,  Compliance with Other Instruments.
+(i) The Company has the  requisite  corporate  power and authority to enter into
+and perform this Agreement,  the Security Agreement,  the Investor  Registration
+Rights  Agreement,   the  Irrevocable  Transfer  Agent  Agreement,   the  Escrow
+Agreement, and any related agreements (collectively the "Transaction Documents")
+and to issue the Convertible  Debenture and the Conversion  Shares in accordance
+with the terms  hereof and  thereof,  (ii) the  execution  and  delivery  of the
+Transaction  Documents  by  the  Company  and  the  consummation  by it  of  the
+transactions contemplated hereby and thereby, including, without limitation, the
+issuance of the Convertible Debentures the Conversion Shares and the reservation
+for issuance and the issuance of the Conversion  Shares issuable upon conversion
+or  exercise  thereof,  have  been duly  authorized  by the  Company's  Board of
+Directors and no further  consent or  authorization  is required by the Company,
+its Board of Directors or its stockholders, (iii) the Transaction Documents have
+been duly executed and delivered by the Company,  (iv) the Transaction Documents
+constitute the valid and binding  obligations of the Company enforceable against
+the Company in accordance with their terms, except as such enforceability may be
+limited by general  principles of equity or applicable  bankruptcy,  insolvency,
+reorganization,   moratorium,  liquidation  or  similar  laws  relating  to,  or
+affecting  generally,  the  enforcement of creditors'  rights and remedies.  The
+authorized  officer of the Company executing the Transaction  Documents knows of
+no reason why the Company  cannot file the  registration  statement  as required
+under the Investor Registration Rights Agreement or perform any of the Company's
+other obligations under such documents.
+
+
+                                       5
+<PAGE>
+
+            (c)  Capitalization.  As of the date hereof the  authorized  capital
+stock of the Company  consists of 900,000,000  shares of Common Stock, par value
+$0.001 ("Common  Stock"),  and 10,000,000  shares of Preferred  Stock, par value
+$0.001  ("Preferred  Stock")  of which  460,640,713  shares of Common  Stock and
+650,000  shares of  Preferred  Stock are  issued and  outstanding..  All of such
+outstanding   shares   have  been   validly   issued  and  are  fully  paid  and
+nonassessable.  Except as disclosed in the SEC  Documents (as defined in Section
+3(f)),  no shares of Common Stock are subject to preemptive  rights or any other
+similar  rights  or any  liens or  encumbrances  suffered  or  permitted  by the
+Company.  Except  as  disclosed  in the SEC  Documents,  as of the  date of this
+Agreement,  (i) except  pursuant to the Standby  Equity  Distribution  Agreement
+("SEDA")  between the Company and Cornell  Capital  Partners,  LP,  there are no
+outstanding  options,   warrants,  scrip,  rights  to  subscribe  to,  calls  or
+commitments  of any  character  whatsoever  relating to, or securities or rights
+convertible  into,  any  shares of  capital  stock of the  Company or any of its
+subsidiaries, or contracts, commitments, understandings or arrangements by which
+the  Company  or  any of  its  subsidiaries  is or may  become  bound  to  issue
+additional  shares of capital stock of the Company or any of its subsidiaries or
+options,  warrants,  scrip,  rights to subscribe to, calls or commitments of any
+character  whatsoever relating to, or securities or rights convertible into, any
+shares of capital  stock of the Company or any of its  subsidiaries,  (ii) there
+are no  outstanding  debt  securities  and  (iii)  there  are no  agreements  or
+arrangements  under which the Company or any of its subsidiaries is obligated to
+register the sale of any of their  securities  under the  Securities Act (except
+pursuant to the Investor  Registration  Rights  Agreement,  and the Registration
+Rights Agreement entered into in connection with the SEDA) and (iv) there are no
+outstanding registration statements and there are no outstanding comment letters
+from  the  SEC or any  other  regulatory  agency.  There  are no  securities  or
+instruments  containing   anti-dilution  or  similar  provisions  that  will  be
+triggered by the  issuance of the  Convertible  Debentures  as described in this
+Agreement. The Company has furnished to the Buyer true and correct copies of the
+Company's  Articles  of  Incorporation,  as amended and as in effect on the date
+hereof (the  "Articles of  Incorporation"),  and the  Company's  By-laws,  as in
+effect on the date  hereof  (the  "By-laws"),  and the  terms of all  securities
+convertible  into or exercisable for Common Stock and the material rights of the
+holders  thereof in respect thereto other than stock options issued to employees
+and consultants.
+
+            (d) Issuance of  Securities.  The  Convertible  Debentures  are duly
+authorized and, upon issuance in accordance with the terms hereof, shall be duly
+issued, fully paid and nonassessable, are free from all taxes, liens and charges
+with  respect  to  the  issue  thereof.  The  Conversion  Shares  issuable  upon
+conversion of the Convertible  Debentures have been duly authorized and reserved
+for issuance.  Upon  conversion or exercise in accordance  with the  Convertible
+Debentures  the  Conversion   Shares  will  be  duly  issued,   fully  paid  and
+nonassessable.
+
+
+                                       6
+<PAGE>
+
+            (e) No Conflicts.  The  execution,  delivery and  performance of the
+Transaction  Documents by the Company and the consummation by the Company of the
+transactions  contemplated  hereby  will not (i)  result in a  violation  of the
+Articles of  Incorporation,  any  certificate of designations of any outstanding
+series of preferred stock of the Company or the By-laws or (ii) conflict with or
+constitute  a default  (or an event  which with  notice or lapse of time or both
+would  become a default)  under,  or give to others  any rights of  termination,
+amendment,   acceleration  or  cancellation  of,  any  agreement,  indenture  or
+instrument to which the Company or any of its subsidiaries is a party, or result
+in a  violation  of  any  law,  rule,  regulation,  order,  judgment  or  decree
+(including  federal and state  securities laws and regulations and the rules and
+regulations  of The  National  Association  of  Securities  Dealers  Inc.'s  OTC
+Bulletin Board on which the Common Stock is quoted) applicable to the Company or
+any of its  subsidiaries or by which any property or asset of the Company or any
+of  its  subsidiaries  is  bound  or  affected.  Neither  the  Company  nor  its
+subsidiaries  is in violation of any term of or in default under its Articles of
+Incorporation   or  By-laws  or  their   organizational   charter  or   by-laws,
+respectively,  or any  material  contract,  agreement,  mortgage,  indebtedness,
+indenture,  instrument,  judgment,  decree  or  order  or any  statute,  rule or
+regulation  applicable to the Company or its  subsidiaries.  The business of the
+Company and its subsidiaries is not being conducted,  and shall not be conducted
+in violation of any material law,  ordinance,  or regulation of any governmental
+entity.  Except as  specifically  contemplated by this Agreement and as required
+under the Securities Act and any applicable  state  securities laws, the Company
+is not  required to obtain any consent,  authorization  or order of, or make any
+filing or registration with, any court or governmental agency in order for it to
+execute, deliver or perform any of its obligations under or contemplated by this
+Agreement or the  Registration  Rights  Agreement in  accordance  with the terms
+hereof  or  thereof.   All  consents,   authorizations,   orders,   filings  and
+registrations  which the Company is required to obtain pursuant to the preceding
+sentence  have been  obtained or effected  on or prior to the date  hereof.  The
+Company and its  subsidiaries  are unaware of any facts or  circumstance,  which
+might give rise to any of the foregoing.
+
+            (f) SEC Documents:  Financial  Statements.  Since November 2000, the
+Company has filed all reports,  schedules, forms, statements and other documents
+required  to be filed by it with the SEC under the  Securities  Exchange  Act of
+1934, as amended (the "Exchange  Act") (all of the foregoing  filed prior to the
+date hereof or amended after the date hereof and all exhibits  included  therein
+and financial  statements and schedules  thereto and documents  incorporated  by
+reference therein,  being hereinafter  referred to as the "SEC Documents").  The
+Company has delivered to the Buyers or their representatives,  or made available
+through the SEC's website at  http://www.sec.gov.,  true and complete  copies of
+the SEC Documents. As of their respective dates, the financial statements of the
+Company disclosed in the SEC Documents (the "Financial  Statements") complied as
+to form in all material respects with applicable accounting requirements and the
+published rules and regulations of the SEC with respect thereto.  Such financial
+statements have been prepared in accordance with generally  accepted  accounting
+principles, consistently applied, during the periods involved (except (i) as may
+be otherwise  indicated in such Financial  Statements or the notes  thereto,  or
+(ii) in the case of unaudited interim statements, to the extent they may exclude
+footnotes or may be condensed or summary  statements) and, fairly present in all
+material respects the financial  position of the Company as of the dates thereof
+and the  results of its  operations  and cash flows for the  periods  then ended
+(subject,  in the  case  of  unaudited  statements,  to  normal  year-end  audit
+adjustments).  No other  information  provided by or on behalf of the Company to
+the  Buyer  which  is not  included  in the SEC  Documents,  including,  without
+limitation,  information  referred  to in this  Agreement,  contains  any untrue
+statement of a material  fact or omits to state any material  fact  necessary in
+order to make the statements  therein,  in the light of the circumstances  under
+which they were made, not misleading.
+
+
+                                       7
+<PAGE>
+
+            (g) 10(b)-5.  The SEC Documents do not include any untrue statements
+of material  fact,  nor do they omit to state any material  fact  required to be
+stated  therein  necessary  to  make  the  statements  made,  in  light  of  the
+circumstances under which they were made, not misleading.
+
+            (h) Absence of  Litigation.  There is no action,  suit,  proceeding,
+inquiry  or  investigation  before or by any  court,  public  board,  government
+agency,  self-regulatory  organization  or body pending against or affecting the
+Company,  the  Common  Stock or any of the  Company's  subsidiaries,  wherein an
+unfavorable decision, ruling or finding would (i) have a material adverse effect
+on the  transactions  contemplated  hereby (ii) adversely affect the validity or
+enforceability  of, or the  authority  or ability of the  Company to perform its
+obligations under, this Agreement or any of the documents  contemplated  herein,
+or (iii) have a material adverse effect on the business, operations, properties,
+financial condition or results of operations of the Company and its subsidiaries
+taken as a whole.
+
+            (i)  Acknowledgment  Regarding  Buyer's  Purchase of the Convertible
+Debentures.  The Company  acknowledges  and agrees  that the  Buyer(s) is acting
+solely  in the  capacity  of an arm's  length  purchaser  with  respect  to this
+Agreement  and  the  transactions   contemplated  hereby.  The  Company  further
+acknowledges that the Buyer(s) is not acting as a financial advisor or fiduciary
+of the Company (or in any similar  capacity)  with respect to this Agreement and
+the transactions contemplated hereby and any advice given by the Buyer(s) or any
+of their respective  representatives or agents in connection with this Agreement
+and the transactions  contemplated  hereby is merely  incidental to such Buyer's
+purchase of the  Convertible  Debentures or the Conversion  Shares.  The Company
+further  represents to the Buyer that the Company's  decision to enter into this
+Agreement has been based solely on the independent evaluation by the Company and
+its representatives.
+
+            (j) No General  Solicitation.  Neither the  Company,  nor any of its
+affiliates,  nor any person  acting on its or their  behalf,  has engaged in any
+form of general  solicitation  or general  advertising  (within  the  meaning of
+Regulation D under the Securities  Act) in connection  with the offer or sale of
+the Convertible Debentures or the Conversion Shares.
+
+            (k) No  Integrated  Offering.  Neither the  Company,  nor any of its
+affiliates,  nor any  person  acting on its or their  behalf  has,  directly  or
+indirectly,  made any offers or sales of any security or solicited any offers to
+buy any security,  under  circumstances  that would require  registration of the
+Convertible  Debentures or the  Conversion  Shares under the  Securities  Act or
+cause this offering of the Convertible Debentures or the Conversion Shares to be
+integrated  with prior  offerings by the Company for purposes of the  Securities
+Act.
+
+
+                                       8
+<PAGE>
+
+            (l)  Employee  Relations.   Neither  the  Company  nor  any  of  its
+subsidiaries  is involved in any labor  dispute  nor,  to the  knowledge  of the
+Company or any of its subsidiaries,  is any such dispute threatened. None of the
+Company's or its subsidiaries'  employees is a member of a union and the Company
+and its subsidiaries believe that their relations with their employees are good.
+
+            (m) Intellectual  Property Rights.  The Company and its subsidiaries
+own or possess  adequate rights or licenses to use all trademarks,  trade names,
+service  marks,  service mark  registrations,  service  names,  patents,  patent
+rights,    copyrights,    inventions,    licenses,    approvals,    governmental
+authorizations,  trade secrets and rights  necessary to conduct their respective
+businesses as now conducted.  The Company and its  subsidiaries  do not have any
+knowledge of any  infringement by the Company or its  subsidiaries of trademark,
+trade name rights, patents,  patent rights,  copyrights,  inventions,  licenses,
+service names, service marks, service mark registrations,  trade secret or other
+similar  rights of others,  and, to the  knowledge  of the  Company  there is no
+claim,  action or proceeding being made or brought against,  or to the Company's
+knowledge,  being threatened against, the Company or its subsidiaries  regarding
+trademark,  trade name, patents, patent rights, invention,  copyright,  license,
+service names, service marks, service mark registrations,  trade secret or other
+infringement;  and the Company and its  subsidiaries are unaware of any facts or
+circumstances which might give rise to any of the foregoing.
+
+            (n) Environmental  Laws. The Company and its subsidiaries are (i) in
+compliance with any and all applicable  foreign,  federal,  state and local laws
+and  regulations  relating to the  protection  of human  health and safety,  the
+environment  or  hazardous  or  toxic   substances  or  wastes,   pollutants  or
+contaminants ("Environmental Laws"), (ii) have received all permits, licenses or
+other approvals required of them under applicable  Environmental Laws to conduct
+their  respective  businesses  and  (iii) are in  compliance  with all terms and
+conditions of any such permit, license or approval.
+
+            (o) Title.  Any real property and facilities held under lease by the
+Company  and its  subsidiaries  are held by them  under  valid,  subsisting  and
+enforceable leases with such exceptions as are not material and do not interfere
+with the use made and proposed to be made of such  property and buildings by the
+Company and its subsidiaries.
+
+            (p) Insurance.  The Company and each of its subsidiaries are insured
+by insurers of recognized financial responsibility against such losses and risks
+and in such  amounts as  management  of the  Company  believes to be prudent and
+customary  in the  businesses  in which the  Company  and its  subsidiaries  are
+engaged.  Neither  the  Company  nor any such  subsidiary  has been  refused any
+insurance  coverage  sought or applied  for and neither the Company nor any such
+subsidiary  has any  reason  to  believe  that it will not be able to renew  its
+existing  insurance  coverage  as and when such  coverage  expires  or to obtain
+similar  coverage  from  similar  insurers as may be  necessary  to continue its
+business at a cost that would not materially and adversely affect the condition,
+financial or otherwise,  or the earnings,  business or operations of the Company
+and its subsidiaries, taken as a whole.
+
+
+                                       9
+<PAGE>
+
+            (q) Regulatory Permits. The Company and its subsidiaries possess all
+material  certificates,  authorizations  and permits  issued by the  appropriate
+federal,  state or foreign  regulatory  authorities  necessary to conduct  their
+respective  businesses,  and neither the  Company  nor any such  subsidiary  has
+received any notice of proceedings relating to the revocation or modification of
+any such certificate, authorization or permit.
+
+            (r)  Internal  Accounting  Controls.  The  Company  and  each of its
+subsidiaries  maintain a system of internal  accounting  controls  sufficient to
+provide  reasonable  assurance that (i)  transactions are executed in accordance
+with  management's  general or specific  authorizations,  (ii)  transactions are
+recorded  as  necessary  to  permit  preparation  of  financial   statements  in
+conformity with generally accepted  accounting  principles and to maintain asset
+accountability,  and (iii) the recorded  amounts for assets is compared with the
+existing  assets at reasonable  intervals and  appropriate  action is taken with
+respect to any differences.
+
+            (s) No Material Adverse  Breaches,  etc. Neither the Company nor any
+of its  subsidiaries  is  subject  to any  charter,  corporate  or  other  legal
+restriction,  or any judgment,  decree,  order,  rule or regulation which in the
+judgment of the  Company's  officers  has or is expected in the future to have a
+material  adverse  effect on the  business,  properties,  operations,  financial
+condition,   results  of   operations   or  prospects  of  the  Company  or  its
+subsidiaries.  Neither the Company nor any of its  subsidiaries  is in breach of
+any  contract or  agreement  which  breach,  in the  judgment  of the  Company's
+officers,  has or is expected to have a material adverse effect on the business,
+properties,  operations, financial condition, results of operations or prospects
+of the Company or its subsidiaries.
+
+            (t) Tax Status.  The Company and each of its  subsidiaries  has made
+and filed all federal and state  income and all other tax  returns,  reports and
+declarations required by any jurisdiction to which it is subject and (unless and
+only to the extent that the Company and each of its  subsidiaries  has set aside
+on its books  provisions  reasonably  adequate for the payment of all unpaid and
+unreported  taxes)  has paid all taxes and other  governmental  assessments  and
+charges  that are  material  in amount,  shown or  determined  to be due on such
+returns,  reports and  declarations,  except those being contested in good faith
+and has set aside on its books provision  reasonably adequate for the payment of
+all taxes for periods  subsequent to the periods to which such returns,  reports
+or declarations  apply. There are no unpaid taxes in any material amount claimed
+to be due by the taxing authority of any  jurisdiction,  and the officers of the
+Company know of no basis for any such claim.
+
+            (u) Certain  Transactions.  And except for arm's length transactions
+pursuant to which the Company makes payments in the ordinary  course of business
+upon terms no less  favorable  than the Company  could obtain from third parties
+and other than the grant of stock options  disclosed in the SEC Documents,  none
+of the officers,  directors, or employees of the Company is presently a party to
+any transaction with the Company (other than for services as employees, officers
+and directors), including any contract, agreement or other arrangement providing
+for the  furnishing  of  services  to or by,  providing  for  rental  of real or
+personal  property to or from,  or otherwise  requiring  payments to or from any
+officer,  director or such  employee or, to the  knowledge  of the Company,  any
+corporation,  partnership, trust or other entity in which any officer, director,
+or any such  employee  has a  substantial  interest or is an officer,  director,
+trustee or partner.
+
+
+                                       10
+<PAGE>
+
+            (v) Fees and Rights of First  Refusal.  The Company is not obligated
+to offer the securities  offered  hereunder on a right of first refusal basis or
+otherwise to any third parties including,  but not limited to, current or former
+shareholders  of the  Company,  underwriters,  brokers,  agents  or other  third
+parties.
+
+      4.    COVENANTS.
+
+            (a) Best  Efforts.  Each party shall use its best  efforts to timely
+satisfy each of the  conditions  to be satisfied by it as provided in Sections 6
+and 7 of this Agreement.
+
+            (b) Form D. The Company  agrees to file a Form D with respect to the
+Conversion  Shares as required under  Regulation D and to provide a copy thereof
+to each Buyer  promptly after such filing.  The Company shall,  on or before the
+Closing  Date,  take such action as the Company  shall  reasonably  determine is
+necessary  to qualify the  Conversion  Shares,  or obtain an  exemption  for the
+Conversion  Shares  for  sale to the  Buyers  at the  Closing  pursuant  to this
+Agreement  under  applicable  securities or "Blue Sky" laws of the states of the
+United  States,  and shall  provide  evidence of any such action so taken to the
+Buyers on or prior to the Closing Date.
+
+            (c) Reporting Status.  Until the earlier of (i) the date as of which
+the Buyer(s) may sell all of the Conversion Shares without restriction  pursuant
+to Rule 144(k) promulgated under the Securities Act (or successor  thereto),  or
+(ii) the date on which  (A) the  Buyer(s)  shall  have  sold all the  Conversion
+Shares  and  (B)  none  of  the  Convertible  Debentures  are  outstanding  (the
+"Registration  Period"),  the Company  shall file in a timely manner all reports
+required  to be  filed  with  the  SEC  pursuant  to the  Exchange  Act  and the
+regulations  of the SEC  thereunder,  and the Company  shall not  terminate  its
+status as an issuer  required to file reports under the Exchange Act even if the
+Exchange Act or the rules and regulations thereunder would otherwise permit such
+termination.
+
+            (d) Use of Proceeds. The Company will use the proceeds from the sale
+of  the  Convertible  Debentures  for  general  corporate  and  working  capital
+purposes.
+
+            (e)  Reservation  of  Shares.  The  Company  shall  take all  action
+reasonably  necessary  to at all times have  authorized,  and  reserved  for the
+purpose of issuance, such number of shares of Common Stock as shall be necessary
+to effect the issuance of the Conversion Shares. If at any time the Company does
+not have  available  such  shares of Common  Stock as shall from time to time be
+sufficient to effect the conversion of all of the Conversion Shares, the Company
+shall call and hold a special  meeting of the  shareholders  within  thirty (30)
+days of such occurrence, for the sole purpose of increasing the number of shares
+authorized. The Company's management shall recommend to the shareholders to vote
+in favor of  increasing  the  number  of  shares  of  Common  Stock  authorized.
+Management  shall also vote all of its shares in favor of increasing  the number
+of authorized shares of Common Stock.
+
+
+                                       11
+<PAGE>
+
+            (f) Listings or  Quotation.  The Company shall  promptly  secure the
+listing or  quotation of the  Conversion  Shares upon each  national  securities
+exchange,  automated quotation system or The National  Association of Securities
+Dealers Inc.'s  Over-The-Counter  Bulletin Board  ("OTCBB") or other market,  if
+any,  upon which  shares of Common  Stock are then listed or quoted  (subject to
+official notice of issuance) and shall use its best efforts to maintain, so long
+as any other  shares of Common  Stock  shall be so listed,  such  listing of all
+Conversion  Shares from time to time issuable under the terms of this Agreement.
+The Company shall maintain the Common Stock's authorization for quotation on the
+OTCBB.
+
+            (g) Fees and Expenses.
+
+                  (i) Each of the Company and the  Buyer(s)  shall pay all costs
+and  expenses  incurred  by such  party  in  connection  with  the  negotiation,
+investigation, preparation, execution and delivery of the Transaction Documents.
+The Company shall pay the Buyer or its designees a non refundable commitment fee
+equal to ten percent (10%) of the Purchase Price.
+
+            (h)  Corporate  Existence.   So  long  as  any  of  the  Convertible
+Debentures  remain  outstanding,  the Company  shall not directly or  indirectly
+consummate  any  merger,  reorganization,  restructuring,  reverse  stock  split
+consolidation,  sale of all or substantially  all of the Company's assets or any
+similar  transaction  or  related   transactions  (each  such  transaction,   an
+"Organizational  Change") unless,  prior to the  consummation an  Organizational
+Change, the Company obtains the written consent of each Buyer. In any such case,
+the Company will make appropriate provision with respect to such holders' rights
+and interests to insure that the provisions of this Section 4(h) will thereafter
+be applicable to the Convertible Debentures.
+
+            (i)  Transactions  With  Affiliates.  So  long  as  any  Convertible
+Debentures are  outstanding,  the Company shall not, and shall cause each of its
+subsidiaries  not to, enter into,  amend,  modify or  supplement,  or permit any
+subsidiary  to  enter  into,   amend,   modify  or  supplement   any  agreement,
+transaction,  commitment,  or  arrangement  with any of its or any  subsidiary's
+officers,  directors,  person who were  officers or directors at any time during
+the previous two (2) years,  stockholders who beneficially own five percent (5%)
+or more of the  Common  Stock,  or  Affiliates  (as  defined  below) or with any
+individual  related by blood,  marriage,  or adoption to any such  individual or
+with any entity in which any such entity or individual  owns a five percent (5%)
+or more beneficial  interest (each a "Related Party"),  except for (a) customary
+employment  arrangements  and benefit  programs  on  reasonable  terms,  (b) any
+investment  in an  Affiliate  of the Company,  (c) any  agreement,  transaction,
+commitment,  or arrangement  on an arms-length  basis on terms no less favorable
+than  terms  which  would  have been  obtainable  from a person  other than such
+Related Party, (d) any agreement, transaction,  commitment, or arrangement which
+is approved by a majority of the  disinterested  directors of the  Company;  for
+purposes  hereof,  any  director  who is also an officer  of the  Company or any
+subsidiary of the Company shall not be a disinterested  director with respect to
+any such agreement,  transaction,  commitment,  or arrangement.  "Affiliate" for
+purposes hereof means,  with respect to any person or entity,  another person or
+entity that, directly or indirectly,  (i) has a ten percent (10%) or more equity
+interest  in that person or entity,  (ii) has ten  percent  (10%) or more common
+ownership with that person or entity,  (iii) controls that person or entity,  or
+(iv) shares common  control with that person or entity.  "Control" or "controls"
+for  purposes  hereof  means that a person or entity  has the  power,  direct or
+indirect, to conduct or govern the policies of another person or entity.
+
+
+                                       12
+<PAGE>
+
+            (j) Transfer  Agent.  The Company  covenants and agrees that, in the
+event that the Company's agency  relationship  with the transfer agent should be
+terminated  for any  reason  prior to a date  which is two (2)  years  after the
+Closing Date,  the Company shall  immediately  appoint a new transfer  agent and
+shall  require that the new transfer  agent execute and agree to be bound by the
+terms of the Irrevocable Transfer Agent Instructions (as defined herein).
+
+            (k)  Restriction  on Issuance of the Capital  Stock.  So long as any
+Convertible Debentures are outstanding, the Company shall not, without the prior
+written  consent of the  Buyer(s),  (i) issue or sell shares of Common  Stock or
+Preferred Stock without consideration or for a consideration per share less than
+the bid price of the Common Stock determined  immediately prior to its issuance,
+(ii)  issue any  warrant,  option,  right,  contract,  call,  or other  security
+instrument  granting  the  holder  thereof,  the right to acquire  Common  Stock
+without  consideration or for a consideration  less than such Common Stock's Bid
+Price value determined immediately prior to it's issuance,  (iii) enter into any
+security  instrument  granting  the  holder a security  interest  in any and all
+assets of the Company, or (iv) file any registration statement on Form S-8.
+
+            (l)  Neither the  Buyer(s)  nor any of its  affiliates  have an open
+short position in the Common Stock of the Company,  and the Buyer(s) agrees that
+it shall not, and that it will cause its  affiliates not to, engage in any short
+sales of or hedging transactions with respect to the Common Stock as long as any
+Convertible  Debenture or warrants to purchase  the Warrant  Shares shall remain
+outstanding.
+
+      5.    TRANSFER AGENT INSTRUCTIONS.
+
+            (a)  The  Company  shall  issue  the   Irrevocable   Transfer  Agent
+Instructions to its transfer agent irrevocably  appointing David Gonzalez,  Esq.
+as the Company's agent for purpose of having certificates issued,  registered in
+the name of the Buyer(s) or its respective nominee(s), for the Conversion Shares
+representing  such amounts of  Convertible  Debentures as specified from time to
+time  by the  Buyer(s)  to  the  Company  upon  conversion  of  the  Convertible
+Debentures, for interest owed pursuant to the Convertible Debenture, and for any
+and all Liquidated Damages (as this term is defined in the Investor Registration
+Rights  Agreement).  David  Gonzalez,  Esq.  shall  be paid a cash  fee of Fifty
+Dollars ($50) for every occasion they act pursuant to the  Irrevocable  Transfer
+Agent Instructions.  The Company shall not change its transfer agent without the
+express written  consent of the Buyer(s),  which may be withheld by the Buyer(s)
+in its sole discretion. Prior to registration of the Conversion Shares under the
+Securities  Act,  all  such  certificates  shall  bear  the  restrictive  legend
+specified  in Section  2(g) of this  Agreement.  The  Company  warrants  that no
+instruction other than the Irrevocable  Transfer Agent Instructions  referred to
+in this Section 5, and stop transfer instructions to give effect to Section 2(g)
+hereof  (in the case of the  Conversion  Shares  prior to  registration  of such
+shares  under the  Securities  Act) will be given by the Company to its transfer
+agent and that the Conversion  Shares shall otherwise be freely  transferable on
+the books and  records  of the  Company as and to the  extent  provided  in this
+Agreement  and the  Investor  Registration  Rights  Agreement.  Nothing  in this
+Section 5 shall  affect in any way the  Buyer's  obligations  and  agreement  to
+comply with all applicable  securities laws upon resale of Conversion Shares. If
+the Buyer(s) provides the Company with an opinion of counsel, in form, scope and
+substance  customary for opinions of counsel in comparable  transactions  to the
+effect that  registration  of a resale by the Buyer(s) of any of the  Conversion
+Shares is not required  under the  Securities  Act, the Company shall within two
+(2) business days instruct its transfer agent to issue one or more  certificates
+in such name and in such  denominations  as specified by the Buyer.  The Company
+acknowledges  that  a  breach  by it of its  obligations  hereunder  will  cause
+irreparable  harm to the  Buyer by  vitiating  the  intent  and  purpose  of the
+transaction contemplated hereby. Accordingly,  the Company acknowledges that the
+remedy  at law for a breach  of its  obligations  under  this  Section 5 will be
+inadequate  and  agrees,  in the event of a breach or  threatened  breach by the
+Company  of the  provisions  of this  Section  5,  that  the  Buyer(s)  shall be
+entitled,  in  addition  to  all  other  available  remedies,  to an  injunction
+restraining any breach and requiring  immediate  issuance and transfer,  without
+the necessity of showing  economic  loss and without any bond or other  security
+being required.
+
+
+                                       13
+<PAGE>
+
+      6.    CONDITIONS TO THE COMPANY'S OBLIGATION TO SELL.
+
+      The obligation of the Company  hereunder to issue and sell the Convertible
+Debentures to the Buyer(s) at the Closings is subject to the satisfaction, at or
+before the Closing  Dates,  of each of the following  conditions,  provided that
+these  conditions  are for the  Company's  sole benefit and may be waived by the
+Company at any time in its sole discretion:
+
+            (a) Each Buyer shall have  executed the  Transaction  Documents  and
+delivered them to the Company.
+
+            (b) The  Buyer(s)  shall  have  delivered  to the  Escrow  Agent the
+Purchase  Price for  Convertible  Debentures in respective  amounts as set forth
+next to each Buyer as  outlined  on  Schedule  I attached  hereto and the Escrow
+Agent shall have  delivered  the net proceeds to the Company by wire transfer of
+immediately  available U.S. funds pursuant to the wire instructions  provided by
+the Company.
+
+            (c) The representations and warranties of the Buyer(s) shall be true
+and  correct  in all  material  respects  as of the date when made and as of the
+Closing  Dates as  though  made at that time  (except  for  representations  and
+warranties  that  speak as of a  specific  date),  and the  Buyer(s)  shall have
+performed,  satisfied and complied in all material  respects with the covenants,
+agreements and conditions required by this Agreement to be performed,  satisfied
+or complied with by the Buyer(s) at or prior to the Closing Dates.
+
+      7.    CONDITIONS TO THE BUYER'S OBLIGATION TO PURCHASE.
+
+            (a)  The  obligation  of the  Buyer(s)  hereunder  to  purchase  the
+Convertible  Debentures  at the  Closing is subject to the  satisfaction,  at or
+before the Closing Date, of each of the following conditions:
+
+                  (i) The Company shall have executed the Transaction  Documents
+and delivered the same to the Buyer(s).
+
+                  (ii) The Common Stock shall be authorized for quotation on the
+OTCBB, trading in the Common Stock shall not have been suspended for any reason,
+and all the Conversion  Shares  issuable upon the conversion of the  Convertible
+Debentures shall be approved by the OTCBB.
+
+
+                                       14
+<PAGE>
+
+                  (iii) The  representations and warranties of the Company shall
+be true and correct in all material  respects  (except to the extent that any of
+such  representations  and warranties is already  qualified as to materiality in
+Section 3 above, in which case,  such  representations  and warranties  shall be
+true and correct without further  qualification) as of the date when made and as
+of the Closing Date as though made at that time (except for  representations and
+warranties  that  speak  as of a  specific  date)  and the  Company  shall  have
+performed,  satisfied and complied in all material  respects with the covenants,
+agreements and conditions required by this Agreement to be performed,  satisfied
+or complied with by the Company at or prior to the Closing Date. If requested by
+the  Buyer,  the Buyer  shall  have  received  a  certificate,  executed  by the
+President of the Company,  dated as of the Closing Date, to the foregoing effect
+and as to  such  other  matters  as may be  reasonably  requested  by the  Buyer
+including,  without  limitation  an update as of the Closing Date  regarding the
+representation contained in Section 3(c) above.
+
+                  (iv) The Company  shall have  executed  and  delivered  to the
+Buyer(s) the Convertible Debentures in the respective amounts set forth opposite
+each Buyer(s) name on Schedule I attached hereto.
+
+                  (v) The  Buyer(s)  shall have  received  an opinion of counsel
+from counsel to the Company in a form satisfactory to the Buyer(s).
+
+                  (vi)  The  Company  shall  have  provided  to the  Buyer(s)  a
+certificate of good standing from the secretary of state from the state in which
+the company is incorporated.
+
+                  (vii) The Company  shall have filed a form UCC-1 or such other
+forms as may be required to perfect the Buyer's interest in the Pledged Property
+as detailed in the Security  Agreement  dated the date hereof and provided proof
+of such filing to the Buyer(s).
+
+                  (viii) The Company shall have  reserved out of its  authorized
+and unissued Common Stock, solely for the purpose of effecting the conversion of
+the Convertible  Debentures,  shares of Common Stock to effect the conversion of
+all of the Conversion Shares then outstanding.
+
+                  (ix) The Irrevocable Transfer Agent Instructions,  in form and
+substance   satisfactory  to  the  Buyer,  shall  have  been  delivered  to  and
+acknowledged in writing by the Company's transfer agent.
+
+
+                                       15
+<PAGE>
+
+      8.    INDEMNIFICATION.
+
+            (a) In consideration  of the Buyer's  execution and delivery of this
+Agreement and acquiring the  Convertible  Debentures and the  Conversion  Shares
+hereunder,  and in addition to all of the Company's other obligations under this
+Agreement,  the Company shall defend,  protect,  indemnify and hold harmless the
+Buyer(s) and each other holder of the Convertible  Debentures and the Conversion
+Shares, and all of their officers,  directors,  employees and agents (including,
+without   limitation,   those  retained  in  connection  with  the  transactions
+contemplated by this Agreement) (collectively, the "Buyer Indemnitees") from and
+against any and all actions,  causes of action,  suits, claims,  losses,  costs,
+penalties,  fees,  liabilities and damages, and expenses in connection therewith
+(irrespective  of whether any such Buyer Indemnitee is a party to the action for
+which indemnification  hereunder is sought), and including reasonable attorneys'
+fees and disbursements  (the "Indemnified  Liabilities"),  incurred by the Buyer
+Indemnitees or any of them as a result of, or arising out of, or relating to (a)
+any  misrepresentation  or breach of any  representation or warranty made by the
+Company  in  this  Agreement,   the  Convertible   Debentures  or  the  Investor
+Registration  Rights Agreement or any other certificate,  instrument or document
+contemplated  hereby or thereby,  (b) any breach of any  covenant,  agreement or
+obligation  of  the  Company  contained  in  this  Agreement,  or  the  Investor
+Registration  Rights Agreement or any other certificate,  instrument or document
+contemplated  hereby  or  thereby,  or (c) any  cause of  action,  suit or claim
+brought or made against such Indemnitee and arising out of or resulting from the
+execution,  delivery,  performance or enforcement of this Agreement or any other
+instrument, document or agreement executed pursuant hereto by any of the parties
+hereto, any transaction financed or to be financed in whole or in part, directly
+or indirectly,  with the proceeds of the issuance of the Convertible  Debentures
+or  the  status  of the  Buyer  or  holder  of the  Convertible  Debentures  the
+Conversion Shares, as a Buyer of Convertible  Debentures in the Company.  To the
+extent that the foregoing  undertaking by the Company may be  unenforceable  for
+any reason,  the Company shall make the maximum  contribution to the payment and
+satisfaction of each of the Indemnified Liabilities,  which is permissible under
+applicable law.
+
+            (b) In consideration of the Company's execution and delivery of this
+Agreement,  and in addition to all of the Buyer's other  obligations  under this
+Agreement,  the Buyer shall  defend,  protect,  indemnify  and hold harmless the
+Company and all of its officers,  directors,  employees  and agents  (including,
+without   limitation,   those  retained  in  connection  with  the  transactions
+contemplated by this Agreement)  (collectively,  the "Company Indemnitees") from
+and against any and all Indemnified  Liabilities  incurred by the Indemnitees or
+any of  them  as a  result  of,  or  arising  out  of,  or  relating  to (a) any
+misrepresentation  or  breach  of any  representation  or  warranty  made by the
+Buyer(s)  in this  Agreement,  instrument  or  document  contemplated  hereby or
+thereby  executed by the Buyer,  (b) any breach of any  covenant,  agreement  or
+obligation  of  the  Buyer(s)   contained  in  this   Agreement,   the  Investor
+Registration  Rights Agreement or any other certificate,  instrument or document
+contemplated  hereby  or  thereby  executed  by the  Buyer,  or (c) any cause of
+action,  suit or claim brought or made against such Company  Indemnitee based on
+material  misrepresentations  or due to a material  breach and arising out of or
+resulting  from the  execution,  delivery,  performance  or  enforcement of this
+Agreement,  the Investor  Registration Rights Agreement or any other instrument,
+document or agreement  executed pursuant hereto by any of the parties hereto. To
+the extent that the foregoing undertaking by each Buyer may be unenforceable for
+any reason,  each Buyer shall make the maximum  contribution  to the payment and
+satisfaction of each of the Indemnified Liabilities,  which is permissible under
+applicable law.
+
+
+                                       16
+<PAGE>
+
+      9.    GOVERNING LAW: MISCELLANEOUS.
+
+            (a)  Governing  Law.  This  Agreement   shall  be  governed  by  and
+interpreted  in  accordance  with the laws of the  State of New  Jersey  without
+regard to the principles of conflict of laws. The parties further agree that any
+action between them shall be heard in Hudson County,  New Jersey,  and expressly
+consent  to the  jurisdiction  and venue of the  Superior  Court of New  Jersey,
+sitting in Hudson County and the United States  District  Court for the District
+of New Jersey sitting in Newark,  New Jersey for the  adjudication  of any civil
+action asserted pursuant to this Paragraph.
+
+            (b)  Counterparts.  This  Agreement  may be  executed in two or more
+identical  counterparts,  all of  which  shall  be  considered  one and the same
+agreement and shall become effective when  counterparts have been signed by each
+party and  delivered  to the other  party.  In the event any  signature  page is
+delivered  by  facsimile  transmission,  the party  using such means of delivery
+shall  cause  four  (4)  additional  original  executed  signature  pages  to be
+physically  delivered to the other party  within five (5) days of the  execution
+and delivery hereof.
+
+            (c) Headings.  The headings of this Agreement are for convenience of
+reference  and shall not form part of, or affect  the  interpretation  of,  this
+Agreement.
+
+            (d)  Severability.  If any  provision  of this  Agreement  shall  be
+invalid   or   unenforceable   in   any   jurisdiction,   such   invalidity   or
+unenforceability  shall  not  affect  the  validity  or  enforceability  of  the
+remainder  of  this   Agreement  in  that   jurisdiction   or  the  validity  or
+enforceability of any provision of this Agreement in any other jurisdiction.
+
+            (e) Entire  Agreement,  Amendments.  This  Agreement  supersedes all
+other prior oral or written agreements between the Buyer(s),  the Company, their
+affiliates  and  persons  acting on their  behalf  with  respect to the  matters
+discussed  herein,  and this  Agreement and the  instruments  referenced  herein
+contain  the entire  understanding  of the parties  with  respect to the matters
+covered  herein and therein  and,  except as  specifically  set forth  herein or
+therein,  neither the Company nor any Buyer makes any representation,  warranty,
+covenant or  undertaking  with  respect to such  matters.  No  provision of this
+Agreement may be waived or amended other than by an instrument in writing signed
+by the party to be charged with enforcement.
+
+            (f) Notices. Any notices, consents, waivers, or other communications
+required or permitted to be given under the terms of this  Agreement  must be in
+writing  and will be  deemed  to have  been  delivered  (i) upon  receipt,  when
+delivered personally; (ii) upon confirmation of receipt, when sent by facsimile;
+(iii) three (3) days after being sent by U.S.  certified  mail,  return  receipt
+requested,  or (iv)  one (1) day  after  deposit  with a  nationally  recognized
+overnight  delivery  service,  in each case  properly  addressed to the party to
+receive the same.  The addresses and facsimile  numbers for such  communications
+shall be:
+
+
+                                       17
+<PAGE>
+
+If to the Company, to:                         Innova Holdings, Inc.
+                                               17105 San Carlos Boulevard
+                                               Suite A6151
+                                               Fort Myers, FL 33931
+                                               Attention:        Walter Weisel
+                                               Telephone:        (239) 466-0488
+                                               Facsimile:        (239) 466-7270
+With a copy to:
+                                               Innova Holdings, Inc.
+                                               17105 San Carlos Boulevard
+                                               Suite A6151
+                                               Fort Myers, FL 33931
+                                               Attention:        Sheri Aws
+                                               Telephone:        (239) 466-0488
+                                               Facsimile:        (239) 466-7270
+
+      If to the  Buyer(s),  to its address and  facsimile  number on Schedule I,
+with copies to the Buyer's  counsel as set forth on Schedule I. Each party shall
+provide five (5) days' prior written  notice to the other party of any change in
+address or facsimile number.
+
+            (g) Successors and Assigns. This Agreement shall be binding upon and
+inure to the benefit of the parties and their respective successors and assigns.
+Neither the Company nor any Buyer shall  assign this  Agreement or any rights or
+obligations  hereunder  without  the prior  written  consent of the other  party
+hereto.
+
+            (h) No Third Party Beneficiaries. This Agreement is intended for the
+benefit of the parties  hereto and their  respective  permitted  successors  and
+assigns, and is not for the benefit of, nor may any provision hereof be enforced
+by, any other person.
+
+            (i)  Survival.  Unless this  Agreement is  terminated  under Section
+9(l),  the  representations  and  warranties  of the  Company  and the  Buyer(s)
+contained  in  Sections  2 and 3, the  agreements  and  covenants  set  forth in
+Sections 4, 5 and 9, and the indemnification  provisions set forth in Section 8,
+shall  survive the Closing for a period of two (2) years  following  the date on
+which the  Convertible  Debentures  are converted in full. The Buyer(s) shall be
+responsible  only  for  its  own  representations,  warranties,  agreements  and
+covenants hereunder.
+
+            (j) Publicity.  The Company and the Buyer(s) shall have the right to
+approve,  before  issuance any press release or any other public  statement with
+respect to the  transactions  contemplated  hereby made by any party;  provided,
+however,  that the Company shall be entitled,  without the prior approval of the
+Buyer(s),  to issue any press release or other public disclosure with respect to
+such  transactions  required  under  applicable  securities  or  other  laws  or
+regulations  (the Company  shall use its best efforts to consult the Buyer(s) in
+connection with any such press release or other public  disclosure  prior to its
+release  and  Buyer(s)  shall  be  provided  with a copy  thereof  upon  release
+thereof).
+
+            (k) Further Assurances. Each party shall do and perform, or cause to
+be done and performed,  all such further acts and things,  and shall execute and
+deliver all such other agreements,  certificates,  instruments and documents, as
+the other  party may  reasonably  request  in order to carry out the  intent and
+accomplish  the  purposes  of  this  Agreement  and  the   consummation  of  the
+transactions contemplated hereby.
+
+
+                                       18
+<PAGE>
+
+            (l)  Termination.  In the  event  that the  Closing  shall  not have
+occurred with respect to the Buyers on or before five (5) business days from the
+date  hereof  due to the  Company's  or  the  Buyer's  failure  to  satisfy  the
+conditions  set forth in Sections 6 and 7 above (and the  non-breaching  party's
+failure to waive such unsatisfied  condition(s)),  the non-breaching party shall
+have the option to terminate this Agreement with respect to such breaching party
+at the close of  business  on such date  without  liability  of any party to any
+other party;  provided,  however,  that if this  Agreement is  terminated by the
+Company  pursuant to this Section 9(l),  the Company  shall remain  obligated to
+reimburse  the  Buyer(s)  for  the  fees  and  expenses  of  Yorkville  Advisors
+Management, LLC described in Section 4(g) above.
+
+            (m) No Strict Construction. The language used in this Agreement will
+be deemed to be the  language  chosen by the  parties  to express  their  mutual
+intent, and no rules of strict construction will be applied against any party.
+
+
+                    [REMAINDER PAGE INTENTIONALLY LEFT BLANK]
+
+
+
+                                       19
+<PAGE>
+
+      IN WITNESS WHEREOF, the Buyers and the Company have caused this Securities
+Purchase Agreement to be duly executed as of the date first written above.
+
+
+                                            COMPANY:
+                                            INNOVA HOLDINGS, INC
+
+                                            By: /s/ Walter K. Weisel
+                                                -------------------------------
+                                            Name:   Walter K. Weisel
+                                            Title:  Chief Executive Officer
+
+
+                                       20
+<PAGE>
+
+                                   SCHEDULE I
+
+
+                               SCHEDULE OF BUYERS
+
+<TABLE>
+<CAPTION>
+===========================================================================================================================
+                                                                                   Address/Facsimile             Amount of
+                Name                               Signature                        Number of Buyer            Subscription
+-------------------------------        ---------------------------------   ---------------------------------   ------------
+<S>                                    <C>                                 <C>                                 <C>
+Cornell Capital Partners, LP           By:      Yorkville Advisors, LLC    101 Hudson Street - Suite 3700          $55,000
+                                       Its:     General Partner            Jersey City, NJ  07303
+                                                                           Facsimile:      (201) 985-8266
+
+                                       By:/s/ Mark Angelo
+                                          ------------------
+                                       Name:    Mark Angelo
+                                       Its:     Portfolio Manager
+
+With a copy to:                        David Gonzalez, Esq.                101 Hudson Street - Suite 3700
+                                                                           Jersey City, NJ 07302
+                                                                           Facsimile:     (201) 985-8266
+</TABLE>
+</TEXT>
+</DOCUMENT>

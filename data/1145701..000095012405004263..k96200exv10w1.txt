@@ -1,0 +1,643 @@
+<DOCUMENT>
+<TYPE>EX-10.1
+<SEQUENCE>7
+<FILENAME>k96200exv10w1.txt
+<DESCRIPTION>OPERATING AGREEMENT
+<TEXT>
+<PAGE>
+
+                                                                    EXHIBIT 10.1
+
+                              OPERATING AGREEMENT
+
+     AGREEMENT, dated as of June 24, 2005, by and between GENERAL MOTORS
+CORPORATION, a Delaware corporation ("GM"), GENERAL MOTORS ACCEPTANCE
+CORPORATION ("GMAC"), a Delaware corporation and a wholly-owned Subsidiary of
+GM, and RESIDENTIAL CAPITAL CORPORATION ("RESCAP"), a Delaware corporation and
+an indirect wholly-owned Subsidiary of GMAC.
+
+     The parties agree as follows:
+
+     SECTION 1.  Definitions.  For purposes of this Agreement, the following
+terms shall have the meanings assigned in this section:
+
+          "AFFILIATE" means, with respect to any Person, any other Person
+     directly or indirectly Controlling or Controlled by or under direct or
+     indirect common Control with such Person.
+
+          "BANK AGENT" means, with respect to any senior unsecured credit
+     facility under which ResCap is a borrower, the administrative agent under
+     such facility, or if there is no such agent, each lender under such
+     facility.
+
+          "CAPITAL STOCK" of any Person means any and all shares, interests,
+     participations or other equivalents (however designated) of corporate
+     stock, including any preferred stock.
+
+          "CLASS" means, with respect to any Rated Indebtedness, all such Rated
+     Indebtedness designated as belonging to the same class, series or issue or
+     otherwise having substantially the same material terms and governed by
+     substantially the same instruments.
+
+          "CLASS AGENT" means, in the case of Rated Indebtedness evidenced by an
+     indenture or other similar agreement, the trustee or other fiduciary or
+     agent authorized to act for such Class (upon direction or otherwise), and,
+     in all other cases, the holders of a majority in principal amount of the
+     outstanding Rated Indebtedness of such Class.
+
+          "CONTROL" means the possession, directly or indirectly, of the power
+     to direct or cause the direction of the management or policies of a Person,
+     whether through the ownership of voting securities or general partnership
+     or managing member interests, by contract or otherwise. "Controlling" and
+     "Controlled" shall have correlative meanings. Without limiting the
+     generality of the foregoing, a Person shall be deemed to Control any other
+     Person in which it owns, directly or indirectly, a majority of the
+     ownership interests.
+
+          "CUMULATIVE NET INCOME" means the net income of ResCap and its
+     Subsidiaries on a consolidated basis determined in accordance with GAAP for
+     the period beginning with the first day of the first fiscal quarter
+     beginning after the date of this Agreement and ending on the last day of
+     the fiscal quarter ending immediately preceding the date as of which a
+     determination of Cumulative Net Income is required.
+
+          "DISQUALIFIED STOCK" means any Capital Stock that by its terms (or by
+     the terms of any security into which it is convertible or for which it is
+     exchangeable), or upon the happening of any event, matures or is
+     mandatorily redeemable, pursuant to a sinking fund obligation or otherwise,
+     or is redeemable at the option of the holder thereof, in whole or in part.
+
+          "DIVIDEND" means any dividend or distribution of cash or property by
+     ResCap on account of its Capital Stock or the repurchase by ResCap of its
+     Capital Stock (other than dividends, distributions or repurchases payable
+     in Capital Stock (other than Disqualified Stock)).
+
+          "EXCLUDED PREPAYMENTS" shall have the meaning set forth in Section
+     2(e).
+
+                                        1
+<PAGE>
+
+          "GAAP" means generally accepted accounting principles as in effect in
+     the United States from time to time, applied on a consistent basis.
+
+          "GM AFFILIATE" means GM and any Person that is an Affiliate of GM,
+     other than GMAC and its Subsidiaries.
+
+          "GM AFFILIATE BUSINESS" means all businesses and operations (whether
+     or not such businesses or operations are terminated, divested or
+     discontinued) of the GM Affiliates as conducted from time to time.
+
+          "GM INDEMNIFIABLE LIABILITIES" means all Liabilities of any GM
+     Affiliate to the extent such Liabilities (a) relate to, (b) arise out of or
+     (c) result principally from any of the following items:
+
+             (i) the failure of any GM Affiliate to pay, perform or otherwise
+        promptly discharge any Liabilities of such GM Affiliate in accordance
+        with their terms; or
+
+             (ii) the GM Affiliate Business.
+
+          "GMAC AFFILIATE" means GM, GMAC and any Person that is an Affiliate of
+     GM or GMAC, other than ResCap and its Subsidiaries.
+
+          "GMAC AFFILIATE BUSINESS" means all businesses and operations (whether
+     or not such businesses or operations are terminated, divested or
+     discontinued) of the GMAC Affiliates as conducted from time to time.
+
+          "GMAC INDEMNIFIABLE LIABILITIES" means all Liabilities of any GMAC
+     Affiliate to the extent such Liabilities (a) relate to, (b) arise out of or
+     (c) result principally from any of the following items:
+
+             (i) the failure of any GMAC Affiliate to pay, perform or otherwise
+        promptly discharge any Liabilities of such GMAC Affiliate in accordance
+        with their terms; or
+
+             (ii) the GMAC Affiliate Business.
+
+          "GMAC SUBORDINATED DEBT" means any indebtedness owed by ResCap or any
+     of its Subsidiaries to any GMAC Affiliate that is subordinated to Rated
+     Indebtedness in right of payment of principal, interest and premium, if
+     any.
+
+          "GOVERNMENTAL AUTHORITY" means any supranational, international,
+     national, federal, state or local court, government, department,
+     commission, board, bureau, agency, official or other regulatory,
+     administrative or governmental authority.
+
+          "INDEPENDENT DIRECTOR" means an individual who: (A) is not and has not
+     been an officer, director or employee, and has no immediate family member
+     that is or has been an officer, of any GMAC Affiliate within the three
+     years immediately prior to such individual's appointment as an Independent
+     Director; (B) has not received, and has no immediate family member who has
+     received, during any twelve-month period in the three years immediately
+     prior to such individual's appointment as an Independent Director, more
+     than $100,000 in direct compensation from any GMAC Affiliate, other than
+     director fees and pension and other forms of deferred compensation for
+     prior service that is not contingent in any way on continued service; (C)
+     is not employed by, and has no immediate family member that is an officer
+     of, any Person that has made payments to, or received payments from, any
+     GMAC Affiliate for property or services in an amount which, in any of the
+     last three fiscal years, exceeds the greater of $1 million or 2% of
+     ResCap's consolidated gross revenues; and (D) is reasonably believed by the
+     then current directors of ResCap to be financially sophisticated and
+     otherwise qualified to fulfill the obligations of an Independent Director
+     as set forth in this Agreement. For purposes of this definition, "immediate
+     family member" means an individual's spouse, parents and parents-in-law,
+     siblings and siblings-in-law, children and children-in-law and anyone
+     (other than domestic employees) who shares such individual's home.
+     Notwithstanding anything contained in clauses (A) through (D) above, any
+     Independent Director may serve or have served as an
+
+                                        2
+<PAGE>
+
+     Independent Director of one or more limited purpose entities organized for
+     the purpose of acquiring, financing or otherwise investing, directly or
+     indirectly, in assets or receivables originated, owned or serviced by any
+     GMAC Affiliate or ResCap Subsidiary or holding equity beneficial interest
+     in trusts formed by any GMAC Affiliate or ResCap Subsidiary.
+
+          "INVESTMENT" in any Person means any loan, advance or other extension
+     of credit (other than in the ordinary course of business) to such Person
+     (whether in cash or property) or any capital contribution or purchase or
+     acquisition of any Capital Stock or indebtedness of such Person (whether in
+     cash or property); provided, however, that the term "Investment" shall not
+     include any purchase of securities issued by a GMAC Affiliate through the
+     use of funds in a custodial account held by ResCap or its Subsidiaries
+     relating to the sale of financial assets by ResCap or its Subsidiaries.
+
+          "LIABILITIES" means all debts, liabilities, obligations,
+     responsibilities, response actions, losses, damages (whether compensatory,
+     punitive or treble), fines, penalties and sanctions, absolute or
+     contingent, matured or unmatured, liquidated or unliquidated, foreseen or
+     unforeseen, joint, several or individual, asserted or unasserted, accrued
+     or unaccrued, known or unknown, whenever arising, including those arising
+     under or in connection with any law, statute, ordinance, regulation, rule
+     or other pronouncements of Governmental Authorities having the effect of
+     law, Proceeding, threatened Proceeding, order or consent decree of any
+     Governmental Authority or any award of any arbitration tribunal, and those
+     arising under any contract, guarantee, commitment or undertaking, whether
+     sought to be imposed by a Governmental Authority, a party to this agreement
+     or any other Person, whether based in contract, tort, implied or express
+     warranty, strict liability, criminal or civil statute, or otherwise, and
+     including any costs, expenses, interest, external attorneys' fees,
+     disbursements and expense of external counsel, expert and consulting fees
+     and costs related thereto or to the investigation or defense thereof.
+
+          "LOSSES" means all losses, liabilities, penalties, claims, damages,
+     demands, costs and expenses (including reasonable external attorneys' fees,
+     investigation expenses, out-of-pocket expenses, interest and punitive or
+     consequential damages) and other Liabilities of any kind.
+
+          "PERSON" means any individual, corporation, partnership, joint
+     venture, limited liability company, limited liability partnership,
+     association, joint stock company, trust, unincorporated organization, or
+     other organization, whether or not a legal entity, and any Governmental
+     Authority.
+
+          "PREPAYMENT" means any payment of principal in respect of GMAC
+     Subordinated Debt prior to the stated maturity thereof.
+
+          "PROCEEDING" means any past, present or future suit, counter suit,
+     action, arbitration, mediation, alternative dispute resolution process,
+     claim, counterclaim, demand, proceeding, inquiry or investigation by or
+     before any Governmental Authority or any arbitration or mediation tribunal.
+
+          "RATING AGENCIES" means Standard & Poor's Ratings Services, Moody's
+     Investors Service, Inc., Fitch Ratings, Inc. and Dominion Bond Rating
+     Service, or, if any such agency shall cease to perform the functions of a
+     statistical rating agency, a replacement therefor that is a nationally
+     recognized statistical rating agency in the United States and is designated
+     by GMAC and ResCap.
+
+          "RATED INDEBTEDNESS" means any senior long-term unsecured debt of
+     ResCap, that, at the relevant time, is outstanding and not defeased in
+     accordance with its terms and that is at the time of its issuance rated by
+     at least two of the Rating Agencies, unless the instruments governing such
+     indebtedness provide that they are not entitled to the benefits of this
+     Agreement.
+
+          "RESCAP BUSINESS" means all businesses and operations (whether or not
+     such businesses or operations are terminated, divested or discontinued) of
+     ResCap or its Subsidiaries as conducted from time to time.
+
+                                        3
+<PAGE>
+
+          "RESCAP INDEMNIFIABLE LIABILITIES" means all Liabilities of ResCap or
+     any of its Subsidiaries to the extent such Liabilities (a) relate to, (b)
+     arise out of or (c) result principally from any of the following items:
+
+             (i) the failure of ResCap or any of its Subsidiaries to pay,
+        perform or otherwise promptly discharge any Liabilities of ResCap or
+        such Subsidiary, as the case may be, in accordance with their terms; or
+
+             (ii) the ResCap Business.
+
+          "STOCKHOLDER'S EQUITY" means, at any time of determination, the amount
+     which would be shown as stockholder's equity on the consolidated balance
+     sheet of ResCap as of such time prepared in accordance with GAAP.
+
+          "SUBSIDIARY" means, with respect to any Person, any other Person of
+     which a majority of the voting interests is owned, directly or indirectly,
+     by such Person; provided, however, that the term "Subsidiary" shall not
+     include any securitization trusts or similar Person established by any
+     ResCap Subsidiary.
+
+     SECTION 2.  Covenants.  Each of GMAC and ResCap, as applicable, agrees as
+follows:
+
+          (a) ResCap shall not, nor shall it permit any of its Subsidiaries to:
+
+             (i) guarantee any indebtedness of any GMAC Affiliate; or
+
+             (ii) make any Investment in any GMAC Affiliate.
+
+          (b) Except as provided in Section 2(c), ResCap shall not, nor shall it
+     permit any of its Subsidiaries to, engage in material transactions with or
+     originated through any GMAC Affiliate unless such transactions are on terms
+     and conditions that are consistent with those that parties at arm's-length
+     would agree to and for fair value; provided that in addition:
+
+             (i) all financing arrangements and intercompany debt obligations
+        between ResCap or any of its Subsidiaries and GMAC Affiliates must be in
+        writing;
+
+             (ii) any agreement between ResCap and/or any of its Subsidiaries
+        and any GMAC Affiliate(s) that involve the payment by ResCap or any of
+        its Subsidiaries or by any GMAC Affiliate of more than $25 million per
+        year or the provisions of goods or services by ResCap and/or any of its
+        Subsidiaries or by any GMAC Affiliate(s) valued in excess of $25 million
+        per year must be in writing; and
+
+             (iii) ResCap and GMAC shall maintain in effect an income tax
+        allocation agreement that shall provide for two-way sharing payments
+        based on the separately calculated tax liability or benefit of ResCap.
+
+          (c) Notwithstanding the requirements of Section 2(b):
+
+             (i) ResCap shall maintain in effect a licensing agreement providing
+        for the use by ResCap and its Subsidiaries of certain trademarks, trade
+        names and other intellectual property of GMAC Affiliates on a
+        royalty-free basis and on such terms as may be agreed to from time to
+        time between ResCap and GMAC.
+
+             (ii) ResCap shall maintain in effect a services and facilities
+        agreement providing for the provision of certain services by GM and GMAC
+        to ResCap and its Subsidiaries and the provision of certain services by
+        ResCap to GMAC Affiliates on such terms as may be agreed from time to
+        time among ResCap, GM and GMAC.
+
+             (iii) ResCap and its Subsidiaries may provide residential mortgage
+        financing and other services to employees of any GMAC Affiliate on
+        substantially similar terms as they make to employees of ResCap and its
+        Subsidiaries and the GMAC Affiliates may provide automobile
+
+                                        4
+<PAGE>
+
+        discounts and other services or discounts to employees of ResCap or any
+        of its Subsidiaries on substantially similar terms as they make to
+        employees of any GMAC Affiliate.
+
+          (d) (i) Subject to Sections 2(d)(iii) and (iv), ResCap shall not,
+     directly or indirectly, declare or make any Dividend unless at the time
+     such Dividend is declared and paid Stockholder's Equity exceeds $6.5
+     billion.
+
+             (ii) If ResCap is permitted to declare or make any Dividend under
+        Section 2(d)(i) above, the cumulative amount of Dividends paid after the
+        date of this Agreement shall not exceed:
+
+                (a) 50% of ResCap's Cumulative Net Income at the time such
+           Dividend is declared and paid minus
+
+                (b) to the extent a positive number, the cumulative amount of
+           any Prepayments made under section 2(e)(i) below, other than Excluded
+           Prepayments, minus 50% of ResCap's Cumulative Net Income at the time
+           such Dividend is declared and paid.
+
+             (iii) The provisions of this Section 2(d) shall not prohibit the
+        payment of any Dividend within 60 days after the date of declaration
+        thereof if, as of such date of declaration, such payment would comply
+        with the restrictions set forth in this Section 2(d).
+
+             (iv) The restrictions set forth in this Section 2(d) shall cease to
+        be effective upon the occurrence of Stockholder's Equity exceeding $12.0
+        billion as of the end of each of two consecutive fiscal quarters.
+
+             (vi) Promptly after the declaration of any Dividend, the Chief
+        Financial Officer or Treasurer of ResCap shall provide a certificate to
+        any Class Agent or Bank Agent certifying as to ResCap's compliance with
+        this Agreement as of such date based on the latest available published
+        financial statements of ResCap.
+
+          (e) Without limiting the applicable provisions in the relevant
+     underlying loan documents, ResCap shall not make any Prepayment of any GMAC
+     Subordinated Debt, except from (i) ResCap's Cumulative Net Income at the
+     time such Prepayment is made, less any Dividends previously paid after the
+     date of this Agreement and any Prepayments of GMAC Subordinated Debt made
+     after the date of this Agreement (to the extent that such Prepayment was
+     made from ResCap's Cumulative Net Income), other than Excluded Prepayments,
+     (ii) the net proceeds to ResCap from the issuance of Capital Stock or
+     indebtedness to any Person (other than a GMAC Affiliate) that is
+     subordinated in right of payment of principal, interest and premium, if
+     any, to Rated Indebtedness, or (iii) 50% of the net proceeds to Rescap from
+     the issuance or incurrence of indebtedness to any Person (other than a GMAC
+     Affiliate) that ranks pari passu with Rated Indebtedness in right of
+     payment of principal, interest and premium, if any. Notwithstanding the
+     foregoing, ResCap may make Prepayments of GMAC Subordinated Debt of up to a
+     cumulative amount of $500 million after the date of this Agreement
+     ("Excluded Prepayments").
+
+          (f) ResCap shall at all times (i) maintain, or cause to be maintained,
+     books, records and financial statements for itself and its Subsidiaries
+     separate from those of any and all GMAC Affiliates; (ii) maintain, or cause
+     to be maintained, its assets and the assets of its Subsidiaries in such a
+     manner that it would not be costly or difficult to segregate, ascertain or
+     identify such assets from those of any and all GMAC Affiliates; (iii)
+     maintain, or cause to be maintained, bank accounts and cash management and
+     account receivable collection systems for itself and its Subsidiaries
+     separate from those of any and all GMAC Affiliates; (iv) maintain, or cause
+     to be maintained, its own asset investment, risk management and hedging
+     programs and systems for itself and its Subsidiaries separate from those of
+     any and all GMAC Affiliates (which may be similar to or the same as those
+     maintained by GMAC); (v) pay its own liabilities only out of its own funds
+     or promptly reimburse any GMAC Affiliate for ResCap's share of any expenses
+     relating to amounts owing under the Services and Facilities Agreement or
+     master vendor contracts or similar arrangements paid on behalf of ResCap by
+     such GMAC Affiliate; (vi) use its own stationary, invoices, checks and
+     business forms;
+
+                                        5
+<PAGE>
+
+     (vii) conduct or cause to be conducted the business operations of itself
+     and its Subsidiaries by its or their own employees and officers, who will
+     not also be employees or officers of any GMAC Affiliates; (viii) not
+     commingle, or permit its Subsidiaries to commingle, the funds and other
+     assets of ResCap and its Subsidiaries with those of any GMAC Affiliate;
+     (ix) at all times hold itself out, and cause its Subsidiaries to hold
+     themselves out, to the public as a legal entity separate and distinct from
+     any and all GMAC Affiliates and undertake to correct any known
+     misunderstanding regarding its separate identity; and (x) otherwise take,
+     or cause to be taken, such reasonable and customary action so that ResCap
+     will maintain its separate legal existence and identity; provided, however,
+     that the foregoing shall not prohibit ResCap and its Subsidiaries from
+     using trademarks and names of GMAC Affiliates, it being understood that
+     such use shall not be violative of or otherwise inconsistent with Section
+     2(f)(ix) above.
+
+          (g) (i) GMAC shall vote for, and ResCap shall at all times have, at
+     least two Independent Directors. In the event of a vacancy in the position
+     of an Independent Director, whether as a result of resignation, removal, or
+     otherwise, GMAC shall, as promptly as practicable, elect a successor
+     Independent Director. No appointment of an Independent Director or
+     successor Independent Director, shall be effective until such Independent
+     Director or successor shall have (y) accepted his or her appointment as an
+     Independent Director by a written instrument, which may be a counterpart
+     signature page to this Agreement, and (z) executed a counterpart to this
+     Agreement. In acting or otherwise voting on matters referred to in Section
+     2(g)(iii), to the fullest extent permitted by law, the Independent
+     Directors shall consider only the interest of ResCap, including its
+     creditors. GMAC agrees that it will not bring any legal action, including
+     actions asserting claims for breach of fiduciary duty, against any
+     Independent Director for acting in accordance with Sections 2(g)(i),
+     2(g)(iii), 4 or 8, or for any claims against which such Independent
+     Directors are exculpated pursuant to the terms of ResCap's Certificate of
+     Incorporation, as in effect on the date hereof.
+
+             (ii) The chairperson of the Audit Committee of the Board of
+        Directors shall be an Independent Director.
+
+             (iii) Notwithstanding ResCap's Certificate of Incorporation or
+        Bylaws or any provision of law that otherwise so empowers ResCap,
+        ResCap's stockholders, ResCap's Board of Directors, any officer of
+        ResCap or any other Person, none of GMAC, ResCap or any officer of
+        ResCap shall be authorized or empowered, nor shall they permit ResCap to
+        (A) institute proceedings to have ResCap be adjudicated bankrupt or
+        insolvent, (B) consent to the institution of bankruptcy or insolvency
+        proceedings against ResCap, (C) file a petition seeking, or consent to,
+        the appointment of a receiver, assignee, trustee, sequestrator or other
+        similar official of ResCap or a substantial part of its assets, (D) make
+        any assignment for the benefit of creditors of ResCap, or (E) take
+        action in furtherance of any such action, in each case to the fullest
+        extent permitted by law, in each case if such action is being taken in
+        connection with the commencement or pendency of a bankruptcy or
+        insolvency proceeding of any GMAC Affiliate, unless the action is
+        authorized by the prior approval of ResCap's Board of Directors
+        (including the approval of a majority of the Independent Directors).
+        ResCap's Board of Directors shall not vote on, or authorize the taking
+        of, any of the foregoing actions unless there is at least one
+        Independent Director then serving in such capacity. Further,
+        notwithstanding ResCap's Certificate of Incorporation or Bylaws or any
+        provision of law that otherwise so empowers ResCap, ResCap's
+        stockholders or ResCap's Board of Directors, ResCap shall not be
+        authorized or empowered to amend Article VI of its Bylaws without the
+        approval of the majority of the Independent Directors.
+
+             (iv) ResCap shall maintain or have in effect directors and officers
+        insurance, errors and omissions insurance and comprehensive general
+        liability insurance covering its Independent Directors in amounts and on
+        such terms as are usual and customary for a company similar in size to
+        ResCap and engaged in a business similar to that engaged in by ResCap.
+
+                                        6
+<PAGE>
+
+          (h) In accordance with GAAP and the rules and regulations of the
+     Securities and Exchange Commission, GMAC shall prepare consolidated
+     financial statements that include ResCap. The supplemental disclosures to
+     such financial statements shall provide that ResCap's creditors will be
+     entitled to be satisfied out of ResCap's assets prior to ResCap's equity
+     holders and that GMAC conducts its residential mortgage operations and
+     related businesses through ResCap.
+
+          (i) GMAC shall otherwise hold out ResCap and ResCap's Subsidiaries as
+     legal entities separate and distinct and correct any known misunderstanding
+     about ResCap's separate identity from GMAC.
+
+     SECTION 3.  Indemnification.
+
+     (a) GM will, to the fullest extent permitted by law, indemnify, defend and
+hold harmless ResCap and its Subsidiaries from and against any Losses related to
+GM Indemnifiable Liabilities.
+
+     (b) GMAC will, to the fullest extent permitted by law, indemnify, defend
+and hold harmless ResCap and its Subsidiaries from and against any Losses
+related to GMAC Indemnifiable Liabilities (other than GM Indemnifiable
+Liabilities).
+
+     (c) ResCap will, to the fullest extent permitted by law, indemnify, defend
+and hold harmless the GM Affiliates and the GMAC Affiliates from and against any
+losses related to ResCap Indemnifiable Liabilities.
+
+     SECTION 4.  Termination.  This Agreement shall terminate at such time as
+ResCap ceases to be a direct or indirect Subsidiary of GMAC; provided that
+ResCap, GM and GMAC may agree to terminate this Agreement earlier if such
+termination has been approved by a majority of the members of ResCap's Board of
+Directors, including a majority of the Independent Directors. In acting or
+otherwise voting on matters referred to in this Section 4, to the fullest extent
+permitted by law, the Independent Directors shall consider only the interest of
+ResCap, including its creditors. To the extent that such approval is required,
+ResCap's Board of Directors shall not vote on, or authorize, the termination of
+this Agreement unless there is at least one Independent Director then serving in
+such capacity.
+
+     SECTION 5.  Notices.  All notices and other communications given or made
+pursuant to this Agreement shall be in writing and shall be deemed to have been
+duly given when received at the addresses or telecopy numbers specified below
+(or at such other address or telecopy number for a party as shall be specified
+by like notice):
+
+     If to GM:
+
+         General Motors Corporation
+         200 Renaissance Center
+         Detroit, MI 48265
+         Attn: Corporate Secretary
+
+     If to GMAC:
+
+         General Motors Acceptance Corporation
+         200 Renaissance Center
+         Detroit, MI 48265
+         Attn: Corporate Secretary
+
+     If to ResCap:
+
+         Residential Capital Corporation
+         8400 Normandale Lake Boulevard
+         Minneapolis, MN 55437
+         Attn: General Counsel
+
+     SECTION 6.  Entire Agreement.  This Agreement constitutes the entire
+agreement of the parties and supersedes all prior agreements and undertakings,
+both written and oral, among the parties, or any of them, with respect to the
+subject matters hereof.
+
+                                        7
+<PAGE>
+
+     SECTION 7.  No Guarantee.  This Agreement is not, and shall not be
+construed to be, a guarantee by GM or GMAC of any indebtedness of ResCap or an
+agreement by GM or GMAC to contribute additional capital to ResCap. GMAC's sole
+obligation under this Agreement (except as set forth in Section 3) is to comply
+with the Independent Director provisions of Section 2(g) and the provisions of
+Sections 2(h) and 2(i) and the sole remedy against GMAC for breach of those
+sections is specific performance. GM's sole obligation under this Agreement is
+as set forth in Section 3. Under no circumstances shall GM or GMAC be liable for
+damages for breach of this Agreement (other than Section 3).
+
+     SECTION 8.  Amendment and Waiver.  The provisions of this Agreement may not
+be amended or waived except by an instrument in writing signed by the parties
+hereto; provided that no amendment or waiver that materially and adversely
+affects the rights of any Class of Rated Indebtedness shall become effective
+unless such amendment or waiver has been approved by a majority of the members
+of ResCap's Board of Directors, including a majority of the Independent
+Directors. In acting or otherwise voting on matters referred to in this Section
+8 that materially and adversely affect the rights of any Class of Rated
+Indebtedness, to the fullest extent permitted by law, the Independent Directors
+shall consider only the interest of ResCap, including its creditors. ResCap
+shall provide to each Class Agent and Bank Agent a copy of any amendment or
+waiver of this Agreement. ResCap's Board of Directors shall not vote on, or
+authorize, any amendment to this Agreement unless there is at least one
+Independent Director then serving in such capacity.
+
+     SECTION 9.  Assignment.  This Agreement may not be assigned, except in
+connection with a merger or consolidation and except that all or any of the
+rights of GM hereunder may be assigned to any other GM Affiliate and any rights
+of GMAC hereunder may be assigned to any other GMAC Affiliate. No such
+assignment shall relieve the assigning party of its obligations hereunder.
+
+     SECTION 10.  Transfer of ResCap to a GM Affiliate.  GMAC may not sell,
+convey or otherwise transfer a majority ownership interest in ResCap to one or
+more GM Affiliates in a single transaction or series of transactions, unless GM
+and the applicable GM Affiliate(s) enter into an agreement substantially
+identical to this Agreement prior to the time that ResCap ceases to be a direct
+or indirect Subsidiary of GMAC.
+
+     SECTION 11.  Successors and Assigns.  This Agreement shall be binding upon
+and inure solely to the benefit of each party hereto and its respective
+successors and permitted assigns, and nothing in this Agreement, express or
+implied, is intended to or shall confer upon any other Person any right, benefit
+or remedy of any nature whatsoever under or by reason of this Agreement;
+provided that the holders of Rated Indebtedness and any lenders under any credit
+facility under which ResCap is a borrower shall be deemed third party
+beneficiaries of this Agreement; provided, further, that the remedies of such
+holders or lenders hereunder shall be limited to specific enforcement of the
+provisions of this Agreement as the same may be amended and waived pursuant to
+Section 8 hereof; and, provided, further, that any action to enforce the rights
+of the holders of Rated Indebtedness of any Class or any lenders under any
+credit facility under which ResCap is a borrower as third party beneficiaries
+shall be undertaken only by the Class Agent for such Class or any Bank Agent, as
+applicable.
+
+     SECTION 12.  Delay and Waiver.  No failure or delay on the part of any
+party hereto in the exercise of any right hereunder shall impair such right or
+be construed to be a waiver of, or acquiescence in, any breach of any agreement
+herein, nor shall any single or partial exercise of any such right preclude any
+other or further exercise thereof or of any other right. Except as provided in
+Section 11, all rights and remedies existing under this Agreement are cumulative
+to, and not exclusive of, any other rights or remedies that any party hereto may
+have.
+
+     SECTION 13.  Governing Law.  This Agreement shall be governed by, and
+construed in accordance with, the internal laws of the State of New York.
+
+                                        8
+<PAGE>
+
+     SECTION 14.  Counterparts.  This Agreement may be executed in counterparts,
+each of which when executed shall be deemed to be an original but all of which
+taken together shall constitute one and the same agreement.
+
+                                    * * * *
+
+     IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of
+the date first written above.
+
+                                          GENERAL MOTORS CORPORATION
+
+                                          By:      /s/ WALTER G. BORST
+                                            ------------------------------------
+                                          Name: Walter G. Borst
+                                          Title: Treasurer
+
+                                          GENERAL MOTORS ACCEPTANCE
+                                          CORPORATION
+
+                                          By:      /s/ SANJIV KHATTRI
+                                            ------------------------------------
+                                          Name: Sanjiv Khattri
+                                          Title: Executive Vice President and
+                                                 Chief Financial Officer
+
+                                          RESIDENTIAL CAPITAL CORPORATION
+
+                                          By:      /s/ DAVEE L. OLSON
+                                            ------------------------------------
+                                          Name: Davee L. Olson
+                                          Title: Chief Financial Officer and
+                                                 Director
+
+                                        9
+<PAGE>
+
+     The independent directors have, in reliance on the benefits conferred upon
+them under this Operating Agreement, and the obligations placed on the
+Corporation, accepted their appointment as Independent Directors of the
+Corporation, as evidenced by their signature below.
+
+                                          INDEPENDENT DIRECTORS:
+
+                                          By:       /s/ THOMAS JACOB
+                                            ------------------------------------
+
+                                          By:     /s/ THOMAS C. MELZER
+                                            ------------------------------------
+
+                                        10
+</TEXT>
+</DOCUMENT>

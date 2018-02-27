@@ -1,0 +1,1508 @@
+<DOCUMENT>
+<TYPE>EX-10.1
+<SEQUENCE>2
+<FILENAME>v020204_ex10-1.txt
+<TEXT>
+
+                                                                    EXHIBIT 10.1
+
+                      STANDBY EQUITY DISTRIBUTION AGREEMENT
+
+         THIS AGREEMENT dated as of June 14, 2005 (the "Agreement") between
+CORNELL CAPITAL PARTNERS, LP, a Delaware limited partnership (the "Investor"),
+and INNOVA HOLDINGS, INC., a corporation organized and existing under the laws
+of the State of Delaware (the "Company").
+
+         WHEREAS, the parties desire that, upon the terms and subject to the
+conditions contained herein, the Company shall issue and sell to the Investor,
+from time to time as provided herein, and the Investor shall purchase from the
+Company up to Ten Million Dollars ($10,000,000) of the Company's common stock,
+par value $0.001 per share (the "Common Stock"); and
+
+         WHEREAS, such investments will be made in reliance upon the provisions
+of Regulation D ("Regulation D") of the Securities Act of 1933, as amended, and
+the regulations promulgated thereunder (the "Securities Act"), and or upon such
+other exemption from the registration requirements of the Securities Act as may
+be available with respect to any or all of the investments to be made hereunder.
+
+         WHEREAS, the Company has engaged Monitor Capital Inc. (the "Placement
+Agent"), to act as the Company's exclusive placement agent in connection with
+the sale of the Company's Common Stock to the Investor hereunder pursuant to the
+Placement Agent Agreement dated the date hereof by and among the Company, the
+Placement Agent and the Investor (the "Placement Agent Agreement").
+         NOW, THEREFORE, the parties hereto agree as follows:
+
+
+                                   ARTICLE I.
+                               Certain Definitions
+
+         Section 1.1. "Advance" shall mean the portion of the Commitment Amount
+requested by the Company in the Advance Notice.
+
+         Section 1.2. "Advance Date" shall mean the date the David Gonzalez
+Attorney Trust Account is in receipt of the funds from the Investor and David
+Gonzalez, Esq., is in possession of free trading shares from the Company and
+therefore an Advance by the Investor to the Company can be made and David
+Gonzalez, Esq. can release the free trading shares to the Investor. The Advance
+Date shall be the first (1st) Trading Day after expiration of the applicable
+Pricing Period for each Advance.
+
+         Section 1.3. "Advance Notice" shall mean a written notice to the
+Investor setting forth the Advance amount that the Company requests from the
+Investor and the Advance Date.
+
+         Section 1.4. "Advance Notice Date" shall mean each date the Company
+delivers to the Investor an Advance Notice requiring the Investor to advance
+funds to the Company, subject to the terms of this Agreement. No Advance Notice
+Date shall be less than five (5) Trading Days after the prior Advance Notice
+Date.
+
+<PAGE>
+
+         Section 1.5. "Bid Price" shall mean, on any date, the closing bid price
+(as reported by Bloomberg L.P.) of the Common Stock on the Principal Market or
+if the Common Stock is not traded on a Principal Market, the highest reported
+bid price for the Common Stock, as furnished by the National Association of
+Securities Dealers, Inc.
+
+         Section 1.6. "Closing" shall mean one of the closings of a purchase and
+sale of Common Stock pursuant to Section 2.3.
+
+         Section 1.7. "Commitment Amount" shall mean the aggregate amount of up
+to Ten Million Dollars ($10,000,000) which the Investor has agreed to provide to
+the Company in order to purchase the Company's Common Stock pursuant to the
+terms and conditions of this Agreement.
+
+         Section 1.8. "Commitment Period" shall mean the period commencing on
+the earlier to occur of (i) the Effective Date, or (ii) such earlier date as the
+Company and the Investor may mutually agree in writing, and expiring on the
+earliest to occur of (x) the date on which the Investor shall have made payment
+of Advances pursuant to this Agreement in the aggregate amount of Ten Million
+Dollars ($10,000,000), (y) the date this Agreement is terminated pursuant to
+Section 2.4, or (z) the date occurring twenty-four (24) months after the
+Effective Date.
+
+         Section 1.9. "Common Stock" shall mean the Company's common stock, par
+value $0.001 per share.
+
+         Section 1.10. "Condition Satisfaction Date" shall have the meaning set
+forth in Section 7.2.
+
+         Section 1.11. "Damages" shall mean any loss, claim, damage, liability,
+costs and expenses (including, without limitation, reasonable attorney's fees
+and disbursements and costs and expenses of expert witnesses and investigation).
+
+         Section 1.12. "Effective Date" shall mean the date on which the SEC
+first declares effective a Registration Statement registering the resale of the
+Registrable Securities as set forth in Section 7.2(a).
+
+         Section 1.13. "Escrow Agreement" shall mean the escrow agreement among
+the Company, the Investor, and David Gonzalez, Esq., dated the date hereof.
+
+         Section 1.14. "Exchange Act" shall mean the Securities Exchange Act of
+1934, as amended, and the rules and regulations promulgated thereunder.
+
+         Section 1.15. "Material Adverse Effect" shall mean any condition,
+circumstance, or situation that would prohibit or otherwise materially interfere
+with the ability of the Company to enter into and perform any of its obligations
+under this Agreement or the Registration Rights Agreement in any material
+respect.
+
+         Section 1.16. "Market Price" shall mean the lowest daily VWAP of the
+Common Stock during the Pricing Period.
+
+
+                                       2
+<PAGE>
+
+      Section 1.17. "Maximum Advance Amount" shall be Four Hundred Thousand
+Dollars ($400,000) per Advance Notice.
+
+      Section 1.18. "NASD" shall mean the National Association of Securities
+Dealers, Inc.
+
+      Section 1.19. "Person" shall mean an individual, a corporation, a
+partnership, an association, a trust or other entity or organization, including
+a government or political subdivision or an agency or instrumentality thereof.
+
+      Section 1.20. "Placement Agent" shall mean Monitor Capital Inc., a
+registered broker-dealer.
+
+      Section 1.21. "Pricing Period" shall mean the five (5) consecutive Trading
+Days after the Advance Notice Date.
+
+      Section 1.22. "Principal Market" shall mean the Nasdaq National Market,
+the Nasdaq SmallCap Market, the American Stock Exchange, the OTC Bulletin Board
+or the New York Stock Exchange, whichever is at the time the principal trading
+exchange or market for the Common Stock.
+
+      Section 1.23. "Purchase Price" shall be set at ninety six percent (96%) of
+the Market Price during the Pricing Period.
+
+      Section 1.24. "Registrable Securities" shall mean the shares of Common
+Stock to be issued hereunder (i) in respect of which the Registration Statement
+has not been declared effective by the SEC, (ii) which have not been sold under
+circumstances meeting all of the applicable conditions of Rule 144 (or any
+similar provision then in force) under the Securities Act ("Rule 144") or (iii)
+which have not been otherwise transferred to a holder who may trade such shares
+without restriction under the Securities Act, and the Company has delivered a
+new certificate or other evidence of ownership for such securities not bearing a
+restrictive legend.
+
+      Section 1.25. "Registration Rights Agreement" shall mean the Registration
+Rights Agreement dated the date hereof, regarding the filing of the Registration
+Statement for the resale of the Registrable Securities, entered into between the
+Company and the Investor.
+
+      Section 1.26. "Registration Statement" shall mean a registration statement
+on Form S-1 or SB-2 (if use of such form is then available to the Company
+pursuant to the rules of the SEC and, if not, on such other form promulgated by
+the SEC for which the Company then qualifies and which counsel for the Company
+shall deem appropriate, and which form shall be available for the resale of the
+Registrable Securities to be registered thereunder in accordance with the
+provisions of this Agreement and the Registration Rights Agreement, and in
+accordance with the intended method of distribution of such securities), for the
+registration of the resale by the Investor of the Registrable Securities under
+the Securities Act.
+
+      Section 1.27. "Regulation D" shall have the meaning set forth in the
+recitals of this Agreement.
+
+      Section 1.28. "SEC" shall mean the Securities and Exchange Commission.
+
+
+                                       3
+<PAGE>
+
+         Section 1.29. "Securities Act" shall have the meaning set forth in the
+recitals of this Agreement.
+
+         Section 1.30. "SEC Documents" shall mean Annual Reports on Form 10-KSB,
+Quarterly Reports on Form 10-QSB, Current Reports on Form 8-K and Proxy
+Statements of the Company as supplemented to the date hereof, filed by the
+Company for a period of at least twelve (12) months immediately preceding the
+date hereof or the Advance Date, as the case may be, until such time as the
+Company no longer has an obligation to maintain the effectiveness of a
+Registration Statement as set forth in the Registration Rights Agreement.
+
+         Section 1.31. "Trading Day" shall mean any day during which the New
+York Stock Exchange shall be open for business.
+
+         Section 1.32. "VWAP" shall mean the volume weighted average price of
+the Company's Common Stock as quoted by Bloomberg, LP.
+
+
+                                   ARTICLE II.
+                                    Advances
+
+         Section 2.1.      Investments.
+
+                  (a) Advances. Upon the terms and conditions set forth herein
+(including, without limitation, the provisions of Article VII hereof), on any
+Advance Notice Date the Company may request an Advance by the Investor by the
+delivery of an Advance Notice. The number of shares of Common Stock that the
+Investor shall receive for each Advance shall be determined by dividing the
+amount of the Advance by the Purchase Price. No fractional shares shall be
+issued. Fractional shares shall be rounded to the next higher whole number of
+shares. The aggregate maximum amount of all Advances that the Investor shall be
+obligated to make under this Agreement shall not exceed the Commitment Amount.
+
+         Section 2.2.      Mechanics.
+
+                  (a) Advance Notice. At any time during the Commitment Period,
+the Company may deliver an Advance Notice to the Investor, subject to the
+conditions set forth in Section 7.2; provided, however, the amount for each
+Advance as designated by the Company in the applicable Advance Notice, shall not
+be more than the Maximum Advance Amount. The aggregate amount of the Advances
+pursuant to this Agreement shall not exceed the Commitment Amount. The Company
+acknowledges that the Investor may sell shares of the Company's Common Stock
+corresponding with a particular Advance Notice on the day the Advance Notice is
+received by the Investor. There shall be a minimum of five (5) Trading Days
+between each Advance Notice Date.
+
+                  (b) Date of Delivery of Advance Notice. An Advance Notice
+shall be deemed delivered on (i) the Trading Day it is received by facsimile or
+otherwise by the Investor if such notice is received prior to 12:00 noon Eastern
+Time, or (ii) the immediately succeeding Trading Day if it is received by
+facsimile or otherwise after 12:00 noon Eastern Time on a Trading Day or at any
+time on a day which is not a Trading Day. No Advance Notice may be deemed
+delivered on a day that is not a Trading Day.
+
+
+                                       4
+<PAGE>
+
+         Section 2.3. Closings. On each Advance Date, which shall be the first
+(1st) Trading Day after expiration of the applicable Pricing Period for each
+Advance, (i) the Company shall deliver to David Gonzalez, Esq. (the "Escrow
+Agent") shares of the Company's Common Stock, representing the amount of the
+Advance by the Investor pursuant to Section 2.1 herein, registered in the name
+of the Investor which shall be delivered to the Investor, or otherwise in
+accordance with the Escrow Agreement and (ii) the Investor shall deliver to
+Escrow Agent the amount of the Advance specified in the Advance Notice by wire
+transfer of immediately available funds which shall be delivered to the Company,
+or otherwise in accordance with the Escrow Agreement. In addition, on or prior
+to the Advance Date, each of the Company and the Investor shall deliver to the
+other through the Investor's counsel, all documents, instruments and writings
+required to be delivered by either of them pursuant to this Agreement in order
+to implement and effect the transactions contemplated herein. Payment of funds
+to the Company and delivery of the Company's Common Stock to the Investor shall
+occur in accordance with the conditions set forth above and those contained in
+the Escrow Agreement; provided, however, that to the extent the Company has not
+paid the fees, expenses, and disbursements of the Investor, the Investor's
+counsel, or the Company's counsel in accordance with Section 12.4, the amount of
+such fees, expenses, and disbursements may be deducted by the Investor (and
+shall be paid to the relevant party) from the amount of the Advance with no
+reduction in the amount of shares of the Company's Common Stock to be delivered
+on such Advance Date.
+
+         Section 2.4. Termination of Investment. The obligation of the Investor
+to make an Advance to the Company pursuant to this Agreement shall terminate
+permanently (including with respect to an Advance Date that has not yet
+occurred) in the event that (i) there shall occur any stop order or suspension
+of the effectiveness of the Registration Statement for an aggregate of fifty
+(50) Trading Days, other than due to the acts of the Investor, during the
+Commitment Period, and (ii) the Company shall at any time fail materially to
+comply with the requirements of Article VI and such failure is not cured within
+thirty (30) days after receipt of written notice from the Investor, provided,
+however, that this termination provision shall not apply to any period
+commencing upon the filing of a post-effective amendment to such Registration
+Statement and ending upon the date on which such post effective amendment is
+declared effective by the SEC.
+
+         Section 2.5. Agreement to Advance Funds. The Investor agrees to advance
+the amount specified in the Advance Notice to the Company after the completion
+of each of the following conditions and the other conditions set forth in this
+Agreement:
+
+                   (a) the execution and delivery by the Company, and the
+Investor, of this Agreement and the Exhibits hereto;
+
+                   (b) The Escrow Agent shall have received the shares of Common
+Stock applicable to the Advance in accordance with Section 2.3. Such shares
+shall be free of restrictive legends.
+
+                   (c) the Company's Registration Statement with respect to the
+resale of the Registrable Securities in accordance with the terms of the
+Registration Rights Agreement shall have been declared effective by the SEC;
+
+
+                                       5
+<PAGE>
+
+                   (d) the Company shall have obtained all material permits and
+qualifications required by any applicable state for the offer and sale of the
+Registrable Securities, or shall have the availability of exemptions therefrom.
+The sale and issuance of the Registrable Securities shall be legally permitted
+by all laws and regulations to which the Company is subject;
+
+                   (e) the Company shall have filed with the Commission in a
+timely manner all reports, notices and other documents required of a "reporting
+company" under the Exchange Act and applicable Commission regulations;
+
+                   (f) the fees as set forth in Section 12.4 below shall have
+been paid or can be withheld as provided in Section 2.3; and
+
+                   (g) the conditions set forth in Section 7.2 shall have been
+satisfied.
+
+                   (h) the Company shall have provided to the Investor an
+acknowledgement, from the Company's independent certified public accountants as
+to its ability to provide all consents required in order to file a registration
+statement in connection with this transaction;
+
+                   (i) The Company's transfer agent shall be DWAC eligible.
+
+         Section 2.6. Lock Up Period. On the date hereof, the Company shall
+obtain from each officer and director a lock-up agreement, as defined below, in
+the form annexed hereto as Schedule 2.6 agreeing to only sell in compliance with
+the volume limitation of Rule 144.
+
+         Section 2.7. Hardship. In the event the Investor sells shares of the
+Company's Common Stock after receipt of an Advance Notice and the Company fails
+to perform its obligations as mandated in Section 2.3, and specifically the
+Company fails to deliver to the Escrow Agent on the Advance Date the shares of
+Common Stock corresponding to the applicable Advance, the Company acknowledges
+that the Investor shall suffer financial hardship and therefore shall be liable
+for any and all losses, commissions, fees, or financial hardship caused to the
+Investor.
+
+
+                                  ARTICLE III.
+                   Representations and Warranties of Investor
+
+         Investor hereby represents and warrants to, and agrees with, the
+Company that the following are true and as of the date hereof and as of each
+Advance Date:
+
+         Section 3.1. Organization and Authorization. The Investor is duly
+incorporated or organized and validly existing in the jurisdiction of its
+incorporation or organization and has all requisite power and authority to
+purchase and hold the securities issuable hereunder. The decision to invest and
+the execution and delivery of this Agreement by such Investor, the performance
+by such Investor of its obligations hereunder and the consummation by such
+Investor of the transactions contemplated hereby have been duly authorized and
+requires no other proceedings on the part of the Investor. The undersigned has
+the right, power and authority to execute and deliver this Agreement and all
+other instruments (including, without limitations, the Registration Rights
+Agreement), on behalf of the Investor. This Agreement has been duly executed and
+delivered by the Investor and, assuming the execution and delivery hereof and
+
+
+                                       6
+<PAGE>
+
+acceptance thereof by the Company, will constitute the legal, valid and binding
+obligations of the Investor, enforceable against the Investor in accordance with
+its terms.
+
+         Section 3.2. Evaluation of Risks. The Investor has such knowledge and
+experience in financial tax and business matters as to be capable of evaluating
+the merits and risks of, and bearing the economic risks entailed by, an
+investment in the Company and of protecting its interests in connection with
+this transaction. It recognizes that its investment in the Company involves a
+high degree of risk.
+
+         Section 3.3. No Legal Advice From the Company. The Investor
+acknowledges that it had the opportunity to review this Agreement and the
+transactions contemplated by this Agreement with his or its own legal counsel
+and investment and tax advisors. The Investor is relying solely on such counsel
+and advisors and not on any statements or representations of the Company or any
+of its representatives or agents for legal, tax or investment advice with
+respect to this investment, the transactions contemplated by this Agreement or
+the securities laws of any jurisdiction.
+
+         Section 3.4. Investment Purpose. The securities are being purchased by
+the Investor for its own account, and for investment purposes. The Investor
+agrees not to assign or in any way transfer the Investor's rights to the
+securities or any interest therein and acknowledges that the Company will not
+recognize any purported assignment or transfer except in accordance with
+applicable Federal and state securities laws. No other person has or will have a
+direct or indirect beneficial interest in the securities. The Investor agrees
+not to sell, hypothecate or otherwise transfer the Investor's securities unless
+the securities are registered under Federal and applicable state securities laws
+or unless, in the opinion of counsel satisfactory to the Company, an exemption
+from such laws is available.
+
+         Section 3.5. Accredited Investor. The Investor is an "Accredited
+Investor" as that term is defined in Rule 501(a)(3) of Regulation D of the
+Securities Act.
+
+         Section 3.6. Information. The Investor and its advisors (and its
+counsel), if any, have been furnished with all materials relating to the
+business, finances and operations of the Company and information it deemed
+material to making an informed investment decision. The Investor and its
+advisors, if any, have been afforded the opportunity to ask questions of the
+Company and its management. Neither such inquiries nor any other due diligence
+investigations conducted by such Investor or its advisors, if any, or its
+representatives shall modify, amend or affect the Investor's right to rely on
+the Company's representations and warranties contained in this Agreement. The
+Investor understands that its investment involves a high degree of risk. The
+Investor is in a position regarding the Company, which, based upon employment,
+family relationship or economic bargaining power, enabled and enables such
+Investor to obtain information from the Company in order to evaluate the merits
+and risks of this investment. The Investor has sought such accounting, legal and
+tax advice, as it has considered necessary to make an informed investment
+decision with respect to this transaction.
+
+         Section 3.7. Receipt of Documents. The Investor and its counsel have
+received and read in their entirety: (i) this Agreement and the Exhibits annexed
+hereto; (ii) all due diligence and other information necessary to verify the
+
+
+                                       7
+<PAGE>
+
+accuracy and completeness of such representations, warranties and covenants;
+(iii) the Company's Form 10-KSB for the year ended December 31, 2004 and Form
+10-QSB for the period ended March 31, 2005; and (iv) answers to all questions
+the Investor submitted to the Company regarding an investment in the Company;
+and the Investor has relied on the information contained therein and has not
+been furnished any other documents, literature, memorandum or prospectus.
+
+         Section 3.8. Registration Rights Agreement and Escrow Agreement. The
+parties have entered into the Registration Rights Agreement and the Escrow
+Agreement, each dated the date hereof.
+
+         Section 3.9. No General Solicitation. Neither the Company, nor any of
+its affiliates, nor any person acting on its or their behalf, has engaged in any
+form of general solicitation or general advertising (within the meaning of
+Regulation D under the Securities Act) in connection with the offer or sale of
+the shares of Common Stock offered hereby.
+
+         Section 3.10. Not an Affiliate. The Investor is not an officer,
+director or a person that directly, or indirectly through one or more
+intermediaries, controls or is controlled by, or is under common control with
+the Company or any "Affiliate" of the Company (as that term is defined in Rule
+405 of the Securities Act).
+
+         Section 3.11. Trading Activities. The Investor's trading activities
+with respect to the Company's Common Stock shall be in compliance with all
+applicable federal and state securities laws, rules and regulations and the
+rules and regulations of the Principal Market on which the Company's Common
+Stock is listed or traded. Neither the Investor nor its affiliates has an open
+short position in the Common Stock of the Company, the Investor agrees that it
+shall not, and that it will cause its affiliates not to, engage in any short
+sales of or hedging transactions with respect to the Common Stock, provided that
+the Company acknowledges and agrees that upon receipt of an Advance Notice the
+Investor has the right to sell the shares to be issued to the Investor pursuant
+to the Advance Notice during the applicable Pricing Period.
+
+
+                                   ARTICLE IV.
+                  Representations and Warranties of the Company
+
+         Except as stated below, on the Disclosure Schedules attached hereto or
+in the SEC Documents (as defined herein), the Company hereby represents and
+warrants to, and covenants with, the Investor that the following are true and
+correct as of the date hereof:
+
+         Section 4.1. Organization and Qualification. The Company is duly
+incorporated or organized and validly existing in the jurisdiction of its
+incorporation or organization and has all requisite corporate power to own its
+properties and to carry on its business as now being conducted. Each of the
+Company and its subsidiaries is duly qualified as a foreign corporation to do
+business and is in good standing in every jurisdiction in which the nature of
+the business conducted by it makes such qualification necessary, except to the
+extent that the failure to be so qualified or be in good standing would not have
+a Material Adverse Effect on the Company and its subsidiaries taken as a whole.
+
+         Section 4.2. Authorization, Enforcement, Compliance with Other
+Instruments. (i) The Company has the requisite corporate power and authority to
+
+
+                                       8
+<PAGE>
+
+enter into and perform this Agreement, the Registration Rights Agreement, the
+Escrow Agreement, the Placement Agent Agreement and any related agreements, in
+accordance with the terms hereof and thereof, (ii) the execution and delivery of
+this Agreement, the Registration Rights Agreement, the Escrow Agreement, the
+Placement Agent Agreement and any related agreements by the Company and the
+consummation by it of the transactions contemplated hereby and thereby, have
+been duly authorized by the Company's Board of Directors and no further consent
+or authorization is required by the Company, its Board of Directors or its
+stockholders, (iii) this Agreement, the Registration Rights Agreement, the
+Escrow Agreement, the Placement Agent Agreement and any related agreements have
+been duly executed and delivered by the Company, (iv) this Agreement, the
+Registration Rights Agreement, the Escrow Agreement, the Placement Agent
+Agreement and assuming the execution and delivery thereof and acceptance by the
+Investor and any related agreements constitute the valid and binding obligations
+of the Company enforceable against the Company in accordance with their terms,
+except as such enforceability may be limited by general principles of equity or
+applicable bankruptcy, insolvency, reorganization, moratorium, liquidation or
+similar laws relating to, or affecting generally, the enforcement of creditors'
+rights and remedies.
+
+         Section 4.3. Capitalization. As of the date hereof, the authorized
+capital stock of the Company consists of 900,000,000 shares of Common Stock and
+10,000,000 shares of Preferred Stock, $0.001 par value per share ("Preferred
+Stock"), of which 371,296,897 shares of Common Stock and 650,000 shares of
+Preferred Stock were issued and outstanding. Of these shares, 125,000 shares of
+Series A Preferred Stock are treated as long term debt since they have a clause
+requiring the Company to redeem these Series A Preferred Shares five years from
+the date of issuance. All of such outstanding shares have been validly issued
+and are fully paid and nonassessable. Except as disclosed in the SEC Documents,
+no shares of Common Stock are subject to preemptive rights or any other similar
+rights or any liens or encumbrances suffered or permitted by the Company. Except
+as disclosed in the SEC Documents, as of the date hereof, (i) there are no
+outstanding options, warrants, scrip, rights to subscribe to, calls or
+commitments of any character whatsoever relating to, or securities or rights
+convertible into, any shares of capital stock of the Company or any of its
+subsidiaries, or contracts, commitments, understandings or arrangements by which
+the Company or any of its subsidiaries is or may become bound to issue
+additional shares of capital stock of the Company or any of its subsidiaries or
+options, warrants, scrip, rights to subscribe to, calls or commitments of any
+character whatsoever relating to, or securities or rights convertible into, any
+shares of capital stock of the Company or any of its subsidiaries, (ii) there
+are no outstanding debt securities (iii) there are no outstanding registration
+statements other than on Form S-8 and (iv) there are no agreements or
+arrangements under which the Company or any of its subsidiaries is obligated to
+register the sale of any of their securities under the Securities Act (except
+pursuant to the Registration Rights Agreement and as set forth in the Disclosure
+Schedule). There are no securities or instruments containing anti-dilution or
+similar provisions that will be triggered by this Agreement or any related
+agreement or the consummation of the transactions described herein or therein.
+The Company has furnished to the Investor true and correct copies of the
+Company's Certificate of Incorporation, as amended and as in effect on the date
+hereof (the "Certificate of Incorporation"), and the Company's By-laws, as in
+effect on the date hereof (the "By-laws"), and the terms of all securities
+convertible into or exercisable for Common Stock and the material rights of the
+holders thereof in respect thereto.
+
+
+                                       9
+<PAGE>
+
+         Section 4.4. No Conflict. The execution, delivery and performance of
+this Agreement by the Company and the consummation by the Company of the
+transactions contemplated hereby will not (i) result in a violation of the
+Certificate of Incorporation, any certificate of designations of any outstanding
+series of preferred stock of the Company or By-laws or (ii) conflict with or
+constitute a default (or an event which with notice or lapse of time or both
+would become a default) under, or give to others any rights of termination,
+amendment, acceleration or cancellation of, any agreement, indenture or
+instrument to which the Company or any of its subsidiaries is a party, or result
+in a violation of any law, rule, regulation, order, judgment or decree
+(including federal and state securities laws and regulations and the rules and
+regulations of the Principal Market on which the Common Stock is quoted)
+applicable to the Company or any of its subsidiaries or by which any material
+property or asset of the Company or any of its subsidiaries is bound or affected
+and which would cause a Material Adverse Effect. Except as disclosed in the SEC
+Documents, neither the Company nor its subsidiaries is in violation of any term
+of or in default under its Articles of Incorporation or By-laws or their
+organizational charter or by-laws, respectively, or any material contract,
+agreement, mortgage, indebtedness, indenture, instrument, judgment, decree or
+order or any statute, rule or regulation applicable to the Company or its
+subsidiaries. The business of the Company and its subsidiaries is not being
+conducted in violation of any material law, ordinance, regulation of any
+governmental entity. Except as specifically contemplated by this Agreement and
+as required under the Securities Act and any applicable state securities laws,
+the Company is not required to obtain any consent, authorization or order of, or
+make any filing or registration with, any court or governmental agency in order
+for it to execute, deliver or perform any of its obligations under or
+contemplated by this Agreement or the Registration Rights Agreement in
+accordance with the terms hereof or thereof. All consents, authorizations,
+orders, filings and registrations which the Company is required to obtain
+pursuant to the preceding sentence have been obtained or effected on or prior to
+the date hereof. The Company and its subsidiaries are unaware of any fact or
+circumstance which might give rise to any of the foregoing.
+
+         Section 4.5. SEC Documents; Financial Statements. Since January 1,
+2003, the Company has filed all reports, schedules, forms, statements and other
+documents required to be filed by it with the SEC under of the Exchange Act. The
+Company has delivered to the Investor or its representatives, or made available
+through the SEC's website at http://www.sec.gov, true and complete copies of the
+SEC Documents. As of their respective dates, the financial statements of the
+Company disclosed in the SEC Documents (the "Financial Statements") complied as
+to form in all material respects with applicable accounting requirements and the
+published rules and regulations of the SEC with respect thereto. Such financial
+statements have been prepared in accordance with generally accepted accounting
+principles, consistently applied, during the periods involved (except (i) as may
+be otherwise indicated in such financial statements or the notes thereto, or
+(ii) in the case of unaudited interim statements, to the extent they may exclude
+footnotes or may be condensed or summary statements) and, fairly present in all
+material respects the financial position of the Company as of the dates thereof
+and the results of its operations and cash flows for the periods then ended
+(subject, in the case of unaudited statements, to normal year-end audit
+adjustments). No other information provided by or on behalf of the Company to
+the Investor which is not included in the SEC Documents contains any untrue
+statement of a material fact or omits to state any material fact necessary in
+order to make the statements therein, in the light of the circumstances under
+which they were made, not misleading.
+
+
+                                       10
+<PAGE>
+
+         Section 4.6. 10b-5. The SEC Documents do not include any untrue
+statements of material fact, nor do they omit to state any material fact
+required to be stated therein necessary to make the statements made, in light of
+the circumstances under which they were made, not misleading.
+
+         Section 4.7. No Default. Except as disclosed in the SEC Documents, the
+Company is not in default in the performance or observance of any material
+obligation, agreement, covenant or condition contained in any indenture,
+mortgage, deed of trust or other material instrument or agreement to which it is
+a party or by which it is or its property is bound and neither the execution,
+nor the delivery by the Company, nor the performance by the Company of its
+obligations under this Agreement or any of the exhibits or attachments hereto
+will conflict with or result in the breach or violation of any of the terms or
+provisions of, or constitute a default or result in the creation or imposition
+of any lien or charge on any assets or properties of the Company under its
+Certificate of Incorporation, By-Laws, any material indenture, mortgage, deed of
+trust or other material agreement applicable to the Company or instrument to
+which the Company is a party or by which it is bound, or any statute, or any
+decree, judgment, order, rules or regulation of any court or governmental agency
+or body having jurisdiction over the Company or its properties, in each case
+which default, lien or charge is likely to cause a material adverse effect on
+the Company's business or financial condition, except for up to $210,000
+currently overdue and owed to vendors for transactions made in the ordinary
+course of the Company's business.
+
+         Section 4.8. Absence of Events of Default. Except for matters described
+in the SEC Documents and/or this Agreement, no Event of Default, as defined in
+the respective agreement to which the Company is a party, and no event which,
+with the giving of notice or the passage of time or both, would become an Event
+of Default (as so defined), has occurred and is continuing, which would have a
+Material Adverse Effect on the Company's business, properties, prospects,
+financial condition or results of operations.
+
+         Section 4.9. Intellectual Property Rights. The Company and its
+subsidiaries own or possess adequate rights or licenses to use all material
+trademarks, trade names, service marks, service mark registrations, service
+names, patents, patent rights, copyrights, inventions, licenses, approvals,
+governmental authorizations, trade secrets and rights necessary to conduct their
+respective businesses as now conducted. The Company and its subsidiaries do not
+have any knowledge of any infringement by the Company or its subsidiaries of
+trademark, trade name rights, patents, patent rights, copyrights, inventions,
+licenses, service names, service marks, service mark registrations, trade secret
+or other similar rights of others, and, to the knowledge of the Company, there
+is no claim, action or proceeding being made or brought against, or to the
+Company's knowledge, being threatened against, the Company or its subsidiaries
+regarding trademark, trade name, patents, patent rights, invention, copyright,
+license, service names, service marks, service mark registrations, trade secret
+or other infringement; and the Company and its subsidiaries are unaware of any
+facts or circumstances which might give rise to any of the foregoing.
+
+         Section 4.10. Employee Relations. Neither the Company nor any of its
+subsidiaries is involved in any labor dispute nor, to the knowledge of the
+Company or any of its subsidiaries, is any such dispute threatened. None of the
+
+
+                                       11
+<PAGE>
+
+Company's or its subsidiaries' employees is a member of a union and the Company
+and its subsidiaries believe that their relations with their employees are good.
+
+         Section 4.11. Environmental Laws. The Company and its subsidiaries are
+(i) in compliance with any and all applicable material foreign, federal, state
+and local laws and regulations relating to the protection of human health and
+safety, the environment or hazardous or toxic substances or wastes, pollutants
+or contaminants ("Environmental Laws"), (ii) have received all permits, licenses
+or other approvals required of them under applicable Environmental Laws to
+conduct their respective businesses and (iii) are in compliance with all terms
+and conditions of any such permit, license or approval.
+
+         Section 4.12. Title. Except as set forth in the SEC Documents, the
+Company has good and marketable title to its properties and material assets
+owned by it, free and clear of any pledge, lien, security interest, encumbrance,
+claim or equitable interest other than such as are not material to the business
+of the Company. Any real property and facilities held under lease by the Company
+and its subsidiaries are held by them under valid, subsisting and enforceable
+leases with such exceptions as are not material and do not interfere with the
+use made and proposed to be made of such property and buildings by the Company
+and its subsidiaries.
+
+         Section 4.13. Insurance. The Company and each of its subsidiaries are
+insured by insurers of recognized financial responsibility against such losses
+and risks and in such amounts as management of the Company believes to be
+prudent and customary in the businesses in which the Company and its
+subsidiaries are engaged. Neither the Company nor any such subsidiary has been
+refused any insurance coverage sought or applied for and neither the Company nor
+any such subsidiary has any reason to believe that it will not be able to renew
+its existing insurance coverage as and when such coverage expires or to obtain
+similar coverage from similar insurers as may be necessary to continue its
+business at a cost that would not materially and adversely affect the condition,
+financial or otherwise, or the earnings, business or operations of the Company
+and its subsidiaries, taken as a whole.
+
+         Section 4.14. Regulatory Permits. The Company and its subsidiaries
+possess all material certificates, authorizations and permits issued by the
+appropriate federal, state or foreign regulatory authorities necessary to
+conduct their respective businesses, and neither the Company nor any such
+subsidiary has received any notice of proceedings relating to the revocation or
+modification of any such certificate, authorization or permit.
+
+         Section 4.15. Internal Accounting Controls. The Company and each of its
+subsidiaries maintain a system of internal accounting controls sufficient to
+provide reasonable assurance that (i) transactions are executed in accordance
+with management's general or specific authorizations, (ii) transactions are
+recorded as necessary to permit preparation of financial statements in
+conformity with generally accepted accounting principles and to maintain asset
+accountability, (iii) access to assets is permitted only in accordance with
+management's general or specific authorization and (iv) the recorded
+accountability for assets is compared with the existing assets at reasonable
+intervals and appropriate action is taken with respect to any differences.
+
+         Section 4.16. No Material Adverse Breaches, etc. Except as set forth in
+the SEC Documents, neither the Company nor any of its subsidiaries is subject to
+
+
+                                       12
+<PAGE>
+
+any charter, corporate or other legal restriction, or any judgment, decree,
+order, rule or regulation which in the judgment of the Company's officers has or
+is expected in the future to have a Material Adverse Effect on the business,
+properties, operations, financial condition, results of operations or prospects
+of the Company or its subsidiaries. Except as set forth in the SEC Documents,
+neither the Company nor any of its subsidiaries is in breach of any contract or
+agreement which breach, in the judgment of the Company's officers, has or is
+expected to have a Material Adverse Effect on the business, properties,
+operations, financial condition, results of operations or prospects of the
+Company or its subsidiaries.
+
+         Section 4.17. Absence of Litigation. Except as set forth in the SEC
+Documents, there is no action, suit, proceeding, inquiry or investigation before
+or by any court, public board, government agency, self-regulatory organization
+or body pending against or affecting the Company, the Common Stock or any of the
+Company's subsidiaries, wherein an unfavorable decision, ruling or finding would
+(i) have a Material Adverse Effect on the transactions contemplated hereby (ii)
+adversely affect the validity or enforceability of, or the authority or ability
+of the Company to perform its obligations under, this Agreement or any of the
+documents contemplated herein, or (iii) except as expressly disclosed in the SEC
+Documents, have a Material Adverse Effect on the business, operations,
+properties, financial condition or results of operation of the Company and its
+subsidiaries taken as a whole.
+
+         Section 4.18. Subsidiaries. Except as disclosed in the SEC Documents,
+the Company does not presently own or control, directly or indirectly, any
+interest in any other corporation, partnership, association or other business
+entity.
+
+         Section 4.19. Tax Status. Except as disclosed in the SEC Documents, the
+Company and each of its subsidiaries has made or filed all federal and state
+income and all other tax returns, reports and declarations required by any
+jurisdiction to which it is subject and (unless and only to the extent that the
+Company and each of its subsidiaries has set aside on its books provisions
+reasonably adequate for the payment of all unpaid and unreported taxes) has paid
+all taxes and other governmental assessments and charges that are material in
+amount, shown or determined to be due on such returns, reports and declarations,
+except those being contested in good faith and has set aside on its books
+provision reasonably adequate for the payment of all taxes for periods
+subsequent to the periods to which such returns, reports or declarations apply.
+There are no unpaid taxes in any material amount claimed to be due by the taxing
+authority of any jurisdiction, and the officers of the Company know of no basis
+for any such claim.
+
+         Section 4.20. Certain Transactions. Except as set forth in the SEC
+Documents none of the officers, directors, or employees of the Company is
+presently a party to any transaction with the Company (other than for services
+as employees, officers and directors), including any contract, agreement or
+other arrangement providing for the furnishing of services to or by, providing
+for rental of real or personal property to or from, or otherwise requiring
+payments to or from any officer, director or such employee or, to the knowledge
+of the Company, any corporation, partnership, trust or other entity in which any
+officer, director, or any such employee has a substantial interest or is an
+officer, director, trustee or partner.
+
+         Section 4.21. Fees and Rights of First Refusal. The Company is not
+obligated to offer the securities offered hereunder on a right of first refusal
+basis or otherwise to any third parties including, but not limited to, current
+
+
+                                       13
+<PAGE>
+
+or former shareholders of the Company, underwriters, brokers, agents or other
+third parties.
+
+         Section 4.22. Use of Proceeds. The Company shall use the net proceeds
+from this offering for general corporate purposes, including, without
+limitation, the payment of loans incurred by the Company. However, in no event
+shall the Company use the net proceeds from this offering for the payment (or
+loan to any such person for the payment) of any judgment, or other liability,
+incurred by any executive officer, officer, director or employee of the Company,
+except for any liability owed to such person for services rendered, or if any
+judgment or other liability is incurred by such person originating from services
+rendered to the Company, or from such person's personal guaranty of indebtedness
+owed by the Company and arising out of the Company's operations, or the Company
+has indemnified such person from liability.
+
+         Section 4.23. Further Representation and Warranties of the Company. For
+so long as any securities issuable hereunder held by the Investor remain
+outstanding, the Company acknowledges, represents, warrants and agrees that it
+will maintain the listing of its Common Stock on the Principal Market.
+
+         Section 4.24. Opinion of Counsel. Investor shall receive an opinion
+letter from counsel to the Company on the date hereof.
+
+         Section 4.25. Opinion of Counsel. The Company will obtain for the
+Investor, at the Company's expense, any and all opinions of counsel which may be
+reasonably required in order to sell the securities issuable hereunder without
+restriction.
+
+         Section 4.26. Dilution. The Company is aware and acknowledges that
+issuance of shares of the Company's Common Stock could cause dilution to
+existing shareholders and could significantly increase the outstanding number of
+shares of Common Stock.
+
+
+                                   ARTICLE V.
+                                 Indemnification
+
+         The Investor and the Company represent to the other the following with
+respect to itself:
+
+         Section 5.1.      Indemnification.
+
+                  (a) In consideration of the Investor's execution and delivery
+of this Agreement, and in addition to all of the Company's other obligations
+under this Agreement, the Company shall defend, protect, indemnify and hold
+harmless the Investor, and all of its officers, directors, partners, employees
+and agents (including, without limitation, those retained in connection with the
+transactions contemplated by this Agreement) (collectively, the "Investor
+Indemnitees") from and against any and all actions, causes of action, suits,
+claims, losses, costs, penalties, fees, liabilities and damages, and expenses in
+connection therewith (irrespective of whether any such Investor Indemnitee is a
+party to the action for which indemnification hereunder is sought), and
+including reasonable attorneys' fees and disbursements (the "Indemnified
+Liabilities"), incurred by the Investor Indemnitees or any of them as a result
+of, or arising out of, or relating to (a) any misrepresentation or breach of any
+representation or warranty made by the Company in this Agreement or the
+Registration Rights Agreement or any other certificate, instrument or document
+contemplated hereby or thereby, (b) any breach of any covenant, agreement or
+obligation of the Company contained in this Agreement or the Registration Rights
+Agreement or any other certificate, instrument or document contemplated hereby
+
+
+                                       14
+<PAGE>
+
+or thereby, or (c) any cause of action, suit or claim brought or made against
+such Investor Indemnitee not arising out of any action or inaction of an
+Investor Indemnitee, and arising out of or resulting from the execution,
+delivery, performance or enforcement of this Agreement or any other instrument,
+document or agreement executed pursuant hereto by any of the Investor
+Indemnitees. To the extent that the foregoing undertaking by the Company may be
+unenforceable for any reason, the Company shall make the maximum contribution to
+the payment and satisfaction of each of the Indemnified Liabilities, which is
+permissible under applicable law.
+
+                  (b) In consideration of the Company's execution and delivery
+of this Agreement, and in addition to all of the Investor's other obligations
+under this Agreement, the Investor shall defend, protect, indemnify and hold
+harmless the Company and all of its officers, directors, shareholders, employees
+and agents (including, without limitation, those retained in connection with the
+transactions contemplated by this Agreement) (collectively, the "Company
+Indemnitees") from and against any and all Indemnified Liabilities incurred by
+the Company Indemnitees or any of them as a result of, or arising out of, or
+relating to (a) any misrepresentation or breach of any representation or
+warranty made by the Investor in this Agreement, the Registration Rights
+Agreement, or any instrument or document contemplated hereby or thereby executed
+by the Investor, (b) any breach of any covenant, agreement or obligation of the
+Investor(s) contained in this Agreement, the Registration Rights Agreement or
+any other certificate, instrument or document contemplated hereby or thereby
+executed by the Investor, or (c) any cause of action, suit or claim brought or
+made against such Company Indemnitee based on misrepresentations or due to a
+breach by the Investor and arising out of or resulting from the execution,
+delivery, performance or enforcement of this Agreement or any other instrument,
+document or agreement executed pursuant hereto by any of the Company
+Indemnitees. To the extent that the foregoing undertaking by the Investor may be
+unenforceable for any reason, the Investor shall make the maximum contribution
+to the payment and satisfaction of each of the Indemnified Liabilities, which is
+permissible under applicable law.
+
+                           (c) The obligations of the parties to indemnify or
+make contribution under this Section
+5.1 shall survive termination.
+
+
+                                   ARTICLE VI.
+                            Covenants of the Company
+
+         Section 6.1. Registration Rights. The Company shall cause the
+Registration Rights Agreement to remain in full force and effect and the Company
+shall comply in all material respects with the terms thereof.
+
+         Section 6.2. Listing of Common Stock. The Company shall maintain the
+Common Stock's authorization for quotation on the National Association of
+Securities Dealers Inc.'s Over the Counter Bulletin Board.
+
+
+                                       15
+<PAGE>
+
+         Section 6.3. Exchange Act Registration. The Company will cause its
+Common Stock to continue to be registered under Section 12(g) of the Exchange
+Act, will file in a timely manner all reports and other documents required of it
+as a reporting company under the Exchange Act and will not take any action or
+file any document (whether or not permitted by Exchange Act or the rules
+thereunder) to terminate or suspend such registration or to terminate or suspend
+its reporting and filing obligations under said Exchange Act.
+
+         Section 6.4. Transfer Agent Instructions. Upon effectiveness of the
+Registration Statement the Company shall deliver instructions to its transfer
+agent to issue shares of Common Stock to the Investor free of restrictive
+legends on or before each Advance Date
+
+         Section 6.5. Corporate Existence. The Company will take all steps
+necessary to preserve and continue the corporate existence of the Company.
+
+         Section 6.6. Notice of Certain Events Affecting Registration;
+Suspension of Right to Make an Advance. The Company will immediately notify the
+Investor upon its becoming aware of the occurrence of any of the following
+events in respect of a registration statement or related prospectus relating to
+an offering of Registrable Securities: (i) receipt of any request for additional
+information by the SEC or any other Federal or state governmental authority
+during the period of effectiveness of the Registration Statement for amendments
+or supplements to the registration statement or related prospectus; (ii) the
+issuance by the SEC or any other Federal or state governmental authority of any
+stop order suspending the effectiveness of the Registration Statement or the
+initiation of any proceedings for that purpose; (iii) receipt of any
+notification with respect to the suspension of the qualification or exemption
+from qualification of any of the Registrable Securities for sale in any
+jurisdiction or the initiation or threatening of any proceeding for such
+purpose; (iv) the happening of any event that makes any statement made in the
+Registration Statement or related prospectus of any document incorporated or
+deemed to be incorporated therein by reference untrue in any material respect or
+that requires the making of any changes in the Registration Statement, related
+prospectus or documents so that, in the case of the Registration Statement, it
+will not contain any untrue statement of a material fact or omit to state any
+material fact required to be stated therein or necessary to make the statements
+therein not misleading, and that in the case of the related prospectus, it will
+not contain any untrue statement of a material fact or omit to state any
+material fact required to be stated therein or necessary to make the statements
+therein, in the light of the circumstances under which they were made, not
+misleading; and (v) the Company's reasonable determination that a post-effective
+amendment to the Registration Statement would be appropriate; and the Company
+will promptly make available to the Investor any such supplement or amendment to
+the related prospectus. The Company shall not deliver to the Investor any
+Advance Notice during the continuation of any of the foregoing events.
+
+         Section 6.7. Restriction on Sale of Capital Stock. During the
+Commitment Period, the Company shall not, without the prior written consent of
+the Investor, (i) issue or sell any Common Stock or Preferred Stock without
+consideration or for a consideration per share less than ninety percent (90%) of
+the Bid Price of the Common Stock determined immediately prior to its issuance,
+(ii) issue or sell any Preferred Stock warrant, option, right, contract, call,
+
+
+                                       16
+<PAGE>
+
+or other security or instrument granting the holder thereof the right to acquire
+Common Stock without consideration or for a consideration per share less than
+such Common Stock's Bid Price determined immediately prior to its issuance, or
+(iii) file any registration statement on Form S-8, except to register shares of
+Common Stock issued, or to be issued to employees of the Company in an amount
+not to exceed Fifteen Thousand Dollars ($15,000) per month, valued at the Bid
+Price on the Trading Date immediately preceding issuance and to register shares
+of Common Stock set forth on the Disclosure Schedule.
+
+         Section 6.8. Consolidation; Merger. The Company shall not, at any time
+after the date hereof, effect any merger or consolidation of the Company with or
+into, or a transfer of all or substantially all the assets of the Company to
+another entity (a "Consolidation Event") unless the resulting successor or
+acquiring entity (if not the Company) assumes by written instrument the
+obligation to deliver to the Investor such shares of stock and/or securities as
+the Investor is entitled to receive pursuant to this Agreement.
+
+         Section 6.9. Issuance of the Company's Common Stock. The sale of the
+shares of Common Stock shall be made in accordance with the provisions and
+requirements of Regulation D and any applicable state securities law.
+
+
+                                  ARTICLE VII.
+                Conditions for Advance and Conditions to Closing
+
+         Section 7.1. Conditions Precedent to the Obligations of the Company.
+The obligation hereunder of the Company to issue and sell the shares of Common
+Stock to the Investor incident to each Closing is subject to the satisfaction,
+or waiver by the Company, at or before each such Closing, of each of the
+conditions set forth below.
+
+                  (a) Accuracy of the Investor's Representations and Warranties.
+The representations and warranties of the Investor shall be true and correct in
+all material respects.
+
+                  (b) Performance by the Investor. The Investor shall have
+performed, satisfied and complied in all respects with all covenants, agreements
+and conditions required by this Agreement and the Registration Rights Agreement
+to be performed, satisfied or complied with by the Investor at or prior to such
+Closing.
+
+         Section 7.2. Conditions Precedent to the Right of the Company to
+Deliver an Advance Notice and the Obligation of the Investor to Purchase Shares
+of Common Stock. The right of the Company to deliver an Advance Notice and the
+obligation of the Investor hereunder to acquire and pay for shares of the
+Company's Common Stock incident to a Closing is subject to the fulfillment by
+the Company, on (i) the date of delivery of such Advance Notice and (ii) the
+applicable Advance Date (each a "Condition Satisfaction Date"), of each of the
+following conditions:
+
+                  (a) Registration of the Common Stock with the SEC. The Company
+shall have filed with the SEC a Registration Statement with respect to the
+resale of the Registrable Securities in accordance with the terms of the
+Registration Rights Agreement. As set forth in the Registration Rights
+Agreement, the Registration Statement shall have previously become effective and
+shall remain effective on each Condition Satisfaction Date and (i) neither the
+Company nor the Investor shall have received notice that the SEC has issued or
+intends to issue a stop order with respect to the Registration Statement or that
+the SEC otherwise has suspended or withdrawn the effectiveness of the
+Registration Statement, either temporarily or permanently, or intends or has
+
+
+                                       17
+<PAGE>
+
+threatened to do so (unless the SEC's concerns have been addressed and the
+Investor is reasonably satisfied that the SEC no longer is considering or
+intends to take such action), and (ii) no other suspension of the use or
+withdrawal of the effectiveness of the Registration Statement or related
+prospectus shall exist. The Registration Statement must have been declared
+effective by the SEC prior to the first Advance Notice Date.
+
+                  (b) Authority. The Company shall have obtained all permits and
+qualifications required by any applicable state in accordance with the
+Registration Rights Agreement for the offer and sale of the shares of Common
+Stock, or shall have the availability of exemptions therefrom. The sale and
+issuance of the shares of Common Stock shall be legally permitted by all laws
+and regulations to which the Company is subject.
+
+                  (c) Fundamental Changes. There shall not exist any fundamental
+changes to the information set forth in the Registration Statement which would
+require the Company to file a post-effective amendment to the Registration
+Statement.
+
+                  (d) Performance by the Company. The Company shall have
+performed, satisfied and complied in all material respects with all covenants,
+agreements and conditions required by this Agreement (including, without
+limitation, the conditions specified in Section 2.5 hereof) and the Registration
+Rights Agreement to be performed, satisfied or complied with by the Company at
+or prior to each Condition Satisfaction Date.
+
+                  (e) No Injunction. No statute, rule, regulation, executive
+order, decree, ruling or injunction shall have been enacted, entered,
+promulgated or endorsed by any court or governmental authority of competent
+jurisdiction that prohibits or directly and adversely affects any of the
+transactions contemplated by this Agreement, and no proceeding shall have been
+commenced that may have the effect of prohibiting or adversely affecting any of
+the transactions contemplated by this Agreement.
+
+                  (f) No Suspension of Trading in or Delisting of Common Stock.
+The trading of the Common Stock is not suspended by the SEC or the Principal
+Market (if the Common Stock is traded on a Principal Market). The issuance of
+shares of Common Stock with respect to the applicable Closing, if any, shall not
+violate the shareholder approval requirements of the Principal Market (if the
+Common Stock is traded on a Principal Market). The Company shall not have
+received any notice threatening the continued listing of the Common Stock on the
+Principal Market (if the Common Stock is traded on a Principal Market).
+
+                  (g) Maximum Advance Amount. The amount of an Advance requested
+by the Company shall not exceed the Maximum Advance Amount. In addition, in no
+event shall the number of shares issuable to the Investor pursuant to an Advance
+cause the aggregate number of shares of Common Stock beneficially owned by the
+Investor and its affiliates to exceed nine and 9/10 percent (9.9%) of the then
+outstanding Common Stock of the Company. For the purposes of this section
+beneficial ownership shall be calculated in accordance with Section 13(d) of the
+Exchange Act.
+
+
+                                       18
+<PAGE>
+
+                  (h) No Knowledge. The Company has no knowledge of any event
+which would be more likely than not to have the effect of causing such
+Registration Statement to be suspended or otherwise ineffective.
+
+                  (i) Other. On each Condition Satisfaction Date, the Investor
+shall have received the certificate executed by an officer of the Company in the
+form of Exhibit A attached hereto.
+
+
+                                  ARTICLE VIII.
+         Due Diligence Review; Non-Disclosure of Non-Public Information
+
+         Section 8.1. Due Diligence Review. Prior to the filing of the
+Registration Statement the Company shall make available for inspection and
+review by the Investor, its advisors and representatives, and any underwriter
+participating in any disposition of the Registrable Securities on behalf of the
+Investor pursuant to the Registration Statement, any such registration statement
+or amendment or supplement thereto or any blue sky, NASD or other filing, all
+financial and other records, all SEC Documents and other filings with the SEC,
+and all other corporate documents and properties of the Company as may be
+reasonably necessary for the purpose of such review, and cause the Company's
+officers, directors and employees to supply all such information reasonably
+requested by the Investor or any such representative, advisor or underwriter in
+connection with such Registration Statement (including, without limitation, in
+response to all questions and other inquiries reasonably made or submitted by
+any of them), prior to and from time to time after the filing and effectiveness
+of the Registration Statement for the sole purpose of enabling the Investor and
+such representatives, advisors and underwriters and their respective accountants
+and attorneys to conduct initial and ongoing due diligence with respect to the
+Company and the accuracy of the Registration Statement.
+
+         Section 8.2. Non-Disclosure of Non-Public Information.
+
+                  (a) The Company shall not disclose non-public information to
+the Investor, its advisors, or its representatives, unless prior to disclosure
+of such information the Company identifies such information as being non-public
+information and provides the Investor, such advisors and representatives with
+the opportunity to accept or refuse to accept such non-public information for
+review. The Company may, as a condition to disclosing any non-public information
+hereunder, require the Investor's advisors and representatives to enter into a
+confidentiality agreement in form reasonably satisfactory to the Company and the
+Investor.
+
+                  (b) Nothing herein shall require the Company to disclose
+non-public information to the Investor or its advisors or representatives, and
+the Company represents that it does not disseminate non-public information to
+any investors who purchase stock in the Company in a public offering, to money
+managers or to securities analysts, provided, however, that notwithstanding
+anything herein to the contrary, the Company will, as hereinabove provided,
+immediately notify the advisors and representatives of the Investor and, if any,
+underwriters, of any event or the existence of any circumstance (without any
+obligation to disclose the specific event or circumstance) of which it becomes
+aware, constituting non-public information (whether or not requested of the
+Company specifically or generally during the course of due diligence by such
+persons or entities), which, if not disclosed in the prospectus included in the
+Registration Statement would cause such prospectus to include a material
+
+
+                                       19
+<PAGE>
+
+misstatement or to omit a material fact required to be stated therein in order
+to make the statements, therein, in light of the circumstances in which they
+were made, not misleading. Nothing contained in this Section 8.2 shall be
+construed to mean that such persons or entities other than the Investor (without
+the written consent of the Investor prior to disclosure of such information) may
+not obtain non-public information in the course of conducting due diligence in
+accordance with the terms of this Agreement and nothing herein shall prevent any
+such persons or entities from notifying the Company of their opinion that based
+on such due diligence by such persons or entities, that the Registration
+Statement contains an untrue statement of material fact or omits a material fact
+required to be stated in the Registration Statement or necessary to make the
+statements contained therein, in light of the circumstances in which they were
+made, not misleading.
+
+
+                                   ARTICLE IX.
+                           Choice of Law/Jurisdiction
+
+         Section 9.1. Governing Law. This Agreement shall be governed by and
+interpreted in accordance with the laws of the State of New Jersey without
+regard to the principles of conflict of laws. The parties further agree that any
+action between them shall be heard in Hudson County, New Jersey, and expressly
+consent to the jurisdiction and venue of the Superior Court of New Jersey,
+sitting in Hudson County, New Jersey and the United States District Court of New
+Jersey, sitting in Newark, New Jersey, for the adjudication of any civil action
+asserted pursuant to this paragraph.
+
+
+                                   ARTICLE X.
+                             Assignment; Termination
+
+         Section 10.1. Assignment. Neither this Agreement nor any rights of the
+Company hereunder may be assigned to any other Person.
+
+         Section 10.2. Termination. The obligations of the Investor to make
+Advances under Article II hereof shall terminate twenty-four (24) months after
+the Effective Date.
+
+
+                                   ARTICLE XI.
+                                     Notices
+
+         Section 11.1. Notices. Any notices, consents, waivers, or other
+communications required or permitted to be given under the terms of this
+Agreement must be in writing and will be deemed to have been delivered (i) upon
+receipt, when delivered personally; (ii) upon receipt, when sent by facsimile,
+provided a copy is mailed by U.S. certified mail, return receipt requested;
+(iii) three (3) days after being sent by U.S. certified mail, return receipt
+requested, or (iv) one (1) day after deposit with a nationally recognized
+overnight delivery service, in each case properly addressed to the party to
+receive the same. The addresses and facsimile numbers for such communications
+shall be:
+
+
+                                       20
+<PAGE>
+
+If to the Company, to:                         Innova Holdings, Inc.
+                                               17105 San Carlos Boulevard
+                                               Suite A6151
+                                               For Myers, FL 33931
+                                               Attention:        Walter Weisel
+                                               Telephone:        (239) 466-0488
+                                               Facsimile:        (239) 466-7270
+
+With a copy to:                                Innova Holdings, Inc.
+                                               17105 San Carlos Boulevard
+                                               Suite A6151
+                                               For Myers, FL 33931
+                                               Attention:        Sheri Aws
+                                               Telephone:        (239) 466-0488
+                                               Facsimile:        (239) 466-7270
+
+If to the Investor(s):                         Cornell Capital Partners, LP
+                                               101 Hudson Street -Suite 3700
+                                               Jersey City, NJ 07302
+                                               Attention: Mark Angelo
+                                                          Portfolio Manager
+                                               Telephone: (201) 985-8300
+                                               Facsimile: (201) 985-8266
+
+With a Copy to:                                Troy Rillo, Esq.
+                                               101 Hudson Street - Suite 3700
+                                               Jersey City, NJ 07302
+                                               Telephone: (201) 985-8300
+                                               Facsimile: (201) 985-8266
+
+
+Each party shall provide five (5) days' prior written notice to the other party
+of any change in address or facsimile number.
+
+
+                                  ARTICLE XII.
+                                  Miscellaneous
+
+         Section 12.1. Counterparts. This Agreement may be executed in two or
+more identical counterparts, all of which shall be considered one and the same
+agreement and shall become effective when counterparts have been signed by each
+party and delivered to the other party. In the event any signature page is
+delivered by facsimile transmission, the party using such means of delivery
+shall cause four (4) additional original executed signature pages to be
+physically delivered to the other party within five (5) days of the execution
+and delivery hereof, though failure to deliver such copies shall not affect the
+validity of this Agreement.
+
+         Section 12.2. Entire Agreement; Amendments. This Agreement supersedes
+all other prior oral or written agreements between the Investor, the Company,
+
+
+                                       21
+<PAGE>
+
+their affiliates and persons acting on their behalf with respect to the matters
+discussed herein, and this Agreement and the instruments referenced herein
+contain the entire understanding of the parties with respect to the matters
+covered herein and therein and, except as specifically set forth herein or
+therein, neither the Company nor the Investor makes any representation,
+warranty, covenant or undertaking with respect to such matters. No provision of
+this Agreement may be waived or amended other than by an instrument in writing
+signed by the party to be charged with enforcement.
+
+         Section 12.3. Reporting Entity for the Common Stock. The reporting
+entity relied upon for the determination of the trading price or trading volume
+of the Common Stock on any given Trading Day for the purposes of this Agreement
+shall be Bloomberg, L.P. or any successor thereto. The written mutual consent of
+the Investor and the Company shall be required to employ any other reporting
+entity.
+
+         Section 12.4. Fees and Expenses. The Company hereby agrees to pay the
+following fees:
+
+                  (a) Structuring Fees. Each of the parties shall pay its own
+fees and expenses (including the fees of any attorneys, accountants, appraisers
+or others engaged by such party) in connection with this Agreement and the
+transactions contemplated hereby, except that the Company will pay a structuring
+fee of Fifteen Thousand Dollars ($15,000) to Yorkville Advisors Management, LLC,
+of which $5,000 was due and payable as of the date of the term sheet, and
+$10,000 shall be paid on the date hereof. Subsequently on each advance date, the
+Company will pay Yorkville Advisors Management, LLC a structuring fee of Five
+Hundred Dollars ($500) directly out the proceeds of any Advances hereunder.
+
+                  (b) Due Diligence Fee. Company shall pay the Investor a
+non-refundable due diligence fee of Five Thousand Dollars ($5,000), which was
+paid upon submission of the due diligence documents to the Investor.
+
+                  (c) Commitment Fees.
+
+                           (i) On each Advance Date the Company shall pay to the
+Investor, directly from the gross proceeds held in escrow, an amount equal to
+five percent (5%) of the amount of each Advance. The Company hereby agrees that
+if such payment, as is described above, is not made by the Company on the
+Advance Date, such payment will be made at the direction of the Investor as
+outlined and mandated by Section 2.3 of this Agreement.
+
+                           (ii) Upon the execution of this Agreement the Company
+shall pay the Investor a commitment fee which shall consist of 2,608,699 shares
+of Common Stock (the "Investor's Shares") which shall be issued to the Investor
+on the date hereof, and a promissory note in the amount of Three Hundred
+Thousand Dollars ($300,000) ("Promissory Note) which shall be issued to the
+Investor on the date hereof.
+
+                           (iii) Fully Earned. The Investor's Shares and the
+Promissory Note shall be deemed fully earned as of the date hereof.
+
+                           (iv) Registration Rights. The Investor's Shares will
+have "piggy-back" registration rights.
+
+
+                                       22
+<PAGE>
+
+         Section 12.5. Brokerage. Each of the parties hereto represents that it
+has had no dealings in connection with this transaction with any finder or
+broker who will demand payment of any fee or commission from the other party.
+The Company on the one hand, and the Investor, on the other hand, agree to
+indemnify the other against and hold the other harmless from any and all
+liabilities to any person claiming brokerage commissions or finder's fees on
+account of services purported to have been rendered on behalf of the
+indemnifying party in connection with this Agreement or the transactions
+contemplated hereby.
+
+         Section 12.6. Confidentiality. If for any reason the transactions
+contemplated by this Agreement are not consummated, each of the parties hereto
+shall keep confidential any information obtained from any other party (except
+information publicly available or in such party's domain prior to the date
+hereof, and except as required by court order) and shall promptly return to the
+other parties all schedules, documents, instruments, work papers or other
+written information without retaining copies thereof, previously furnished by it
+as a result of this Agreement or in connection herein.
+
+                  [REMAINDER OF PAGE INTENTIONALLY LEFT BLANK]
+
+
+                                       23
+<PAGE>
+
+         IN WITNESS WHEREOF, the parties hereto have caused this Standby Equity
+Distribution Agreement to be executed by the undersigned, thereunto duly
+authorized, as of the date first set forth above.
+
+                                COMPANY:
+                                             INNOVA HOLDINGS, INC.
+
+                                             By:      /s/ Walter K. Weisel
+                                                -------------------------------
+                                             Name:    Walter K. Weisel
+                                             Title:   Chief Executive Officer
+
+
+                                INVESTOR:
+                                             CORNELL CAPITAL PARTNERS, LP
+
+                                             By:      Yorkville Advisors, LLC
+                                             Its:     General Partner
+
+                                             By:      /s/ Mark Angelo
+                                                -------------------------------
+                                             Name:    Mark Angelo
+                                             Title:   Portfolio Manager
+
+
+                                       24
+<PAGE>
+
+                                    EXHIBIT A
+
+
+                      ADVANCE NOTICE/COMPLIANCE CERTIFICATE
+
+
+                              INNOVA HOLDINGS, INC.
+
+
+         The undersigned, _______________________ hereby certifies, with respect
+to the sale of shares of Common Stock of INNOVA HOLDINGS, INC. (the "Company"),
+issuable in connection with this Advance Notice and Compliance Certificate dated
+___________________ (the "Notice"), delivered pursuant to the Standby Equity
+Distribution Agreement (the "Agreement"), as follows:
+
+         1. The undersigned is the duly elected ______________ of the Company.
+
+         2. There are no fundamental changes to the information set forth in the
+Registration Statement which would require the Company to file a post effective
+amendment to the Registration Statement.
+
+         3. The Company has performed in all material respects all covenants and
+agreements to be performed by the Company on or prior to the Advance Date
+related to the Notice and has complied in all material respects with all
+obligations and conditions contained in the Agreement.
+
+         4. The undersigned hereby represents, warrants and covenants that it
+has made all filings ("SEC Filings") required to be made by it pursuant to
+applicable securities laws (including, without limitation, all filings required
+under the Securities Exchange Act of 1934, which include Forms 10-Q, 10-K, 8-K,
+etc. All SEC Filings and other public disclosures made by the Company,
+including, without limitation, all press releases, analysts meetings and calls,
+etc. (collectively, the "Public Disclosures"), have been reviewed and approved
+for release by the Company's attorneys and, if containing financial information,
+the Company's independent certified public accountants. None of the Company's
+Public Disclosures contain any untrue statement of a material fact or omit to
+state any material fact required to be stated therein or necessary to make the
+statements therein, in the light of the circumstances under which they were
+made, not misleading.
+
+         5. The Advance requested is _____________________.
+
+         The undersigned has executed this Certificate this ____ day of
+_________________.
+
+                                                   INNOVA HOLDINGS, INC.
+
+
+                                                   By:
+                                                      -------------------------
+                                                   Name:
+                                                   Title:
+
+<PAGE>
+
+                               DISCLOSURE SCHEDULE
+
+
+4.3      Capitalization
+
+<TABLE>
+<CAPTION>
+         S-8 shares to be registered immediately:
+<S>                                                                                      <C>
+B Smith Holdings, Inc.                                                                     6,000,000
+Buddy Smith                                                                                2,893,116
+Ann Kaplan                                                                                 3,074,935
+Eugene V. Gartlan                                                                         12,000,000
+Chris Wright                                                                               6,000,000
+Walter K. Weisel                                                                           7,500,000
+Jeff Engelberger                                                                           6,000,000
+Bill Pardi                                                                                 2,500,000
+Stock Option Plan                                                                        100,000,000
+
+         Shares to be included in SB2 registration statement:
+
+Walter K. Weisel                                                                          10,000,000
+Mike Cozza                                                                                 1,116,172
+Piggyback rights for new recent investors                                                 20,350,000
+
+
+         S-8 shares to be registered later in 2005, after providing the Investor
+with 15 days' advanced written notice:
+
+Martin Nielson                                                                            16,133,333
+Martin Nielson for Altos BanCorp                                                          13,951,700
+Gary Mc Near                                                                               3,900,000
+Craig Conklin                                                                              3,900,000
+Future stock signing bonuses                                                               9,000,000
+</TABLE>
+
+
+      Previously S-8 registered 2,257,726 shares offered by director as
+settlement of debt.
+
+
+                                       26
+<PAGE>
+
+                                  SCHEDULE 2.6
+
+
+                              INNOVA HOLDINGS, INC.
+
+         The undersigned hereby agrees that for a period commencing on June ___,
+2005 and expiring on the termination of the Standby Equity Distribution
+Agreement dated June ___, 2005 between the Company and the Investor (the
+"Lock-up Period"), he, she or it will not, directly or indirectly, without the
+prior written consent of the Investor, issue, offer, agree or offer to sell,
+sell, grant an option for the purchase or sale of, transfer, pledge, assign,
+hypothecate, distribute or otherwise encumber or dispose of except pursuant to
+Rule 144 of the General Rules and Regulations under the Securities Act of 1933,
+as amended, any securities of the Company, including common stock or options,
+rights, warrants or other securities underlying, convertible into, exchangeable
+or exercisable for or evidencing any right to purchase or subscribe for any
+common stock (whether or not beneficially owned by the undersigned), or any
+beneficial interest therein (collectively, the "Securities").
+
+         In order to enable the aforesaid covenants to be enforced, the
+undersigned hereby consents to the placing of legends and/or stop-transfer
+orders with the transfer agent of the Company's securities with respect to any
+of the Securities registered in the name of the undersigned or beneficially
+owned by the undersigned, and the undersigned hereby confirms the undersigned's
+investment in the Company.
+
+Dated: _______________, 2005
+
+                                      Signature
+
+
+
+                                      Name: ___________________________________
+                                      Address:_________________________________
+                                      City, State, Zip Code:___________________
+
+
+                                      _________________________________________
+                                      Print Social Security Number
+                                      or Taxpayer I.D. Number
+
+
+
+
+
+                                       27
+</TEXT>
+</DOCUMENT>

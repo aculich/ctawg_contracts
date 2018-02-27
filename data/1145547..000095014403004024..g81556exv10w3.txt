@@ -1,0 +1,526 @@
+<DOCUMENT>
+<TYPE>EX-10.3
+<SEQUENCE>5
+<FILENAME>g81556exv10w3.txt
+<DESCRIPTION>EX-10.3 SALARY CONTINUATION PLAN
+<TEXT>
+<PAGE>
+
+
+                                                                    EXHIBIT 10.3
+
+
+                            SALARY CONTINUATION PLAN
+
+                             For The Consideration
+                                       Of
+
+                                GREER STATE BANK
+                                   GREER, SC
+
+                       Bank Compensation Strategies, Inc.
+
+                             3600 West 80th Street
+                                   Suite 200
+                          Minneapolis, Minnesota 55431
+
+                                 (612) 893-6767
+                               Fax (612) 893-6797
+
+
+
+<PAGE>
+
+
+                         SUMMARY OF BENEFIT PLAN DESIGN
+                            SALARY CONTINUATION PLAN
+                                GREER STATE BANK
+
+Plan benefits:
+
+         - Retirement income benefits are provided for selected key decision
+           makers.
+
+         - Family income protection is provided for participant's beneficiary.
+
+         - Individual agreements specify:
+
+                  - Vesting
+
+                  - Incentives
+
+                  - Early retirement benefits
+
+                  - Disability benefits
+
+                  - Change of control provisions
+
+The following chart summarizes the retirement benefits for each plan
+participant.
+
+<TABLE>
+                                      Retire-                       Duration          Total
+                                       ment         Annual             of            Benefits
+Executive                   Age         Age         Benefit          Benefits           Paid
+---------                   ---       -------       -------         ---------        --------
+<S>                         <C>       <C>           <C>             <C>              <C>
+D. Hennett                  55          65          40,000          15 years          600,000
+s. Burdette                 55          65          20,000          15 years          300,000
+B. Hughes                   51          65          20,000          15 years          300,000
+B. Harrill                  48          65          20,000          15 years          300,000
+R. Medlock                  40          65          20,000          15 years          300,000
+P. Williams                 41          65          20,000          15 years          300,000
+</TABLE>
+<PAGE>
+                             BENEFIT PLAN LIABILITY
+                            SALARY CONTINUATION PLAN
+                                GREER STATE BANK
+
+
+
+Accounting considerations:
+
+    - The plan provides postretirement benefits for preretirement services.
+
+    - Benefit accruals are required under GAAP (APB 12/FAS 87).
+
+    - Present value of benefit payments are recorded at earlier of retirement
+      or at full eligibility (Vesting).
+
+
+    Based on the recommended benefits, the employer's benefit liability is shown
+below.
+
+
+                             BENEFIT PLAN LIABILITY
+
+
+<Table>
+<Caption>
+         Assets                                 Liabilities
+         ------                                 -----------
+         <S>                                    <C>
+                                                  Accrued
+                                             Benefit Liability
+
+                                              $52,471 year 1
+</Table>
+<PAGE>
+                              BENEFIT PLAN EXPENSE
+                            SALARY CONTINUATION PLAN
+                                GREER STATE BANK
+
+
+<Table>
+<Caption>
+         ASSETS                                 LIABILITIES
+         ------                                 -----------
+         <S>                                    <C>
+                                                  ACCRUED
+                                             BENEFIT LIABILITY
+
+                                              $52,471 year 1
+</Table>
+
+
+Based upon the above benefit liability and a 38.00% tax bracket, the resulting
+benefit expense is shown below.
+
+<Table>
+<Caption>
+Plan                                         Cumulative After-Tax
+Year                                            Benefit Expense
+----                                         --------------------
+<S>                                          <C>
+ 1                                                   32,532
+ 2                                                   67,764
+ 3                                                  105,921
+ 4                                                  147,245
+ 5                                                  191,998
+10                                                  478,046
+15                                                  727,316
+20                                                  951,782
+</Table>
+<PAGE>
+                            COMBINED PLAN ACCOUNTING
+                            SALARY CONTINUATION PLAN
+                                GREER STATE BANK           Corp tax rate: 38.00%
+
+<Table>
+<Caption>
+                                              TOTAL
+                            ANNUAL            ANNUAL            ACCRUED             AFTER-TAX PLAN EXPENSE
+PLAN                       BENEFIT           BENEFIT            BENEFIT          ----------------------------
+YEAR     NAME              PAYMENTS          PAYMENTS          LIABILITY         ANNUAL            CUMULATIVE
+----     ----              --------          --------          ---------         ------            ----------
+<S>      <C>               <C>               <C>               <C>               <C>               <C>
+  1                                                0            52,471           32,532               32,533
+  2                                                0           109,298           35,232               67,765
+  3                                                0           170,841           38,157              105,922
+  4                                                0           237,492           41,324              147,245
+  5                                                0           309,675           44,753              191,999
+  6                                                0           387,849           48,468              240,467
+  7                                                0           472,511           52,491              292,957
+  8                                                0           564,201           56,847              349,805
+  9                                                0           663,500           61,566              411,371
+ 10                                                0           771,042           66,676              478,046
+ 11      D. Hennett        40,000
+         S. Burdette       20,000             60,000           789,654           48,740              526,786
+ 12                                           60,000           809,812           49,698              576,484
+ 13                                           60,000           831,642           50,735              627,218
+ 14                                           60,000           855,284           51,858              679,077
+ 15      B. Hughes         20,000             80,000           853,090           48,239              727,316
+ 16                                           80,000           850,713           48,127              775,443
+ 17                                           80,000           848,139           48,004              823,447
+ 18      B. Harrill        20,000            100,000           819,574           44,289              867,736
+ 19                                          100,000           788,637           42,819              910,555
+ 20                                          100,000           755,133           41,227              951,783
+ 21                                          100,000           718,847           39,503              991,286
+ 22                                          100,000           679,550           37,636            1,028,922
+ 23                                          100,000           636,992           35,614            1,064,535
+ 24                                          100,000           590,901           33,424            1,097,959
+ 25      P. Williams       20,000            120,000           517,729           29,034            1,126,993
+ 26      R. Medlock        20,000             80,000           477,701           24,782            1,151,775
+ 27                                           80,000           434,350           22,723            1,174,498
+ 28                                           80,000           387,402           20,492            1,194,990
+ 29                                           80,000           336,556           18,076            1,213,066
+ 30                                           60,000           302,241           15,924            1,228,990
+ 31                                           60,000           265,077           14,158            1,243,148
+ 32                                           60,000           224,829           12,246            1,255,394
+ 33                                           40,000           201,990           10,640            1,266,034
+ 34                                           40,000           177,255            9,464            1,275,499
+ 35                                           40,000           150,467            8,192            1,283,690
+ 36                                           40,000           121,456            6,813            1,290,503
+ 37                                           40,000            90,037            5,320            1,295,824
+ 38                                           40,000            56,011            3,703            1,299,527
+ 39                                           40,000            19,160            1,952            1,301,479
+ 40                                           20,000                 0              521            1,302,001
+</Table>
+<PAGE>
+                              FINANCING STRATEGY
+                           SALARY CONTINUATION PLAN
+                               GREER STATE BANK
+
+This financing strategy recommendation will:
+
+    - Cover contingent benefit liabilities in the event of death prior to
+      retirement.
+
+    - Generate additional tax-favored earnings to offset the benefit expenses.
+
+    - Comply with regulatory parameters as defined by OCC Bulletin 96-51.
+
+                          ASSET/LIABILITY MANAGEMENT
+
+                    ASSETS                     LIABILITIES
+
+                 Taxable Asset
+                 (5.25% taxable)
+
+                 $1,100,000                      Accrued
+                                             Benefit Liability
+
+                Other Assets
+                (6.00% no current tax)
+
+
+<PAGE>
+                            PRO FORMA BALANCE SHEET
+                           SALARY CONTINUATION PLAN
+                               GREER STATE BANK
+
+This pro forma balance sheet illustrates changes that would result from
+implementation of the recommended financing strategy. This schedule is based
+upon the bank's call report data as of March 31, 1997.
+
+<Table>
+<Caption>
+                            03/31/97          --PLAN ACTIVITY--           03/31/97
+                             ACTUAL         DEBIT          CREDIT        PRO FORMA
+                           ----------     ---------       ---------      ----------
+<S>                        <C>            <C>             <C>            <C>
+ASSETS
+
+Cash and Due from Bank      2,610,000                                     2,610,000
+Securities                 27,714,000                     1,100,000(1)   26,614,000
+Loans                      61,584,000                                    61,584,000
+   Less: Reserve             (471,000)                                     (471,000)
+                           ----------                                    ----------
+Net Loans                  61,113,000                                    61,113,000
+Other Assets                3,996,000     1,100,000(2)                    5,096,000
+                           ----------                                    ----------
+      Total Assets         95,433,000                                    95,433,000
+                           ==========                                    ==========
+LIABILITIES AND CAPITAL
+
+Deposits                   79,797,000                                    79,797,000
+Fed Funds Purchased           700,000                                       700,000
+Other Liabilities           6,249,000                                     6,249,000
+                           ----------                                    ----------
+      Total Liabilities    86,746,000                                    86,746,000
+
+Common Stock                3,131,000                                     3,131,000
+Surplus                     4,520,000                                     4,520,000
+Undivided Profits           1,036,000             0(3)                    1,036,000
+                           ----------                                    ----------
+Total Equity Capital        8,687,000                                     8,687,000
+                           ----------                                    ----------
+      Total Liabilities
+        and Capital        95,433,000                                    95,433,000
+                           ==========                                    ==========
+
+===================================================================================
+</Table>
+
+1. Allocation to insurance assets
+2. Recognition of insurance asset cash values
+3. No loads or surrender charges
+<PAGE>
+                           FINANCING STRATEGY DETAIL
+                            SALARY CONTINUATION PLAN
+                                GREER STATE BANK
+
+
+    The financing vehicles for the benefit program are summarized as follows:
+
+
+<Table>
+<S>                                 <C>
+Single Premiums                     1,100,000
+
+Net Life Insurance Coverage         1,825,000
+                                    ---------
+Total Death Benefits                2,925,000
+                                    =========
+</Table>
+
+
+<Table>
+<Caption>
+                                                               Net Life           Total
+                                    Ins       Single           Insurance          Death
+Executive                  Age      Co.      Premiums          Coverage          Benefits
+---------                  ---      ---      --------          ---------         --------
+<S>                        <C>      <C>      <C>              <C>                <C>
+D. Hennett                 55       WCL        355,000           445,000           800,000
+S. Burdette                55       CHB        175,000           275,000           450,000
+B. Hughes                  51       WCL        185,000           275,000           460,000
+B. Harrill                 48       CHB        165,000           275,000           440,000
+R. Medlock                 40       TMG        110,000           280,000           390,000
+P. Williams                41       TMG        110,000           275,000           385,000
+                                             ---------         ---------         ---------
+                                             1,100,000         1,825,000         2,925,000
+                                             =========         =========         =========
+</Table>
+
+<PAGE>
+                     FINANCING STRATEGY EARNING COMPARISON
+                            SALARY CONTINUATION PLAN
+                                GREER STATE BANK
+
+                          Asset Allocation: $1,100,000
+<Table>
+<Caption>
+<S>                                    <C>             <C>              <C>
+                                        5.25%            6.00%            Financing
+                                       Taxable         Insurance           Strategy
+                                        Asset            Asset           Gain (Loss)
+                                      -------          ---------         -----------
+
+Income                                 57,751           65,320
+Tax (38.00%)                          (21,945)               0
+                                      -------          ---------
+                                       35,806           65,320
+Insurance Costs:
+  Load (.0%)                                0                0
+  Mortality Charges                         0           (7,490)
+                                      -------          --------          -----------
+YEAR 1 NET EARNINGS                    35,806           57,830             22,024
+                                      =======          ========          ===========
+
+
+Cumulative Impact:
+
+          Over 2 Years                 72,777          118,561             45,784
+          Over 3 Years                110,950          182,275             71,325
+          Over 4 Years                150,367          249,141             98,774
+          Over 5 Years                191,067          319,403            128,336
+
+          Over 10 Years               415,318          726,885            311,567
+
+          Over 15 Years               678,522        1,252,940            574,418
+
+          Over 20 Years               987,442        1,918,430            930,988
+
+Additional Death Benefit                    0        1,857,264          1,857,264
+</TABLE>
+<PAGE>
+                   RESULTS OF BENEFIT AND FINANCING DECISIONS
+                            SALARY CONTINUATION PLAN
+                                GREER STATE BANK
+
+                          ----------------------------
+                           ASSET/LIABILITY MANAGEMENT
+                          ----------------------------
+
+
+<Table>
+<Caption>
+                  ASSETS                              LIABILITIES
+--------------------------------------------------------------------------------
+             <S>                         |         <C>
+              Taxable Asset              |              Accrued
+             (5.25% taxable)             |         Benefit Liability
+                                         |
+                                         |
+               $1,100,000                |          $52,471 year 1
+                                         |
+                                         |
+             Other Assets                |
+             (6.00% no current tax)      |
+</Table>
+
+<Table>
+<Caption>
+              FINANCING              CUMULATIVE               CUMULATIVE
+PLAN          STRATEGY       -       AFTER-TAX         =       NET PLAN
+YEAR         GAIN (LOSS)           BENEFIT EXPENSE            GAIN (LOSS)
+-------------------------------------------------------------------------
+<S>          <C>             <C>   <C>                 <C>    <C>
+ 1              22,024                 37,926                   (15,902)
+ 2              45,784                 74,088                   (28,304)
+ 3              71,325                113,175                   (41,850)
+ 4              98,774                155,429                   (56,655)
+ 5             128,336                201,112                   (72,776)
+
+10             311,567                491,810                  (180,243)
+
+15             574,418                745,730                  (171,312)
+
+20             930,988                974,846                   (43,858)
+</Table>
+<PAGE>
+                    EARNINGS IMPACT OF ALTERNATIVE DECISIONS
+                            SALARY CONTINUATION PLAN
+                                GREER STATE BANK
+
+                          ASSET ALLOCATION: $1,100,000
+
+<Table>
+<Caption>
+                                   No             Benefit           Benefit and
+                                Decision       Decision Only     Financing Decision
+                                ---------------------------------------------------
+                                 5.25%             5.25%               6.00%
+                                Taxable           Taxable            Insurance
+                                 Asset             Asset               Asset
+                                ---------------------------------------------------
+<S>                             <C>            <C>               <C>
+
+Income                           57,750            57,750               65,320
+Tax (38.00%)                    (21,945)          (21,945)                   0
+                                -------           -------            ---------
+                                 35,805            35,805               65,320
+
+Insurance Costs:
+   Load ( .0%)                        0                 0                    0
+   Mortality Charges                  0                 0               (7,490)
+                                -------           -------            ---------
+Year 1 Net Income                35,805            35,805               57,830
+Benefit Plan Expense, Net
+    Year 1 Accrual                    0           (32,532)             (32,532)
+Yr 1 Implementation Fees              0            (5,394)              (5,394)
+                                -------           -------            ---------
+YEAR 1 EARNINGS IMPACT           35,805            (2,121)              19,904
+                                =======           =======            =========
+
+CUMULATIVE IMPACT:
+
+          Over  2 years          72,777            (1,311)              44,473
+          Over  3 years         110,950            (2,225)              69,100
+          Over  4 years         150,367            (5,062)              93,712
+          Over  5 years         191,067           (10,045)             118,291
+
+          Over 10 years         415,318           (76,492)             235,075
+
+          Over 15 years         678,522           (67,208)             507,210
+
+          Over 20 years         987,442            12,596              943,584
+
+-----------------------------------------------------------------------------------
+   ADDITIONAL DEATH BENEFIT           0                 0            1,857,264
+-----------------------------------------------------------------------------------
+</Table>
+
+
+
+<PAGE>
+
+                      DETAILED BENEFIT PLAN FINANCIAL DATA
+                            SALARY CONTINUATION PLAN
+                                GREER STATE BANK
+
+
+This section of the recommendation sets forth the estimated income and expenses
+associated with the implementation of the benefit plan and the related
+financing strategy. Included in this section are summary data for all plan
+participants and detailed data for the individual plan participants.
+
+In order to facilitate your review and understanding of the financial data,
+the following is an explanation of the key terms used:
+
+INTEREST ON POLICY EQUITY VALUE-
+         The gross income earned on the insurance policy asset based on current
+         policy interest rates.
+
+AFTER TAX OPPORTUNITY COST-
+         By purchasing the insurance asset that we have recommended, the
+         employer would either liquidate an existing earning asset or pass up
+         the opportunity to invest the funds elsewhere. This calculation
+         measures the after-tax effect of this lost income or "opportunity
+         cost." This cost is compounded annually.
+
+LOAD, SURRENDER CHARGES AND MORTALITY COST-
+         All of the expenses of providing and maintaining the insurance
+         coverage, which are charged against the policy equity value.
+
+SALARY CONTINUATION EXPENSES-
+         Fees paid to establish and service the plan.
+         The expense accruals for the salary continuation benefit plan use the
+         interest method calculation.
+
+INCOME TAXES-
+         The estimated current and deferred tax savings on the salary
+         continuation benefit plan.
+
+NET PLAN GAIN (LOSS)-
+         The estimated annual net gain or loss of providing the benefit plan.
+
+CUMULATIVE NET PLAN GAIN (LOSS)-
+         The cumulative total of the annual net plan gain or loss.
+
+The specific assumptions used in preparing the illustrations are as follows:
+
+<Table>
+<S>                                                   <C>
+Interest rate on policy equity value.................  6.00%
+  (Weighted average)
+
+Opportunity cost rate................................  5.25%
+
+Corporate tax rate................................... 38.00%
+
+Discount rate for accruals...........................  8.00
+</Table>
+
+* The results illustrated throughout are based on the above assumptions. The
+  results will differ over time as assumed rates fluctuate. BCS does not
+  practice law or public accounting. Specific legal and accounting questions
+  should be referred to your professional advisors.
+
+
+                          (c) Copyright 1997, BCS Inc.
+
+
+</TEXT>
+</DOCUMENT>

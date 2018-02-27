@@ -1,0 +1,701 @@
+<DOCUMENT>
+<TYPE>EX-2.2
+<SEQUENCE>4
+<FILENAME>dex22.txt
+<DESCRIPTION>LICENSE AGREEMENT
+<TEXT>
+<PAGE>
+
+
+                                                                     Exhibit 2.2
+
+                               LICENSE AGREEMENT
+                          FOR USE OF PROPRIETARY DATA
+
+     This LICENSE AGREEMENT FOR USE OF PROPRIETARY DATA (this "Agreement") is
+entered into as of this 19th day of July, 2002, between Millennium Seismic,
+Inc., a Texas corporation having its principal office located at 7751 San
+Felipe, Suite 100, Houston, Texas 77063 (the "Millennium"), and Houston American
+Energy Corp., a Delaware corporation having its principal office located at 801
+Travis, Suite 2020, Houston, Texas 77002 (the "Licensee").
+
+     WHEREAS, pursuant to that certain Exchange Agreement dated of even date
+herewith (the "Exchange Agreement"), and in exchange for Millennium's agreement
+to grant the Licensee this no fee license to use Millennium's seismic data, the
+Licensee agreed to issue Millennium 1,000,000 shares of the Licensee's common
+stock and a warrant to purchase up to an additional 750,000 shares of the
+Licensee's common stock;
+
+     NOW THEREFORE, in exchange for the covenants and premises contained herein
+and other good and valuable consideration, the receipt and sufficiency of which
+is hereby acknowledged, the parties agree as follows:
+
+     1. DEFINITIONS
+
+          1.1 "Consultants" shall mean any third party (whether an individual,
+     corporation or any other entity) engaged by the Licensee to interpret,
+     reprocess or make other technical studies of the Data.
+
+          1.2 "Data" shall mean the Existing Data and all Future Data.
+
+          1.3 "Disclose" shall mean to display or show Data by any means
+     whatsoever including, without limitation, by computer workstation.
+
+          1.4 "Existing Data" shall mean the geophysical data within the
+     geographical area described in the applicable Supplemental Agreement
+     attached hereto and made part hereof, regardless of the form or medium on
+     which it is displayed, and which Millennium either (i) owns as of the date
+     of this Agreement or (ii) has the right to grant use licenses as of the
+     date of this Agreement. The data shall be delineated by line number and/or
+     program name and approximate mileage (or square mileage) and includes
+     related supporting documentation including survey data, surveyor's notes,
+     driller's notes and observer's notes.
+
+          1.5 "Future Data" shall mean the geophysical data within the
+     geographical area described in the applicable Supplemental Agreement
+     attached hereto and made part hereof, regardless of the form or medium on
+     which it is displayed, and which Millennium either (i) owns or will own or
+     (ii) has or will have the right to grant use licenses; provided, however,
+     for purposes of this Agreement, the term "Future Data" shall not include
+     any such geophysical data which constitutes Existing Data. The data shall
+     be delineated by line number and/or program
+
+                                       1
+
+
+<PAGE>
+
+
+     name and approximate mileage (or square mileage) and includes related
+     supporting documentation including survey data, surveyor's notes, driller's
+     notes and observer's notes.
+
+          1.6 "Partial Third Party Asset Acquisition" shall mean any transaction
+     or series of transactions entered whereby any Third Party (other than a
+     Related Entity) acquires less than all of the petroleum exploration assets
+     of the Licensee, including owned or licensed geophysical data.
+
+          1.7 "Partners" shall mean those Third Parties which become
+     contractually related to the Licensee in Third Party Business Transactions
+     (not necessarily "partners" in the legal context).
+
+          1.8 "Prospective Partners" shall mean those Third Parties with which
+     the Licensee is, or shall be, conducting bona fide negotiations in an
+     endeavor to conclude a Third Party Business Transaction.
+
+          1.9 "Prospective Purchasers" shall mean those Third Parties with which
+     the Licensee is, or shall be, conducting bona fide negotiations in an
+     endeavor to conclude a Third Party Acquisition or a Partial Third Party
+     Asset Acquisition whereby the Licensee or all or a portion of its petroleum
+     exploration assets is acquired by such Third Party.
+
+          1.10 "Purchasers" shall mean Third Parties which consummate a Third
+     Party Acquisition or a Partial Third Party Asset Acquisition with the
+     Licensee.
+
+          1.11 "Related Entities" shall mean any corporation, partnership,
+     trust, or other entity which, as of the date of this Agreement: (i) is at
+     least thirty-five percent (35%) owned or controlled, directly or
+     indirectly, by the Licensee; (ii) owns or controls at least thirty-five
+     percent (35%), directly or indirectly, of the Licensee; or (iii) is at
+     least thirty-five percent (35%) owned or controlled, directly or
+     indirectly, by any person or entity satisfying clause (ii) of this Section
+     1.9 as of the date hereof.
+
+          1.12 "Supplemental Agreement" or "Supplement" shall mean each
+     consecutively numbered supplemental agreement to be entered into between
+     Millennium and the Licensee, the general form of which is attached hereto
+     as Schedule 1, which shall cover each separate Data licensing transaction
+     contemplated by this Agreement. Upon the parties execution thereof, each
+     such Supplemental Agreement shall be incorporated herein by this reference
+     and shall be made a part hereof for all purposes. In the event of any
+     conflict between a term or provision of any Supplement and a corresponding
+     term or provision of this Agreement, the term or provision of this
+     Agreement shall govern unless specifically stated to the contrary in the
+     applicable Supplement.
+
+          1.13 "Third Party" shall mean any corporation, individual,
+     partnership, trust or other entity not a party to this Agreement (including
+     Purchasers and Partners and Prospective Purchasers and Partners) other than
+     a Related Entity.
+
+          1.14 "Third Party Acquisition" shall mean any transaction consummated
+     after the date hereof whereby any Third Party acquires: (i) in excess of
+     50% of the outstanding voting
+
+                                       2
+
+
+<PAGE>
+
+
+     securities of the Licensee (or otherwise gains effective control of the
+     Licensee); or (ii) all of the petroleum exploration assets or business
+     operations of the Licensee.
+
+          1.15 "Third Party Business Transactions" shall mean farm-outs,
+     operating agreements, acreage trades, areas of mutual interest, joint
+     bidding agreements and similar business transactions for the joint
+     exploration, development or production of a particular geographical
+     area(s).
+
+          1.16 "Transfer" shall mean the sale, assignment, transfer, exchange,
+     trade, encumbrance, or other disposition of the Data to Third Parties and
+     Related Entities.
+
+     2. OWNERSHIP OF THE DATA
+
+          2.1 The Licensee acknowledges that the Data consists of valuable
+     copyright and trade secrets of Millennium and that title to and ownership
+     rights in the Data shall remain vested in Millennium at all times. The
+     Licensee agrees to take any and all actions reasonably necessary to insure
+     that its employees, representatives or agents do not violate the terms and
+     conditions of this Agreement including, but not limited to, the limitations
+     on access to Data set forth herein. The Licensee recognizes that Millennium
+     may enter into agreements with other parties to license the Data covered by
+     any Supplement hereto, and that Millennium is free to license, use, sell or
+     in any other manner dispose of such Data upon such terms and conditions as
+     Millennium may elect.
+
+     3. DATA DELIVERY/PAYMENT
+
+          3.1 Millennium agrees to license the Data to the Licensee pursuant to
+     the terms and conditions of this Agreement. Data will be delivered to the
+     Licensee under the terms of this Agreement following the execution of a
+     Supplemental Agreement, which shall reference this Agreement and describe
+     in detail the content and form of the Data requested by the Licensee.
+     Acceptance of the Data and execution of the Supplement by the Licensee
+     shall subject the Licensee and the Data to the terms and conditions hereof
+     and thereof.
+
+          3.2 No license fee shall be due for any Data accepted pursuant to a
+     Supplemental Agreement the parties enter into in accordance with this
+     Agreement. Upon execution of each Supplemental Agreement, the Licensee will
+     be invoiced for the amount of the actual and reasonable tape copying,
+     handling, reproduction and splicing charges, as well as the shipping and
+     insurance costs and applicable taxes, if any. Such invoice, which shall
+     reference this Agreement and the applicable Supplemental Agreement, shall
+     be payable as specified in the applicable Supplement Agreement or on the
+     invoice itself.
+
+          3.3 All past due invoices (or portions thereof) shall bear interest at
+     the rate of twelve percent (12%) per annum (or such lesser, maximum amount
+     allowed by applicable law) until paid.
+
+          3.4 In the event any sales, use, gross receipts or similar tax is
+     imposed on the licensing of the Data or is thereafter levied or assessed
+     against Millennium, at any time after delivery of the Data to the Licensee,
+     as a consequence of Millennium's licensing the Data to the Licensee
+     hereunder such taxes shall be for the sole account of the Licensee, which
+     shall promptly
+
+                                       3
+
+
+<PAGE>
+
+
+     reimburse Millennium in full for any taxes so paid by Millennium upon
+     receipt by the Licensee of a Millennium invoice, together with a copy of
+     Millennium's check in payment thereof or a copy of the assessment,
+     therefor.
+
+     4. TERM
+
+          4.1 As for Data delivered by Millennium to the Licensee under the
+     terms hereof, the term of each Supplemental Agreement shall terminate 30
+     years after delivery to the Licensee of the Data licensed thereunder. The
+     term of this Agreement shall remain in effect so long as any Supplemental
+     Agreement is in effect and, thereafter, until terminated by either party
+     giving 30 days prior written notice thereof to the other party.
+
+          4.2 Upon the termination of this Agreement, all copies of any Data
+     licensed hereunder, and any physical manifestation thereof that is then in
+     the Licensee's possession, shall be promptly returned to Millennium by the
+     Licensee. If any such Data or manifestations thereof are not then in the
+     Licensee's possession, the Licensee shall provide Millennium a full
+     accounting of the disposition of same by the Licensee.
+
+          4.3 In addition to any other remedy that may be available to
+     Millennium, upon the Licensee's breach of any condition or provision of
+     this Agreement concerning prohibitions against or restrictions imposed on
+     Disclosure or Transfer of the Data which is not otherwise cured by the
+     Licensee within 30 days after it receives Millennium's notice thereof,
+     Millennium shall have the right, exercisable in its sole discretion, to:
+     (i) terminate the Supplemental Agreement applicable to the Data underlying
+     the Licensee's breach; or (ii) terminate this Agreement as a whole,
+     including all Supplemental Agreements then in effect; provided, in either
+     such event, the provisions of Section 4.2 shall immediately become
+     applicable to all of the Data that is the subject of any such terminated
+     Supplemental Agreement(s).
+
+     5. RIGHTS OF THE PARTIES
+
+          5.1 Subject to the Licensee's obligation to make payment of applicable
+     costs, expenses and taxes in accordance with Section 3, Millennium hereby
+     grants the Licensee the paid-up, non-exclusive right to use the Data
+     described in each of the Supplemental Agreements entered into by the
+     parties, whether attached hereto as of the date of this Agreement or
+     entered into in the future, and the Licensee shall not Disclose, Transfer
+     or otherwise dispose of such Data, except as specifically provided below:
+
+               A. Related Entities: The Licensee may Disclose or Transfer the
+          Data to a Related Entity and with no additional license fee payable to
+          Millennium; provided, however, that:
+
+                    (1) The Related Entity shall (i) be bound by the terms of
+               this Agreement to the same extent as the Licensee and (ii)
+               execute a document to that effect (which document shall be
+               provided to and be reasonably acceptable to Millennium); and
+
+                                       4
+
+
+
+<PAGE>
+
+
+                    (2) If any Third Party shall acquire control of a Related
+               Entity that has any Data, the situation shall, at that time, be
+               considered as a Third Party Acquisition and all provisions herein
+               concerning Third Party Acquisitions set forth in Section 5.1(D)
+               shall apply.
+
+               B. Consultants: The Licensee or its Related Entities may make
+          available, but may not Transfer, the Data to a Consultant retained by
+          the Licensee or its Related Entities to reprocess and/or interpret the
+          Data, provided that the Consultant shall agree, in writing (a copy of
+          which, upon request, shall be provided to Millennium), to the
+          following:
+
+                    (1) That the reprocessing and/or interpretation of the Data
+               performed by the Consultant shall be for the sole benefit of the
+               Licensee or its Related Entities and that the Consultant shall
+               not retain any copies of the Data or the results of the
+               reprocessing and/or interpretation thereof and, upon completion
+               of same, shall deliver all copies thereof to the Licensee or its
+               Related Entities; and
+
+                    (2) That the Data shall remain in the physical possession of
+               the Licensee or its Related Entities and will not, except in
+               those situations where so specifically permitted as provided
+               herein, actually be surrendered to any Consultant without the
+               prior written consent of Millennium; and
+
+                    (3) The Consultant shall sign a confidentiality agreement
+               with respect to the Data.
+
+               C. Prospective Partners/Purchasers: The Licensee or its Related
+          Entities may Disclose, but may not Transfer, the Data to (i)
+          Prospective Partners in Third Party Business Transactions and (ii)
+          Prospective Purchasers in Third Party Acquisitions (including Partial
+          Third Party Asset Acquisition), provided that such Prospective
+          Partners and/or Prospective Purchasers, as applicable, shall agree, in
+          writing, to the following:
+
+                    (1) Any Disclosure to such to a Prospective Purchaser or
+               Prospective Partner shall be limited to seismic sections or
+               portions thereof displaying only Data relevant to those
+               geographical areas subject to the negotiation; and
+
+                    (2) Prospective Purchasers or Prospective Partners shall not
+               utilize the Data in making any interpretation thereof; and
+
+                    (3) The Prospective Purchasers or Prospective Partners shall
+               agree to maintain the confidentiality of the Data as specified
+               herein; and
+
+                    (4) Such Disclosure shall be made to such Prospective
+               Purchasers or Prospective Partners individually on the premises
+               of the Licensee or its Related Entities, for a period of time not
+               to exceed a total of six (6) hours, whether consecutively or not,
+               in a secure environment
+
+                                       5
+
+<PAGE>
+
+
+               whereby said persons are unable to transcribe, photocopy,
+               transmit from such premises electronically or by other means or
+               otherwise depart the premises with a copy of any of the Data.
+
+               D. Acquisitions/Purchasers: The Licensee or its Related Entities
+          may Transfer the Data to Purchasers pursuant to a Third Party
+          Acquisition or a Partial Third Party Asset Acquisition consummated
+          after delivery of the Data to the Licensee; provided, however, no such
+          Transfer shall be permitted unless: (i) each such Purchaser executes a
+          License Agreement containing substantive terms similar to those
+          contained herein with respect to such Data; and (ii) such Purchaser(s)
+          (collectively, if more than one) pay Millennium a license transfer fee
+          equal to a total of $1,000,000. The provisions of clause (ii) of the
+          previous sentence shall apply to the first occurrence of any of the
+          therein described Transfers of Data so long as such Transfer occurs
+          during the 2-year period immediately following the date of this
+          Agreement (the "Transfer Period"). Any additional Transfers to
+          Purchasers pursuant to Third Party Acquisitions or Partial Third Party
+          Asset Acquisitions consummated during the Transfer Period shall be
+          subject to a license transfer fee in an amount equal to 50% of the
+          then published rate charged by Millennium for the use of such data.
+          Any Transfers of Existing Data to Purchasers pursuant to Third Party
+          Acquisitions or Partial Third Party Asset Acquisitions consummated
+          after the Transfer Period shall not be subject to any license transfer
+          fee. Any Transfers of Future Data to Purchasers pursuant to Third
+          Party Acquisitions or Partial Third Party Asset Acquisitions
+          consummated after the Transfer Period shall be subject to a license
+          transfer fee to be agreed upon by Millennium and the Licensee;
+          provided, however, if the parties are unable to agree to such license
+          transfer fee, the Licensee shall have the right to return all Future
+          Data to Millennium, in which case the Licensee shall not be obligated
+          to pay any additional fees related to such Future Data.
+
+               E. Partners: The Licensee or its Related Entities may Transfer
+          the Data licensed to it hereunder to Partners in Third Party Business
+          Transactions provided that such Partner(s) shall: (i) execute a
+          License Agreement containing substantive terms similar to those
+          contained herein with respect to such Data; and (ii) pay Millennium a
+          license transfer fee equal to 50% of the then published rate charged
+          by Millennium for the use of such Data.
+
+               F. Government Agencies: The Data may be disclosed by the Licensee
+          or its Related Entities to government agencies only to the extent such
+          disclosure is specifically required by law. The Licensee agrees to
+          inform Millennium within a reasonable period after the receipt of any
+          request or demand for disclosure made upon the Licensee or its Related
+          Entities by a government agency so that Millennium may seek a
+          protective order or other protection of confidentiality. The Licensee
+          shall limit the disclosure to the greatest lawful extent.
+
+          5.2 The Licensee or its Related Entities may make copies of or prepare
+     derivative works based on any Data for the sole purpose of using such
+     copies or derivative works pursuant to the rights granted herein; provided
+     that all such copies or derivatives shall bear notice
+
+                                       6
+
+
+<PAGE>
+
+
+     of the restricted use of the Data as contained in the "Notice" section on
+     the Data or its container. Such "Notice" shall provide as follows:
+
+                                   "WARNING"
+
+     This data is proprietary to and a trade secret of Millennium Seismic, Inc.
+     The use of this data is restricted to companies holding a valid use license
+     from Millennium and is subject to the confidentiality terms of that
+     license. The data may be disclosed or transferred only as expressly
+     authorized in the license. Unauthorized disclosure, use, reproduction,
+     reprocessing or transfer of this data to or by a third party is strictly
+     prohibited."
+
+         This notice shall not be removed, obliterated, concealed or otherwise
+obscured by the Licensee or those to whom the Data is Disclosed or Transferred,
+as permitted in this Agreement.
+
+          5.3 The Licensee shall not have access to Millennium's original
+     magnetic media, but may obtain a copy thereof at the normal pricing in
+     effect at the time the Licensee orders such Data. The Licensee's use of any
+     tape(s) so obtained and the information contained on or derived therefrom
+     shall be restricted to the same rights as herein granted for the use of
+     Data covered by this Agreement.
+
+     6. OBLIGATIONS/REPRESENTATIONS OF MILLENNIUM
+
+          6.1 ANY AND ALL DATA DELIVERED TO LICENSEE HEREUNDER (COLLECTIVELY,
+     THE "DELIVERED DATA") SHALL BE, TO THE BEST OF THE KNOWLEDGE, INFORMATION
+     AND BELIEF OF MILLENNIUM, ACCURATELY PREPARED IN ACCORDANCE WITH ACCEPTED
+     PRACTICES OF THE GEOPHYSICAL PROFESSION, BUT EXCEPT AS OTHERWISE PROVIDED
+     HEREIN MILLENNIUM MAKES NO REPRESENTATION OR WARRANTY, EXPRESS OR IMPLIED,
+     OF ANY KIND OR DESCRIPTION, INCLUDING WITHOUT LIMITATION, THE IMPLIED
+     WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE, IN
+     RESPECT TO THE QUALITY OR ACCURACY OF THE DELIVERED DATA. THE DELIVERED
+     DATA IS DELIVERED HEREUNDER WITH THE EXPLICIT UNDERSTANDING AND AGREEMENT
+     THAT ANY ACTION TAKEN OR EXPENDITURES MADE BY THE LICENSEE BASED ON ITS
+     EXAMINATION, EVALUATION, INTERPRETATION OR USE OF THE DELIVERED DATA SHALL
+     BE AT THE LICENSEE'S OWN RISK AND RESPONSIBILITY AND THE LICENSEE SHALL
+     HAVE NO CLAIM AGAINST MILLENNIUM AS A CONSEQUENCE THEREOF AND HEREBY
+     RELEASES MILLENNIUM FROM ANY AND ALL LIABILITY RELATIVE THERETO.
+
+          6.2 Millennium agrees to defend, indemnify, and hold the Licensee, its
+     Related Entities, their respective contractors, Consultants, shareholders,
+     directors, officers, employees, agents, and representatives (collectively,
+     the "Licensee Group") harmless from any claims, actions, costs (including
+     without limitation, costs of investigation, litigation, and court costs),
+     damages, demands, fines, interest, judgments, liabilities, losses,
+     penalties, proceedings,
+
+                                       7
+
+<PAGE>
+
+     suits (including appeal), and expenses, including, without limitation,
+     reasonable attorneys' fees, (collectively, "Claims") brought by or on
+     behalf of any person or entity (other than the Licensee or a Related
+     Entity) arising out of or in connection with any allegation, in whole or in
+     part, that the use or possession of the Delivered Data by any member of the
+     Licensee Group, Millennium, or Millennium's customers, infringes,
+     misappropriates, dilutes, or otherwise violates any patent, copyright,
+     trademark, trade secret or other proprietary right of any person or entity.
+     The Licensee agrees to notify Millennium promptly in writing of any such
+     Claims and to give Millennium authority, information and assistance, at the
+     expense of Millennium, in defense of such proceeding. Such defense will be
+     provided by Millennium with counsel of its choosing; provided, however, the
+     Licensee (or such other applicable member of the Licensee Group) may, at
+     its sole cost, be represented by its own counsel, and may participate in
+     any proceeding to which such party is a defendant, subject to Millennium's
+     right to ultimately control the defense thereof.
+
+          6.3 Millennium will defend, indemnify and hold the Licensee Group
+     harmless from any Claims which may be made against any member of the
+     Licensee Group by any Third Party (other than a Related Entity) or
+     employees of Millennium arising out of, in connection with, or related to
+     the conduct of Millennium or its contractors or the operations in acquiring
+     and processing the Delivered Data provided to the Licensee pursuant hereto.
+     The Licensee agrees to notify Millennium promptly in writing of any such
+     Claims and to give Millennium authority, information and assistance (at
+     Millennium's expense) for the defense or assistance in defense of such
+     proceedings. Such defense will be provided by Millennium with counsel of
+     its choosing; provided, however, the Licensee (or such other applicable
+     member of the Licensee Group) may, at its sole cost, be represented by its
+     own counsel, and may participate in proceedings to which such party is a
+     defendant, subject to Millennium's right to ultimately control the defense
+     thereof. All indemnity provisions of this Agreement shall survive
+     termination, expiration, or cancellation of this Agreement.
+
+          6.4 Millennium makes no guarantee that leases for areas covered by the
+     Delivered Data will be granted to the Licensee or other exploration
+     activity will be authorized for the area covered by the Delivered Data by
+     any government entity or other third party and any implied representation
+     to that effect is hereby expressly disclaimed.
+
+          6.5 NOTWITHSTANDING ANYTHING TO THE CONTRARY CONTAINED HEREIN, IN NO
+     EVENT SHALL EITHER PARTY BE LIABLE FOR PUNITIVE, INDIRECT, INCIDENTAL OR
+     CONSEQUENTIAL DAMAGES RESULTING FROM OR ARISING OUT OF THIS AGREEMENT,
+     INCLUDING, WITHOUT LIMITATION, LOSS OF PROFIT OR BUSINESS INTERRUPTION,
+     HOWEVER SAME MAY BE CAUSED.
+
+          6.6 Millennium shall retain either original field tapes or summed
+     tapes, at Millennium's choice, for a period of at least 5 years from the
+     date of the original acquisition of the Delivered Data.
+
+                                       8
+
+
+
+
+
+<PAGE>
+
+     7. ASSIGNMENT
+
+     The Licensee may not assign this Agreement, in whole or in part, or, sublet
+or transfer its rights or obligations hereunder, except as expressly authorized
+herein, without the prior written consent of Millennium, which approval shall
+not be unreasonably withheld. Millennium may assign this Agreement without
+obtaining the prior written consent of the Licensee; provided, however, no such
+assignment by Millennium shall be valid unless the assignee shall execute an
+amendment to this License Agreement whereby the assignee agrees to be bound by
+all of the terms and conditions of this Agreement. Any assignment made by either
+party in contravention of this Section shall be null and void for all purposes.
+To the extent that there are successors or assigns permitted under this Section,
+this Agreement shall be binding on and inure to the benefit of such parties and
+their respective successors and permitted assigns.
+
+     8. NOTICES
+
+          8.1 All notices permitted or required to be given under the terms of
+     this Agreement shall be in writing and shall be deemed effective upon
+     receipt if sent by mail, registered or certified and return receipt
+     requested, postage prepaid, and addressed to the respective parties hereto
+     at their respective addresses shown below:
+
+         If to Millennium:                      If to Licensee:
+
+         Millennium Seismic, Inc.               Houston American Energy Corp.
+         7751 San Felipe, Suite 100             801 Travis, Suite 2020
+         Houston, Texas 77063                   Houston, Texas 77002
+         Attn:  Jesse R. Marion, President      Attn:  John F. Terwilliger
+         Tel.:  713-789-9181                    Tel.:  713-222-6966
+         Fax:  713-789-2304                     Fax:  713-222-6440
+
+     or at such other address as shall be designated in accordance with this
+     Notice provision. Notices may also be given by telex, telecopier, telefax,
+     or by commercial courier/messenger service, which shall also be effective
+     upon receipt.
+
+          8.2 Either party may change its address for purposes of Section 8.1 at
+     any time upon giving written notice specifying such new address and the
+     effective date of such address change to the other party, as provided
+     above.
+
+     9. WAIVER
+
+          9.1 The rights herein given to either party may be exercised from time
+     to time, singularly or in combination, and the waiver of one or more of
+     such rights shall not be deemed to be a waiver of such right in the future
+     or of any one or more of the other rights which the exercising party may
+     have.
+
+                                       9
+
+
+
+<PAGE>
+
+
+
+         9.2 No waiver of any breach of a term, provision or condition of this
+     Agreement by one party shall be deemed to have been made by the other party
+     hereto unless such waiver is expressed in writing and signed by an
+     authorized representative of such party, and the failure of either party to
+     insist upon the strict performance of any term, provision or condition of
+     this Agreement shall not be construed as a waiver or relinquishment in the
+     future of the same or any other term, provision or condition.
+
+     10. GOVERNING LAW/DISPUTES
+
+          10.1 All questions arising out of or concerning this Agreement or its
+     validity, interpretation, performance or breach shall be governed and
+     decided by application of the laws of the State of Texas (except for any
+     rule of such laws which would make the law of any other jurisdiction
+     applicable hereto).
+
+          10.2 The parties agree to attempt to resolve all disputes between them
+     concerning this Agreement in an amicable manner. However, any dispute
+     between the parties which cannot be so resolved by mutual agreement shall
+     be resolved and decided EXCLUSIVELY by the federal or state courts of the
+     State of Texas located in Harris County, Texas, and the parties hereto do
+     hereby irrevocably submit themselves to the jurisdiction of such courts for
+     such purposes. Each party agrees to waive any objection that the state or
+     federal courts of Harris County, Texas, are an inconvenient forum. The
+     parties hereby waive trial by jury in any action, proceeding, or
+     counterclaim brought by either party against the other on any matter
+     whatsoever arising out of or in connection with this Agreement or the
+     relationship of the parties created hereby.
+
+     11. ENTIRE AGREEMENT
+
+     THERE ARE NO UNDERSTANDINGS OR AGREEMENTS RELATIVE TO THIS AGREEMENT THAT
+ARE NOT FULLY EXPRESSED HEREIN. THIS LICENSE AGREEMENT AND ANY EXHIBITS AND
+SCHEDULES HERETO, THE EXCHANGE AGREEMENT AND THE OTHER DOCUMENTS EXECUTED IN
+CONNECTION THEREWITH AND HEREWITH SHALL COMPRISE THE ENTIRE AGREEMENT OF THE
+PARTIES CONCERNING THE SUBJECT MATTER HEREOF AND THEREOF. No modification,
+amendment or addition to this Agreement or any Exhibit may be effected unless
+the same are reduced to writing and signed by both parties.
+
+                   (SIGNATURES APPEAR ON THE FOLLOWING PAGE)
+
+                                       10
+
+
+<PAGE>
+
+
+     IN WITNESS WHEREOF, the parties have caused this License Agreement to be
+executed as of the date first above written.
+
+                                HOUSTON AMERICAN ENERGY CORP.
+
+
+                                By:  /s/  John F. Terwilliger
+                                     -------------------------------------------
+                                     John F. Terwilliger, President
+
+
+
+                                MILLENNIUM SEISMIC, INC.
+
+
+                                By:  /s/  Jesse R. Marion
+                                     -------------------------------------------
+                                     Jesse R. Marion, President
+
+                                       11
+
+
+<PAGE>
+
+
+                                  SCHEDULE "1"
+
+                  SUPPLEMENTAL AGREEMENT TO LICENSE AGREEMENT
+                          FOR USE OF PROPRIETARY DATA
+
+                                    No. ___
+
+     This SUPPLEMENTAL AGREEMENT TO LICENSE AGREEMENT FOR USE OF PROPRIETARY
+DATA (this "Supplemental Agreement") is entered into this _____ day of
+_____________, 200__ (the "Effective Date"), by and between Millennium Seismic,
+Inc., a Texas corporation ("Millennium"), and Houston American Energy Corp., a
+Delaware corporation (the "Licensee").
+
+     Reference is herein made to that certain License Agreement For Use of
+Proprietary Data dated as of July 19, 2002, between Millennium and the Licensee
+(the "License Agreement"). This Supplemental Agreement is a Supplemental
+Agreement referred to in the License Agreement. Capitalized terms not otherwise
+defined herein shall have the meaning ascribed to them in the License Agreement.
+
+     The Licensee agrees to license the number of (square or linear) miles of
+Millennium (3-D or 2-D) geophysical data as specified below, under terms and
+conditions of the License Agreement referenced above to which this Supplemental
+Agreement is attached and made a part thereof.
+
+Area        Committed        Cost/Sq.       Total Cost        Est. Permit
+            Mileage          Mile                            Cost/Sq. Mile
+
+                                -0-             -0-
+
+Payment Terms:
+
+No license fee shall be due in respect of the Data licensed pursuant to this
+Supplemental Agreement. All tape copying, handling, reproduction and splicing
+charges and shipping and insurance costs and applicable taxes, if any, shall be
+invoiced to the Licensee following execution hereof, which amounts shall be due
+to Millennium upon receipt of such invoice by the Licensee.
+
+Product Format Requested
+
+Raw Stacked Data Volume (SEG-Y tape)________________________
+
+Raw Migrated Data Volume (SEG-Y tape)_______________________
+
+Filtered Migrated Data Volume (SEG-Y tape)___________________
+
+Velocity Data Card Image Tape________________________________
+
+Bicenter Coordinate Location Information Tape (UKOOA format)____________
+
+Bicenter Map (Film & Paper Print)____________________________
+
+                                       12
+
+<PAGE>
+
+
+
+     IN WITNESS WHEREOF, the parties have caused this Supplemental Agreement to
+be executed as of the date first above written.
+
+                                HOUSTON AMERICAN ENERGY CORP.
+
+
+                                By:  /s/  John F. Terwilliger
+                                     -------------------------------------------
+                                     John F. Terwilliger, President
+
+
+                                MILLENNIUM SEISMIC, INC.
+
+
+                                By:  /s/  Jesse R. Marion
+                                     -------------------------------------------
+                                     Jesse R. Marion, President
+
+                                       13
+
+
+
+</TEXT>
+</DOCUMENT>

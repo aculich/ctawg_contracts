@@ -1,0 +1,318 @@
+<DOCUMENT>
+<TYPE>EX-10.1
+<SEQUENCE>2
+<FILENAME>v034124_ex10-1.txt
+<TEXT>
+
+                                                                    Exhibit 10.1
+
+                                Letter Agreement
+                                     Between
+                    Innova Holdings, Inc. and CoroWare, Inc.
+
+      This letter agreement ("Letter Agreement") is made this 24th day of
+January, 2006 by and between CoroWare, Inc., ("Seller") a state of Washington
+corporation with its business address at 677 120th Avenue NE, #153, Bellevue, WA
+98005 and Innova Holdings, Inc., ("Buyer") a Delaware corporation with its
+business address at 17105 San Carlos Blvd., Suite A6151, Fort Myers Beach,
+Florida 33931 Subject only to the terms and conditions set forth herein, this
+Letter Agreement is intended to be binding upon the parties for term described
+herein.
+
+1.    Proposed Transaction: Buyer shall form a new subsidiary ("Newco") which
+      shall purchase all of the assets including without limitation all
+      hardware, software, employee relations, customer contacts in the military
+      and homeland security markets, contacts with Microsoft and all other
+      customers, all other tangible and intangible assets including without
+      limitation all developed software which includes software for JAUS for an
+      aggregate purchase price consisting of the following: (a). up to $450,000
+      in cash ("Cash Portion") of which $100,000 is guaranteed; (b). up to
+      thirty million (30,000,000) shares ("Stock Portion") and (c). stock
+      options exercisable at $.018 ("Option Portion") to be allocated to
+      employees of Seller of two million shares, each as more fully described
+      below. In addition, Buyer shall assume only the liabilities of Seller as
+      set forth on Exhibit A hereto in the amount of $98,168.33, and none other.
+      The new subsidiary will change its name to CoroWare after closing and
+      Seller will change its name to a new unrelated name.
+
+      Buyer shall assume only those liabilities of Seller listed on Exhibit A.
+      All other liabilities of Seller, known or unknown, choate or inchoate
+      shall remain Seller's responsibility. Notwithstanding the above, if Buyer
+      is required by law to pay any of Seller's liabilities which are not
+      specifically assumed by Buyer and listed on Exhibit A then the purchase
+      price shall be reduced by the amount paid by Buyer with respect to such
+      non assumed liabilities. Such amounts paid shall first reduce the cash
+      portion of the purchase price and the balance, if any, shall reduce the
+      number of shares of stock to be paid by Buyer to Seller
+
+2.    Cash Portion of Purchase Price.
+
+      (a) Guaranteed Payment. Buyer shall pay to Seller (i) on Closing in
+immediately available funds the amount of $30,000; (ii) on or prior to the date
+which is one month after closing, the amount of $20,000; and (iii) $10,000 in
+each month for five months beginning on the date which is six months after
+closing for an aggregate guaranteed amount of $100,000.
+
+
+                                       1
+<PAGE>
+
+      (b) Performance Payment. (i) If during any of the first four quarters
+after closing, Newco sales reach $300,000 or more for such quarter, Buyer shall
+pay Seller an additional $25,000 for each quarter sales reached $300,000 or more
+(maximum $100,000) and gross profit percentage, as defined in paragraph 3 below,
+is no less than 40%. Additionally, if during the first four quarters following
+closing, Newco has sales of at least One and One-half Million Dollars
+($1,500,000) and the gross profit percentage is no less than 40%, Buyer shall
+pay Newco an additional $125,000 and if Newco has sales of at least Two Million
+Dollars and the gross profit percentage is no less than 40% the total amount
+paid shall be increased by an additional $125,000 or a total of $250,000. If the
+gross profit percentage in any of these quarters is less than 40% but at least
+25%, then the Buyer shall pay Seller a portion of the indicated cash Performance
+Payments for each quarter in accordance with the following schedule:
+
+--------------------------------------------------------------------------------
+Gross Profit %                                         Payout %
+--------------------------------------------------------------------------------
+Less than 25%                                          -0-%
+--------------------------------------------------------------------------------
+25%                                                    50%
+--------------------------------------------------------------------------------
+25% to 40%                                             Prorated from 50% to 100%
+--------------------------------------------------------------------------------
+40%                                                    100%
+--------------------------------------------------------------------------------
+
+3.    Stock Portion. Buyer shall pay to Seller up to thirty million (30,000,000)
+      shares of its restricted common stock in accordance with the following
+      schedule and subject to the terms set forth below:
+
+      (a) Shares Payable in First Twelve Months Following Closing:
+
+            (i) Buyer shall pay and deliver five million shares (5,000,000) of
+restricted common stock of the Seller on Closing. Such shares shall vest equally
+over a three year period with one-third vesting on the first anniversary date
+following closing and one-third on each of the next two subsequent anniversary
+dates. Such shares shall include a legend which prohibits sale or transfer of
+shares until vested and which will be removed upon vesting.
+
+            (ii) If Newco's total sales in the twelve month period following
+closing reach 1.1 Million Dollars ($1,100,000) and the gross profit percentage
+as defined below is no less than forty percent (40%), then Buyer shall pay and
+deliver an additional Two Million Five Hundred Thousand shares of Seller's
+common stock to Seller for an aggregate of 7,500,000 shares at the end of the
+first twelve month period.
+
+            (iii) If Newco's total sales in the twelve month period following
+closing reach 1.5 Million Dollars ($1,500,000) and the gross profit percentage
+is no less than forty percent (40%), then Buyer shall pay and deliver an
+additional Two Million Five Hundred Thousand shares of Seller's common stock to
+Seller for an aggregate of 10,000,000 shares at the end of the first twelve
+month period.
+
+
+                                       2
+<PAGE>
+
+      (b) Shares Payable in Second Twelve Months Following Closing:
+
+            (i) If Newco's total sales in the second twelve month period
+following closing reach 1.2 Million Dollars ($1,200,000) and the gross profit
+percentage as defined below is no less than forty percent (40%), then Buyer
+shall pay and deliver an additional Five Million shares of Seller's common stock
+to Seller at the end of the second twelve month period.
+
+            (ii) If Newco's total sales in the second twelve month period
+following closing reach Two Million Dollars ($2,000,000) and the gross profit
+percentage as defined below is no less than forty percent (40%), then Buyer
+shall pay and deliver an additional Two Million Five Hundred Thousand shares of
+Seller's common stock to Seller at the end of the second twelve month period for
+an aggregate of 7,500,000 shares.
+
+            (iii) If Newco's total sales in the second twelve month period
+following closing reach Two and One-half Million Dollars ($2,500,000) and the
+gross profit percentage as defined below is no less than forty percent (40%),
+then Buyer shall pay and deliver an additional Two Million Five Hundred Thousand
+shares of Seller's common stock to Seller at the end of the second twelve month
+period for an aggregate of 10,000,000 shares.
+
+      (c) Shares Payable in Third Twelve Months Following Closing:
+
+            (i) If Newco's total sales in the third twelve month period
+following closing reach 2 Million Dollars ($2,000,000) and the gross profit
+percentage as defined below is no less than forty percent (40%), then Buyer
+shall pay and deliver an additional Five Million shares of Seller's common stock
+to Seller at the end of the third twelve month period.
+
+            (ii) If Newco's total sales in the third twelve month period
+following closing reach Two and One Half Million Dollars ($2,500,000) and the
+gross profit percentage is no less than forty percent (40%), then Buyer shall
+pay and deliver an additional Two Million Five Hundred Thousand shares of
+Seller's common stock to Seller at the end of the third twelve month period for
+an aggregate of 7,500,000 shares.
+
+            (iii) If Newco's total sales in the third twelve month period
+following closing reach Three and One-half Million Dollars ($3,500,000) and the
+gross profit percentage is no less than forty percent (40%), then Buyer shall
+pay and deliver an additional Two Million Five Hundred Thousand shares of
+Seller's common stock to Seller at the end of the third twelve month period for
+an aggregate of 10,000,000 shares.
+
+      (d) If the gross profit percentage in any of these twelve month periods is
+less than 40% but at least 25%, then the Buyer shall pay Seller a portion of the
+indicated Stock Portion for each twelve month period in accordance with the
+following schedule:
+
+--------------------------------------------------------------------------------
+Gross Profit %                                         Payout %
+--------------------------------------------------------------------------------
+Less than 25%                                          -0-%
+--------------------------------------------------------------------------------
+25%                                                    50%
+--------------------------------------------------------------------------------
+25% to 40%                                             Prorated from 50% to 100%
+--------------------------------------------------------------------------------
+40%                                                    100%
+--------------------------------------------------------------------------------
+
+
+                                       3
+<PAGE>
+
+For all purposes of Paragraphs 2 and 3, Gross Profit shall mean reported sales,
+as included in the audited financial statements of Buyer less all compensation
+costs and subcontractor costs for Newco and gross profit percentage shall mean
+Gross Profit divided by Total Sales.
+
+Notwithstanding the schedule shown above, in the event that Innova enters a
+binding agreement to sell all of its stock or its assets or all of the assets
+acquired from Seller prior to receipt of all of the stock portion of the
+purchase price to be paid hereunder, then the remaining portion of the stock
+purchase price shall be delivered to the Seller immediately prior to the sale.
+
+4.    Due Diligence Review: Buyer shall have the right to perform due diligence
+      with respect to such matters as Buyer in its sole discretion deems
+      advisable to permit Buyer to confirm its understanding of the assets and
+      business of Seller. Such due diligence shall include legal, financial, and
+      operational due diligence including due diligence regarding employees,
+      customers and suppliers, prospects and any other matters with respect to
+      the business and ownership of the assets of Seller. Seller will provide
+      Buyer with access to such materials as it reasonably requests to perform
+      its due diligence review in a timely manner. Buyer shall begin its review
+      of Seller as soon as reasonably practicable and provided that Buyer
+      provides all materials requested in a timely manner, Seller shall complete
+      its review on or prior to April 30, 2006. Buyer's obligation to purchase
+      the assets set forth in this Letter Agreement shall be subject to a
+      satisfactory due diligence review. If Buyer does not notify Seller on or
+      prior to April 30, 2006 that it is not satisfied with the results of the
+      due diligence review, this requirement will be deemed met. For purposes of
+      this Letter Agreement Buyer shall be deemed satisfied with the due
+      diligence review if (i) the audited financial statements are not
+      materially different from the financial information previously provided to
+      Buyer by Seller; and (ii) all other information relating to the business
+      assets does not differ materially from the information provided to Buyer
+      prior to the date hereof.
+
+5.    Financial Audit: Seller shall provide its audited financial statement for
+      the year 2005 and such other prior years as may be required by the SEC.
+
+6.    Employment of Key Employees. Newco shall enter an employment agreement
+      with each key employee listed on Exhibit B at a base salary as set forth
+      thereon. In addition, in the first twelve month period following closing,
+      key employees shall be eligible for a compensation bonus based on sales of
+      no less than $1.9 Million. If Newco achieves sales of $1.9 million, key
+      employees shall receive a bonus equal to 20% of their compensation. For
+      each $75,000 in excess of $1.9 million, each Key employee shall receive an
+      additional bonus of 1% of compensation up to a maximum of an additional
+      10% of compensation for a total of 30% of compensation. Key employees of
+      Seller shall be allocated the aggregate amount of options to purchase 2
+      million shares of Buyer's common stock subject to the terms of Buyer's
+      stock option plan. Such options shall vest equally over a three year
+      period following closing and shall be exercisable at an exercise price of
+      $.018 per share.
+
+
+                                       4
+<PAGE>
+
+7.    Confidentiality: Each of the parties hereto and each of their key
+      employees shall execute a mutual Confidentiality Agreement in the form
+      attached hereto as Exhibit B. Neither party shall without the approval of
+      the other party disclose the existence of this Letter Agreement or issue a
+      press release regarding any of the terms set forth herein without the
+      approval of the other party.
+
+8.    Term. This Letter Agreement shall terminate upon the earlier of (a) the
+      execution of a definitive agreement which includes the terms set forth
+      herein plus such other terms which are customary in an agreement for the
+      purchase of assets, and (b) the later of two weeks after (i) satisfactory
+      completion of the due diligence review and the receipt of the audited
+      financial statements described in Paragraph 5 above, or (c) the date upon
+      which notice is provided to Seller that Buyer is not satisfied with the
+      results of the due diligence review or audited financial statements.
+      Notwithstanding anything in the Agreement to the contrary, this Letter
+      Agreement shall terminate (A) on April 30, 2006 if the parties have not
+      executed a formal definitive asset purchase agreement. Acceptance of such
+      definitive agreement is subject to the parties' reasonable satisfaction,
+      provided further, that the financial terms of the transaction found in
+      Paragraphs 2. and 3. shall not be subject to re-negotiation or change; (B)
+      on May 31, 2006 if the transaction has not closed on or before that date;
+      or (C) if there is a material adverse change to the business of either
+      party to this Letter Agreement.
+
+9.    Governing Law. This Letter Agreement will be governed by the laws of the
+      State of Florida, without regard to any provision of Florida law that
+      would require or permit the application of the substantive law of any
+      other jurisdiction. The parties waive all right to a jury trial with
+      respect to any and all issues in any action or proceeding arising out of
+      or related to this Letter Agreement.
+
+10.   Entire Agreement: This Letter Agreement constitutes the entire agreement
+      between the parties, and supersedes all other prior or contemporaneous
+      communications between the parties (whether written or oral) relating to
+      the subject matter of this Letter Agreement. This Letter Agreement may be
+      modified or amended solely in a writing signed by both parties. Neither
+      party may assign or otherwise transfer this Letter Agreement or any of the
+      rights that it grants, without the prior written consent of the other
+      party.
+
+
+                                       5
+<PAGE>
+
+11.   Waiver. No failure or delay by a party in exercising any right, power or
+      remedy will operate as a waiver of that right, power or remedy, and no
+      waiver will be effective unless it is in writing and signed by the waiving
+      party. Any provision of this Letter Agreement that imposes or contemplates
+      continuing obligations on a party will survive the expiration or
+      termination of this Letter Agreement.
+
+12.   Acceptance. If the terms of this Letter Agreement are acceptable, please
+      indicate your acceptance by counter-signing where indicated below and
+      returning the signed copy to Eugene Gartlan at 17105 San Carlos Blvd.,
+      Suite A6151, Fort Myers Beach, Florida 33931.
+
+                                               Sincerely,
+
+                                               Innova Holdings, Inc.
+
+
+                                               /s/ Walter Weisel
+                                               ---------------------------------
+                                               By: Walter Weisel
+                                                   Chairman and CEO
+
+Agreed and Accepted:
+January 24, 2006
+
+CoroWare, Inc.
+
+
+By: /s/ Lloyd Spencer
+    ---------------------------------
+    Its: President and CEO
+
+
+                                       6
+</TEXT>
+</DOCUMENT>

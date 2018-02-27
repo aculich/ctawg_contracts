@@ -1,0 +1,2104 @@
+<DOCUMENT>
+<TYPE>EX-2.1
+<SEQUENCE>2
+<FILENAME>ex2_1.txt
+<DESCRIPTION>EXHIBIT 2.1
+<TEXT>
+                          AGREEMENT AND PLAN OF MERGER
+
+                           DATED AS OF MARCH 15, 2005
+
+                                 BY AND BETWEEN
+
+                       FIRST HORIZON NATIONAL CORPORATION
+
+                                       AND
+
+                       WEST METRO FINANCIAL SERVICES, INC.
+
+
+<PAGE>
+                                TABLE OF CONTENTS
+
+                                                                           Page
+                                                                           ----
+
+ARTICLE I  THE MERGER . . . . . . . . . . . . . . . . . . . . . . . . . . .   1
+
+ARTICLE II  ACTIONS PENDING MERGER. . . . . . . . . . . . . . . . . . . . .   7
+
+ARTICLE III  REPRESENTATIONS AND WARRANTIES OF SELLER . . . . . . . . . . .   8
+
+ARTICLE IV  REPRESENTATIONS AND WARRANTIES OF FHNC. . . . . . . . . . . . .  15
+
+ARTICLE V  COVENANTS. . . . . . . . . . . . . . . . . . . . . . . . . . . .  18
+
+ARTICLE VI  CONDITIONS TO CONSUMMATION. . . . . . . . . . . . . . . . . . .  23
+
+ARTICLE VII  TERMINATION. . . . . . . . . . . . . . . . . . . . . . . . . .  26
+
+ARTICLE VIII  OTHER MATTERS . . . . . . . . . . . . . . . . . . . . . . . .  27
+
+EXHIBITS:
+Exhibit A:  Form of Bank Merger Agreement
+Exhibit B:  Form of Option and Warrant Letter
+Exhibit C:  Form of Affiliate Letter
+Exhibit D:  Form of Employment Agreement
+Exhibit E:  Form of Consulting Agreement
+Exhibit F:  Form of Non-Compete Agreement
+
+
+                                        i
+<PAGE>
+                          AGREEMENT AND PLAN OF MERGER
+                          ----------------------------
+
+     AGREEMENT  AND  PLAN  OF MERGER, dated as of March 15, 2005, by and between
+FIRST  HORIZON  NATIONAL CORPORATION ("FHNC") and WEST METRO FINANCIAL SERVICES,
+INC.  ("Seller").  Capitalized terms used in this Agreement are defined below in
+Article  VIII.
+
+                                    RECITALS
+
+     (A)     SELLER.  Seller  is  a  bank  holding  company registered under the
+             -------
+BHCA,  and is the beneficial owner and holder of record of all of the issued and
+outstanding  shares  of capital stock of Seller Bank.  The board of directors of
+Seller  deems  it  in  the  best  interest  of Seller, Seller Bank, and Seller's
+shareholders  to merge Seller with and into FHNC, with FHNC surviving the merger
+on  the  terms  and  conditions  set  forth  in  this  Agreement (the "Merger").
+
+     (B)     FHNC.  FHNC  is  a  financial  holding company registered under the
+             ----
+BHCA,  and  the  board  of  directors of FHNC deems the Merger to be in the best
+interest  of  FHNC  and  the  shareholders  of  FHNC.
+
+     (C)     INTENTION  OF  THE  PARTIES.  It is the intention of the parties to
+             ----------------------------
+this  Agreement  that  for  federal  income tax purposes the Merger qualify as a
+"reorganization"  within  the  meaning  of  Section  368  of  the  Code.
+
+     In  consideration  of  their mutual promises and obligations hereunder, and
+intending  to  be  legally  bound  hereby,  FHNC  and Seller adopt and make this
+Agreement  and  prescribe  the  terms  and  conditions of this Agreement and the
+manner  and  basis  of  carrying  it  into  effect,  which  shall be as follows:
+
+                                    ARTICLE I
+
+                                   THE MERGER
+
+     (A)     THE MERGER.  On the Effective Date, Seller will merge with and into
+             ----------
+FHNC,  with FHNC being the Surviving Corporation, pursuant to the provisions of,
+and with the effects provided in, the Tennessee Business Corporation Act and the
+Georgia  Business  Corporation  Code.  At  the  Effective  Time, the charter and
+bylaws of FHNC (as the Surviving Corporation) shall be the charter and bylaws of
+FHNC  in effect immediately prior to the Effective Time.  At the Effective Time,
+the  directors  and  officers of FHNC shall be the directors and officers of the
+Surviving  Corporation.
+
+     (B)     EFFECTIVE DATE AND EFFECTIVE TIME.  On the last Business Day of the
+             ---------------------------------
+month  during  which  the  expiration  of  all  applicable  waiting  periods  in
+connection  with  governmental  approvals  occurs  and  all  conditions  to  the
+consummation of this Agreement are satisfied or waived or, at FHNC's option, the
+first  Business  Day  of  the next succeeding month, or on such earlier or later
+date  as  may  be agreed by the parties, articles of merger shall be executed in
+accordance with Applicable Law and shall be filed as required by Applicable Law,
+and  the Merger provided for herein shall become effective upon the date of such
+filing  (the  "Effective
+
+
+<PAGE>
+Date").  The  "Effective  Time" of the Merger shall be 4:01 p.m. in the State of
+Tennessee on the Effective Date (or such other time on the Effective Date as may
+be  agreed  by  the  parties  and  set  forth  in  the  articles  of  merger).
+
+     (C)     CONVERSION  OF SHARES.  By  virtue of the Merger, automatically and
+             ---------------------
+without any action on the part of the holder thereof, at the Effective Time, all
+of  the  Seller  Common  Stock  issued  and outstanding immediately prior to the
+Effective Time (other than shares held directly or indirectly by FHNC, except in
+a  fiduciary  capacity  or  in satisfaction of a debt previously contracted, and
+other  than  shares  held  in  the  treasury  of  Seller,  which shares shall be
+canceled,  retired  and  cease  to exist by virtue of the Merger and without any
+payment  made  in  respect thereof) shall be converted into the right to receive
+cash  and  shares  of  FHNC  Common Stock, as described below (collectively, the
+"Merger Consideration"):
+
+          (1)     Each  Seller Shareholder may elect to take all or a portion of
+     the  consideration  to  be  received  in the Merger in cash; subject to the
+     aggregate  limitation  set  forth  in  Article  I(C)(3)  (the  "Cash
+     Consideration"). If a Seller Shareholder elects to receive in cash all or a
+     portion  of the Merger Consideration, the amount of cash to be delivered in
+     exchange  for  each  share  of  Seller  Common Stock shall be determined by
+     multiplying  the number of shares of Seller Common Stock held by the Seller
+     Shareholder for which it elects to receive cash by the Price Per Share. The
+     Price  Per  Share  is  $22.44.
+
+          (2)     Each  Seller Shareholder may elect to take all or a portion of
+     the Merger Consideration to be received in the Merger in FHNC Common Stock,
+     subject  to  the  aggregate  limitation  set  forth in Article I(C)(3) (the
+     "Stock  Consideration").  If a Seller Shareholder elects to receive in FHNC
+     Common  Stock  all  or a portion of the Merger Consideration, the number of
+     shares of FHNC Common Stock to be exchanged for each share of Seller Common
+     Stock  shall  be  determined  by multiplying the number of shares of Seller
+     Common  Stock held by the Seller Shareholder for which it elects to receive
+     FHNC  Common  Stock  by  the  Conversion Price. The Conversion Price is the
+     quotient  of  (i) the Price Per Share divided by (ii) the FHNC Common Stock
+     Average  Price.  The  FHNC Common Stock Average Price shall be equal to the
+     average  of  the  closing  prices  of the FHNC Common Stock on the NYSE, as
+     reported  by  the  Wall  Street  Journal  for the twenty (20) Business Days
+     immediately  prior  to  the fifth Business Day preceding the Effective Date
+     (the  "Calculation  Period").  Solely  for  purposes  of this definition, a
+     Business  Day  shall  be  a  day  on  which  the  NYSE is open for trading.
+
+          (3)     The  aggregate  Cash  Consideration  to  be  paid  pursuant to
+     Article  I(C)(1)  above  shall  not  be  less  than  $11,000,000 (the "Cash
+     Threshold")  or  more  than  $13,000,000  (the "Cash Cap"). For purposes of
+     determining  the Cash Threshold and Cash Cap, Dissenting Shareholders shall
+     be  deemed  to  have  elected  to  receive  Cash  Consideration unless such
+     Dissenting Shareholders shall effectively withdraw or lose (through failure
+     to perfect or otherwise) their right to payment as a dissenting shareholder
+     under  Applicable  Law  at or prior to the Effective Time. In addition, for
+     purposes of calculating the Cash Threshold and the Cash Cap, the cash to be
+     received  by holders of Options and Warrants pursuant to Article I(F) shall
+     be  included  in  the  calculation.
+
+
+                                        2
+<PAGE>
+          (4)     Each  share of FHNC Common Stock issued and outstanding at the
+     Effective  Time  shall  remain outstanding and unchanged as a result of the
+     Merger  and,  together with the shares of FHNC Common Stock issuable in the
+     Merger,  shall  as  of  the Effective Time constitute all of the issued and
+     outstanding  shares  of  the  common  capital  stock  of  FHNC.
+
+          (5)     Subsequent  to  the  date  of  this Agreement but prior to the
+     Effective  Date,  if  the  outstanding shares of FHNC Common Stock shall be
+     increased,  decreased,  changed into or exchanged for a different number or
+     class  of shares by reason of any reclassification, recapitalization, stock
+     split or reverse stock split, split-up or if a stock dividend thereon shall
+     be  declared  with  a  record  date  within  such period, or by reason of a
+     combination  or  exchange  of  shares  in  a  transaction  in which FHNC is
+     effectively  acquired, or other like changes in FHNC's capitalization shall
+     have occurred, the Merger Consideration shall be adjusted accordingly. This
+     subsection  (5)  does not apply to transactions in which FHNC or one of its
+     subsidiaries  is  effectively  the  acquiring  entity.
+
+          (6)     No  fractional shares of FHNC Common Stock and no certificates
+     or  scrip  or  other  evidence  of  ownership will be issued in the Merger.
+     Instead,  FHNC  shall pay to each Seller Shareholder who would otherwise be
+     entitled to a fractional share, an amount in cash determined by multiplying
+     such  holder's  fractional interest by the FHNC Common Stock Average Price.
+
+     (D)     ELECTION  OF  MERGER  CONSIDERATION.
+             -----------------------------------
+
+          (1)     Each  Seller  Shareholder  may  elect  whether to receive Cash
+     Consideration,  Stock Consideration, or a combination of Cash Consideration
+     and  Stock  Consideration.  Such  elections  shall  be  made  on  a Form of
+     Election.  Holders of record of shares of Seller Common Stock who hold such
+     shares  as  nominees,  trustees  or  in  other representative capacities (a
+     "Representative") may submit multiple Forms of Election, provided that such
+     Representative  certifies  that  each  such Form of Election covers all the
+     shares  of  Seller  Common  Stock  held  by  each such Representative for a
+     particular  beneficial  owner.
+
+          (2)     FHNC and Seller shall mail the Form of Election to all Persons
+     who  are holders of Seller Common Stock on the record date for the Seller's
+     meeting of its shareholders to vote upon this Agreement. A Form of Election
+     must  be  received  by  the Exchange Agent in the manner described below no
+     later  than  by  the  close  of business on the Business Day which is three
+     Business  Days  immediately  prior  to  the  Effective  Time (the "Election
+     Deadline")  in  order  to  be effective. All elections will be irrevocable.
+
+          (3)     Elections  shall  be made by holders of Seller Common Stock by
+     mailing,  faxing or otherwise delivering to the Exchange Agent, in a manner
+     reasonably  acceptable to FHNC, a Form of Election. To be effective, a Form
+     of  Election  must  be  properly  completed,  signed  and  submitted to the
+     Exchange  Agent.  FHNC  will  have  the reasonable discretion, which it may
+     delegate  in  whole  or in part to the Exchange Agent, to determine whether
+     Forms of Election have been properly completed, signed and submitted and to
+     disregard immaterial defects in Forms of Election. The decision of FHNC (or
+     the  Exchange  Agent)  in  such  matters  shall  be conclusive and binding.
+     Neither  FHNC  nor  the
+
+
+                                        3
+<PAGE>
+     Exchange  Agent  will  be  under any obligation to notify any Person of any
+     defect  in  a  Form  of  Election.
+
+          (4)     A  holder of Seller Common Stock who does not submit a Form of
+     Election  which  is  received  by  the Exchange Agent prior to the Election
+     Deadline  shall  be  deemed to have made an election for Cash Consideration
+     for  37.5% of the shares of Seller Common Stock and Stock Consideration for
+     62.5%  of  the shares of Seller Common Stock held by the Seller Shareholder
+     (a  "Combination  Election"), unless such Combination Election would result
+     in  violating  either Cash Cap or the Cash Threshold. In either such event,
+     those  shareholders  who either do not timely or correctly submit a Form of
+     Election,  shall be deemed to have made an election for that combination of
+     Stock Consideration and Cash Consideration which is not violative of either
+     the  Cash Cap or the Cash Threshold, after taking into effect the elections
+     of  those  shareholders who have timely and correctly submitted their Forms
+     of  Election.  If  FHNC  or  the  Exchange  Agent  shall determine that any
+     purported  election was not properly made, such purported election shall be
+     deemed  to  be  of  no  force and effect and the holder of shares of Seller
+     Common  Stock  making  such purported election shall for purposes hereof be
+     deemed  to  have  made  a  Combination  Election.
+
+          (5)     All  shares  of  Seller  Common  Stock  in  which  a  Seller
+     Shareholder  has elected Cash Consideration are referred to herein as "Cash
+     Election  Shares."  All  shares  of  Seller  Common Stock in which a Seller
+     Shareholder  has  elected  Stock  Consideration  are  referred to herein as
+     "Stock Election Shares." If, after the results of the Forms of Election are
+     calculated,  the  number  of  shares of Seller Common Stock to be converted
+     into  Cash  Consideration  exceeds  the Cash Cap, the Exchange Agent shall,
+     after  the Election Deadline but prior to the Effective Time, determine the
+     number of Cash Election Shares which must be redesignated as Stock Election
+     Shares  in  order  to  reduce  the  number  of  such  shares  electing Cash
+     Consideration  to  the  Cash Cap. All holders who have Cash Election Shares
+     shall,  on a pro rata basis, have such number of their Cash Election Shares
+     redesignated as Stock Election Shares so that the Cash Cap is not exceeded.
+     If,  after  the results of the Forms of Election are calculated, the number
+     of shares of Seller Common Stock to be converted into Cash Consideration is
+     below  the  Cash Threshold, the Exchange Agent, after the Election Deadline
+     but  prior  to  the  Effective  Time,  shall  determine the number of Stock
+     Election Shares which must be redesignated as Cash Election Shares in order
+     to  increase the amount of such cash to the Cash Threshold. All holders who
+     have  Stock Election Shares shall, on a pro rata basis, have such number of
+     their  Stock  Election  Shares redesignated as Cash Election Shares so that
+     the  Cash  Threshold  is  achieved.  Notwithstanding  the  foregoing,  no
+     redesignation  shall  be  effected for a holder who has made an election to
+     receive  Cash  Consideration  but, as a result of such redesignation, would
+     receive  fewer  than  10 shares of FHNC Common Stock in exchange for all of
+     such  holder's  shares  of Seller Common Stock unless such redesignation is
+     necessary  for  the Merger to qualify as a reorganization under Section 368
+     of  the  Code.  In  this  event,  the Cash Election Shares of the remaining
+     holders  of  shares  of  Seller Common Stock shall be redesignated on a pro
+     rata  basis  to  reduce  the  aggregate Cash Consideration to the Cash Cap.
+     Holders who make Combination Elections will be subject to the redesignation
+     procedures  set  forth  in  Article  I(D)(4)  hereinabove.  Dissenting
+     Stockholders  who  are  deemed  to  have  made  an  election  for  Cash
+
+
+                                        4
+<PAGE>
+     Consideration shall not be subject to the redesignation procedure described
+     herein. The Exchange Agent shall make all computations contemplated by this
+     Article  and  all  such computations shall be conclusive and binding on the
+     holders  of  Seller  Common  Stock.
+
+     (E)     DISSENTING  SHARES.  No outstanding share of Seller Common Stock as
+             -------------------
+to  which  a  Dissenting  Shareholder  has  exercised  dissenters  rights  under
+Applicable  Law  shall  be  converted  into  or represent a right to receive the
+Merger  Consideration,  and the Dissenting Shareholder shall be entitled only to
+such  rights  as  are  granted by Applicable Law.  Seller shall give FHNC prompt
+notice  upon  receipt  by  Seller of any such written demands for payment of the
+fair  value  of  the  shares  of  Seller Common Stock and of withdrawals of such
+demands  and  any  other  instruments provided pursuant to Applicable Law from a
+Dissenting Shareholder.  FHNC shall direct all negotiations and proceedings with
+respect  to  such  Dissenting  Shareholder.  Seller shall not, without the prior
+written  consent  of FHNC, make any payment with respect to, or settle, offer to
+settle  or otherwise negotiate, any such demands.  If any Dissenting Shareholder
+shall  effectively  withdraw or lose his right to such payment prior to or after
+the  Effective  Time,  such  holder's  shares  of  Seller  Common Stock shall be
+automatically  converted  into  the right to receive the Merger Consideration in
+accordance with this Agreement, without any interest, as if such holder had made
+a  Combination  Election.
+
+     (F)     STOCK  OPTIONS AND WARRANTS.  Seller has issued options to purchase
+             ----------------------------
+113,000  shares  of  Seller  Common  Stock  ("Options") and warrants to purchase
+300,000  shares  of  Seller  Common  Stock ("Warrants").  Prior to the Effective
+Time,  Seller  shall  cause  each  holder of an Option or Warrant to execute and
+deliver  an  agreement  in substantially the form of EXHIBIT B pursuant to which
+such holder agrees to sell to FHNC, effective at the Effective Time, such Option
+for  cash or, in the case of a holder of a Warrant, for either cash or shares of
+FHNC  Common  Stock.  The cash payment shall be calculated as an amount equal to
+the  number of shares of Seller Common Stock specified in such Warrant or Option
+times  the  Price  Per Share less the aggregate exercise price for all shares of
+Seller  Common  Stock  specified  in such Warrant or Option, subject to required
+withholding taxes, if any.  If a holder of a Warrant elects to receive shares of
+FHNC  Common  Stock  in  lieu of cash, the number of shares of FHNC Common Stock
+shall  be  calculated  as  the number of shares equal to the number of shares of
+Seller  Common  Stock  specified in such Warrant times the Conversion Price less
+the  aggregate exercise price for all shares of Seller Common Stock specified in
+such  Warrant,  subject  to  required  withholding  taxes,  if  any.
+
+     (G)     PROCEDURES.  Certificates  which  represent shares of Seller Common
+             ----------
+Stock that are outstanding at the Effective Time (each, a "Certificate") and are
+converted  into  the  right  to receive the Merger Consideration pursuant to the
+Merger  shall,  after the Effective Time, be exchangeable by the holders thereof
+in  the  manner  provided  in  the  transmittal  materials  described  below.
+
+          (1)     As promptly as practicable after the Effective Date, FHNC or a
+     third  party  employed to act as exchange agent (the "Exchange Agent"), who
+     if  a  third  party shall be reasonably acceptable to Seller, shall send to
+     each  holder  of record of shares of Seller Common Stock outstanding at the
+     Effective Time transmittal materials for use in exchanging the Certificates
+     for  the  Merger  Consideration.  Upon surrender of a Certificate, together
+     with  a  duly  executed  letter  of  transmittal  and  any other reasonably
+
+
+                                        5
+<PAGE>
+     required  documents,  the  holder  of such Certificate shall be entitled to
+     receive, in exchange for the Certificate, the Merger Consideration to which
+     such  holder  is  entitled, and such Certificate shall be cancelled. If any
+     such  delivery is to be made in whole or in part to a Person other than the
+     Person in whose name a surrendered Certificate is registered, it shall be a
+     condition  to  such  delivery  or exchange that the Certificate surrendered
+     shall  be  properly  endorsed  or  shall  be  otherwise  in proper form for
+     transfer  and  that  the  Person requesting such delivery or exchange shall
+     have  paid any transfer and other taxes required by reason of such delivery
+     or  exchange  in  a  name  other  than that of the registered holder of the
+     Certificate  surrendered  or  shall  have  established  to  the  reasonable
+     satisfaction  of FHNC or its agent that such tax either has been paid or is
+     not  payable.
+
+          (2)     No  holder  of  Seller  Common  Stock  who  elects  Stock
+     Consideration  shall be entitled to exercise any rights as a shareholder of
+     FHNC  until  such holder shall have properly surrendered its Certificate(s)
+     (together  with  all required documents) as set forth above. No dividend or
+     other  distribution  payable  after  the Effective Time with respect to the
+     FHNC  Common  Stock  shall  be  paid  to  the  holder  of any unsurrendered
+     Certificate until the holder properly surrenders such Certificate (together
+     with  all  required documents), at which time such holder shall receive all
+     dividends  and  distributions,  without  interest, previously withheld from
+     such  holder  pursuant  to  this Agreement. After the Effective Time, there
+     shall  be  no  transfers on the stock transfer books of Seller of shares of
+     Seller Common Stock which were issued and outstanding at the Effective Time
+     and  converted  pursuant  to the provisions of the Merger into the right to
+     receive the Merger Consideration. If after the Effective Time, Certificates
+     are presented for transfer to Seller, they shall be cancelled and exchanged
+     for the Merger Consideration in accordance with the procedures set forth in
+     this  Article.
+
+          (3)     After the Effective Time, holders of Seller Common Stock shall
+     cease  to  be,  and  shall have no rights as, shareholders of Seller, other
+     than  to  receive  the  Merger  Consideration.
+
+          (4)     Notwithstanding the foregoing, neither FHNC nor Seller nor any
+     other  Person  shall  be  liable  to  any former holder of shares of Seller
+     Common  Stock  for  any  amount  properly  delivered  to  a public official
+     pursuant  to  applicable  abandoned property, escheat or similar Applicable
+     Laws.
+
+          (5)     In  the  event any Certificate shall have been lost, stolen or
+     destroyed,  upon  receipt of appropriate evidence as to such loss, theft or
+     destruction and to the ownership of such Certificate by the Person claiming
+     such Certificate to be lost, stolen or destroyed and the receipt by FHNC of
+     appropriate  and customary indemnification including, when appropriate, the
+     posting  of  bond,  FHNC  will  issue  in exchange for such lost, stolen or
+     destroyed  certificate  the  Merger  Consideration,  deliverable in respect
+     thereof  as  determined  in  accordance  with  this  Article  I.
+
+     (H)     BANK  MERGER.  FHNC  and  Seller will take all action necessary and
+             ------------
+appropriate  to cause their respective subsidiaries FTB and Seller Bank to enter
+into a merger agreement and to merge (the "Bank Merger") simultaneously with or,
+if  such  Bank  Merger  cannot  be  effected
+
+
+                                        6
+<PAGE>
+simultaneously  with, immediately after the consummation of the Merger, pursuant
+to  the  provisions  of  Applicable Law.  A form of the Bank Merger Agreement is
+attached  hereto  as  EXHIBIT  A.  At the effective time of the Bank Merger (the
+"Effective  Time"),  the  articles of association and bylaws of FTB shall be the
+articles  of  association  and bylaws immediately prior to the Effective Time of
+the  Bank  Merger,  until  duly  amended in accordance with their terms.  At the
+Effective  Time  of  the Bank Merger, the directors and officers of FTB shall be
+the directors and officers of FTB immediately prior to the Effective Time of the
+Bank  Merger.
+
+     (I)     RIGHT  TO REVISE THE STRUCTURE OF THE TRANSACTION.  FHNC shall have
+             -------------------------------------------------
+the right, in its sole discretion to revise the structure of the Merger in order
+to  achieve  tax benefits or for any other reason which FHNC may deem advisable;
+provided,  however,  that FHNC shall not have the right, without the approval of
+the  board  of directors of Seller, to make any revision to the structure of the
+Merger which (i) changes the amount, form or nature of the Merger Consideration,
+including  specifically  the  registered nature of any Stock Consideration; (ii)
+changes  the  intended  tax-deferred  effect  of the Merger; or (iii) materially
+impedes  or  delays  consummation  of  the  transactions  contemplated  by  this
+Agreement.  FHNC may exercise this right of revision by giving written notice to
+Seller  in  the  manner  provided  in  this  Agreement.
+
+                                   ARTICLE II
+
+                             ACTIONS PENDING MERGER
+
+     Prior to the earlier of the Effective Time or termination of this Agreement
+     by  either  party,
+
+     (A)     Without  the  prior  written  consent  of  FHNC,  Seller  will not:
+
+          (1)     make,  declare  or  pay any dividend on Seller Common Stock or
+     declare  or  make  any  distribution on, or directly or indirectly combine,
+     redeem,  reclassify,  purchase  or  otherwise  acquire,  any  shares of its
+     capital  stock  (other than in a fiduciary capacity or in respect of a debt
+     previously  contracted in good faith) or authorize the creation or issuance
+     of  or  issue  or  sell any additional shares of Seller's capital stock, or
+     grant  any  Rights to subscribe for or acquire shares of its capital stock;
+
+          (2)     merge  or consolidate or permit any Seller Subsidiary to merge
+     or  consolidate with any other entity or engage in any similar transaction.
+
+     (B)     Without  the  prior written consent of FHNC, which consent will not
+be  unreasonably withheld, delayed, or conditioned, Seller will not and will not
+permit  any  Seller  Subsidiary  to:
+
+          (1)     pay any bonus to, or increase the rate of compensation of, any
+     of  its  directors, officers or employees, except in the ordinary course of
+     business  consistent  with  past  practice,  or  enter  into any employment
+     contracts  with  any  Persons;
+
+          (2)     enter  into or modify or permit any Seller Subsidiary to enter
+     into  or modify (except as may be required by Applicable Law and except for
+     the  renewal  of any existing plan or arrangement in the ordinary course of
+     business  consistent  with  past
+
+
+                                        7
+<PAGE>
+     practice)  any  pension, retirement, stock option, stock purchase, savings,
+     profit  sharing,  deferred compensation, consulting, bonus, group insurance
+     or  other  employee  benefit,  incentive  or  welfare  contract,  plan  or
+     arrangement,  or  any trust agreement related thereto, in respect of any of
+     its  directors,  officers  or  other  employees,  except  as  expressly
+     contemplated  by  this  Agreement;
+
+          (3)     substantially modify the manner in which Seller and the Seller
+     Subsidiaries have heretofore conducted their business, taken as a whole, or
+     amend  their articles of incorporation, articles of association, or bylaws;
+
+          (4)     except  for transactions in the ordinary course of its banking
+     business,  sell,  dispose of or discontinue or permit any Seller Subsidiary
+     to  sell,  dispose  or  discontinue  any of its business, assets (including
+     investment  securities)  or  property;
+
+          (5)     except for the acquisition of loans, investment securities and
+     cash  equivalent  assets  in  the  ordinary course of its banking business,
+     acquire (other than through foreclosure or satisfaction in whole or in part
+     of  indebtedness  owed  Seller)  any assets or business that is material to
+     such  party;
+
+          (6)     except  in  the ordinary course of its banking business, enter
+     into  off-balance  sheet  transactions;
+
+          (7)     take  any  other action not in the ordinary course of business
+     of  it  and  its  subsidiaries,  taken  as  a  whole;  or
+
+          (8)     directly  or  indirectly  agree  to  take any of the foregoing
+     actions.
+
+     In  the  event  Seller requests FHNC's consent to any such action, and FHNC
+has  not  replied  to  Seller by refusing such consent, together with reasonable
+supporting  information  for  such  refusal, within five business days of FHNC's
+receipt of its request for approval, such action shall be deemed consented to by
+FHNC.
+
+                                   ARTICLE III
+
+                    REPRESENTATIONS AND WARRANTIES OF SELLER
+
+     Except as disclosed in the Seller Disclosure Letter, Seller represents and
+warrants to FHNC the following:
+
+     (A)     ORGANIZATION.  Seller  is  a  corporation  duly  organized, validly
+             -------------
+existing,  and  in  good  standing under the laws of the State of Georgia.  Each
+Seller Subsidiary is duly organized, validly existing and in good standing under
+the  laws  of  the  jurisdiction  of its incorporation.  The deposit accounts of
+Seller  Bank  are  insured  by  the  FDIC through the Bank Insurance Fund to the
+fullest  extent  permitted  by  Applicable Law, and all premiums and assessments
+required  to  be paid in connection with such insurance have been paid when due.
+
+
+                                        8
+<PAGE>
+     (B)     AUTHORITY AND QUALIFICATION.  Seller and each Seller Subsidiary has
+             ---------------------------
+the  power and authority, and is duly qualified in all jurisdictions (except for
+such qualifications the absence of which either individually or in the aggregate
+will  not  have a Material Adverse Effect) where such qualification is required,
+to  carry  on  its  business  as  it  is  now being conducted and to own all its
+material  properties  and  assets,  and  it  has  all federal, state, local, and
+foreign  governmental  authorizations  necessary  for  it  to  own  or lease its
+properties and assets and to carry on its business as it is now being conducted,
+except  for  such  powers  and  authorizations  the  absence  of  which,  either
+individually  or  in  the  aggregate,  would not have a Material Adverse Effect.
+
+     (C)     CAPITALIZATION.  As  of  the  date  of  this  Agreement, Seller has
+             ---------------
+2,000,000  authorized shares of preferred stock, no par value, with no shares of
+preferred  stock  outstanding, 10,000,000 authorized shares of common stock, par
+value  $1.00 per share, of which 1,200,000 shares are issued and outstanding and
+113,000  shares  are  reserved  for  issuance  pursuant  to  Seller's 2001 Stock
+Incentive  Plan,  as  amended,  and  300,000  shares  are  reserved for issuance
+pursuant  to  organizer  warrants  (no  other  class  of  capital  stock  being
+authorized).  Other  than  the  shares of Seller Common Stock reserved under the
+2001 Stock Incentive Plan, as amended, and the organizer warrants, Seller has no
+shares  of its capital stock reserved for issuance, and there are no outstanding
+Rights  to subscribe for or acquire from Seller any shares of its capital stock.
+Seller and each Seller Subsidiary's outstanding shares of capital stock are duly
+authorized,  validly  issued and outstanding, fully paid and non-assessable, and
+subject  to  no  preemptive  rights.
+
+     (D)     OWNERSHIP  OF  SELLER  SUBSIDIARIES.  Seller  has  identified  each
+             ------------------------------------
+Seller  Subsidiary  in  the  Seller  Disclosure  Letter.  Seller owns all of the
+issued  and  outstanding  shares  of  common  stock  of  each  of  the  Seller
+Subsidiaries.  The  shares  of capital stock of each Seller Subsidiary are owned
+by  Seller free and clear of all liens, claims, encumbrances and restrictions on
+transfer  (other  than  those imposed by Applicable Law) and there are no rights
+with  respect  to  such  capital  stock.
+
+     (E)     CORPORATE BOOKS AND RECORDS.  The respective minute books of Seller
+             ----------------------------
+and  each  Seller  Subsidiary  accurately  record, in all material respects, all
+material  corporate  actions  of  their  respective  shareholders  and boards of
+directors  through  the  date  of  this  Agreement.
+
+     (F)     VALIDITY OF AGREEMENT.  This Agreement has been validly approved by
+             ----------------------
+the  board of directors of Seller.  Subject to approval of this Agreement by the
+Seller  Shareholders  and  subject  to  receipt of Required Regulatory Authority
+Approvals, this Agreement is a valid and binding agreement of Seller enforceable
+against  it  in  accordance  with  its terms, subject to bankruptcy, insolvency,
+fraudulent  transfer,  reorganization,  moratorium  and  similar laws of general
+applicability  relating  to or affecting creditors' rights and to general equity
+principles.
+
+     (G)     NO BREACHES OR VIOLATIONS.  The execution, delivery and performance
+             --------------------------
+of  this  Agreement by Seller does not, and the consummation of the transactions
+contemplated  hereby by it will not, constitute (l) a breach or violation of, or
+a  default  under,  any  Applicable  Law,  which  breach,  violation or default,
+individually or collectively, will have a Material Adverse Effect, or enable any
+Person  to enjoin any of the transactions contemplated hereby or (2) a breach or
+violation  of,  or a default under, the certificate or articles of incorporation
+(or  articles  of association) or bylaws of Seller or any Seller Subsidiary; and
+the  consummation  of  the
+
+
+                                        9
+<PAGE>
+transactions  contemplated hereby will not require any consent or approval under
+any  such law, rule, regulation, judgment, decree, order, governmental permit or
+license, other than the Required Regulatory Authority Approvals and the approval
+of the Seller Shareholders and other than any consents and approvals the absence
+of  which  will  not  have  a  Material  Adverse  Effect.
+
+     (H)     REPORTS.  As  of  their  respective  dates, neither Seller's Annual
+             --------
+Report  on  Form 10-K for the fiscal year ended December 31, 2003, nor any other
+document  filed  subsequent to December 31, 2003 under the Exchange Act with the
+SEC  nor,  Seller's  interim unaudited monthly consolidated financial report for
+the period ended September 30, 2004, nor any call reports filed with the FDIC or
+financial  reports  filed  with  the  Federal  Reserve (collectively the "Seller
+Reports")  contained any untrue statement of a material fact or omitted to state
+a  material  fact  required  to  be  stated  therein  or  necessary  to make the
+statements  made  therein,  in  light of the circumstances under which they were
+made,  not  misleading.  Each  of  the  balance  sheets  in  or  incorporated by
+reference  into  the  Seller Reports (including the related notes and schedules)
+fairly  presents  the  financial  position of the entity or entities to which it
+relates  as  of  its  date and each of the statements of operations and retained
+earnings  and  of  cash  flow  and  changes  in financial position or equivalent
+statements  in  or  incorporated by reference into its Seller Reports (including
+any  related  notes  and  schedules)  fairly presents the results of operations,
+retained  earnings and cash flows and changes in financial position, as the case
+may  be, of the entity or entities to which it relates for the periods set forth
+therein  (subject,  in  the  case of unaudited interim statements or reports, to
+normal year-end audit adjustments that are not material in amount or effect), in
+each  case in accordance with GAAP (or, with respect to the Seller Reports filed
+with  the  applicable  Regulatory  Authority,  in  accordance  with  regulatory
+accounting principles), consistently applied during the periods involved, except
+as  may  be  noted  therein.
+
+     (I)     INTERNAL  CONTROLS.  Seller  and  each  Seller  Subsidiary  has
+             -------------------
+maintained a system of internal accounting and disclosure controls sufficient to
+provide  reasonable  assurances that (i) transactions are executed in accordance
+with  management's  general  or  specific  authorizations, (ii) transactions are
+recorded  as necessary to permit preparation of the Seller Reports in conformity
+with  GAAP  (or,  with  respect  to the Seller Reports filed with the applicable
+Regulatory  Authority,  in accordance with regulatory accounting principles) and
+to  maintain accountability for assets, (iii) access to assets is permitted only
+in  accordance with management's general or specific authorization, and (iv) the
+recorded  accountability  for  assets  is  compared  with the existing assets at
+reasonable  intervals,  and  appropriate  action  is  taken  with respect to any
+differences.
+
+     (J)     ABSENCE  OF  UNDISCLOSED LIABILITIES.  Seller has no obligations or
+             -------------------------------------
+liabilities  (whether  absolute, accrued, contingent or otherwise) which are not
+disclosed  in  the  Seller Reports, the omission of which would singly or in the
+aggregate  have  a  Material  Adverse  Effect.  Since  the date of Seller's most
+recent Seller Reports filed with the SEC, it has not incurred any liabilities or
+obligations  (whether  absolute, accrued, contingent or otherwise) of any nature
+except liabilities or obligations incurred in the ordinary course of business or
+which  would  not  singly  or  in  the aggregate have a Material Adverse Effect.
+
+     (K)     NO  MATERIAL  ADVERSE  CHANGE.  There has been no adverse change in
+             ------------------------------
+the  financial  condition  of  Seller and Seller Subsidiaries, taken as a whole,
+since  December  31,  2004  which  has  had  a  Material  Adverse  Effect.
+
+
+                                       10
+<PAGE>
+     (L)     INSURANCE.  True  and  correct  copies  of  all  insurance policies
+             ----------
+presently  in  force  covering  the  Seller,  any  Seller  Subsidiary,  or their
+officers,  directors,  employee, or properties have previously been disclosed to
+FHNC  and are listed in the Seller Disclosure Letter (the "Insurance Policies").
+The  Insurance  Policies  (i) provide adequate insurance coverage for the assets
+and  the  operations  of  Seller  and Seller Subsidiaries for the risks normally
+insured  against  by  businesses  conducting comparable lines of business as the
+Seller;  (ii) are sufficient for compliance with all contractual requirements to
+which the Seller and the Seller Subsidiaries are parties; (iii) will continue in
+full  force and effect following the consummation of the Merger; and (iv) do not
+provide  for  any  retrospective  premium  adjustment  or other experience based
+liability  on the part of the Seller or the Seller Subsidiaries.  Seller has not
+received notice from any insurance carrier that (i) such Insurance Policies will
+be  canceled  or  that  coverage  will be reduced or eliminated, or (ii) premium
+costs  with  respect  to  the  Insurance  Policies will be materially increased.
+
+     (M)     LOANS.  Each  loan  reflected  as  an  asset  of Seller in the most
+             ------
+recent  Seller  Report  or acquired or originated since that date, is the legal,
+valid,  and  binding  obligation  of  the  obligor named therein, enforceable in
+accordance  with  its  terms,  subject  to applicable bankruptcy, insolvency, or
+other  similar laws affecting the enforceability of creditors' rights generally,
+and no loan is subject to any asserted defense, offset, or counterclaim known to
+Seller.  Except as previously disclosed to FHNC in the Seller Disclosure Letter,
+Seller  Bank  does  not  have  any  loan  which has been (or should have been in
+management's  reasonable  opinion)  classified  as  "Other  Assets  Especially
+Mentioned,"  Substandard,"  "Doubtful"  or  "Loss,"  or  similar classification.
+
+     (N)     INVESTMENTS.  Except for investments classified as held-to-maturity
+             ------------
+as  prescribed  under  the Financial Accounting Standards Board Statement Number
+115,  and  pledges  to  secure public or trust deposits, none of the investments
+reflected  in  the  Seller  Reports  is  subject  to  any  restriction,  whether
+contractual  or statutory, that materially impairs the ability of Seller and the
+Seller  Subsidiaries  freely  to  dispose of such investments at any time, other
+than  may  be  imposed  by  Applicable  Law.  With  respect  to  all  repurchase
+agreements to which Seller or the Seller Subsidiaries are a party, Seller or the
+Seller  Subsidiaries,  as the case may be, have a valid, perfected first lien or
+security  interest  in  the  collateral securing such repurchase agreement which
+equals  or  exceeds  the  amount  of  debt secured by such collateral under such
+agreement.
+
+     (O)     INTELLECTUAL  PROPERTY.  Seller and the Seller Subsidiaries own, or
+             -----------------------
+are  licensed  or  otherwise  possess  legally  enforceable  rights  to  use all
+Intellectual  Property that are used in their businesses as currently conducted.
+Seller  has  not  received  notice  of  and  does  not have any knowledge of any
+potential  claim  of  any  infringement  on  any  of  its Intellectual Property.
+
+     (P)     RELATED  PARTY  TRANSACTIONS.  Except  as  described  in the Seller
+             -----------------------------
+Reports,  neither Seller nor any Seller Subsidiary is a party to any transaction
+with  any  Affiliate  of  Seller  (except  a  Seller  Subsidiary).  All  such
+transactions  identified  in  the  Seller  Reports (i) were made in the ordinary
+course  of  business,  (ii) were made on substantially the same terms, including
+interest  rates  and  collateral, as those prevailing at the time for comparable
+transactions  with other Persons, and (iii) did not involve more than the normal
+risk of collectibility or present other unfavorable features.  No loan or credit
+accommodation  to any Affiliate of Seller is presently in default or, during the
+three  year  period  prior to the date of this Agreement, has been in default or
+has  been  restructured,  modified  or  extended.
+
+
+                                       11
+<PAGE>
+     (Q)     TAXES.  All material federal, state, local, and foreign tax returns
+             ------
+required  to  be  filed  by or on behalf of Seller or any Seller Subsidiary have
+been timely filed or requests for extensions have been timely filed and any such
+extension  shall  have  been  granted and not have expired, and all such returns
+filed  are  complete  and  accurate in all material respects.  All taxes owed by
+Seller  have  been paid in full or adequate provision has been made for any such
+taxes  on  its  balance sheet (in accordance with GAAP).  As of the date of this
+Agreement,  there is no audit examination, deficiency, or refund litigation with
+respect  to  any  taxes  of  Seller and Seller is not aware of any basis for the
+assertion  of  any claim for any tax deficiency for which adequate provision has
+not  been  made  on  its balance sheet that would result in a determination that
+would  have  a  Material  Adverse  Effect.  All  taxes, interest, additions, and
+penalties  due  with  respect to completed and settled examinations or concluded
+litigation  relating  to Seller have been paid in full or adequate provision has
+been  made  for  any  such taxes on its balance sheet (in accordance with GAAP).
+Seller  has not executed an extension or waiver of any statute of limitations on
+the  assessment  or  collection  of  any  material  tax due that is currently in
+effect.
+
+     (R)     ABSENCE  OF  LITIGATION  OR  REGULATORY  ACTIONS.
+             -------------------------------------------------
+
+          (1)     No  litigation,  proceeding or controversy before any court or
+     governmental  agency  is  pending, and there is no pending claim, action or
+     proceeding against Seller or any Seller Subsidiary, which in the reasonable
+     judgment of Seller's management is likely to have a Material Adverse Effect
+     or to prevent consummation of the transactions contemplated hereby, and, to
+     Seller's  knowledge,  no such litigation, proceeding, controversy, claim or
+     action  has been threatened or is contemplated, and, to Seller's knowledge,
+     there  are  no facts or circumstances which could form the reasonable basis
+     for any claim, action or proceeding (including, but not limited to, a claim
+     for  violation  of  any  state or federal fair lending laws or regulations)
+     which  is  likely to have a Material Adverse Effect or prevent consummation
+     of  the  transactions  contemplated  hereby.
+
+          (2)     Neither  Seller  nor  any  Seller Subsidiary is subject to any
+     cease  and  desist  order, written agreement or memorandum of understanding
+     with,  or a party to any commitment letter or similar undertaking to, or is
+     subject  to  any  order  or  directive  by,  or  is  a  recipient  of  any
+     extraordinary  supervisory  letter  from,  or  is  subject  to  any  board
+     resolutions  at the request of the applicable Regulatory Authority, nor has
+     it  been  advised  by  any  Regulatory  Authority  that it is contemplating
+     issuing  or requesting (or is considering the appropriateness of issuing or
+     requesting)  any  such  order,  directive, written agreement, memorandum of
+     understanding,  extraordinary  supervisory letter, commitment letter, board
+     resolutions  or  similar  undertaking.
+
+     (S)     MATERIAL  CONTRACTS.  Except  for  this  Agreement and arrangements
+             --------------------
+made  in  the  ordinary  course  of  business,  neither  Seller  nor  any Seller
+Subsidiary  is  bound  by  any  Material Contract to be performed after the date
+hereof  that  has not been filed with or incorporated by reference in the Seller
+Reports.  Each  of  the Material Contracts is in full force and effect.  Neither
+Seller  nor  any Seller Subsidiary (nor, to Seller's knowledge, any other party)
+has  breached  any  provision  or  is  in  default  of  any  Material  Contract.
+
+     (T)     EMPLOYEE  BENEFIT  PLANS.  All "employee benefit plans", as defined
+             -------------------------
+in  Section  3(3)  of  ERISA,  that  cover  Seller's  or any Seller Subsidiary's
+employees  comply  in  all
+
+
+                                       12
+<PAGE>
+material  respects with all applicable requirements of ERISA, the Code and other
+Applicable  Laws  and  no  event  has occurred and, to its knowledge, no fact or
+circumstance  exists with respect to any employee benefit plan now or previously
+existing  which  would  result  in a Material Adverse Effect on Seller.  Neither
+Seller  nor  any Seller Subsidiary has engaged in a "prohibited transaction" (as
+defined in Section 406 of ERISA or Section 4975 of the Code) with respect to any
+such  plan  which  is  likely to result in any material penalties or taxes under
+Section  502(i)  of ERISA or Section 4975 of the Code.  No material liability to
+the Pension Benefit Guaranty Corporation has been or is expected by Seller to be
+incurred  with  respect  to  any such plan which is subject to Title IV of ERISA
+("Pension  Plan"),  or with respect to any "single-employer plan" (as defined in
+Section  4001(a)(15)  of  ERISA) currently or formerly maintained by it, them or
+any  entity which is considered one employer with it under Section 4001 of ERISA
+or  Section  414  of  the  Code.  No  Pension  Plan  had an "accumulated funding
+deficiency" as defined in Section 302 of ERISA (whether or not waived) as of the
+last  day  of  the  end  of  the  most recent plan year ending prior to the date
+hereof.  The  fair  market  value of the assets of each Pension Plan exceeds the
+present value of the "benefit liabilities" (as defined in Section 4001(a)(16) of
+ERISA)  under  such Pension Plan as of the end of the most recent plan year with
+respect  to  the  respective Plan ending prior to the date hereof, calculated on
+the  basis  of  the  actuarial  assumptions  used  in  the most recent actuarial
+valuation  for  such  Pension  Plan  as  of  the  date  hereof.  No  notice of a
+"reportable  event"  (as  defined in Section 4043 of ERISA) for which the 30-day
+reporting  requirement has not been waived has been required to be filed for any
+Pension  Plan  within  the  12-month  period ending on the date hereof.  Neither
+Seller  nor  any  Seller  Subsidiary  has  provided,  or is required to provide,
+security  to  any  Pension  Plan  pursuant  to  Section  401(a)(29) of the Code.
+Neither  Seller  nor  any  Seller Subsidiary has contributed to a "multiemployer
+plan"  as  defined in Section 3(37) of ERISA.  Except as disclosed in the Seller
+Disclosure  Letter, neither Seller nor any Seller Subsidiary has any obligations
+for  retiree  health  and  life  benefits  under  any  benefit plan, contract or
+arrangement.
+
+     (U)     TITLE  TO  PROPERTY.  Seller  and  each  Seller Subsidiary has good
+             --------------------
+title  to  its  properties  and  assets  (other  than property as to which it is
+lessee),  free  and  clear of any Encumbrances, except for such defects in title
+which  would  not,  in  the  aggregate,  have  a  Material  Adverse  Effect.
+
+     (V)     REGULATORY  APPROVALS.  Seller  knows of no reason why the Required
+             ----------------------
+Regulatory  Approvals  should  not  be  obtained  without  the imposition of any
+condition  of  the  type  which  would  reduce  the benefits of the transactions
+contemplated  hereby to such a degree that FHNC would not have entered into this
+Agreement  had  such  conditions  or requirements been known at the date hereof.
+
+     (W)     ALLOWANCE FOR LOAN LOSSES.  Seller Bank's reserve for possible loan
+             --------------------------
+losses  as  shown  (i) in Seller's Report for the fiscal year ended December 31,
+2003,  was  adequate in all material respects under GAAP applicable to banks and
+safe  and  sound  banking practices; and (ii) in Seller Bank's unaudited interim
+consolidated financial report at December 31, 2004 was, in its opinion, adequate
+in  all  material  respects  under  GAAP  applicable to banks and safe and sound
+banking  practices.  The  net book value of any of Seller Bank's assets acquired
+through  foreclosure  in satisfaction of problem loans ("ORE") is carried on the
+balance  sheet  in  the  Seller Reports at fair value at the time of acquisition
+less  estimated  selling costs which approximate the net realizable value of the
+ORE  in  accordance  with  GAAP.
+
+
+                                       13
+<PAGE>
+     (X)     COMPLIANCE  WITH  LAWS.  Seller  and the Seller Subsidiaries are in
+             -----------------------
+compliance  with  all  Applicable Laws, except where the failure to comply would
+not  have  a Material Adverse Effect.  Seller and each Seller Subsidiary has all
+permits, licenses, certificates of authority, orders, and approvals of, and have
+made  all  filings, applications, and registrations with, federal, state, local,
+and  foreign  governmental  or  regulatory  bodies that are required in order to
+permit  it to carry on its business as it is presently conducted and the absence
+of  which  would  have  a  Material Adverse Effect.  All such permits, licenses,
+certificates  of  authority, orders, and approvals are in full force and effect,
+and  to  Seller's  knowledge,  no  suspension  or cancellation of any of them is
+threatened.
+
+     (Y)     LABOR  RELATIONS.  Neither  Seller  nor  any Seller Subsidiary is a
+             -----------------
+party  to,  or  is  bound  by, any collective bargaining agreement, contract, or
+other  agreement  or understanding with a labor union or labor organization, nor
+is  Seller  or  any Seller Subsidiary the subject of a proceeding asserting that
+Seller  or any such Subsidiary has committed an unfair labor practice or seeking
+to  compel  it  or  such Subsidiary to bargain with any labor organization as to
+wages  and  conditions  of  employment,  nor  is there any strike or other labor
+dispute  involving  Seller  or  any  Seller  Subsidiary  pending  or threatened.
+
+     (Z)     BROKER  FEES.  Except  for  services  performed for Seller by Burke
+             -------------
+Capital  Group,  L.L.C.,  neither  Seller  nor any Seller Subsidiary, nor any of
+their  respective  officers, directors, or employees, has employed any broker or
+finder  or  incurred  any  liability  for any financial advisory fees, brokerage
+fees,  commissions, or finder's fees, and no broker or finder has acted directly
+or  indirectly  for  Seller  or  any  Seller Subsidiary, in connection with this
+Agreement  or  the  transactions  contemplated  hereby.
+
+     (AA)    NO UNTRUE STATEMENTS.  The information to be supplied by Seller for
+             ---------------------
+inclusion  in  (1)  the  Registration  Statement  or  (2)  the  Proxy
+Statement/Prospectus  will  not  at the time such Registration Statement becomes
+effective,  and  in the case of the Proxy Statement/Prospectus at the time it is
+mailed  and  at  the time of the meeting of Shareholders contemplated under this
+Agreement,  contain any untrue statement of a material fact or omit to state any
+material  fact  required  to be stated therein or necessary in order to make the
+statements therein, in light of the circumstances under which they are made, not
+misleading.
+
+     (BB)    ENVIRONMENTAL LAWS.  To the knowledge of Seller, neither Seller nor
+             -------------------
+any  Seller  Subsidiary  has  been  or  is  in  violation of or liable under any
+Environmental  Law,  except  any  such violations or liabilities which would not
+reasonably  be  expected  to  singly or in the aggregate have a Material Adverse
+Effect  on  Seller.  To  the  knowledge  of  Seller,  none of the Loan Portfolio
+Properties  and  Other  Properties  Owned by Seller or any Seller Subsidiary has
+been  or  is  in  violation of or liable under any Environmental Law, except for
+such  violations or liabilities which singly or in the aggregate will not have a
+Material  Adverse  Effect  on  Seller.  To the knowledge of Seller, there are no
+actions,  suits, demands, notices, claims, investigations or proceedings pending
+or  threatened  relating  to  the liability of the Loan Portfolio Properties and
+Other  Properties  Owned  by  Seller  or  any  Seller  Subsidiary  under  any
+Environmental  Law,  including without limitation any notices, demand letters or
+requests for information from any federal or state environmental agency relating
+to  any  such  liabilities under or violations of Environmental Law, except such
+which  will  not  have  or  result  in  a  Material  Adverse  Effect.
+
+
+                                       14
+<PAGE>
+     (CC)    FULL DISCLOSURE.  No representation or warranty of Seller contained
+             ----------------
+in  this  Agreement  or  in  any agreement, document or certificate delivered by
+Seller  to FHNC pursuant to this Agreement (i) contains or at the Effective Time
+will  contain  any  untrue  statement of a material fact or (ii) omits or at the
+Effective  Time  will  omit  to  state  a  material  fact  necessary to make the
+statements  herein  or  herein,  in  light of the circumstances under which such
+statements  were  or  will  be  made,  not  misleading.
+
+                                   ARTICLE IV
+
+                     REPRESENTATIONS AND WARRANTIES OF FHNC
+
+          FHNC represents and warrants to Seller as follows:
+
+     (A)     ORGANIZATION.  FHNC  is  a  corporation  duly  organized,  validly
+             -------------
+existing,  and  in good standing under the laws of the State of Tennessee.  Each
+FHNC  Subsidiary  is duly organized, validly existing and in good standing under
+the  laws of the jurisdiction of its incorporation.  The deposit accounts of FTB
+are  insured  by  the FDIC through the Bank Insurance Fund to the fullest extent
+permitted  by  Applicable  Law,  and all premiums and assessments required to be
+paid  in  connection  with  such  insurance  have  been  paid  when  due.
+
+     (B)     AUTHORITY AND QUALIFICATION.  FHNC has the power and authority, and
+             ---------------------------
+is  duly  qualified  in  all  jurisdictions  (except for such qualifications the
+absence  of  which  either  individually  or  in  the  aggregate will not have a
+Material  Adverse  Effect) where such qualification is required, to carry on its
+business as it is now being conducted and to own all its material properties and
+assets,  and  it  has  all  federal,  state,  local,  and  foreign  governmental
+authorizations necessary for it to own or lease its properties and assets and to
+carry  on  its business as it is now being conducted, except for such powers and
+authorizations  the  absence  of which, either individually or in the aggregate,
+would  not  have  a  Material  Adverse  Effect.
+
+     (C)     CAPITALIZATION.  As  of  February  28,  2005,  FHNC  has 5,000,0000
+             ---------------
+authorized  shares  of  preferred  stock,  no  par value, of which no shares are
+issued  or  outstanding,  and 400,000,000 authorized shares of common stock, par
+value  $.625  per share, of which 123,923,396 shares are issued and outstanding.
+FHNC's  outstanding  shares  of  FHNC  Common Stock are duly authorized, validly
+issued  and  outstanding,  fully  paid  and  non-assessable,  and  subject to no
+preemptive  rights.  The  shares  of  FHNC Common Stock to be issued pursuant to
+this Agreement, when issued in accordance with the terms of this Agreement, will
+be  duly authorized, validly issued, fully paid and nonassessable and subject to
+no  preemptive  rights.
+
+     (D)     VALIDITY OF AGREEMENT.  This Agreement has been validly approved by
+             ----------------------
+the  board  of  directors  of  FHNC.  Subject  to receipt of Required Regulatory
+Authority  Approvals,  this  Agreement  is a valid and binding agreement of FHNC
+enforceable  against  it  in  accordance  with its terms, subject to bankruptcy,
+insolvency,  fraudulent transfer, reorganization, moratorium and similar laws of
+general  applicability relating to or affecting creditors' rights and to general
+equity  principles.
+
+     (E)     NO BREACHES OR VIOLATIONS.  The execution, delivery and performance
+             --------------------------
+of  this  Agreement  by  FHNC does not, and the consummation of the transactions
+contemplated  hereby
+
+
+                                       15
+<PAGE>
+by it will not, constitute (l) a breach or violation of, or a default under, any
+law,  rule  or regulation or any judgment, decree, order, governmental permit or
+license,  or  agreement, indenture or instrument of it or to which it (or any of
+its  properties) is subject, which breach, violation or default, individually or
+collectively,  will  have  a  Material  Adverse  Effect, or enable any Person to
+enjoin  any of the transactions contemplated hereby or (2) a breach or violation
+of,  or  a default under, the charter or bylaws of FHNC; and the consummation of
+the  transactions  contemplated  hereby will not require any consent or approval
+under  any  such  law,  rule,  regulation, judgment, decree, order, governmental
+permit  or  license  or  the  consent or approval of any other party to any such
+agreement, indenture or instrument, other than the Required Regulatory Approvals
+and  other  than any consents and approvals the absence of which will not have a
+Material  Adverse  Effect.
+
+     (F)     REPORTS.  As  of  their  respective  dates,  neither  FHNC's Annual
+             --------
+Report  on  Form 10-K for the fiscal year ended December 31, 2003, nor any other
+document  filed  subsequent to December 31, 2003 under the Exchange Act with the
+SEC nor any call reports filed with the FDIC or financial reports filed with the
+Federal Reserve (collectively the "FHNC Reports") contained any untrue statement
+of  a  material  fact  or omitted to state a material fact required to be stated
+therein  or  necessary  to  make  the  statements  made therein, in light of the
+circumstances  under  which they were made, not misleading.  Each of the balance
+sheets  in  or  incorporated  by  reference into the FHNC Reports (including the
+related  notes  and  schedules)  fairly  presents  the financial position of the
+entity or entities to which it relates as of its date and each of the statements
+of  operations  and  retained earnings and of cash flow and changes in financial
+position  or equivalent statements in or incorporated by reference into its FHNC
+Reports  (including any related notes and schedules) fairly presents the results
+of  operations,  retained  earnings  and  cash  flows  and  changes in financial
+position,  as the case may be, of the entity or entities to which it relates for
+the  periods  set  forth  therein  (subject,  in  the  case of unaudited interim
+statements  or  reports,  to  normal  year-end  audit  adjustments  that are not
+material  in  amount  or effect), in each case in accordance with GAAP (or, with
+respect  to  the FHNC Reports filed with the applicable Regulatory Authority, in
+accordance  with  regulatory accounting principles), consistently applied during
+the  periods  involved,  except  as  may  be  noted  therein.
+
+     (G)     INTERNAL  CONTROLS.  FHNC and each FHNC Subsidiary has maintained a
+             -------------------
+system  of  internal  accounting  and  disclosure controls sufficient to provide
+reasonable  assurances  that  (i)  transactions  are executed in accordance with
+management's  general or specific authorizations, (ii) transactions are recorded
+as  necessary  to permit preparation of the FHNC Reports in conformity with GAAP
+(or,  with  respect  to  the  FHNC  Reports filed with the applicable Regulatory
+Authority,  in accordance with regulatory accounting principles) and to maintain
+accountability  for  assets,  (iii)  access  to  assets  is  permitted  only  in
+accordance  with  management's  general  or specific authorization, and (iv) the
+recorded  accountability  for  assets  is  compared  with the existing assets at
+reasonable  intervals,  and  appropriate  action  is  taken  with respect to any
+differences.
+
+     (H)     ABSENCE  OF  UNDISCLOSED  LIABILITIES.  FHNC  has no obligations or
+             --------------------------------------
+liabilities  (whether  absolute, accrued, contingent or otherwise) which are not
+disclosed  in  the  FHNC  Reports,  the omission of which would singly or in the
+aggregate  have a Material Adverse Effect.  Since the date of FHNC's most recent
+FHNC  Report  filed  with  the  SEC,  it  has  not  incurred  any liabilities or
+obligations  (whether  absolute, accrued, contingent or otherwise) of any nature
+
+
+                                       16
+<PAGE>
+except liabilities or obligations incurred in the ordinary course of business or
+which  would  not  singly  or  in  the aggregate have a Material Adverse Effect.
+
+     (I)     NO  MATERIAL  ADVERSE  CHANGE.  There has been no adverse change in
+             ------------------------------
+the  financial  condition  of  FHNC and the FHNC Subsidiaries, taken as a whole,
+since  December  31,  2003  which  has  had  a  Material  Adverse  Effect.
+
+     (J)     BROKER/FINDER  FEES.  Neither FHNC nor any FHNC Subsidiary, nor any
+             --------------------
+of  their  respective officers, directors, or employees, has employed any broker
+or  finder  or incurred any liability for any financial advisory fees, brokerage
+fees,  commissions, or finder's fees, and no broker or finder has acted directly
+or  indirectly  for  FHNC  or  any  of its subsidiaries, in connection with this
+Agreement  or  the  transactions  contemplated  hereby.
+
+     (K)     ABSENCE  OF  LITIGATION  OR  REGULATORY  ACTIONS.
+             -------------------------------------------------
+
+          (1)     No  litigation,  proceeding or controversy before any court or
+     governmental  agency  is  pending, and there is no pending claim, action or
+     proceeding  against  FHNC  or  any FHNC Subsidiary, which in the reasonable
+     judgment  of  FHNC's management is likely to have a Material Adverse Effect
+     or to prevent consummation of the transactions contemplated hereby, and, to
+     FHNC's  knowledge,  no  such  litigation, proceeding, controversy, claim or
+     action  has  been  threatened or is contemplated, and, to FHNC's knowledge,
+     there  are  no facts or circumstances which could form the reasonable basis
+     for any claim, action or proceeding (including, but not limited to, a claim
+     for  violation  of  any  state or federal fair lending laws or regulations)
+     which  is  likely to have a Material Adverse Effect or prevent consummation
+     of  the  transactions  contemplated  hereby.
+
+          (2)     Neither  FHNC  nor any FHNC Subsidiary is subject to any cease
+     and desist order, written agreement or memorandum of understanding with, or
+     a  party  to any commitment letter or similar undertaking to, or is subject
+     to  any  order  or  directive  by,  or  is a recipient of any extraordinary
+     supervisory  letter  from,  or  is  subject to any board resolutions at the
+     request  of the applicable Regulatory Authority, nor has it been advised by
+     any Regulatory Authority that it is contemplating issuing or requesting (or
+     is  considering  the  appropriateness  of  issuing  or requesting) any such
+     order,  directive,  written  agreement,  memorandum  of  understanding,
+     extraordinary  supervisory  letter, commitment letter, board resolutions or
+     similar  undertaking.
+
+     (L)     REGULATORY  APPROVALS.  FHNC  knows  of  no reason why the Required
+             ----------------------
+Regulatory  Approvals  should  not  be  obtained  without  the imposition of any
+condition  of  the  type  which  would  reduce  the benefits of the transactions
+contemplated  hereby  to  such  a degree that Seller would not have entered into
+this  Agreement  had  such  conditions  or  requirements  been known at the date
+hereof.
+
+     (M)     COMPLIANCE  WITH  LAWS.  FHNC  and  the  FHNC  Subsidiaries  are in
+             -----------------------
+compliance  with  all  Applicable Laws, except where the failure to comply would
+not  have  a  Material  Adverse  Effect.  FHNC  and each FHNC Subsidiary has all
+permits, licenses, certificates of authority, orders, and approvals of, and have
+made  all  filings, applications, and registrations with, federal, state, local,
+and  foreign  governmental  or  regulatory  bodies that are required in order to
+permit  it
+
+
+                                       17
+<PAGE>
+to  carry  on its business as it is presently conducted and the absence of which
+would  have a Material Adverse Effect.  All such permits, licenses, certificates
+of  authority, orders, and approvals are in full force and effect, and to FHNC's
+knowledge,  no  suspension  or  cancellation  of  any  of  them  is  threatened.
+
+     (N)     NO  UNTRUE  STATEMENTS.  The information to be supplied by FHNC for
+             -----------------------
+inclusion  in  (1)  the  Registration  Statement  or  (2)  the  Proxy
+Statement/Prospectus  will  not  at the time such Registration Statement becomes
+effective,  and  in the case of the Proxy Statement/Prospectus at the time it is
+mailed  and  at  the time of the meeting of Shareholders contemplated under this
+Agreement,  contain any untrue statement of a material fact or omit to state any
+material  fact  required  to be stated therein or necessary in order to make the
+statements therein, in light of the circumstances under which they are made, not
+misleading.
+
+     (O)     FULL  DISCLOSURE.  No  representation or warranty of FHNC contained
+             -----------------
+in this Agreement or in any agreement, document or certificate delivered by FHNC
+to  Seller pursuant to this Agreement (i) contains or at the Effective Time will
+contain  any  untrue  statement  of  a  material  fact  or  (ii) omits or at the
+Effective  Time  will  omit  to  state  a  material  fact  necessary to make the
+statements  herein  or  herein,  in  light of the circumstances under which such
+statements  were  or  will  be  made,  not  misleading
+
+                                    ARTICLE V
+                                    COVENANTS
+
+     FHNC hereby covenants to Seller, and Seller hereby covenants to FHNC, the
+following:
+
+     (A)     BEST  EFFORTS.  It shall use its best efforts in good faith to take
+             --------------
+or  cause  to be taken all action necessary or desirable under this Agreement on
+its  part  as  promptly  as  practicable so as to permit the consummation of the
+transactions  contemplated  by  this Agreement at the earliest possible date and
+cooperate  fully  with  the  other  party  hereto  to  that  end.
+
+     (B)     SHAREHOLDER  MEETING.  In the case of Seller, it shall (1) take all
+             ---------------------
+steps  necessary to duly call, give notice of, convene and hold a meeting of its
+shareholders  for  the  purpose  of  approving  this  Agreement  as  soon  as is
+reasonably  practicable;  (2)  subject to the fiduciary duties of the directors,
+recommend  to its shareholders that they approve this Agreement and use its best
+efforts  to  obtain  such approval; (3) distribute to its shareholders the Proxy
+Statement/Prospectus  in  accordance  with  Applicable  Law  and  with  its
+organizational  documents;  and (4) cooperate and consult with FHNC with respect
+to  each  of  the  foregoing  matters.
+
+     (C)     COOPERATION.  It  will  cooperate  in the preparation and filing of
+             ------------
+the Proxy Statement/Prospectus and Registration Statement in order to consummate
+the  transactions  contemplated  by  this  Agreement  as  soon  as is reasonably
+practicable.
+
+     (D)     NOTICE  OF  REGISTRATION  STATEMENT  EFFECTIVENESS.  In the case of
+             ---------------------------------------------------
+FHNC, it will advise Seller, promptly after FHNC receives notice thereof, of the
+time  when  the Registration Statement has become effective or any supplement or
+amendment has been filed, of the issuance of any stop order or the suspension of
+the  qualification  of the shares of FHNC Common Stock issuable pursuant to this
+Agreement  for  offering  or  sale  in  any  jurisdiction,  of the initiation or
+
+
+                                       18
+<PAGE>
+threat  of  any proceeding for any such purpose or of any request by the SEC for
+the  amendment  or  supplement  of  the Registration Statement or for additional
+information.
+
+     (E)     COMPLIANCE WITH STATE SECURITIES LAWS.  In  the  case  of  FHNC, it
+             --------------------------------------
+shall  use  its  best  efforts  to  obtain,  prior  to the effective date of the
+Registration Statement, all necessary state securities law or "Blue Sky" permits
+and  approvals  required  to  carry  out  the  transactions contemplated by this
+Agreement.
+
+     (F)     PUBLIC ANNOUNCEMENT.  Subject to its disclosure obligations imposed
+             --------------------
+by Applicable Law, unless approved by the other party hereto in advance, it will
+not  issue  any  press  release  or  written  statement  for general circulation
+relating  to  the  transactions  contemplated  hereby.  As  to  any  disclosure
+obligation  imposed by Applicable Law, it will deliver to the other party a copy
+of such press release or written notice as soon as practicable and in any event,
+prior  to  its  issuance.
+
+     (G)     GOVERNMENTAL  COMMUNICATIONS.  It  shall promptly furnish the other
+             -----------------------------
+party  with  copies  of  written  communications  received  by it, or any of its
+respective  Subsidiaries  or  Affiliates,  from,  or  delivered  by  any  of the
+foregoing  to, any governmental body or agency in connection with or material to
+the  transactions  contemplated  hereby.
+
+     (H)     SHARING  OF  INFORMATION.
+             -------------------------
+
+          (1)     Upon  reasonable  notice,  Seller  shall (and shall cause each
+     Seller  Subsidiary  to)  afford FHNC, and its officers, employees, counsel,
+     accountants  and  other  authorized  representatives  (collectively,  "FHNC
+     Agents")  access, during normal business hours, to all of Seller's and each
+     Seller  Subsidiary's properties, books, contracts, tax returns, commitments
+     and  records;  Seller  shall enable the FHNC Agents to discuss its business
+     affairs,  condition  (financial and otherwise), assets and liabilities with
+     such third Persons, including, without limitation, its directors, officers,
+     employees,  accountants and counsel, as the other party considers necessary
+     or  appropriate.  Seller  shall  and  shall cause each Seller Subsidiary to
+     furnish  promptly  to  FHNC  (a)  a copy of each report, schedule and other
+     document  filed  by  it  pursuant  to  the requirements of federal or state
+     securities  or  banking  laws  since  December  31, 2002, and (b) all other
+     information  concerning its business, properties and personnel as the other
+     party  hereto  may  reasonably  request,  provided  that  no  investigation
+     pursuant  to  this  Article  shall  affect  or  be  deemed  to  modify  any
+     representation or warranty made by, or the conditions to the obligations to
+     consummate  this  Agreement  of,  the  other  party  hereto.
+
+          (2)     Seller  will,  upon request, furnish FHNC with all information
+     concerning  Seller,  the Seller Subsidiaries, directors, officers, partners
+     and  shareholders  and such other matters as may be reasonably necessary or
+     advisable  in  connection  with  the  Proxy  Statement/Prospectus,  the
+     Registration  Statement or any other statement or application made by or on
+     behalf  of  FHNC,  Seller  or  any  of their respective Subsidiaries to any
+     governmental  body  or  agency in connection with or material to the Merger
+     and  the  other  transactions  contemplated  by  this  Agreement.
+
+
+                                       19
+<PAGE>
+          (3)     FHNC  will  not  use any information obtained pursuant to this
+     Section  for  any purpose unrelated to the consummation of the transactions
+     contemplated by this Agreement and, if the transaction contemplated by this
+     Agreement  is not consummated, FHNC will hold all information and documents
+     obtained  pursuant to this Article in confidence unless and until such time
+     as  such information or documents otherwise become publicly available or as
+     FHNC  is  advised  by  counsel  that  any  such  information or document is
+     required  by  Applicable  Law  to  be  disclosed,  and  in the event of the
+     termination  of  this  Agreement, it will deliver to the other party hereto
+     all  documents so obtained by it and any copies thereof. In the exercise of
+     its  rights  pursuant to this Agreement, FHNC shall use its best efforts to
+     minimize  disruption  to  Seller's  business  operations  and  the business
+     operations  of  the  Seller  Subsidiaries.
+
+     (I)     NO SOLICITATION.  Neither Seller nor any of Seller Subsidiary shall
+             ----------------
+solicit  or  knowingly  encourage  inquiries  or  proposals with respect to, or,
+subject  to  the  fiduciary  duties  of  its  directors, furnish any information
+relating  to  or  participate in any negotiations or discussions concerning, any
+acquisition  or  purchase  of  all  or a material portion of its assets (whether
+owned by Seller directly or owned by any Seller Subsidiary), or of a substantial
+equity  interest in Seller or any business combination with Seller or any Seller
+Subsidiary  other  than  as  contemplated  by  this  Agreement, and Seller shall
+instruct its officers, directors, agents, advisors and affiliates to comply with
+the above.  Seller agrees that it shall notify FHNC immediately if any inquiries
+or  proposals as described in this Article are received by, any such information
+is  requested  from,  or  any  such negotiations or discussions are sought to be
+initiated  with,  Seller  or  any  Seller  Subsidiary.
+
+     (J)     BREACHES.  It  shall  notify  the other party hereto as promptly as
+             ---------
+practicable  of  (1)  any  breach  of  any of its representations, warranties or
+agreements  contained herein that could have a Material Adverse Effect and as to
+representations,  warranties  or  agreements  contained  herein  which  do  not
+specifically  refer  to Material Adverse Effect, of any material breach thereof,
+and  (2)  any  change  in  its  condition  (financial or otherwise), properties,
+business,  results of operations or prospects that could have a Material Adverse
+Effect.
+
+     (K)     REGULATORY  FILINGS.
+             --------------------
+
+          (1)     Each  party  shall  cooperate  and  use  its  best  efforts to
+     promptly  prepare  and  file  all  necessary  documentation,  to effect all
+     necessary  applications,  notices,  petitions, filings and other documents,
+     and to obtain all necessary permits, consents, approvals and authorizations
+     of all third parties and governmental bodies or agencies, including, in the
+     case of FHNC, submission of applications for approval of this Agreement and
+     the  transactions  contemplated  hereby to the Federal Reserve, to the OCC,
+     and  to  such  other  Regulatory Authorities as required by Applicable Law.
+
+          (2)     Each  party  shall  (1)  permit the other to review in advance
+     and,  to  the  extent practicable, will consult with the other party on all
+     characterizations of the information relating to the other party and any of
+     its  respective  Subsidiaries,  which  appear  in  any filing made with, or
+     written materials submitted to, any third party or any governmental body or
+     agency  in connection with the transactions contemplated by this Agreement;
+     and  (2)  consult  with  the  other with respect to obtaining all necessary
+     permits,
+
+
+                                       20
+<PAGE>
+     consents,  approvals  and  authorizations  of  all  third  parties  and
+     governmental  bodies  or  agencies necessary or advisable to consummate the
+     transactions  contemplated  by this Agreement and will keep the other party
+     apprised  of  the  status  of  matters  relating  to  completion  of  the
+     transactions  contemplated  herein.
+
+     (L)     ACCOUNTING  MODIFICATIONS.  Prior  to  the  Effective  Time, Seller
+             --------------------------
+shall,  consistent  with  GAAP,  modify  and  change  its  and  each  of  Seller
+Subsidiary's  loan,  litigation and real estate valuation policies and practices
+(including  loan  classifications  and  levels  of reserves) so as to be applied
+consistently  on  a  mutually  satisfactory  basis with those of FHNC; provided,
+however,  that Seller shall not be obligated to take any such action pursuant to
+this  Article  unless  and  until  FHNC  acknowledges that all conditions to its
+obligation  to  consummate  the  Merger  have  been  satisfied.
+
+     (M)     INDEMNIFICATION.
+             ----------------
+
+          (1)     In  the event of any threatened or actual claim, action, suit,
+     proceeding  or  investigation,  whether civil or administrative, including,
+     without  limitation,  any  such  claim,  action,  suit,  proceeding  or
+     investigation in which any Person who is now, or has been at any time prior
+     to the date hereof, or who becomes prior to the Effective Time, a director,
+     officer, employee, fiduciary or agent of Seller or any of Seller Subsidiary
+     (the  "Indemnified Parties") is, or is threatened to be, made a party based
+     in  whole  or  in  part  on,  or  arising  in  whole  or in part out of, or
+     pertaining  to,  this  Agreement,  or  any of the transactions contemplated
+     hereby  or thereby, whether in any case asserted or arising before or after
+     the  Effective  Time,  the  parties hereto agree to cooperate and use their
+     best  efforts  to  defend against and respond thereto. It is understood and
+     agreed  that  FHNC shall indemnify and hold harmless, as and to the fullest
+     extent permitted by Applicable Law, each such Indemnified Party against any
+     losses, claims, damages, liabilities, costs, expenses (including reasonable
+     attorneys'  fees  and  expenses),  judgments,  fines  and  amounts  paid in
+     settlement  in connection with any such threatened or actual claim, action,
+     suit,  proceeding or investigation, and in the event of any such threatened
+     or  actual  claim,  action,  suit,  proceeding  or  investigation  (whether
+     asserted  or  arising  before  or  after  the  Effective  Time).
+
+          (2)     FHNC shall pay expenses in advance of the final disposition of
+     any  claim,  suit, proceeding or investigation to each Indemnified Party to
+     the  fullest  extent  permitted  by  Applicable  Law  upon  receipt  of any
+     undertaking  required by Applicable Law. The Indemnified Parties may retain
+     one firm of counsel satisfactory to them, and FHNC shall pay all reasonable
+     fees  and  expenses of such counsel for the Indemnified Parties promptly as
+     statements therefor are received; provided, however, that in the event that
+                                       --------  -------
+     the  defendants  in,  or  targets  of, any such threatened or actual claim,
+     action, suit, proceeding or investigation include more than one Indemnified
+     Party,  and  any Indemnified Party shall have reasonably concluded based on
+     the  opinion  of  its  own  counsel,  that  there  may be one or more legal
+     defenses  available  to  it  or  to  another Indemnified Party which are in
+     conflict  with  those  available  to  FHNC, Seller or any other Indemnified
+     Party, then such Indemnified Party may employ separate counsel to represent
+     or  defend  it  or  any  other  Person  entitled  to  indemnification  and
+     reimbursement  hereunder  with  respect  to  any  such claim, action, suit,
+     proceeding  or  investigation  in  which  it  or  such  other  Person  may
+
+
+                                       21
+<PAGE>
+     become  involved or is named as defendant and FHNC shall pay the reasonable
+     fees  and  expenses  of  such  counsel.
+
+          (3)     FHNC  will  use  its  best  efforts  to assist in the vigorous
+     defense  of any such matter, provided that FHNC shall not be liable for any
+                                  -------- ----
+     settlement  effected without its prior written consent (which consent shall
+     not be unreasonably withheld), and provided further that FHNC shall have no
+                                        -------- -------
+     obligation  hereunder  to  any  Indemnified  Party  when  and if a court of
+     competent  jurisdiction  shall ultimately determine, and such determination
+     shall  have  become  final and non-appealable, that indemnification of such
+     Indemnified  Party  in  the  manner  contemplated  hereby  is prohibited by
+     Applicable  Law  and  in  such  event  FHNC  shall  be  reimbursed  by such
+     Indemnified  Party  for  all  expenses  advanced  on  its  behalf  by FHNC.
+
+          (4)     Any  Indemnified  Party wishing to claim indemnification under
+     this  Article  upon learning of any such claim, action, suit, proceeding or
+     investigation,  shall  notify FHNC thereof, provided that the failure to so
+                                                 --------
+     notify  shall  not affect the obligations of FHNC under this Article except
+     to  the  extent  such  failure  to  notify  materially  prejudices  FHNC.
+
+          (5)     Notwithstanding  the  foregoing,  no  indemnification shall be
+     provided  the  Indemnified  Parties  hereunder  if the claim, action, suit,
+     proceeding  or  investigation  arises,  in  whole  or  in  part, out of any
+     material  misrepresentation  contained in this Agreement or material breach
+     of  covenants,  representations, warranties or agreements contained in this
+     Agreement  by  Seller  or  any  Indemnified  Party.
+
+          (6)     FHNC  and  Seller agree that all rights to indemnification and
+     all  limitations  of liability existing in favor of the Indemnified Parties
+     as  provided  in  Seller's articles of incorporation or by-laws, or similar
+     governing  documents of any of its Subsidiaries as in effect as of the date
+     hereof  with respect to matters occurring prior to the Effective Time shall
+     survive the Merger and shall continue in full force and effect, without any
+     amendment  thereto,  for a period of not less than three (3) years from the
+     Effective  Time,  provided,  however, that all rights to indemnification in
+     respect  of  any  claim  asserted or made within such period shall continue
+     until  the  final  disposition  of  such  claim.
+
+          (7)     This  Article  is  intended to benefit the Indemnified Parties
+     and  shall  be  binding  on  all  successors  and  assigns  of  FHNC.
+
+          (8)     In  the  event  FHNC  or  any of its successors or assigns (i)
+     consolidates  with  or  merges  into  any other Person and shall not be the
+     continuing  or  surviving  corporation  or  entity of such consolidation or
+     merger,  or  (ii)  transfers  or  conveys  all  or substantially all of its
+     properties  and  assets  to any Person, then, and in each such case, proper
+     provision  shall  be made so that the successors and assigns of FHNC assume
+     the  obligations  set  forth  in  this  Article.
+
+     (N)     SELLER AFFILIATES.  Seller shall use its best efforts to cause each
+             ------------------
+Person  who  is on the date hereof an Affiliate of Seller to execute and deliver
+to  FHNC  the  written undertakings in substantially the form attached hereto as
+EXHIBIT  C  on  the  date  this  Agreement  is  executed  and
+
+
+                                       22
+<PAGE>
+shall use its best efforts to cause any other Person who subsequently becomes an
+Affiliate  of  Seller  to execute and deliver such written undertakings prior to
+the  Effective  Date.
+
+     (O)     NO  ADVERSE ACTION.  Neither party shall take or agree or commit to
+             -------------------
+take  any action which would cause it to be unable to consummate the Merger with
+reasonable  dispatch,  unless  such action, agreement or commitment is otherwise
+required  by  Applicable  Law.  Neither  party  shall  take  any  action  unless
+otherwise required by Applicable Law, that would materially adversely affect the
+ability  of  either  party  or  any  Seller  Subsidiary  to obtain any necessary
+approval  of  Regulatory Authorities required for the consummation of the Merger
+without  imposition  of  a  condition  or restriction of the type referred to in
+Article  VI(A)(3).
+
+     (P)     EMPLOYEE  BENEFIT  PLANS.  At  the  request  of  FHNC, Seller shall
+             -------------------------
+terminate, or shall cause any Seller Subsidiary to terminate, each or any of the
+"employee  benefit  plans"  as  described in Article III(T) before the Effective
+Time,  and  all  liabilities  of  such  plans  shall  be  satisfied, or adequate
+provision  made  therefore,  before  the  Effective  Time.
+
+     (Q)     EXISTING EMPLOYMENT AGREEMENTS.  FHNC acknowledges the existence of
+             -------------------------------
+employment  agreements  between  Seller  and/or  Seller  Bank  and  each  of the
+following executives: Steve Chatham, John D. Fasick, Kathy Hulsey, John F. Hall,
+and  J.  Michael  Womble.  Seller agrees to cause the Agreements with J. Michael
+Womble, John F. Hall, Steve Chatham, and Kathy Hulsey to be terminated as of the
+Effective  Time.  FHNC  affirms that, by reason of the transactions contemplated
+by  this Agreement, FHNC and/or FTB shall become successors to Seller and Seller
+Bank,  as applicable, as parties to the employment agreement with John D. Fasick
+and are bound by the duties and obligations of Seller and Seller Bank under such
+employment  agreement  to  the  extent such duties and obligations have not been
+discharged  prior to the Effective Time.  In consideration of the termination of
+the  employment  agreement with J. Michael Womble, FHNC shall pay $50,000 to Mr.
+Womble,  with  payment  to  be  delivered  in immediately available funds on the
+Effective  Date.
+
+                                   ARTICLE VI
+                           CONDITIONS TO CONSUMMATION
+
+     (A)     The  respective obligations of FHNC and Seller to effect the Merger
+shall  be  subject  to  the  satisfaction  prior  to  the  Effective Time of the
+following  conditions:
+
+          (1)     This  Agreement and the transactions contemplated hereby shall
+     have  been  approved by the requisite vote of the shareholders of Seller in
+     accordance  with  Applicable  Law;
+
+          (2)     The  procurement  of  approval  of  this  Agreement  and  the
+     transactions contemplated hereby by the Federal Reserve Board, the OCC, and
+     the  expiration  of  any  statutory  waiting  periods;
+
+          (3)     Procurement  of  all  other  regulatory consents and approvals
+     (including,  without  limitation,  any  required consents or approvals from
+     state  banking  authorities) which are necessary to the consummation of the
+     transactions  contemplated  by  this  Agreement; provided, however, that no
+     approval  or  consent in Article V(A)(2) and (A)(3) shall be deemed to have
+     been  received  if  it  shall  include  any  conditions  or  requirements
+
+
+                                       23
+<PAGE>
+     which  would reduce the benefits of the transactions contemplated hereby to
+     such a degree that FHNC would not have entered into this Agreement had such
+     conditions  or  requirements  been  known  at  the  date  hereof;
+
+          (4)     On  the  date  of approval of this Agreement by its directors,
+     Seller  shall  have received the opinion of Burke Capital Group, L.L.C., to
+     the  effect  that in the opinion of such firm, the terms of the transaction
+     are  fair  to  the  shareholders  of Seller from a financial point of view;
+
+          (5)     The  satisfaction  of  all  other  requirements  prescribed by
+     Applicable  Law which are necessary to the consummation of the transactions
+     contemplated  by  this  Agreement;
+
+          (6)     No  party  hereto  shall  be  subject  to any order, decree or
+     injunction  of a court or agency of competent jurisdiction which enjoins or
+     prohibits  the  consummation  of  the  Merger;
+
+          (7)     No  statute,  rule,  regulation,  order,  injunction or decree
+     shall  have  been  enacted,  entered,  promulgated  or  enforced  by  any
+     governmental  authority  which  prohibits,  restricts  or  makes  illegal
+     consummation  of  the  Merger  or which imposes restrictions, conditions or
+     requirements  on consummation of the Merger which would reduce the benefits
+     of  the  Merger to such a degree that FHNC or Seller would not have entered
+     into  this  Agreement had such conditions or requirements been known at the
+     date  hereof;
+
+          (8)     The  Registration Statement shall have become effective and no
+     stop order suspending the effectiveness of the Registration Statement shall
+     have  been  issued  and  no  proceedings  for  that purpose shall have been
+     initiated  or  threatened  by  the  SEC;  and
+
+          (9)     FHNC's legal counsel shall have delivered its opinion dated as
+     of  the  Effective  Date, substantially to the effect that, on the basis of
+     facts,  representations and assumptions set forth in such opinion which are
+     consistent  with  the  state  of  facts existing at the Effective Time, the
+     Merger  will be treated for federal income tax purposes as a reorganization
+     within the meaning of Section 368(a) of the Code and that, accordingly: (i)
+     no  gain  or  loss  will be recognized by FHNC or Seller as a result of the
+     Merger,  (ii)  no  gain  or  loss will be recognized by the shareholders of
+     Seller  who  exchange their shares of Seller Common Stock solely for shares
+     of  FHNC  Common  Stock pursuant to the Merger (except with respect to cash
+     received  in  lieu  of  a  fractional share interest in FHNC Common Stock);
+     (iii)  the  tax  basis  of  the  shares  of  FHNC  Common Stock received by
+     shareholders who exchange all of their shares of Seller Common Stock solely
+     for  shares  of FHNC Common Stock in the Merger will be the same as the tax
+     basis of the shares of Seller Common Stock surrendered in exchange therefor
+     (reduced  by  any amount allocable to a fractional share interest for which
+     cash is received); and (iv) the holding period of the shares of FHNC Common
+     Stock  received  in  the  Merger  will  include the period during which the
+     shares  of  Seller Common Stock surrendered in exchange therefor were held,
+     provided  such shares of Seller Common Stock were held as capital assets at
+
+
+                                       24
+<PAGE>
+     the  Effective  Time.  In  rendering  such opinion, counsel may require and
+     rely  upon representations contained in certificates of officers of Seller,
+     FHNC  and  others.
+
+     (B)     The obligation of FHNC to effect the Merger shall be subject to the
+satisfaction prior to the Effective Time of the following additional conditions:
+
+          (1)     FHNC  and its directors and officers who sign the Registration
+     Statement  shall  have  received from Seller's independent certified public
+     accountants  "cold  comfort"  letters, dated (i) the date of the mailing of
+     the  Proxy  Statement/Prospectus  to Seller's shareholders and (ii) shortly
+     prior  to the Effective Date, with respect to certain financial information
+     regarding Seller in the form customarily issued by such accountants at such
+     time  in  transactions  of  this  type;
+
+          (2)     FHNC shall have received an opinion, dated the Effective Date,
+     of  Seller's  counsel in the form and to the effect customarily received in
+     transactions  of  this  type;
+
+          (3)     Each  of  the  representations,  warranties  and  covenants
+     contained  herein  of  Seller,  subject  to the Seller Disclosure Letter of
+     Seller  provided  pursuant  to Article III, shall, in all respects, be true
+     on,  or complied with by, the Effective Date as if made on such date (or on
+     the  date  when  made  in  the case of any representation or warranty which
+     specifically  relates  to  an  earlier  date) except (y) for breaches which
+     singly  or  in  the aggregate would not have a Material Adverse Effect, and
+     (z)  as  to  representations,  warranties  or covenants contained herein of
+     Seller  which  do  not  specifically  refer to Material Adverse Effect, for
+     breaches  which are not material and FHNC shall have received a certificate
+     signed by a duly authorized officer of Seller, dated the Effective Date, to
+     such  effect;
+
+          (4)     FHNC  shall  have received all state securities laws and "Blue
+     Sky"  permits  and  other  authorizations  necessary  to  consummate  the
+     transactions  contemplated  hereby;
+
+          (5)     FHNC shall have received a Consulting Agreement executed by J.
+     Michael  Womble  in  the  form  attached  to  this  Agreement as EXHIBIT E;
+
+          (6)     FHNC  shall  have received an Employment Agreement executed by
+     John  F. Hall, Steve Chatham, and Kathy Hulsey in the form attached to this
+     Agreement  as  EXHIBIT  D;
+
+          (7)     FHNC  shall  have received a Non Compete Agreement executed by
+     each  of the directors of Seller, in the form attached to this Agreement as
+     EXHIBIT  F;
+
+          (8)     No  litigation  or  proceeding  is  pending which (i) has been
+     brought  against  FHNC  or  Seller  or  any  of  their  subsidiaries by any
+     governmental  agency  seeking  to  prevent consummation of the transactions
+     contemplated  hereby or (ii) has been brought against Seller or Seller Bank
+     which  in  the  reasonable  judgement  of  management  will have a Material
+     Adverse  Effect  on  Seller  or  Seller  Bank;
+
+
+                                       25
+<PAGE>
+          (9)     Each  Seller  Affiliate  who  elects Stock Consideration shall
+     have  delivered to FHNC a written agreement reasonably satisfactory to FHNC
+     regarding  restrictions on the subsequent transfer of shares of FHNC Common
+     Stock;  and
+
+          (10)     On  the  Effective  Date, Seller's shareholders' equity shall
+     not  be  less  than  $12,000,000,  (calculated without giving effect to (i)
+     unrecognized gains or losses on "available for sale" securities as provided
+     in  FASB 115 and consistent with Seller's prior practices, (ii) Transaction
+     Expenses,  and  (iii)  other expenses or obligations incurred in connection
+     with  the  Merger, including, but not limited to, accrual for or payment of
+     severance  benefits,  prepayment  of  certain  employee  benefits and other
+     transactions  or  expenses  approved  by  FHNC).
+
+     (C)     The  obligation  of Seller to effect the Merger shall be subject to
+the  satisfaction  or  prior  to  the Effective Time of the following additional
+conditions:
+
+          (1)     Seller  shall  have  received  an opinion, dated the Effective
+     Date,  of FHNC's counsel in the form and to the effect customarily received
+     in  transactions  of  this  type;
+
+          (2)     Each  of  the  representations,  warranties  and  covenants
+     contained  herein  of  FHNC shall, in all respects, be true on, or complied
+     with  by,  the  Effective Date as if made on such date (or on the date when
+     made  in  the  case  of  any  representation or warranty which specifically
+     relates  to an earlier date) except (y) for breaches which singly or in the
+     aggregate  would  not  have  a  Material  Adverse  Effect  and  (z)  as  to
+     representations,  warranties or covenants contained herein of FHNC which do
+     not  specifically  refer to Material Adverse Effect, for breaches which are
+     not  material and Seller shall have received a certificate signed by a duly
+     authorized  officer  of FHNC, dated the Effective Date, to such effect; and
+
+          (3)     No  litigation  or  proceeding  is  pending which (i) has been
+     brought  against  FHNC  or  Seller  or  any  of  their  subsidiaries by any
+     governmental  agency,  seeking  to prevent consummation of the transactions
+     contemplated  hereby  or  (ii) in the reasonable judgment of the management
+     will  have  a  Material  Adverse  Effect  on  FHNC.
+
+                                   ARTICLE VII
+                                   TERMINATION
+
+     (A)     This  Agreement  may  be  terminated  prior  to the Effective Date,
+either  before  or  after  its  approval  by  the  Seller  Shareholders:
+
+          (1)     By  the  mutual  consent  of  FHNC  and  Seller;
+
+          (2)     By  FHNC  or  Seller,  in  the  event  of  the  failure of the
+     shareholders  of  Seller to approve this Agreement by the requisite vote at
+     its  meeting  called to consider such approval, or in the event of a breach
+     by  the  other  party  hereto  of any representation, warranty or agreement
+     contained  herein  which  is  not cured or not curable within 60 days after
+     written  notice of such breach is given to the party committing such breach
+     by  the  other  party hereto which have or will have had a Material Adverse
+     Effect  on  the  breaching  party;
+
+
+                                       26
+<PAGE>
+          (3)     By  FHNC  or  Seller,  in  the  event  that  the Merger is not
+     consummated  by  September 30, 2005, unless the failure to so consummate by
+     such  time  is  due to the breach of this Agreement by the party seeking to
+     terminate;
+
+          (4)     By  FHNC, if its board of directors so determines by vote of a
+     majority  of  the  members  of  its  entire board, if the FHNC Common Stock
+     Average  Price  is  less  than $38.50 per share by written notice to Seller
+     delivered  within  three  (3)  Business  Days  after  the  last  day of the
+     Calculation  Period;  or
+
+          (5)     By  Seller, if its board of directors so determines by vote of
+     a  majority  of  the  members of its entire board, if the FHNC Common Stock
+     Average  Price  is  greater  than  $45.50, by written notice to FHNC within
+     three  (3)  Business  Days  after  the  last day of the Calculation Period.
+
+     (B)     In the event of the termination of this Agreement by either FHNC or
+Seller, as provided above, this Agreement shall thereafter become void and there
+shall  be  no  liability  on  the  part  of any party hereto or their respective
+officers  or  directors,  except  that  any  such  termination  shall be without
+prejudice to the rights of any party hereto arising out of the willful breach by
+any  other  party of any covenant or willful misrepresentation contained in this
+Agreement.
+
+                                  ARTICLE VIII
+
+                                  OTHER MATTERS
+
+     (A)     Certain  Definitions.  As  used  in  this  Agreement, the following
+             --------------------
+terms  shall  have  the  meanings  indicated except where otherwise specifically
+defined:
+
+          (1)      "Affiliate" means, with respect to any Person, any Person who
+     directly,  or  indirectly, through one or more intermediaries, controls, is
+     controlled  by,  or  is under common control with, such Person and, without
+     limiting the generality of the foregoing, includes any executive officer or
+     director  of  such  Person  and  any Affiliate of such executive officer or
+     director.
+
+          (2)     "Agreement"  means  this  agreement  and  all  exhibits  and
+     schedules  hereto,  as  the  same  may  from  time  to  time  be amended or
+     supplemented  by  one  or  more  instruments executed by all of the parties
+     hereto.
+
+          (3)     "Applicable  Law"  means any applicable constitution, statute,
+     regulation,  rule,  injunction, judgment, order, decree, ruling, charge, or
+     other  restriction  of  any  government,  governmental agency, court, stock
+     exchange,  or  other  Regulatory  Authority  to  which a Person is subject.
+
+          (4)     "Bank  Merger"  has  the  meaning set forth in Article I(H) of
+     this  Agreement.
+
+          (5)     "BHCA" means the Bank Holding Company Act of 1956, as amended.
+
+
+                                       27
+<PAGE>
+          (6)     "Business  Day"  means a day on which FTB is open for business
+     and  which  is  not  a  Saturday,  Sunday,  or  legal  bank  holiday.
+
+          (7)     "Calculation  Period"  has  the  meaning  set forth in Article
+     I(C)(2)  of  this  Agreement.
+
+          (8)     "Cash  Cap"  has  the  meaning set forth in Article I(C)(3) of
+     this  Agreement.
+
+          (9)     "Cash  Consideration"  means  the  cash  to  be paid to Seller
+     Shareholders  in consideration of the Merger, calculated in accordance with
+     Article  I  of  this  Agreement.
+
+          (10)     "Cash  Election  Shares" has the meaning set forth in Article
+     I(D)(5).
+
+          (11)     "Cash Threshold" has the meaning set forth in Article I(C)(3)
+     of  this  Agreement.
+
+          (12)     "Certificate"  has  the  meaning set forth in Article I(G) of
+     this  Agreement.
+
+          (13)     "Code"  means  the Internal Revenue Code of 1986, as amended.
+
+          (14)     "Combination  Election"  has the meaning set forth in Article
+     I(D)(4)  of  this  Agreement.
+
+          (15)     "Conversion  Price"  has  the  meaning  set  forth in Article
+     I(C)(2)  of  this  Agreement.
+
+          (16)     "Dissenting  Shareholder"  means a Seller Shareholder who has
+     voted  against  the  Merger  and has otherwise taken all requisite steps to
+     demand  fair  value  in  exchange  for  such shareholder's shares of Seller
+     Common  Stock  in  accordance  with  Applicable  Law.
+
+          (17)     "Effective  Date"  means the date in which the Merger becomes
+     effective,  as  set  forth  in  Article  I(B)  of  this  Agreement.
+
+          (18)     "Election  Deadline"  has  the  meaning  set forth in Article
+     I(D)(2)  of  this  Agreement.
+
+          (19)     "Effective  Time"  means the time in which the Merger becomes
+     effective,  as  set  forth  in  Article  I(B)  of  this  Agreement.
+
+          (20)     "Encumbrance"  means  any  lien,  pledge,  security interest,
+     claim,  charge,  easement, restriction or encumbrance of any kind or nature
+     whatsoever.
+
+          (21)     "Environmental  Laws"  means  all  federal,  state, local and
+     foreign  statutes,  regulations, ordinances and other provisions having the
+     force  or  effect  of  law,  all  judicial  and  administrative  orders and
+     determinations,  all  contractual obligations and all common law concerning
+     public  health  and  safety,  worker  health  and  safety, and pollution or
+     protection  of  the  environment,  including  without  limitation all those
+     relating  to  the
+
+
+                                       28
+<PAGE>
+     presence, use, production, generation, handling, transportation, treatment,
+     storage,  disposal, distribution, labeling, testing, processing, discharge,
+     release,  threatened  release,  control,  or  cleanup  of  any  hazardous
+     materials,  substances  or  wastes,  chemical  substances  or  mixtures,
+     pesticides,  pollutants,  contaminants, toxic chemicals, petroleum products
+     or  byproducts,  asbestos, radon, mold, polychlorinated biphenyls, noise or
+     radiation,  each as amended and as now or hereafter in effect and which the
+     Seller  is  bound  to  observe  on  or  before  the  Effective  Date.
+
+          (22)     "ERISA"  means the Employee Retirement Income Security Act of
+     1974,  as  amended.
+
+          (23)     "Exchange  Act" means the Securities Exchange Act of 1934, as
+     amended,  and  the  rules  and  regulations  promulgated  from time to time
+     thereunder.
+
+          (24)     "Exchange Agent" has the meaning set forth in Article I(G)(1)
+     of  this  Agreement.
+
+          (25)     "Federal Reserve" means the Board of Governors of the Federal
+     Reserve  System.
+
+          (26)     "FHNC"  means First Horizon National Corporation, a Tennessee
+     corporation,  its  successors  and  permitted  assigns.
+
+          (27)     "FHNC Agents" has the meaning set forth in Article V(H)(1) of
+     this  Agreement.
+
+          (28)     "FHNC Common Stock" means the common stock of FHNC, par value
+     $.625  per  share.
+
+          (29)     "FHNC  Common  Stock Average Price" has the meaning set forth
+     in  Article  I(C)(3).
+
+          (30)     "FHNC  Reports" has the meaning set forth in Article IV(F) of
+     this  Agreement.
+
+          (31)     "FDIC"  means  the  Federal  Deposit  Insurance  Corporation.
+
+          (32)     "Form  of  Election" means a form designed for the purpose of
+     each  Seller  Shareholder  electing  either  Cash  Consideration  or  Stock
+     Consideration,  prepared  by  FHNC  and  reasonably  acceptable  to Seller.
+
+          (33)     "FTB"  means  First  Tennessee  Bank  National Association, a
+     national  banking  association,  its  successors  and  permitted  assigns.
+
+          (34)     "GAAP"  means  generally accepted accounting principles as in
+     effect  at  the  relevant  date  and  consistently  applied.
+
+
+                                       29
+<PAGE>
+          (35)     "Indemnified  Parties"  has  the meaning set forth in Article
+     V(M)  of  this  Agreement.
+
+          (36)     "Insurance  Policies"  has  the  meaning set forth in Article
+     III(L)  of  this  Agreement.
+
+          (37)     "Intellectual  Property"  means  (a)  all trademarks, service
+     marks,  trade  dress, logos, trade names, corporate names, any domain names
+     related  to  the  business  conducted  by  the  Seller  and  the  Seller
+     Subsidiaries,  and  assumed  names  together  with  all  translations,
+     adaptations,  derivations,  and  combinations  thereof  and  including  all
+     goodwill  associated  therewith,  and  all applications, registrations, and
+     renewals  in  connection  therewith,  (b)  all  trade  secrets and business
+     information  (including  ideas,  customer  and  supplier lists, promotional
+     materials,  pricing  and cost information, and business and marketing plans
+     and  proposals),  and  business  records  including  electronic and written
+     communications  concerning  any  negotiations  with  respect  to  Seller's
+     business.  (c) all rights in and to computer software (including object and
+     source  codes, data and related documentation), and (d) all rights relating
+     to any of the foregoing that are attributable to the business of Seller and
+     the  Seller  Subsidiaries.
+
+          (38)     "Knowledge"  with  respect  to  Seller,  means  the  actual
+     knowledge  of  J.  Michael  Womble,  John F. Hall, Steve Chatham, and Kathy
+     Hulsey,  after reasonable inquiry, which inquiry need not rise to the level
+     that  might  alert  employees  as  to  the  nature of this Agreement or the
+     Merger.
+
+          (39)     "Loan  Portfolio Properties and Other Properties Owned" means
+     those  properties  owned  or  operated  by  Seller or any Seller Subsidiary
+     including  properties  owned or operated in a fiduciary capacity, including
+     properties  owned  or  operated  in  a  fiduciary  capacity.
+
+          (40)     "Material  Adverse  Effect,"  with respect to a Person, means
+     any  condition,  event,  change  or  occurrence  that,  individually  or
+     collectively,  is  reasonably likely to have a material adverse effect upon
+     (x) the condition, financial or otherwise, properties, business, results of
+     operations  or  prospects  of  such Person and its subsidiaries, taken as a
+     whole,  or (y) the ability of such Person to perform its obligations under,
+     and  to  consummate  the  transactions  contemplated  by,  this  Agreement;
+     provided, however, that as to all representations, warranties and covenants
+     of  Seller,  a Material Adverse Effect shall have occurred if the actual or
+     reasonably  projected  costs  of  all  losses,  fines,  penalties, costs or
+     expenses  (including  attorneys'  fees)  as  a  result  of  any one or more
+     breaches  of such representations, warranties and covenants exceed $500,000
+     in  the  aggregate.
+
+          (41)     "Material  Contracts"  has  the  meaning  set  forth  in Item
+     601(b)(10)  of  Regulation  SK  of  the  Securities  Act.
+
+          (42)     "Merger"  has  the  meaning  set  forth in Section (A) of the
+     Recitals  to  this  Agreement.
+
+
+                                       30
+<PAGE>
+          (43)     "Merger  Consideration"  means  the  aggregate  of  the  Cash
+     Consideration  and  Stock  Consideration paid to the Seller Shareholders in
+     accordance  with  the  terms  and  conditions  of  this  Agreement
+
+          (44)     "NYSE"  means  the  New  York  Stock  Exchange.
+
+          (45)     "OCC"  means  the  Office of the Comptroller of the Currency.
+
+          (46)     "Person"  includes  an  individual, corporation, partnership,
+     limited  liability  company,  association,  trust  or  unincorporated
+     organization.
+
+          (47)     "Price  Per  Share"  has  the  meaning  set  forth in Article
+     I(C)(1)  of  this  Agreement.
+
+          (48)     "Proxy  Statement/Prospectus"  means  the  proxy
+     statement/prospectus,  together  with  any  supplements  thereto,  to  be
+     transmitted  to  Seller  Shareholders  in  connection with the transactions
+     contemplated  by  this  Agreement.
+
+          (49)     "Registration  Statement" means the Registration Statement on
+     Form  S-4,  or  other  applicable  form,  including  any  pre-effective  or
+     post-effective  amendments  or  supplements  thereto, as filed with the SEC
+     under  the  Securities  Act  with  respect to the Stock Consideration to be
+     issued  in connection with the transactions contemplated by this Agreement.
+
+          (50)     "Regulatory  Authority" means any agency or department of any
+     federal or state government, including without limitation the Office of the
+     Comptroller  of the Currency, the Board of Governors of the Federal Reserve
+     System, the Federal Deposit Insurance Corporation, the Tennessee Department
+     of  Financial  Institutions,  the  SEC  or  the  respective staffs thereof.
+
+          (51)     "Representative" has the meaning set forth in Article I(D)(1)
+     of  this  Agreement.
+
+          (52)     "Required Regulatory Approval" means the approval required by
+     the  Federal  Reserve  and the Office of the Comptroller of the Currency to
+     consummate  this  transaction.
+
+          (53)     "Rights"  means  warrants,  options,  rights,  convertible
+     securities  and  other capital stock equivalents that obligate an entity to
+     issue  its  securities.
+
+          (54)     "SEC"  means  the  Securities  and  Exchange  Commission.
+
+          (55)     "Securities  Act"  means  the  Securities  Act  of  1933,  as
+     amended,  and  the  rules  and  regulations  promulgated  from time to time
+     thereunder.
+
+          (56)     "Seller" means West Metro Financial Services, Inc., a Georgia
+     corporation,  its  successors  and  permitted  assigns.
+
+
+                                       31
+<PAGE>
+          (57)     "Seller  Bank"  means  First  National  Bank  West  Metro,  a
+     national  bank  association.
+
+          (58)      "Seller  Common  Stock"  means  the  common stock, par value
+     $1.00  per  share,  of  Seller.
+
+          (59)     "Seller  Disclosure  Letter"  means  the  letter  prepared by
+     Seller  and delivered to FHNC on the date of this Agreement which discloses
+     information  required  by  (and exceptions to) Seller's representations and
+     warranties  set  forth  in  Article  III  of  this  Agreement.
+
+          (60)     "Seller  Reports" has the meaning set forth in Article III(H)
+     of  this  Agreement.
+
+          (61)     "Seller  Shareholders"  means  the  equity  owners of Seller.
+
+          (62)     "Stock  Consideration"  means the shares of FHNC Common Stock
+     to  be  paid  to  Seller  Shareholders  in  consideration  of  the  Merger,
+     calculated  in  accordance  with  Article  I  of  this  Agreement.
+
+          (63)     "Stock  Election Shares" has the meaning set forth in Article
+     I(D)(5)  of  this  Agreement.
+
+          (64)     "Subsidiary"  means  any  corporation,  50%  or  more  of the
+     capital  stock of which is owned, either directly or indirectly, by another
+     entity,  except  any  corporation the stock of which is held as security by
+     either  FTB  or  Seller Bank, as the case may be, in the ordinary course of
+     its  lending  activities.
+
+          (65)     "Surviving Corporation" means FHNC at and after the Effective
+     Time.
+
+          (66)     "Transaction  Expenses"  has the meaning set forth in Article
+     VIII(F)  of  this  Agreement.
+
+     (B)     Survival.  The  agreements  and  covenants  of the parties which by
+             --------
+their terms apply in whole or in part after the Effective Time shall survive the
+Effective Date.  All other representations, warranties, agreements and covenants
+shall  be  deemed  to  be conditions of this Agreement and shall not survive the
+Effective  Date.
+
+     (C)     Amendment;  Modification; Waiver.  Prior to the Effective Date, any
+             --------------------------------
+provision  of  this  Agreement  may  be (i) waived by the party benefited by the
+provision  or by both parties or (ii) amended or modified at any time (including
+the structure of the transaction) by an agreement in writing between the parties
+hereto  approved  by their respective boards of directors (to the extent allowed
+by  law),  except  that, after the vote by the shareholders of Seller, Article I
+(C)  shall  not  be  amended  or  revised.
+
+     (D)     Counterparts.  This  Agreement may be executed in counterparts each
+             ------------
+of  which  shall  be deemed to constitute an original, but all of which together
+shall  constitute  one  and  the  same  instrument.
+
+
+                                       32
+<PAGE>
+     (E)     Governing  Law.  This  Agreement  shall  be  governed  by,  and
+             --------------
+interpreted  in  accordance  with, the laws of the State of Tennessee, except to
+the  extent  federal  law  is  applicable.
+
+     (F)     Expenses.  Each  party hereto will bear all expenses incurred by it
+             --------
+in  connection  with  this  Agreement  and  the transactions contemplated hereby
+including  fees and expenses of its own brokers, finders, financial consultants,
+accountants  and  counsel  ("Transaction  Expenses").  Seller  agrees  that  its
+Transaction Expenses will not exceed $500,000, unless there is a revision to the
+structure  by  FHNC  as  contemplated  by  Article  I(I)  hereinabove.
+
+     (G)     Notices.  All  notices,  requests,  acknowledgements  and  other
+             -------
+communications  hereunder  to a party shall be in writing and shall be deemed to
+have  been  duly  given  upon  receipt  if  delivered personally or by overnight
+courier,  or  telecopy or mailed by prepaid registered or certified mail (return
+receipt  requested),  to such party at its address set forth below or such other
+address  as  such  party  may  specify  by  notice  to  the  other party hereto.
+
+     IF TO SELLER, TO:   West Metro Financial Services, Inc.
+                         68 First National Drive
+                         Dallas, GA  30157
+                         Attn:  Mr. J. Michael Womble, Chairman
+                         Facsimile:  (678) 363-6334
+
+     With Copies to:     Powell Goldstein, LLP
+                         1201 West Peachtree Street, N.E.
+                         14th Floor
+                         Atlanta, GA 30309
+                         Attn:  James C. Wheeler, Esq.
+                         Facsimile:  (404) 572-6999
+
+     IF TO FHNC, TO:     First Horizon National Corporation
+                         165 Madison
+                         Memphis, TN  38103
+                         Attn:  Milton A. Gutelius, Jr.
+                         Senior Vice President & Treasurer
+                         Facsimile: (901) 523-4614
+
+                         First Horizon Home Loan Corporation
+                         4000 Horizon Way
+                         Irving, TX  75063
+                         Attn:  Greg Bullen
+                         Facsimile:  (214)441-4799
+
+     With Copies to:     First Horizon National Corporation
+                         165 Madison
+                         Memphis, TN  38103
+                         Attn:  Beth Whitehead
+                         Facsimile:  (901)523-4556
+
+
+                                       33
+<PAGE>
+                         Baker, Donelson, Bearman, Caldwell & Berkowitz, PC
+                         165 Madison, Suite 2000
+                         Memphis, TN  38103
+                         Attn:  Jackie Prester
+                         Facsimile:  901-577-0762
+
+     (H)     No  Third  Party  Beneficiaries.  All  terms and provisions of this
+             -------------------------------
+Agreement  shall  be  binding upon and shall inure to the benefit of the parties
+hereto  and  their  respective  successors  and  assigns.  Except  as  expressly
+provided  for  herein,  nothing in this Agreement is intended to confer upon any
+other  Person any rights or remedies of any nature whatsoever under or by reason
+of  this  Agreement.
+
+     (I)     Entire  Agreement.  This  Agreement  represents  the  entire
+             -----------------
+understanding  of  the  parties  hereto  with  reference  to  the  transactions
+contemplated  hereby and supersedes any and all other oral or written agreements
+heretofore  made.
+
+     (J)     Assignment.  This Agreement may not be assigned by any party hereto
+             ----------
+without  the  written  consent  of  the  other  parties.
+
+
+                                       34
+<PAGE>
+IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be executed
+in  counterparts  by their duly authorized officers as of the day and year first
+above  written.
+
+                                             FIRST HORIZON NATIONAL CORPORATION
+
+                                             By: /s/ Milton A. Gutelius, Jr.
+                                                --------------------------------
+                                                 Milton A. Gutelius, Jr.
+                                                 Senior Vice President &
+                                                 Treasurer
+
+
+
+                                                                            FHNC
+
+                                             WEST METRO FINANCIAL SERVICES, INC.
+
+                                             By: /s/ J. Michael Womble
+                                                --------------------------------
+
+                                             Title:  Chief Executive Officer
+                                                   -----------------------------
+
+                                                                          Seller
+
+
+                                       35
+<PAGE>
+</TEXT>
+</DOCUMENT>

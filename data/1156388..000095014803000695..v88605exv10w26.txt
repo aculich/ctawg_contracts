@@ -1,0 +1,3165 @@
+<DOCUMENT>
+<TYPE>EX-10.26
+<SEQUENCE>11
+<FILENAME>v88605exv10w26.txt
+<DESCRIPTION>EXHIBIT 10.26
+<TEXT>
+<PAGE>
+
+                                                                   EXHIBIT 10.26
+
+                    AMENDED AND RESTATED FINANCING AGREEMENT
+
+                       THE CIT GROUP/BUSINESS CREDIT, INC.
+
+                            (AS AGENT AND AS LENDER),
+
+                                   THE LENDERS
+
+                                       AND
+
+                                   BIG 5 CORP.
+
+                                  (AS BORROWER)
+
+                             DATED: MARCH 20, 2003
+
+
+<PAGE>
+
+                                TABLE OF CONTENTS
+
+<TABLE>
+<CAPTION>
+                                                                           Page
+                                                                           ----
+
+<S>          <C>                                                           <C>
+SECTION 1.   Definitions.................................................    1
+
+SECTION 2.   Conditions Precedent........................................   13
+
+SECTION 3.   Revolving Loans.............................................   16
+
+SECTION 4.   Letters of Credit...........................................   19
+
+SECTION 5.   Collateral..................................................   21
+
+SECTION 6.   Representations, Warranties and Covenants...................   24
+
+SECTION 7.   Interest, Fees and Expenses.................................   31
+
+SECTION 8.   Powers......................................................   34
+
+SECTION 9.   Events of Default and Remedies..............................   35
+
+SECTION 10.  Termination.................................................   38
+
+SECTION 11.  Agreement between the Lenders...............................   39
+
+SECTION 12.  Agency......................................................   42
+
+SECTION 13.  Miscellaneous...............................................   46
+
+
+EXHIBIT A    -   Assignment and Transfer Agreement
+
+SCHEDULE I   -   Store Locations
+</TABLE>
+
+
+                                      -i-
+<PAGE>
+
+      THE CIT GROUP/BUSINESS CREDIT, INC., a New York corporation (hereinafter
+"CITBC") with offices located at 300 South Grand Avenue, Los Angeles, CA 90071,
+FLEET CAPITAL CORPORATION, PNC BANK, NATIONAL ASSOCIATION, BANK OF AMERICA,
+N.A., AND TRANSAMERICA BUSINESS CAPITAL CORPORATION (collectively, "Prior
+Lenders"), and CITBC as agent for the Prior Lenders, and BIG 5 CORP., a Delaware
+corporation (hereinafter referred to as the "Company"), having a principal place
+of business at 2525 East El Segundo Boulevard, El Segundo, CA 90245, have
+previously entered into that certain Financing Agreement, dated as of March 8,
+1996 (as amended and modified, from time to time, the "Prior Financing
+Agreement").
+
+      CITBC, in its capacity as a lender, Prior Lenders, and such other lenders
+that may, subsequent to the date hereof, purchase from CITBC or from a Prior
+Lender a portion of CITBC's or such Prior Lender's rights and obligations under
+this Amended and Restated Financing Agreement (CITBC, the Prior Lenders and such
+other lenders each individually sometimes referred to as a "Lender" and
+collectively as the "Lenders"), and CITBC in its capacity as agent for Lenders
+(in its capacity as agent, the "Agent"), on the one hand, and the Company, on
+the other hand, wish to amend and restate certain terms of the Prior Financing
+Agreement.
+
+      In light of the forgoing, the Agent and Lenders are pleased to confirm the
+terms and conditions under which the Lenders acting through the Agent shall make
+revolving loans, advances and other financial accommodations to the Company
+under this Amended and Restated Financing Agreement (hereinafter, the "Financing
+Agreement").
+
+SECTION 1. DEFINITIONS
+
+ACCOUNTS shall mean all of the Company's now existing and future: (A) accounts
+(as defined in the UCC), and any and all other receivables (whether or not
+specifically listed on schedules furnished to the Agent), including, without
+limitation, all accounts created by, or arising from, all of the Company's
+sales, leases, rentals of goods or renditions of services to its customers,
+including but not limited to, those accounts arising under any of the Company's
+trade names or styles, or through any of the Company's divisions; (B) any and
+all instruments, documents, chattel paper (including electronic chattel paper)
+(all as defined in the UCC); (C) unpaid seller's or lessor's rights (including
+rescission, replevin, reclamation, repossession and stoppage in transit)
+relating to the foregoing or arising therefrom; (d) rights to any goods
+represented by any of the foregoing, including rights to returned, reclaimed or
+repossessed goods; (E) reserves and credit balances arising in connection with
+or pursuant hereto; (f) guarantees, supporting obligations, payment intangibles
+and letter of credit rights (all as defined in the UCC); (G) insurance policies
+or rights relating to any of the foregoing; (H) general intangibles pertaining
+to any and all of the foregoing (including all rights to payment, including
+those arising in connection with bank and non-bank credit cards), and including
+books and records and any electronic media and software thereto; (I) notes,
+deposits or property of account debtors securing the obligations of any such
+account debtors to the Company; and (J) cash and non-cash proceeds (as defined
+in the UCC) of any and all of the foregoing.
+
+
+                                      -1-
+<PAGE>
+
+AFFILIATE shall mean, as to any Person, any other Person (other than a
+Subsidiary) which, directly or indirectly, is in control of, is controlled by,
+or is under common control with, such Person and the term "control" shall have
+the meaning set forth in respect thereof in Rule 105 promulgated under the
+Securities Act of 1933, as amended.
+
+ANNIVERSARY DATE shall mean the date occurring one (1) year from the date of
+[MARCH __, 2003] and the same date in every year thereafter, provided, however,
+that if the Company gives notice, in accordance with Section 10 of this
+Financing Agreement, to terminate on an Anniversary Date and such date is not a
+Business Day, then the Anniversary Date shall be the next succeeding Business
+Day.
+
+ASSIGNMENT AND TRANSFER AGREEMENT shall mean the Assignment and Transfer
+Agreement in the form of Exhibit A hereto.
+
+AVAILABILITY shall mean at any time of determination the lesser of a) the Line
+of Credit or b) the Borrowing Base, in each case, less the sum of x) the
+outstanding aggregate amount of all Obligations (excluding all obligations in
+respect of the outstanding amounts of any Letters of Credit) and y) the
+Availability Reserve.
+
+AVAILABILITY RESERVE shall mean at any time of determination an amount equal to
+the sum of a) the then undrawn amount of all outstanding Letters of Credit, b)
+the amount of all unpaid sales taxes due any state and which sales taxes have
+been collected by the Company, and c) an amount equal to three times the monthly
+rent for leased facilities in lieu of landlord waivers which have not been
+obtained in favor of the Agent for leased locations at which Inventory is
+located, provided, however, that such reserve required under this clause (c)
+shall cease upon receipt of landlord's waivers for the distribution centers and
+not less than eighty-five (85) retail outlets.
+
+BLOCKED ACCOUNT shall mean any Concentration Account owned by the Company which
+is governed by a blocked account or similar agreement in form substantially
+similar to Exhibit B attached hereto and which account is subject to written
+instructions only from the Company unless and until the Agent shall give the
+institution holding such Concentration Account written instructions to the
+contrary in accordance with the terms of Section 3.4 of this Financing
+Agreement.
+
+BORROWING BASE shall mean the amount determined by multiplying the then sum of
+Eligible Inventory by the percentage provided for in Section 3.1 of this
+Financing Agreement.
+
+BUSINESS DAY shall mean any date on which both the Agent and JP Morgan Chase
+Bank are open for business.
+
+CAPITAL EXPENDITURES for any period shall mean the aggregate of all expenditures
+of the Company during such period that in conformity with GAAP are required to
+be included in or reflected by the property, plant or equipment or similar fixed
+asset account reflected in the balance sheet of the Company, reduced, to the
+extent otherwise included therein, by the aggregate principal amount of all
+Indebtedness (including obligations under capitalized lease obligations, but not
+under this Financing Agreement) assumed or incurred after the
+
+
+                                      -2-
+<PAGE>
+
+date of this Financing Agreement in connection with the acquisition of any
+capital asset after the date of this Financing Agreement, other than the
+aggregate amount of principal payments (including the principal component of
+payments under capitalized lease obligations) made during such period on such
+Indebtedness, provided, however, that the following shall in any event be
+excluded from the definition of Capital Expenditures: (i) any such expenditures
+for Designated Sale-Leaseback Properties, provided that to the extent any such
+Designated Sale-Leaseback Property shall not have been financed pursuant to a
+sale-leaseback or mortgage financing permitted hereunder within eighteen (18)
+months after the Company has designated the subject capital asset as a
+Designated Sale-Leaseback Property, such expenditures shall be deemed to be
+Capital Expenditures incurred on and as of the date of the expiration of such
+eighteen (18)-month period, and (ii) any such expenditures made with (or, to the
+extent of the receipt during the same fiscal year, expenditures in the amount
+of) the proceeds of sales of Real Estate, or Equipment or similar fixed assets
+or the proceeds of insurance, condemnation awards (or payments in lieu thereof)
+or indemnity payments received from third parties for purposes of replacing or
+repairing the assets in respect of which such proceeds, awards or payments were
+received, so long as such expenditures are made within eighteen (18) months of
+receipt by the Company of such proceeds, awards or payments.
+
+CAPITAL LEASE shall mean any lease of property (whether real, personal or mixed)
+which, in conformity with GAAP, is accounted for as a capital lease or a Capital
+Expenditure on the balance sheet of the Company.
+
+CHASE BANK RATE shall mean the rate of interest per annum announced by JP Morgan
+Chase Bank, or its successor in interest, from time to time as its prime rate in
+effect at its principal office in the County, City and State of New York. (The
+prime rate is not intended to be the lowest rate of interest charged by JP
+Morgan Chase Bank to its borrowers).
+
+CLOSING DATE shall mean March 20, 2003.
+
+COLLATERAL shall mean all present and future Accounts, Equipment, Inventory,
+Documents of Title, General Intangibles, Real Estate, and Other Collateral.
+
+COMPANY LIQUIDITY shall mean, at any date of determination, an amount equal to
+the Company's (a) Availability plus (b) unrestricted cash, determined on a basis
+consistent with past practices (and as cash is determined in accordance with
+GAAP).
+
+CONCENTRATION ACCOUNT shall mean any account owned by the Company which receives
+funds from i) the Depository Accounts and ii) the credit card companies.
+
+CONSOLIDATED BALANCE SHEET shall mean a consolidated balance sheet for the
+Company and its Subsidiaries, if any, eliminating all inter-company transactions
+and prepared, in the case of any such quarterly or annual balance sheet, in
+accordance with GAAP consistently applied.
+
+COPYRIGHTS shall mean all present and hereafter acquired copyrights, copyright
+registrations, recordings, applications, designs, styles, licenses, marks,
+prints and labels bearing any of the foregoing, goodwill, any and all general
+intangibles, intellectual property and rights pertaining thereto, and all cash
+and non-cash proceeds thereof.
+
+
+                                      -3-
+<PAGE>
+
+CURRENT ASSETS shall mean, whenever used throughout this Financing Agreement,
+those assets of the Company and its Subsidiaries, on a consolidated basis, which
+in accordance with GAAP, consistently applied, are classified as "current".
+
+CURRENT LIABILITIES shall mean, wherever used throughout this Financing
+Agreement, those liabilities of the Company and its Subsidiaries, on a
+consolidated basis, which in accordance with GAAP, consistently applied, are
+classified as "current", provided, however, that notwithstanding GAAP, i) the
+Revolving Loans and ii) the current portion of long term Permitted Indebtedness
+are not to be considered "current liabilities."
+
+CUSTOMARILY PERMITTED LIENS shall mean
+
+      (a) liens of local or state authorities for franchise or other like taxes
+provided the aggregate amounts of such liens shall not exceed $1,000,000.00 in
+the aggregate at any one time;
+
+      (b) statutory liens of landlords and liens of carriers, work-men,
+repairmen, warehousemen, mechanics, materialmen, vendors (other than Inventory
+vendors or suppliers) and other like liens imposed by law, created in the
+ordinary course of business and for amounts not yet due (or which are being
+contested in good faith by appropriate proceedings or other appropriate actions
+which are sufficient to prevent imminent foreclosure of such liens) and with
+respect to which adequate reserves or other appropriate provisions are being
+maintained in accordance with GAAP;
+
+      (c) deposits made (and the liens thereon) in the ordinary course of
+business including, without limitation, security deposits for leases, surety
+bonds and appeal bonds, deposits in connection with utilities, workers'
+compensation, unemployment insurance and other types of social security benefits
+or to secure the performance of tenders, bids, contracts (other than for the
+repayment or guarantee of borrowed money or purchase money obligations),
+statutory obligations and other similar obligations; and
+
+      (d) easements (including, without limitation, reciprocal easement
+agreements and utility agreements), licenses, leases, restrictions, covenants,
+rights of way, encroachments, minor defects or irregularities in title,
+variation and other restrictions, liens, mortgages, charges or other
+encumbrances (whether or not recorded) affecting the Company's Real Estate which
+do not prohibit the use of the Real Estate for the retail sale of Inventory at
+the Company's retail locations or the storage of Inventory at the Inventory
+distribution centers.
+
+DEFAULT shall mean any event specified in Section 9.1 hereof, whether or not any
+requirement for the giving of notice, the lapse of time, or both, or any other
+condition, event or act, has been satisfied.
+
+DEFAULT RATE OF INTEREST shall mean a rate of interest per annum equal to the
+sum of: i) two percent (2%) and ii) the then applicable rate of interest, which
+Default Rate of Interest Rate the Agent, on behalf of the Lenders, shall be
+entitled to charge the Company on all Obligations due the Lenders by the Company
+to the extent provided in Section 9.2(ii) of this Financing Agreement.
+
+
+                                      -4-
+<PAGE>
+
+DEPOSITORY ACCOUNTS shall mean those accounts (other than Concentration
+Accounts) owned by the Company and designated for the deposit of proceeds of
+Collateral.
+
+DESIGNATED SALE-LEASEBACK PROPERTY means a capital asset developed or to be
+developed by the Company after the date of this Financing Agreement and as to
+which the Company has notified the Agent in writing that such capital asset is,
+at such time, a Designated Sale-Leaseback Property and as to which the Company
+intends to enter into construction, sale-leaseback or mortgage financing,
+provided that such Designated Sale-Leaseback Property shall cease to be a
+Designated Sale-Leaseback Property upon the earlier to occur of eighteen (18)
+months after the date of such notice and the date on which such Designated
+Sale-Leaseback Property is financed pursuant to a sale-leaseback or mortgage
+financing permitted hereunder.
+
+DOCUMENTATION FEE shall mean the Agent's standard and reasonable fees relating
+to any and all modifications, waivers, releases, amendments or additional
+collateral with respect to this Financing Agreement, the Collateral and/or the
+Obligations.
+
+DOCUMENTS OF TITLE shall mean all of the Company's present and future documents
+(as defined in the UCC), and any and all warehouse receipts, bills of lading,
+shipping documents, chattel paper, instruments and similar documents, all
+whether negotiable or not, and all goods and Inventory relating thereto and all
+cash and non-cash proceeds of the foregoing.
+
+EARLY TERMINATION DATE shall mean the date on which the Company terminates this
+Financing Agreement or the Line of Credit which date is prior to the third (3rd)
+Anniversary Date.
+
+EARLY TERMINATION FEE shall: i) mean the fee the Agent for the account of the
+Lenders is entitled to charge the Company in the event the Company terminates
+the Line of Credit or this Financing Agreement on a date prior to the third
+(3rd) Anniversary Date; and ii) be determined by calculating the sum of (a) the
+average daily balance of the Revolving Loans for the period from the date of
+this Financing Agreement to the Early Termination Date and (b) the average daily
+undrawn face amount of the Letters of Credit outstanding for the period from the
+date of this Financing Agreement to the Early Termination Date and multiplying
+that sum by (x) three quarters of one percent (0.75%) if the Early Termination
+Date occurs on or before the first (1st) Anniversary Date, (y) one half of one
+percent (0.50%) if the Early Termination Date occurs after the first (1st)
+Anniversary Date but on or before the second (2nd) Anniversary Date, and (z) one
+quarter of one percent (0.25%) if the Early Termination Date occurs after the
+second (2nd) Anniversary Date.
+
+EBITDA shall mean, in any period, the net income (or net loss) of the Company
+and its Subsidiaries, on a consolidated basis plus all amounts deducted in
+determining net income in respect of Interest Expense, income tax obligations
+(paid or accrued), depreciation expense and amortization expenses, non-cash
+straight line rent expense and all other non-cash items, each determined in
+accordance with GAAP consistently applied.
+
+
+                                      -5-
+<PAGE>
+
+ELIGIBLE INVENTORY shall mean the gross cost of the Company's finished goods
+Inventory that conforms to the warranties herein less any i) supplies, ii)
+Inventory not present in the United States of America, iii) Inventory returned
+or rejected by the Company's customers other than Inventory that is undamaged
+and resalable in the normal course of business, iv) Inventory to be returned to
+the Company's suppliers, v) Inventory in transit to or from third parties, vi)
+shrinkage, and vii) reserves required by the Agent in accordance with the
+standard set forth below and without duplication but only for the following: (a)
+Inventory specially ordered for specific customers which Inventory is uniquely
+different in size, shape, quality or color and which uniquely different
+Inventory is not customarily sold by the Company; (b) market value declines, to
+the extent the Inventory's value is below its cost; (c) bill and hold (deferred
+shipment or consignment sales); (d) markdowns, to the extent the Inventory's
+value is below its cost; (e) Inventory which is not located at the Company's
+retail store locations or warehouses (other than Inventory in transit between
+the Company's facilities); (f) demonstration items, to the extent the
+Inventory's value is below its cost; (g) damaged or defective Inventory; (h)
+obsolete Inventory (but not including undamaged Inventory which is solely
+out-of-season); (i) Inventory at outlet locations not owned or operated by the
+Company; (j) Inventory held for lease, but only to the extent such Inventory
+held for lease exceeds twenty-five percent (25%) of the then aggregate gross
+cost of Inventory; and (k) Inventory imported under letters of credit issued
+without the assistance of the Letter of Credit Guaranty and then only until the
+bank issuing such letters of credit has been reimbursed by the Company for any
+drafts under such letters of credit. The amount of such reserves shall be
+determined solely by the Agent in its Reasonable Discretion.
+
+EQUIPMENT shall mean all of the Company's present and hereafter acquired
+equipment (as defined in the UCC), including, without limitation, all machinery,
+equipment, furnishings and fixtures, and all additions, substitutions and
+replacements thereof, wherever located, together with all attachments,
+components, parts, equipment and accessories installed thereon or affixed
+thereto and all proceeds thereof of whatever sort.
+
+ERISA shall mean the Employee Retirement Income Security Act of 1974, as amended
+from time to time and the rules and regulations promulgated thereunder from time
+to time, as applicable.
+
+EVENT(S) OF DEFAULT shall have the meaning provided for in Section 9.1 of this
+Financing Agreement.
+
+FEE LETTER shall mean that certain letter agreement, between the Agent and the
+Company, dated as of the date hereof.
+
+FIXED CHARGE COVERAGE RATIO shall mean a ratio determined as of the relevant
+calculation date by dividing EBITDA by the sum of i) Capital Expenditures and
+ii) Interest Expense, for the relevant period.
+
+GAAP shall mean generally accepted accounting principles in the United States of
+America as in effect from time to time and for the period as to which such
+accounting principles are to apply. Except as otherwise provided in this
+Financing Agreement, all computations and determinations as to accounting or
+financial matters and all quarterly and annual
+
+
+                                      -6-
+<PAGE>
+
+consolidated financial statements to be delivered pursuant to this Financing
+Agreement shall be made and prepared in accordance with GAAP (including
+principles of consolidation where appropriate), and all accounting or financial
+terms shall have the meanings ascribed to such terms by GAAP. If any change in
+accounting principles from those effective December 31, 1995 and used in
+preparation of the financial statements required hereunder occurs or are
+hereafter occasioned by promulgation of rules, regulations, pronouncements or
+opinions by or are otherwise required by the Financial Accounting Standards
+Board or the American Institute of Certified Public Accountants (or successors
+thereto or agencies with similar functions), and any such changes results in a
+change of the method of calculation of, or affect the results of such
+calculation of, any financial covenant, standard or term found herein, then the
+parties shall amend such financial covenants, financial standards or terms so as
+to equitably reflect such changes, with the desired result that the criteria for
+evaluating the financial condition and results of operations of the Company
+shall be the same after such changes as if such changes had not been made.
+
+GENERAL INTANGIBLES shall mean all of the Company's present and hereafter
+acquired general intangibles (as defined in the UCC), and shall include, without
+limitation, all present and future right, title and interest in and to: (a) all
+Trademarks, trade names, corporate names, business names, logos and any other
+designs or sources of business identities, (b) Patents, together with any
+improvements on said Patents, utility models, industrial models, and designs,
+(c) Copyrights, (d) trade secrets, (e) licenses, permits and franchises, (f) all
+applications with respect to the foregoing, (g) all right, title and interest in
+and to any and all extensions and renewals, (h) goodwill with respect to any of
+the foregoing, (i) any other forms of similar intellectual property, (j) all
+customer lists, distribution agreements, supply agreements, blueprints,
+indemnification rights and tax refunds, together with all monies and claims for
+monies now or hereafter due and payable in connection with any of the foregoing
+or otherwise, and all cash and non-cash proceeds thereof, including, without
+limitation, the proceeds or royalties of any licensing agreements between the
+Company and any licensee of any of the Company's General Intangibles.
+
+GUARANTOR shall mean Parent.
+
+INDEBTEDNESS shall mean, without duplication, all liabilities, contingent or
+otherwise, which are any of the following: (a) obligations in respect of
+borrowed money or for the deferred purchase price of property, services or
+assets, other than Inventory, and (b) lease obligations which, in accordance
+with GAAP, have been, or which should be capitalized.
+
+INTEREST EXPENSE shall mean i) total cash interest obligations (paid or accrued)
+of the Company and its Subsidiaries determined in accordance with GAAP on a
+basis consistent with the latest audited statements of the Company, excluding
+amortization of financing fees related hereto and to other Indebtedness of the
+Company and its Subsidiaries, prepayment penalties, fees or premiums related to
+the payment, in whole or in part, of Indebtedness of the Company and its
+Subsidiaries and original issue discounts, if any, minus ii) interest income, if
+any.
+
+INVENTORY shall mean all of the Company's present and hereafter acquired
+inventory (as defined in the UCC), including, without limitation, all
+merchandise, inventory, and goods
+
+
+                                      -7-
+<PAGE>
+
+held for sale or lease and all additions, substitutions and replacements
+thereof, wherever located, together with all goods and materials used or usable
+in manufacturing, processing, packaging or shipping same in all stages of
+production from raw materials through work-in-process to finished goods - and
+all proceeds thereof of whatever sort.
+
+INVESTMENT PROPERTY shall mean all of the Company's now owned and hereafter
+acquired investment property (as defined in the UCC) and all proceeds thereof.
+
+ISSUING BANK shall mean any bank issuing Letters of Credit for the Company.
+
+LETTERS OF CREDIT shall mean all letters of credit issued with the assistance of
+the Lenders acting through the Agent by the Issuing Bank for or on behalf of the
+Company.
+
+LETTER OF CREDIT GUARANTY shall mean any guaranty delivered by the Agent on
+behalf of Lenders to the Issuing Bank of the Company's reimbursement obligations
+under the Issuing Bank's reimbursement agreement, application for Letters of
+Credit or other like documents.
+
+LETTER OF CREDIT GUARANTY FEE shall mean the fee the Agent may charge on behalf
+of Lenders under Section 7.2 of this Financing Agreement for: i) issuing the
+Letter of Credit Guaranty or ii) otherwise aiding the Company in obtaining
+Letters of Credit pursuant to Section 4.
+
+LIBOR shall mean, at any time of determination, and subject to availability, the
+London Interbank Offered Rate paid in London by JP Morgan Chase Bank on one
+month, two month, three month, six month, or nine month dollar deposits and if
+such rates are not otherwise available, then those rates as published, under
+"Money Rates", in the New York City edition of the Wall Street Journal or if
+there is no such publication or statement therein as to Libor, then in any
+publication used in the New York City financial community.
+
+LIBOR LOAN shall mean the loans for which the Company has elected to use Libor
+for interest rate computations.
+
+LIBOR PERIOD shall mean the Libor for one month, two month, three month, six
+month or nine month dollar deposits, as selected by the Company.
+
+LIBOR PROCESSING FEE shall mean the sum of $500.00 which the Agent, for its own
+account, shall be entitled to charge the Company in accordance with, but subject
+to, the provisions of Section 7 of this Financing Agreement upon the election of
+a Libor Loan.
+
+LINE OF CREDIT shall mean the commitment of the Lenders acting through the Agent
+to make loans and advances and issue Letter of Credit Guaranties, all pursuant
+to and in accordance with, but subject to, Sections 3 and 4 of this Financing
+Agreement, in the aggregate amount of $140,000,000.00 or such lesser amount as
+the Company may elect in accordance with Section 7 of this Financing Agreement.
+
+LINE OF CREDIT FEE shall: i) mean the fee due the Agent at the end of each month
+for the Line of Credit, and ii) be determined by multiplying x) the difference
+between the Line of Credit less the sum of a) the average daily Revolving Loans
+outstanding during such month
+
+
+                                      -8-
+<PAGE>
+
+and b) the average daily undrawn face amount of all outstanding Letters of
+Credit, for said month by y) three hundred twenty-five hundredths of one percent
+(.325%) per annum for the number of days in said month during which this
+Financing Agreement was in effect.
+
+LOAN FACILITY FEE shall mean the fee payable to the Agent for the account of the
+Lenders in accordance with, and pursuant to, the provisions of Section 7 of this
+Financing Agreement.
+
+MARGIN SECURITIES shall have the meaning assigned to such term in Regulation G
+of the Board of Governors of the Federal Reserve System (12 C.F.R. 207, as
+amended).
+
+NET WORTH shall mean Total Assets of the Company and its Subsidiaries, on a
+consolidated basis, in excess of Total Liabilities, and determined in accordance
+with GAAP, on a consistent basis with the latest audited statements of the
+Company and its Subsidiaries.
+
+OBLIGATIONS shall mean all obligations of the Company to pay, as and when due
+and payable, all amounts from time to time owing by and in respect of this
+Financing Agreement or any of loan documents related to this Financing
+Agreement, including, without limitation, all loans and advances made or to be
+made by the Lenders or the Agent on behalf of the Lenders to the Company, or to
+others for the Company's account under this Financing Agreement or any loan
+document related to this Financing Agreement; any and all indebtedness and
+obligations which may at any time be owing by the Company under this Financing
+Agreement or any other loan document related to this Financing Agreement,
+whether now in existence or incurred by the Company from time to time hereafter;
+whether secured by pledge, lien upon or security interest in the Company's
+assets or property or the assets or property of any other person, firm, entity
+or corporation; whether such indebtedness is absolute or contingent, matured or
+unmatured, direct or indirect and whether the Company is liable for such
+indebtedness as principal, surety, endorser, guarantor or otherwise. Obligations
+shall also include, without duplication of the foregoing, all indebtedness owing
+by the Company under this Financing Agreement or under any other agreement or
+arrangement hereafter entered into between the Company and the Agent on behalf
+of the Lenders, including, but not limited to, obligations to the Lenders or the
+Agent on behalf of the Lenders in respect of Letters of Credit issued with the
+assistance of the Letter of Credit Guaranty, indebtedness or obligations
+incurred by, or imposed on, the Agent or the Lenders as a result of
+environmental claims arising out of the Company's operations, premises or waste
+disposal practices or sites, the Company's liability to the Agent on behalf of
+the Lenders under any instrument of guaranty or indemnity, or arising under any
+guaranty, endorsement or undertaking which the Agent on behalf of the Lenders
+may make or issue to others for the Company's accounts, but in no event shall
+Obligations include any obligations due any affiliate of a Lender.
+
+OTHER COLLATERAL shall mean all of the Company's now owned and hereafter
+acquired lockbox, blocked account and any other deposit accounts maintained with
+any bank or financial institutions into which the proceeds of Collateral are or
+may be deposited; all other deposit accounts; all Investment Property; all cash
+and other monies and property in the possession or control of the Agent and/or
+any of the Lenders; all books, records, ledger cards, disks and related data
+processing software at any time evidencing or containing information relating to
+any of the Collateral described herein or otherwise necessary or
+
+
+                                      -9-
+<PAGE>
+
+helpful in the collection thereof or realization thereon; and all cash and
+non-cash proceeds of the foregoing.
+
+OUT-OF-POCKET EXPENSES shall mean all of the Agent's reasonable and documented
+out of pocket expenses (including reasonable attorneys' fees) incurred relative
+to the closing of this Financing Agreement and any amendment, modification or
+waiver thereof, whether incurred heretofore or hereafter, and, in any case, with
+appropriate documentation delivered to the Company upon the Company's request,
+which expenses shall include, without being limited to, the cost of record
+searches, all costs and expenses incurred by the Agent in opening bank accounts,
+depositing checks, receiving and transferring funds, and any charges imposed on
+the Agent due to "insufficient funds" of deposited checks the Agent's standard
+fee relating thereto, any amounts paid by the Agent on behalf of the Lenders to
+an Issuing Bank or incurred by or charged to the Agent on behalf of the Lenders
+by the Issuing Bank under the Letter of Credit Guaranty or the Company's
+reimbursement agreement, application for letter of credit or other like document
+which pertain either directly or indirectly to such Letters of Credit, and the
+Agent's standard and reasonable fees relating to the Letters of Credit and any
+drafts thereunder, reasonable and documented local counsel fees, if any, fees
+and taxes relative to the filing of financing statements, and all expenses,
+costs and fees set forth in Section 9.3 of this Financing Agreement.
+
+PARENT shall mean Big 5 Sporting Goods Corporation, a Delaware corporation.
+
+PATENTS shall mean all of the Company's present and hereafter acquired patents,
+patent applications, registrations, any reissues or renewals thereof, licenses,
+any inventions and improvements claimed thereunder, and all general intangible,
+intellectual property and patent rights with respect thereto of the Company, and
+all income, royalties, cash and non-cash proceeds thereof.
+
+PERMITTED ENCUMBRANCES shall mean: I) liens expressly permitted, or consented
+to, by the Agent on behalf of the Lenders in accordance with Section 12.10; II)
+Customarily Permitted Liens; III) liens granted the Agent on behalf of the
+Lenders by the Company; IV) liens of judgment creditors, provided such liens do
+not exceed, in the aggregate, at any time, $1,500,000.00 (other than liens
+stayed, satisfied, bonded or insured to the reasonable satisfaction of the Agent
+within a) fifteen (15) calendar days of the date the Company acquired actual
+knowledge of such judgment lien or b) fifteen (15) calendar days of the date
+such lien attached by levy, whichever first occurs); V) liens for taxes, levies
+or assessments not yet due and payable or which are being diligently contested
+in good faith by the Company by appropriate proceedings, and which liens are not
+a) senior to the lien of the Agent on behalf of the Lenders; or b) for taxes due
+the United States of America; VI) liens, if any, given to an Issuing Bank in
+connection with a Letter of Credit obtained with the assistance of the Letter of
+Credit Guaranty; VII) liens securing Purchase Money Obligations; VIII) liens and
+other encumbrances in existence at the date hereof; IX) liens given to issuers
+of letters of credit issued without the assistance of the Letter of Credit
+Guaranty provided such liens a) do not secure Indebtedness in excess of
+$1,500,000.00 in the aggregate at any one time and b) attach only to the
+Inventory and/or Equipment acquired with the assistance of such letter of
+credit, provided, however, that any Inventory subject to the lien permitted by
+this clause ix) shall not be considered Eligible Inventory until such lien is
+terminated;
+
+
+                                      -10-
+<PAGE>
+
+X) liens on assets, other than the Collateral, of the Company, to secure the
+Indebtedness referenced in clause x of the definition of Permitted Indebtedness;
+xi) liens on the Margin Securities; and XII) any extension, renewal or
+replacement of any of the foregoing, provided that any extension, renewal or
+replacement lien shall be limited to the property or assets covered by the lien
+extended, renewed or replaced and the obligation secured by such extension,
+renewal or replacement lien shall be in an amount not greater than the
+obligations secured by the lien extended, renewed or replaced plus the amount of
+all expenses, fees, premiums and penalties paid in connection with such
+extension, renewals or replacement.
+
+PERMITTED INDEBTEDNESS shall mean: I) Indebtedness incurred in the ordinary
+course of business for Inventory, services, taxes or labor; II) Indebtedness
+arising in connection with Letters of Credit, this Financing Agreement and the
+loan documents related to this Financing Agreement; III) deferred taxes and
+other expenses incurred in the ordinary course of business; IV) other
+Indebtedness existing on the date of execution of this Financing Agreement and
+listed in the most recent financial statement delivered to the Agent or
+otherwise disclosed to the Agent in writing prior to the date hereof; V)
+Indebtedness arising in connection with or secured by, the Permitted
+Encumbrances; VI) Indebtedness under any letters of credit issued without the
+assistance of the Letter of Credit Guaranty provided such Indebtedness does not
+exceed $1,500,000 in the aggregate at any one time; VII) Indebtedness of the
+Company to the Parent or the Company's Subsidiaries in an amount not to exceed
+$10,000,000 in the aggregate at any one time; VIII) the Senior Notes; IX)
+Indebtedness incurred in the form of surety, customs and appeal bonds and other
+obligations of a similar nature; X) other Indebtedness of the Company in an
+amount not to exceed $10,000,000.00 in the aggregate at any time outstanding,
+provided, such Indebtedness is a) not secured by the Collateral and b) not due
+the Parent or any Subsidiaries of the Company or the Parent; XI) Indebtedness in
+an aggregate amount not to exceed $15,000,000 at any time which is subordinated
+to the Obligations on terms and conditions reasonably acceptable to Required
+Lenders ("New Subordinated Debt"); and XII) any extension, renewal or
+replacement of any of the foregoing, provided that any extension, renewal or
+replacement shall be in an amount not greater than the Indebtedness so extended,
+renewed or replaced (plus the amount of expenses, fees and any premium or
+penalty paid in connection with such extension, renewal or replacement).
+
+PERMITTED INVESTMENTS shall mean (i) commercial paper and municipal bonds, in
+each case issued or guaranteed by a Person rated P-1 or better by Moody's
+Investors Service, Inc. ("Moody's") or A-1 or MIG-1 or better by Standard &
+Poor's Corporation ("S & P"), (ii) certificates of deposit, time deposits,
+Eurodollar deposits or bankers' acceptances maturing not more than one year
+after the date of issue, issued by any commercial banking institution, which is
+a member of the Federal Reserve System and has a combined capital and surplus
+and undivided profits of not less than $100,000,000, (iii) repurchase agreements
+having maturities of not more than one year and which are secured by readily
+marketable direct obligations of the Government of the United States of America
+or any agency thereof, (iv) readily marketable obligations of the Government of
+the United States of America or any agency thereof; (v) readily marketable
+obligations issued by any state of the United States or any political
+subdivision thereof having a rating by Moody's or S & P of "A" or its equivalent
+or better; (vi) Margin Securities and (vii) mutual funds regularly traded in the
+
+                                      -11-
+<PAGE>
+
+United States of America whose investments are limited to those described in
+clauses (i) through (v) above.
+
+PERSON shall mean an individual, partnership, corporation, business trust, joint
+stock company, trust, unincorporated association, joint venture, governmental
+authority or other entity of whatever nature.
+
+PURCHASE MONEY OBLIGATIONS shall mean the Indebtedness (a) incurred to
+construct, purchase or lease Equipment and/or Real Estate and secured solely by
+a lien on the Equipment and/or Real Estate, including construction, sale
+leaseback and mortgage financing incurred in connection with Designated
+Sale-Leaseback Property; (b) of a Person existing at the time such Person is
+acquired by, merged into or consolidated with the Company in accordance with
+this Financing Agreement provided such Indebtedness is not secured by
+Collateral; or c) secured by property (other than Collateral) acquired by the
+Company existing at the time such property is or was acquired by the Company.
+
+REAL ESTATE shall mean the Company's leasehold and fee interests in real
+property.
+
+REASONABLE DISCRETION means the Agent's reasonable discretion in the exercise of
+its reasonable business judgement using standards customarily applied by the
+Agent to transactions involving retail clients and taking into account the
+nature of the Company's business, consistently applied by Agent. When used with
+respect to determination of reserves, in addition to the foregoing, such
+standard shall take into consideration amounts representing, historically, the
+Company's reserves, discounts, returns, claims, credits and allowances.
+
+REPORTING DATE shall mean any date on which the Company is to deliver to the
+Agent any Collateral report pursuant to Section 3.2 of this Financing Agreement,
+any financial statement or any other information requested of the Company
+pursuant to the terms of this Financing Agreement.
+
+REQUIRED LENDERS shall mean Lenders holding more than fifty percent (50%) of the
+outstanding loans, advances, extensions of credit and letter of credit
+participation interests of the Company hereunder.
+
+RETAINED CASH shall mean an amount of cash sufficient to provide the Company
+with cash in an amount necessary to stock the Company's cash registers at its
+retail locations and consistent with the business practices of the Company.
+
+REVOLVING LOANS shall mean the loans and advances made, from time to time, to or
+for the account of the Company by the Lenders acting through the Agent pursuant
+to Section 3 of this Financing Agreement.
+
+SENIOR NOTES shall mean the Company issued 10 7/8% Senior Notes due 2007 in the
+original amount of $131,000,000.00.
+
+SETTLEMENT DATE shall mean the date, weekly, and more frequently, at the
+discretion of the Agent, upon the occurrence of an Event of Default or a
+continuing decline or increase of the
+
+
+                                      -12-
+<PAGE>
+
+Revolving Loans that the Agent and the Lenders shall settle amongst themselves
+so that x) the Agent shall not have, as Agent, any money at risk and y) on such
+Settlement Date the Lenders shall have a pro rata amount of all outstanding
+Revolving Loans and Letters of Credit, provided that each Settlement Date for a
+Lender shall be a Business Day on which such Lender and its bank are open for
+business.
+
+SUBSIDIARY shall mean as to any Person, a corporation, partnership or other
+entity of which shares of stock or other ownership interest having ordinary
+voting power (other than stock or such other ownership interests having such
+power only by reason of the happening of a contingency) to elect a majority of
+the board of directors or other managers of such corporation, partnership or
+other entity are at the time owned, or the management of which is otherwise
+controlled, directly or indirectly through one or more intermediaries, or both,
+by such Person. Unless otherwise qualified, all references to a "Subsidiary" or
+to "Subsidiaries" in this Financing Agreement shall refer to a Subsidiary or
+Subsidiaries of the Company or the Parent.
+
+TOTAL ASSETS shall mean total assets of the Company and its Subsidiaries, on a
+consolidated basis, determined in accordance with GAAP, on a basis consistent
+with the latest audited statements of the Company and its Subsidiaries.
+
+TOTAL LIABILITIES shall mean total liabilities of the Company and its
+Subsidiaries, on a consolidated basis, determined in accordance with GAAP, on a
+basis consistent with the latest audited statements of the Company and its
+Subsidiaries.
+
+TRADE ACCOUNTS PAYABLE shall mean, at any time of determination, the amounts due
+any supplier for Inventory sold to the Company.
+
+TRADE ACCOUNTS RECEIVABLE shall mean, at any time of determination, the amounts
+due the Company by any i) credit card issuer and ii) any customer obligated on
+an invoice, in each instance due as a result of a sale of Inventory or the
+rendition of services by the Company.
+
+TRADEMARKS shall mean all present and hereafter acquired trademarks, trademark
+registrations, recordings, applications, trade names, trade styles, service
+marks, prints and labels (on which any of the foregoing may appear), licenses,
+reissues, renewals, and any other intellectual property and trademark rights
+pertaining to any of the foregoing, together with the goodwill associated
+therewith, and all cash and non-cash proceeds thereof.
+
+UCC shall mean the Uniform Commercial Code of the State of California, and any
+successor statute.
+
+WORKING CAPITAL shall mean Current Assets in excess of Current Liabilities.
+
+SECTION 2. CONDITIONS PRECEDENT
+
+      2.1 CONDITIONS TO THE INITIAL EXTENSION OF CREDIT. The obligation of the
+Lenders acting through the Agent to make loans hereunder is subject to the
+satisfaction of, or waiver of, immediately prior to or concurrently with the
+making of such loans, the following conditions precedent:
+
+
+                                      -13-
+<PAGE>
+
+            (a) AMENDMENT OF UCC FILINGS. Amendments to all existing UCC
+financing statements to amend the collateral descriptions thereunder to match
+the Collateral description set forth herein. The Agent shall have received
+acknowledgement copies of all such filings (or, in lieu thereof, Agent shall
+have received other evidence satisfactory to the Agent that all such filings
+have been made); and the Agent shall have received evidence that all necessary
+filing fees and all taxes or other expenses related to such filings have been
+paid in full.
+
+            (b) OPINIONS. Counsel for the Company shall have delivered to the
+Agent on behalf of the Lenders opinions satisfactory to the Agent opining, inter
+alia, that, subject to the i) filing, priority and remedies provisions of the
+Uniform Commercial Code, ii) the provisions of the Bankruptcy Code, insolvency
+statutes or other like laws, iii) the equity powers of a court of law and iv)
+such other matters as may be agreed upon with the Lenders, the Financing
+Agreement of the Company and the Guaranty of the Guarantor x) are valid, binding
+and enforceable according to their terms, y) are duly authorized and z) do not
+violate any terms, provisions, representations or covenants in the charter or
+by-laws of the Company or the Guarantor, or, to the knowledge of such counsel,
+after reasonable inquiry, of any loan agreement, mortgage, deed of trust, note,
+security or pledge agreement or indenture, identified by the Company and the
+Guarantor to such counsel as material, to which the Company and/or the Guarantor
+is a signatory or by which the Company or the Guarantor or its assets are bound.
+
+            (c) ADDITIONAL DOCUMENTS. The Company shall execute and deliver to
+the Agent for the benefit of the Lenders all loan documents necessary to
+consummate the lending arrangement contemplated between the Company and the
+Lenders.
+
+            (d) BOARD RESOLUTION. The Agent for the benefit of the Lenders shall
+have received a copy of the resolutions of the Board of Directors of the
+Company, authorizing the execution, delivery and performance of (i) this
+Financing Agreement, and (ii) any related agreements, certified by the Secretary
+or Assistant Secretary of the Company, as of the date hereof, together with a
+certificate of the Secretary or Assistant Secretary of the Company as to the
+incumbency and signature of the officers of the Company executing this Financing
+Agreement and any certificate or other documents to be delivered by it pursuant
+hereto, together with evidence of the incumbency of such Secretary or Assistant
+Secretary.
+
+            (e) CORPORATE ORGANIZATION. The Agent for the benefit of the Lenders
+shall have received (i) a copy of the Certificate of Incorporation of the
+Company certified by the Secretary of State of its incorporation, and (ii) a
+copy of the By-Laws (as amended through the date hereof) of the Company and
+certified by the Secretary or Assistant Secretary of the Company.
+
+            (f) OFFICER'S CERTIFICATE. The Agent for the benefit of the Lenders
+shall have received an executed Officer's Certificate of the Company,
+satisfactory in form and substance to the Agent, certifying that: (i) the
+representations and warranties contained herein are true and correct in all
+material respects on and as of the date hereof; (ii) the
+
+
+                                      -14-
+<PAGE>
+
+Company is in compliance with all of the terms and provisions set forth herein;
+and (iii) no Event of Default or Default has occurred.
+
+            (g) ABSENCE OF DEFAULT. No material adverse change in the financial
+condition, business, prospects, profits (after giving affect to the seasonal
+nature of the Company's business), operations or assets of the Company shall
+have occurred since September 29, 2002. No Default or Event of Default shall
+exist as of the date of this Financing Agreement.
+
+            (h) LEGAL RESTRAINTS/LITIGATION. At the date of execution of this
+Financing Agreement, there shall be, to the actual knowledge of the management
+of the Company or to the actual knowledge of any Lender, no x) litigation,
+investigation or proceeding (judicial or administrative) pending or threatened
+against the Company or its assets, by any agency, division or department of any
+county, city, state, province or federal government arising out of this
+Financing Agreement, or the financing arrangement contemplated under this
+Financing Agreement, y) injunction, writ or restraining order restraining or
+prohibiting the consummation of the financing arrangements contemplated under
+this Financing Agreement or z) suit, action, investigation or proceeding
+(judicial or administrative) pending or threatened against the Company, or its
+assets, which, is reasonably likely to result in a material adverse effect on
+the business, operation, assets or financial condition of the Company or the
+Collateral.
+
+            (i) CONFIRMATION OF GUARANTY. The Guarantor shall have executed and
+delivered to the Agent, for the benefit of the Lenders, a confirmation of the
+continued effectiveness of its guaranty, in form and substance reasonably
+acceptable to the Agent.
+
+            Upon the execution of this Financing Agreement and the initial
+disbursement of loans hereunder, all of the above Conditions Precedent shall
+have been deemed satisfied except as the Company and the Agent shall otherwise
+agree herein or in a separate writing.
+
+      2.2 CONDITIONS TO EACH EXTENSION OF CREDIT.
+
+            (a) Subject to the terms of this Financing Agreement, including
+without limitation the Agent's rights pursuant to Section 10.2 hereof, the
+agreement of the Agent on behalf of the Lenders to make any extension of credit
+requested to be made by it to the Company on any date (including, without
+limitation, the initial extension of credit) is subject to the satisfaction of
+the following conditions precedent:
+
+                  (i) Representations and Warranties - Each of the
+representations and warranties made by the Company in or pursuant to this
+Financing Agreement shall be true and correct in all material respects on and as
+of such date as if made on and as of such date.
+
+                  (ii) No Default - No Default or Event of Default shall have
+occurred and be continuing on such date or after giving effect to the extension
+of credit requested to be made on such date.
+
+
+                                      -15-
+<PAGE>
+
+                  (iii) Borrowing Base - Subject to the last sentence of Section
+3.1 and after giving effect to the extension of credit requested to be made by
+the Company on such date, the aggregate outstanding balance of the Revolving
+Loans and outstanding Letters of Credit owing by the Company will not exceed the
+amount calculated as (A) the lesser of (i) the Revolving Line of Credit or (ii)
+the Borrowing Base, minus (B) the Availability Reserves.
+
+            (b) Each borrowing by the Company hereunder shall constitute a
+representation and warranty by the Company as of the date of such loan or
+advance that each of the representations, warranties and covenants contained in
+the Financing Agreement have been satisfied and are true and correct, except as
+the Company and the Agent and/or the Required Lenders shall otherwise agree
+herein or in a separate writing.
+
+SECTION 3. REVOLVING LOANS
+
+      3.1 The Lenders, acting through the Agent, agree, subject to the terms and
+conditions of this Financing Agreement from time to time, and within x) the
+Availability and y) the Line of Credit, but subject to the Agent's and the
+Lenders' (acting through the Agent) rights to make "Overadvances", to make loans
+and advances to the Company on a revolving basis, and subject to the limitations
+set forth herein, the Company may borrow, repay and re-borrow Revolving Loans.
+All Revolving Loans shall be made by the Lenders simultaneously and in
+accordance with their pro rata shares. It is understood that (i) no Lender shall
+be responsible for any failure by any other Lender to perform its obligation to
+make any Revolving Loans hereunder, nor shall any commitment of any Lender be
+increased or decreased as a result of any failure by any other Lender to perform
+its obligation to make any Revolving Loans hereunder, (ii) no failure by any
+Lender to perform its obligation to make any Revolving Loans hereunder shall
+excuse any other Lender from its obligation to make any Revolving Loans
+hereunder, and (iii) the obligations of each Lender hereunder shall be several,
+not joint and several. Prior to an updated appraisal performed by Agent, such
+loans shall be in amounts up to seventy percent (70%) of Eligible Inventory
+during the months of November, December, January and February of each year, and
+sixty-five percent (65%) of Eligible Inventory during the months of March
+through October of each year. Following an appraisal performed by Agent, such
+loans and advances shall be in amounts up to the lesser of (i) seventy-five
+percent (75%) of Eligible Inventory during the months of November, December,
+January and February of each year, and seventy percent (70%) of Eligible
+Inventory during the months of March through October of each year; or (ii)
+eighty-five percent (85%) of the orderly liquidation value (net of all costs and
+expenses) of the Eligible Inventory. The value of Eligible Inventory shall be
+determined at cost, by the cost inventory method, using a valuation on a first
+in, first out basis in accordance with GAAP excluding capitalized buying,
+handling and distribution costs, as reflected on the Company's books and
+records. The net orderly liquidation value of the Eligible Inventory shall be
+determined from time to time in the Agent's Reasonable Discretion taking into
+account the results of the latest appraisal. All requests for loans and advances
+(other than LIBOR Loans) must be received by an officer of the Agent no later
+than 2:00 p.m. New York time on the Business Day on which such loans and
+advances are required. Should the Company request advances in excess of the
+limitations set forth in the fourth sentence, or, following an appraisal, fifth
+sentence, as the case may be, of this
+
+
+                                      -16-
+<PAGE>
+
+Section 3.1, such advances shall be considered "Overadvances" and, shall be made
+by the Agent only with the consent of the Required Lenders and in the sole
+discretion of the Required Lenders, subject to any additional terms the Required
+Lenders deem necessary, and subject to the terms and provisions of clause (c) of
+Section 12.10 hereof.
+
+      3.2 In furtherance of the continuing collateral assignment and security
+interest in the Company's Accounts and Inventory, the Company shall deliver to
+the Agent not later than: 1) thirty (30) days after the end of each month an
+aging of the Company's Trade Accounts Receivable in such form and manner as the
+Agent may reasonably require but consistent with the current practices of the
+Company (provided, however, that such aging reports shall not be required in any
+month when the amount of the Trade Accounts Receivable are less than
+$3,500,000.00); 2) fourteen (14) days after the end of each month (other than
+October, November and December), a monthly inventory confirmation statement
+stating the aggregate amount of Eligible Inventory of the Company; and 3) five
+(5) Business Days after each Sunday in the months of October, November and
+December, a weekly Inventory confirmation statement stating the aggregate amount
+of Eligible Inventory of the Company. With respect to all such reports, the
+Company will provide to the Agent such additional information and material as
+the Agent may reasonably request to effectively evaluate the Trade Accounts
+Receivable and the collectability thereof and the mix of the Inventory and such
+other information as the Agent may reasonably require to evaluate the Company's
+Trade Accounts Receivable and Inventory, such as returns, claims, credits,
+allowances and information identifying and describing the Trade Accounts
+Receivable. Failure to provide the Agent with the foregoing information will in
+no way effect, diminish, modify, or limit the security interest granted herein.
+Such reports are to be executed by a responsible officer of the Company.
+
+      3.3 The Company hereby represents and warrants that: a) sales of Inventory
+are, and shall be, based upon actual and bona fide sales and deliveries of
+Inventory x) in the ordinary course of the Company's business, y) in connection
+with the liquidation of an immaterial portion of the Inventory or z) after the
+occurrence of a casualty loss, bulk sales of salvageable Inventory, and that, in
+any instance, the Inventory being sold and the proceeds thereof are the
+exclusive property of the Company and are not and shall not be subject to any
+lien, charge, arrangement, encumbrance, security interest, or financing
+statement whatsoever other than the Permitted Encumbrances, provided, however
+that if there is then no Default or Event of Default, the Company may make
+charitable transfers of Inventory in an amount not to exceed $1,000,000.00 in
+any fiscal year; b) invoices representing Trade Accounts Receivable or credit
+card receipts evidencing credit card sales are in the name of the Company and
+except for disputes, offsets, defenses, counterclaims, contras, returns or
+credits, all arising in the normal course of the Company's business or except as
+may be promptly disclosed to the Agent, the purchasers of such Inventory owe and
+are obligated to pay the amount stated in the invoices or credit card receipts;
+and c) except for the Permitted Encumbrances, any and all taxes and fees
+relating to its business are the Company's sole responsibility and that same
+will be paid when due (except as otherwise provided in this Financing
+Agreement), and that none of said taxes or fees represent a lien on or claim
+against the proceeds of any sale of Inventory. The Company agrees to issue
+credit memoranda promptly. The Company also warrants and represents that it is a
+duly and validly existing corporation and is qualified to transact business in
+all states where the
+
+
+                                      -17-
+<PAGE>
+
+failure to so qualify would have a material adverse effect on the business of
+the Company or the ability of such Company to enforce collection of Trade
+Accounts Receivable due from Persons residing in that state.
+
+      3.4 During the term of this Financing Agreement, the Company may and will,
+at its expense, consistent with the Company's existing business practices,
+enforce, collect and receive all amounts owing on the Accounts. Except for the
+Retained Cash, all checks or cash from the sale of Inventory must be deposited
+promptly to the Depository Accounts, and promptly thereafter and therefrom, to a
+Blocked Account. The Company shall require that all amounts due under credit
+card sales be remitted by the credit card companies to a Blocked Account. The
+Company agrees that it will only direct the flow of funds from the Depository
+Accounts and the credit card remitters to the Blocked Accounts. The institutions
+holding such Blocked Accounts will be instructed that when it is satisfied that
+such funds on deposit are "good funds", such institution will remit such "good
+funds" to the Company's operating account. Notwithstanding anything herein
+contained to the contrary, if x) there is then an Event of Default or y) the
+Company has Availability of less than zero ($0) for three (3) consecutive
+Business Days, then the Agent, acting on behalf of the Lenders, may advise the
+banks holding the Blocked Accounts to remit all proceeds of Collateral to the
+Agent for the account of the Lenders. The Agent will immediately rescind these
+instructions a) upon the waiver of the Event of Default and b) when the Company
+has Availability of zero ($0) or greater. All amounts received by the Agent for
+the account of the Lenders will be credited to the Obligations upon the Agent's
+receipt of "good funds" at its bank account in New York, New York on the
+Business Day of receipt if received no later than 2 p.m. New York time or on the
+next succeeding Business Day if received after 2 p.m. New York time. No checks,
+drafts or other instruments received by the Agent will constitute final payment
+unless and until such instruments have actually been collected. If the loan
+account reflects a zero Revolving Loan balance and there is then no Event of
+Default, then the Agent shall promptly remit to the operating account of the
+Company any credit balances in the loan account.
+
+      3.5 The Agent shall maintain a separate account on its books in the
+Company's name in which the Company will be charged with loans, advances and
+payments under the Letter of Credit Guaranty, made to the Company or for its
+account, and with any other Obligations, including any and all reasonable costs,
+expenses and reasonable and documented attorney's fees which the Agent may incur
+in connection with the exercise of any of the rights or powers herein conferred
+or in the prosecution or defense of any action or proceeding to enforce or
+protect any rights of the Agent or of any Lender in connection with this
+Financing Agreement or the Collateral assigned hereunder, or any Obligations
+owing by the Company. The Company will be credited with all amounts received by
+the Agent from the Company or from others for the Company's account, including,
+as above set forth, all amounts received by the Agent in payment of Accounts and
+such amounts will be applied to payment of the Obligations. In no event shall
+prior recourse to any Accounts or other security granted to or by the Company be
+a prerequisite to the Agent's right to demand payment of any Obligation.
+Further, it is understood that neither the Agent nor any Lender shall have any
+obligation whatsoever to perform in any respect any of the Company's contracts
+or obligations relating to the Accounts.
+
+
+                                      -18-
+<PAGE>
+
+      3.6 After the end of each month, the Agent, on its own behalf and/or
+acting on behalf of the Lenders, shall promptly send the Company a statement
+showing the accounting for the charges, loans, advances, payments under the
+Letter of Credit Guaranty, and other transactions occurring between the Agent,
+on its own behalf, and/or acting on behalf of the Lenders and the Company during
+that month. The monthly statement shall be deemed correct and binding upon the
+Company and shall constitute an account stated between the Company, the Agent,
+and the Lenders unless the Agent receives a written statement of the exceptions
+within thirty (30) days of the date of the monthly statement.
+
+      3.7 In the event that (a) the sum of (i) the outstanding balance of
+Revolving Loans plus (ii) the outstanding balance of Letters of Credit exceeds
+(b) the amount calculated as (i) the lesser of (A) the Revolving Line of Credit
+or (B) the Borrowing Base, minus (ii) the Availability Reserves, any such
+nonconsensual Overadvance shall be due and payable to Agent immediately upon
+Agent's demand therefor; provided, however, that any consensual Overadvance made
+pursuant to Section 3.1 hereof shall be due as and when specified in the
+requisite consent of Required Lenders.
+
+SECTION 4. LETTERS OF CREDIT
+
+      In order to assist the Company in establishing or opening i) documentary
+Letters of Credit with an Issuing Bank to cover the purchase and importation of
+inventory and ii) standby Letters of Credit with an Issuing Bank to cover such
+other matters as the Company may so decide, other than for the purchase of
+Inventory or to secure present or future Trade Accounts Payable, the Company has
+requested the Agent, acting on behalf of the Lenders, to join in the
+applications for such Letters of Credit, and/or guarantee payment or performance
+of such Letters of Credit and any drafts or acceptances thereunder through the
+issuance of the Letters of Credit Guaranty, thereby lending the Lenders' credit
+to the Company and the Lenders, acting through the Agent, have agreed to do so.
+These arrangements shall be handled by the Agent, acting on behalf of the
+Lenders, subject to the terms and conditions set forth below.
+
+      4.1 Within the Line of Credit and subject to Availability, the Lenders,
+acting through the Agent, shall assist the Company in obtaining such Letters of
+Credit in an amount not to exceed $15,000,000.00 in the aggregate outstanding at
+any one time. The Agent's assistance with respect to Letters of Credit for
+amounts in excess of the limitations set forth herein shall at all times and in
+all respects be in the Agent's sole discretion. Notwithstanding anything herein
+to the contrary, upon the occurrence of a Default and/or an Event of Default,
+the Agent's assistance with respect to any Letters of Credit shall be in the
+Agent's sole discretion unless such Event of Default is waived in writing, or
+such Default is cured to the Agent's satisfaction in the exercise of its
+reasonable business judgment during any applicable grace or cure period.
+
+      4.2 The Agent, acting on behalf of the Lenders, shall have the right,
+without notice to the Company, to charge the loan account with the amount of any
+and all indebtedness, liability or obligation of any kind paid or incurred under
+the Letters of Credit Guaranty at the earlier of: a) payment by the Agent under
+the Letters of Credit Guaranty, or b) termination of this Financing Agreement in
+accordance with Section 10 of this Financing
+
+
+                                      -19-
+<PAGE>
+
+Agreement. Any amount so charged to the loan account shall be charged against
+any credit balances then in the loan account, and if there are then insufficient
+credit balances then to the extent of such insufficiency such amount shall be
+deemed a Revolving Loan hereunder and shall incur interest at the rate provided
+for in Section 7.1 of this Financing Agreement.
+
+      4.3 [Intentionally Left Blank].
+
+      4.4 In connection with any Letter of Credit, neither the Agent nor any
+Lender shall be responsible for: the existence, character, quality, quantity,
+condition, packing, value or delivery of the goods purporting to be represented
+by any documents; any difference or variation in the character, quality,
+quantity, condition, packing, value or delivery of the goods from that expressed
+in the documents; the validity, sufficiency or genuineness of any documents or
+of any endorsements thereon, even if such documents should in fact prove to be
+in any or all respects invalid, insufficient, fraudulent or forged, other than
+as a result of the gross negligence of the Agent and/or any Lender; the time,
+place, manner or order in which shipment is made; partial or incomplete
+shipment, or failure or omission to ship any or all of the goods referred to in
+the Letters of Credit or documents; any deviation from instructions; delay,
+default, or fraud by the shipper and/or anyone else in connection with any
+Inventory which is the subject of any Letter of Credit or the shipping thereof;
+or any breach of contract between the shipper or vendors and the Company.
+Furthermore, without being limited by the foregoing, neither the Agent nor any
+Lender shall be responsible for any act or omission with respect to or in
+connection with any Inventory which is the subject of any Letter of Credit.
+
+      4.5 In connection with any Letter of Credit, the Company agrees that any
+action taken by the Agent, if taken in good faith, or any action taken by any
+Issuing Bank, under or in connection with the Letters of Credit, the guarantees,
+the drafts or acceptances, or the Collateral, shall, as between the Company and
+the Agent, be binding on the Company and shall not put the Agent or any Lender
+in any resulting liability to the Company other than as a result of the gross
+negligence or willful misconduct of the Agent or such Lender. After the
+occurrence of an Event of Default which is not waived, the Agent shall have the
+full right and authority to clear and resolve any questions of non-compliance of
+documents; to give any instructions as to acceptance or rejection of any
+documents or goods; to execute any and all steamship or airways guaranties (and
+applications therefor), indemnities or delivery orders; to grant any extensions
+of the maturity of, time of payment for, or time of presentation of, any drafts,
+acceptances, or documents; and to agree to any amendments, renewals, extensions,
+modifications, changes or cancellations of any of the terms or conditions of any
+of the applications, Letters of Credit, drafts or acceptances; all in the
+Agent's sole name, and the Issuing Bank shall be entitled to comply with and
+honor any and all such documents or instruments executed by or received solely
+from the Agent, all without any notice to or any consent from the Company,
+provided, however, that the Agent shall give the Company notice of the
+acceptance or rejection of any goods.
+
+      4.6 In connection with any Letter of Credit, without the Agent's express
+consent (which consent shall not be unreasonably withheld) and, where
+applicable, endorsement in writing, the Company agrees: a) not to execute any
+and all applications for steamship or airway guaranties, indemnities or delivery
+orders; to grant any extensions of the maturity of,
+
+
+                                      -20-
+<PAGE>
+
+time of payment for, or time of presentation of, any drafts, acceptances or
+documents; or to agree to any amendments, renewals, extensions, modifications or
+changes of any of the terms or conditions of any of the Letters of Credit,
+applications, drafts or acceptances; and b) after the occurrence of an Event of
+Default which is not waived, not to i) clear and resolve any questions of
+non-compliance of documents, or ii) give any instructions as to acceptance or
+rejection of any documents or goods.
+
+      4.7 In connection with any Letter of Credit, the Company agrees that any
+necessary import, export or other licenses or certificates for the import or
+handling of the Inventory will have been promptly procured, and all foreign and
+domestic governmental laws and regulations in regard to the shipment and
+importation of the Inventory, or the financing thereof will have been promptly
+and fully complied with, except to the extent that any such non-procurement or
+non-compliance will not have a material adverse effect on such Inventory; and
+any certificates in that regard that the Agent, on behalf of the Lenders, may at
+any time reasonably request will be promptly furnished. In this connection, the
+Company warrants and represents that, to its actual knowledge, all shipments
+made under any of the Letters of Credit are in accordance with the laws and
+regulations of the countries in which the shipments originate and terminate, and
+are not prohibited by any such laws and regulations, except to the extent that
+any failure to so comply will not have a material adverse effect on such
+shipments. The Company assumes all risk, liability and responsibility for, and
+agrees to pay and discharge, all present and future local, state, federal or
+foreign taxes, duties, or levies in connection with any Inventory or goods
+purchased, imported or acquired under the Letter of Credit. Any embargo,
+restriction, laws, customs or regulations of any country, state, province, city,
+or other political subdivision, where the Inventory is or may be located, or
+wherein payments are to be made, or wherein drafts may be drawn, negotiated,
+accepted, or paid, shall be solely the Company's risk, liability and
+responsibility.
+
+      4.8 Upon any payments made to the Issuing Bank under the Letter of Credit
+Guaranty, the Agent, for the benefit of the Lenders, shall acquire by
+subrogation, any rights, remedies, duties or obligations granted or undertaken
+by the Company to the Issuing Bank in any application for Letters of Credit, any
+standing agreement relating to Letters of Credit or otherwise, all of which
+shall be deemed to have been granted to the Agent for the benefit of the Lenders
+and apply in all respects to the Agent and the Lenders and shall be in addition
+to any rights, remedies, duties or obligations contained herein.
+
+      4.9 Nothing in this Financing Agreement is intended to relieve any Issuing
+Bank from any liability to any Person.
+
+SECTION 5. COLLATERAL
+
+      5.1 As security for the prompt payment in full of all loans and advances
+made and to be made to the Company from time to time by the Agent on behalf of
+the Lenders pursuant hereto, as well as to secure the payment in full of the
+other Obligations, the Company hereby pledges and grants to the Agent for the
+benefit of the Lenders a continuing general lien upon and security interest in
+all of its:
+
+
+                                      -21-
+<PAGE>
+
+            (a)   Accounts;
+
+            (b)   Documents of Title;
+
+            (c)   Equipment;
+
+            (d)   General Intangibles;
+
+            (e)   Inventory; and
+
+            (f)   Other Collateral.
+
+      5.2 The security interests granted hereunder shall extend and attach to:
+
+            (a) All Collateral which is presently in existence and which is
+owned by the Company or in which the Company has any interest (but only to the
+extent of such interest), whether held by the Company or others for its account;
+
+            (b) All Inventory and any portion thereof which may be returned,
+rejected, reclaimed or repossessed by either the Agent or the Company from any
+of the Company's customers, as well as to all supplies, goods, incidentals,
+packaging materials, labels and any other items which contribute to the finished
+goods or products manufactured or processed by the Company, or to the sale,
+promotion or shipment thereof.
+
+      5.3 The Company agrees to take reasonable steps, consistent with current
+business practices, to safeguard, protect and hold all Inventory and make no
+disposition thereof except in the manner or for the purpose described in Section
+3.3 of this Financing Agreement. Inventory may be sold and shipped by the
+Company to its customers in the ordinary course of the Company's business, and
+the Company will collect all proceeds of such sales, consistent with reasonable
+business practices in existence on the date of execution of this Financing
+Agreement or consistent with the business practices of like companies in the
+retail industry, provided, however, that all proceeds of all such sales
+(including cash, checks and instruments for the payment of money), other than
+the Retained Cash, are promptly deposited in accordance with Section 3.4 of this
+Financing Agreement. Upon the sale, exchange, or other disposition of Inventory,
+as herein provided, the security interest in the Inventory provided for herein
+shall, without break in continuity and without further formality or act,
+continue in, and attach to, the proceeds, including any instruments for the
+payment of money, accounts receivable, contract rights, documents of title,
+shipping documents, chattel paper and all other cash and non-cash proceeds of
+such sale, exchange or disposition. As to any such sale, exchange or other
+disposition, the Agent on behalf of the Lenders shall have a security interest
+in all of the rights of the Company as an unpaid seller, including stoppage in
+transit, replevin, rescission and reclamation. The Company hereby agrees to
+immediately forward any and all proceeds of Collateral (other than Retained
+Cash) to the Depository Account, and to hold any such proceeds (including any
+notes and instruments), in trust for the Agent, on behalf of the Lenders,
+pending delivery to the Agent. Irrespective of the Agent's perfection status in
+any and all of the General Intangibles, including, without limitations, any
+Patents, Trademarks, Copyrights or licenses with respect thereto, the Company
+hereby irrevocably grants the Agent a royalty free license to sell, or
+
+
+                                      -22-
+<PAGE>
+
+otherwise dispose of or transfer, in accordance with Section 9.3 of this
+Financing Agreement, and the applicable terms hereof, any of the Inventory upon
+the occurrence of an Event of Default which has not been waived in writing by
+the Agent.
+
+      5.4 The rights and security interests granted to the Agent for the benefit
+of the Lenders hereunder are to continue in full force and effect,
+notwithstanding the termination of this Financing Agreement or the fact that the
+loan account on the books of the Agent may from time to time be temporarily in a
+credit position, until the satisfaction in full of all Obligations and the
+termination of this Financing Agreement. Any delay or omission by the Agent to
+exercise any right hereunder, shall not be deemed a waiver thereof, or be deemed
+a waiver of any other right, unless such waiver shall be in writing and signed
+by the Agent. A waiver on any one occasion shall not be construed as a bar to or
+waiver of any right or remedy on any future occasion. Upon satisfaction in full
+of all Obligations and the termination of this Financing Agreement, the Agent
+will take, at the Company's request and expense, all actions and do all things
+reasonably necessary to release the rights and security interests in the
+Collateral, and upon any partial release of Collateral, the Agent will take, at
+the Company's request and expense, all actions and do all things reasonably
+necessary to release the rights and security interests in the Collateral that is
+the subject of such partial release.
+
+      5.5 To the extent that the Obligations are now or hereafter secured by any
+assets or property other than the Collateral or by the guarantee, endorsement,
+assets or property of any other person, then the Agent shall have the right in
+its sole discretion to determine which rights, security, liens, security
+interests or remedies the Agent shall at any time pursue, foreclose upon,
+relinquish, subordinate, modify or take any other action with respect to,
+without in any way modifying or affecting any of them, or any of the Agent's or
+any Lenders' rights hereunder.
+
+      5.6 Any reserves or credit balances in the loan account and any other
+property or assets of the Company in the possession of the Agent may be held by
+the Agent as security for any Obligations and applied in whole or partial
+satisfaction of such Obligations when due. The liens and security interests
+granted herein and any other lien or security interest the Agent may have in any
+other assets of the Company, shall secure payment and performance of all now
+existing and future Obligations. The Agent may, in its Reasonable Discretion,
+charge any or all of the Obligations to the Revolving Loan Account when due.
+
+      5.7 The Company possesses all General Intangibles and rights thereto
+necessary to conduct its business as conducted as of the Closing Date and the
+Company shall maintain its rights in, and the value of, the foregoing in the
+ordinary course of its business, including, without limitation, by making timely
+payment with respect to any applicable licensed rights. The Company shall
+deliver to the Agent, and/or shall cause the appropriate party to deliver to the
+Agent, from time to time such pledge or security agreements with respect to
+General Intangibles (now or hereafter acquired) of the Company and its
+subsidiaries as the Agent shall reasonably require to obtain valid first liens
+thereon (subject to the Permitted Encumbrances set forth in the definition
+thereof in clauses (i) (if and to the extent consented to by Lenders as senior
+liens), (ii), (vi), (vii), (ix), (x), (xi), and, with respect to such clauses
+only, (xii)). In furtherance of the foregoing, the Company shall provide timely
+notice to the
+
+
+                                      -23-
+<PAGE>
+
+Agent of any additional Patents, Trademarks, trade names, service marks,
+Copyrights, brand names, trade names, logos and other trade designations
+acquired or applied for subsequent to the Closing Date and the Company shall
+execute such documentation as the Agent may reasonably require to obtain and
+perfect its lien thereon. The Company hereby irrevocably grants to the Agent a
+royalty-free, non-exclusive license in the General Intangibles, including trade
+names, Trademarks, Copyrights, Patents, licenses, and any other proprietary and
+intellectual property rights and any and all right, title and interest in any of
+the foregoing, for the sole purpose, upon the occurrence and during the
+continuance of an Event of Default, of having the right to advertise for sale
+and sell or transfer any Inventory bearing any of the General Intangibles, and
+apply the proceeds thereof to the Obligations hereunder, all as further set
+forth in this Financing Agreement and irrespective of the Agent's lien and
+perfection in any General Intangibles.
+
+SECTION 6. REPRESENTATIONS, WARRANTIES AND COVENANTS
+
+      6.1 The Company hereby warrants and represents that: i) the fair value of
+its assets exceed the book value of its liabilities; ii) the Company is
+generally able to pay its debts as they become due and payable; and iii) the
+Company does not have unreasonably small capital to carry on its business as it
+is currently conducted absent extraordinary and unforeseen circumstances. The
+Company further warrants and represents that except for the Permitted
+Encumbrances and liens of which the Agent is aware on the date hereof, each of
+the security interests granted herein constitute and shall at all times
+constitute the first and only liens on the Collateral. Further, that except for
+the Permitted Encumbrances, the Company is or will be at the time additional
+Collateral is acquired by it, the absolute owner of the Collateral with full
+right to pledge, sell, consign, transfer and create a security interest therein,
+free and clear of any and all claims, consignments, or liens in favor of others,
+that the Company will, at its expense, defend the same from any and all claims
+and demands (other than the Permitted Encumbrances) of any other person.
+
+      6.2 The Company agrees to maintain accurate books and records pertaining
+to the Collateral. Prior to the occurrence of an Event of Default, the Agent,
+accompanied by the Lenders or their respective agents may, from time to time
+(but no more than twice per fiscal year of the Company) upon reasonable notice,
+enter upon the Company's premises at any time during normal business hours, or
+at such other times as the Agent and the Company may agree upon, for the purpose
+of inspecting the Collateral and any and all records pertaining thereto, all at
+the Agent's and the applicable Lender's expense. During the continuance of an
+Event of Default, the Agent, accompanied by the Lenders or their respective
+agents may, at the Company's expense, enter the Company's premises, upon
+reasonable notice and during normal business hours, and as often as the Agent
+deems reasonably necessary, to inspect the Collateral and the books and records
+of the Company. The Company agrees to afford the Agent prior written notice of
+any change in the location of any Collateral, other than to locations that are
+known to the Agent and at which the Agent has otherwise fully perfected its
+liens thereon. Set forth on Schedule I hereto is a list of all of the Company's
+retail stores and the addresses of such stores. The Company is also to advise
+the Agent promptly, in sufficient detail, of any material adverse change
+relating to the type, quantity or quality of the Collateral or on the security
+interests granted to the Agent therein.
+
+
+                                      -24-
+<PAGE>
+
+      6.3 [Intentionally Left Blank].
+
+      6.4 The Company agrees to comply with the requirements of all state and
+federal laws in order to grant to the Agent for the benefit of the Lenders valid
+and perfected first security interests in the Collateral, subject only to the
+Permitted Encumbrances. The Agent is hereby authorized by the Company, to the
+extent permitted by applicable law, to file any financing statements covering
+the Collateral whether or not the Company's signature appears thereon and the
+Agent agrees to provide the Company with copies of such financing statements.
+The Company hereby consents to and ratifies any and all execution and/or filing
+of financing statements on or prior to the Closing Date by the Agent. The
+Company agrees to do whatever the Agent may reasonably request, from time to
+time, by way of: filing notices of liens, financing statements, amendments,
+renewals and continuations thereof; cooperating with the Agent's employees and
+agents; keeping Inventory stock records; transferring proceeds of Collateral to
+the Agent's possession in accordance with the terms of this Financing Agreement;
+and performing such further acts as the Agent on behalf of the Lenders may
+reasonably require in order to effect the purposes of this Financing Agreement.
+
+      6.5 The Company agrees to i) maintain on Inventory, insurance under such
+policies of insurance, with such insurance companies, in such reasonable amounts
+and covering such insurable risks on as is reasonably acceptable to the Agent
+and ii) maintain or caused to be maintained on Real Estate and Equipment,
+insurance under such policies of insurance with such insurance companies
+selected by the Company, on terms no less favorable than the insurance coverage
+in place as of the date hereof (other than with respect to the deductible
+amounts and limits of such coverage). All policies covering the Inventory are,
+subject to the rights of any holders of Permitted Encumbrances holding claims
+senior to the Agent, to be made payable to the Agent on behalf of the Lenders
+under a standard non-contributory "mortgagee", "lender" or "secured party"
+clause and are to contain such other provisions as the Agent may reasonably
+require to fully protect by insurance the Agent's interest in the Inventory and
+to any payments to be made under such policies with respect to the Inventory.
+All original policies or true copies thereof or certificates thereof are to be
+delivered to the Agent, with all premiums current with the loss payable
+endorsement in the Agent's favor, and shall provide for not less than ten (10)
+days prior written notice to the Agent of the exercise of any right of
+cancellation. If the Company fails to maintain such insurance, the Agent may
+arrange for such insurance, but at the Company's expense and without any
+responsibility on the Agent's or any Lender's part for: obtaining the insurance,
+the solvency of the insurance companies, the adequacy of the coverage, or the
+collection of claims. Upon the occurrence of an Event of Default which is not
+waived, the Agent shall, subject to the rights of any holders of Permitted
+Encumbrances holding claims senior to the Agent, have the sole right, in the
+name of the Agent or the Company, to file claims under any insurance policies
+with respect to the Inventory, to receive, receipt and give acquittance for any
+payments that may be payable thereunder with respect to the Inventory, and to
+execute any and all endorsements, receipts, releases, assignments, reassignments
+or other documents that may be necessary to effect the collection, compromise or
+settlement of any claims with respect to the Inventory under any such insurance
+policies. In the event of any loss or damage by fire or other casualty,
+insurance proceeds relating to Collateral shall be deposited in the Depository
+Accounts in accordance with Section 3.4 of this Financing Agreement.
+
+
+                                      -25-
+<PAGE>
+
+      6.6 The Company agrees to pay, when due, all local, domestic and foreign
+(as applicable) taxes, assessments, and other charges (herein "taxes") lawfully
+levied or assessed upon the Company or the Collateral, provided, however, that
+such taxes need not be paid on or before the date fixed for payment thereof if:
+i) such taxes are being diligently contested by the Company in good faith and by
+appropriate proceedings; ii) the Company establishes such reserves as may be
+required by GAAP; iii) such taxes are not secured by a filed lien which is
+senior to the liens of the Agent on the Collateral and iv) such taxes secured by
+a filed lien are not due the United States of America. To prevent the imminent
+foreclosure of any tax liens (whether such liens are senior or junior to the
+liens of the Agent) or in the event the Agent on behalf of the Lenders is
+exercising its remedies as a secured creditor on Collateral, then the Agent may,
+on the Company's behalf, pay any taxes then due and secured by a lien on the
+Collateral and the amount thereof shall be an Obligation secured hereby.
+
+      6.7 Subject to the provisions of Section 6.6 above, the Company: (a)
+agrees to comply with all acts, rules, regulations and orders of any
+legislative, administrative or judicial body or official, including, but not
+limited to, the Fair Labor Standards Act, as set forth in Section 201 through
+Section 219 of Title 29 of the United States Code, which the failure to comply
+with would have a materially adverse impact on the Collateral, or on the
+operation of the business of the Company, provided that the Company may contest
+any acts, rules, regulations, orders and directions of such bodies or officials
+in any reasonable manner which will not materially adversely effect the Agent's
+liens or priority in the Collateral; and (b) agrees to comply with all
+environmental statutes, acts, rules, regulations or orders as presently existing
+or as adopted or amended in the future, applicable to the ownership and/or use
+of its Real Estate and operation of its business, which the failure to comply
+with would have a materially adverse impact on any material part of the
+Collateral, or on the operation of the business of the Company. The Company
+shall not be deemed to have breached any provision of this Section 6.7 if (i)
+the failure to comply with the requirements of this Section 6.7 resulted from
+good faith error or innocent omission, (ii) the Company promptly commences and
+diligently pursues a cure of such breach and such cure is eventually, within a
+reasonable time frame based upon the circumstances and the amount of work
+required, completed and (iii) such failure has not resulted in a materially
+adverse effect on any material portion of the Collateral or the business,
+financial condition or operations of the Company.
+
+      6.8 Until termination of this Financing Agreement and satisfaction in full
+of all Obligations due hereunder, the Company agrees that, unless the Agent
+shall have otherwise consented in writing, the Company will furnish, or cause to
+be furnished, to the Agent, not later than: (a) one hundred and twenty (120)
+days after the end of each fiscal year of the Company, an audited Consolidated
+Balance Sheet as at the close of such year and consolidated statements of
+operations, cash flows, shareholders' equity and reconciliation of surplus of
+the Parent, the Company and their Subsidiaries for such year, audited by
+independent public accountants selected by the Company and satisfactory to the
+Agent, (the Agent hereby agrees that KPMG Peat Marwick is satisfactory to the
+Agent); (b) forty-five (45) days after the end of each month, other than a month
+that constitutes a fiscal year end, a Consolidated Balance Sheet as at the end
+of such period and consolidated statements of operations and cash flows of the
+Parent, the Company and their Subsidiaries for such period,
+
+
+                                      -26-
+<PAGE>
+
+certified by an authorized financial or accounting officer of the Company; and
+(c) a reasonable time after request, such further information regarding the
+business affairs and financial condition of the Company as the Agent may
+reasonably request, including, without limitation, annual cash flow projections
+in form reasonably satisfactory to the Agent. Each financial statement required
+to be submitted under clauses a and b above must be accompanied by an Officer's
+Certificate, signed by the President, Senior Vice President, Vice President,
+Controller, or Treasurer, of the Company pursuant to which such officer must
+certify that: (i) the financial statement(s) fairly and accurately represent(s)
+the financial condition of Parent, the Company and their Subsidiaries, at the
+end of the particular accounting period, as well as the operating results of
+Parent, the Company and their Subsidiaries, during such accounting period,
+subject to year-end audit adjustments; (ii) during the particular accounting
+period: (x) there has been no Default or Event of Default under this Financing
+Agreement, provided, however, that if any such officer has knowledge that any
+such Default or Event of Default has occurred during such period, the existence
+of and a detailed description of same shall be set forth in such Officer's
+Certificate; and (y) a senior officer of the Company has not received any notice
+of cancellation with respect to its property insurance policies or certifying as
+to replacement policies therefor; and (iii) the exhibits attached to such
+monthly and annual financial statement(s) constitute detailed calculations
+showing compliance with all financial covenants applicable for such period, if
+any, contained in this Financing Agreement. Notwithstanding anything in this
+Financing Agreement to the contrary, should the Parent purchase the assets of,
+or capital stock of, a Person, or create or incorporate another Person of which
+it owns a majority of such Person's capital stock, then the references to
+Consolidated Balance Sheet shall mean the Consolidated Balance Sheet of the
+Company and its Subsidiaries only and all references to Parent and its
+Subsidiaries shall, without further action, be immediately deleted from this
+Section 6.8.
+
+      6.9 The Company and its Subsidiaries shall have, as of the end of each
+fiscal quarter, on a consolidated basis, a Net Worth, as defined herein, of not
+less than ($50,000,000.00).
+
+      6.10 Until termination of this Financing Agreement and satisfaction of all
+Obligations due hereunder, the Company agrees that, without the prior written
+consent of the Agent, except as otherwise herein provided, the Company will not:
+
+      A.    Incur, create, assume or permit any lien, charge, security interest,
+            encumbrance or judgment, (whether as a result of a purchase money or
+            title retention transaction, or other security interest, or
+            otherwise) to exist on i) the Collateral, except for the Permitted
+            Encumbrances and ii) any of its other assets whether real, personal
+            or mixed, whether now owned or hereafter acquired, except for the
+            Permitted Encumbrances;
+
+      B.    Incur or create any Indebtedness other than the Permitted
+            Indebtedness;
+
+      C.    Except for Permitted Indebtedness, borrow any money on the security
+            of the Collateral from sources other than the Agent acting on behalf
+            of the Lenders;
+
+
+                                      -27-
+<PAGE>
+
+      D.    Sell, lease, assign, transfer or otherwise dispose of i) Collateral,
+            except as otherwise specifically permitted by this Financing
+            Agreement, or ii) either all or substantially all of the other
+            assets of the Company;
+
+      E.    Merge, consolidate or otherwise alter or modify its corporate name,
+            principal place of business, jurisdiction of incorporation,
+            structure or existence, or enter into or engage in any operation or
+            activity materially different from that presently being conducted by
+            the Company or otherwise related to the retail sporting goods
+            industry, provided, however, that on fifteen (15) days prior notice
+            to the Agent, the Company may, without obtaining the consent of the
+            Agent or any Lender i) merge its Subsidiaries or a Person into
+            itself provided x) the Company is the survivor of the mergers; y) no
+            liens on the assets of the Subsidiaries or the Person survive such
+            merger other than liens that constitute Permitted Encumbrances; z)
+            such Person was an entity with its principal place of business,
+            state of formation and assets in the United States of America; aa)
+            such Person was engaged in the retail sporting goods industry; and
+            bb) the Company, immediately after giving effect to such merger, is
+            in full compliance with all of the terms and provisions of this
+            Financing Agreement, provided, however, that such Person's or
+            Subsidiary's Inventory shall not be deemed Eligible Inventory until
+            such time as the Agent has completed to its reasonable satisfaction
+            an examination and review of such Inventory and such Person's or
+            Subsidiary's books and records; and ii) alter or modify its
+            corporate name or principal place of business;
+
+      F.    Assume, guarantee, endorse, or otherwise become liable upon the
+            obligations of any person, firm, entity or corporation, other than
+            i) by the endorsement of negotiable instruments for deposit or
+            collection or similar transactions in the ordinary course of
+            business, ii) pursuant to obligations in effect on the date hereof,
+            iii) in connection with subleases pursuant to which the Company is
+            the sub-lessor, iv) home relocation loans to or on behalf of
+            employees or v) in the ordinary course of the Company's business or
+            for purposes deemed reasonable by the Company provided such
+            obligations under this clause v) shall not exceed $10,000,000.00 in
+            the aggregate at any one time;
+
+      G.    Declare or pay any dividend of any kind on, or purchase, acquire,
+            redeem or retire, any of its capital stock or equity interest of any
+            class whatsoever, whether now or hereafter outstanding, except that
+            (i) the Company may declare and pay dividends on its capital stock:
+            (a) in cash (and not subject to any limitation based upon Company
+            Liquidity) in (1) amounts sufficient to enable the Parent to (y) pay
+            income or franchise taxes of the Company due as a result of the
+            filing of a consolidated, combined or unitary tax return in which
+            the operations of the Company are included, and (z) reimburse the
+            Parent for out-of-pocket expenses incurred by the Parent for the
+            joint or several benefit of the Parent and the Company, including
+            fees and expenses of its directors for attending the Board of
+            Directors' meeting, and (2) additional amounts not to exceed the sum
+            of $5,000,000 plus the net cash proceeds realized from sales by the
+            Company in such fiscal year of its capital stock in any fiscal year;
+            provided, however, that if the Company does not declare and pay
+            dividends in any fiscal year of up to the sum of $5,000,000 and the
+            net cash proceeds realized from sales by the Company in such fiscal
+            year of its capital
+
+
+                                      -28-
+<PAGE>
+
+            stock, the difference may be added to the amount permitted in
+            subsequent fiscal years and provided, further, that such dividends
+            under this clause (a) may not be declared and paid if a Default or
+            Event of Default is then in existence or will be in existence after
+            giving effect to such dividends, (b) in kind (i.e. in the form of
+            capital stock only and not subject to any limitation based upon
+            Company Liquidity), and (c) in cash in any amount on or after May
+            15, 2003; provided, that such Company dividend or other distribution
+            under this clause (c) is used either to repurchase, acquire or
+            redeem capital stock of Parent or to pay a cash dividend thereon;
+            and further provided, that, such Company dividend or other
+            distribution under this clause (c) may not be declared or paid if a
+            Default or Event of Default is then in existence or will be in
+            existence after giving effect to the payment of such dividend, or
+            if, after giving effect to the making of such Company dividend or
+            other distribution under this clause (c), the Company shall have
+            less than $40,000,000 in Company Liquidity.
+
+      H.    Repurchase, acquire, prepay, or redeem any Senior Notes, except that
+            the Company may repurchase, acquire, prepay, or redeem Senior Notes
+            so long as (i) no Default or Event of Default is then in existence
+            or will be in existence after giving effect to such repurchase,
+            acquisition, prepayment, or redemption, and (ii) after giving effect
+            to such repurchase, acquisition, prepayment, or redemption, the
+            Company shall have not less than $40,000,000 in Company Liquidity.
+
+      I.    Make any advance or loan to, or any investment in, any Person,
+            except for i) advances, loans or investments in existence on the
+            date of execution of this Financing Agreement; ii) Permitted
+            Investments; iii) loans and advances to employees in the ordinary
+            course of business for travel, entertainment and home relocation;
+            iv) loans and advances to employees to enable employees to purchase
+            the capital stock of Parent provided such loans and advances do not
+            exceed $2,000,000.00 in the aggregate at any one time, provided,
+            however, that such $2,000,000.00 limitation shall not be applicable
+            if the cash proceeds of such stock purchases are immediately
+            reinvested by the Parent in the capital stock of the Company or are
+            immediately used to repay Indebtedness of Parent to the Company; v)
+            advances or loans to, or investments in, joint ventures or
+            Subsidiaries of the Company, provided, however, that if such loans
+            or advances are not being used to acquire, directly or indirectly,
+            assets for the benefit of the Company, such loans, advances or
+            investments may not exceed $2,500,000.00 in the aggregate at any one
+            time; and vi) other loans, advances and investments to, or with the
+            Parent, provided same do not exceed in the aggregate outstanding at
+            any one time $10,000,000.00.
+
+      6.11 Until termination of the Financing Agreement and payment and
+satisfaction in full of all Obligations hereunder, the Company and its
+Subsidiaries shall not contract for,
+
+
+                                      -29-
+<PAGE>
+
+purchase, make expenditures for, lease pursuant to a Capital Lease or otherwise
+incur obligations with respect to Capital Expenditures (whether subject to a
+security interest or otherwise) in an aggregate amount, measured quarterly, in
+excess of fifty percent (50%) of the Company's EBITDA for the immediately
+preceding twelve (12) month period then ending.
+
+      6.12 Until termination of the Financing Agreement and payment and
+satisfaction in full of all Obligations hereunder, the Company and its
+Subsidiaries, on a consolidated basis, shall maintain at the end of each Fiscal
+Quarter, a Fixed Charge Coverage Ratio of not less than 1.50 to 1.0.
+
+      6.13 [Intentionally Left Blank].
+
+      6.14 The Company agrees to advise the Agent, promptly, in writing of: a)
+all quantifiable expenditures (actual or anticipated) in excess of $1,500,000.00
+pertaining to the Real Estate and operations in any fiscal year for i)
+environmental clean-up, ii) environmental compliance or iii) environmental
+testing and the impact of said expenses on Working Capital; and b) any notices
+the Company receives from any local, state or federal authority advising the
+Company of any environmental liability (real or potential) stemming from any of
+the Company's operations, premises, its waste disposal practices, or waste
+disposal sites used by the Company and to provide the Agent with copies of all
+such notices if so required.
+
+      6.15 Without the prior written consent of the Agent, the Company agrees
+that it will not: a) enter into any transaction, including, without limitation,
+any purchase, sale, transfer, lease, loan or exchange of property with Parent or
+any Subsidiary or Affiliate other than i) transactions in the ordinary course of
+the Company's business and on terms no less favorable than the terms otherwise
+attainable by the Company from a Person not an Affiliate; ii) as otherwise
+permitted in this Financing Agreement, including, without limitation, Permitted
+Indebtedness, to the extent applicable; iii) reimbursement of fees and expenses
+to directors for the expenses incurred by such directors for attending the
+Company's Board of Directors' meetings; and iv) all customary compensation
+arrangements, including participation in employee benefit plans.
+
+      6.16 The Company shall conduct or cause to be conducted, not less than
+once in any calendar year, an actual physical count of its Inventory at each
+store. Such physical inventory count shall, in part, be conducted or reviewed by
+an entity that is not an Affiliate of the Company and which entity shall be
+experienced in conducting or reviewing such a physical inventory. The Company
+shall, within forty-five (45) days after the end of each month, provide to the
+Agent for each Lender a schedule prepared by the Company of the results of the
+Inventory counts completed at the Company's stores during that month.
+Concurrently therewith, the Company shall provide the Agent for each Lender with
+the results of the internally prepared cycle counts completed at the Company's
+distribution centers during that month. Such cycle counts shall be reviewed by
+the Company's independent public accountants in their normal annual review
+process. Upon the Agent's reasonable request, the Company will provide the Agent
+with further details of Inventory count and review results, so long as the
+Agent's request is for information readily available to the Company on existing
+internally or externally prepared Inventory reports.
+
+
+                                      -30-
+<PAGE>
+
+      6.17 The Company shall remit any and all sales taxes when due to the
+appropriate sales tax authorities when any such remittances are due, provided,
+however, that such remittances need not be made on or before such due date if:
+i) such sales taxes are being diligently contested by the Company in good faith
+and by appropriate proceedings; ii) the Company establishes such reserves as may
+be required by GAAP; and iii) the failure to remit such sales taxes does not
+create a lien in favor of such sales tax authorities or impose upon the Agent or
+any Lender any obligation to segregate proceeds.
+
+      6.18 The Company hereby agrees to indemnify and hold harmless the Agent
+and the Lenders and their respective officers, directors, employees, attorneys
+and agents (each an "Indemnified Party") from, and holds each of them harmless
+against, any and all losses, liabilities, obligations, claims, actions, damages,
+out-of-pocket costs and out-of-pocket expenses (including reasonable and
+documented attorney's fees) arising out of or incurred with respect to the Loan
+Documents, including without limitation those which may arise from or relate to:
+(a) the Depository Account, the Blocked Accounts, the lockbox and/or any other
+depository account and/or the agreements executed in connection therewith; (b)
+any transactions or occurrences relating to Letters of Credit established or
+opened for the Company's account, the collateral relating thereto and any drafts
+or acceptances thereunder, and all Obligations thereunder, including any such
+loss or claim due to any errors or actions taken by, or any omissions,
+negligence or misconduct of, any Issuing Banks; (c) any and all claims or
+expenses asserted against the Agent or a Lender as a result of any environmental
+pollution, hazardous material or environmental clean-up relating to the Real
+Estate, or any claim or expense which results from the Company's operations
+(including, but not limited to, the Company's off-site disposal practices) and
+use of the Real Estate, which the Agent or a Lender may sustain or incur (other
+than solely as a result of the physical actions of the Agent or the Lenders or
+their respective employees or agents on the Company's premises which are
+determined to constitute gross negligence or willful misconduct by a court of
+competent jurisdiction), all whether through the alleged or actual negligence of
+such person or otherwise, and (d) any sale or transfer of Collateral,
+preserving, maintaining or securing the Collateral, defending its interests in
+Collateral (including pursuant to any claims brought by the Company, the Company
+as debtor-in-possession, any secured or unsecured creditors of the Company, any
+trustee or receiver in bankruptcy, or otherwise); except and to the extent in
+each case that the same results from the gross negligence or willful misconduct
+of any Indemnified Party. The Company hereby agrees that this indemnity shall
+survive termination of this Financing Agreement, as well as payments of
+Obligations which may be due hereunder, but such survival shall be limited to
+two (2) years with respect to the indemnity described in clause (c) hereof. The
+Agent may, in its Reasonable Discretion, establish such Availability Reserves
+with respect thereto as it may deem advisable under the circumstances and, upon
+any termination hereof, hold such reserves as cash reserves for any such
+contingent liabilities.
+
+SECTION 7. INTEREST, FEES AND EXPENSES
+
+      7.1 Interest on the Revolving Loans (other than Libor Loans) shall be
+payable monthly as of the end of each month and shall be at a rate equal to the
+sum of the Chase Bank Rate and the applicable following percentage:
+
+
+                                      -31-
+<PAGE>
+
+            (i) 0.75%, if the Company's EBITDA (as evidenced by the most recent
+fiscal quarter's financial statement) for the four fiscal quarters then ended,
+is less than or equal to $35,000,000;
+
+            (ii) 0.50%, if the Company's EBITDA (as evidenced by the most recent
+fiscal quarter's financial statement) for the four fiscal quarters then ended,
+is greater than $35,000,000 and less than or equal to $40,000,000;
+
+            (iii) 0.25%, if the Company's EBITDA (as evidenced by the most
+recent fiscal quarter's financial statement) for the four fiscal quarters then
+ended, is greater than $40,000,000 and less than or equal to $45,000,000;
+
+            (iv) 0.00%, if the Company's EBITDA (as evidenced by the most recent
+fiscal quarter's financial statement) for the four fiscal quarters then ended,
+is greater than $45,000,000;
+
+in all instances the applicable percentage will become effective the month
+following receipt of the financial statements evidencing that a change of rate
+is appropriate. Interest on the Revolving Loans (other than Libor Loans) will be
+computed on a per annum basis, on the average of the net balances (other than
+Libor Loans) owing by the Company in the Company's account at the close of each
+day during such month. Interest on the Revolving Loans which are Libor Loans
+shall be payable monthly as of the end of each month and shall be at a rate
+equal to the sum of the applicable Libor on each then outstanding Revolving Loan
+which is a Libor Loan and the applicable following percentage:
+
+            (i) 2.50%, if the Company's EBITDA (as evidenced by the most recent
+fiscal quarter's financial statement) for the four fiscal quarters then ended,
+is less than or equal to $35,000,000;
+
+            (ii) 2.25%, if the Company's EBITDA (as evidenced by the most recent
+fiscal quarter's financial statement) for the four fiscal quarters then ended,
+is greater than $35,000,000 and less than or equal to $40,000,000;
+
+            (iii) 2.00%, if the Company's EBITDA (as evidenced by the most
+recent fiscal quarter's financial statement) for the four fiscal quarters then
+ended, is greater than $40,000,000 and less than or equal to $45,000,000;
+
+            (iv) 1.75%, if the Company's EBITDA (as evidenced by the most recent
+fiscal quarter's financial statement) for the four fiscal quarters then ended,
+is greater than $45,000,000 and less than or equal to $50,000,000;
+
+            (v) 1.50%, if the Company's EBITDA (as evidenced by the most recent
+fiscal quarter's financial statement) for the four fiscal quarters then ended,
+is greater than $50,000,000;
+
+in all instances the applicable percentage will become effective the month
+following receipt of the financial statements evidencing that a change of rate
+is appropriate. Interest on Revolving Loans which are Libor Loans will be
+computed on a per annum basis, on the
+
+
+                                      -32-
+<PAGE>
+
+average of the net balances owing by the Company on such Libor Loan at the close
+of each day during such month. The Company may elect to use Libor as to any new
+or then outstanding Revolving Loans provided x) there is then no unwaived
+Default or Event of Default, and y) the Company has so advised the Agent of its
+election to use Libor and the Libor Period selected no later than three (3)
+Business Days prior to the proposed borrowing or, in the case of a Libor
+election with respect to a then outstanding Revolving Loan, three (3) Business
+Days prior to the conversion of any then outstanding Revolving Loans to Libor
+Loans and z) the election and Libor shall be effective, provided, there is then
+no unwaived Default or Event of Default, on the fourth Business Day following
+said notice. The Libor elections must be for $100,000.00 or whole multiples
+thereof. If no such election is timely made or can be made, then the Agent shall
+use the Chase Bank Rate and the applicable percentage set forth above to compute
+interest. In the event of any change in the Chase Bank Rate, the interest rate
+hereunder shall change, as of the first day of the month following any change,
+so as to reflect the changed Chase Bank Rate. The rates hereunder shall be
+calculated based on a 365-day year. The Agent shall be entitled to charge the
+Company's account at the rate provided for herein when due until all Obligation
+have been paid in full.
+
+      7.2 In consideration of the Letter of Credit Guaranty, the Company shall
+pay to the Agent, for the ratable benefit of Lenders, the Letter of Credit
+Guaranty Fee which shall be an amount equal to one and one-quarter percent (1
+1/4%) per annum, payable monthly, on the face amount of each outstanding Letter
+of Credit less the amount of any and all amounts previously drawn under such
+Letter of Credit.
+
+      7.3 Any charges, fees, commissions, costs and expenses charged to the
+Agent for the Company's account by any Issuing Bank in connection with or
+arising out of Letters of Credit issued pursuant to this Financing Agreement or
+out of transactions relating thereto will be charged to the loan account in full
+when charged to or paid by the Agent and when made by any such Issuing Bank
+shall be conclusive on the Agent.
+
+      7.4 The Company shall reimburse or pay the Agent, as the case may be, for:
+a) all Out-of-Pocket Expenses and b) any applicable Documentation Fees.
+
+      7.5 Upon the last Business Day of each month, commencing with February 28,
+2003, the Company shall pay the Agent for the account of the Lenders the Line of
+Credit Fee provided, however, the Company shall have no obligation to pay the
+Line of Credit Fee on February 28, 2003, if the Company has paid Agent such fee
+pursuant to the terms of the Prior Financing Agreement.
+
+      7.6 [Intentionally Left Blank].
+
+      7.7 [Intentionally Left Blank].
+
+      7.8 To induce the Lenders (including CITBC) to enter into this Financing
+Agreement and to extend to the Company the Revolving Loans, the Company hereby
+agrees to pay to the Agent for the account of the Lenders a Loan Facility Fee in
+the amount of $350,000, payable upon execution of this Financing Agreement. Such
+fee shall be fully
+
+
+                                      -33-
+<PAGE>
+
+earned when paid and shall not be refundable or rebateable by reason of
+prepayment, acceleration upon an Event of Default or any other circumstances and
+shall be retained notwithstanding any termination of this Agreement.
+
+      7.9 Immediately upon the advice to the Agent by the Company of the
+Company's election of a Libor Loan, the Company shall pay to the Agent for the
+Agent's account only the Libor Processing Fee which shall be non-refundable.
+
+      7.10 The Company shall pay to the Agent for the account of the Lenders
+such amount or amounts as shall compensate the Agent, the Lenders or their
+Participants (as defined below), if any, for any loss, costs or expenses
+incurred by the Agent, the Lenders or their Participants if any, (as reasonably
+determined by the Agent, the Lenders or their Participants if any) as a result
+of: (i) any payment or prepayment on a date other than the last day of a Libor
+Period for such Libor Loan, or (ii) any failure of the Company to borrow a Libor
+Loan on the date for such borrowing specified in the relevant notice; such
+compensation to include, without limitation, an amount equal to any loss or
+expense suffered by the Agent, the Lenders or their Participants if any, during
+the period from the date of receipt of such payment or prepayment or the date of
+such failure to borrow to the last day of such Libor Period if the rate of
+interest obtained by the Agent, the Lenders or their Participants if any, upon
+the reemployment of an amount of funds equal to the amount of such payment,
+prepayment or failure to borrow is less than the rate of interest applicable to
+such Libor Loan for such Libor Period. The determination by the Agent, the
+Lenders or their Participants, if any, of the amount of any such loss or
+expense, when set forth in a written notice to the Company, containing the
+calculations thereof in reasonable detail, shall constitute prima facie evidence
+thereof.
+
+      7.11 The Company may at any time, on ten (10) Business Days prior written
+notice to the Agent, reduce the Line of Credit provided that: i) any reduction
+shall be permanent and irrevocable; ii) a reduction must be for at least
+$5,000,000.00 or whole multiples thereof; and iii) the Company shall immediately
+repay the Agent the amount by which the Obligations exceed the amount of the
+Borrowing Base less the Availability Reserve.
+
+      7.12 The Company hereby confirms and authorizes the Agent, and the Agent
+hereby agrees, to charge the loan account with the amount of all Obligations due
+hereunder as such payment becomes due. In the unlikely event the Agent is unable
+or unwilling to charge any such Obligation to the loan account, then the Agent
+shall so notify the Company in writing and, without limiting any of the Agent's
+and Lenders' rights and remedies hereunder, the amount so requested shall be due
+and payable thirty (30) days after such demand.
+
+SECTION 8. POWERS
+
+      Subject to the last paragraph in this Section 8, the Company hereby
+constitutes the Agent on behalf the Lenders or any person or agent the Agent may
+reasonably designate as its attorney-in-fact, at the Company's cost and expense,
+to exercise all of the following
+
+
+                                      -34-
+<PAGE>
+
+powers, which being coupled with an interest, shall be irrevocable until all
+Obligations to the Agent and the Lenders have been satisfied and this Financing
+Agreement terminated:
+
+            (a)   To receive, take, endorse, sign, assign and deliver, all in
+                  the name of the Agent or the Company, any and all checks,
+                  notes, drafts, and other documents or instruments relating to
+                  the Collateral for i) deposit to a Blocked Account (consistent
+                  with the terms of Section 3.4 of this Financing Agreement) or
+                  ii) after the acceleration by the Agent of the Obligations for
+                  application to satisfaction of the Obligations consistent with
+                  the terms of Section 9.3 hereof;
+
+            (b)   To request, not more frequently than two (2) times a fiscal
+                  year, from customers indebted on Trade Accounts Receivable, in
+                  the name of the Company or the Agent's designee, information
+                  concerning the amounts owing on the Trade Accounts Receivable
+                  provided, however, that such request made be made only if the
+                  then aggregate balance of the Trade Accounts Receivable is in
+                  excess of $3,500,000.00;
+
+            (c)   To request from customers indebted on Trade Accounts
+                  Receivable at any time, in the name of the Agent, information
+                  concerning the amounts owing on the Trade Accounts Receivable;
+
+            (d)   To transmit to customers indebted on Trade Accounts Receivable
+                  notice of the Agent's interest therein and to notify customers
+                  indebted on Trade Accounts Receivable to make payment directly
+                  to the Agent for the Company's account; and
+
+            (e)   To take or bring, in the name of CITBC or the Company, all
+                  steps, actions, suits or proceedings reasonably deemed by
+                  CITBC necessary or desirable to enforce or effect collection
+                  of the Accounts.
+
+      Notwithstanding anything hereinabove contained to the contrary, the powers
+set forth in (a), (c), (d) and (e) above may only be exercised after the
+occurrence of an Event of Default and until such time as such Event of Default
+is waived.
+
+SECTION 9. EVENTS OF DEFAULT AND REMEDIES
+
+      9.1 Notwithstanding anything hereinabove to the contrary, the Agent acting
+for the Lenders may terminate this Financing Agreement immediately upon the
+occurrence of any of the following (herein "Events of Default"):
+
+            (a) cessation of business of the Company or the calling of a general
+meeting of the creditors of the Company for purposes of compromising the debts
+and obligations of the Company;
+
+            (b) the Company admits in writing its inability to generally pay its
+debts as they mature;
+
+
+                                      -35-
+<PAGE>
+
+            (c) the commencement by the Company of any bankruptcy, insolvency,
+arrangement, reorganization, receivership or similar proceedings under any
+federal or state law;
+
+            (d) the commencement against the Company of any bankruptcy,
+insolvency, arrangement, reorganization, receivership or similar proceedings
+under any federal or state law provided, however, that such Default shall not be
+deemed an Event of Default if the proceeding, petition, case or arrangement is
+dismissed within sixty (60) days of the filing of, or the commencement of, such
+petition, case, proceeding or arrangement;
+
+            (e) material breach by the Company of any warranty, representation
+(representations and warranties referred to in this subparagraph e shall be
+deemed made as of each i) Reporting Date, whether or not any report is in fact
+given to the Agent or ii) request for a Revolving Loan or iii) request for the
+Agent's assistance in obtaining a Letter of Credit or iv) the posting of any
+Obligation to the loan account) or any covenant contained herein (other than
+those otherwise referred to in this Section 9) or in any other agreement between
+the Company and the Agent relating to this Financing Agreement, provided that
+such Default by the Company of any of the warranties, representations or
+covenants referred to in this clause (e) shall not be deemed to be an Event of
+Default unless and until such Default shall remain unwaived or unremedied to the
+Agent's reasonable satisfaction for a period of fifteen (15) days from the date
+of the Agent's discovery of such breach (the Agent shall endeavor to notify the
+Company of such breach but the failure to so notify shall not detract from the
+Agent's rights or give the Company any claim, course of action or defense);
+
+            (f) breach by the Company of any warranty, representation or
+covenant of: i) the first sentence of Section 3.3; or ii) Section 3.4; or iii)
+Section 5.3; or iv) Section 6.5 (only as it relates to insurance on the
+Inventory); or v) Section 6.6; or vii) Section 6.10 (other than sub-paragraphs A
+(ii), B and F thereof); or Section 6.17;
+
+            (g) breach by the Company of sub-paragraphs A (ii), B or F of
+Section 6.10, provided that such Default by the Company shall not be deemed to
+be an Event of Default unless and until such Default shall remain unwaived or
+unremedied for a period of fifteen (15) days from the date of such Default;
+
+            (h) except as otherwise provided in Section 7.12 of this Financing
+Agreement, failure of the Company to pay any of the Obligations within ten (10)
+days of the due date thereof;
+
+            (i) the Company shall i) engage in any "prohibited transaction" as
+defined in ERISA, ii) have any "accumulated funding deficiency" as defined in
+ERISA, iii) have any Reportable Event as defined in ERISA, iv) terminate any
+Plan, as defined in ERISA or v) be engaged in any proceeding in which the
+Pension Benefit Guaranty Corporation shall seek appointment, or is appointed, as
+trustee or administrator of any Plan, as defined in ERISA, and with respect to
+this sub-paragraph i) such event or condition x) remains uncured for a period of
+ninety (90) days from date of occurrence and y) could reasonably be expected to
+subject that Company to any tax, penalty or other liability
+
+
+                                      -36-
+<PAGE>
+
+materially adverse to the business, operations or financial condition of the
+Company and its Subsidiaries taken as a whole;
+
+            (j) the Company shall default in the payment of, or other
+performance under, any indenture or other instrument evidencing the Senior
+Notes, or any other recourse Indebtedness of the Company in excess of
+$3,000,000.00, if as a result of such default, the maturity of any Indebtedness
+evidenced by any such indenture or instrument is accelerated prior to its stated
+maturity; or
+
+            (k) without the prior written consent of the Required Lenders, the
+Company shall amend or modify the Senior Notes.
+
+      9.2 Upon the occurrence of a Default and/or an Event of Default, at the
+option of the Agent, all loans and advances provided for in Section 3.1 of this
+Financing Agreement shall be made thereafter in the Agent's sole discretion and
+the obligation of the Agent acting for the Lenders to make Revolving Loans
+and/or assist the Company in obtaining Letters of Credit shall cease until such
+time as the Default is timely cured to the Agent's reasonable satisfaction or
+the Event of Default is waived. Further, at the option of the Agent, or at the
+direction of the Required Lenders, upon the occurrence of an Event of Default
+(unless waived): i) all Obligations shall upon notice (provided, however, that
+no such notice is required if the Event of Default is the Event of Default
+listed in Sections 9.1(c) or 9.1(d)) become immediately due and payable; ii) the
+Agent may thereafter charge the Company the Default Rate of Interest on all then
+outstanding or thereafter incurred Obligations in lieu of the interest provided
+for in Section 7.1 of this Financing Agreement provided a) the Agent has given
+the Company written notice of the Event of Default, provided, however, that no
+notice is required if the Event of Default is the Event of Default listed in
+Sections 9.1(c) or 9.1(d) and b) the Company has failed to cure the Event of
+Default within fifteen (15) days after x) the Agent deposited such notice in the
+United States mail or y) the occurrence of the Event of Default listed in
+Sections 9.1(c) or 9.1(d); and iii) the Agent may, and shall at the direction of
+the Required Lenders, immediately terminate this Financing Agreement upon notice
+to the Company, provided, however, that no notice of termination is required if
+the Event of Default is the Event of Default listed in Sections 9.1(c) or
+9.1(d). Notwithstanding anything herein contained to the contrary, if the Agent
+waives all Events of Default, then by written notice to the Company, the
+acceleration of the Obligations will be rescinded and all remedies and actions
+then being exercised by the Agent shall cease. The exercise of any option is not
+exclusive of any other option which may be exercised at any time by the Agent.
+
+      9.3 Upon the occurrence of any Event of Default, the Agent may, to the
+extent permitted by law: (a) remove from any premises where same may be located
+copies of any and all documents, instruments, files and records, relating to the
+Accounts, or the Agent may use such of the Company's personnel, supplies or
+space at the Company's places of business or otherwise, as may be necessary to
+properly administer and control the Accounts or the handling of collections and
+realizations thereon; (b) bring suit, in the name of the Company or the Agent,
+and generally shall have all other rights respecting said Accounts, including
+without limitation the right to: accelerate or extend the time of payment,
+settle, compromise, release in whole or in part, any amounts owing on any
+Accounts and issue credits in the name of the Company or the Agent; (c) sell,
+assign and deliver the Collateral and any
+
+
+                                      -37-
+<PAGE>
+
+returned, reclaimed or repossessed merchandise, with or without advertisement,
+at public or private sale, for cash, on credit or otherwise, at the Agent's sole
+option and discretion, and, to the extent permitted by applicable law, the Agent
+may bid or become a purchaser at any such sale, free from any right of
+redemption, which right is hereby expressly waived by the Company; (d) foreclose
+the security interests created herein by any available judicial procedure, or to
+take possession of any or all of the Inventory without judicial process, and to
+enter any premises where any Inventory may be located for the purpose of taking
+possession of or removing the same; and (e) exercise any other rights and
+remedies provided in law, in equity, by contract or otherwise. The Agent shall
+have the right, without notice or advertisement, to sell, lease, or otherwise
+dispose of all or any part of the Collateral whether in its then condition or
+after further preparation or processing, in the name of the Company or the
+Agent, or in the name of such other party as the Agent may designate, either at
+public or private sale or at any broker's board, in lots or in bulk, for cash or
+for credit, with or without warranties or representations, and upon such other
+terms and conditions as the Agent in its sole discretion may deem advisable,
+and, to the extent permitted by applicable law, the Agent shall have the right
+to purchase at any such sale. If any Inventory shall require repairing,
+maintenance or preparation, the Agent shall have the right, at its option, to do
+such of the aforesaid as is necessary, for the purpose of putting the Inventory
+in such saleable form as the Agent shall reasonably deem appropriate. The
+Company agrees, at the request of the Agent, to assemble the Inventory and to
+make it available to the Agent at premises of the Company or such other location
+reasonably designated by the Agent for the purpose of the Agent's taking
+possession of, removing or putting the Inventory in saleable form. However, if
+notice of intended disposition of any Collateral is required by law, it is
+agreed that ten (10) days notice shall constitute reasonable notification and
+full compliance with the law. The net cash proceeds resulting from the Agent's
+exercise of any of the foregoing rights, (after deducting all reasonable
+charges, costs and expenses, including reasonable attorneys' fees) shall be
+applied by the Agent to the payment of the Obligations, whether due or to become
+due, and the Company shall remain liable to the Agent for any deficiencies, and
+the Agent in turn agrees to remit to the Company or its successor or assign, any
+surplus resulting therefrom. The enumeration of the foregoing rights is not
+intended to be exhaustive and the exercise of any right shall not preclude the
+exercise of any other rights, all of which shall be cumulative.
+
+SECTION 10. TERMINATION
+
+      Except as otherwise permitted herein, the Agent may, and shall at the
+direction of the Required Lenders, terminate this Financing Agreement and the
+Line of Credit only as of the third or any subsequent Anniversary Date and then
+only by giving the Company at least ninety (90) days prior written notice of
+termination. Notwithstanding the foregoing, the Agent may terminate the
+Financing Agreement immediately upon the occurrence of an Event of Default upon
+notice to the Company, provided, however, that if the Event of Default is an
+event listed in Sections 9.1(c) or 91(d) of this Financing Agreement, the Agent
+may, and shall at the direction of the Required Lenders, regard the Financing
+Agreement as terminated and notice to that effect is not required. This
+Financing Agreement, unless terminated as herein provided, shall automatically
+continue from Anniversary Date to Anniversary Date. The Company may, at any
+time, terminate this Financing Agreement and the Line of Credit upon at least
+thirty (30) days' prior written notice to the Agent, provided
+
+
+                                      -38-
+<PAGE>
+
+that the Company pay to the Agent for the account of the Lenders, concurrent
+with payment of the Obligations, the Early Termination Fee, provided, however,
+that the Agent for the account of the Lenders shall not be entitled to the Early
+Termination Fee if the termination is on or after the Early Termination Date.
+All Obligations shall become due and payable as of any termination hereunder or
+under Section 9 hereof. All of the Agent's rights, liens and security interests
+shall continue after any termination until all Obligations have been satisfied
+in full. Pending payment in full of all Obligations, the Agent can withhold any
+credit balances in the loan account (unless supplied with an indemnity
+satisfactory to the Agent) to cover all of the Obligations, whether absolute or
+contingent, provided, however, that if the remaining unpaid Obligations arise
+solely out of the outstanding amounts of Letters of Credit, the Agent will, at
+the Company's request, retain, solely as collateral, credit balances in an
+amount equal to one hundred and five percent (105%) of the then outstanding
+amounts of Letters of Credit unless the Company provides the Agent with
+back-to-back letters of credit from a financial institution reasonably
+acceptable to the Agent, on terms reasonably acceptable to the Agent, in an
+amount equal to one hundred and five percent (105%) of the then outstanding
+amounts of Letters of Credit. When all other Obligations have been paid in full
+in cash and the outstanding amount of Letters of Credit have been so secured by
+cash or by the back-to-back letters of credit, in either event in an amount
+equal to one hundred and five percent (105%) of the then outstanding amounts of
+Letters of Credit pursuant to a fully executed agreement between the Agent and
+the Company and pursuant to which the Company agrees to reimburse the Agent for
+any Letter of Credit claims that exceed the cash collateral or the back to back
+letters of credit, then for all purposes of this Financing Agreement, this
+Financing Agreement shall be treated by the parties hereto as terminated and all
+other Collateral will be released.
+
+SECTION 11. AGREEMENT BETWEEN THE LENDERS
+
+      11.1 (a) The Agent, for the account of the Lenders, shall disburse all
+loans and advances to the Company and shall handle all collections of Collateral
+and repayment of Obligations. It is understood that for purposes of advances to
+the Company and for purposes of this Section 11 the Agent is using the funds of
+the Agent.
+
+            (b) Unless the Agent shall have been notified in writing by any
+Lender prior to any advance to the Company that such Lender will not make the
+amount which would constitute its share of the borrowing on such date available
+to the Agent, the Agent may assume that such Lender shall make such amount
+available to the Agent on a Settlement Date, and the Agent may, in reliance upon
+such assumption, make available to the Company a corresponding amount. A
+certificate of the Agent submitted to any Lender with respect to any amount
+owing under this subsection shall be conclusive, absent manifest error. If such
+Lender's share of such borrowing is not in fact made available to the Agent by
+such Lender on the Settlement Date, the Agent shall be entitled to recover such
+amount with interest thereon at the rate per annum applicable to Revolving Loans
+hereunder, on demand, from the Company without prejudice to any rights which the
+Agent may have against such Lender hereunder. Nothing contained in this
+subsection shall relieve any Lender which has failed to make available its
+ratable portion of any borrowing hereunder from its obligation to do so in
+accordance with the terms hereof. Nothing contained herein shall be deemed to
+obligate Agent to make available to the Company the full amount of a requested
+advance
+
+
+                                      -39-
+<PAGE>
+
+when the Agent has any notice (written or otherwise) that any of the Lenders
+will not advance its ratable portion thereof.
+
+      11.2 On the Settlement Date, the Agent and the Lenders shall each remit to
+the other, in immediately available funds, all amounts necessary so as to ensure
+that, as of the Settlement Date, the Lenders shall have their proportionate
+share of all outstanding Obligations.
+
+      11.3 The Agent shall forward to each Lender, at the end of each month, a
+copy of the account statement rendered by the Agent to the Company.
+
+      11.4 The Agent shall, after receipt of any interest and fees earned under
+this Financing Agreement, promptly remit to the Lenders their pro rata portion
+of all fees, provided, however, that the Lenders (other than CITBC in its role
+as Agent) shall not share in the fees set forth in the Fee Letter, Documentation
+Fees or Libor Processing Fee.
+
+      11.5 (a) The Company acknowledges that the Lenders, with the consent of
+the Agent, which consent shall not be unreasonably withheld, may sell
+participations in the loans and extensions of credit made and to be made to the
+Company hereunder (the "Participants"), provided, however, that a Participant
+may not so purchase a participation in an amount less than $5,000,000 or the
+then aggregate amount of such Lender's interest in the loans and advances and
+extensions of credit hereunder. The Company further acknowledges that in doing
+so, the Lenders may grant to such Participants certain rights which would
+require the Participant's consent to certain waivers, amendments and other
+actions with respect to the provisions of this Financing Agreement, provided
+that the consent of any such Participant shall not be required except for
+matters requiring the consent of all Lenders hereunder as set forth in Section
+12.10 hereof.
+
+            (b) The Company authorizes each Lender to disclose to any
+Participant or purchasing lender (each, a "Transferee") and any prospective
+Transferee any and all financial information in such Lender's possession
+concerning the Company and their affiliates which has been delivered to such
+Lender by or on behalf of the Company pursuant to this Agreement or which has
+been delivered to such Lender by or on behalf of the Company in connection with
+such Lender's credit evaluation of the Company and its affiliates prior to
+entering into this Agreement, provided, however, that prior to such disclosure
+to a then or potential Participant the Lender must first obtain from the then or
+potential Participant a confidentiality agreement in form and substance similar
+to the confidentiality paragraph of this Financing Agreement.
+
+      11.6 The Company has made and will, from time to time, make available to
+the Agent and/or the Lenders certain financial and other business information
+(the "Confidential Information") relating to its business. By their signatures
+hereto or to the Assignment and Transfer Agreement, the Agent and each Lender
+agree to maintain the confidentiality of all Confidential Information, and to
+disclose such information only (a) to officers, directors or employees of such
+Agent or Lender and their legal or financial advisors, in each case to the
+extent necessary to carry out this Financing Agreement and in the case of CITBC,
+to CIT Group Holdings, Inc., or CIT Group, Inc., and in the case of any other
+Lender, to such other
+
+
+                                      -40-
+<PAGE>
+
+Lender's parent organization, but only, in the case of all of the foregoing
+Persons referred to in this clause (a), after the Agent or the Lender, as the
+case may be, has advised each such Person to maintain the confidentiality of the
+Confidential Information, (b) to any other Person to the extent the disclosure
+of such information to such Person is required in connection with the
+examination of a Lender's records by appropriate authorities, pursuant to court
+order, subpoena or other legal process or otherwise as required by law or
+regulation, and (c) to Transferees or potential Transferees but only after such
+Transferees or potential Transferees have executed a written confidentiality
+agreement substantially in the form of this paragraph. The Lenders, the Agent,
+Transferees and potential Transferees shall not be required to maintain the
+confidentiality of any portion of the Confidential Information which (a) is
+known by such Person or its agents, advisors or representatives prior to
+disclosure or (b) becomes generally available to the public provided that the
+disclosure of such Confidential information does not violate a confidentiality
+agreement of which the Transferees, potential Transferees, the Agent or the
+Lender, as the case may be, has actual knowledge.
+
+      11.7 The Company hereby agrees that each Lender is solely responsible for
+its portion of the Line of Credit and that neither the Agent nor any Lender
+shall be responsible for, nor assume any obligations for, the failure of any
+Lender to make available its portion of the Line of Credit. Further, should any
+Lender refuse to make available its portion of the Line of Credit, then another
+Lender may, but without obligation to do so, increase, unilaterally, its portion
+of the Line of Credit in which event the Company is so obligated to that other
+Lender.
+
+      11.8 In the event that the Agent, the Lenders or any one of them is sued
+or threatened with suit by the Company, or by any receiver, trustee, creditor or
+any committee of creditors on account of any preference, voidable transfer or
+lender liability issue, alleged to have occurred or been received as a result
+of, or during the transactions contemplated under, this Financing Agreement,
+then in such event any money paid in satisfaction or compromise of such suit,
+action, claim or demand and any expenses, costs and attorneys' fees paid or
+incurred in connection therewith, whether by the Agent, the Lenders or any one
+of them, shall be shared proportionately by the Lenders. In addition, any costs,
+expenses, fees or disbursements incurred by outside agencies or attorneys
+retained by the Agent to effect collection or enforcement of any rights in the
+Collateral, including enforcing, preserving or maintaining rights under this
+Financing Agreement shall be shared proportionately between and among the
+Lenders to the extent not reimbursed by the Company or from the proceeds of
+Collateral. The provisions of this paragraph shall not apply to any (i) suits,
+actions, proceedings or claims that are unrelated, directly or indirectly, to
+this Financing Agreement, or (ii) costs, fees, expenses or disbursements
+resulting solely from the gross negligence or willful misconduct of the Agent or
+any Lender.
+
+      11.9 Each of the Lenders agrees with each other Lender that any money or
+assets of the Company held or received by such Lender, no matter how or when
+received, shall be applied to the reduction of the Obligations (to the extent
+permitted hereunder) after x) the occurrence of an Event of Default and y) the
+election by the Required Lenders to accelerate the Obligations. In addition, the
+Company authorizes, and the Lenders shall have the right, without notice, upon
+any amount becoming due and payable hereunder, to set-off and apply
+
+
+                                      -41-
+<PAGE>
+
+against any and all property held by, or in the possession of such Lender the
+Obligations due such Lenders.
+
+      11.10 CITBC shall have the right at any time to assign to one or more
+commercial banks, commercial finance lenders or other financial institutions all
+or a portion of its rights and obligations under this Financing Agreement
+(including, without limitation, under its obligations the Line of Credit, the
+Revolving Loans and its rights and obligations with respect to Letters of
+Credit). In any event, CITBC shall retain for its own account an amount at least
+equal to a pro-rata share equal to the highest pro-rata share held by any
+Participant, and in no event less than 20% of the amount of the Obligations
+("CITBC Hold Position"); provided, however, that such CITBC Hold Position shall
+cease while there is then an Event of Default and only until such Event of
+Default is waived. Should CITBC during an Event of Default assign additional
+interests, then the CITBC Hold Position shall be the remaining amount of CITBC's
+position if and when such Event of Default is waived. Upon execution of an
+Assignment and Transfer Agreement, (i) the assignee thereunder shall be a party
+hereto and, to the extent that rights and obligations hereunder have been
+assigned to it pursuant to such assignment, have the rights and obligations of
+CITBC as the case may be hereunder and (ii) CITBC shall, to the extent that
+rights and obligations hereunder have been assigned by it pursuant to such
+assignment, relinquish its rights and be released from its obligations under
+this Financing Agreement. The Company shall, if necessary, execute any documents
+reasonably required to effectuate the assignments. No other Lender may assign
+its interest, in whole or in part, in the loans and advances and extensions of
+credit hereunder without i) the prior written consent of the Agent, which
+consent shall not be unreasonably withheld; ii) the payment to the Agent (solely
+for the Agent's account) by the current or prospective Lender of a $5,000.00 fee
+for processing the assignment; and (iii) if the Transferee is a Foreign Lender
+(as defined in Section 13.5 hereof), such Foreign Lender first complies with the
+provisions of Section 13.5 hereof provided, however, that the immediately
+preceding clauses (i) and (ii) hereof shall not apply in connection with any
+assignment by a Lender to an affiliate of such Lender, or in connection with any
+merger, consolidation, sale, transfer, or other disposition of all or any
+substantial portion of the business or loan portfolio of a Lender. Additionally,
+no other Lender shall assign such Lender's interest in the loans and advances
+and extensions of credit hereunder (or any portion thereof) unless the interest
+to be so assigned is either not less than $5,000,000 or all of such Lender's
+entire interest in the loans and advances and extensions of credit hereunder.
+Notwithstanding anything to the contrary herein contained, prior to any such
+assignment and/or the disclosure of the Confidential Information, such
+Transferee, actual or potential, shall execute a confidentiality agreement in
+form and substance substantially similar to the confidentiality paragraph of
+this Financing Agreement.
+
+SECTION 12. AGENCY
+
+      12.1 Each Lender hereby irrevocably designates and appoints CITBC as the
+Agent for the Lenders under this Financing Agreement and any ancillary loan
+documents and irrevocably authorizes CITBC as Agent for such Lender, to take
+such action on its behalf under the provisions of the Financing Agreement and
+all ancillary documents and to exercise such powers and perform such duties as
+are expressly delegated to the Agent by the terms of this Financing Agreement
+and all ancillary documents together with such other powers as
+
+
+                                      -42-
+<PAGE>
+
+are reasonably incidental thereto. Notwithstanding any provision to the contrary
+elsewhere in this Financing Agreement, the Agent shall not have any duties or
+responsibilities, except those expressly set forth herein, or any fiduciary
+relationship with any Lender and no implied covenants, functions,
+responsibilities, duties, obligations or liabilities shall be read into
+Financing Agreement and the ancillary documents or otherwise exist against the
+Agent.
+
+      12.2 The Agent may execute any of its duties under this Financing
+Agreement and all ancillary documents by or through agents or attorneys-in-fact
+and shall be entitled to the advice of counsel concerning all matters pertaining
+to such duties.
+
+      12.3 Neither the Agent nor any of its officers, directors, employees,
+agents, or attorneys-in-fact shall be (i) liable to any Lender for any action
+lawfully taken or omitted to be taken by it or such person under or in
+connection with the Financing Agreement and all ancillary documents (except for
+its or such person's own gross negligence or willful misconduct), or (ii)
+responsible in any manner to any of the Lenders for any recitals, statements,
+representations or warranties made by the Company or any officer thereof
+contained in the Financing Agreement and all ancillary documents or in any
+certificate, report, statement or other document referred to or provided for in,
+or received by, the Agent under or in connection with the Financing Agreement
+and all ancillary documents or for the value, validity, effectiveness,
+genuineness, enforceability or sufficiency of the Financing Agreement and all
+ancillary documents or for any failure of the Company to perform its obligations
+thereunder. The Agent shall not be under any obligation to any Lender to
+ascertain or to inquire as to the observance or performance of any of the
+agreements contained in, or conditions of, the Financing Agreement and all
+ancillary documents or to inspect the properties, books or records of the
+Company.
+
+      12.4 The Agent shall be entitled to rely, and shall be fully protected in
+relying, upon any note, writing, resolution, notice, consent, certificate,
+affidavit, letter, cablegram, telegram, telecopy, telex or teletype message,
+statement, order or other document or conversation believed by it to be genuine
+and correct and to have been signed, sent or made by the proper person or
+persons and upon advice and statements of legal counsel (including, without
+limitation, counsel to the Company), independent accountants and other experts
+selected by the Agent. The Agent shall be fully justified in failing or refusing
+to take any action under the Financing Agreement and all ancillary documents
+unless it shall first receive such advice or concurrence from all of the
+Lenders, or the Required Lenders, as the case may be, as it deems appropriate or
+it shall first be indemnified to its satisfaction by the Lenders against any and
+all liability and expense which may be incurred by it by reason of taking or
+continuing to take any such action. The Agent shall in all cases be fully
+protected in acting, or in refraining from acting, under the Financing Agreement
+and all ancillary documents in accordance with a request from all of the
+Lenders, or the Required Lenders, as the case may be, and such request and any
+action taken or failure to act pursuant thereto shall be binding upon all the
+Lenders.
+
+      12.5 The Agent shall not be deemed to have knowledge or notice of the
+occurrence of any Default or Event of Default hereunder unless the Agent has
+received notice from a Lender or the Company describing such Default or Event of
+Default. In the event that the Agent receives such a notice, the Agent shall
+promptly give notice thereof to
+
+
+                                      -43-
+<PAGE>
+
+the Lenders. The Agent shall take such action with respect to such Default or
+Event of Default as shall be reasonably directed by the Required Lenders;
+provided that unless and until the Agent shall have received such direction, the
+Agent may in the interim (but shall not be obligated to) take such action, or
+refrain from taking such action, with respect to such Default or Event of
+Default as it shall deem advisable and in the best interests of the Lenders.
+
+      12.6 Each Lender expressly acknowledges that neither the Agent nor any of
+its officers, directors, employees, agents or attorneys-in-fact has made any
+representations or warranties to it and that no act by the Agent hereinafter
+taken, including any review of the affairs of the Company, shall be deemed to
+constitute any representation or warranty by the Agent to any Lender. Each
+Lender represents to the Agent that it has, independently and without reliance
+upon the Agent or any other Lender and based on such documents and information
+as it has deemed appropriate, made its own appraisal of, and investigation into,
+the business, operations, property, financial and other condition and
+creditworthiness of the Company and made its own decision to enter into this
+Financing Agreement. Each Lender also represents that it will, independently and
+without reliance upon the Agent or any other Lender and based on such documents
+and information as it shall deem appropriate at the time, continue to make its
+own credit analysis, appraisals and decisions in taking or not taking action
+under the Financing Agreement and to make such investigation as it deems
+necessary to inform itself as to the business, operations, property, financial
+and other condition or creditworthiness of the Company. The Agent, however,
+shall provide the Lenders with copies of all inventory confirmation statements,
+Collateral examinations and/or reviews, financial statements, projections and
+business plans which come into the possession of the Agent or any of its
+officers, employees, agents or attorneys-in-fact. Further, the Agent shall use
+reasonable efforts to give the Lenders reasonable prior notice of the date of
+the Agent's visit to the Company's premises for purposes of inspecting the
+Collateral and books and records pertaining thereto.
+
+      12.7 The Lenders agree to indemnify the Agent in its capacity as such (to
+the extent not reimbursed by the Company and without limiting the obligation of
+the Company to do so), from and against any and all liabilities, obligations,
+losses, damages, penalties, actions, judgments, suits, costs, expenses or
+disbursements of any kind whatsoever (including negligence on the part of the
+agent) which may at any time be imposed on, incurred by or asserted against the
+Agent in anyway relating to or arising out of this Financing Agreement on any
+ancillary documents or any documents contemplated by or referred to herein or
+the transactions contemplated hereby or any action taken or omitted by the Agent
+under or in connection with any of the foregoing; provided that no Lender shall
+be liable for the payment of any portion of such liabilities, obligations,
+losses, damages, penalties, actions, judgments, suits, costs, expenses or
+disbursements resulting solely from the Agent's gross negligence or willful
+misconduct. The agreements in this paragraph shall survive the payment of the
+obligations.
+
+      12.8 The Agent may make loans to, and generally engage in any kind of
+business with the Company as though the Agent were not the Agent hereunder. With
+respect to its loans made or renewed by it or loan obligations hereunder as
+Lender, the Agent shall have the same rights and powers, duties and liabilities
+under the Financing Agreement as any
+
+
+                                      -44-
+<PAGE>
+
+Lender and may exercise the same as though they were not the Agent and the terms
+"Lender" and "Lenders" shall include the Agent in its individual capacities.
+
+      12.9 The Agent may resign as Agent upon thirty (30) days' notice to the
+Lenders and such resignation shall be effective upon the appointment of a
+successor Agent. If the Agent shall resign as Agent, then the Lenders shall
+appoint a successor agent for the Lenders whereupon such successor agent shall
+succeed to the rights, powers and duties of the Agent and the term "Agent" shall
+mean such successor agent effective upon its appointment, and the former Agent's
+rights, powers and duties as Agent shall be terminated, without any other or
+further act or deed on the part of such former Agent or any of the parties to
+this Financing Agreement, provided, however, that the Lenders shall: a) notify
+the Company of the successor Agent and b) request the consent of the Company to
+such successor Agent, which consent shall not be unreasonably withheld. The
+Company shall be deemed to have consented to the successor Agent if the Lenders
+do not receive from the Company, within ten (10) days of the Lenders' notice to
+the Company, a written statement of the Company's objection to the successor
+Agent. Should the Company not consent and no acceptable successor Agent is
+agreed upon within thirty (30) days of the date the Company advised the Lenders
+of its objection to the successor Agent, then the Lenders may appoint (without
+the Company's consent) another successor Agent. After any retiring Agent's
+resignation hereunder as Agent the provisions of this Section 14 shall inure to
+its benefit as to any actions taken or omitted to be taken by it while it was
+Agent.
+
+      12.10 Notwithstanding anything contained in this Financing Agreement to
+the contrary, the Agent will not, without the prior written consent of all
+Lenders: a) amend the Financing Agreement to v) increase the rate of advance
+against Eligible Inventory as set forth in Section 3.1 of this Financing
+Agreement (provided, however, that the foregoing shall not prevent the making of
+Overadvances pursuant to Section 3.1 hereof with the consent of and on the terms
+agreed to by Required Lenders) or increase the Line of Credit; w) reduce the
+interest rates; x) reduce or waive i) any fees in which the Lenders share
+hereunder; or ii) the repayment of any Obligations due the Lenders; y) extend
+the maturity of the Obligations; or z) alter or amend 1) this Section 12.10 or
+2) the definitions of Eligible Inventory, Collateral or Required Lenders, or the
+Agent's criteria for determining compliance with such definitions of
+eligibility; b) release or permit or consent to liens on Collateral with an
+aggregate value greater than $5,000,000.00 without a corresponding reduction in
+the Obligations to the Lenders, or c) intentionally make any Revolving Loan or
+assist in opening any Letter of Credit hereunder if after giving effect thereto
+the total of Revolving Loans and Letters of Credit hereunder for the Company
+would exceed one hundred and ten percent (110%) of the maximum amount available
+under Sections 3 and 4 hereof. In all other respects and except as otherwise
+specifically provided to the contrary in this Financing Agreement, the Agent is
+authorized to take such actions or fail to take such actions if the Agent, in
+its reasonable discretion, deems such to be advisable and in the best interest
+of the Lenders, including, but not limited to, the termination of the Financing
+Agreement upon the occurrence of an Event of Default, unless it is specifically
+instructed to the contrary by the Required Lenders.
+
+      12.11 Each Lender agrees that notwithstanding the provisions of Section 10
+of this Financing Agreement any Lender may terminate this Financing Agreement or
+the Line of
+
+
+                                      -45-
+<PAGE>
+
+Credit only as of the third or any subsequent Anniversary Date and then only by
+giving the Agent one hundred and twenty (120) days prior written notice thereof.
+Within thirty (30) days after receipt of any such termination notice, the Agent
+shall, at its option, either (i) give notice of termination to the Company
+hereunder or (ii) purchase the Lender's share of the Obligations hereunder for
+the full amount thereof plus accrued interest thereon. Unless so terminated this
+Financing Agreement and the Line of Credit shall be automatically extended from
+Anniversary Date to Anniversary Date.
+
+SECTION 13. MISCELLANEOUS
+
+      13.1 Except as otherwise expressly provided, the Company hereby waives
+diligence, demand, presentment and protest and any notices thereof as well as
+notice of nonpayment, notice of dishonor, notice of intent to accelerate and
+notice of acceleration. No delay or omission of the Agent or the Company to
+exercise any right or remedy hereunder, whether before or after the happening of
+any Event of Default, shall impair any such right or shall operate as a waiver
+thereof or as a waiver of any such Event of Default. No single or partial
+exercise by the Agent of any right or remedy precludes any other or further
+exercise thereof, or precludes any other right or remedy.
+
+      13.2 Neither this Financing Agreement nor any provision hereof may be
+waived, amended or modified except as pursuant to an agreement or agreements in
+writing entered into by the Company, the Agent, the Lenders or the Required
+Lenders, as the case may be.
+
+      13.3 THIS WRITTEN AGREEMENT AND THE OTHER DOCUMENTS REFERENCED HEREIN OR
+CONTEMPLATED HEREBY REPRESENT THE FINAL AGREEMENT AMONG THE PARTIES AND MAY NOT
+BE CONTRADICTED BY EVIDENCE OF PRIOR, CONTEMPORANEOUS OR SUBSEQUENT ORAL
+AGREEMENTS OF THE PARTIES HERETO. THERE ARE NO UNWRITTEN ORAL AGREEMENTS AMONG
+THE PARTIES. THE COMPANY ACKNOWLEDGES AND AGREES THAT THE SECURITY INTEREST
+GRANTED BY IT PURSUANT TO THE PRIOR FINANCING AGREEMENT (AND MAINTAINED PURSUANT
+TO THIS FINANCING AGREEMENT) CONTINUES (WITHOUT INTERRUPTION) IN FULL FORCE AND
+EFFECT IN FAVOR OF THE AGENT FOR THE BENEFIT OF LENDERS. UPON THE EFFECTIVENESS
+OF THIS FINANCING AGREEMENT, THE TERMS AND CONDITIONS OF THE PRIOR FINANCING
+AGREEMENT ARE HEREBY AMENDED AND RESTATED IN THEIR ENTIRETY BY THIS FINANCING
+AGREEMENT.
+
+      13.4 It is the intent of the Company, the Agent and the Lenders to conform
+strictly to all applicable state and federal usury laws. All agreements between
+the Company and the Agent, acting on behalf of the Lenders, whether now existing
+or hereafter arising and whether written or oral, are hereby expressly limited
+so that in no contingency or event whatsoever, whether by reason of acceleration
+of the maturity hereof or otherwise, shall the amount contracted for, charged or
+received by the Agent, acting on behalf of the Lenders, for the use,
+forbearance, or detention of the money loaned hereunder or otherwise, or for the
+payment or performance of any covenant or obligation contained herein or in any
+other document evidencing, securing or pertaining to the Obligations evidenced
+hereby which
+
+
+                                      -46-
+<PAGE>
+
+may be legally deemed to be for the use, forbearance or detention of money,
+exceed the maximum amount which the Agent, acting on behalf of the Lenders, is
+legally entitled to contract for, charge or collect under applicable state or
+federal law. If from any circumstance whatsoever fulfillment of any provisions
+hereof or of such other documents, at the time performance of such provision
+shall be due, shall involve transcending the limit of validity prescribed by
+law, then the obligations to be fulfilled shall be automatically reduced to the
+limit of such validity, and if from any such circumstance the Agent, acting on
+behalf of the Lenders, shall ever receive as interest or otherwise an amount in
+excess of the maximum that can be legally collected, then such amount which
+would be excessive interest shall be applied to the reduction of the principal
+indebtedness hereof and any other amounts due with respect to the Obligations
+evidenced hereby, but not to the payment of interest and if such amount which
+would be excessive interest exceeds the Obligations and all other non-interest
+indebtedness described above, then such additional amount shall be refunded to
+the Company. In determining whether or not all sums paid or agreed to be paid by
+the Company for the use, forbearance or detention of the Obligations of the
+Company to the Agent, acting on behalf of the Lenders, under any specific
+contingency, exceeds the maximum amount permitted by applicable law, the Company
+and the Agent, acting on behalf of the Lenders, shall, to the maximum extent
+permitted under applicable law, (a) characterize any non-principal payment as an
+expense, fee or premium rather than as sums paid or agreed to be paid by the
+Company for the use, forbearance or detention of the Obligations of the Company
+to the Agent, acting on behalf of the Lenders, (b) exclude voluntary prepayments
+and the effect thereof, and (c) to the extent not prohibited by applicable law,
+amortize, prorate, allocate and spread in equal parts, the total amount of all
+sums paid or agreed to be paid by the Company for the use, forbearance or
+detention of the Obligations of the Company to the Agent, acting on behalf of
+the Lenders, throughout the entire contemplated term of the Obligations so that
+the interest rate is uniform throughout the entire term of the Obligations. The
+terms and provisions of this paragraph shall control and supersede every other
+provision hereof and all other agreements between the Company and the Agent,
+acting on behalf of the Lenders.
+
+      13.5 Any Lender organized under the laws of a jurisdiction outside of the
+United States (a "Foreign Lender") shall deliver to Agent and the Company (i)
+two valid, duly completed copies of IRS Form 1001 or 4224 or successor
+applicable form, as the case may be, and any other required form, certifying in
+each case that such Foreign Lender is entitled to receive payments under this
+Financing Agreement without deduction or withholding of any United States
+federal income taxes, or (ii) if such Foreign Lender is not a "bank" within the
+meaning of Section 881(c) (3) (A) of the Internal Revenue Code and cannot
+deliver either IRS Form 1001 or 4224 pursuant to clause (i) above, (A) a duly
+completed certificate of non-withholding acceptable to the Company and the Agent
+in their reasonable discretion (any such certificate, a "Tax Certificate") and
+(B) two valid, duly completed copies of IRS Form W-8 or successor applicable
+form, as the case may be, to establish an exemption from United States backup
+withholding tax. Each such Foreign Lender shall also deliver to Agent and the
+Company two further copies of said Form 1001 or 4224 or Form W-8 and a Tax
+Certificate, or successor applicable forms, or other manner of required
+certification, as the case may be, on or before the date that any such form
+expires or becomes obsolete or otherwise is required to be resubmitted as a
+condition to obtaining an exemption from a required withholding of United States
+of America federal income tax or after the occurrence
+
+
+                                      -47-
+<PAGE>
+
+of any event requiring a change in the most recent form previously delivered by
+it to the Company and Agent, and such extensions or renewals thereof as may
+reasonably be requested by the Company and Agent, certifying (x) in the case of
+a Form 1001 or 4224 that such Foreign Lender is entitled to receive payments
+under this Financing Agreement without deduction or withholding of any United
+States federal income taxes, or (y) in the case of a Form W-8 and a Tax
+Certificate, establishing an exemption from United States backup withholding
+tax.
+
+      13.6 If any provision hereof or of any other agreement made in connection
+herewith is held to be illegal or unenforceable, such provision shall be fully
+severable, and the remaining provisions of the applicable agreement shall remain
+in full force and effect and shall not be affected by such provision's
+severance. Furthermore, in lieu of any such provision, there shall be added
+automatically as a part of the applicable agreement a legal and enforceable
+provision as similar in terms to the severed provision as may be possible.
+
+      13.7 TO THE EXTENT PERMITTED BY LAW, THE COMPANY, THE LENDERS AND THE
+AGENT HEREBY WAIVE ANY RIGHT TO A TRIAL BY JURY IN ANY ACTION OR PROCEEDING
+ARISING OUT OF THIS FINANCING AGREEMENT. THE COMPANY HEREBY IRREVOCABLY WAIVES
+PERSONAL SERVICE OF PROCESS AND CONSENTS TO SERVICE OF PROCESS BY CERTIFIED OR
+REGISTERED MAIL, RETURN RECEIPT REQUESTED. ANY JUDICIAL PROCEEDING BROUGHT BY OR
+AGAINST THE COMPANY WITH RESPECT TO ANY OF THE OBLIGATIONS, THIS FINANCING
+AGREEMENT OR ANY RELATED AGREEMENT MAY BE BROUGHT IN ANY COURT OF COMPETENT
+JURISDICTION IN THE STATE OF CALIFORNIA, UNITED STATES OF AMERICA, AND, BY
+EXECUTION AND DELIVERY OF THIS FINANCING AGREEMENT, THE COMPANY ACCEPTS FOR
+ITSELF AND IN CONNECTION WITH ITS PROPERTIES, GENERALLY AND UNCONDITIONALLY, THE
+NON-EXCLUSIVE JURISDICTION OF THE AFORESAID COURTS, AND IRREVOCABLY AGREES TO BE
+BOUND BY ANY FINAL, NON-APPEALABLE JUDGMENT RENDERED THEREBY IN CONNECTION WITH
+THIS FINANCING AGREEMENT. NOTHING HEREIN SHALL AFFECT THE RIGHT TO SERVE PROCESS
+IN ANY MANNER PERMITTED BY LAW OR SHALL LIMIT THE RIGHT OF THE AGENT TO BRING
+PROCEEDINGS AGAINST THE COMPANY IN THE COURTS OF ANY OTHER JURISDICTION. THE
+COMPANY WAIVES ANY OBJECTION TO JURISDICTION AND VENUE OF ANY ACTION INSTITUTED
+HEREUNDER AND SHALL NOT ASSERT ANY DEFENSE BASED ON LACK OF JURISDICTION OF
+VENUE OR BASED UPON FORUM NON CONVENIENS.
+
+      13.8 Except as otherwise herein provided, any notice or other
+communication required hereunder shall be in writing, and shall be deemed to
+have been validly served, given or delivered when hand delivered, including
+overnight delivery by a courier service or sent by facsimile, or five days after
+deposit in the United States mails, with proper first class postage prepaid and
+addressed to the party to be notified as follows:
+
+
+                                      -48-
+<PAGE>
+
+      (A)   if to CITBC or the Agent, at:
+
+            The CIT Group/Business Credit, Inc.
+            300 South Grand Avenue
+            Los Angeles, CA 90071
+            Attn:  Regional Manager
+            Facsimile Number:  (213) 613-2588
+
+            with a copy to:
+
+            Buchalter, Nemer, Fields & Younger
+            601 S. Figueroa Street, Suite 2400
+            Los Angeles, CA  90017
+            Attn:  Matthew W. Kavanaugh, Esq.
+            Facsimile Number:  (213) 896-0400
+
+      (B)   if to the Company at:
+
+            Big 5 Corp.
+            2525 East El Segundo Blvd
+            El Segundo, CA 90245
+            Attn:  Chief Financial Officer
+            Facsimile Number:  (310) 297-7532
+            with a copy to:
+
+            Big 5 Corp.
+            2525 East El Segundo Boulevard
+            El Segundo, CA 90245
+            Attn:  General Counsel
+            Facsimile Number:  (310) 297-7592
+
+            with a further copy to:
+
+            Irell & Manella LLP
+            1800 Avenue of the Stars, Suite 900
+            Los Angeles, CA 90067
+            Attn:  J. Christopher Kennedy, Esq.
+            Facsimile Number:  (310) 203-7199
+
+      (C)   if to any other Lender, at the address specified in the Assignment
+            and Transfer Agreements
+
+or to such other address as any party may designate for itself by like notice.
+
+      13.9 THE VALIDITY, INTERPRETATION AND ENFORCEMENT OF THIS FINANCING
+AGREEMENT SHALL BE GOVERNED BY THE LAWS OF THE STATE OF CALIFORNIA.
+
+
+                                      -49-
+<PAGE>
+
+      13.10 This Financing Agreement may be executed in counterparts, each of
+which shall constitute an original but all of which when taken together shall
+constitute but one agreement.
+
+   [the remainder of this page left blank intentionally; signatures to follow]
+
+
+                                      -50-
+<PAGE>
+
+      IN WITNESS WHEREOF, the parties hereto have caused this Financing
+Agreement to be executed and delivered in Los Angeles, California by their
+proper and duly authorized officers as of the date set forth above.
+
+                                           BIG 5 CORP.,
+                                           A DELAWARE CORPORATION
+
+
+                                           By  /s/ Charles P. Kirk
+                                             -----------------------------------
+                                           Name:   Charles P. Kirk
+                                                --------------------------------
+                                           Title:  Senior Vice President
+                                                   and Chief Financial Officer
+                                                 -------------------------------
+
+
+
+                                           THE CIT GROUP/BUSINESS CREDIT, INC.
+                                           (AS AGENT AND LENDER)
+
+
+                                           By  /s/ Thomas A. Hopkins
+                                             -----------------------------------
+                                           Name:  Thomas A. Hopkins
+                                                --------------------------------
+                                           Title: Vice President
+                                                 -------------------------------
+
+                                           Commitment: $41,000,000
+
+
+
+                                           FLEET CAPITAL CORPORATION (AS LENDER)
+
+
+                                           By  /s/ Matthew R. Van Steenhuyse
+                                             -----------------------------------
+                                           Name:  Matthew R. Van Steenhuyse
+                                                --------------------------------
+                                           Title: Senior Vice President
+                                                 -------------------------------
+
+                                           Commitment: $28,000,000
+
+
+
+                                           PNC BANK, NATIONAL ASSOCIATION
+                                           (AS LENDER)
+
+
+                                           By  /s/ Mark Tito
+                                             -----------------------------------
+                                           Name:  Mark Tito
+                                                --------------------------------
+                                           Title: Vice President
+                                                 -------------------------------
+
+                                           Commitment: $10,000,000
+
+
+                                      S-1
+                    Amended and Restated Financing Agreement
+<PAGE>
+
+                                           BANK OF AMERICA, N.A. (AS LENDER)
+
+
+                                           By  /s/ Stephen King
+                                             -----------------------------------
+                                           Name:  Stephen King
+                                                --------------------------------
+                                           Title: Vice President
+                                                 -------------------------------
+
+                                           Commitment: $36,000,000
+
+
+
+                                           TRANSAMERICA BUSINESS CAPITAL
+                                           CORPORATION (AS LENDER)
+
+
+                                           By  /s/ Ari Kaplan
+                                             -----------------------------------
+                                           Name:  Ari Kaplan
+                                                --------------------------------
+                                           Title: Vice President
+                                                 -------------------------------
+
+                                           Commitment: $25,000,000
+
+
+                                      S-2
+                    Amended and Restated Financing Agreement
+<PAGE>
+
+                 EXHIBIT A -- ASSIGNMENT AND TRANSFER AGREEMENT
+
+Dated: _____________, 200_
+
+Reference is made to the Amended and Restated Financing Agreement dated as of
+____________, 2003 (as amended, modified, supplemented and in effect from time
+to time, the "Financing Agreement"), among Big 5 Corp., a Delaware corporation
+(the "Company"), the Lenders named therein, and The CIT Group/Business Credit,
+Inc., as Agent (the "Agent"). Initially capitalized terms used herein and not
+otherwise defined shall have the meanings assigned to such terms in the
+Financing Agreement. This Assignment and Transfer Agreement, between the
+Assignor (as defined and set forth on Schedule 1 hereto and made a part hereof)
+and the Assignee (as defined and set forth on Schedule 1 hereto and made a part
+hereof) is dated as of the Effective Date (as set forth on Schedule 1 hereto and
+made a part hereof).
+
+      1. The Assignor hereby irrevocably sells and assigns to the Assignee
+without recourse to the Assignor, and the Assignee hereby irrevocably purchases
+and assumes from the Assignor without recourse to the Assignor, as of the
+Effective Date, an undivided interest (the "Assigned Interest") in and to all
+the Assignor's rights and obligations under the Financing Agreement respecting
+those, and only those, financing facilities contained in the Financing Agreement
+as are set forth on Schedule 1 (collectively, the "Assigned Facilities" and
+individually, an "Assigned Facility"), in a principal amount for each Assigned
+Facility as set forth on Schedule 1.
+
+      2. The Assignor (i) makes no representation or warranty and assumes no
+responsibility with respect to any statements, warranties or representations
+made in or in connection with the Financing Agreement or any other instrument,
+document or agreement executed in conjunction therewith (collectively the
+"Ancillary Documents") or the execution, legality, validity, enforceability,
+genuineness, sufficiency or value of the Financing Agreement, any Collateral
+thereunder or any of the Ancillary Documents furnished pursuant thereto, other
+than that it is the legal and beneficial owner of the interest being assigned by
+it hereunder and that such interest is free and clear of any adverse claim and
+(ii) makes no representation or warranty and assumes no responsibility with
+respect to the financial condition of the Company or any guarantor or the
+performance or observance by the Company or any guarantor of any of its
+respective obligations under the Financing Agreement or any of the Ancillary
+Documents furnished pursuant thereto.
+
+      3. The Assignee (i) represents and warrants that it is legally
+authorized to enter into this Assignment and Transfer Agreement; (ii) confirms
+that it has received a copy of the Financing Agreement, together with the copies
+of the most recent financial statements of the Company, and such other documents
+and information as it has deemed appropriate to make its own credit analysis;
+(iii) agrees that it will, independently and without reliance upon the Agent,
+the Assignor or any other Lender and based on such documents and information as
+it shall deem appropriate at the time, continue to make its own credit decisions
+in taking or not taking action under the Financing Agreement; (iv) appoints and
+authorizes the Agent to take such action as agent on its behalf and to exercise
+such powers under the Financing Agreement as are delegated to the Agent by the
+terms thereof, together with such powers as
+
+
+                                  Exhibit A-1
+<PAGE>
+
+
+are reasonably incidental thereto; (v) agrees that it will be bound by the
+provisions of the Financing Agreement and will perform in accordance with its
+terms all the obligations which by the terms of the Financing Agreement are
+required to be performed by it as Lender; and (vi) if the Assignee is organized
+under the laws of a jurisdiction outside the United States, attaches the forms
+prescribed by the Internal Revenue Service of the United States certifying as to
+the Assignee's exemption from United States withholding taxes with respect to
+all payments to be made to the Assignee under the Financing Agreement or such
+other documents as are necessary to indicate that all such payments are subject
+to such tax at a rate reduced by an applicable tax treaty.
+
+      4. Following the execution of this Assignment and Transfer Agreement,
+such agreement will be delivered to the Agent for acceptance by it and the
+Company, effective as of the Effective Date.
+
+      5. Upon such acceptance, from and after the Effective Date, the Agent
+shall make all payments in respect of the Assigned Interest (including payments
+of principal, interest, fees and other amounts) to the Assignee, whether such
+amounts have accrued prior to the Effective Date or accrue subsequent to the
+Effective Date. The Assignor and Assignee shall make all appropriate adjustments
+in payments for periods prior to the Effective Date made by the Agent or with
+respect to the making of this assignment directly between themselves.
+
+      6. From and after the Effective Date, (i) the Assignee shall be a
+party to the Financing Agreement and, to the extent provided in this Assignment
+and Transfer Agreement, have the rights and obligations of a Lender thereunder,
+and (ii) the Assignor shall, to the extent provided in this Assignment and
+Transfer Agreement, relinquish its rights and be released from its obligations
+under the Financing Agreement.
+
+      7. THIS ASSIGNMENT AND TRANSFER AGREEMENT SHALL BE GOVERNED BY, AND
+CONSTRUED IN ACCORDANCE WITH, THE LAWS OF THE STATE OF CALIFORNIA.
+
+      IN WITNESS WHEREOF, the parties hereto have caused this Assignment and
+Acceptance to be executed by their respective duly authorized officers on
+Schedule 1 hereto.
+
+
+                                  Exhibit A-2
+<PAGE>
+
+SCHEDULE 1 TO ASSIGNMENT AND TRANSFER AGREEMENT
+
+Name of Assignor:
+                 ------------------------
+
+Name of Assignee:
+                 ------------------------
+
+Effective Date of Assignment: _________________, 200__
+
+                                                          Percentage Assigned of
+                                                          Each Facility (Shown
+                                                          as a percentage of
+                            Principal                     aggregate original
+                            Amount (or,                   principal amount
+                            with respect to               [OR, WITH RESPECT TO
+                            Letters of Credit             LETTERS OF CREDIT,
+Assigned                    face amount)                  FACE AMOUNT]
+Facilities                  Assigned                      of all Lenders)
+----------------------      ---------------------         --------------------
+
+Revolving Loans             $____________________         ____________________%
+
+Letter of Credit
+participation interest      $____________________         ____________________%
+
+                            Total $______________
+
+Fees:
+
+Rates:
+
+
+                                  Exhibit A-3
+<PAGE>
+
+Agreed and Accepted by:
+
+THE CIT GROUP/BUSINESS
+CREDIT, INC., as Agent
+
+                                            ------------------------,
+                                            as Assignor
+
+
+By:                                         By:
+   --------------------------------            ---------------------------------
+
+Title:                                      Title:
+      -----------------------------               ------------------------------
+
+
+
+BIG 5 CORP.                                 ------------------------,
+(the "Company")                             as Assignee
+
+
+By:                                         By:
+   --------------------------------            ---------------------------------
+
+Title:                                      Title:
+      -----------------------------               ------------------------------
+
+
+                                  Exhibit A-4
+
+</TEXT>
+</DOCUMENT>

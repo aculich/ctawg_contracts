@@ -1,0 +1,942 @@
+<DOCUMENT>
+<TYPE>EX-10.3
+<SEQUENCE>9
+<FILENAME>v92885exv10w3.txt
+<DESCRIPTION>EXHIBIT 10.3
+<TEXT>
+<PAGE>
+
+                                                                    EXHIBIT 10.3
+
+                          CONFIDENTIAL TREATMENT REQUESTED BY VITAL LIVING, INC.
+
+                                                                   REDACTED COPY
+
+                        DEVELOPMENT AND LICENSE AGREEMENT
+
+                  This Agreement, dated as of December 28, 2001 (the "EFFECTIVE
+DATE"), by and between e-nutriceuticals, Inc., a Delaware corporation ("E-NUT"),
+and SkyePharma PLC, a United Kingdom corporation ("SKYE").
+
+                              W I T N E S S E T H:
+
+                  WHEREAS, e-nut is in the business of developing and marketing
+dietary and nutriceutical supplements throughout the world; and
+
+                  WHEREAS, Skye owns certain technology, , that is useful in the
+production of controlled release oral delivery compounds; and
+
+                  WHEREAS, e-nut wishes to obtain a license to the Technology
+for use in the Field (as defined below) and Skye wishes to grant a license to
+e-nut for use in the Field under terms mutually favorable to both parties.
+
+WHEREAS, Skye and e-nut wish to collaborate in the development of oral delivery
+methods of certain dietary and nutriceutical supplements, using Skye's
+proprietary technology.
+
+                  NOW, THEREFORE, in consideration of the mutual promises,
+covenants and conditions set forth below and in reliance on the representations
+and warranties herein provided, the parties agree as follows:
+
+                  1.       Definitions. For the purposes of this Agreement, the
+following terms, when written with an initial capital letter, will have the
+meaning ascribed to them below.
+
+                           (a) ABANDONMENT means a decision by e-nut to stop
+development work with respect to a Product or Additional Product.
+
+                           (b) AFFILIATE means, with respect to either party
+hereto, any corporation, partnership or other business entity controlled by,
+controlling or under common control with either such party, with "CONTROL"
+meaning direct or indirect beneficial ownership of at least 50% (or such lesser
+percentage as is the maximum allowed to be owned by a foreign corporation in a
+particular jurisdiction) of the voting stock of, or 50% or more interest in the
+income of such corporation or other business entity.
+
+                           (c) E-NUT INVENTION means any invention including any
+invention relating to the Field that uses e-nut Technology and that is first
+conceived solely by an employee licensee licensor (other than Skye) agent
+consultant or contractor of e-nut or of any Affiliate of e-nut during the term
+of this Agreement,.
+
+                           (d) E-NUT KNOW-HOW means all information and
+materials including but not limited to discoveries improvements processes
+formulas data inventions know-how and trade secrets patentable or otherwise
+which during the term of this Agreement (i) are in the
+
+<PAGE>
+
+possession or control of e-nut or its Affiliates (ii) are not generally known
+(iii) are necessary or useful to e-nut in connection with Development under this
+Agreement or the development manufacture marketing use or sale of the Product or
+Additional Product and (iv) are in the Field.
+
+                           (e) E-NUT PATENTS means all of the intellectual
+property or other rights owned, licensed or acquired by e-nut or any of its
+Affiliates during the term of this Agreement
+
+                           (f) E-NUT TECHNOLOGY means any e-nut Patents or e-nut
+Know-How
+
+                           (g) FIELD means ***.
+
+                           (h) JOINT INVENTION means the entire right title and
+interest in all discoveries, improvements processes formulas data inventions
+know-how and trade secrets, patentable or otherwise arising from Development
+under this Agreement and that is not an e-nut Invention or a Skye Invention.
+
+                           (i) JOINT PATENT means any United States or foreign
+patent, patent application and equivalent, including any reissue, extension,
+substitution, continuation, division and continuation-in-part based on any Joint
+Invention or improvement to any Joint Invention.
+
+                           (j) NET SALES OF PRODUCTS means all amounts received
+by e-nut and/or an Affiliate of e-nut from sales of Products or Additional
+Products to a third party, less deductions for royalties to other parties and
+credits or allowances actually granted upon claims, rejections or returns of
+Products or Additional Products, including recalls.
+
+                           (k) PATENT COSTS means all preparation, filing,
+prosecution and maintenance out-of-pocket fees and expenses, including legal
+fees, incurred in connection with the establishment, maintenance and prosecution
+of Skye or Joint Patents relating to any Product or Additional Product.
+
+                           (l) PRODUCT DEVELOPMENT FEES means an amount equal to
+Skye's development cost including the cost of labor, equipment, raw materials,
+overhead and technical support, and test batch manufacture incurred directly and
+exclusively for Development of the Products and/or Additional Products. The
+Product Development Fees shall be no less favorable than fees charged by Skye
+for development work performed by it for third parties.
+
+                           (m) SKYE INVENTION means the entire right, title and
+interest in all discoveries, improvements, processes, formulas, data,
+inventions, know-how and trade secrets, patentable or otherwise including those
+arising from Development under this Agreement developed or invented solely by
+any employee licensee licensor agent consultant or contractor of Skye or of any
+Affiliate of Skye.
+
+                           (n) SKYE KNOW-HOW means all information and materials
+including but not limited to discoveries improvements processes formulas data
+inventions know-how and
+
+                                       2
+
+<PAGE>
+
+trade secrets patentable or otherwise which during the term of this Agreement
+(i) are in the possession or control of Skye or its Affiliates (ii) are not
+generally known and (iii) are necessary or useful to e-nut in connection with
+Development under this Agreement or the development manufacture marketing use or
+sale of the Product or Additional Product.
+
+                           (o) SKYE PATENTS means all of the following
+intellectual property or other rights owned, licensed or acquired by Skye or any
+of its Affiliates during the term of this Agreement:
+
+                  i)       the patents and patent applications listed in Exhibit
+                           1 attached hereto;
+
+                  ii)      any patents issued with respect to the applications
+                           identified in sub-clause (i) hereof and any divisions
+                           and continuations of such applications;
+
+                  iii)     any continuations in part applications and any
+                           resulting patents that are directed to subject matter
+                           described in the patents and applications identified
+                           in sub-clauses (i) and (ii) hereof;
+
+                  iv)      any patent applications and the resulting patents
+                           that claim priority from or are directed to the
+                           subject matter described in the patents and
+                           applications identified in sub-clauses (i) (ii) and
+                           (iii) hereof;
+
+                  v)       any patent applications and the resulting patents
+                           that cover or are related to Development under this
+                           Agreement;
+
+                  vi)      any resissues renewals extensions supplementary
+                           protection certificates utility models and the like
+                           and foreign equivalents thereof of any patents
+                           described in sub-clauses (i) (ii) (iii) and (iv)
+                           hereof.
+
+                           (p) SKYE TECHNOLOGY means all of the following (but
+in each case only in so far as Skye is free to license such technology to e-nut)
+(i) the Skye Patents; and (ii) any Skye Know-How (including any patents or
+patent applications filed after the date hereof which include any Skye Know-How)
+currently owned or licensed to Skye (or its Affiliates) after the date hereof
+and which relate to the implementation of the inventions which are the subject
+of the Skye Patents..
+
+                           (q) VALID CLAIM means a claim of any issued and
+unexpired patent right under the Skye Patents or Joint Patents (excluding
+Acquired Joint Patents, if any) which has not been finally canceled or declared
+invalid by a patent office or by a court of competent jurisdiction in any
+unappealed and unappealable decision.
+
+                  2.       Product Identification and Licenses.
+
+                  2.1.     Products. In the period to ***, (i) e-nut shall have
+the exclusive right to identify up to *** product candidates in the Field for
+Development using the Skye
+
+                                       3
+
+<PAGE>
+
+Technology (each, a "PRODUCT"), (ii) Skye shall not have the right to license
+the Technology (or any Joint Patent) to third parties for products in the Field
+and (iii) Skye shall not have the right to use the Technology (or any Joint
+Patent) to independently develop products in the Field.
+
+                  2.2.     Additional Products. During the *** commencing on ***
+(i) e-nut shall have the right to identify additional product candidates in the
+Field for Development using the Skye Technology provided that Skye is free to
+develop any such Product (each, an "ADDITIONAL PRODUCT"), and (ii) Skye shall
+have the right to license the Technology (and Joint Patents) to third parties
+for products in the Field not identified by e-nut, provided that (i) if at the
+time of identification of an Additional Product by e-nut, Skye has not granted
+exclusive rights to another party to employ the Technology (it being understood
+that Skye does not have the right to grant exclusive licenses to Joint Patents)
+for such Additional Product in the Field, e-nut shall have the exclusive right
+to employ the Technology (and any Joint Patents) for such Additional Product and
+Skye shall not have the right to license the Technology (or Joint Patents) to
+third parties for such product or to use the Technology (or Joint Patents) to
+independently develop such product in the Field and (ii) if at the time of
+identification of an Additional Product by e-nut, Skye has granted nonexclusive
+rights to one or more third parties to employ the Technology (or related Joint
+Patents) for such Additional Product in the Field, e-nut shall have the
+nonexclusive right to employ the Technology (and related Joint Patents) for such
+Additional Product.
+
+                  2.3.     Extensions, Etc. For purposes of this Agreement, a
+"Product" or "Additional Product" shall include extensions thereof utilizing
+substantially the same active or primary ingredient.
+
+                  2.4.     License to the Technology. Subject to the terms of
+this Agreement, Skye hereby grants to e-nut and its Affiliates a worldwide right
+and license to use the Skye Technology in the Field to make, have made, use,
+have used, offer for sale, lease, market, sell, have sold or import Products
+and, subject to the limitations set forth in Section 2.2 above, Additional
+Products (the "LICENSE"). The License will be exclusive until ***, after which
+date the License will be non-exclusive save with respect to Products and
+Additional Products and Skye may grant licenses within the Field to other
+parties. Without limiting the foregoing, e-nut or its Affiliates shall have the
+right to sublicense any right licensed to it under this Agreement without the
+prior consent of Skye provided any such sub-licence is in terms not dissimilar
+to this Agreement. Notwithstanding the foregoing, the terms of any sublicense by
+e-nut to a third party shall be consistent with the obligations and payments to
+Skye under this Agreement.
+
+                  2.5.     License Fees. In consideration of the grant of the
+right to identify Products and Additional Products described in Sections 2.1 and
+2.2 above, and the license described in Section 2.3 above, (i) e-nut hereby pays
+Skye a one time fee of *** and (ii) agrees to pay Skye quarterly in arrears
+royalties equal to *** of e-nut's Net Sales of Products or Additional Products
+during the term of this Agreement where the Product or Additional Product and
+its exploitation under the terms of this Agreement are covered by a Valid Claim.
+All payments to be made pursuant to this Agreement other than those made in
+Shares (as defined below) shall be made by cash, check or wire transfer in
+United States Dollars and all references herein to "$" shall mean United States
+Dollars.
+
+                                        4
+
+<PAGE>
+
+                  3.       Product Development.
+
+                  1.1.     Advisory Committee. 3.1.
+
+                           (a)      Within 30 days of the Effective Date, e-nut
+and the Contractor shall each appoint an equal number of persons to serve on an
+advisory committee (the "ADVISORY COMMITTEE"). Upon identification of a Product
+or an Additional Product, the Advisory Committee shall meet to determine the
+work required ("DEVELOPMENT") to develop a Product or Additional Product,
+including the work to be performed by e-nut and Skye (the "DEVELOPMENT PLAN)
+
+                           (b)      The Advisory Committee shall within 30 days
+of the end of each calendar year review and approve a budget for the following
+calendar year's activities.
+
+                           (c)      The Advisory Committee shall be responsible
+for (i) amending the Development Plan and associated budget, (ii) deciding
+strategies and problems with respect to the Development Plan, (iii) specifying
+the information to be included in the reports referred to in Section 3.3(b)
+below, and (iv) making recommendations as to the advisability of continuing or
+abandoning the Development of a Product or Additional Product
+
+                  3.2.     Product Development Fees. e-nut shall pay fees for
+Product Development under the Development Plan ("PRODUCT DEVELOPMENT FEES") to
+Skye for its work in developing Products and Additional Products. Product
+Development Fees per Product shall be ***, of which *** will normally be
+allocated to formulation of the Product and *** to test batch manufacture. The
+Product Development Fees in respect of the Products will be ***, all of which
+amount shall be due and payable on the Effective Date and will be satisfied by
+*** at a price of ***, on the terms and conditions set out in the ***. Product
+Development Fees in respect of Additional Products will be at the same per
+product rate, adjusted for inflation in Switzerland if such inflation exceeds
+*** per annum in U.S. dollars. Skye will issue invoices within 30 days of the
+end of each calendar quarter for Development performed by Skye under the
+Development Plan on Additional Products during such quarter and e-nut shall
+remit payment within 30 days after the date of such invoice.
+
+                  3.3.     Development Work.
+
+                           (a) Skye agrees to make available through its wholly
+owned subsidiary company Jagotec AG or an Affiliate thereof ("the CONTRACTOR")
+suitable facilities and development personnel for the performance of Development
+work to be performed pursuant to this Agreement.
+
+                           (b) The Contractor shall carry out Development in a
+good scientific manner and in compliance with applicable laws. The Contractor
+shall provide e-nut with monthly summary reports and quarterly progress reports
+with respect to the development work performed by it pursuant to this Agreement,
+and shall permit e-nut representatives to enter the Contractor's facilities upon
+reasonable notice and not more than once in each twelve month period for the
+purpose of making quality assurance audits of the facilities at e-nut's expense.
+
+                                       5
+
+<PAGE>
+
+                           (c) It shall be the obligation of e-nut to provide
+all active ingredients and associated materials other than materials directly
+associated with the Skye Technology required by the Contractor to perform its
+obligations under this Agreement.
+
+                           (d) The parties acknowledge that the nature and
+development of any Product or Additional Product is, as of the Effective Date,
+speculative, and may ultimately entail work outside of their expertise (or with
+respect to Skye, reasonable research or development capabilities). Therefore,
+except as set forth in Section 3.3(a) above, nothing herein shall obligate
+either party to make use of the other's services.
+
+                           (e) E-nut will grant to the Contractor a
+non-exclusive license to any intellectual property rights held in the Products
+or Additional Products for the purpose only of enabling the Contractor to
+perform its obligations under the Agreement.
+
+                  3.4.     Recordkeeping and Audits.
+
+                           (a) e-nut shall, and shall cause its Affiliates to,
+keep complete and accurate books and records pertaining to the sale of the
+Products and Additional Products. Such books and records shall be retained for
+at least *** after the calendar year to which they related or for such longer
+period if and as required by applicable law.
+
+                           (b) The Contractor shall keep complete and accurate
+books and records pertaining to the research and development work to be
+performed by it pursuant to this Agreement. Such books and records shall be
+retained for at least *** after the calendar year to which they related or for
+such longer period if and as required by applicable law.
+
+                  3.5.     Audit of Records. During the term of this Agreement
+and for a period of *** thereafter, at the request of either party, the other
+party shall, and shall cause its Affiliates to, permit the requesting party and
+its representatives, at reasonable times and upon reasonable notice, but no more
+than *** in any calendar year, to examine and audit the books and records
+maintained by such other party pursuant to Section 3.5. If the audit establishes
+that either party underpaid or overpaid the other party any amount in respect of
+the Additional Products, the appropriate party shall promptly pay the other the
+full amount of such underpayment or overpayment in accordance with this
+Agreement.
+
+                  4.       Patents and Inventions.
+
+                  4.1.     Ownership. Except as provided in Section 4.3(b) below
+and the licenses granted in this Agreement, as between Skye and e-nut, all
+rights in and to (i) the Skye Patents and Skye Inventions shall be the exclusive
+property of Skye, and (ii) the e-nut Patents and e-nut Inventions shall be the
+exclusive property of e-nut.
+
+                  4.2.     Maintenance. During the term of this Agreement, Skye
+shall maintain in force all Skye Patents.
+
+                  4.3.     Patent Applications.
+
+                                       6
+
+<PAGE>
+
+                           (a) Skye shall of its own accord, file and prosecute,
+at Skye's expense, such patent applications regarding any portion of the Skye
+Technology which in its reasonable discretion it considers useful for the
+Development of the Product or Additional Products.
+
+                           (b) If for any reason Skye declines to file any
+patent application under Section 4.3(a), or, having filed such application,
+declines to prosecute such application or maintain any such Skye Patent, e-nut
+may so file, prosecute or maintain such patent application and resulting patent
+in e-nut's name and at e-nut's expense (a "TRANSFERRED PATENT") in such country,
+in which event Skye shall, at e-nut's request and expense, provide all
+reasonable assistance, including disclosure of all information which is
+reasonably necessary to permit e-nut to file such patent applications. e-nut
+shall grant to Skye a non-exclusive, royalty-free license, without any warranty
+or representation, to use such Transferred Patent in connection with research
+and development, but Skye shall have no right to commercialize such Transferred
+Patent.
+
+                  4.4.     Joint Inventions and Joint Patents.
+
+                           (a) Ownership. Subject to Section 4.4(d), the parties
+shall jointly retain all right, title and interest in and to the Joint
+Inventions and other intellectual property rights relating thereto, and all
+patents and patent applications claiming such Joint Inventions.
+
+                           (b) Prosecution. Each party will promptly notify the
+other of Joint Inventions. The parties shall discuss in good faith a patent
+strategy with respect to all patentable Joint Inventions. The parties shall
+mutually determine which party shall draft, prosecute and maintain, and, subject
+to 4.4(c) below, shall share equally the Patent Costs related to, all patent
+applications for Joint Patents. The party responsible for filing a patent
+application shall give the other party an opportunity to comment upon any such
+application and shall not amend any claims during the prosecution of such
+application without the consent of the other party, which shall not be
+unreasonably withheld or delayed. Neither party shall take any significant steps
+relating to the Joint Patents without the prior approval of the other party for
+so long as the other party is paying the applicable Patent Costs in accordance
+with the terms of this Agreement.
+
+                           (c) Procedure if Disagreement. If the parties cannot
+agree on (i) whether to file a patent application for a Joint Patent or (ii)
+which party has responsibility for preparing, filing, prosecuting or maintaining
+such an application, then, either party may file such patent application for
+such Joint Patent (but only in the country or countries in which the parties
+have been unable to agree upon a patent strategy). The party that files the
+patent application for a Joint Patent shall provide the other party with notice
+thereof, a copy of such filing and all information pertaining to such filing.
+
+                           (d) Acquired Joint Patent. Subject to the terms of
+this Agreement, each party may make, use, sell, offer for sale, import, license
+and assign its rights in Joint Inventions and Joint Patents in any country
+without the consent of or an accounting to the other party. A party shall be
+deemed to have assigned, and hereby does assign, all of its rights in a Joint
+Invention and the Joint Patent claiming such Joint Invention (collectively an
+"ACQUIRED JOINT PATENT") to the other party if it does not pay its share of the
+Patent Costs related thereto.
+
+                                       7
+
+<PAGE>
+
+                  5.       Infringement.
+
+                  5.1.     Patent.
+
+                           (a) A party shall promptly notify the other party
+when any infringement of any Skye Patent which is or might be relevant to the
+Field is uncovered or suspected. Skye shall have the first right to enforce any
+Skye Patent against any infringement or alleged infringement thereof, and shall
+at all times keep e-nut informed as to the status thereof. Skye may (i) in its
+sole judgment and at its own expense institute a suit against any such infringer
+or alleged infringer, (ii) control, settle and defend such suit, and (iii)
+recover for its own account any damages, awards or settlements resulting
+therefrom (subject to the provisions of this Agreement). e-nut shall reasonably
+cooperate in any such litigation at Skye's expense.
+
+                           (b) If Skye elects not to prosecute an infringement
+of a Skye Patent which is or might be relevant to the Field, then it shall so
+notify e-nut in writing within 60 days of receiving a request from e-nut to
+prosecute such infringement. Thereafter, e-nut may (i) in its sole judgment and
+at its own expense institute a suit against any such infringer or alleged
+infringer, (ii) control, settle and defend such suit, and (iii) recover for its
+own account any damages, awards or settlements resulting therefrom (subject to
+the provisions of this Agreement). Skye shall reasonably cooperate in any such
+litigation at e-nut's expense.
+
+                           (c) In the event of a recovery of compensatory (i.e.,
+non-punitive damages net of legal fees and out-of-pocket costs) under Section
+5.1(b) above, e-nut shall pay to Skye the applicable royalty rate on infringing
+Net Sales of Products. Infringing Net Sales of Products shall be calculated from
+the amount of infringing sales on which the award of compensatory damages is
+based. In the event of recovery of punitive damages under Section 5.1(b), e-nut
+shall pay to Skye an amount equal to 10% thereof.
+
+                  5.2.     Joint Patent.
+
+                           (a) A party shall promptly notify the other party
+when any infringement of any Joint Patent is uncovered or suspected. A party
+which owns an Acquired Joint Patent shall have the sole right, but not the
+obligation, at its sole expense, to institute, prosecute, and control any action
+or proceeding with respect to an infringement of such Acquired Joint Patent.
+
+                           (b) The parties shall mutually agree upon which party
+shall have the first right to enforce such Joint Patent against any infringement
+or alleged infringement thereof, and shall at all times keep the other party
+informed as to the status thereof. Such party may (i) in its sole judgment and
+at its own expense institute a suit against any such infringer or alleged
+infringer, and (ii) control, settle and defend such suit. Each party shall give
+reasonable assistance to the other in connection with any action or proceeding
+regarding a Joint Patent (including being joined as a party plaintiff if
+necessary to prosecute the action).
+
+                           (c) Any damages or other monetary awards recovered in
+an action against an infringer of a Joint Patent (other than an Acquired Joint
+Patent) shall be applied to the reimbursement of the parties' respective
+out-of-pocket expenses (including reasonable attorneys' fees and expenses)
+incurred in prosecuting such infringement action on a pro rata
+
+                                       8
+
+<PAGE>
+
+basis based upon their respective out-of-pocket expenses until all such expenses
+have been recovered, and any remaining balance shall be divided equally between
+the parties.
+
+                  5.3.     Settlement with a Third Party. A party may not settle
+an action or proceeding against an infringer under Section 5.1 or Section 5.2
+(except with respect to an Acquired Joint Patent) without the written consent of
+such other party, such consent not to be unreasonably withheld or delayed.
+
+                  6.       Trademarks, Etc.
+
+                  6.1.     Protection. Each party shall be solely responsible
+for protecting its trademarks. Each party agrees to notify the other party
+promptly of any unauthorized use, known by it, of the other party's trademarks.
+
+                  7.       Representations and Warranties.
+
+                  7.1.     By Skye. As of the Effective Date, Skye represents
+and warrants to e-nut as follows:
+
+                           (a) Due Organization and Power. Skye is a duly
+organized and validly existing corporation in good standing under the laws of
+England and has all requisite corporate power and authority for the ownership
+and operation of its properties and for the carrying on of its business as now
+conducted and as now proposed to be conducted, and for the due execution and
+delivery hereof and performance of its obligations hereunder.
+
+                           (b) Authorization. All corporate action on the part
+of Skye, its officers, directors and stockholders necessary for the
+authorization, execution and delivery of this Agreement and the performance of
+all of Skye's obligations hereunder has been taken. This Agreement constitutes
+the valid and legally binding obligation of Skye enforceable in accordance with
+its terms, subject to laws of general application relating to bankruptcy,
+insolvency and the relief of debtors and rules of law governing specific
+performance, injunctive relief or other equitable remedies.
+
+                           (c) Governmental Approvals. No authorization,
+consent, approval, license, exemption of or filing or registration with any
+court or governmental department, commission, board, bureau, agency or
+instrumentality, domestic or foreign, under any applicable laws, rules or
+regulations presently in effect, is or will be necessary for, or in connection
+with, the performance by Skye of its obligations under this Agreement.
+
+                           (d) Technology. Except as set forth in SCHEDULE 7.1,
+there are no facts known to Skye which would reasonably serve as a basis of any
+claim that Skye does not have the right to use or to license the Technology to
+e-nut as contemplated by the this Agreement. Skye has not licensed or otherwise
+transferred, or entered into any agreement, commitment or arrangement (whether
+oral or written) to license or otherwise transfer, to any other person any of
+the Technology or any rights thereto or interests therein, which now, or with
+the passage of time will, conflict with or impair the rights to and interests in
+the Technology transferred to e-nut pursuant to this Agreement.
+
+                                       9
+
+<PAGE>
+
+                           (e) Litigation. There is no litigation or
+governmental proceeding or investigation pending or, to the knowledge of Skye,
+threatened against Skye which could reasonably be expected to materially and
+adversely affect the performance by Skye of its obligations under this
+Agreement.
+
+                  7.2.     By e-nut. As of the Effective Date, e-nut represents
+and warrants to Skye as follows:
+
+                           (a) Due Organization and Power. e-nut is a duly
+organized and validly existing corporation in good standing under the laws of
+the State of Delaware and has all requisite corporate power and authority for
+the ownership and operation of its properties and for the carrying on of its
+business as now conducted and as now proposed to be conducted, and for the due
+execution and delivery hereof and performance of its obligations hereunder,
+including the issuance of the Shares.
+
+                           (b) Authorization. All corporate action on the part
+of e-nut, its officers, directors and stockholders necessary for the
+authorization, execution and delivery of this Agreement, and for the performance
+of all of its obligations hereunder, including the issuance of the Shares, has
+been taken. This Agreement constitutes the valid and legally binding obligation
+of e-nut enforceable in accordance with its terms, subject to laws of general
+application relating to bankruptcy, insolvency and the relief of debtors and
+rules of law governing specific performance, injunctive relief or other
+equitable remedies.
+
+                           (c) Governmental Approvals. No authorization,
+consent, approval, license, exemption of or filing or registration with any
+court or governmental department, commission, board, bureau, agency or
+instrumentality, domestic or foreign, under any applicable laws, rules or
+regulations presently in effect, is or will be necessary for, or in connection
+with, the performance by e-nut of its obligations under this Agreement.
+
+                           (d) Litigation. There is no litigation or
+governmental proceeding or investigation pending or, to the knowledge of e-nut,
+threatened against e-nut which could reasonably be expected to materially and
+adversely affect the performance by e-nut of its obligations under this
+Agreement.
+
+                           (e) Noncontravention. The execution, delivery and
+performance by e-nut of this Development Agreement does not and will not (i)
+contravene or conflict with its certificate of incorporation or bylaws, (ii)
+contravene or conflict with or constitute a violation of any provision of any
+law, regulation, judgment, injunction, order or decree binding upon or
+applicable to e-nut, (iii) constitute a default under or give rise to any right
+of termination, cancellation or acceleration of any right or obligation of e-nut
+or to a loss of any benefit to which e-nut or is entitled under any provision of
+any agreement, contract or other instrument binding upon e-nut or any license,
+franchise, permit or other similar authorization held by e-nut, or (iv) result
+in the creation or imposition of any lien on any asset of e-nut, except, in the
+case of those items specified in (ii), (iii) or (iv) above which would not,
+individually or in the aggregate, have a material adverse effect on the ability
+of e-nut to perform its obligations under this Agreement.
+
+                                       10
+
+<PAGE>
+
+                           (f) The Shares. Upon issuance in accordance with this
+Agreement, the Share will be validly issued, fully-paid and nonassessable, and
+free from all preemptive rights.
+
+                  8.       Indemnification; Limitation of Liability.
+
+                  8.1.     Indemnification by Skye. Skye hereby agrees to
+defend, and hold e-nut, its Affiliates and their officers, directors, employees,
+agents and consultants harmless from and against any and all losses, damages,
+liabilities, costs and expenses (including reasonable attorneys' fees and
+expenses) (collectively, "LOSSES") resulting from or arising out of: (i) the
+development work conducted by Skye, (ii) the negligence or willful misconduct of
+Skye or its Affiliates, sublicensees, and its or their directors, officers,
+agents, employees, or consultants, or (iv) Skye's material breach of any
+provision of or representation contained in this Agreement.
+
+                  8.2.     Indemnification by e-nut. e-nut hereby agrees to
+save, defend and hold Skye, its Affiliates and their officers, directors,
+employees, agents and consultants harmless from and against any and all Losses
+resulting from or arising out of (i) product development work conducted by
+e-nut, (ii) the negligence or intentional misconduct of e-nut, or its
+Affiliates, sublicensees, and its or their directors, officers, agents,
+employees, consultants or clinical investigators, or (iii) e-nut's material
+breach of any provision of or representation contained in this Agreement.
+
+                  8.3.     Indemnification Procedure.
+
+                           (a) A party seeking indemnification (the
+"INDEMNITEE") shall give prompt notice to the other party (the "INDEMNITOR") and
+shall furnish copies of all papers and documents in the Indemnitee's possession
+or control which relate to any Losses. The Indemnitee shall cooperate with the
+Indemnitor in connection with the defense of the claim underlying the Losses.
+The Indemnitor shall diligently pursue, and have sole control of, the defense of
+any claims. The Indemnitee may participate in such defense with counsel of its
+own choice at its own expense. If the Indemnitor does not so assume the defense
+of such claim, the Indemnitee may conduct the defense with counsel of the
+Indemnitee's choice (the costs for which to be reimbursed by the Indemnitor on a
+calendar quarter basis so long as the Indemnitee controls the defense of the
+claim). A party may not settle any dispute or enter into a judgment on behalf of
+the other (including the Indemnitee if it has assumed its own defense) without
+the other's written consent, not to be unreasonably withheld or delayed.
+
+                  8.4.     Limitation of Liability. EXCEPT IN CONNECTION WITH A
+MATERIAL BREACH UNDER SECTION 9 OR SECTION 7.1(D), UNDER NO CIRCUMSTANCES SHALL
+A PARTY BE LIABLE TO THE OTHER PARTY FOR CONSEQUENTIAL, INCIDENTAL, PUNITIVE OR
+SPECIAL DAMAGES.
+
+                  9.       Confidentiality, Disclosure and Publications.
+
+                  9.1.     Confidentiality.
+
+                           (a)      Except as otherwise provided in this
+Agreement during the term of this Agreement and for a period of seven years
+following expiration or termination of this
+
+                                       11
+
+<PAGE>
+
+Agreement, each party shall maintain in confidence all information and materials
+disclosed or provided by the other including, without limitation, information
+provided by either party to the other party hereto prior to the date hereof or
+information that such party knows or has reason to know is a or contains trade
+secret or other proprietary information relating to the business or properties
+of the other party, or the business plans of the other party, and shall not use
+such trade secrets or proprietary information for any purpose including, without
+limitation, for the purpose of developing, manufacturing or selling products
+except as permitted by this Agreement or disclose the same to anyone other than
+those of its Affiliates, sublicensees, employees, consultants, agents or
+subcontractors as are necessary in connection with such party's activities as
+contemplated in this Agreement.
+
+                           (b)      The Contractor shall maintain records and
+results of Development on the same conditions of confidentiality as provided in
+sub-section (a) above.
+
+                  9.2.     Exceptions. The obligation of confidentiality
+contained in this Agreement shall not apply to the extent that (A) either party
+(the "RECIPIENT") is required to disclose information by order or regulation of
+a governmental agency or a court of competent jurisdiction or (B) the Recipient
+can demonstrate that (i) the disclosed information was at the time of such
+disclosure by the Recipient already in the public domain or known in the
+pharmaceutical or dietary and nutriceutical supplement industry other than as a
+result of actions of the Recipient, its Affiliates, employees, licensees, or
+subcontractors, in violation hereof, (ii) the disclosed information was
+rightfully known by the Recipient or its Affiliates (as shown by its written
+records) prior to the date of disclosure to the Recipient in connection with the
+negotiation execution or performance of this Agreement; or (iii) the disclosed
+information was received by the Recipient or its Affiliates on an unrestricted
+basis from a source unrelated to any party to this Agreement and not under a
+duty of confidentiality to the other party, or (C) disclosure is made to
+Affiliates, sublicensees, employees, consultants, agents or subcontractors in
+connection with the transactions contemplated by this Agreement, provided in the
+case of item (A) of this Section 9.2 that Recipient gives written notice to the
+other party (so that it may seek confidential treatment) and takes advantage of
+any available protective provisions regarding such disclosures of confidential
+information.
+
+                  10.      Term and Termination.
+
+                  10.1.    Term. This Agreement shall remain in effect until
+***, unless terminated by the parties pursuant to Sections 10.2 or 10.3 below.
+Notwithstanding the foregoing, the rights granted to e-nut under Sections 2.1,
+2.2, and 2.3 above shall terminate with respect to a particular Product or
+Additional Product upon the Abandonment of such Product or Additional Product;
+provided however, that e-nut may continue to refer to such abandoned product in
+its promotional or other materials (subject to Section 6).
+
+                  10.2.    Termination by Mutual Agreement. This Agreement may
+be terminated by the written agreement of the parties.
+
+                  10.3.    Termination by Default. If either party materially
+defaults in the performance of, or fails to be in material compliance with, any
+material term, condition or covenant of this Agreement, the nondefaulting party
+may terminate this Agreement if such
+
+                                       12
+
+<PAGE>
+
+default or noncompliance shall not have been remedied, or steps shall not have
+been initiated to remedy the same to the nondefaulting party's reasonable
+satisfaction, within 30 days after receipt by the defaulting party of a written
+notice thereof from the nondefaulting party.
+
+                  10.4.    Effect of Termination or Material Breach.
+
+                           (a) Mutual Agreement or e-nut Material Breach. In the
+event of termination of this Agreement pursuant to this Section 10 by mutual
+agreement or for a material breach by e-nut, e-nut and Skye shall have no rights
+or obligations under this Agreement; provided that (a) Skye will have the right
+to receive all payments accrued prior to the effective date of such termination
+and the parties shall retain any other rights to indemnification or remedies for
+breach of this Agreement they may otherwise have, and (b) e-nut may sell-off any
+Product or Additional Product in its possession or control, or in the process of
+being manufactured, subject to the royalty provisions of this Agreement.
+
+                           (b) Skye Material Breach. In the event of a material
+breach by Skye of this Agreement, if e-nut elects by written notice not to
+terminate this Agreement, the license grant set forth in Section 2.3 shall
+become royalty-free so that e-nut may continue to use the Skye Technology in
+connection with development of Products or Additional Products.
+
+                           (c) Skye Know-How. Upon termination of this Agreement
+for any reason, e-nut shall have a non-exclusive, worldwide royalty-free license
+to use the Skye Know-How directly related to the development of Products or
+Additional Products (e.g., project data, studies, etc.) in connection with
+e-nut's continued development and commercialization of such products following
+the termination hereof.
+
+                  10.5.    Survival. Notwithstanding any provision of this
+Agreement to the contrary, the following Sections shall survive any termination
+of this Agreement (except as limited by the terms of such sections): 3.4, 3.5,
+4.1, 4.4, 8, 9, 10 and 11.
+
+                  11.      Miscellaneous.
+
+                  11.1.    Assignment. This Agreement and the licenses herein
+granted shall be binding upon and shall inure to the benefit of the parties,
+their Affiliates, successors and assigns.
+
+                  11.2.    Agency. Neither party is, nor shall either party be
+deemed to be, an employee, agent, co-venturer or legal representative of the
+other party for any purpose. Neither party shall be entitled to enter into any
+contracts in the name of, or on behalf of the other party.
+
+                  11.3.    Entire Agreement. This Agreement constitutes the
+entire agreement between the parties hereto with respect to the subject matter
+hereof and supersedes all previous agreements, whether written or oral. This
+Agreement shall not be changed or modified orally, but only by an instrument in
+writing signed by both parties.
+
+                  11.4.    Severability. If any provision of this Agreement is
+declared invalid, illegal or unenforceable by a court of last resort or by any
+court from the decision of which an appeal is not taken within the time provided
+by law, then and in such event, this Agreement will
+
+                                       13
+
+<PAGE>
+
+be deemed to have been terminated only as to the portion thereof which relates
+to the provision invalidated by the decision and only in the relevant
+jurisdiction, but this Agreement, in all other respects and all other
+jurisdictions, will remain in force; provided, however, that if the provision so
+invalidated is essential to the Agreement as a whole, then the parties shall
+negotiate in good faith to amend the terms hereof as nearly as practical to
+carry out the original interest of the parties. Each undertaking in this
+Agreement shall be construed as a separate undertaking.
+
+                  11.5.    Notices. Any legal notice or report required or
+permitted to be given under this Agreement shall be in writing and shall be
+mailed by certified mail, or facsimiled or delivered by courier, as follows and
+shall be effective five days after such mailing or delivery or upon such
+facsimile:
+
+                             (a)    If to Skye:
+
+                             SkyePharma PLC
+                             105 Piccadilly
+                             London, England, WIJ 7NJ
+                             Attention: Donald Nicholson
+                             Telecopier: +44-20-7491-3338
+
+                             (b)    with a copy to:
+
+                             Sullivan & Cromwell
+                             St. Olave's House
+                             9a Ironmonger Lane
+                             London, England, EC2V 8EY
+                             Attention: Kathryn A. Campbell, Esq.
+                             Telecopier: +44-20-7710-6565, and
+
+                             (c)    If to e-nut:
+
+                             e-nutriceuticals Inc.
+                             10 East 63rd Street
+
+                             New York, NY 10021
+                             Attention: Stephen P. Morris
+                             Telecopier: +1 212 753 9053
+
+                             (d)    with a copy to:
+
+                             Bingham Dana LLP
+                             399 Park Avenue
+
+                             New York, NY 10022
+
+                             Attention: Brian Beglin
+                             Telecopier: +1-212-207-1200
+
+                                       14
+
+<PAGE>
+
+                  or to such other addresses or facsimile number as either party
+may notify to the other in accordance with the provisions of this section.
+
+                  11.6.    Choice of Law. The validity, performance,
+construction, and effect of this Agreement shall be governed by the laws of the
+State of New York.
+
+                  11.7.    Dispute Resolution. In the case of any disputes
+between the parties arising from this Agreement, and in case this Agreement does
+not provide a solution for how to resolve such disputes, the parties shall
+discuss and negotiate in good faith a solution acceptable to both parties and in
+the spirit of this Agreement. If after negotiating in good faith pursuant to the
+foregoing sentence, the parties fail to reach agreement within thirty days then
+the Chief Executive Officers or Chief Operating Officers of e-nut and of Skye
+shall discuss in good faith an appropriate answer to the dispute. If these
+executives fail, after good faith discussions, to reach an amicable agreement
+within 30 days then the parties may seek relief in any state or federal court
+located in the State of New York having jurisdiction thereof. Each of the
+parties consents to the jurisdiction of such courts (and of the appropriate
+appellate courts) and waives any objection to venue laid therein, including any
+claim of forum nonconveniens in connection with any such claim. Process in any
+such action or proceeding may be served on any party anywhere in the world and
+the parties agree that mailing of process or other papers in connection with any
+such action or proceeding in such manner as may be permitted by law shall be
+valid and sufficient service thereof.
+
+                  11.8.    Publicity. Both parties agree to issue mutual press
+releases concerning their entry into this Agreement, with the content of such
+releases to be approved in advance by both parties. In all other respects,
+neither party shall use the name of the other party in any publicity release
+without the prior written permission of such other party, which shall not be
+unreasonably withheld. The other party shall have a reasonable opportunity to
+review and comment on any such proposed publicity release. Except as required by
+law, neither party shall publicly disclose the terms of this Agreement or issue
+any publicity release with regard thereto unless expressly authorized to do so
+by the other party, which authorization shall not be unreasonably withheld,
+whereupon the parties will work together to develop a mutually acceptable
+disclosure.
+
+                  11.9.    Headings. The captions used herein are inserted for
+convenience of reference only and shall not be construed to create obligations,
+benefits, or limitations.
+
+                  11.10.   Compliance. Each of the parties hereto agrees to
+comply with all applicable laws and regulations in connection with the
+execution, delivery and performance of its obligations under this Agreement.
+
+                  11.11.   Further Assurances. Each party agrees to execute and
+deliver, or cause to be executed and delivered, such further instruments and do
+and cause to be done such further acts and things including, without limitation,
+the filing of such assignments, agreements, documents and instruments, as may be
+necessary or as the other party may reasonably request in connection with this
+Agreement to carry out more effectively the provisions and purposes of this
+Agreement.
+
+                                       15
+
+<PAGE>
+
+                  11.12.   Remedies.
+
+                           (a) Cumulative, Etc. Except as otherwise provided
+herein, the parties agree that each remedy herein provided is cumulative and in
+addition to any further remedies that may be provided by law or by any other
+provisions herein.
+
+                           (b) Specific Performance, Etc. The parties agree that
+the rights and privileges hereunder are of a unique and special character and in
+the event of a breach of any provision of this Agreement, the aggrieved party
+will be without an adequate remedy at law. The parties therefore agree that in
+the event of a breach of any provisions of this Agreement, the aggrieved party
+may institute and prosecute proceedings in any court of competent jurisdiction
+to enforce specific performance or to enjoin the continuing breach of such
+provision, as well as to obtain damages for breach of this Agreement. By seeking
+or obtaining any such relief, the aggrieved party will not be precluded from
+seeking or obtaining any other relief to which it may be entitled.
+
+                  11.13.   Counterparts. This Agreement may be executed in
+counterparts, each of which shall be deemed an original, but all of which
+together shall constitute one and the same instrument.
+
+                  [REMAINDER OF PAGE INTENTIONALLY LEFT BLANK]
+
+                                       16
+
+<PAGE>
+
+                  IN WITNESS WHEREOF, the parties have executed this Agreement
+to be effective as of the Effective Date.
+
+                                   E-NUTRICEUTICALS, INC.
+
+                                   By______________________________
+                                      Name:  S. P. Morris
+                                      Title: Director
+
+                                   SKYEPHARMA PLC
+
+                                   By________________________________
+                                      Name:  Donald Nicholson
+                                      Title: Finance Director
+
+                                       17
+
+</TEXT>
+</DOCUMENT>

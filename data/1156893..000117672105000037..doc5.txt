@@ -1,0 +1,755 @@
+<DOCUMENT>
+<TYPE>EX-10.2
+<SEQUENCE>5
+<FILENAME>doc5.txt
+<TEXT>
+
+                                                                    EXHIBIT 10.2
+
+                                     OPTION
+
+     ez  Tel,  LLC,  a  Nevada limited liability company (the "Company"), hereby
+                        ------
+agrees  with  NS8  Corporation,  a  Delaware  corporation  (the  "Investor"), as
+follows:
+
+                                    RECITALS
+                                    --------
+
+     A.  Concurrently  with  entering  into  this  Agreement,  the  Investor  is
+advancing  a  US$200,000  loan  to  Long  Distance  Billing  Services,  Inc.,  a
+subsidiary  of  the  Company.
+
+     B.  The  loan  would  not  be advanced if the Company were not concurrently
+entering  into  this  Agreement.
+
+     C.  The  parties  acknowledge that this Agreement sets forth certain of the
+basic  terms concerning the transaction contemplated by this Agreement, but that
+many  details  remain  to  be negotiated in good faith by the parties further to
+which  this  Agreement  will  be  amended.
+
+NOW,  THEREFORE,  in  consideration  of  the  premises:
+
+     1.     Option
+            ------
+     .  The  Company  grants  the  Investor  an option (the "Option") to make an
+equity  investment  in  the  Company of US$1,500,000 following which 100% of all
+equity, membership and ownership interests in and to the Company shall be issued
+to  and  held by the Investor.  The foregoing is subject to confirmation of this
+Agreement  and  confirmation of a revised Plan of Reorganization ("Plan") by the
+Bankruptcy  Court  [name]  in  a  final  non-appealable  order.  The  Option  is
+exercisable  only  in  writing  and  at  the  sole  discretion  of the Investor.
+
+     2.     Covenants
+            ---------
+     .  The  Company  shall  amend  the  Plan  as  contemplated  above and shall
+advocate  to  the  Bankruptcy Court that the amended Plan be confirmed such that
+the  transactions  contemplated in this Agreement can proceed.  Without limiting
+the  generality  of  the  foregoing:
+
+     (a)     the  Plan  shall  call  for  all  current and then existing equity,
+membership  and  ownership  interests,  including  options, warrants and similar
+rights,  to be cancelled such that the Investor holds 100% of all such interests
+following  its  exercise  of  and  the  Closing  on  the  option.
+
+     (b)     [creditor's  committee]
+
+     3.     Closing
+            -------
+     .  The  closing  of  the  transactions contemplated by this agreement shall
+take place at the offices of Dorsey & Whitney LLP, [Washington, D.C.] at 5 p.m.,
+
+
+                                        1
+<PAGE>
+
+Eastern  time,  ten calendar days after the Investor gives the Company notice of
+its  exercise  of  the  Option  (the  "Closing  Date") or at such other place or
+different  time  or  day  as  may be mutually acceptable to the Investor and the
+Company.
+
+     4.     Representations  and  Warranties  by  the  Company
+            --------------------------------------------------
+     .  In  order  to induce the Investor to consider exercising the Option, the
+Company hereby represents and warrants to the Investor that, except as disclosed
+in  the  attached  Exhibit  A:
+
+     (a)     Organization,  Standing,  Etc.
+             ------------------------------
+       The  Company  is  a  limited  liability  company  duly organized, validly
+existing  and in good standing under the laws of the state of _____, and has the
+requisite  corporate  power  and authority to own its properties and to carry on
+its business in all material respects as it is now being conducted.  The Company
+has  the  requisite  corporate  power  and  authority  to issue the 100% equity,
+membership  and  ownership  interest  ("Units")  and  to  otherwise  perform its
+obligations  under  this  agreement.
+
+     (b)     Governing  Instruments
+             ----------------------
+     .  The  copies  of the Articles of formation and operating agreement of the
+Company  which  have  been delivered to legal counsel for the Investors prior to
+the  execution  of  this  agreement are true and complete copies of the duly and
+legally  adopted Articles of formation and operating agreement of the Company in
+effect  as  of  the  date  of  this  agreement.
+
+     (c)     Subsidiaries,  Etc.
+             -------------------
+       The  Company  does  not have any direct or indirect ownership interest in
+any  corporation,  company,  partnership,  joint  venture,  association or other
+business  enterprise.  If any entity is listed on Exhibit A and the Company owns
+a  controlling  interest  in such entity, the representations and warranties set
+forth  in  this  Article 4 are being hereby restated with respect to such entity
+(modified  as  appropriate  to  the  nature  of  such  entity).
+
+     (d)     Qualification
+             -------------
+     .  The  Company  is  duly  qualified, licensed or domesticated as a foreign
+limited  liability  company  in  good  standing in each jurisdiction wherein the
+nature  of  its  activities  or  the properties owned or leased by it makes such
+qualification,  licensing  or domestication necessary and in which failure to so
+qualify or be licensed or domesticated would have a material adverse impact upon
+its  business.
+
+     (e)     Financial  Statements
+             ---------------------
+     .  Attached  to  this agreement as Exhibit B are (a) a balance sheet, as at
+__G for the Company, together with the related statements of income and retained
+earnings  and changes in financial position for the fiscal year then ended which
+
+
+                                        2
+<PAGE>
+
+balance sheet and related statements have been audited by _____, CPAs, and (b) a
+balance  sheet,  as  at           H  for  the Company, together with the related
+                        -----------
+statement of income and retained earnings for the _____-month period then ended.
+Such  financial  statements  (i) are in accordance with the books and records of
+the  Company,  (ii) present fairly the financial condition of the Company at the
+balance  sheets  dates and the results of its operations for the periods therein
+specified, and (iii) have, in all material respects, been prepared in accordance
+with generally accepted accounting principles applied on a basis consistent with
+prior accounting periods.  Without limiting the generality of the foregoing, the
+balance  sheets  or  notes  thereto  disclose  all of the debts, liabilities and
+obligations  of  any nature (whether absolute, accrued or contingent and whether
+due  or  to  become  due) of the Company at           G, and           H, which,
+                                            -----------      -----------
+individually  or  in  the  aggregate,  are material and which in accordance with
+generally  accepted  accounting  principles would be required to be disclosed in
+such  balance  sheets, and includes appropriate reserves for all taxes and other
+liabilities  accrued  as  of  such  dates  but  not  yet  payable.
+
+     (f)     Tax  Returns  and  Audits
+             -------------------------
+     .  All  required  federal,  state  and  local  tax  returns  or appropriate
+extension requests of the Company have been filed.  Except as set out in Exhibit
+A  all  federal,  state and local taxes required to be paid with respect to such
+returns  have  been  paid or due provision for the payment thereof has been made
+and  the  Company  has  not  received  notice  of any tax deficiency proposed or
+assessed  against  it,  and  it  has  not  executed any waiver of any statute of
+limitations  on  the  assessment or collection of any tax.  The Company does not
+have  any  tax liabilities except those reflected on Exhibit B or those incurred
+in  the  ordinary  course  of  business  since           H.
+                                               -----------
+
+     (g)     Title  to  Properties  and  Encumbrances
+             ----------------------------------------
+     .  The  Company  has good and marketable title to all of the properties and
+assets  reflected on Exhibit B and the properties and assets used in the conduct
+of  its  business,  except  for  property  disposed of in the ordinary course of
+business  since           H,  which properties and assets are not subject to any
+                -----------
+mortgage,  pledge,  lease,  lien,  charge,  security  interest,  encumbrance  or
+restriction,  except (a) those which are shown and described on Exhibit B or the
+notes  thereto,  (b)  liens for taxes and assessments or governmental charges or
+levies  not  at  the  time due or in respect of which the validity thereof shall
+currently  be  contested  in good faith by appropriate proceedings, or (c) those
+which  do  not  materially affect the value of or interfere with the use made of
+such  properties  and  assets.
+
+     (h)     Litigation;  Governmental  Proceedings
+             --------------------------------------
+     .  There  are  no  legal  actions,  suits,  arbitrations  or  other  legal,
+administrative  or governmental proceedings or investigations pending or, to the
+knowledge  of  the Company, threatened against the Company, or its properties or
+business,  and  the Company is not aware of any facts which are likely to result
+
+
+                                        3
+<PAGE>
+
+in or form the basis for any such action, suit or other proceeding.  The Company
+is  not in default with respect to any judgment, order or decree of any court or
+any governmental agency or instrumentality.  The Company has not been threatened
+with  any  action  or  proceeding under any business or zoning ordinance, law or
+regulation.
+
+     (i)     Compliance  With  Applicable  Laws  and  Other  Instruments
+             -----------------------------------------------------------
+     .  The  business  and  operations  of  the  Company have been and are being
+conducted in all material respects in accordance with all applicable laws, rules
+and  regulations  of  all  governmental  authorities.  Neither the execution nor
+delivery  of,  nor the performance of or compliance with, this agreement nor the
+consummation  of  the transactions contemplated hereby will, with or without the
+giving  of  notice  or passage of time, result in any breach of, or constitute a
+default  under,  or result in the imposition of any lien or encumbrance upon any
+asset  or property of the Company pursuant to, any agreement or other instrument
+to  which the Company is a party or by which it or any of its properties, assets
+or  rights  is bound or affected, and will not violate the Articles of formation
+or  operating  agreement of the Company.  The Company is not in violation of its
+Articles  of formation or operating agreement nor in violation of, or in default
+under,  any  lien, indenture, mortgage, lease, agreement, instrument, commitment
+or  arrangement  in  any  material  respect.  The  Company is not subject to any
+restriction  which  would  prohibit  it  from  entering  into  or performing its
+obligations  under  this  agreement.
+
+     (j)     Units  and  Conversion  Units
+             -----------------------------
+     .  The  Units,  when  issued  and  paid  for  pursuant to the terms of this
+agreement,  will be duly authorized, validly issued and outstanding, fully paid,
+non-assessable  shares  and  shall  be  free  and  clear  of all pledges, liens,
+encumbrances  and  restrictions.
+
+     (k)     Trademarks  and  Other  Intangible  Rights
+             ------------------------------------------
+     .  The  Company  (a) owns or has the exclusive right to use, free and clear
+of all material liens, claims and restrictions, all patents, trademarks, service
+marks,  trade  names,  copyrights,  licenses  and  rights  with  respect  to the
+foregoing,  used  in  the  conduct  of  its  business  as  now conducted without
+infringing  upon  or otherwise acting adversely to the right or claimed right of
+any  person  under or with respect to any of the foregoing, (b) is not obligated
+or  under  any liability whatsoever to make any payments of a material nature by
+way  of  royalties,  fees  or  otherwise  to any owner of, licensor of, or other
+claimant  to,  any  patent, trademark, trade name, copyright or other intangible
+asset,  with respect to the use thereof or in connection with the conduct of its
+business  or  otherwise, (c) owns or has the unrestricted right to use all trade
+secrets,  including  know-how,  customer  lists, inventions, designs, processes,
+computer programs and technical data necessary to the development, operation and
+sale  of  all  products and services sold or proposed to be sold by it, free and
+clear  of  any  rights,  liens  or  claims  of  others, and (d) is not using any
+confidential  information  or  trade  secrets  of  others.
+
+
+                                        4
+<PAGE>
+
+     (l)     Capital  Stock
+             --------------
+     .  At  the  date  hereof,  the authorized Units consists of _____, of which
+_____  are  issued and outstanding.  All of the outstanding Units of the Company
+were  duly  authorized,  validly  issued  and are fully paid and non-assessable.
+There  are  no  outstanding  subscriptions, options, warrants, calls, contracts,
+demands, commitments, convertible securities or other agreements or arrangements
+of  any character or nature whatever, other than this agreement, under which the
+Company  is  obligated  to  issue  any  securities  of  any kind representing an
+ownership  interest  in the Company.  Neither the offer nor the issuance or sale
+of  the  Units  constitutes  an event, under any anti-dilution provisions of any
+securities  issued  or issuable by the Company or any agreements with respect to
+the issuance of securities by the Company, which will either increase the number
+of shares issuable pursuant to such provisions or decrease the consideration per
+share  to  be received by the Company pursuant to such provisions.  No holder of
+any  security  of the Company is entitled to any preemptive or similar rights to
+purchase any securities of the Company from the Company; provided, however, that
+nothing in this section shall affect, alter or diminish any right granted to the
+Investors  in  this  agreement.  All  outstanding securities of the Company have
+been  issued  in  full  compliance  with  an  exemption  or  exemptions from the
+registration and prospectus delivery requirements of the Securities Act and from
+the  registration  and  qualification  requirements  of  all  applicable  state
+securities  laws.
+
+     (m)     Corporate  Acts  and  Proceedings
+             ---------------------------------
+     .  This  agreement  has  been  duly  authorized  by all necessary corporate
+action  on  behalf  of  the  Company,  has  been  duly executed and delivered by
+authorized  officers of the Company, and is a valid and binding agreement on the
+part  of  the Company that is enforceable against the Company in accordance with
+its  terms,  except  as the enforceability thereof may be limited by bankruptcy,
+insolvency,  moratorium,  reorganization  or  other  similar  laws affecting the
+enforcement  of  creditors'  rights generally and to judicial limitations on the
+enforcement  of the remedy of specific performance and other equitable remedies.
+All  corporate  action  necessary  to  the authorization, creation, issuance and
+delivery  of  the  Units  has been taken by the Company, or will be taken by the
+Company  on  or  prior  to  the  closing  date.
+
+     (n)     Accounts  Receivable
+             --------------------
+     .  To  the  extent  that they exceed the reserves for doubtful accounts set
+forth in Exhibit B, the accounts receivable which are reflected in Exhibit B and
+all  accounts  receivable  of  the  Company  which have arisen since           H
+                                                                     -----------
+(except  such  accounts receivable as have been collected since           H) are
+                                                                -----------
+valid  and  enforceable  claims,  and  the goods and services sold and delivered
+which  gave rise to such accounts were sold and delivered in conformity with the
+applicable  purchase  orders,  agreements  and  specifications.  Such  accounts
+receivable  are  subject  to no valid defense or offsets except routine customer
+complaints  or  warranty  demands  of  an  immaterial  nature.  The  reserve for
+doubtful  accounts  that  is  included  in  Exhibit  B  is  adequate.
+
+
+                                        5
+<PAGE>
+
+     (o)     No  Brokers  or  Finders
+             ------------------------
+     .  No  person, firm or corporation has or will have, as a result of any act
+or  omission  of  the  Company,  any  right, interest or valid claim against the
+Company  or  any  Investor  for  any  commission, fee or other compensation as a
+finder  or  broker  in  connection  with  the  transactions contemplated by this
+agreement.  The  Company  will indemnify and hold each of the Investors harmless
+against  any and all liability with respect to any such commission, fee or other
+compensation which may be payable or determined to be payable in connection with
+the  transactions  contemplated  by  this  agreement.
+
+     (p)     Conflicts  of  Interest
+             -----------------------
+     .  No  officer, director or shareholder of the Company or any affiliate (as
+such  term  is  defined in Rule 405 under the Securities Act) of any such person
+has  any  direct or indirect interest (a) in any entity which does business with
+the Company, (b) in any property, asset or right which is used by the Company in
+the  conduct  of  its  business, or (c) in any contractual relationship with the
+Company other than as an employee.  For the purpose of this section, there shall
+be  disregarded any interest which arises solely from the ownership of less than
+a  1%  equity  interest  in a corporation whose stock is regularly traded on any
+national  securities  exchange  or  in  the  over-the-counter  market.
+
+     (q)     Licenses
+             --------
+     .  The Company possesses from the appropriate agency, commission, board and
+government  body  and  authority, whether state, local or federal, all licenses,
+permits,  authorizations,  approvals,  franchises  and  rights  which  (a)  are
+necessary for it to engage in the business currently conducted by it, and (b) if
+not  possessed  by  the  Company  would  have an adverse impact on the Company's
+business.  The  Company  has  no knowledge that would lead it to believe that it
+will  not  be  able  to obtain all licenses, permits, authorizations, approvals,
+franchises and rights that may be required for any business the Company proposes
+to  conduct.
+
+     (r)     Retirement  Plans
+             -----------------
+     .  The  Company does not have any retirement plan in which any employees of
+the  Company  participates  that  is  subject  to any provisions of the Employee
+Retirement  Income  Security Act of 1974 and of the regulations adopted pursuant
+thereto  ("ERISA").
+
+     (s)     Environmental  and  Safety  Laws
+             --------------------------------
+     .  The  Company  is  not  in  violation  of  any applicable statute, law or
+regulation relating to the environment or occupational health and safety, and no
+material  expenditures  are or will be required in order to comply with any such
+existing  statute,  law  or  regulation.
+
+
+                                        6
+<PAGE>
+
+     (t)     Employees
+             ---------
+     .  To  the  best  of  the Company's knowledge, no officer of the Company or
+employee  of the Company (whose annual compensation is in excess of $50,000) has
+any  plans to terminate his or her employment with the Company.  The Company has
+complied  in  all  material respects with all laws relating to the employment of
+labor,  including  provisions  relating  to  wages,  hours,  equal  opportunity,
+collective  bargaining  and  payment of Social Security and other taxes, and the
+Company  has  not encountered any material labor difficulties.  The Company does
+not  have  any  worker's  compensation  liabilities,  except  those reflected on
+Exhibit  B.
+
+     5.     Representations  of  the  Investor
+            ----------------------------------
+     .  The  Investor  represents  that:
+
+     (a)     Acts  and  Proceedings
+             ----------------------
+     .  This  agreement  has been duly authorized by all necessary action on the
+part  of  such  Investor, has been duly executed and delivered by such Investor,
+and  is  a  valid  and  binding  agreement  of  such  Investor.
+
+     (b)     No  Brokers  or  Finders
+             ------------------------
+     .  No  person, firm or corporation has or will have, as a result of any act
+or  omission  by  such  Investor, any right, interest or valid claim against the
+Company  for any commission, fee or other compensation as a finder or broker, or
+in  any  similar  capacity,  in connection with the transactions contemplated by
+this  agreement.  Such  Investor  will  indemnify  and hold the Company harmless
+against  any and all liability with respect to any such commission, fee or other
+compensation which may be payable or determined to be payable as a result of the
+actions  of  such  Investor  in connection with the transactions contemplated by
+this  agreement.
+
+     6.     Conditions  of  The  Investor's  Obligation
+            -------------------------------------------
+     .  Upon  written exercise of the Option, the obligation to purchase and pay
+for  the  Units on the closing date is subject to the fulfillment prior to or on
+the  closing  date  of the conditions set forth in this Article 6.  In the event
+that  any  such  condition is not satisfied to the satisfaction of the Investor.
+
+     (a)     No  Errors,  Etc.
+             -----------------
+       The  representations  and  warranties of the Company under this agreement
+shall  be  true  in  all  material respects as of the closing date with the same
+effect  as  though  made  on  and  as  of  the  closing  date.
+
+
+                                        7
+<PAGE>
+
+     (b)     Compliance  with  Agreement
+             ---------------------------
+     .  The  Company  shall  have  performed and complied with all agreements or
+conditions  required  by  this agreement to be performed and complied with by it
+prior  to  or  as  of  the  closing  date.
+
+     (c)     Approvals
+             ---------
+     .  The  Bankruptcy  Court [and the Creditor's Committee] shall have amended
+the  Company's  Disclosure Statement and Plan of Reorganization under Chapter 11
+of  the Bankruptcy Code to take into account this Agreement and the transactions
+herein  contemplated.
+
+     (d)     Certificate  of  Officers
+             -------------------------
+     .  The  Company  shall have delivered to the Investors a certificate, dated
+the  closing date, executed by the President and the senior financial officer of
+the  Company  and  certifying  various  facts  typically covered by an officers'
+certificate.
+
+     (e)     Opinion  of  the  Company's  Counsel
+             ------------------------------------
+     .  The  Company  shall  have  delivered  to  the  Investor  an  opinion,
+satisfactory  to  each of the Investors, of Craig Geno, counsel for the Company,
+dated  the  closing  date,  to  the  effect  that:
+
+          (1)  The  Company  is  a  limited liability company duly organized and
+     validly  existing  in  good  standing  under  the  laws of the state of its
+     incorporation,  and  has  the corporate power and authority to own and hold
+     the properties owned and leased by it and to carry on the business in which
+     it  is  engaged. The Company has the corporate power and authority to enter
+     into  this  agreement,  to  issue  and  sell the Units and to carry out the
+     provisions  of  this  agreement.
+
+          (2) This agreement has been duly authorized, executed and delivered by
+     the  Company,  is the legal, valid and binding agreement of the Company and
+     is  enforceable  against the Company in accordance with its terms, subject,
+     as  to  the  enforcement  of  remedies,  to  limitations  under  applicable
+     bankruptcy,  insolvency,  moratorium,  reorganization,  and  other  laws
+     affecting  the rights of creditors generally and to judicial limitations on
+     the  enforcement  of the remedy of specific performance and other equitable
+     remedies.
+
+          (3)  The  Units  being  purchased  on  the closing date have been duly
+     authorized, validly issued and delivered by the Company, are fully paid and
+     non-assessable,  and are entitled to the rights, preferences and provisions
+     of  the  Company's  Articles  of  incorporation  and  the  benefits  of the
+     provisions  of  this  agreement  applicable  thereto.  The  certificates
+     evidencing  the  Units  are  in  valid  and  sufficient  form.
+
+
+                                        8
+<PAGE>
+
+          (4)  All corporate proceedings required by law or by the provisions of
+     this  agreement  to  be taken by the Board of Directors and shareholders of
+     the  Company  on  or  prior  to  such  closing  date in connection with the
+     execution and delivery of this agreement, the adoption of the amendments to
+     the  company's Articles of incorporation to include the provisions that are
+     set  forth  in Exhibit A, the offer, issuance and sale of the Units and the
+     consummation  of the transactions contemplated by this agreement, have been
+     duly  and  validly  taken.
+
+          (5)  The  Company  is authorized by its Articles of formation to issue
+     _____  Units, _____ par value. Immediately prior to such closing date there
+     were  no  Units  then  issued and outstanding. All Units outstanding on the
+     date  of  this  Agreement  and  issued  prior  to  Closing  shall have been
+     cancelled.
+
+          (6)  The  Company  has  obtained  the  approval  or  consent  of  all
+     governmental  agencies  or bodies, including the Bankruptcy Court, required
+     for  the  legal  and valid execution and delivery of this agreement and the
+     legal  and  valid  offer,  issuance  and  sale  of  the  Units  and for the
+     performance  of the obligations of the Company under all provisions of this
+     agreement.  To  the best of such counsel's knowledge, the Company is not in
+     violation  of any term, provision or condition of its Articles of formation
+     or  operating  agreement,  or  in  violation  of  any  agreement  or  other
+     instrument  to  which  the Company is a party or by which it is bound or to
+     which any of its properties, assets or business is subject or any judgment,
+     decree  or  order or any statute, rule or regulation. Assuming the accuracy
+     of  the  representations made by the Investors in Article 5, the execution,
+     delivery and performance of this agreement, the offer, issuance and sale of
+     the  Units  and  the  consummation of the transactions contemplated by this
+     agreement  will  not  result  in  any  breach  or violation of the terms or
+     provisions of, or constitute a default under, the Articles of incorporation
+     or  the  bylaws of the Company or any statute, rule or regulation affecting
+     the  Company  or its business. To the best of such counsel's knowledge, the
+     execution,  delivery  and performance of this agreement by the Company, the
+     offer,  issuance  and  sale  of  the  Units  and  the  consummation  of the
+     transactions  contemplated  by  this  agreement  will  not  result  in  any
+     violation  of  any  agreement or other instrument to which the Company is a
+     party  or by which it is bound or to which any of its properties, assets or
+     business  is  subject  or  any  judgment,  decree  or  order.
+
+          (7) Assuming the accuracy of the representations made by the Investors
+     in  Article  5,  the offer, sale, issuance and delivery of the Units to the
+     Investors under the circumstances contemplated by this agreement are exempt
+     from  the  registration  and  prospectus  delivery  requirements  of  the
+     Securities  Act  and  all  applicable  state  securities  laws.
+
+          (8)  The offer, sale and issuance of all outstanding securities of the
+     Company were made pursuant to and in full compliance with an exemption from
+     the registration and prospectus delivery requirements of the Securities Act
+
+
+                                        9
+<PAGE>
+
+     and from any registration or qualification requirements of applicable state
+     securities  laws.
+
+          (9)  Except  for  matters  disclosed on Exhibit A, such counsel has no
+     knowledge  of  any  litigation,  proceeding  or  governmental investigation
+     pending  or  threatened  against the Company or its properties or business.
+
+     (f)     Supporting  Documents
+             ---------------------
+     .  The  Investor  shall  have  received  the  following:
+
+          (1)  A  copy  of  resolutions of the Board of Directors of the Company
+     certified  by  the  secretary  of the Company authorizing and approving the
+     execution,  delivery  and  performance  of  this  agreement;
+
+          (2)  A  certificate  of  incumbency  executed  by the Secretary of the
+     Company  certifying  the  names,  titles  and  signatures  of  the officers
+     authorized  to  execute  this  agreement  and  further  certifying that the
+     Articles  of  formation and operating agreement of the Company delivered to
+     legal  counsel  for  the  Investors  at  the  time of the execution of this
+     agreement  have been validly adopted and have not been amended or modified,
+     by  other than by the substitution of the provisions set forth in Exhibit A
+     for  the  capital  stock  provisions  of the Articles of incorporation; and
+
+          (3)  Such  additional  supporting  documentation and other information
+     with  respect  to the transactions contemplated hereby as legal counsel for
+     the  Investors  may  reasonably  request.
+
+     (g)     Qualification  Under  State  Securities  Laws
+             ---------------------------------------------
+     .  All  registrations, qualifications, permits and approvals required under
+applicable  state  securities laws for the lawful execution and delivery of this
+agreement  and  the  offer,  sale,  issuance  and  delivery  of the Units to the
+Investors  at  the  closing  shall  have  been  obtained.
+
+     (h)     Employment  Agreements
+             ----------------------
+     .  Patric  Boggs  and  _____  and  the  Company  shall  have  entered  into
+employment  agreements  in  form  and  substance  acceptable  to  the  Investor.
+
+     (i)     Board  of  Directors
+             --------------------
+     .  The  Company  shall  have  taken such actions as shall be appropriate to
+reconstitute  its Board of Directors in the manner contemplated by the Investor.
+
+
+                                       10
+<PAGE>
+
+     (j)     Proceedings  and  Documents
+             ---------------------------
+     .  All corporate and other proceedings and actions taken in connection with
+the transactions contemplated hereby and all certificates, opinions, agreements,
+instruments  and  documents  mentioned  herein or incident to any transaction of
+this  type  as  shall  be  reasonably requested by, and satisfactory in form and
+substance  to,  legal  counsel  for  the  Investors.
+
+     (k)     Due  Diligence
+             --------------
+     .  The  Investor's  due  diligence  shall be satisfactory to it in its sole
+discretion.
+
+     (l)     Loan  Repaid
+             ------------
+     .  The  US$200,000  loan by the Investor to Long Distance Billing Services,
+Inc.  shall  have  been  repaid,  including  accrued  interest,  in  full.
+
+     7.     Miscellaneous
+            -------------
+     Waivers,  Amendments  and  Approvals
+
+     .  In each case in which approval of the Investors is required by the terms
+of  this agreement, such requirement shall be satisfied by a vote or the written
+action  of  Investors owning a majority of the Purchased Units then owned by the
+Investors.  With  the  written  consent  of  Investors  owning a majority of the
+Purchased  Units  then  owned  by  the Investors, the obligations of the Company
+under this agreement may be waived (either generally or in a particular instance
+and  either  retroactively  or  prospectively)  and with the written approval of
+Investors owning seventy-five percent (75%) of the Purchased Units then owned by
+the  Investors,  the  Company  may  enter into a supplementary agreement for the
+purpose of adding any provisions to or changing in any manner or eliminating any
+of  the  provisions  of  this  agreement  or  of  any  supplemental agreement or
+modifying  in  any  manner  the  rights  and  obligations  of the holders of the
+Purchased  Units  of  the  Company;  provided,  however,  that no such waiver or
+supplemental  agreement  shall  (a) amend the terms of the Units as set forth in
+the  Company's Articles of incorporation (any such amendment to the terms of the
+Units  shall require the vote of the holders of Units called for by the Articles
+of incorporation), (b) amend the provisions of this agreement granting rights to
+the  holders of the Purchased Units (including, but not limited to, registration
+rights  under  Article  11)  without  the  written  consent  of the holders of a
+majority  of  the  Purchased  Units,  or (c) reduce the aforesaid proportions of
+shares  the  holders  of  which  are  required  to  consent  to  any  waiver  or
+supplemental  agreement,  without  the  consent  of all of the record holders of
+shares  whose rights would be affected by such reduction.  Written notice of any
+such waiver, consent or agreement of amendment, modification or supplement shall
+be  given  to  the record holders of the Purchased Units who have not previously
+consented thereto in writing.  In all cases in which the consent or approval of,
+or  actions  by, the Investors or the holders of the Purchased Units is required
+by  the  terms  of  this  agreement, the number of Purchased Units owned by such
+holder  or  Investor  shall  be  determined  on  an  as-if-converted  basis.
+
+
+                                       11
+<PAGE>
+
+     (a)     Changes,  Waivers,  Etc.
+             ------------------------
+       Neither  this  agreement nor any provision hereof may be changed, waived,
+discharged  or  terminated  orally, but only by a statement in writing signed by
+the  party  against  which  enforcement  of  the  change,  waiver,  discharge or
+termination  is  sought,  except  to  the  extent  provided  in  section  15.1.
+
+     (b)     Payment  of  Fees  and  Expenses  of  the  Investors
+             ----------------------------------------------------
+     .  The Company agrees to reimburse the Investor for legal expenses incurred
+by  them  to  their  legal  counsel,  Dorsey  &  Whitney, in connection with the
+transactions  contemplated  by  this  agreement.  The  Company  also  agrees  to
+reimburse  the  Investor  for  the  reasonable  legal  expenses  incurred by the
+Investor  in  retaining  special  counsel  in  connection with any amendments or
+waivers under or with respect to this agreement and for any expenses incurred by
+the  Investor  in  making  public  announcements  of the investment contemplated
+hereby.
+
+     (c)     Notices
+             -------
+     .  All  notices,  requests,  consents  and other communications required or
+permitted  hereunder  shall  be  in  writing  and  shall be delivered, or mailed
+first-class  postage  prepaid,  registered  or  certified  mail,
+
+          (1)  if  to any holder of any Purchased Units addressed to such holder
+     at  its  address  as  shown  on  the books of the Company, or at such other
+     address  as  such  holder  may specify by written notice to the Company, or
+
+          (2) if to the Company at _____. Attention: President; or at such other
+     address  as  the  Company  may  specify by written notice to the Investors,
+
+and  such  notices  and  other  communications  shall  for  all purposes of this
+agreement  be  treated  as  being  effective  or  having been given if delivered
+personally,  or,  if  sent  by  mail,  when  received.
+
+     (d)     Survival  of  Representations  and  Warranties,  Etc.
+             -----------------------------------------------------
+       All  representations  and  warranties  contained herein shall survive the
+execution  and delivery of this agreement, any investigation at any time made by
+the  Investors  or  on  their behalf, and the sale and purchase of the Units and
+payment  therefor.  All  statements  contained in any certificate, instrument or
+other  writing  delivered  by  or  on  behalf  of  the  Company pursuant to this
+agreement  (other than legal opinions) or in connection with or in contemplation
+of  the  transactions  herein  contemplated shall constitute representations and
+warranties  by  the  Company  hereunder.
+
+
+                                       12
+<PAGE>
+
+     (e)     Parties  in  Interest
+             ---------------------
+     .  All the terms and provisions of this agreement shall be binding upon and
+inure  to  the  benefit  of  and be enforceable by the respective successors and
+assigns  of the parties hereto, whether so expressed or not, and, in particular,
+shall  inure  to the benefit of and be enforceable by the holder or holders from
+time  to time of any of the Purchased Units; provided, however, that a successor
+or  assign  of  an  Investor  shall  not  be  regarded  as  an  "Investor."
+
+     (f)     Headings
+             --------
+     .  The  headings  of  the Articles and sections of this agreement have been
+inserted  for convenience of reference only and do not constitute a part of this
+agreement.
+
+     (g)     Choice  of  Law
+             ---------------
+     .  THE VALIDITY, CONSTRUCTION AND ENFORCEABILITY OF THIS AGREEMENT SHALL BE
+GOVERNED  BY  THE  LAWS  OF  THE  STATE  OF WASHINGTON, WITHOUT GIVING EFFECT TO
+CONFLICT  OF  LAWS PRINCIPLES THEREOF, EXCEPT TO THE EXTENT THAT THE VALIDITY OR
+PERFECTION OF THE SECURITY INTEREST HEREUNDER, OR REMEDIES HEREUNDER, IN RESPECT
+OF  ANY  PARTICULAR  COLLATERAL  ARE  MANDATORILY  GOVERNED  BY  THE  LAWS  OF A
+JURISDICTION  OTHER  THAN  THE  STATE  OF  WASHINGTON.   Whenever possible, each
+provision  of  this Agreement and any other statement, instrument or transaction
+contemplated hereby or relating hereto shall be interpreted in such manner as to
+be  effective and valid under such applicable law, but, if any provision of this
+Agreement  or any other statement, instrument or transaction contemplated hereby
+or  relating  hereto  shall  be  held  to  be  prohibited  or invalid under such
+applicable  law,  such provision shall be ineffective only to the extent of such
+prohibition  or invalidity, without invalidating the remainder of such provision
+or the remaining provisions of this Agreement or any other statement, instrument
+or  transaction  contemplated  hereby  or  relating  hereto.
+
+     (h)     Jurisdiction
+             ------------
+     AT  THE  OPTION  OF  THE  INVESTOR,  THIS  AGREEMENT MAY BE ENFORCED IN ANY
+FEDERAL  COURT OR WASHINGTON STATE COURT SITTING IN KING COUNTY; AND THE COMPANY
+CONSENTS TO THE JURISDICTION AND VENUE OF ANY SUCH COURT AND WAIVES ANY ARGUMENT
+THAT VENUE IN SUCH FORUMS IS NOT CONVENIENT.  IN THE EVENT THE COMPANY COMMENCES
+ANY  ACTION  IN  ANOTHER JURISDICTION OR VENUE UNDER ANY TORT OR CONTRACT THEORY
+ARISING  DIRECTLY OR INDIRECTLY FROM THE RELATIONSHIP CREATED BY THIS AGREEMENT,
+
+
+                                       13
+<PAGE>
+
+THE INVESTOR AT ITS OPTION SHALL BE ENTITLED TO HAVE THE CASE TRANSFERRED TO THE
+JURISDICTION  AND  VENUE  ABOVE-DESCRIBED,  OR  IF  SUCH  TRANSFER  CANNOT  BE
+ACCOMPLISHED  UNDER  APPLICABLE  LAW,  TO  HAVE  SUCH  CASE  DISMISSED  WITHOUT
+PREJUDICE.
+
+     (i)     Waiver  of  Notice  and  Hearing.
+             ---------------------------------
+       THE  COMPANY  HEREBY  WAIVES ALL RIGHTS TO A JUDICIAL HEARING OF ANY KIND
+PRIOR  TO  THE  EXERCISE  BY  THE  INVESTOR  OF  ITS RIGHTS TO POSSESSION OF THE
+COLLATERAL WITHOUT JUDICIAL PROCESS OR OF ITS RIGHTS TO REPLEVY, ATTACH, OR LEVY
+UPON  THE  COLLATERAL WITHOUT PRIOR NOTICE OR HEARING.  THE COMPANY ACKNOWLEDGES
+THAT IT HAS BEEN ADVISED BY COUNSEL OF ITS CHOICE WITH RESPECT TO THIS PROVISION
+AND  THIS  AGREEMENT.
+
+     (j)     Waiver  of  Jury  Trial.
+             ------------------------
+     EACH  OF THE COMPANY AND THE INVESTOR, BY ITS ACCEPTANCE OF THIS AGREEMENT,
+IRREVOCABLY  WAIVES  ANY  AND ALL RIGHT TO TRIAL BY JURY IN ANY LEGAL PROCEEDING
+ARISING  OUT  OF  OR RELATING TO THIS AGREEMENT OR THE TRANSACTIONS CONTEMPLATED
+HEREBY.
+
+     (k)     Counterparts
+             ------------
+     .  This agreement may be executed concurrently in two or more counterparts,
+each  of  which  shall  be  deemed  an original, but all of which together shall
+constitute  one  and  the  same  instrument.
+
+     IN WITNESS WHEREOF, the Company has caused this agreement to be executed by
+its  duly  authorized  representative  and each of the Investors has caused this
+agreement  to be executed by signing in counterpart the acceptance form attached
+to  this  agreement.
+
+     IN  WITNESS  WHEREOF,  the Grantor has caused this Security Agreement to be
+duly  executed  and delivered by its officer thereunto duly authorized as of the
+date  first  above  written.
+
+
+                                                       ez Tel, LLC
+
+                                                       By  /s/ Patric Boggs
+                                                           ------------------
+                                                       Title President & CEO
+                                                             -----------------
+
+
+                                       14
+<PAGE>
+
+</TEXT>
+</DOCUMENT>

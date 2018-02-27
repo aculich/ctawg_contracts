@@ -1,0 +1,814 @@
+<DOCUMENT>
+<TYPE>EX-10.5
+<SEQUENCE>6
+<FILENAME>v020204_ex10-5.txt
+<TEXT>
+
+                                                                    EXHIBIT 10.5
+                              INNOVA HOLDINGS, INC.
+                            PLACEMENT AGENT AGREEMENT
+
+
+                                                      Dated as of: June 14, 2005
+
+Monitor Capital Inc.
+9171 Towne Centre Drive, Suite 465
+San Diego, CA 92122
+
+
+Ladies and Gentlemen:
+
+      The undersigned, Innova Holdings, Inc., a Delaware corporation (the
+"Company"), hereby agrees with Monitor Capital, Inc. (the "Placement Agent") and
+Cornell Capital Partners, LP, a Delaware Limited Partnership (the "Investor"),
+as follows:
+
+      1. Offering. The Company hereby engages the Placement Agent to act as its
+exclusive placement agent in connection with the Standby Equity Distribution
+Agreement dated the date hereof (the "Standby Equity Distribution Agreement"),
+pursuant to which the Company shall issue and sell to the Investor, from time to
+time, and the Investor shall purchase from the Company (the "Offering") up to
+Ten Million Dollars ($10,000,000) of the Company's common stock (the "Commitment
+Amount"), par value $0.001 per share (the "Common Stock"), at price per share
+equal to the Purchase Price, as that term is defined in the Standby Equity
+Distribution Agreement. The Placement Agent services shall consist of reviewing
+the terms of the Standby Equity Distribution Agreement and advising the Company
+with respect to those terms.
+
+      All capitalized terms used herein and not otherwise defined herein shall
+have the same meaning ascribed to them as in the Standby Equity Distribution
+Agreement. The Investor will be granted certain registration rights with respect
+to the Common Stock as more fully set forth in the Registration Rights Agreement
+between the Company and the Investor dated the date hereof (the "Registration
+Rights Agreement"). The documents to be executed and delivered in connection
+with the Offering, including, but not limited, to the Company's latest Annual
+Report on Form 10-KSB and Quarterly Report on Form 10-QSB as filed with the
+United States Securities and Exchange Commission, this Agreement, the Standby
+Equity Distribution Agreement, the Registration Rights Agreement, and the Escrow
+Agreement dated the date hereof (the "Escrow Agreement"), are referred to
+sometimes hereinafter collectively as the "Offering Materials." The Company's
+Common Stock purchased by the Investor hereunder is sometimes referred to
+hereinafter as the "Securities." The Placement Agent shall not be obligated to
+sell any Securities.
+
+
+                                       1
+<PAGE>
+
+      2. Compensation. Upon the execution of this Agreement, the Company shall
+issue to the Placement Agent or its designee 289,855 shares of the Company's
+Common Stock (the "Placement Agent's Shares"). The Placement Agent shall be
+entitled to "piggy-back" registration rights with respect to the Placement
+Agent's Shares, which shall be triggered upon registration of any shares of
+Common Stock by the Company pursuant to the Registration Rights Agreement dated
+the date hereof.
+
+      3. Representations, Warranties and Covenants of the Placement Agent.
+
+            A. The Placement Agent represents, warrants and covenants as
+follows:
+
+                  (i) The Placement Agent has the necessary power to enter into
+this Agreement and to consummate the transactions contemplated hereby.
+
+                  (ii) The execution and delivery by the Placement Agent of this
+Agreement and the consummation of the transactions contemplated herein will not
+result in any violation of, or be in conflict with, or constitute a default
+under, any agreement or instrument to which the Placement Agent is a party or by
+which the Placement Agent or its properties are bound, or any judgment, decree,
+order or, to the Placement Agent's knowledge, any statute, rule or regulation
+applicable to the Placement Agent. This Agreement when executed and delivered by
+the Placement Agent, will constitute the legal, valid and binding obligations of
+the Placement Agent, enforceable in accordance with their respective terms,
+except to the extent that (a) the enforceability hereof or thereof may be
+limited by bankruptcy, insolvency, reorganization, moratorium or similar laws
+from time to time in effect and affecting the rights of creditors generally, (b)
+the enforceability hereof or thereof is subject to general principles of equity,
+or (c) the indemnification provisions hereof or thereof may be held to be in
+violation of public policy.
+
+                  (iii) Upon receipt and execution of this Agreement, the
+Placement Agent will promptly forward copies of this Agreement to the Company or
+its counsel and the Investor or its counsel.
+
+                  (iv) The Placement Agent will not intentionally take any
+action that it reasonably believes would cause the Offering to violate the
+provisions of the Securities Act of 1933, as amended (the "Securities Act"), the
+Securities Exchange Act of 1934 (the "Exchange Act"), the respective rules and
+regulations promulgated thereunder (the "Rules and Regulations") or applicable
+"Blue Sky" laws of any state or jurisdiction.
+
+                  (v) The Placement Agent is a member of the National
+Association of Securities Dealers, Inc., and is a broker-dealer registered as
+such under the Exchange Act and under the securities laws of the states in which
+the Securities will be offered or sold by the Placement Agent unless an
+exemption for such state registration is available to the Placement Agent. The
+Placement Agent is in material compliance with the rules and regulations
+applicable to the Placement Agent generally and applicable to the Placement
+Agent's participation in the Offering.
+
+
+                                       2
+<PAGE>
+
+      4. Representations, Warranties and Covenants of the Company.
+
+            A. The Company represents, warrants and covenants as follows:
+
+                  (i) The execution, delivery and performance of each of this
+Agreement, the Standby Equity Distribution Agreement, the Escrow Agreement, and
+the Registration Rights Agreement have been or will be duly and validly
+authorized by the Company and is, or with respect to this Agreement, the Standby
+Equity Distribution Agreement, the Escrow Agreement, and the Registration Rights
+Agreement, will be a valid and binding agreement of the Company, enforceable in
+accordance with its respective terms, except to the extent that (a) the
+enforceability hereof or thereof may be limited by bankruptcy, insolvency,
+reorganization, moratorium or similar laws from time to time in effect and
+affecting the rights of creditors generally, (b) the enforceability hereof or
+thereof is subject to general principles of equity or (c) the indemnification
+provisions hereof or thereof may be held to be in violation of public policy.
+The Securities to be issued pursuant to the transactions contemplated by this
+Agreement and the Standby Equity Distribution Agreement have been duly
+authorized and, when issued and paid for in accordance with this Agreement, the
+Standby Equity Distribution Agreement and the certificates/instruments
+representing such Securities, will be valid and binding obligations of the
+Company, enforceable in accordance with their respective terms, except to the
+extent that (1) the enforceability thereof may be limited by bankruptcy,
+insolvency, reorganization, moratorium or similar laws from time to time in
+effect and affecting the rights of creditors generally, and (2) the
+enforceability thereof is subject to general principles of equity. All corporate
+action required to be taken for the authorization, issuance and sale of the
+Securities has been duly and validly taken by the Company.
+
+                  (ii) The Company has a duly authorized, issued and outstanding
+capitalization as set forth herein and in the Standby Equity Distribution
+Agreement. The Company is not a party to or bound by any instrument, agreement
+or other arrangement providing for it to issue any capital stock, rights,
+warrants, options or other securities, except for this Agreement, the agreements
+described herein and as described in the Standby Equity Distribution Agreement,
+dated the date hereof and the agreements described therein. All issued and
+outstanding securities of the Company, have been duly authorized and validly
+issued and are fully paid and non-assessable; the holders thereof have no rights
+of rescission or preemptive rights with respect thereto and are not subject to
+personal liability solely by reason of being security holders; and none of such
+securities were issued in violation of the preemptive rights of any holders of
+any security of the Company.
+
+                  (iii) The Common Stock to be issued in accordance with this
+Agreement and the Standby Equity Distribution Agreement has been duly authorized
+and, when issued and paid for in accordance with this Agreement and the Standby
+Equity Distribution Agreement, the certificates/instruments representing such
+Common Stock will be validly issued, fully-paid and non-assessable; the holders
+thereof will not be subject to personal liability solely by reason of being such
+holders; such Securities are not and will not be subject to the preemptive
+rights of any holder of any security of the Company.
+
+                  (iv) The Company has good and marketable title to, or valid
+and enforceable leasehold estates in, all items of real and personal property
+
+
+                                       3
+<PAGE>
+
+necessary to conduct its business (including, without limitation, any real or
+personal property stated in the Offering Materials to be owned or leased by the
+Company), free and clear of all liens, encumbrances, claims, security interests
+and defects of any material nature whatsoever, other than those set forth in the
+Offering Materials and liens for taxes not yet due and payable.
+
+                  (v) There is no litigation or governmental proceeding pending
+or, to the best of the Company's knowledge, threatened against, or involving the
+properties or business of the Company, except as set forth in the Offering
+Materials.
+
+                  (vi) The Company has been duly organized and validly exists as
+a corporation in good standing under the laws of the State of Delaware. Except
+as set forth in the Offering Materials, the Company does not own or control,
+directly or indirectly, an interest in any other corporation, partnership,
+trust, joint venture or other business entity. The Company is duly qualified or
+licensed and in good standing as a foreign corporation in each jurisdiction in
+which the character of its operations requires such qualification or licensing
+and where failure to so qualify would have a material adverse effect on the
+Company. The Company has all requisite corporate power and authority, and all
+material and necessary authorizations, approvals, orders, licenses, certificates
+and permits of and from all governmental regulatory officials and bodies
+(domestic and foreign) to conduct its businesses (and proposed business) as
+described in the Offering Materials. Any disclosures in the Offering Materials
+concerning the effects of foreign, federal, state and local regulation on the
+Company's businesses as currently conducted and as contemplated are correct in
+all material respects and do not omit to state a material fact. The Company has
+all corporate power and authority to enter into this Agreement, the Standby
+Equity Distribution Agreement, the Registration Rights Agreement, and the Escrow
+Agreement, to carry out the provisions and conditions hereof and thereof, and
+all consents, authorizations, approvals and orders required in connection
+herewith and therewith have been obtained. No consent, authorization or order
+of, and no filing with, any court, government agency or other body is required
+by the Company for the issuance of the Securities or execution and delivery of
+the Offering Materials except for applicable federal and state securities laws.
+The Company, since its inception, has not incurred any liability arising under
+or as a result of the application of any of the provisions of the Securities
+Act, the Exchange Act or the Rules and Regulations.
+
+                  (vii) There has been no material adverse change in the
+condition or prospects of the Company, financial or otherwise, from the latest
+dates as of which such condition or prospects, respectively, are set forth in
+the Offering Materials, and the outstanding debt, the property and the business
+of the Company conform in all material respects to the descriptions thereof
+contained in the Offering Materials.
+
+                  (viii) Except as set forth in the Offering Materials, the
+Company is not in breach of, or in default under, any term or provision of any
+material indenture, mortgage, deed of trust, lease, note, loan or Standby Equity
+Distribution Agreement or any other material agreement or instrument evidencing
+an obligation for borrowed money, or any other material agreement or instrument
+to which it is a party or by which it or any of its properties may be bound or
+affected. The Company is not in violation of any provision of its charter or
+by-laws or in violation of any franchise, license, permit, judgment, decree or
+order, or in violation of any material statute, rule or regulation. Neither the
+execution and delivery of the Offering Materials nor the issuance and sale or
+delivery of the Securities, nor the consummation of any of the transactions
+contemplated in the Offering Materials nor the compliance by the Company with
+the terms and provisions hereof or thereof, has conflicted with or will conflict
+
+
+                                       4
+<PAGE>
+
+with, or has resulted in or will result in a breach of, any of the terms and
+provisions of, or has constituted or will constitute a default under, or has
+resulted in or will result in the creation or imposition of any lien, charge or
+encumbrance upon any property or assets of the Company or pursuant to the terms
+of any indenture, mortgage, deed of trust, note, loan or any other agreement or
+instrument evidencing an obligation for borrowed money, or any other agreement
+or instrument to which the Company may be bound or to which any of the property
+or assets of the Company is subject except (a) where such default, lien, charge
+or encumbrance would not have a material adverse effect on the Company and (b)
+as described in the Offering Materials; nor will such action result in any
+violation of the provisions of the charter or the by-laws of the Company or,
+assuming the due performance by the Placement Agent of its obligations
+hereunder, any material statute or any material order, rule or regulation
+applicable to the Company of any court or of any foreign, federal, state or
+other regulatory authority or other government body having jurisdiction over the
+Company.
+
+                  (ix) Subsequent to the dates as of which information is given
+in the Offering Materials, and except as may otherwise be indicated or
+contemplated herein or therein and the securities offered pursuant to the
+Standby Equity Distribution Agreement, the Company has not (a) issued any
+securities or incurred any liability or obligation, direct or contingent, for
+borrowed money, or (b) entered into any transaction other than in the ordinary
+course of business, or (c) declared or paid any dividend or made any other
+distribution on or in respect of its capital stock. Except as described in the
+Offering Materials, the Company has no outstanding obligations to any officer or
+director of the Company.
+
+                  (x) There are no claims for services in the nature of a
+finder's or origination fee with respect to the sale of the Common Stock or any
+other arrangements, agreements or understandings that may affect the Placement
+Agent's compensation, as determined by the National Association of Securities
+Dealers, Inc.
+
+                  (xi) The Company owns or possesses, free and clear of all
+liens or encumbrances and rights thereto or therein by third parties, the
+requisite licenses or other rights to use all trademarks, service marks,
+copyrights, service names, trade names, patents, patent applications and
+licenses necessary to conduct its business (including, without limitation, any
+such licenses or rights described in the Offering Materials as being owned or
+possessed by the Company) and, except as set forth in the Offering Materials,
+there is no claim or action by any person pertaining to, or proceeding, pending
+or threatened, which challenges the exclusive rights of the Company with respect
+to any trademarks, service marks, copyrights, service names, trade names,
+patents, patent applications and licenses used in the conduct of the Company's
+businesses (including, without limitation, any such licenses or rights described
+in the Offering Materials as being owned or possessed by the Company) except any
+claim or action that would not have a material adverse effect on the Company;
+the Company's current products, services or processes do not infringe or will
+not infringe on the patents currently held by any third party.
+
+                  (xii) Except as described in the Offering Materials, the
+Company is not under any obligation to pay royalties or fees of any kind
+whatsoever to any third party with respect to any trademarks, service marks,
+
+
+                                       5
+<PAGE>
+
+copyrights, service names, trade names, patents, patent applications, licenses
+or technology it has developed, uses, employs or intends to use or employ, other
+than to their respective licensors.
+
+                  (xiii) Subject to the performance by the Placement Agent of
+its obligations hereunder the offer and sale of the Securities complies, and
+will continue to comply, in all material respects with the requirements of Rule
+506 of Regulation D promulgated by the SEC pursuant to the Securities Act and
+any other applicable federal and state laws, rules, regulations and executive
+orders. Neither the Offering Materials nor any amendment or supplement thereto
+nor any documents prepared by the Company in connection with the Offering will
+contain any untrue statement of a material fact or omit to state any material
+fact required to be stated therein or necessary to make the statements therein,
+in light of the circumstances under which they were made, not misleading. All
+statements of material facts in the Offering Materials are true and correct as
+of the date of the Offering Materials.
+
+                  (xiv) All material taxes which are due and payable from the
+Company have been paid in full or adequate provision has been made for such
+taxes on the books of the Company, except for those taxes disputed in good faith
+by the Company
+
+                  (xv) None of the Company nor any of its officers, directors,
+employees or agents, nor any other person acting on behalf of the Company, has,
+directly or indirectly, given or agreed to give any money, gift or similar
+benefit (other than legal price concessions to customers in the ordinary course
+of business) to any customer, supplier, employee or agent of a customer or
+supplier, or official or employee of any governmental agency or instrumentality
+of any government (domestic or foreign) or any political party or candidate for
+office (domestic or foreign) or other person who is or may be in a position to
+help or hinder the business of the Company (or assist it in connection with any
+actual or proposed transaction) which (A) might subject the Company to any
+damage or penalty in any civil, criminal or governmental litigation or
+proceeding, or (B) if not given in the past, might have had a materially adverse
+effect on the assets, business or operations of the Company as reflected in any
+of the financial statements contained in the Offering Materials, or (C) if not
+continued in the future, might adversely affect the assets, business, operations
+or prospects of the Company in the future.
+
+                  (xvi) The Company shall advise the Placement Agent and the
+Investor of any material adverse change in the Company's financial condition,
+prospects or business or of any development materially affecting the Company or
+rendering untrue or misleading any material statement in the Offering Materials
+occurring at any time as soon as the Company is either informed or becomes aware
+thereof.
+
+                  (xvii) The Company shall use its commercially reasonable
+efforts to cause the Common Stock issuable in connection with the Standby Equity
+Distribution Agreement to be qualified or registered for sale on terms
+consistent with those stated in the Registration Rights Agreement and under the
+securities laws of such jurisdictions as the Placement Agent and the Investor
+shall reasonably request. Qualification, registration and exemption charges and
+fees shall be at the sole cost and expense of the Company.
+
+                  (xviii) The Company shall comply with the terms of the
+Offering Materials.
+
+
+                                       6
+<PAGE>
+
+                  (xix) The Company shall ensure that any transactions between
+or among the Company, or any of its officers, directors and affiliates be on
+terms and conditions that are no less favorable to the Company, than the terms
+and conditions that would be available in an "arm's length" transaction with an
+independent third party.
+
+                  (xx) Upon the effectiveness of a registration statement
+covering the Standby Equity Distribution Agreement, the Company shall deliver to
+the Investor and the Placement Agent an opinion from counsel to the Company,
+dated as of the date thereof, which opinion shall be in form and substance
+reasonably satisfactory to the Investor, their counsel and the Placement Agent.
+
+                  (xxi) The Company shall furnish to the Investor and the
+Placement Agent such documents, certificates and opinions as it may reasonably
+require for the purpose of enabling them to review or pass upon the matters
+referred to in this Agreement and the Offering Materials, or in order to
+evidence the accuracy, completeness or satisfaction of any of the
+representations, warranties or conditions herein contained.
+
+
+
+      5. Representations, Warranties and Covenants of the Investor.
+
+            A. The Investor represents, warrants and covenants as follows:
+
+                  (i) The Investor has the necessary power to enter into this
+Agreement and to consummate the transactions contemplated hereby.
+
+                  (ii) The execution and delivery by the Investor of this
+Agreement and the consummation of the transactions contemplated herein will not
+result in any violation of, or be in conflict with, or constitute a default
+under, any agreement or instrument to which the Investor is a party or by which
+the Investor or its properties are bound, or any judgment, decree, order or, to
+the Investor's knowledge, any statute, rule or regulation applicable to the
+Investor. This Agreement when executed and delivered by the Investor, will
+constitute the legal, valid and binding obligations of the Investor, enforceable
+in accordance with their respective terms, except to the extent that (a) the
+enforceability hereof or thereof may be limited by bankruptcy, insolvency,
+reorganization, moratorium or similar laws from time to time in effect and
+affecting the rights of creditors generally, (b) the enforceability hereof or
+thereof is subject to general principles of equity, or (c) the indemnification
+provisions hereof or thereof may be held to be in violation of public policy.
+
+                  (iii) The Investor will promptly forward copies of any and all
+due diligence questionnaires compiled by the Investor to the Placement Agent.
+
+                  (iv) The Investor is an Accredited Investor (as defined under
+the Securities Act).
+
+                  (v) The Investor is acquiring the Securities for the
+Investor's own account as principal, not as a nominee or agent, for investment
+purposes only, and not with a view to, or for, resale, distribution or
+fractionalization thereof in whole or in part and no other person has a direct
+
+
+                                       7
+<PAGE>
+
+or indirect beneficial interest in such Securities. Further, the Investor does
+not have any contract, undertaking, agreement or arrangement with any person to
+sell, transfer or grant participations to such person or to any third person,
+with respect to any of the Securities.
+
+                  (vi) The Investor acknowledges the Investor's understanding
+that the offering and sale of the Securities is intended to be exempt from
+registration under the Securities Act by virtue of Section 3(b) of the
+Securities Act and the provisions of Regulation D promulgated thereunder
+("Regulation D"). In furtherance thereof, the Investor represents and warrants
+as follows:
+
+                  (a) The Investor has the financial ability to bear the
+economic risk of the Investor's investment, has adequate means for providing for
+the Inventor's current needs and personal contingencies and has no need for
+liquidity with respect to the Investor's investment in the Company; and
+
+                  (b) The Investor has such knowledge and experience in
+financial and business matters as to be capable of evaluating the merits and
+risks of the prospective investment. The Investor also represents it has not
+been organized for the purpose of acquiring the Securities.
+
+                  (vii) The Investor has been given the opportunity for a
+reasonable time prior to the date hereof to ask questions of, and receive
+answers from, the Company or its representatives concerning the terms and
+conditions of the Offering, and other matters pertaining to this investment, and
+has been given the opportunity for a reasonable time prior to the date hereof to
+obtain such additional information in connection with the Company in order for
+the Investor to evaluate the merits and risks of purchase of the Securities, to
+the extent the Company possesses such information or can acquire it without
+unreasonable effort or expense. The Investor is not relying on the Placement
+Agent or any of its affiliates with respect to the accuracy or completeness of
+the Offering Materials or for any economic considerations involved in this
+investment.
+
+      6. Indemnification and Limitation of Liability.
+
+            A. The Company hereby agrees that it will indemnify and hold the
+Placement Agent and each officer, director, shareholder, employee or
+representative of the Placement Agent and each person controlling, controlled by
+or under common control with the Placement Agent within the meaning of Section
+15 of the Securities Act or Section 20 of the Exchange Act or the SEC's Rules
+and Regulations, harmless from and against any and all loss, claim, damage,
+liability, cost or expense whatsoever (including, but not limited to, any and
+all reasonable legal fees and other expenses and disbursements incurred in
+connection with investigating, preparing to defend or defending any action, suit
+or proceeding, including any inquiry or investigation, commenced or threatened,
+or any claim whatsoever or in appearing or preparing for appearance as a witness
+in any action, suit or proceeding, including any inquiry, investigation or
+pretrial proceeding such as a deposition) to which the Placement Agent or such
+indemnified person of the Placement Agent may become subject under the
+Securities Act, the Exchange Act, the Rules and Regulations, or any other
+
+
+                                       8
+<PAGE>
+
+federal or state law or regulation, common law or otherwise, arising out of or
+based upon (i) any untrue statement or alleged untrue statement of a material
+fact contained in (a) Section 4 of this Agreement, (b) the Offering Materials
+(except those written statements relating to the Placement Agent given by the
+Placement Agent for inclusion therein), (c) any application or other document or
+written communication executed by the Company or based upon written information
+furnished by the Company filed in any jurisdiction in order to qualify the
+Common Stock under the securities laws thereof, or any state securities
+commission or agency; (ii) the omission or alleged omission from documents
+described in clauses (a), (b) or (c) above of a material fact required to be
+stated therein or necessary to make the statements therein not misleading; or
+(iii) the breach of any representation, warranty, covenant or agreement made by
+the Company in this Agreement. The Company further agrees that upon demand by an
+indemnified person, at any time or from time to time, it will promptly reimburse
+such indemnified person for any loss, claim, damage, liability, cost or expense
+actually and reasonably paid by the indemnified person as to which the Company
+has indemnified such person pursuant hereto. Notwithstanding the foregoing
+provisions of this Paragraph 7(A), any such payment or reimbursement by the
+Company of fees, expenses or disbursements incurred by an indemnified person in
+any proceeding in which a final judgment by a court of competent jurisdiction
+(after all appeals or the expiration of time to appeal) is entered against the
+Placement Agent or such indemnified person based upon specific finding of fact
+that the Placement Agent or such indemnified person's gross negligence or
+willful misfeasance will be promptly repaid to the Company.
+
+            B. The Placement Agent hereby agrees that it will indemnify and hold
+the Company and each officer, director, shareholder, employee or representative
+of the Company, and each person controlling, controlled by or under common
+control with the Company within the meaning of Section 15 of the Securities Act
+or Section 20 of the Exchange Act or the Rules and Regulations, harmless from
+and against any and all loss, claim, damage, liability, cost or expense
+whatsoever (including, but not limited to, any and all reasonable legal fees and
+other expenses and disbursements incurred in connection with investigating,
+preparing to defend or defending any action, suit or proceeding, including any
+inquiry or investigation, commenced or threatened, or any claim whatsoever or in
+appearing or preparing for appearance as a witness in any action, suit or
+proceeding, including any inquiry, investigation or pretrial proceeding such as
+a deposition) to which the Company or such indemnified person of the Company may
+become subject under the Securities Act, the Exchange Act, the Rules and
+Regulations, or any other federal or state law or regulation, common law or
+otherwise, arising out of or based upon (i) the material breach of any
+representation, warranty, covenant or agreement made by the Placement Agent in
+this Agreement, or (ii) any false or misleading information provided to the
+Company in writing by one of the Placement Agent's indemnified persons
+specifically for inclusion in the Offering Materials.
+
+
+                                       9
+<PAGE>
+
+            C. The Investor hereby agrees that it will indemnify and hold the
+Placement Agent and each officer, director, shareholder, employee or
+representative of the Placement Agent, and each person controlling, controlled
+by or under common control with the Placement Agent within the meaning of
+Section 15 of the Securities Act or Section 20 of the Exchange Act or the Rules
+and Regulations, harmless from and against any and all loss, claim, damage,
+liability, cost or expense whatsoever (including, but not limited to, any and
+all reasonable legal fees and other expenses and disbursements incurred in
+connection with investigating, preparing to defend or defending any action, suit
+or proceeding, including any inquiry or investigation, commenced or threatened,
+or any claim whatsoever or in appearing or preparing for appearance as a witness
+in any action, suit or proceeding, including any inquiry, investigation or
+pretrial proceeding such as a deposition) to which the Placement Agent or such
+indemnified person of the Placement Agent may become subject under the
+Securities Act, the Exchange Act, the Rules and Regulations, or any other
+federal or state law or regulation, common law or otherwise, arising out of or
+based upon (i) the conduct of the Investor or its officers, employees or
+representatives in its acting as the Investor for the Offering, (ii) the
+material breach of any representation, warranty, covenant or agreement made by
+the Investor in the Offering Materials, or (iii) any false or misleading
+information provided to the Placement Agent by one of the Investor's indemnified
+persons.
+
+            D. The Placement Agent hereby agrees that it will indemnify and hold
+the Investor and each officer, director, shareholder, employee or representative
+of the Investor, and each person controlling, controlled by or under common
+control with the Investor within the meaning of Section 15 of the Securities Act
+or Section 20 of the Exchange Act or the Rules and Regulations, harmless from
+and against any and all loss, claim, damage, liability, cost or expense
+whatsoever (including, but not limited to, any and all reasonable legal fees and
+other expenses and disbursements incurred in connection with investigating,
+preparing to defend or defending any action, suit or proceeding, including any
+inquiry or investigation, commenced or threatened, or any claim whatsoever or in
+appearing or preparing for appearance as a witness in any action, suit or
+proceeding, including any inquiry, investigation or pretrial proceeding such as
+a deposition) to which the Investor or such indemnified person of the Investor
+may become subject under the Securities Act, the Exchange Act, the Rules and
+Regulations, or any other federal or state law or regulation, common law or
+otherwise, arising out of or based upon the material breach of any
+representation, warranty, covenant or agreement made by the Placement Agent in
+this Agreement.
+
+            E. Promptly after receipt by an indemnified party of notice of
+commencement of any action covered by Section 7(A), (B), (C) or (D), the party
+to be indemnified shall, within five (5) business days, notify the indemnifying
+party of the commencement thereof; the omission by one (1) indemnified party to
+so notify the indemnifying party shall not relieve the indemnifying party of its
+obligation to indemnify any other indemnified party that has given such notice
+and shall not relieve the indemnifying party of any liability outside of this
+indemnification if not materially prejudiced thereby. In the event that any
+action is brought against the indemnified party, the indemnifying party will be
+entitled to participate therein and, to the extent it may desire, to assume and
+control the defense thereof with counsel chosen by it which is reasonably
+acceptable to the indemnified party. After notice from the indemnifying party to
+such indemnified party of its election to so assume the defense thereof, the
+indemnifying party will not be liable to such indemnified party under such
+Section 7(A), (B), (C), or (D) for any legal or other expenses subsequently
+incurred by such indemnified party in connection with the defense thereof, but
+the indemnified party may, at its own expense, participate in such defense by
+counsel chosen by it, without, however, impairing the indemnifying party's
+control of the defense. Subject to the proviso of this sentence and
+notwithstanding any other statement to the contrary contained herein, the
+indemnified party or parties shall have the right to choose its or their own
+counsel and control the defense of any action, all at the expense of the
+indemnifying party if (i) the employment of such counsel shall have been
+
+
+                                       10
+<PAGE>
+
+authorized in writing by the indemnifying party in connection with the defense
+of such action at the expense of the indemnifying party, or (ii) the
+indemnifying party shall not have employed counsel reasonably satisfactory to
+such indemnified party to have charge of the defense of such action within a
+reasonable time after notice of commencement of the action, or (iii) such
+indemnified party or parties shall have reasonably concluded that there may be
+defenses available to it or them which are different from or additional to those
+available to one or all of the indemnifying parties (in which case the
+indemnifying parties shall not have the right to direct the defense of such
+action on behalf of the indemnified party or parties), in any of which events
+such fees and expenses of one additional counsel shall be borne by the
+indemnifying party; provided, however, that the indemnifying party shall not, in
+connection with any one action or separate but substantially similar or related
+actions in the same jurisdiction arising out of the same general allegations or
+circumstance, be liable for the reasonable fees and expenses of more than one
+separate firm of attorneys at any time for all such indemnified parties. No
+settlement of any action or proceeding against an indemnified party shall be
+made without the consent of the indemnifying party.
+
+            F. In order to provide for just and equitable contribution in
+circumstances in which the indemnification provided for in Section 7(A) or 7(B)
+is due in accordance with its terms but is for any reason held by a court to be
+unavailable on grounds of policy or otherwise, the Company and the Placement
+Agent shall contribute to the aggregate losses, claims, damages and liabilities
+(including legal or other expenses reasonably incurred in connection with the
+investigation or defense of same) which the other may incur in such proportion
+so that the Placement Agent shall be responsible for such percent of the
+aggregate of such losses, claims, damages and liabilities as shall equal the
+percentage of the gross proceeds paid to the Placement Agent and the Company
+shall be responsible for the balance; provided, however, that no person guilty
+of fraudulent misrepresentation within the meaning of Section 11(f) of the
+Securities Act shall be entitled to contribution from any person who was not
+guilty of such fraudulent misrepresentation. For purposes of this Section 7(F),
+any person controlling, controlled by or under common control with the Placement
+Agent, or any partner, director, officer, employee, representative or any agent
+of any thereof, shall have the same rights to contribution as the Placement
+Agent and each person controlling, controlled by or under common control with
+the Company within the meaning of Section 15 of the Securities Act or Section 20
+of the Exchange Act and each officer of the Company and each director of the
+Company shall have the same rights to contribution as the Company. Any party
+entitled to contribution will, promptly after receipt of notice of commencement
+of any action, suit or proceeding against such party in respect of which a claim
+for contribution may be made against the other party under this Section 7(D),
+notify such party from whom contribution may be sought, but the omission to so
+notify such party shall not relieve the party from whom contribution may be
+sought from any obligation they may have hereunder or otherwise if the party
+from whom contribution may be sought is not materially prejudiced thereby.
+
+
+                                       11
+<PAGE>
+
+            G. The indemnity and contribution agreements contained in this
+Section 7 shall remain operative and in full force and effect regardless of any
+investigation made by or on behalf of any indemnified person or any termination
+of this Agreement.
+
+            H. The Company hereby waives, to the fullest extent permitted by
+law, any right to or claim of any punitive, exemplary, incidental, indirect,
+special, consequential or other damages (including, without limitation, loss of
+profits) against the Placement Agent and each officer, director, shareholder,
+employee or representative of the placement agent and each person controlling,
+controlled by or under common control with the Placement Agent within the
+meaning of Section 15 of the Securities Act or Section 20 of the Exchange Act or
+the Rules and Regulations arising out of any cause whatsoever (whether such
+cause be based in contract, negligence, strict liability, other tort or
+otherwise). Notwithstanding anything to the contrary contained herein, the
+aggregate liability of the Placement Agent and each officer, director,
+shareholder, employee or representative of the Placement Agent and each person
+controlling, controlled by or under common control with the Placement Agent
+within the meaning of Section 15 of the Securities Act or Section 20 of the
+Exchange Act or the Rules and Regulations shall not exceed the compensation
+received by the Placement Agent pursuant to Section 2 hereof. This limitation of
+liability shall apply regardless of the cause of action, whether contract, tort
+(including, without limitation, negligence) or breach of statute or any other
+legal or equitable obligation.
+
+            7. Payment of Expenses.
+
+            The Company hereby agrees to bear all of the expenses in connection
+with the Offering, including, but not limited to the following: filing fees,
+printing and duplicating costs, advertisements, postage and mailing expenses
+with respect to the transmission of Offering Materials, registrar and transfer
+agent fees, escrow agent fees and expenses, fees of the Company's counsel and
+accountants, issue and transfer taxes, if any.
+
+            8. Termination.
+
+            This Agreement shall be co-terminus with, and terminate upon the
+same terms and conditions as those set forth in, the Standby Equity Distribution
+Agreement. The rights of the Investor and the obligations of the Company under
+the Registration Rights Agreement, and the rights of the Placement Agent and the
+obligations of the Company shall survive the termination of this Agreement
+unabridged.
+
+            9. Miscellaneous.
+
+                  A. This Agreement may be executed in any number of
+counterparts, each of which shall be deemed to be an original, but all which
+shall be deemed to be one and the same instrument.
+
+                  B. Any notice required or permitted to be given hereunder
+shall be given in writing and shall be deemed effective when deposited in the
+United States mail, postage prepaid, or when received if personally delivered or
+faxed (upon confirmation of receipt received by the sending party), addressed as
+follows to such other address of which written notice is given to the others):
+
+
+                                       12
+<PAGE>
+
+If to Placement Agent, to:               Monitor Capital Inc.
+                                         9171 Towne Centre Drive, Suite 465
+                                         San Diego, CA 92122
+                                         Attention:        Hsiao-Wen Kao
+                                         Telephone:        (858) 546-8007
+                                         Facsimile:        (858) 546-8756
+
+If to the Company, to:                   Innova Holdings, Inc.
+                                         17105 San Carlos Boulevard
+                                         Suite A6151
+                                         For Myers, FL 33931
+                                         Attention:        Walter Weisel
+                                         Telephone:        (239) 466-0488
+                                         Facsimile:        (239) 466-7270
+
+With a copy to:                          Innova Holdings, Inc.
+                                         17105 San Carlos Boulevard
+                                         Suite A6151
+                                         For Myers, FL 33931
+                                         Attention:        Sheri Aws
+                                         Telephone:        (239) 466-0488
+                                         Facsimile:        (239) 466-7270
+
+If to the Investor:                      Cornell Capital Partners, LP
+                                         101 Hudson Street - Suite 3700
+                                         Jersey City, New Jersey  07302
+                                         Attention:        Mark A. Angelo
+                                                           Portfolio Manager
+                                         Telephone:        (201) 985-8300
+                                         Facsimile:        (201) 985-8266
+
+With copies to:                          Troy Rillo, Esq.
+                                         101 Hudson Street - Suite 3700
+                                         Jersey City, NJ 07302
+                                         Telephone:        (201) 985-8300
+                                         Facsimile:        (201) 985-8266
+
+
+            C. This Agreement shall be governed by and construed in all respects
+under the laws of the State of New Jersey, without reference to its conflict of
+laws rules or principles. Any suit, action, proceeding or litigation arising out
+of or relating to this Agreement shall be brought and prosecuted in such federal
+or state court or courts located within the State of New Jersey as provided by
+law. The parties hereby irrevocably and unconditionally consent to the
+jurisdiction of each such court or courts located within the State of New Jersey
+and to service of process by registered or certified mail, return receipt
+requested, or by any other manner provided by applicable law, and hereby
+irrevocably and unconditionally waive any right to claim that any suit, action,
+
+
+                                       13
+<PAGE>
+
+proceeding or litigation so commenced has been commenced in an inconvenient
+forum.
+
+            D. This Agreement and the other agreements referenced herein contain
+the entire understanding between the parties hereto and may not be modified or
+amended except by a writing duly signed by the party against whom enforcement of
+the modification or amendment is sought.
+
+            E. If any provision of this Agreement shall be held to be invalid or
+unenforceable, such invalidity or unenforceability shall not affect any other
+provision of this Agreement.
+
+
+
+                  [REMAINDER OF PAGE INTENTIONALLY LEFT BLANK]
+
+
+                                       14
+<PAGE>
+
+      IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of
+the date first written above.
+
+                                    COMPANY:
+                                    INNOVA HOLDINGS, INC.
+
+                                    By:      /s/ Walter K. Weisel
+                                       -----------------------------------
+                                    Name:    Walter K. Weisel
+                                    Title:   Chief Executive Officer
+
+
+                                    PLACEMENT AGENT:
+                                    MONITOR CAPITAL, INC.
+
+                                    By:      /s/ Hsiao-Wen Kao
+                                       -----------------------------------
+                                    Name:    Hsiao-Wen Kao
+                                    Title:   President
+
+
+                                    INVESTOR:
+                                    CORNELL CAPITAL PARTNERS, LP
+
+                                    By:      Yorkville Advisors, LLC
+                                    Its:     General Partner
+
+                                    By:      /s/ Mark A. Angelo
+                                       -----------------------------------
+                                    Name:    Mark A. Angelo
+                                    Title:   Portfolio Manager
+
+
+
+                                       15
+
+
+</TEXT>
+</DOCUMENT>

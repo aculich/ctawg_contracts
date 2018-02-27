@@ -1,0 +1,1602 @@
+<DOCUMENT>
+<TYPE>EX-10.7
+<SEQUENCE>12
+<FILENAME>a2055520zex-10_7.txt
+<DESCRIPTION>EXHIBIT 10.7
+<TEXT>
+<Page>
+
+                           CONSTRUCTION LOAN AGREEMENT
+
+This Construction Loan AGREEMENT (the "AGREEMENT") is dated as of the 25th day
+of September, 2000, and is by and between DAKOTA ETHANOL, L.L.C., a South Dakota
+limited liability company ("BORROWER") and FIRST NATIONAL BANK OF OMAHA
+("BANK"), a national banking association established at Omaha, Nebraska.
+
+WHEREAS, the BORROWER has requested the BANK to lend to BORROWER up to the sum
+of Twenty Six Million, Six Hundred Thousand ($26,600,000.00) Dollars (the
+"CONSTRUCTION LOAN"), for the purpose of partially funding the cost of
+construction for an ethanol plant (the "PROJECT") on the real estate described
+in Exhibit A (the "PROPERTY") and providing permanent financing for the PROJECT.
+
+WHEREAS, the BANK is willing to lend such sums to BORROWER upon the terms and
+conditions herein set forth.
+
+SECTION 1 DEFINITIONS.
+
+1.1 "ASSIGNMENT OF CONSTRUCTION CONTRACT" means the assignment of the agreement
+between the BORROWER and Broin and Associates, Inc. (the "GENERAL CONTRACTOR")
+for design and construction of the PROJECT (the "DESIGN/BUILD CONTRACT") in
+accordance with PLANS therein described, by which the BORROWER assigns, as
+additional security for repayment of the OBLIGATIONS, the BORROWER's interest in
+the DESIGN/BUILD CONTRACT in a form acceptable to the BANK.
+
+1.2 "ASSIGNMENT OF RENTS" means the assignment of rents and leases as to the
+PROPERTY between BORROWER as assignor and the BANK as assignee as security for
+payment of the CONSTRUCTION NOTE in a form acceptable to the BANK.
+
+1.3 "BANKING DAY" means a day on which the BANK is open for substantially all of
+its business.
+
+1.4 "CLOSING" shall mean the date on which the BANK receives this AGREEMENT,
+executed by the BORROWER, together with the CONSTRUCTION NOTE.
+
+1.5 "CONSTRUCTION LOAN TERMINATION DATE" means September 1, 2001 or such earlier
+date upon which the BANK's commitment to make disbursements under the
+CONSTRUCTION LOAN is terminated.
+
+1.6 "COMPLETION DATE" means the earlier of September 1, 2001, or the date the
+BANK determines that the PROJECT has been completed in accordance with the
+PLANS.
+
+1.7 "CONSTRUCTION NOTE" means the promissory note of the BORROWER in the form of
+Exhibit B evidencing borrowings under the CONSTRUCTION LOAN of up to a maximum
+amount of Twenty Six Million Six Hundred Thousand ($26,600,000.00) Dollars.
+
+<Page>
+
+1.8 "DEBT SERVICE" means the sum of a) interest expense attributable to all
+BORROWER's loans and b) scheduled principal payments on all INDEBTEDNESS due
+within one year.
+
+1.9 "DRAW REQUEST" means forms acceptable to the BANK to be submitted to the
+BANK when a disbursement is requested under the CONSTRUCTION NOTE.
+
+1.10 "EVENT OF DEFAULT" has the meaning provided for in Section 7 of this
+AGREEMENT.
+
+1.11 "EXCESS CASH FLOW" means net income plus interest expense, depreciation and
+amortization, less annual debt service.
+
+1.12 "GAAP" means generally accepted accounting principles, applied on a basis
+consistent with the accounting principles applied in the preparation of the
+annual financial statements of the BORROWER referred to in the Financial
+Condition Section of this AGREEMENT. All accounting terms not otherwise defined
+in this AGREEMENT have the meaning assigned to them in accordance with GAAP.
+
+1.13 "INDEBTEDNESS" means all indebtedness for borrowed money including long
+term debt, and capital leases.
+
+1.14 "INDEPENDENT INSPECTOR" means the firm which will be retained by BANK, at
+BORROWER's cost, to conduct on site inspections of the work-in-progress on the
+PROJECT, and to issue periodic reports to BANK as to the progress of
+construction and adherence to the PLANS. The BANK's selection of the INDEPENDENT
+INSPECTOR shall be subject to BORROWER's approval, which approval will not be
+unreasonably withheld.
+
+1.15 "LOAN DOCUMENTS" means this AGREEMENT and each document referred to in
+Section 4 of this AGREEMENT.
+
+1.16 "LOAN TERMINATION DATE" means the earliest to occur of the following: (i)
+September 1, 2011, (ii) the date the OBLIGATIONS are accelerated pursuant to
+this AGREEMENT, and (iii) the date BANK receives (a) notice in writing from
+BORROWER of BORROWER's election to terminate this AGREEMENT and (b) indefeasible
+payment in full of the OBLIGATIONS.
+
+1.17 "MANAGEMENT CONTRACT" means that written contract dated as of October 7,
+1999 between BORROWER and Broin Management, L.L.C. by which the latter agreed to
+provide management and operation of BORROWER's ethanol plant.
+
+1.18 "MARKETING CONTRACT" means that written contract dated as of October 7,
+1999 between BORROWER and Broin Enterprises, Inc. doing business as Ethanol
+Products and as Dakota Gold, by which the latter agreed to provide marketing
+services as to BORROWER's products, which MARKETING CONTRACT may be assigned by
+Broin Enterprises, Inc. to Ethanol Products, L.LC.
+
+
+                                       2
+<Page>
+
+1.19 "MORTGAGE" means the Mortgage between the BORROWER as mortgagor and the
+BANK as mortgagee, creating a first lien on the PROPERTY and a security interest
+in all of the personal property located thereon as security for payment of the
+OBLIGATIONS in a form acceptable to the BANK.
+
+1.20 "NET WORTH" means total assets less total liabilities and less the
+following types of assets: (1) leasehold improvements; (2) receivables and other
+investments in or amounts due from any member, employee or other person or
+entity related to or affiliated with the BORROWER; (3) goodwill, patents,
+copyrights, mailing lists, trade names, trademarks, servicing rights,
+organizational and franchise costs, bond underwriting costs and other like
+assets properly classified as intangible, and (4) treasury stock or treasury
+membership units.
+
+1.21 "OBLIGATIONS" means the obligation of the BORROWER:
+
+         (A) To pay the principal of, and interest on, the CONSTRUCTION NOTE in
+         accordance with the terms thereof and to satisfy all of its other
+         liabilities to the BANK, whether hereunder or otherwise, whether now
+         existing or hereafter incurred, matured or unmatured, direct or
+         contingent, joint or several, including any extensions, modifications,
+         renewals thereof, and substitutions therefore and including, but not
+         limited to, any obligations under letter of credit agreements;
+
+         (B) To repay to the BANK all amounts advanced by the BANK hereunder or
+         otherwise on behalf of the BORROWER, including, but without limitation,
+         advances for principal or interest payments to prior secured parties,
+         mortgagees, or licensers, or taxes, levies, insurance, rent, or repairs
+         to, or maintenance or storage of, any of the real or personal property
+         securing BORROWER's payment and performance of this AGREEMENT; and
+
+         (C) To reimburse the BANK, on demand, for all of the BANK's expenses
+         and costs, including the reasonable fees and expenses of its counsel,
+         in connection with the preparation, administration, amendment,
+         modification, or enforcement of this AGREEMENT and the documents
+         required hereunder, including, without limitation, any proceeding
+         brought or threatened, to enforce payment of any of the OBLIGATIONS
+         referred to in the foregoing Paragraphs (A) and (B).
+
+1.22 "OPERATING CASH FLOW" means operating revenue (excluding extra-ordinary
+revenues or income not derived from the ordinary course of business) less all
+direct operating expenses other than interest expense (other than interest on
+accounts payable), depreciation and other similar noncash charges, interest, and
+income taxes.
+
+1.23 "PERMIT" or "PERMITS" means any permit, and all permits, required under any
+environmental law or regulation required to construct and operate the facility
+on the PROPERTY after completion of the PROJECT at its operational capacity,
+including without limitation the following:
+
+
+                                       3
+<Page>
+
+         (a) An Air Emissions Permit, which PERMIT will allow the BORROWER to
+         operate the facility on the PROPERTY after construction of the PROJECT
+         at maximum capacity.
+
+         (b) All permits required in connection with the construction and
+         operation of all above ground storage tanks included in the PLANS for
+         the facility on the PROPERTY after construction of the PROJECT.
+
+         (c) A National Pollution Discharge Elimination System Construction
+         Permit for any storm water that is discharged from the facility on the
+         PROPERTY during construction and after construction of the PROJECT.
+
+1.24 "PLANS" means the plans and specifications prepared by the GENERAL
+CONTRACTOR for the PROJECT and identified to this AGREEMENT by the GENERAL
+CONTRACTOR, the BORROWER and the BANK.
+
+1.25 "PROJECT" means the design and construction of an ethanol plant, together
+with all necessary and appropriate fixtures, equipment, attachments, and
+accessories, as described in the PLANS, to be constructed on the PROPERTY.
+
+1.26 "SECURITY AGREEMENT" means the SECURITY AGREEMENT between the BORROWER and
+the BANK, creating a first security interest in all BORROWER's assets, including
+General Intangibles, securing the OBLIGATIONS in a form acceptable to the BANK.
+
+1.27 "SUBCONTRACTOR" means any person who agrees with the GENERAL CONTRACTOR to
+perform any work or supply any of the materials or equipment necessary to
+complete the PROJECT.
+
+1.28 "WORKING CAPITAL" means current assets (less investments in or other
+amounts due from any member, employee or any person or entity related to or
+affiliated with the BORROWER and prepayments) less current liabilities (less any
+portion of such current liabilities that constitute debt that is expressly
+subordinated to the BANK in a writing acceptable to the BANK).
+
+SECTION 2 AMOUNT AND TERMS OF THE CONSTRUCTION LOAN.
+
+2.1 CONSTRUCTION LOAN. The BANK agrees, on the terms and subject to the
+conditions hereinafter set forth, to make from time to time during the period
+from the date of execution of this AGREEMENT to and including the CONSTRUCTION
+LOAN TERMINATION DATE disbursements to the BORROWER in an aggregate principal
+amount not to exceed the amount of the CONSTRUCTION LOAN for the sole purpose of
+paying approved construction costs of the PROJECT. Approved construction costs
+are costs actually incurred in connection with the construction of the PROJECT,
+which shall include but not be limited to costs of permits, licenses, labor,
+supplies, materials, services, equipment, insurance premiums, real estate taxes
+and interest on disbursements, operating costs of the facility located on the
+PROJECT.
+
+
+                                       4
+<Page>
+
+2.2 THE CONSTRUCTION NOTE. The obligation of the BORROWER to repay the
+CONSTRUCTION LOAN shall be evidenced by the CONSTRUCTION NOTE. Notwithstanding
+any provisions of the CONSTRUCTION NOTE, interest shall be payable at the rate
+provided therein only on such portions of the CONSTRUCTION LOAN proceeds as
+actually have been disbursed pursuant to this AGREEMENT.
+
+2.3 INTEREST. Interest on the principal amount outstanding on the CONSTRUCTION
+LOAN shall accrue, for the period through and including the COMPLETION DATE, at
+a rate (the "RATE") equal to the BASE RATE in effect from time to time until
+maturity, and three per cent (3%) above the BASE RATE in effect from time to
+time after maturity, whether by acceleration or otherwise. For purposes hereof,
+BASE RATE shall mean the rate announced by BANK from time to time as its
+"National Base Rate".
+
+         Each time the BASE RATE shall change, the RATE shall change
+contemporaneously with such change in the BASE RATE. Interest shall be
+calculated on the basis of a 360-day year, counting the actual number of days
+elapsed.
+
+         Following the COMPLETION DATE, interest on the CONSTRUCTION LOAN shall
+accrue at a rate of nine (9%) percent per annum prior to maturity, and twelve
+(12%) percent per annum after maturity, whether by acceleration or otherwise.
+
+2.4 REPAYMENT. Interest only shall be payable quarterly on the CONSTRUCTION NOTE
+for the period through the COMPLETION DATE. On and after the COMPLETION DATE
+principal and interest shall be payable quarterly on the CONSTRUCTION NOTE in an
+amount sufficient, as determined by the BANK, to amortize the amount outstanding
+on the CONSTRUCTION NOTE at the applicable interest period over a ten (10) year
+period commencing from the COMPLETION DATE. All outstanding principal and
+accrued but unpaid interest shall be payable on the LOAN TERMINATION DATE.
+
+2.5 PAYMENTS. All principal, interest and fees due under this AGREEMENT, the
+Construction Note, and the LOAN DOCUMENTS shall be paid in immediately available
+funds as contracted in this AGREEMENT and no later than the payment due date set
+forth in the statement mailed to the BORROWER by the BANK. Should a payment come
+due on a day other than a BANKING DAY, then the payment shall be made no later
+than the next BANKING DAY and interest shall continue to accrue during the
+extended period.
+
+2.6 CLOSING FEE. At CLOSING, the BORROWER shall pay to the BANK a closing fee of
+$125,000.00 which fee BORROWER agrees and acknowledges has been earned by BANK
+as of the execution hereof.
+
+2.7 APPRAISAL. If the BANK is required by any government entity with regulatory
+authority over the BANK the BANK may, at BORROWER's expense, order an appraisal
+of the PROPERTY. If such appraisal shows that the outstanding CONSTRUCTION LOAN
+amount at that time exceeds the value of the PROPERTY as determined by the
+appraisal then the BORROWER shall, within thirty (30) days of notice by the
+BANK, pay the difference between the outstanding CONSTRUCTION LOAN amount and
+the appraised value amount as
+
+
+                                       5
+<Page>
+
+determined by such appraisal, and no further advances shall be made on the
+CONSTRUCTION LOAN thereafter.
+
+SECTION 3 DISBURSEMENT PROCEDURES.
+
+3.1 SUBMISSION OF DRAW REQUESTS. Whenever the BORROWER desires a disbursement
+under the CONSTRUCTION LOAN, which shall be no more often than once a month, the
+BORROWER shall submit to the BANK a DRAW REQUEST, duly executed on behalf of the
+BORROWER setting forth the information requested therein. Each DRAW REQUEST
+shall be delivered to the BANK at least five (5) days before the date the
+disbursement is desired.
+
+3.2 AMOUNT OF DRAW REQUEST. Each DRAW REQUEST shall be limited to amounts equal
+to (i) the total of costs actually incurred and paid or owing by the BORROWER to
+the date of such DRAW REQUEST for work performed or materials incorporated in
+the PROJECT as described in the PLANS, plus (ii) the cost of materials and
+equipment not incorporated in the PROJECT, but delivered to and suitably stored
+at the PROJECT site, plus (iii) prepayments for equipment when prepayment is
+required by the manufacturer or supplier, less, (iv) prior disbursements for
+such costs and from the CONSTRUCTION LOAN or BORROWER's working capital for such
+costs. Notwithstanding anything herein to the contrary, no disbursements for
+materials stored at the PROJECT site will be made by the BANK unless the
+BORROWER shall advise the BANK of its intention to store materials prior to
+their delivery, and provide suitable security for such storage.
+
+3.3 OTHER DOCUMENTS. At the time of submission of each DRAW REQUEST, the
+BORROWER shall submit or cause to be submitted to the BANK the following:
+
+         3.3.1. A written lien waiver from the GENERAL CONTRACTOR and each
+         SUBCONTRACTOR for work done and materials supplied by it which were
+         paid for pursuant to the next preceding DRAW REQUEST with copies of all
+         invoices supporting the DRAW REQUEST.
+
+         3.3.2. A written report from the INDEPENDENT INSPECTOR approving
+         payment of the relevant DRAW REQUEST.
+
+         3.3.3. Such other supporting evidence as may be requested by the BANK
+         to substantiate all payments which are to be made out of the relevant
+         DRAW REQUEST and/or to substantiate all payments then made with respect
+         to the PROJECT.
+
+3.4 COST OVER RUNS. The BORROWER agrees that all cost over runs on the PROJECT
+shall be paid solely by the BORROWER and that the BORROWER shall deliver
+additional funds to the BANK in accordance with Section 3.6 of this AGREEMENT to
+pay any cost over runs on the PROJECT.
+
+3.5 MAKING THE DISBURSEMENTS. If on the date a DRAW REQUEST is received by BANK,
+the BORROWER has performed all of its agreements and complied with all
+requirements therefore to be performed or complied with hereunder including
+satisfaction of all applicable
+
+
+                                       6
+<Page>
+
+conditions precedent contained in Section 4 of this AGREEMENT and the BANK has
+received a current report from the INDEPENDENT INSPECTOR documenting compliance
+with the PLANS for those portions of the PROJECT indicated as completed in the
+DRAW REQUEST and otherwise confirming the acceptability of the PROJECT work
+represented by the DRAW REQUEST; the BANK shall pay to the BORROWER the amount
+of the requested disbursement. Each disbursement disbursed to the BORROWER under
+the CONSTRUCTION LOAN shall bear interest at the rate provided in the
+CONSTRUCTION NOTE evidencing the disbursement from the date such disbursement is
+so disbursed to the BORROWER or deposited into BORROWER's account.
+
+3.6 DEPOSIT OF FUNDS BY THE BORROWER. If the BANK shall at any time in good
+faith determine that the undisbursed amount of the CONSTRUCTION LOAN is less
+than the amount required to pay all costs and expenses of any kind which
+reasonably may be anticipated in connection with the completion of the PROJECT
+after application of all fiends received from the BORROWER's equity and shall
+thereupon send written notice thereof to the BORROWER specifying the amount
+required to be deposited by the BORROWER with the BANK to provide sufficient
+funds to complete the PROJECT, the BORROWER agrees that it will, within fifteen
+(15) calendar days of receipt of any such notice, deposit with the BANK, the
+amount of funds specified in the BANK's notice. The BORROWER agrees that any
+such funds deposited with the BANK may be disbursed before any further
+disbursement of CONSTRUCTION LOAN proceeds from the BANK, to pay any and all
+costs and expenses of any kind in connection with completion of the PROJECT.
+
+3.7 DISBURSEMENTS WITHOUT RECEIPT OF DRAW REQUEST. Notwithstanding anything
+herein to the contrary, the BANK shall have the irrevocable right at any time
+and from time to time to apply funds which it agrees to disburse hereunder to
+pay interest on the CONSTRUCTION NOTE as and when such interest becomes due, and
+to pay any and all of the expenses of BANK referred to in this AGREEMENT, all
+without receipt of a DRAW REQUEST for funds from the BORROWER.
+
+3.8 MISCELLANEOUS PROCEDURES. BANK may establish additional procedures regarding
+disbursements as are reasonable to assure the proceeds of the CONSTRUCTION LOAN
+are paid only to those persons and entities entitled to the same, and that the
+liens securing the OBLIGATIONS are in all cases first and paramount liens on the
+PROPERTY.
+
+3.9 APPOINTMENT OF INDEPENDENT INSPECTOR. No DRAW REQUEST shall be honored after
+commencement of construction unless BORROWER has consented to the appointment of
+an INDEPENDENT INSPECTOR.
+
+SECTION 4 CONDITIONS OF LENDING.
+
+4.1 CONDITIONS PRECEDENT TO THE INITIAL DISBURSEMENT. The obligation of the BANK
+to make its initial disbursement under the CONSTRUCTION LOAN is subject to the
+condition precedent that the BORROWER shall be in compliance with the conditions
+set forth in Section 4.2 of this AGREEMENT and to the further condition
+precedent that the BANK shall have received on or
+
+
+                                       7
+<Page>
+
+before the CLOSING all of the following, each dated (unless otherwise indicated)
+such day, in form and substance satisfactory to the BANK:
+
+         4.1.1 The CONSTRUCTION NOTE, duly executed on behalf of the BORROWER.
+
+         4.1.2 The MORTGAGE duly executed on behalf of the BORROWER.
+
+         4.1.3 The ASSIGNMENT OF RENTS, duly executed on behalf of the BORROWER.
+
+         4.1.4 The SECURITY AGREEMENT, duly executed on behalf of the BORROWER.
+
+         4.1.5 A financing statement or statements sufficient when filed to
+         perfect the security interests granted under the MORTGAGE, the
+         ASSIGNMENT OF RENTS, the SEA AGREEMENT, and the ASSIGNMENT OF
+         CONSTRUCTION CONTRACT, to the extent such security interests are
+         capable of being perfected by filing.
+
+         4.1.6 A copy of the PLANS, certified by the GENERAL CONTRACTOR and the
+         BORROWER
+
+         4.1.7 The Assignment of the DESIGN/BUILD CONTRACT, duly executed by the
+         BORROWER and consented to by the GENERAL CONTRACTOR and a copy of the
+         DESIGN/BUILD CONTRACT.
+
+         4.1.8 A Total Project Cost Statement on the PROJECT duly executed by
+         the BORROWER and the GENERAL CONTRACTOR, setting forth the anticipated
+         total cost of the PROJECT's completion.
+
+         4.1.9 AN ALTA (AMERICAN LAND TITLE ASSOCIATION) SURVEY OF THE PROPERTY,
+         prepared at the BORROWER's expense, currently certified by a licensed,
+         registered surveyor and incorporating the legal description of the
+         PROPERTY, showing the location of all points and lines referred to in
+         the legal description, the location of any existing improvements, the
+         proposed location of the PROJECT (including parking) as being within
+         the exterior boundaries of the PROPERTY and in compliance with all
+         applicable building set-back requirements, and the location of all
+         utilities and the location of all easements and encroachments onto or
+         from the PROPERTY that are visible on the PROPERTY, known to the
+         surveyor preparing the survey or of record, identifying easements of
+         record by recording data, and currently certified by the surveyor that
+         there are no such easements or encroachments upon the PROPERTY except
+         as shown on the survey.
+
+         4.1.14 An as built appraisal to the BANK based upon the PLANS to be
+         performed by Herman Natwick & Co., which shows the as-completed value
+         of the PROPERTY and PROJECT acceptable to BANK.
+
+         4.1.15 A title binder, issued by Dakota Homestead Title Insurance
+         Corporation (the "Title Company"), at the BORROWER's expense,
+         constituting a commitment by the
+
+
+                                       8
+<Page>
+
+         Title Company to issue a mortgagee's title policy in favor of the BANK
+         as mortgagee under the MORTGAGE, that will be free from all standard
+         exceptions, including mechanics' liens and all other exceptions not
+         previously approved by the BANK and includes a plat endorsement and
+         that will insure the MORTGAGE to be a valid first lien on the PROPERTY.
+
+         4.1.16 A soil report on the PROPERTY certified by a registered engineer
+         including structural design recommendations in form and substance
+         satisfactory to the BANK.
+
+         4.1.17 A Phase I Environmental Report of the PROPERTY in form and
+         content satisfactory to the BANK.
+
+         4.1.18 Copies of all PERMITS from the applicable county or any other
+         state or local agency from whom a construction permit is required and
+         such other licenses and permits, as may be required to construct and
+         operate the facility on the PROPERTY after completion of the PROJECT.
+
+         4.1.19 Copies of all environmental permits and other PERMITS as my be
+         required to construct and operate the facility on the PROPERTY at
+         maximum capacity after completion of the PROJECT.
+
+         4.1.20 Copies of documents from the appropriate state, federal, city or
+         county authority having jurisdiction over the PROPERTY and the PROJECT
+         that provide to the reasonable satisfaction of the BANK that the
+         PROJECT when constructed in accordance with the PLANS will comply in
+         all respects with all applicable ordinances, zoning, subdivision,
+         platting, environmental and land use requirements, without special
+         variance or exception, and such other evidence as the BANK shall
+         reasonably request to establish that the PROJECT and the contemplated
+         use thereof are permitted by and comply with all applicable use or
+         other restrictions and requirements in prior conveyances, zoning
+         ordinances, environmental laws and regulations, water shed district
+         regulations and all other applicable laws or regulations, and
+         governmental authorities having jurisdiction over the PROJECT. BORROWER
+         is not required to obtain advance confirmation from any governmental
+         body that the PROJECT will comply with such ordinances, regulations and
+         requirements.
+
+         4.1.22 Copies of the policy of property/casualty insurance and
+         comprehensive general liability insurance and a certificate of the
+         worker's compensation insurance required under Section 6.3 of this
+         AGREEMENT, with all such insurance in full force and effect and
+         approved by the BANK, and naming BANK as additional named insured,
+         together with appropriate flood insurance, if the PROPERTY is in a
+         flood hazard area. BORROWER is not required to obtain worker's
+         compensation insurance until required by South Dakota law.
+
+         4.1.23 A signed opinion of counsel for the BORROWER, addressed to the
+         BANK, opining that: 1) the BORROWER is duly organized and in good
+         standing in its state of organization; 2) the BORROWER is qualified in
+         each state in which it does business and
+
+
+                                       9
+<Page>
+
+         is legally required to be qualified; 3) the BORROWER has the power to
+         execute and deliver the LOAN DOCUMENTS and to borrow money and perform
+         in accordance with the terms of the LOAN DOCUMENTS; 4) all actions and
+         consents necessary to the validity of the LOAN DOCUMENTS have been
+         obtained; 5) the LOAN DOCUMENTS have been duly signed and are the valid
+         and binding obligation of the BORROWER and enforceable in accordance
+         with their terms; and 6) to the best of counsel's knowledge, the LOAN
+         DOCUMENTS and the transactions contemplated thereunder do not conflict
+         with any provision of the operating agreement of BORROWER or any
+         agreement binding upon the BORROWER or its properties.
+
+         4.1.24 A Certificate of Authority executed by such person or persons
+         authorized by the BORROWER's organizational documents and/or agreements
+         to do so, certifying the incumbency and signatures of the managers or
+         other persons authorized to execute the LOAN DOCUMENTS, and authorizing
+         the execution of the LOAN DOCUMENTS and performance in accordance with
+         their terms.
+
+         4.1.25 A recently certified copy of the BORROWER's operating agreement,
+         and any amendments, if applicable.
+
+         4.1.26 A recently certified copy of the BORROWER's Articles of
+         Organization and any amendments, if applicable.
+
+         4.1.27 A certificate of good standing from the office of the South
+         Dakota Secretary of State on the BORROWER.
+
+         4.1.28 A Flood Hazard Determination Form for the PROPERTY, confirming
+         whether or not the parcel is in a flood hazard area and whether or not
+         flood insurance must be obtained.
+
+         4.1.29 If requested by the BANK at any time, a copy of the payment and
+         performance bond relating to the performance of any SUBCONTRACTOR on
+         the PROJECT.
+
+         4.1.30 Proof of injection of equity capital into BORROWER of no less
+         than $2,000,000.00 by Broin Enterprises, Inc., and no less than
+         $14,700,000.00 by Lake Area Corn Processors Cooperative.
+
+         4.1.31 A copy of the MANAGEMENT CONTRACT, providing for management
+         services until at least January 1, 2006, together with an assignment in
+         favor of BANK in form satisfactory to BANK.
+
+         4.1.32 A copy of the MARKETING CONTRACT, together with an assignment in
+         favor of BANK in form satisfactory to BANK.
+
+4.2 CONDITIONS PRECEDENT TO ALL DISBURSEMENTS. The obligation of the BANK to
+make each disbursement under the CONSTRUCTION LOAN (including the initial
+disbursement) shall be subject to the further conditions precedent that on the
+date of such disbursement:
+
+
+                                      10
+<Page>
+
+         4.2.1 The representations and warranties contained in Section 5 of this
+         AGREEMENT are correct on and as of the date of such disbursement as
+         though made on and as of such date, except to the extent that such
+         representations and warranties relate solely to an earlier date.
+
+         4.2.2 No event has occurred and is continuing, or would result from
+         such disbursement, which constitutes an EVENT OF DEFAULT.
+
+         4.2.3 No determination shall have been made by the BANK that the
+         undisbursed amount of the CONSTRUCTION LOAN is less than the amount
+         required to pay all costs and expenses of any kind which reasonably may
+         be anticipated in connection with the completion of the PROJECT; or, if
+         such a determination has been made and notice thereof sent to the
+         BORROWER, the BORROWER has deposited the necessary funds with the BANK
+         in accordance with the Section 3.6 of this AGREEMENT.
+
+         4.2.4 The disbursement requirements of Section 3 of this AGREEMENT have
+         been satisfied.
+
+         4.2.5 If required by the BANK, the BANK shall be furnished with a
+         statement from the BORROWER and the GENERAL CONTRACTOR, in form and
+         substance satisfactory to the BANK, setting forth the names, addresses
+         and amounts due or to become due as well as the amounts previously paid
+         to every SUBCONTRACTOR.
+
+         4.2.6 The BORROWER shall have provided to the BANK such evidence of
+         compliance with all of the provisions of this AGREEMENT as the BANK may
+         reasonably request.
+
+         4.2.7 No license or permit necessary for the construction of the
+         PROJECT shall have been revoked or the issuance thereof subjected to.
+         challenge before any court or other governmental authority having or
+         asserting jurisdiction as to the PROJECT.
+
+4.3 CONDITIONS PRECEDENT TO THE FINAL DISBURSEMENT. The obligation of the BANK
+to make the final disbursement shall be subject to the condition precedent that
+the BORROWER shall be in compliance with all conditions set forth in Sections
+4.2 and 4.3 of this AGREEMENT and, further, that the following conditions shall
+have been satisfied prior to the COMPLETION DATE:
+
+         4.3.1 The PROJECT has been completed in accordance with the PLANS and
+         the BANK shall have received a certificate of completion from the
+         GENERAL CONTRACTOR, certifying that (i) work on the PROJECT has been
+         completed in accordance with the PLANS and all labor, services,
+         materials and supplies used in such work have been paid for and (ii)
+         the completed PROJECT conforms with all applicable zoning, land use
+         planning, building and environmental laws and regulations of the
+         governmental authorities having jurisdiction over the PROJECT.
+
+
+                                       11
+<Page>
+
+         4.3.2 The BANK has received satisfactory evidence that all work
+         requiring inspection by municipal or other governmental authorities
+         having jurisdiction has been duly inspected and approved by such
+         authorities and by the rating or inspection organization, bureau,
+         corporation or office having jurisdiction, and that all requisite
+         certificates of occupancy and other approvals have been issued.
+
+         4.3.3 The BANK shall have received alien waiver from each SUBCONTRACTOR
+         and the GENERAL CONTRACTOR for all work done and for all materials
+         furnished by it for the PROJECT.
+
+         4.3.4 The BANK has received an itemized list from BORROWER of all
+         equipment and fixtures which are at that time subject to BANK's
+         security interest.
+
+4.4 NO WAIVER. The making of any disbursement under the CONSTRUCTION LOAN prior
+to fulfillment of any condition thereto shall not be construed as a wavier of
+such condition, and the BANK reserves the right to require fulfillment of any
+and all such conditions prior to making any subsequent disbursements under the
+CONSTRUCTION LOAN.
+
+SECTION 5 REPRESENTATIONS AND WARRANTIES.
+
+To induce the BANK to enter into this AGREEMENT, the BORROWER, makes the
+following representations and warranties and agrees that each request for a
+disbursement under this AGREEMENT constitutes a reaffirmation of these
+representations and warranties.
+
+5.1 EXISTENCE AND POWER. The BORROWER is a limited liability company duly formed
+and in good standing under the laws of the State of South Dakota. The BORROWER
+has all requisite power and authority to own the PROPERTY and construct the
+PROJECT, and to execute and deliver, and to perform all of its obligations under
+the LOAN DOCUMENTS.
+
+5.2 AUTHORIZATION OF BORROWING; NO CONFLICT AS TO LAW OR OTHER AGREEMENTS. The
+execution, delivery and performance by the BORROWER of the LOAN DOCUMENTS and
+the borrowings from time to time hereunder have been duly authorized by all
+necessary actions of the BORROWER and do and will not (a) require any consent or
+approval, or authorization, by any governmental department, commission, board,
+bureau, agency or instrumentality, domestic or foreign, (b) violate any
+provision of any law, rule or regulation or of any order, writ, injunction or
+decree presently in effect having applicability to the BORROWER, or of the
+operating agreement of the BORROWER, (c) result in a breach of or constitute a
+default under any indenture or loan or credit agreement or any other agreement,
+lease or instrument to which the BORROWER is a party or by which it or its
+properties may be bound or affected, or (d) result in, or require, the creation
+or imposition of any mortgage, deed of trust, pledge, lien, security interest or
+other charge or encumbrance of any nature to or with any other creditor of the
+BORROWER upon or with respect to any of the properties now owned or hereafter
+acquired by the BORROWER.
+
+
+                                       12
+<Page>
+
+5.3 LEGAL AGREEMENTS. The LOAN DOCUMENTS constitute the legal, valid and binding
+obligations of the BORROWER enforceable against the BORROWER in accordance with
+their respective terms.
+
+5.4 LICENSE AND PERMITS. The BORROWER has all necessary licenses and PERMITS
+required for construction and operation of the PROJECT except those which cannot
+be obtained until completion of the PROJECT.
+
+5.5 CONSTRUCTION OF THE PROJECT. The PROJECT will be constructed strictly in
+accordance with the PLANS; will be constructed entirely on the PROPERTY; and
+will not encroach upon or overhang any easement or right-of-way on land not
+constituting part of the PROPERTY, except for the rail spur line which shall in
+part be located upon the rail line property owned by the State of South Dakota.
+The PROJECT, both during construction and at the time of completion, and the
+contemplated use thereof, will not violate any applicable zoning or use statute,
+ordinance, building code, rule or regulation, or any covenant or agreement of
+record. The BORROWER agrees that it will furnish from time to time such
+satisfactory evidence with respect thereto as may be required by the BANK.
+
+5.6 TITLE TO THE PROPERTY. The BORROWER has good and marketable fee simple title
+to the PROPERTY.
+
+5.7 FINANCIAL CONDITION. The BORROWER has furnished to the BANK the annual
+financial statement of the BORROWER as of December 31,1999. This financial
+statement fairly presents the financial condition of the BORROWER on the date
+thereof and the results of its operations for the period then ended, and was
+prepared in accordance with GAAP. There has been no material adverse change in
+the operations, properties or condition (financial or otherwise) of the BORROWER
+since the date of the financial statement referred to above and no additional
+borrowings have been made by the BORROWER other than the borrowing contemplated
+hereby or approved by the BANK. The above-referenced financial statement or any
+certificate or statement furnished to the BANK by or on behalf of the BORROWER
+in connection with the transactions contemplated hereby, and the representations
+and warranties in this AGREEMENT, do not contain any untrue statements of a
+material fact or omit to state a material fact necessary in order to make the
+statements contained therein or herein not misleading. To the best of the
+knowledge of the BORROWER, there is no fact which materially adversely affects
+or in the future (so far as the BORROWER can now foresee) may materially
+adversely affect the operation or prospects or condition (financial or other) of
+the BORROWER or its properties or assets, which has not been set forth herein or
+in a certificate or statement furnished to the BANK by the BORROWER.
+
+5.8 LITIGATION. There are no actions, suits or proceedings pending or, to the
+knowledge of the BORROWER, threatened against or affecting the BORROWER or the
+properties of the BORROWER before any court or governmental department,
+commission, board, bureau, agency or instrumentality, domestic or foreign,
+which, if determined adversely to the BORROWER, would have a material adverse
+effect on the financial condition, properties, or operations of the BORROWER.
+
+
+                                       13
+<Page>
+
+5.9 TAXES. The BORROWER has paid or caused to be paid to the proper authorities
+when due all federal, state and local taxes, including taxes on the PROPERTY,
+required to be paid or withheld by it. The BORROWER has filed all federal, state
+and local tax returns which to the knowledge of the members of the BORROWER are
+required to be filed, and the BORROWER has paid or caused to be paid to the
+respective taxing authorities all taxes as shown on said returns or on any
+assessment received by it to the extent such taxes have become due.
+
+5.10 NO DEFAULT. There is no event which is, or with notice or the lapse of time
+would be, an EVENT OF DEFAULT under this AGREEMENT.
+
+5.11 YEAR 2000 COMPLIANCE PROGRAM. The BORROWER has (1) conducted a detailed
+inventory and assessment of all of its computer hardware and software systems
+and imbedded chip technology ("Information Systems") and of its business and
+operations that could be adversely affected by its failure to be Year 2000
+Compliant on a timely basis; (2) developed, funded, and implemented a project
+plan to make its Information Systems Year 2000 Compliant, and completed
+implementation of the plan and the remediation and testing of its Information
+Systems; and (3) initiated a process to determine whether its material
+suppliers, vendors, and customers have taken meaningful steps to become Year
+2000 Compliant on a timely basis, and developed and implemented a feasible
+contingency plan to ensure the uninterrupted and unimpaired operation of its
+business in the event of the failure of the systems of such third parties or of
+its own Information Systems.
+
+5.12 ERISA. The BORROWER is in compliance in all material respects with the
+Employee Retirement Income Security Act of 1974, as amended, and has received no
+notice to the contrary from the Internal Revenue Service, the Department of
+Labor, the Pension Benefit Guaranty Corporation or any other governmental entity
+or notice of any claims or pending claims under ERISA.
+
+5.13 ENVIRONMENTAL MATTERS. Except as set forth in the Phase I Environmental
+Report referenced in Section 4.1 of this AGREEMENT: 1) the BORROWER is in
+compliance in all material respects with all health and environmental laws
+applicable to the BORROWER and its operations and knows of no conditions or
+circumstances that could interfere with such compliance in the future; 2) the
+BORROWER has obtained all PERMITS, environmental permits and approvals required
+by law for the operation of its business; and 3) the BORROWER has not identified
+any "recognized environmental conditions," as that term is defined by the
+American Society for Testing and Materials in its standards for environmental
+due diligence, which could subject the BORROWER to enforcement action if brought
+to the attention of appropriate governmental authorities.
+
+5.14 NECESSARY UTILITIES, ETC. BORROWER has made suitable arrangements so that
+the PROJECT has all necessary electrical, gas, water, and sewer facilities in
+place for the proper construction and operation of its ethanol plant. BORROWER
+has made adequate provision for all storage facilities, equipment and product
+supplies, including corn, as specified by its engineers for the maximum output
+and operation of the plant.
+
+SECTION 6 ADDITIONAL COVENANTS OF THE BORROWER.
+
+
+                                       14
+<Page>
+
+6.1 FINANCIAL INFORMATION AND REPORTING. Except as otherwise stated in this
+AGREEMENT, all financial information provided to the BANK shall be compiled
+using GAAP consistently applied. During the time period that any amounts are
+outstanding under the CONSTRUCTION NOTE or this AGREEMENT or the LOAN DOCUMENTS;
+unless the BANK shall otherwise agree in writing:
+
+         6.1.1 Annual Financial Statements. Provide the BANK within 120 days of
+         the BORROWER's fiscal year end, the BORROWER's consolidated, annual
+         financial statements. The statements must be audited with an
+         unqualified opinion by a certified public accountant acceptable to the
+         BANK, and must be accompanied by a certificate of such accountants
+         stating whether, in conducting their audit, they have become aware of
+         any event of default under this AGREEMENT, or of any event which would,
+         after the lapse of time or the giving of notice, or both, constitute an
+         event of default under this AGREEMENT, specifying the nature and
+         duration of the default. Such audit statement shall be accompanied by
+         the accountants' calculations of BORROWER's compliance with the
+         covenants contained in Section 6.2 of this AGREEMENT as of the said
+         fiscal year end.
+
+         6.1.2 The BORROWER will furnish to the BANK within 30 days after the
+         end of each calendar quarter, consolidated financial statements of the
+         BORROWER for such period and year to date all in reasonable detail.
+         Such financial statements shall be accompanied by a calculation of
+         BORROWER's compliance with covenants contained in Section 6.2 of this
+         AGREEMENT, certified by a manager of BORROWER.
+
+         6.1.3 The BORROWER will provide the BANK concurrently with the
+         financial statements required above in Sections 6.1.1, a certificate in
+         the form of Exhibit C that has been signed by a manager of BORROWER,
+         which: 1) certifies that the statements have been accurately prepared
+         in accordance with GAAP applied consistently; 2) certifies that the
+         manager has no knowledge of any EVENT OF DEFAULT under this AGREEMENT
+         or the LOAN DOCUMENTS, or of any event which would, after the lapse of
+         time or the giving of notice, or both, constitute an event of default
+         under this AGREEMENT or the LOAN DOCUMENTS.
+
+         6.1.3 BORROWER shall immediately notify BANK of the existence of any
+         EVENT OF DEFAULT.
+
+         6.1.4 BORROWER shall authorize all federal, state and municipal
+         authorities to furnish reports of examinations, records and other
+         information relating to the condition and affairs of the BORROWER and
+         its ethanol plant, and any information from reports, returns, files and
+         records by such authorities regarding BORROWER upon request to the
+         BANK.
+
+         6.1.5 The BORROWER will give the BANK prompt written notice of any
+         violation as to any environmental matter by the BORROWER and, of the
+         commencement of any judicial or administrative proceeding relating to
+         health, safety or environmental matters
+
+
+                                       15
+<Page>
+
+         (i) in which an adverse determination or result could result in the
+         revocation of or have a material adverse effect on any operating
+         permits, air emission permits, water discharge permits, hazardous waste
+         permits or other PERMITS held by the BORROWER which are material to the
+         operations of the BORROWER, and (ii) which will or threatens to impose
+         a material liability on the BORROWER to any person or party or which
+         will require a material expenditure by the BORROWER to cure any alleged
+         problem or violation.
+
+         6.1.6 The BORROWER will give immediate notice to the BANK of (i) any
+         litigation or proceeding in which it is a party if an adverse decision
+         therein would require it to pay more than $100,000.00 or deliver assets
+         the value of which exceeds such sum (whether or not the claim is
+         considered to be covered by insurance); and (ii) the institution of any
+         other suit or proceeding involving it that might materially and
+         adversely affect its operations, financial condition, property, or
+         business prospects.
+
+         6.1.7 The BORROWER will provide the BANK with such other information as
+         it may reasonably request.
+
+6.2 FINANCIAL COVENANTS. At all times that any amounts are outstanding under the
+CONSTRUCTION NOTE or this AGREEMENT or the LOAN DOCUMENTS, unless the BANK shall
+otherwise agree in writing, the BORROWER agrees to comply with the financial
+covenants described below, which shall be calculated using GAAP consistently
+applied, except as they may be otherwise modified by the capitalized
+definitions:
+
+         6.2.1 The BORROWER shall maintain a DEBT SERVICES COVERAGE RATIO of no
+         less than 1.20 : 1.0, for the first year following COMPLETION DATE, and
+         no less than 1.25 : 1.0 for all periods subsequent thereto. For
+         purposes of this covenant, to determine such ratio, OPERATING CASH FLOW
+         shall be compared to DEBT SERVICE.
+
+         6.2.2 The BORROWER shall maintain WORKING CAPITAL of at least
+         $1,000,000.00 at all times after COMPLETION DATE.
+
+         6.2.3 The BORROWER shall maintain a NET WORTH of not less than (i)
+         $10,000,000.00 at all times prior to a date one year after COMPLETION
+         DATE and (ii) $10,000,000.00 plus an amount equal to undistributed
+         earnings at all times subsequent thereto.
+
+         6.2.4 The BORROWER shall determine, at each fiscal year end, the amount
+         of its EXCESS CASH FLOW for said fiscal year, and within one hundred
+         twenty days following such fiscal year end, pay ten percent (10%) of
+         such sum to BANK, to be applied to the principal amount of the
+         CONSTRUCTION LOAN. Such annual payment shall not release. BORROWER from
+         making any payment of principal or interest otherwise required by the
+         CONSTRUCTION NOTE.
+
+
+                                       16
+<Page>
+
+6.3 AFFIRMATIVE COVENANTS. During the time period that any amounts are
+outstanding under the CONSTRUCTION NOTE or this AGREEMENT or the LOAN DOCUMENTS,
+unless the BANK shall otherwise agree in writing the BORROWER shall:
+
+         6.3.1 Diligently proceed with construction of the PROJECT according to
+         the PLANS and in accordance with all applicable laws and ordinances,
+         and complete the PROJECT by the COMPLETION DATE.
+
+         6.3.2 Use the proceeds of each of the disbursements under the
+         CONSTRUCTION LOAN solely for the purposes set forth in this AGREEMENT.
+
+         6.3.3 Use its best efforts to require the GENERAL CONTRACTOR and each
+         SUBCONTRACTOR to comply with all rules, regulations, ordinances and
+         laws bearing on its conduct of work on the PROJECT.
+
+         6.3.4 Provide and maintain at all times during the process of building
+         the PROJECT and, from time to time at the request of the BANK, furnish
+         the BANK with proof of payment of premiums on:
+
+                  (i) Builders' risk completed value form insurance insuring the
+                  PROJECT against fire, lightning and all other risks covered by
+                  the extended coverage endorsement then in use in the State of
+                  South Dakota to the full value of the PROJECT (subject to
+                  reasonable loss deductible provisions). The BANK's interest
+                  shall be protected by naming the BANK as additional named
+                  insured;
+
+                  (ii) Comprehensive general liability insurance (including
+                  operations, contingent liability, operations of
+                  subcontractors, complete operations, removal of contaminated
+                  soil and other environmental coverage and contractual
+                  liability insurance) with limits reasonably acceptable to
+                  BANK;
+
+                  (iii) Worker's compensation insurance, with statutory
+                  coverage.
+
+                  The policies of insurance required pursuant to clauses (i) and
+                  (ii) above shall be in form and content satisfactory to the
+                  BANK and shall be placed with financially sound and reputable
+                  insurers. The policy of insurance referred to in clause (i)
+                  above shall contain an agreement of the insurer to give not
+                  less than thirty (30) days' advance written notice to the BANK
+                  in the event of cancellation of such policy or change
+                  affecting the coverage thereunder. Acceptance of insurance
+                  policies referred to in clauses (i) and (ii) above shall not
+                  bar the BANK from requiring additional insurance which it
+                  reasonably deems necessary.
+
+         6.3.5 Purchase and maintain hazard insurance (including fire, extended
+         coverage vandalism and malicious mischief) on the PROPERTY and all
+         assets in which BANK has a security interest with limits acceptable to
+         the BANK. BANK shall be named as additional named insured.
+
+
+                                       17
+<Page>
+
+         6.3.6 Maintain accurate and complete books, accounts and records
+         pertaining to the PROPERTY and the PROJECT and its ongoing and
+         continuing operations in form and substance satisfactory to the BANK.
+         The BORROWER will permit the BANK, acting by and through its officers
+         and employees, to examine upon reasonable notice all books, records,
+         contracts, plans, drawings, PERMITS, bills and statements of account
+         pertaining to the PROJECT and to inspect upon reasonable notice all
+         books and records pertaining to its operations and to make extracts
+         therefrom and copies thereof.
+
+         6.3.7 Cause to be paid to the proper authorities when due all federal,
+         state and local taxes, including taxes on the PROPERTY, required to be
+         paid or withheld by it except those which the BORROWER is contesting in
+         good faith and with respect to which adequate reserves have been set
+         aside.
+
+         6.3.8 Allow the BANK to conduct such inspections of the PROJECT and
+         BORROWER's personal property subject to the BANK's security interest as
+         the BANK may deem necessary for the protection of the BANK's interest.
+         Any such inspections shall be made and any certificates issued are
+         solely for the benefit and protection of the BANK, and the BORROWER
+         shall not be entitled to rely thereon.
+
+         6.3.9 Make all repairs, renewals or replacements necessary to keep its
+         plant, properties and equipment in good working condition.
+
+         6.3.10 Comply in all material respects with all laws applicable to its
+         form of organization, business, and the ownership of its property.
+
+         6.3.11 Maintain and preserve all PERMITS, licenses, rights, privileges,
+         charters and franchises that it now owns.
+
+         6.3.12 Observe and comply with all laws, rules, regulations and orders
+         of any government or government agency relating to health, safety,
+         pollution, hazardous materials or other environmental matters to the
+         extent non-compliance could result in a material liability or otherwise
+         have a material adverse effect on the BORROWER.
+
+6.4 NEGATIVE COVENANTS. During the time period that any amounts are outstanding
+under the CONSTRUCTION NOTE or this AGREEMENT or the LOAN DOCUMENTS, unless the
+BANK shall otherwise agree in writing the BORROWER shall not:
+
+         6.4.1 Permit any security interest or mortgage or lien on the PROPERTY
+         or PROJECT or other real or personal property BORROWER owns now or in
+         the future, or assign any interest that it may have in any assets or
+         subordinate any rights that it may have in any assets now or in the
+         future, except: (i) liens, assignments, or subordinations in favor of
+         the BANK; (ii) liens, assignments, or subordinations outstanding on the
+         date of this AGREEMENT and disclosed in advance to the BANK in writing
+         and approved by the BANK; (iii) liens for taxes or assessments or other
+         governmental charges not delinquent or which the BORROWER is contesting
+         in good faith; (iv) liens which secure purchase money indebtedness
+         allowed under this AGREEMENT; (v) liens that are imposed by law
+
+
+                                       18
+<Page>
+
+         for obligations for labor or materials not overdue for more than 120
+         days, such as mechanics', materialmen's, carriers', landlords', and
+         warehousemen's liens, or liens, pledges, or deposits under workers'
+         compensation, unemployment insurance, Social Security, or similar
+         legislation.
+
+         6.4.2 Agree or consent to any changes in the PLANS, any changes in the
+         terms and provisions of the DESIGN/BUILD CONTRACT or any of the
+         contracts specifically identified in Section 4 of this AGREEMENT, or,
+         following execution of this AGREEMENT, to any one change order in an
+         amount exceeding $50,000.00, or all change orders when combined
+         exceeding $200,000.00.
+
+         6.4.3 Incorporate in the PROJECT any materials, fixtures or property
+         which are subject to the claims of any other person, whether pursuant
+         to conditional sales contract, security agreement, lease, mortgage or
+         otherwise.
+
+         6.4.4 Lease, sell, transfer, convey, assign, or otherwise transfer all
+         or any part of the interest of the BORROWER in the PROJECT or the
+         PROPERTY.
+
+         6.4.5 Permit or suffer any material change in its management personnel
+         or management structure or any change, direct or indirect, in its
+         capital ownership.
+
+         6.4.6 Engage in any line of business materially different from that
+         presently engaged in by the BORROWER.
+
+         6.4.7 Change its legal form of organization.
+
+         6.4.8 Make any material changes in its accounting procedures for tax or
+         other purposes.
+
+         6.4.9 Incur any indebtedness except: (1) debt arising under this or
+         another agreement with the BANK; (ii) trade credit incurred in the
+         ordinary course of business; and (iii) indebtedness in existence on the
+         date of this AGREEMENT and disclosed in advance to the BANK in writing.
+
+         6.4.10 Consolidate, or merge or pool or syndicate or otherwise combine
+         with any other entity, or give any preferential treatment, make any
+         advance, directly or indirectly, by way of loan, gift, bonus, or
+         otherwise, to any company directly or indirectly controlling or
+         affiliated with or controlled by BORROWER, or any other company, or to
+         any partner or employee of BORROWER, or of any such company.
+
+         6.4.11 Make, or commit to make, capital expenditures (including the
+         total amount of any capital leases) in an aggregate amount exceeding
+         $250,000.00 in any single fiscal year.
+
+         6.4.12 Make or pay, without the written consent of BANK, which written
+         consent will not be unreasonably withheld, in any fiscal year
+         distributions to members of the BORROWER in excess of 80% of EXCESS
+         CASH FLOW or which would result in the BORROWER at the time of such
+         distribution not being in compliance with any of the
+
+
+                                       19
+<Page>
+
+         covenants set forth in this AGREEMENT after payment of such
+         distribution. Any such distributions shall be made only after receipt
+         by BANK of BORROWER's annual financial statements and compliance
+         statement as required herein.
+
+         6.4.13 Assume, guarantee, endorse or otherwise becoming contingently
+         liable for any obligations of any other person, except for those
+         guaranties outstanding at the time of execution of this AGREEMENT and
+         disclosed to the BANK in writing.
+
+         6.4.14 Make sales to or purchases from any affiliate of the BORROWER or
+         extend credit or make payments for services rendered by any affiliate
+         of the BORROWER, except under the MANAGEMENT CONTRACT or the MARKETING
+         CONTRACT, unless such sales or purchases are made or such services are
+         rendered in the ordinary course of business and on terms and conditions
+         at least as favorable to the BORROWER as the terms and conditions which
+         would apply in a similar transaction with a person or party not an
+         affiliate of the BORROWER.
+
+SECTION 7 EVENTS OF DEFAULT, RIGHTS AND REMEDIES.
+
+7.1 EVENTS OF DEFAULT. Each of the following shall be an EVENT OF DEFAULT and
+give the BANK the right to exercise its remedies under this AGREEMENT:
+
+         7.1.1 The BORROWER shall fail to pay when due any OBLIGATIONS or any
+         other installment of principal or interest or fee payable to BANK.
+
+         7.1.2 The BORROWER shall fail to observe or perform any other
+         obligation to be observed or performed by it hereunder or under any of
+         the LOAN DOCUMENTS.
+
+         7.1.3 The BORROWER shall fail to pay any INDEBTEDNESS due any third
+         persons, and such failure shall continue beyond any applicable grace
+         period, or the BORROWER shall suffer to exist any other default under
+         any agreement binding the BORROWER.
+
+         7.1.4 Any financial statement, representation, warranty, or certificate
+         made or furnished by or with respect to the BORROWER to the BANK in
+         connection with this AGREEMENT, or as an inducement to the BANK to
+         enter into this AGREEMENT, or in any separate statement or document to
+         be delivered to the BANK hereunder, shall be materially false,
+         incorrect, or incomplete when made.
+
+         7.1.5 The BORROWER shall admit its inability to pay its debts as they
+         mature or shall make an assignment for the benefit of itself or any of
+         its creditors.
+
+         7.1.6 Proceedings in bankruptcy, or for reorganization of the BORROWER,
+         or for the readjustment of debt under the Bankruptcy Code, as amended,
+         or any part thereof, or under any other laws, whether state or federal,
+         for the relief of debtors, now or hereafter existing, shall be
+         commenced against or by the BORROWER and, except with respect to any
+         such proceedings instituted by the BORROWER, shall not be discharged
+         within thirty (30) days of their commencement.
+
+
+                                       20
+<Page>
+
+         7.1.7 A receiver or trustee shall be appointed for the BORROWER or for
+         any substantial part of its respective assets, or any proceedings shall
+         be instituted for the dissolution or the full or partial liquidation of
+         the BORROWER, and except with respect to any such appointments
+         requested or instituted by the BORROWER, such receiver or trustee shall
+         not be discharged within thirty (30) days of his appointment, and
+         except with respect to any such proceedings instituted by the BORROWER,
+         such proceedings shall not be discharged within thirty (30) days of
+         their commencement, or the BORROWER shall discontinue business or
+         materially change the nature of its business, or the property securing
+         the OBLIGATIONS becomes, in the reasonable judgment of the BANK,
+         insufficient in value to satisfy the OBLIGATIONS, or the BANK otherwise
+         reasonably finds itself insecure as to the prompt and punctual payment
+         and discharge of the OBLIGATIONS.
+
+         7.1.8 The BORROWER shall suffer final judgments for payment of money
+         aggregating in excess of $100,000.00 which are not covered, without
+         reservation, by insurance or shall not discharge the same within a
+         period of thirty (30) days unless, pending further proceedings,
+         execution has not been commenced or, if commenced, has been effectively
+         stayed.
+
+         7.1.9 A judgment creditor of the BORROWER shall obtain possession of
+         any of the COLLATERAL by any means, including (without implied
+         limitation) levy, distraint, replevin, or self-help.
+
+         7.1.10 The construction of the PROJECT is abandoned or shall be
+         unreasonably delayed or be discontinued for a period of fifteen (15)
+         consecutive calendar days, in each instance for reasons other than acts
+         of God, fire, storm, strikes, blackouts, labor difficulties, riots,
+         inability to obtain materials, equipment or labor, governmental
+         restrictions or any similar cause over which the BORROWER is unable to
+         exercise control.
+
+         7.1.11 The BORROWER at any time prior to the completion of the PROJECT,
+         shall delay construction or suffer construction to be delayed for any
+         period of time, for any reason whatsoever, so that the completion of
+         the PROJECT cannot be accomplished, in the reasonable judgment of the
+         BANK, by the COMPLETION DATE.
+
+         7.1.12 The PROJECT is materially damaged or destroyed by fire or other
+         casualty and the loss, in the reasonable judgment of the BANK, is not
+         adequately covered by insurance actually collected or in the process of
+         collection.
+
+         7.1.13 Broin and Associates, Inc. shall cease to be the GENERAL
+         CONTRACTOR or, following COMPLETION DATE, shall cease to be the general
+         manager of BORROWER's ethanol plant, and BORROWER has not replaced the
+         GENERAL CONTRACTOR, or the GENERAL MANAGER, whichever is applicable,
+         within thirty (30) days following the termination of the DESIGN/BUILD
+         CONTRACT or the MANAGEMENT CONTRACT, whichever is applicable, to the
+         satisfaction of BANK, which BANK approval shall not be unreasonably
+         withheld.
+
+
+                                       21
+<Page>
+
+         7.1.14 Broin Enterprises, Inc. or its permitted assignee shall cease to
+         be the marketing agent of BORROWER as to sale of its products, and
+         BORROWER has not within thirty (30) days following termination of the
+         MARKETING CONTRACT hired a replacement marketing agent to the BANK's
+         satisfaction, which BANK approval will not be unreasonably withheld.
+
+7.2 RIGHTS AND REMEDIES. Upon the occurrence of an EVENT OF DEFAULT and at any
+time thereafter, the BANK may refrain from making any further disbursements
+hereunder (but the BANK may make disbursements after the occurrence of such an
+EVENT OF DEFAULT without thereby waiving its rights and remedies hereunder), and
+upon the occurrence of an EVENT OF DEFAULT or at any time thereafter, the BANK
+may exercise any or all of the following rights and remedies:
+
+         7.2.1 The BANK may declare the CONSTRUCTION LOAN to be terminated,
+         whereupon the same shall forthwith terminate.
+
+         7.2.2 The BANK may declare the entire unpaid principal amount of the
+         CONSTRUCTION NOTE then outstanding, all interest accrued and unpaid
+         thereon, and all other amounts payable under this AGREEMENT to be
+         forthwith due and payable, whereupon the CONSTRUCTION NOTE, all such
+         accrued interest and all such amounts shall become and be forthwith due
+         and payable, without presentment, demand, protest or further notice of
+         any kind, all of which are hereby expressly waived by the BORROWER.
+
+         7.2.3 The BANK may exercise and enforce its rights and remedies under
+         any or all of the LOAN DOCUMENTS.
+
+         7.2.4 The BANK may enter upon the PROPERTY and take possession thereof,
+         together with the PROJECT then in the course of construction, and
+         proceed either in its own name or in the name of the BORROWER, as the
+         attorney-in-fact of the BORROWER (which authority is coupled with an
+         interest and is irrevocable by the BORROWER) to complete or cause to be
+         completed the PROJECT, at the cost and expense of the BORROWER. If the
+         BANK elects to complete or cause to be completed the PROJECT, it may do
+         so according to the PLANS or according to such changes, alterations or
+         modifications in and to the PLANS as the BANK may deem reasonable and
+         appropriate; and the BANK may enforce or cancel all contracts let by
+         the BORROWER relating to construction of the project, and/or let other
+         contracts which in the BANK's sole judgment may seem advisable; and the
+         BORROWER shall forthwith turn over and duly assign to the BANK, as the
+         BANK may from time to time require, contracts not already assigned to
+         the BANK relating to construction of the PROJECT, blueprints, shop
+         drawings, bonds, building permits, bills and statements of accounts
+         pertaining to the PROJECT, whether paid or not, and any other
+         instruments or records in the possession of the BORROWER pertaining to
+         the PROJECT. The BORROWER shall be liable under this AGREEMENT to pay
+         to the BANK, on demand, any amount or amounts expended by the BANK in
+         so completing the PROJECT, together with any costs, charges, or
+         expenses incident thereto or resulting therefrom, all of which shall be
+         secured by the LOAN DOCUMENTS. In the
+
+
+                                       22
+<Page>
+
+         event that a proceeding is instituted against the BORROWER for recovery
+         and reimbursement of any moneys expended by the BANK in connection with
+         the completion of the PROJECT, a statement of such expenditures,
+         verified by the affidavit of an officer of the BANK, shall be prima
+         facie evidence of the amounts so expended and of the propriety of the
+         necessity for such expenditures; and the burden of proving to the
+         contrary shall be upon the BORROWER. The BANK shall have the right to
+         apply any funds which it agrees to disburse hereunder to bring about
+         the completion of the PROJECT and to pay the costs thereof; and if such
+         money so agreed to be disbursed is insufficient, in the sole judgment
+         of the BANK, to complete the PROJECT, the BORROWER agrees to promptly
+         deliver and pay to the BANK such sum or sums of money as the BANK may
+         from time to time demand for the purpose of completing the PROJECT or
+         of paying any liability, charge or expense which may have been incurred
+         or assumed by the BANK under or in performance of this AGREEMENT, or
+         for the purpose of completing the PROJECT. It is expressly understood
+         and agreed that in no event shall the BANK be obligated, or liable in
+         any way to complete the PROJECT or to pay for the costs of construction
+         thereof beyond the amount of the CONSTRUCTION LOAN.
+
+         7.2.5 The BANK may exercise any other rights and remedies available to
+         it by law or agreement.
+
+SECTION 8 MISCELLANEOUS.
+
+8.1 INSPECTIONS. The BORROWER and the GENERAL CONTRACTOR shall be responsible
+for making inspections of the PROJECT during the course of construction and
+shall determine to their own satisfaction that the work done or materials
+supplied by the GENERAL CONTRACTOR or any SUBCONTRACTOR to whom payment is to be
+made out of each disbursement has been properly done or supplied in accordance
+with the DESIGN/BUILD CONTRACT. If any work done or materials supplied by the
+GENERAL CONTRACTOR or any SUBCONTRACTOR are not satisfactory to the BORROWER
+and/or its GENERAL CONTRACTOR and the same is not remedied within fifteen days
+of the discovery thereof, the BORROWER will immediately notify the BANK in
+writing of such fact. It is expressly understood and agreed that the BANK and
+any party designated by the BANK may conduct such inspections of the PROJECT as
+BANK may deem necessary for the protection of the BANK's interest, and that any
+inspections which may be made of the PROJECT by the BANK will be made, solely
+for the benefit and protection of the BANK, and that the BORROWER will not rely
+thereon.
+
+8.2 INDEMNIFICATION BY THE BORROWER. The BORROWER shall bear all loss, expense
+(including attorneys' fees) and damage in connection with, and agrees to
+indemnify and hold harmless the BANK, its agents, servants and employees from,
+all claims, demands and judgments made or recovered against the BANK, its
+agents, servants and employees, because of bodily injuries, including death at
+any time resulting therefrom, and/or because of damages to property (including
+loss of use) from any cause whatsoever, arising out of, incidental to, or in
+connection with the construction of the PROJECT, whether or not due to any act
+of omission or commission, including negligence of the BORROWER or the GENERAL
+CONTRACTOR or of his or their employees, servants or agents, and whether or not
+due to any act of omission or
+
+
+                                       23
+<Page>
+
+commission of the BANK, its employees, servants or agents. The BORROWER's
+liability hereunder shall not be limited to the extent of insurance carried by
+or provided by the BORROWER or subject to any exclusions from coverage in any
+insurance policy. The obligations of the BORROWER under this Section shall
+survive the payment of the CONSTRUCTION NOTE.
+
+8.3 NO WAIVER; CUMULATIVE REMEDIES. No failure or delay on the part of the BANK
+in exercising any right, power or remedy under the LOAN DOCUMENTS shall operate
+as a waiver thereof; nor shall any single or partial exercise of any such right,
+power or remedy preclude any other or further exercise thereof or the exercise
+of any other right, power or remedy under the LOAN DOCUMENTS. The remedies
+provided in the LOAN DOCUMENTS are cumulative and not exclusive of any remedies
+provided by law.
+
+8.4 AMENDMENTS, ETC. No amendment, modification, termination or waiver of any
+provision of any of the LOAN DOCUMENTS or consent to any departure by the
+BORROWER therefrom shall be effective unless the same shall be in writing and
+signed by the BANK, and then such waiver or consent shall be effective only in
+the specific instance and for the specific purpose for which given. No notice to
+or demand on the BORROWER in any case shall entitle the BORROWER to any other or
+further notice or demand in similar or other circumstances.
+
+8.7 ADDRESSES FOR NOTICES, ETC. Except as otherwise expressly provided herein,
+all notices, requests, demands and other communications provided for under the
+LOAN DOCUMENTS shall be in writing and mailed or delivered to the applicable
+party at its address indicated below:
+
+         If to the BORROWER:     DAKOTA ETHANOL, L.L.C.
+                                 c/o Lake Area Corn Processors Cooperative
+                                 P.O. Box 100
+                                 Wentworth, South Dakota 57075
+                                 Attention:  Steven R. Sershen or Doug Van Duyn
+
+             with a copy to:     James M. Wiederrich
+                                 Woods, Fuller, Shultz & Smith, P.C.
+                                 300 South Phillips Avenue, Suite 300
+                                 Post Office Box 5027
+                                 Sioux Falls, South Dakota 57117-5027
+
+         If to the BANK:         First National Bank of Omaha
+                                 One First National Center
+                                 1600 Dodge Street
+                                 Omaha, Nebraska 68102
+                                 Attention: Michael Doyle
+
+or, as to each party, at such other address as shall be designated by such party
+in a written notice to the other party complying as to delivery with the terms
+of this Section. All such notices, requests, demands and other communications
+shall, when mailed, be effective when deposited in
+
+
+                                       24
+<Page>
+
+the mails, addressed as aforesaid, except that notices or requests to the BANK
+pursuant to any of the provisions hereunder shall not be effective until
+received by the BANK.
+
+8.8 TIME OF ESSENCE. Time is of the essence in the performance of this
+AGREEMENT.
+
+8.9 EXECUTION IN COUNTERPARTS. The LOAN DOCUMENTS may be executed in any number
+of counterparts, each of which when so executed and delivered shall be deemed to
+be an original and all of which counterparts of each instrument or agreement,
+taken together, shall constitute but one and the same instrument.
+
+8.10 BINDING EFFECT, ASSIGNMENT. The LOAN DOCUMENTS shall be binding upon and
+inure to the benefit of the BORROWER and the BANK and their respective
+successors and assigns, except that the BORROWER shall not have the right to
+assign its rights thereunder or any interest therein without the prior written
+consent of the BANK.
+
+8.11 GOVERNING LAW. The LOAN DOCUMENTS shall be governed by, and construed in
+accordance with, the laws of the State of Nebraska except for the MORTGAGE and
+ASSIGNMENT OF RENTS which shall be governed by and construed in accordance with
+the laws of the State of South Dakota.
+
+8.12 SEVERABILITY OF PROVISIONS. Any provision of this AGREEMENT which is
+prohibited or unenforceable shall be ineffective to the extent of such
+prohibition or unenforceability without invalidating the remaining provisions
+hereof.
+
+8.13 HEADINGS. Section headings in this AGREEMENT are included herein for
+convenience of reference only and shall not constitute a part of this AGREEMENT
+for any other purpose.
+
+8.14 INTEGRATION. This AGREEMENT supersedes, replaces and terminates any prior
+oral offers, negotiations, understandings or agreements and any commitment
+letters or similar writings relating to any of the matters contemplated herein.
+
+8.15 PARTICIPATIONS. Notwithstanding any other provision of this AGREEMENT, the
+BORROWER understands that the BANK may enter into participation agreements with
+other lenders whereby the BANK will allocate a certain percentage of the
+CONSTRUCTION LOAN to them. The BORROWER specifically permits and authorizes the
+BANK to exchange financial information about the BORROWER with actual or
+potential participants. The BORROWER acknowledges that, for the convenience of
+all parties, this AGREEMENT is being entered into with the BANK only and that
+its obligations under this AGREEMENT are undertaken for the benefit of, and as
+an inducement to, each of the Participating Lenders as well as the BANK, and the
+BORROWER hereby grants to each of the Participating Lenders to the extent of its
+participation in the CONSTRUCTION LOAN, the right to set off deposit accounts
+maintained by the BORROWER with such BANK. The BORROWER understands that the
+terms of such participation agreements with any of the participants will limit
+the BANK's rights to amend, waive or modify the terms and conditions of this
+AGREEMENT without the express written consent of all or a designated percentage
+of such participants.
+
+
+                                       25
+<Page>
+
+         IN WITNESS WHEREOF, the parties hereto have caused this AGREEMENT to be
+executed by their respective officers or managers thereunto duly authorized, as
+of the date first above written.
+
+DAKOTA ETHANOL, L.L.C.                            FIRST NATIONAL BANK OF OMAHA
+
+/s/ Doug Van Duyn                                 /s/ Michael Doyle
+
+By:      Doug Van Duyn                            By:      Michael Doyle
+Its:     Chairman of the Board of Governors       Its:     2nd VP
+
+
+STATE OF SOUTH DAKOTA      )
+                           ) ss.
+COUNTY OF MINNEHAHA        )
+
+         On this 25th day of September, 2000, before me, the undersigned, a
+Notary Public, personally appeared Doug Van Duyn, the Chairman of the Board of
+Governors, __________________________ Dakota Ethanol, L.L.C., on behalf of said
+entity, who executed the foregoing instrument, and acknowledged that he executed
+the same as his voluntary act and deed.
+
+
+                                                    /s/ James M. Wiederrich
+                                                    -----------------------
+                                                    Notary Public
+
+STATE OF SOUTH DAKOTA      )
+                           ) ss.
+COUNTY OF MINNEHAHA        )
+
+         On this 25th day of September, 2000, before me, the undersigned, a
+Notary Public, personally appeared Michael Doyle, the 2nd Vice President First
+National Bank of Omaha, on behalf of said entity, who executed the foregoing
+instrument, and acknowledged that he executed the same as his voluntary act and
+deed.
+
+
+                                                    /s/ James M. Wiederrich
+                                                    -----------------------
+                                                    Notary Public
+
+
+                                       26
+<Page>
+
+                                    EXHIBIT A
+
+                             DAKOTA ETHANOL, L.L.C.
+                             Real Estate Description
+
+
+West Half of the Northeast Quarter (W 1/2 NE 1/4) of Section Twenty-one (21),
+Township One Hundred Six (106) North, Range Fifty-one (51) West of the Fifth
+Principal, Lake County, South Dakota
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                       27
+<Page>
+
+                                    EXHIBIT B
+
+                                Construction Note
+
+Note Date: ______________ __, 2000                               $26,600,000.00
+                                                                 __________1999
+
+
+Maturity Date:  September 1, 2011
+
+FOR VALUE RECEIVED, DAKOTA ETHANOL, L.L.C., a South Dakota limited liability
+company ("BORROWER") promises to pay to the order of First National Bank of
+Omaha ("BANK"), at its principal office or such other address as BANK or holder
+may designate from time to time, the principal sum of Twenty Six Million Six
+Hundred Thousand and No/100 Dollars ($26,600,000.00), or the amount shown on the
+BANK's records to be outstanding, plus interest (calculated on the basis of
+actual days elapsed in a 360-day year) accruing each day on the unpaid principal
+balance at the annual interest rates defined below. Absent manifest error, the
+BANK's records shall be conclusive evidence of the principal and accrued
+interest owing hereunder.
+
+This promissory note is executed pursuant to a Construction Loan Agreement
+("CONSTRUCTION LOAN AGREEMENT") between BORROWER and BANK dated as of
+____________, __ 2000. All capitalized terms not otherwise defined in this note
+shall have the meanings provided in the CONSTRUCTION LOAN AGREEMENT.
+
+INTEREST ACCRUAL. Interest on the principal amount outstanding shall accrue, for
+the period through and including the COMPLETION DATE, at a rate (the "RATE")
+equal to the BASE RATE in effect from time to time until maturity, and three per
+cent (3%) above the BASE RATE in effect from time to time after maturity,
+whether by acceleration or otherwise. For purposes hereof, BASE RATE shall mean
+the rate announced by BANK from time to time as its "National Base Rate".
+
+Each time the BASE RATE shall change, the RATE shall change contemporaneously
+with such change in the BASE RATE. Interest shall be calculated on the basis of
+a 360-day year, counting the actual number of days elapsed.
+
+Following the COMPLETION DATE, interest on the CONSTRUCTION LOAN shall accrue at
+a rate of nine (9%) percent per annum prior to maturity, and twelve (12%)
+percent per annum after maturity, whether by acceleration or otherwise.
+
+REPAYMENT TERMS. Until COMPLETION DATE, interest only shall be payable on the
+1st day of each calendar quarter, commencing September 1, 2000. After COMPLETION
+DATE, BORROWER will pay forty equal quarterly payments of amortized interest and
+principal, commencing November 1, 2001, with the full amount of the CONSTRUCTION
+LOAN outstanding on COMPLETION DATE being amortized over a period of ten years.
+Any
+
+
+                                       28
+<Page>
+
+remaining principal balance, plus any accrued but unpaid interest, shall be
+fully due and payable on September 1, 2011.
+
+PREPAYMENT. The BORROWER may prepay this CONSTRUCTION NOTE in full or in part at
+any time. Provided, however, a condition of any prepayment is that a fee shall
+be paid to BANK sufficient to make BANK whole for any expenses related to
+breaking fixed interest rates. Each prepayment may be applied in inverse order
+of maturity or as the BANK in its sole discretion may deem appropriate. Such
+prepayment shall not excuse the BORROWER from making subsequent payments each
+quarter until the indebtedness is paid in full.
+
+ADDITIONAL TERMS AND CONDITIONS. The LOAN AGREEMENT, and any amendments or
+substitutions, contains additional terms and conditions, including default and
+acceleration provisions, which are incorporated into this CONSTRUCTION NOTE by
+reference. The BORROWER agrees to pay all costs of collection, including
+reasonable attorneys fees and legal expenses incurred by the BANK if this
+CONSTRUCTION NOTE is not paid as provided above. This CONSTRUCTION NOTE shall be
+governed by the substantive laws of the State of Nebraska.
+
+WAIVER OF PRESENTMENT AND NOTICE OF DISHONOR BORROWER and any other person who
+signs, guarantees or endorses this CONSTRUCTION NOTE, to the extent allowed by
+law, hereby waives presentment, demand for payment, notice of dishonor, protest,
+and any notice relating to the acceleration of the maturity of this CONSTRUCTION
+NOTE.
+
+                                                     DAKOTA ETHANOL, L.L.C.
+
+
+
+                                                     By:
+                                                     Its:
+
+
+                                       29
+<Page>
+
+                                    EXHIBIT C
+
+                             DAKOTA ETHANOL, L.L.C.
+
+                            CERTIFICATE OF COMPLIANCE
+
+
+TO:      First National Bank of Omaha
+         One First National Center
+         1600 Dodge Street
+         Omaha, Nebraska 68102
+         Attn:  Michael Doyle
+
+         I am a manager of DAKOTA ETHANOL, L.L.C., (the "BORROWER") and under
+the terms of a CONSTRUCTION LOAN AGREEMENT (the "AGREEMENT") between the BANK
+and the BORROWER dated _______________________, 2000, certify that:
+
+1. The attached financial statements of the BORROWER from through (the
+"Statement Date") are true and correct and have been accurately prepared in
+accordance with generally accepted accounting principles applied consistently
+with the BORROWER's most recent annual financial statement; and
+
+2. I have read and am familiar with the AGREEMENT and have no knowledge of an
+existing EVENT OF DEFAULT under the AGREEMENT or of any event which would, after
+the lapse of time or the giving of notice, or both, constitute an EVENT OF
+DEFAULT under the AGREEMENT.
+
+         The calculations regarding each financial covenant, as of the Statement
+Date, and regardless of whether the BORROWER must be in compliance with each
+covenant as of the Statement Date, are as follows:
+
+         COVENANT                             ACTUAL                REQUIRED
+
+         NET WORTH                          $____________          $____________
+
+         WORKING CAPITAL                    $____________          $____________
+
+         DEBT SERVICE COVERAGE RATIO        _______ : 1.0          _______ : 1.0
+
+
+
+                                                  DAKOTA ETHANOL, L.L.C.
+
+
+                                                  By:
+                                                        A Manager
+
+
+
+
+                                       30
+
+</TEXT>
+</DOCUMENT>

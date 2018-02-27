@@ -1,0 +1,1704 @@
+<DOCUMENT>
+<TYPE>EX-10.1
+<SEQUENCE>2
+<FILENAME>ex10_1.txt
+<DESCRIPTION>EXHIBIT 10.1
+<TEXT>
+                                                                    EXHIBIT 10.1
+
+
+Paul Couchot (SBN 131934)               Thomas E. Patterson, Esq. (SBN 130723)
+Peter W. Lianides (SBN 160517)          Martin R. Barash (SBN 162314)
+Garrick A. Hollander (SBN 166316)       KLEE, TUCHIN, BOGDANOFF & STERN LLP
+WINTHROP COUCHOT                        2121 Avenue of the Stars, 33rd Floor
+PROFESSIONAL CORPORATION                Los Angeles, California 90067
+660 Newport Center Drive                Telephone (310) 407-4000
+Newport Beach, California               Facsimile (310) 407-9090
+Telephone:  (949) 720-4100
+Facsimile:  (949) 720-4111
+
+Counsel for Debtor and                  Mark I. Bane (MB-4883)
+Debtor-in-Possession                    ROPES & GRAY LLP
+                                        45 Rockefeller Plaza
+                                        New York, New York 10111
+                                        Telephone:        (212) 841-5700
+                                        Facsimile:        (212) 841-5725
+
+                                        D. Ross Martin (BBO#629853)
+                                        ROPES & GRAY LLP
+                                        One International Place
+                                        Boston, Massachusetts 02110
+                                        Telephone:        (617) 951-7000
+                                        Facsimile:        (617) 951-7050
+
+                                        Counsel for Ad Hoc Equity Committee
+
+
+                         UNITED STATES BANKRUPTCY COURT
+                         SOUTHERN DISTRICT OF CALIFORNIA
+
+------------------------------------------
+                                         )
+In re                                    )   CASE NO. 06-00510-LA11
+                                         )
+                                         )   Chapter 11 Proceedings
+SERACARE LIFE SCIENCES, INC.,            )
+A California Corporation                 )   JOINT PLAN OF REORGANIZATION OF THE
+                                         )   DEBTOR AND THE AD HOC EQUITY
+                                         )   COMMITTEE
+             Debtor and Debtor-in-       )
+             Possession                  )   Dept:    2
+                                         )   Judge:   Hon. Louise DeCarl Adler
+------------------------------------------
+
+
+                          JOINT PLAN OF REORGANIZATION
+                  OF THE DEBTOR AND THE AD HOC EQUITY COMMITTEE
+                  ---------------------------------------------
+<PAGE>
+
+                                   ARTICLE I.
+                                  INTRODUCTION
+
+       Section 1.1.        This Plan of Reorganization, dated as of November 10,
+2006 (the "Plan") is proposed by SeraCare Life Sciences, Inc., a California
+corporation (the "Debtor") and the Ad Hoc Equity Committee, pursuant to
+Bankruptcy Code Section 1121(a).
+
+       Section 1.2.        All holders of Claims against and Interests
+in the Debtor are encouraged to read this Plan and the accompanying solicitation
+materials in their entirety.
+
+       Section 1.3.        Statements Made Solely by Debtor and Ad Hoc
+Committee. All statements in this Plan and the accompanying solicitation
+materials concerning the history of the Debtor's business, the Debtor's past or
+present financial condition, transactions to which the Debtor was or is party,
+or the effect of confirmation of the Plan on secured creditors, unsecured
+creditors or equity interest holders are attributable exclusively to the Joint
+Plan Proponents and not to any other party.
+
+                                   ARTICLE II.
+                       DEFINITIONS; RULES OF CONSTRUCTION
+
+       Section 2.1.        Interpretation, Rules of Construction, Computation of
+Time. The provisions of the Plan shall control over any descriptions thereof
+contained in the Disclosure Statement.
+
+                  2.1.1.   Any term used in the Plan that is not defined in the
+         Plan, either in Section 2.2 or elsewhere, but that is used in the
+         Bankruptcy Code or the Bankruptcy Rules, shall have the meaning
+         assigned to that term in (and shall be construed in accordance with the
+         rules of construction under) the Bankruptcy Code or the Bankruptcy
+         Rules. Without limiting the foregoing, the rules of construction set
+         forth in section 102 of the Bankruptcy Code shall apply to the Plan,
+         unless superseded herein. The definitions and rules of construction
+         contained herein do not apply to the Disclosure Statement or to the
+         Exhibits to the Plan except to the extent expressly so stated in the
+         Disclosure Statement or in each Exhibit to the Plan.
+
+                  2.1.2.   The words "herein," "hereof," "hereto," "hereunder"
+         and others of similar import refer to the Plan as a whole and not to
+         any particular Article, Section, subsection or clause contained in the
+         Plan, unless the context requires otherwise.
+
+                  2.1.3.   Unless specified otherwise in a particular reference,
+         all references in the Plan to Articles, Sections and Exhibits are
+         references to Articles, Sections and Exhibits of or to the Plan.
+
+                  2.1.4.   Any reference in the Plan to a contract, document,
+         instrument, release, bylaw, certificate, indenture or other agreement
+         being in a particular form or on particular terms and conditions means
+         that such document shall be substantially in such form or substantially
+         on such terms and conditions.
+
+                                      -2-
+<PAGE>
+
+                  2.1.5.   Any reference in the Plan to an existing document or
+         Exhibit means such document or Exhibit as it may have been amended,
+         restated, modified or supplemented as of the Effective Date.
+
+                  2.1.6.   Whenever from the context it is appropriate, each
+         term stated in either the singular or the plural shall include both the
+         singular and the plural, and each pronoun stated in the masculine,
+         feminine or neuter includes the masculine, feminine and neuter.
+
+                  2.1.7.   In computing any period of time prescribed or allowed
+         by the Plan, the provisions of Bankruptcy Rule 9006(a) shall apply.
+
+                  2.1.8.   All Exhibits and Schedules to the Plan are
+         incorporated into the Plan, and shall be deemed to be included in the
+         Plan, regardless of when filed.
+
+       Section 2.2.        Definitions. In addition to such other terms as are
+defined in other Sections of the Plan, the following terms have the following
+meanings as used in the Plan:
+
+                  2.2.1.   "Ad Hoc Committee" means the Ad Hoc Equity Committee
+         of SeraCare Life Sciences, Inc., whose members are Harbinger Capital
+         Partners Master Fund I Ltd., Harbinger Capital Partners Special
+         Situations Fund L.P., Black Horse Capital Partners and The Wolfson
+         Group.
+
+                  2.2.2.   "Administrative Claim" means a Claim against the
+         Debtor entitled to priority under Bankruptcy Code Section 507(a)(1).
+
+                  2.2.3.   "Allowed" means, with respect to Claims, (a) any
+         Claim against the Debtor, proof of which is timely filed or by order of
+         the Bankruptcy Court is not or will not be required to be filed, (b)
+         any Claim against the Debtor that has been or is hereafter listed in
+         the Schedules as neither disputed, contingent or unliquidated, (c) any
+         Claim against the Debtor allowed pursuant to this Plan; and in the
+         cases of (a) and (b) above as to which either (i) no objection to the
+         allowance or level of priority or seniority thereof has been interposed
+         within the applicable period of time fixed by this Plan, the Bankruptcy
+         Code, the Bankruptcy Rules or the Bankruptcy Court and such time period
+         or extension thereof has expired, or (ii) such an objection has been so
+         interposed and the Claim shall have been allowed by a Final Order (but
+         only to the extent so allowed).
+
+                  2.2.4.   "Avoidance Actions" means all causes of action to
+         avoid or recover transfers or obligations recognized under Bankruptcy
+         Code Sections 502(d), 542, 543, 544, 545, 546, 547, 548, 549, 550, 551
+         and 553(b).
+
+                  2.2.5.   "Backstop Commitment Letters" means the Commitment
+         Letters dated November 10, 2006 written by the Backstop Purchasers.
+
+                  2.2.6.   "Backstop Purchasers" means Harbinger Capital
+         Partners Master Fund I, Ltd., Harbinger Capital Partner Special
+         Situations Fund L.P., [Blackhorse Fund], and electing Wolfson Group
+         Members.
+
+                                      -3-
+<PAGE>
+
+                  2.2.7.   "Ballots" means the ballots upon which holders of
+         impaired Claims and Interests entitled to vote on the Plan may indicate
+         their acceptance or rejection of the Plan.
+
+                  2.2.8.   "Bank Claims" means all Claims of the administrative
+         agent, collateral agent and the lenders under the Revolving/Term Credit
+         and Security Agreement dated as of September 14, 2004, as amended and
+         in effect.
+
+                  2.2.9.   "Bankruptcy Code" means Title 11 of the United States
+         Code, as the same was in effect on the Petition Date, as amended by any
+         amendments applicable to the Case.
+
+                  2.2.10.  "Bankruptcy Court" means the United States
+         Bankruptcy Court for the Southern District of California, or, to the
+         extent that such court ceases to exercise jurisdiction over the Case,
+         such other court or adjunct thereof that exercises jurisdiction over
+         the Case.
+
+                  2.2.11.  "Bankruptcy Rules" means the Federal Rules of
+         Bankruptcy Procedure as in effect on the Petition Date and hereafter
+         amended as applicable to the Case.
+
+                  2.2.12.  "Bar Date" means August 1, 2006; provided, however,
+         September 22, 2006 for governmental units and October 31, 2006 for
+         certain persons listed on the Debtor's First Amendment to its
+         Schedules.
+
+                  2.2.13.  "Business Day" means any day other than a Saturday,
+         Sunday or any other day on which banking institutions in New York, New
+         York are required or authorized to close by law or executive order.
+
+                  2.2.14.  "Case" means the Debtor's above-captioned case under
+         the Bankruptcy Code.
+
+                  2.2.15.  "Cash" means cash and cash equivalents, including
+         wire transfers, checks, other readily marketable direct obligations of
+         the United States of America and other similar items.
+
+                  2.2.16.  "Claims" has the meaning provided in Bankruptcy Code
+         Section 101(5).
+
+                  2.2.17.  "Class" means one of the classes of Claims or
+         Interests that are substantially similar in nature to each other,
+         established under Article IV of this Plan.
+
+                  2.2.18.  "Class Action Class 6B Claim" means Claim No. 300,
+         filed by Richard Westlund et al. in the Case.
+
+                  2.2.19.  "Class 5 Disputed Claim Reserve" means, at any time
+         an amount of Cash equal to the Cash that would be distributed to all
+         holders of Claims in Class 5 that are at such time Disputed Claims, if
+         all Claims in Class 5 alleged by such holders were Allowed in full.
+
+                                      -4-
+<PAGE>
+
+                  2.2.20.  "Commerce Bank Claims" means the Claims of Commerce
+         Bank.
+
+                  2.2.21.  "Common-Stock Interests" means all Interests in the
+         Debtor that are not Common-Stock Option Interests.
+
+                  2.2.22.  "Common-Stock Option Interests" means all Interests
+         in the Debtor that consist either of an option to purchase common stock
+         of the Debtor, or a warrant to obtain common stock of the Debtor.
+
+                  2.2.23.  "Confirmation" means the entry of the Confirmation
+         Order.
+
+                  2.2.24.  "Confirmation Date" means the date on which
+         Bankruptcy Court enters the Confirmation Order.
+
+                  2.2.25.  "Confirmation Hearing" means the hearing held by the
+         Bankruptcy Court to consider Confirmation of this Plan.
+
+                  2.2.26.  "Confirmation Order" means the Bankruptcy Court's
+         order confirming this Plan pursuant to Bankruptcy Code Section 1129.
+
+                  2.2.27.  "Cure Claims" has the meaning set forth in Section
+         10.2.
+
+                  2.2.28.  "D&O Actions" means, collectively, any causes of
+         action that the Debtor or the Estate have, as of the Effective Date,
+         against the present and former directors and officers of the Debtor,
+         any affiliates of them, former counsel and accountants to the Debtor
+         and any committee of its board of directors, any former underwriters of
+         securities of the Debtor, and Carolina Casualty Company and including
+         the D&O Adversary.
+
+                  2.2.29.  "D&O Adversary" means the adversary proceeding
+         relating to Non-Settled D&O Actions, that may be commenced by the Ad
+         Hoc Committee following the Confirmation Date and before the Effective
+         Date, as contemplated by this Plan.
+
+                  2.2.30.  "Debtor" has the meaning set forth in Section 1.1.
+
+                  2.2.31.  "Designated Derivative Shareholder" means a person
+         designated by the Ad Hoc Committee in the Plan Supplement.
+
+                  2.2.32.  "Disallowed" means, with respect to Claims and
+         Interests, any Claim against, or Interest in, the Debtor that the
+         Bankruptcy Court has disallowed by a Final Order or this Plan.
+
+                  2.2.33.  "Disbursing Agent" means Reorganized SeraCare.
+
+                  2.2.34.  "Disclosure Statement" means the disclosure statement
+         used to solicit acceptances and rejections of this Plan.
+
+                                      -5-
+<PAGE>
+
+                  2.2.35.  "Disclosure Statement Order" means the order of the
+         Bankruptcy Court approving solicitation of votes to accept or reject
+         this Plan.
+
+                  2.2.36.  "Disputed" means with respect to Claims and
+         Interests, any Claim or Interest that is not Allowed or Disallowed.
+
+                  2.2.37.  "Distribution Record Date" means three business days
+         after the Confirmation Date.
+
+                  2.2.38.  "Effective Date" means the first Business Day after
+         the conditions set forth in Section 12.2 have been satisfied or waived.
+
+                  2.2.39.  "Electing Class 3 Claimant" means each holder of a
+         Class 3 Claim who makes the election contemplated by Section 8.4.3(b).
+
+                  2.2.40.  "Electing D&O" means the present and former directors
+         and officers of the Debtor who make the election contemplated by
+         Section 8.4.2(b).
+
+                  2.2.41.  "Estate" means the estate created in the Case for the
+         Debtor, by operation of Bankruptcy Code Section 541.
+
+                  2.2.42.  "Estate Causes of Action" means all claims and causes
+         of action, whether known or unknown, of the Debtor or the Estate, and
+         including Avoidance Actions and the D&O Actions, against any Person.
+
+                  2.2.43.  "Estimated" means, with respect to any Claim for
+         which a motion to estimate such Claim has been filed, the amount of
+         such Claim as estimated, for all purposes including distributions, by
+         the Bankruptcy Court by a Final Order (but only to the extent so
+         estimated).
+
+                  2.2.44.  "Exculpated D&O" means the current members of the
+         Special Committee of Independent Directors of the Debtor, all current
+         officers of the Debtor and Cathryn Low and Tom Lawlor.
+
+                  2.2.45.  "Final Order" means an order or judgment of the
+         Bankruptcy Court that has not been reversed, stayed, modified or
+         amended and as to which the time to appeal or seek review, rehearing,
+         reargument or certiorari has expired and as to which no appeal or
+         petition for review, rehearing, reargument, stay or certiorari is
+         pending, or as to which any right to appeal or to seek certiorari,
+         review or rehearing has been waived, or, if an appeal, reargument,
+         petition for review, certiorari or rehearing has been sought, the order
+         or judgment of the Bankruptcy Court that has been affirmed by the
+         highest court to which the order was appealed or from which the
+         reargument, review or rehearing was sought, or certiorari has been
+         denied, and as to which the time to take any further appeal, or seek
+         further reargument, review, certiorari or rehearing has expired.
+
+                  2.2.46.  "510(b) Claims" means all Claims against the Debtor
+         that would be of the same priority as Class 7 Interests pursuant to
+         Bankruptcy Code Section 510(b), including all Claims asserted by
+
+                                      -6-
+<PAGE>
+
+         officers, directors, accountants or underwriters of the Debtor, or by
+         Pecks Management or funds or accounts managed by Pecks Management,
+         seeking indemnification, reimbursement or contribution from claims
+         that, if asserted against the Debtor, would be of the same priority as
+         Class 7 Interests pursuant to Bankruptcy Code Section 510(b).
+
+                  2.2.47.  "General Unsecured Claims" means all Claims against
+         the Debtor that are not Administrative Claims, Priority Tax Claims,
+         Bank Claims, Junior Secured Note Claims, Miscellaneous Secured Claims,
+         Commerce Bank Claims, Priority Claims, or 510(b) Claims.
+
+                  2.2.48.  "Governmental 510(b) Claims" means all 510(b) Claims
+         of the Securities and Exchange Commission.
+
+                  2.2.49.  "Governmental Investigations" means the
+         investigations that have been initiated by the Securities and Exchange
+         Commission and the United States Department of Justice regarding the
+         Debtor and related persons, any enforcement action or other proceeding
+         arising from such investigations, and any other similar investigation
+         or proceeding, whether administrative, civil or otherwise, by any
+         federal or state governmental entity.
+
+                  2.2.50.  "Initial Reorganized SeraCare Common Stock" means a
+         number of shares of Reorganized SeraCare Common Stock equal to the
+         number of outstanding and issued shares of common stock of the Debtor
+         as of the Distribution Record Date.
+
+                  2.2.51.  "Interests" means "equity security" as that term is
+         defined in Bankruptcy Code Section 101(17).
+
+                  2.2.52.  "Joint Plan Proponents" means, collectively, the
+         Debtor and the Ad Hoc Committee.
+
+                  2.2.53.  "Junior Notes Agreement" means the Subordinated Note
+         Agreement dated as of September 14, 2004 among the Debtor, the
+         noteholders named therein and David Barrett Inc. as administrative
+         agent for the noteholders, as amended and in effect.
+
+                  2.2.54.  "Junior Secured Note Claims" means all Claims against
+         the Debtor under the Junior Notes Agreement.
+
+                  2.2.55.  "Local Bankruptcy Rules" means the Local Rules of the
+         Bankruptcy Court.
+
+                  2.2.56.  "Miscellaneous Secured Claim" means a Claim, payment
+         of which is secured by any interest of the Debtor in any property, or
+         which is entitled to setoff pursuant to Bankruptcy Code Sections 506(a)
+         and 553, except Bank Claims, Junior Secured Note Claims and Commerce
+         Bank Claims.
+
+                  2.2.57.  "Net Enterprise Value" means the value of the
+         Debtor's assets less all liabilities of the Debtor, excluding any
+         Claims that would be within Class 6B.
+
+                                      -7-
+<PAGE>
+
+                  2.2.58.  "Nongovernmental 510(b) Claims" means all 510(b)
+         Claims except the claim of the Securities and Exchange Commission or
+         any other governmental unit acting in its regulatory or police-power
+         capacities.
+
+                  2.2.59.  "Non-Settled D&O Actions" means all D&O Actions
+         except those against the present and former directors and officers of
+         the Debtor who elect to participate in the settlement contemplated by
+         Section 8.4.2.
+
+                  2.2.60.  "Official Creditors Committee" means the Official
+         Committee of Unsecured Creditors appointed in the Case by the United
+         States Trustee.
+
+                  2.2.61.  "Petition Date" means March 22, 2006.
+
+                  2.2.62.  "Plan" means this Plan of Reorganization, as it may
+         be amended and modified from time to time.
+
+                  2.2.63.  "Plan Documents" means the Reorganized SeraCare
+         Charter, the Reorganized SeraCare Bylaws and other corporate governance
+         and related documents as may be determined by the Joint Plan Proponents
+         to be necessary or desirable in order to effectuate the reorganization
+         of the Debtor contemplated by this Plan.
+
+                  2.2.64.  "Plan Objection Deadline" means the date set in the
+         Voting Procedures Order for parties to file timely any objections to
+         the Plan.
+
+                  2.2.65.  "Plan Rate" means: (a) if a Claim is for taxes, the
+         rate provided by Bankruptcy Code Section 511; (b) for any other Claim
+         the rate enforceable under applicable bankruptcy and nonbankruptcy law
+         (whether contract rate or the federal judgment rate); or (c) any higher
+         rate provided by a Final Order of the Bankruptcy Court.
+
+                  2.2.66.  "Plan Supplement" means the supplementary documents
+         to be filed by the Joint Plan Proponents not later than 30 days prior
+         to the Confirmation Hearing.
+
+                  2.2.67.  "Plan Support Agreement" means the plan support
+         agreement, dated November__, 2006, between SeraCare Life Sciences,
+         Inc., Harbinger Capital Partners Master Fund I, L.P., Harbinger Capital
+         Partners Special Situations Fund L.P., Blackhorse Capital Advisors LLC
+         and certain funds and accounts collectively known as The Wolfson Group.
+
+                  2.2.68.  "Post-Petition Interest" means, with respect to any
+         Claim, interest at the Plan Rate from the Petition Date to the date of
+         payment in respect of such Claim under this Plan, on the Allowed amount
+         of such Claim.
+
+                  2.2.69.  "Priority Claims" means all Claims against the Debtor
+         accorded priority in right of payment under Bankruptcy Code Section
+         507(a), other than Administrative Claims, DIP Financing Claims and
+         Priority Tax Claims.
+
+                                      -8-
+<PAGE>
+
+                  2.2.70.  "Priority Tax Claims" means all Claims against the
+         Debtor for taxes and interest entitled to priority pursuant to
+         Bankruptcy Code Section 507(a)(8).
+
+                  2.2.71.  "Professionals" means those Persons: (a) employed
+         pursuant to Bankruptcy Court order in accordance with Bankruptcy Code
+         Sections 327, 328 or 1103; or (b) for which the Bankruptcy Court has
+         allowed compensation and reimbursement pursuant to Bankruptcy Code
+         Sections 503(b)(2), (3) or (4).
+
+                  2.2.72.  "Pro Rata Share" means, as of the date of calculation
+         and with respect to an Allowed Claim or Interest in a particular Class,
+         a percentage equal to (a) the amount of the holder's Allowed Claim (or
+         the amount of shares of an Interest held by such Holder) divided by (b)
+         the total amount of Allowed and Disputed Claims (or total amount of
+         Interests) of such Class.
+
+                  2.2.73.  "Reorganized SeraCare" means SeraCare Reorganization
+         Company, Inc., a Delaware corporation.
+
+                  2.2.74.  "Reorganized SeraCare Bylaws" means the Amended and
+         Restated Bylaws of Reorganized SeraCare in substantially the form set
+         forth in the Plan Supplement.
+
+                  2.2.75.  "Reorganized SeraCare Charter" means the Amended and
+         Restated Certificate of Incorporation of Reorganized SeraCare, in
+         substantially the form set forth in the Plan Supplement.
+
+                  2.2.76.  "Reorganized SeraCare Common Stock" means common
+         stock issued pursuant to the Reorganized SeraCare Charter.
+
+                  2.2.77.  "Rights Offering" means the financing contemplated by
+         Article IX.
+
+                  2.2.78.  "Rights Offering Agent" means Financial Balloting
+         Group LLC.
+
+                  2.2.79.  "Rights Offering Price" means $4.75/share.
+
+                  2.2.80.  "Rights Offering Record Date" means the Voting Record
+         Date.
+
+                  2.2.81.  "Rights Offering Shares" means 4,250,000 shares of
+         common stock of Reorganized SeraCare.
+
+                  2.2.82.  "Rights Offering Trust Account" means the trust
+         account or similarly segregated account or accounts maintained by the
+         Rights Offering Agent in accordance with Section 9.4 of this Plan,
+         which shall be separate and apart from the Rights Offering Agent's
+         general operating funds and/or any other funds subject to any lien or
+         any cash collateral arrangements.
+
+                  2.2.83.  "Schedules" means the schedules of assets and
+         liabilities that the Debtor has filed in the Case, including any
+         amendments and supplements thereto.
+
+                                      -9-
+<PAGE>
+
+                  2.2.84.  "Securities Class Action" means the action styled In
+         re SeraCare Life Sciences Inc. Securities Litigation, S.D. Cal. No.
+         05-CV-2335.
+
+                  2.2.85.  "Subscription Expiration Date" means Voting Deadline.
+
+                  2.2.86.  "Subscription Form" means the ballot for holders of
+         Class 7 Interests, which includes provisions for each such holder to
+         elect to participate in the Rights Offering.
+
+                  2.2.87.  "Subscription Purchase Price" means the Rights
+         Offering Price multiplied by the number of Rights Offering Shares a
+         holder seeks to purchase.
+
+                  2.2.88.  "Subscription Rights" means the right to subscribe
+         for shares as set forth in Article IX.
+
+                  2.2.89.  "Voting Deadline" means the date set in the Voting
+         Procedures Order for parties to file timely any objections to the Plan.
+
+                  2.2.90.  "Voting Record Date" means the date set by the
+         Bankruptcy Court in the Disclosure Statement Order as the record date
+         for holders of claims and interests to be considered holders for
+         purposes of voting to accept or reject this Plan.
+
+                                  ARTICLE III.
+                       METHOD OF CLASSIFICATION OF CLAIMS
+                      AND INTERESTS AND GENERAL PROVISIONS
+
+       Section 3.1.        General Rules of Classification. Generally, a Claim
+or Interest is classified in a particular Class for voting and distribution
+purposes only to the extent the Claim or Interest qualifies within the
+description of that Class, and is classified in another Class to the extent that
+the Claim or Interest qualifies within the description of such other Class.
+Unless otherwise provided, to the extent a Claim qualifies for inclusion in a
+more specifically defined Class and a more generally defined Class, it shall be
+included in the more specifically defined Class. A Claim or Interest is
+classified in a particular Class regardless of whether the Claim or Interest is
+an Allowed Claim or Interest in that Class, or only asserted as such, but only
+to the extent that it has not been paid, released or otherwise satisfied before
+the Effective Date.
+
+       Section 3.2.        Administrative Claims and Priority Tax Claims.
+Administrative Claims and Priority Tax Claims have not been classified and are
+excluded from the Classes set forth in Article IV in accordance with Bankruptcy
+Code Section 1123(a)(1). Priority Claims are classified in Class 1.
+
+       Section 3.3.        Satisfaction of Claims and Interests. The treatment
+to be provided for Allowed Claims and Interests pursuant to this Plan and the
+consideration provided therefor herein shall be in full satisfaction, settlement
+and release of such Claims and Interests.
+
+                                      -10-
+<PAGE>
+
+                                  ARTICLE IV.
+                  CLASSIFICATION OF OTHER CLAIMS AND INTERESTS
+
+       Section 4.1.        All Claims and Interests, except Administrative
+Claims and Priority Tax Claims, are placed in the following Classes for the
+Debtor.
+
+                  4.1.1.   Class 1 shall consist of all Priority Claims.
+
+                  4.1.2.   Class 2 shall consist of all Bank Claims.
+
+                  4.1.3.   Class 3 shall consist of Junior Secured Note Claims.
+
+                  4.1.4.   Class 4 shall consist of Miscellaneous Secured
+         Claims.
+
+                  4.1.5.   Class 4A shall consist of Commerce Bank Claims.
+
+                  4.1.6.   Class 5 shall consist of General Unsecured Claims.
+
+                  4.1.7.   Class 6A shall consist of Governmental 510(b) Claims.
+
+                  4.1.8.   Class 6B shall consist of Nongovernmental 510(b)
+         Claims.
+
+                  4.1.9.   Class 7 shall consist of Common-Stock Interests.
+
+                  4.1.10.  Class 8 shall consist of Common-Stock Option
+         Interests.
+
+                                   ARTICLE V.
+                     IDENTIFICATION OF CLASSES OF CLAIMS AND
+                 INTERESTS IMPAIRED AND UNIMPAIRED BY THIS PLAN
+
+       Section 5.1.        Classes of Claims and Interests impaired by this Plan
+and Entitled to Vote. Unless otherwise ordered by the Bankruptcy Court
+Common-Stock Interests (Class 7) are impaired by this Plan and the holders
+thereof are entitled to vote to accept or reject the Plan.
+
+       Section 5.2.        Unimpaired Classes Conclusively Deemed to Accept this
+Plan. Unless otherwise ordered by the Bankruptcy Court, Priority Claims (Class
+1), Bank Claims (Class 2), Junior Secured Note Claims (Class 3), Miscellaneous
+Secured Claims (Class 4), Commerce Bank Claims (Class 4A), General Unsecured
+Claims (Class 5), Governmental 510(b) Claims (Class 6A) and Common-Stock Option
+Interests (Class 8) are unimpaired by this Plan. Pursuant to Bankruptcy Code
+Section 1126(f), the holders of such Claims and Interests are unimpaired and are
+conclusively presumed to accept this Plan, and the votes of such holders are not
+being solicited.
+
+       Section 5.3.        Impairment Status of Class 6B. Nongovernmental 510(b)
+Claims (Class 6B) shall be treated as unimpaired if the Estimated amount of the
+Class Action Class 6B Claim is paid in Cash, and shall otherwise be treated as
+impaired. Holders of Class 6B Claims shall provisionally vote on the Plan, and
+their votes shall be determined if an election is made to provide holders of
+Class 6B Claims with equity securities instead of Cash.
+
+                                      -11-
+<PAGE>
+
+       Section 5.4.        Confirmation Pursuant to Bankruptcy Code Section
+1129(b). The Joint Plan Proponents intend to request that the Bankruptcy Court
+confirm this Plan in accordance with Bankruptcy Code Section 1129(b) if any
+Class entitled to vote rejects the Plan.
+
+                                  ARTICLE VI.
+           TREATMENT OF ADMINISTRATIVE CLAIMS AND PRIORITY TAX CLAIMS
+
+       Section 6.1.        Treatment of Allowed General Administrative Claims.
+Unless otherwise provided for herein, Allowed Administrative Claims shall be
+paid in full in Cash, and each holder of an Allowed Administrative Claim
+(including all compensation and reimbursement of expenses of Professionals
+pursuant to Bankruptcy Code Sections 327, 328, 329, 330, 331, 503(b)(1),
+503(b)(4) or 1103) shall be paid by the Debtor 100% of the Allowed amount of
+such Administrative Claim in Cash on or as soon as reasonably practicable after
+the later of: (a) the Effective Date; and (b) the date such Administrative Claim
+becomes Allowed; provided, however, that an Allowed Administrative Claim
+representing obligations incurred in the ordinary course of business shall be
+paid in accordance with its terms and conditions consistent with past practice;
+and, provided, further, that an Allowed Administrative Claim may be paid on such
+other terms and conditions as are agreed to between Reorganized SeraCare and the
+holder of such Allowed Administrative Claim.
+
+       Section 6.2.        Treatment of Allowed Priority Tax Claims. Allowed
+Priority Tax Claims shall be assumed by Reorganized SeraCare and each holder of
+an Allowed Priority Tax Claim shall be paid by Reorganized SeraCare Cash equal
+to the Allowed amount of such Claim plus Post-Petition Interest, on or as soon
+as reasonably practicable after the later of (a) the Effective Date and (b) the
+date such Claim becomes an Allowed Priority Tax Claim.
+
+                                  ARTICLE VII.
+                     TREATMENT OF OTHER CLAIMS AND INTERESTS
+
+       Section 7.1.        Treatment of Allowed Priority Claims (Class 1).
+                           ----------------------------------------------
+
+                  7.1.1.   Unless otherwise agreed to by the holder of an
+         Allowed Priority Claim and Reorganized SeraCare, Reorganized SeraCare
+         shall assume each Allowed Priority Claim and each holder of an Allowed
+         Priority Claim shall be paid by Reorganized SeraCare Cash equal to the
+         Allowed amount of such Claim plus Post-Petition Interest, on or as soon
+         as reasonably practicable after the later of (a) the Effective Date;
+         (b) the date such Claim becomes an Allowed Priority Claim; and (c) the
+         date that such Claim would be paid in accordance with any terms and
+         conditions of any agreements or understanding relating thereto between
+         the Debtor and the holder of such Claim that provides for treatment
+         less favorable to the holder of such Allowed Claim than otherwise
+         provided herein.
+
+                  7.1.2.   Class 1 is being treated as unimpaired and the
+         holders of Claims in Class 1 shall be deemed to accept the Plan.
+
+       Section 7.2.        Treatment of Bank Claims (Class 2).
+                           ----------------------------------
+
+                                      -12-
+<PAGE>
+
+                  7.2.1.   Each Allowed Bank Claim shall be paid in full in Cash
+         the Allowed amount of Claim on the Effective Date.
+
+                  7.2.2.   Class 2 is being treated as unimpaired and the
+         holders of Claims in Class 2 shall be deemed to accept the Plan.
+
+       Section 7.3.        Treatment of Junior Secured Note Claims (Class 3).
+                           ------------------------------------------------
+
+                  7.3.1.   Each Allowed Junior Secured Note Claim shall be paid
+         in full in Cash the Allowed amount of such Claim, subject to all
+         defenses, setoffs and counterclaims that the Debtor and the Estate have
+         with respect to such Claim and against the holder of such Claim, as
+         soon as reasonably practical after the later of (a) the Effective Date
+         and (b) the date on which such Claim becomes an Allowed Claim; provided
+         that such treatment of each holder shall also be subject to any
+         election that such holder makes under Section 8.4.3.
+
+                  7.3.2.   Class 3 is being treated as unimpaired and the
+         holders of Claims in Class 3 shall be deemed to accept the Plan.
+
+       Section 7.4.        Treatment of Miscellaneous Secured Claims (Class 4).
+                           --------------------------------------------------
+
+                  7.4.1.   Each Miscellaneous Secured Claim shall have all
+         obligations in respect of such Claim assumed by Reorganized SeraCare,
+         subject to all defenses, setoffs and counterclaims that the Debtor and
+         the Estate have with respect to such Claim and against the holder of
+         such Claim. The acceleration of any Miscellaneous Secured Claim shall
+         be deemed rescinded as of the Effective Date, pursuant to Bankruptcy
+         Code Section 1124(2).
+
+                  7.4.2.   Class 4 is being treated as unimpaired under the
+         Plan. Holders of Claims in Class 4 shall be deemed to accept the Plan.
+
+       Section 7.5.        Treatment of Commerce Bank Claim (Class 4A).
+                           -------------------------------------------
+
+                  7.5.1  . Each Commerce Bank Claim shall have all obligations
+         in respect of such Claim assumed by Reorganized SeraCare. The
+         acceleration of any Commerce Bank Claim shall be deemed rescinded as of
+         the Effective Date, pursuant to Bankruptcy Code Section 1124(2).
+
+                  7.5.2.   Class 4A is being treated as unimpaired under the
+         Plan. Holders of Claims in Class 4A shall be deemed to accept the Plan.
+
+       Section 7.6.        Treatment of General Unsecured Claims (Class 5).
+                           ----------------------------------------------
+
+                  7.6.1.   Unless otherwise agreed to by the holder of an
+         Allowed General Unsecured Claim and the Joint Plan Proponents (or
+         Reorganized SeraCare after the Effective Date), each holder of an
+         Allowed General Unsecured Claim shall be paid by Reorganized SeraCare
+         Cash equal to the Allowed amount of such Claim plus Post-Petition
+         Interest, on or as soon as reasonably practicable after the later of
+         (a) the Effective Date; and (b) the date such Claim becomes an Allowed
+         General Unsecured Claim.
+
+                                      -13-
+<PAGE>
+
+                  7.6.2.   Class 5 is being treated as unimpaired under the
+         Plan. Holders of Claims in Class 5 shall be deemed to accept the Plan.
+
+       Section 7.7.        Treatment of Governmental 510(b) Claims (Class 6A).
+                           -------------------------------------------------
+
+                  7.7.1.   Each holder of an Allowed Governmental 510(b) Claim
+         shall be paid by Reorganized SeraCare Cash equal to the Allowed
+         amount of such Claim, on or as soon as reasonably practicable after
+         the later of (a) the Effective Date and (b) the date such Claim
+         becomes an Allowed Governmental 510(b) Claim.
+
+                  7.7.2.   Class 6A is being treated as unimpaired under the
+         Plan. Holders of Claims in Class 6A shall be deemed to accept the
+         Plan.
+
+       Section 7.8.        Treatment of Nongovernmental 510(b) Claims
+                           (Class 6B).
+
+                  7.8.1.   Each holder of an Allowed or Estimated 510(b) Claim
+         shall either: (a) be paid in full in Cash the Allowed or Estimated
+         amount of such Claim; or, (b) if the Joint Plan Proponents elect, as
+         alternative treatment for all Class 6B holders, receive Initial
+         Reorganized SeraCare Common Stock of a value equal to the product of:
+         (i) the Allowed or Estimated amount of such Claim divided by (ii) the
+         sum of (A) the total Estimated and Allowed amounts of all Class 6B
+         Claims plus the Net Enterprise Value of the Debtor, as of the
+         Confirmation Date.
+
+                  7.8.2.   Class 6B is being treated as (a) unimpaired under the
+         Plan unless the election is made to distribute stock to the Class 6B
+         Claims and (b) impaired in any other case. Holders of Claims in Class
+         6B shall be deemed to accept the Plan if such Class is unimpaired.
+
+       Section 7.9.        Treatment of Common-Stock Interests (Class 7).
+                           --------------------------------------------
+
+                  7.9.1.   Each holder of an Allowed Common-Stock Interest shall
+         receive, for each share of common stock of the Debtor:
+
+                           (a)      if the election is made to pay Class 6B
+                  Claims in Cash, (i) one share of the Initial Reorganized
+                  SeraCare Common Stock and (ii) its Pro Rata Share of the
+                  Subscription Rights; or
+
+                           (b)      in any other circumstance, (i) its Pro Rata
+                  Share of all Initial Reorganized SeraCare Common Stock that is
+                  not otherwise distributed to Class 6B and (ii) its Pro Rata
+                  Share of the Subscription Rights.
+
+                  7.9.2.   Class 7 is being treated as impaired under the Plan.
+         Holders of Claims in Class 7 shall be entitled to vote to accept or
+         reject the Plan.
+
+       Section 7.10.       Treatment of Common-Stock Option Interests (Class 8).
+                           ----------------------------------------------------
+
+                                      -14-
+<PAGE>
+
+                  7.10.1.  On the Effective Date, all Common-Stock Option
+         Interests shall be exchanged, as permitted by the terms of the relevant
+         option agreements and option plans, for corresponding options of
+         Reorganized SeraCare.
+
+                  7.10.2.  Class 8 is being treated as unimpaired under the
+         Plan. Holders of Claims in Class 8 shall be deemed to accept the Plan.
+
+                                 ARTICLE VIII.
+                      MEANS FOR IMPLEMENTATION OF THE PLAN
+
+       Section 8.1.        Reorganized SeraCare.  On the Effective Date, the
+following events shall occur:
+
+                  8.1.1.   The Debtor shall be merged into Reorganized SeraCare,
+         and Reorganized SeraCare shall change its name to SeraCare
+         LifeSciences, Inc., all as contemplated by Section 8.2.
+
+                  8.1.2.   The Rights Offering contemplated by Article IX shall
+         be consummated.
+
+       Section 8.2.        Merger and Reorganized SeraCare.
+                           -------------------------------
+
+                  8.2.1.   Reorganized SeraCare shall file the Reorganized
+         SeraCare Charter and a certificate of merger with the Delaware
+         Secretary of State, and the Debtor shall file a certificate of merger
+         with the California Secretary of State. The Debtor shall thereupon be
+         deemed to be Reorganized SeraCare. Reorganized SeraCare shall be deemed
+         to have adopted the Reorganized SeraCare Bylaws. The directors and
+         officers of the Debtor shall be deemed to have resigned as of the
+         Effective Date, and the persons to be the directors and officers of
+         Reorganized SeraCare shall be:
+
+                           Directors:     Gene Davis
+
+                                          Harbinger Designee acceptable to
+                                          Debtor, identified in Plan Supplement
+
+                                          Blackhorse Designee acceptable to
+                                          Debtor, identified in Plan Supplement
+
+                                          Current member of board and/or
+                                          designee of CEO, identified in Plan
+                                          Supplement
+
+                                          Susan Vogt
+
+                           Officers:      Susan Vogt     (President and Chief
+                                                          Executive Officer)
+
+                                          Gregory Gould  (Treasurer and Chief
+                                                          Financial Officer)
+
+                                          Gregory Gould  (Secretary).
+
+                                      -15-
+<PAGE>
+
+                  8.2.2.   Reorganized SeraCare Common-stock shall be issued in
+         book-entry form via The Depository Trust Company. Beneficial holders
+         recognized as holders of Common-Stock Interests hereunder shall receive
+         their distributions via book-entry and the indirect-holding system.
+
+       Section 8.3.        Registration Rights.
+                           -------------------
+
+                  8.3.1.   From and after the Effective Date, Reorganized
+         SeraCare shall as promptly as possible file and use best efforts to (i)
+         register all of the Reorganized SeraCare Common Stock issued to the
+         Backstop Purchasers (except such shares that are exempt from
+         registration pursuant to Bankruptcy Code Section 1145) for resale, in
+         accordance with the requirements of the Securities Act of 1933, (ii)
+         register the Reorganized SeraCare Common Stock pursuant to Section
+         12(g) of the Securities Exchange Act of 1934 and (iii) obtain listing
+         of the Reorganized SeraCare Common Stock on the NASDAQ or NYSE
+         exchanges. Each of the Backstop Purchasers shall also have two demand
+         registration rights and unlimited piggyback registration rights.
+         Reorganized SeraCare shall be required to comply with customary
+         registration procedures and shall provide customary indemnification to
+         selling stockholders.
+
+                  8.3.2.   The Company shall pay for all costs of all such
+         registrations, including filing fees and the costs of preparing all
+         registration statements and fees and expenses of selling shareholders
+         (but not including underwriters' discounts or commissions, or transfer
+         taxes). Any cutbacks shall be pro rata among the Company and all
+         shareholders invoking registration rights.
+
+       Section 8.4.        Settlements.
+                           -----------
+
+                  8.4.1.   Post-Petition Exculpation. As of the Effective Date,
+         the Debtor and its Estate, the Creditors Committee and its members, the
+         Ad Hoc Committee and its members, and the Exculpated D&O shall be
+         deemed to have released each other from all claims and causes of action
+         solely with respect to events after the Petition Date, whether known or
+         unknown, relating in any way to the Debtor and/or its Estate.
+
+                  8.4.2.   Election for D&O to Settle Claims Relating to Debtor.
+
+                           (a)      Each present or former director and officer
+                  of the Debtor may elect, prior to the 10th day after entry of
+                  the Disclosure Statement Order, to settle all disputes between
+                  that person and the Debtor and the Estate, on the terms set
+                  forth in this Section 8.4.2.
+
+                           (b)      Such election shall be made by a signed
+                  writing reasonably acceptable to the Joint Plan Proponents
+                  (including a representation that no claims or interests of
+                  such person have been transferred since the Petition Date),
+                  and must also include a vote by such person to accept this
+                  Plan with all interests that such person has in Class 7 and a
+                  certification that such person has not and will not object,
+                  and has not and will not assist any other person in objecting,
+                  to this Plan, or to any other plan of which the Ad Hoc
+                  Committee is a proponent or co-proponent so long as such plan
+                  includes the settlement set forth in this Section 8.4.2.
+
+                                      -16-
+<PAGE>
+
+                           (c)      As of the Effective Date, (i) all Electing
+                  D&O shall be deemed to have released the Debtor and all other
+                  Electing D&O of all claims, except any Class 3 Claims,
+                  including any claims for fees, indemnification, reimbursement,
+                  contribution, salary, bonus or severance, known or unknown,
+                  based on any claim or cause of action, known or unknown, that
+                  arose before the Petition Date, including the Governmental
+                  Investigations, the Securities Class Action and any
+                  allegations of breach of fiduciary duty and (ii) the Debtor
+                  and its Estate shall be deemed to have released the Electing
+                  D&O from all Estate Causes of Action against the Electing D&O,
+                  through the Effective Date.
+
+                  8.4.3.   Election for Class 3 Holders.
+                           ----------------------------
+
+                           (a)      Each holder of a Class 3 Claims may elect,
+                  prior to the 10th day after entry of the Disclosure Statement
+                  Order, to settle all disputes between that person and the
+                  Debtor and the Estate, on the terms set forth in this Section
+                  8.4.3.
+
+                           (b)      Such election shall be made by a signed
+                  writing reasonably acceptable to the Joint Plan Proponents
+                  (including a representation that no claims or interests of
+                  such person have been transferred since the Petition Date, and
+                  the binding agreement with respect to any claims asserted by
+                  any agent of such holder), and must also include a vote by
+                  such person to accept this Plan with all claims in Class 3 and
+                  interests that such person has in Class 7 and a certification
+                  that such person has not and will not object, and has not and
+                  will not assist any other person in objecting, to this Plan,
+                  or to any other plan of which the Ad Hoc Committee is a
+                  proponent or co-proponent so long as such plan includes the
+                  settlement set forth in this Section 8.4.3.
+
+                           (c)      As of the Effective Date, (i) all Electing
+                  Class 3 Claimants shall be deemed to have released the Debtor
+                  of all claims, except any Class 3 Claims, including any claims
+                  for fees, indemnification, reimbursement, contribution,
+                  salary, bonus or severance, known or unknown, based on any
+                  claim or cause of action, known or unknown, that arose before
+                  the Petition Date, including the Governmental Investigations,
+                  the Securities Class Action and any allegations of breach of
+                  fiduciary duty, (ii) all Electing Class 3 Claimants shall be
+                  deemed to waive any portion of their Class 3 Claim that
+                  constitutes prepayment premium and/or default interest, (iii)
+                  all Electing Class 3 Claimants shall be deemed to consent to
+                  any modification of the Joint Plan that does not change the
+                  treatment of Class 3 except for providing that the payment of
+                  the Allowed amount of the Claim shall occur on the 15th day
+                  after the Effective Date, (iv) the Debtor and its Estate shall
+                  be deemed to have released all objections and setoffs to the
+                  Class 3 Claim of such holder and (v) such holder's Class 3
+                  Claim shall be allowed for all purposes, and such holder shall
+                  therefore be paid Cash in the Allowed amount of such Claim on
+                  or as soon as practicable after the Effective Date (or 15 days
+                  thereafter, if the Joint Plan is modified as contemplated by
+                  clause (iv)).
+
+                                      -17-
+<PAGE>
+
+                  8.4.4.   Global Release Including Unknown Claims. Except as to
+         the consensual releases among the Electing D&O, the releases contained
+         in Sections 8.4.2 and 8.4.3 shall not be construed release of any
+         claims or causes of action that any non-Debtor party has against any
+         person other than the Debtor. In granting the releases set forth in
+         Sections 8.4.2 and 8.4.3, the parties expressly waive any rights or
+         benefits available to them under the provisions of California Civil
+         Code Section 1542, which provides as follows:
+
+                           A GENERAL RELEASE DOES NOT EXTEND TO CLAIMS WHICH THE
+                           RELEASING PARTY DOES NOT KNOW OR SUSPECT TO EXIST IN
+                           HIS FAVOR AT THE TIME OF EXECUTING THE RELEASE, WHICH
+                           IF KNOWN BY HIM MUST HAVE MATERIALLY AFFECTED HIS
+                           SETTLEMENT WITH THE OTHER PARTY.
+
+                  The parties to the releases in this Plan shall be deemed to
+                  understand and acknowledge (and any election will confirm)
+                  that the statutory language of Section 1542 of the California
+                  Civil Code may apply to their respective releases as set forth
+                  in this Plan, but nonetheless elect to waive any rights which
+                  they may have under said Civil Code Section. Any election, and
+                  this Plan, shall be deemed executed voluntarily by the parties
+                  thereto with full knowledge of their significance and legal
+                  effect.
+
+                  8.4.5.   Continuation of Litigation Against Non-Settling D&O
+                  and Certain Other Parties.
+
+                           (a)      On and after the Confirmation Date, and
+                  until the Effective Date, the Ad Hoc Committee shall be
+                  designated as estate representative under Bankruptcy Code
+                  Section 1123, with authority to commence, prosecute and
+                  compromise any of the Non-Settled D&O Actions; provided,
+                  however, that the Ad Hoc Committee shall have no obligation to
+                  commence any such actions.
+
+                           (b)      On the Effective Date, the Designated
+                  Derivative Shareholder shall be designated as estate
+                  representative under Bankruptcy Code Section 1123, with
+                  authority to commence, prosecute and compromise the
+                  Non-Settled D&O Actions. No person other than the Designated
+                  Derivative Shareholder shall have any standing to prosecute
+                  any of the Non-Settled D&O Actions. All Non-Settled D&O
+                  Actions are hereby deemed to be derivative actions.
+
+                           (c)      Any recovery in the Non-Settled D&O Actions
+                  (less all collection costs including fees of counsel
+                  (including contingency fees, if any)) shall be turned over to
+                  Reorganized SeraCare.
+
+                           (d)      The Designated Derivative Shareholder shall
+                  select counsel to pursue the Non-Settled D&O Actions, and more
+                  than one such counsel may be selected. Counsel selected shall
+                  be paid on a contingency basis not to exceed payment of 33% of
+                  any recovery plus all out-of-pocket expenditures; provided,
+
+                                      -18-
+<PAGE>
+
+                  however, that the Designated Derivative Shareholder shall be
+                  empowered to negotiate a lower fee. Counsel selected shall
+                  either be: (i) one or more of the counsel who originally filed
+                  derivative actions against the directors and officers of the
+                  Debtor and/or (ii) other counsel approved after motion field
+                  by the Designated Derivative Shareholder with the Bankruptcy
+                  Court, with notice to all parties having filed notices of
+                  appearance in the Case prior to the Effective Date.
+
+                           (e)      The Ad Hoc Committee (acting pursuant to
+                  clause (a)) and the Designated Derivative Shareholder shall
+                  not be liable for any action or inaction on their part
+                  relating to any of the Non-Settled D&O Actions, except in the
+                  case of gross negligence or bad faith.
+
+       Section 8.5.        Recognition of Beneficial Ownership of Shares. Except
+as expressly provided herein, for all purposes under this Plan, holders of the
+ultimate beneficial interest in Common-Stock Interests of the Debtor shall be
+treated as the holders of such Interests.
+
+       Section 8.6.        Revesting of Assets. All transfers between any of the
+Debtor, the Estate and Reorganized SeraCare shall be free and clear of all
+liens, claims, encumbrances and interests and the assets of the Estate shall be
+deemed to vest or revest in Reorganized SeraCare, as appropriate, free and clear
+of all liens, claims, encumbrances and interests of all Persons.
+
+       Section 8.7.        Substantial Consummation of Plan. This Plan shall be
+deemed substantially consummated pursuant to Bankruptcy Code Section 1101(2)
+upon the occurrence of all of the matters set forth in Sections 8.2-8.7. At such
+time, the Joint Plan Proponents shall declare the Effective Date to have
+occurred, and shall file with the Court, in the Case, a notice of such
+occurrence.
+
+       Section 8.8.        Retention of Causes of Action. Pursuant to Bankruptcy
+Code Section 1123(b)(3)(B), as of the Effective Date all causes of action of the
+Debtor and its Estate against any Person (excluding causes of action released by
+this Plan), shall vest in Reorganized SeraCare except for the Non-Settled D&O
+Actions, which are vested in the Designated Derivative Shareholder.
+
+       Section 8.9.        Exemption from Securities Registration. All of the
+Reorganized SeraCare Common Stock, except such stock that is issued to the
+Backstop Purchasers other than in respect of their Common-Stock Interests, shall
+be exempt from registration as provided by Section 1145 of the Bankruptcy Code,
+unless the holder is an underwriter as defined in Section 1145.
+
+       Section 8.10.       Exemption from Certain Transfer Taxes. Pursuant to,
+and to the fullest extent permitted by, Bankruptcy Code Section 1146(c): (i) the
+issuance, transfer or exchange of any securities, instruments or documents; (ii)
+the creation of any other lien, mortgage, deed of trust or other security
+interest; or (iii) the making or assignment of any lease or the making or
+delivery of any deed or other instrument of transfer under, pursuant to, in
+furtherance of or in connection with, this Plan, including any deeds, bills of
+sale or assignments executed in connection with this Plan or the Confirmation
+Order shall not be subject to any stamp tax, transfer tax, intangible tax,
+recording fee, or similar tax, charge or expense.
+
+                                      -19-
+<PAGE>
+
+       Section 8.11.       Implementation and Carrying Out the Plan. The Debtor,
+Reorganized SeraCare, and the Designated Derivative Shareholder are hereby
+authorized and directed to take all reasonably necessary or reasonably desirable
+steps, including any steps requested by the Joint Plan Proponents, to execute
+any documents and perform all reasonably necessary or reasonably desirable acts,
+to consummate the terms and conditions of this Plan on the Effective Date. On or
+before the Voting Record Date, the Joint Plan Proponents may file with the
+Bankruptcy Court such agreements and other documents as may be reasonably
+necessary or reasonably desirable to effectuate or further evidence the terms
+and conditions of this Plan and the Plan Documents. Pursuant to Delaware General
+Corporation Law Section 303 and California Corporation Code Section 1400, all
+terms of and actions contemplated by this Plan, and all transactions
+contemplated thereby, may be put into effect and carried out without the
+directors, officers or shareholders of the Debtor or Reorganized SeraCare taking
+any further action.
+
+       Section 8.12.       Plan as Compromise and Settlement. This Plan is a
+compromise and settlement of various claims and disputes in and relating to the
+Case, and is being approved and authorized pursuant to Bankruptcy Rule 9019.
+
+                                  ARTICLE IX.
+                               THE RIGHTS OFFERING
+
+       Section 9.1.        Issuance of Subscription Rights. Each holder of a
+Common-Stock Interest that was a holder as of the Rights Offering Record Date
+shall receive Subscription Rights entitling such holder to purchase its Pro Rata
+Share, out of all outstanding and issued Common-Stock Interests as of the Rights
+Offering Record Date, of 4,250,000 shares of Reorganized SeraCare Common Stock.
+All Reorganized SeraCare Common Stock issued pursuant to the Rights Offering
+shall be issued on the Effective Date or as soon thereafter as is practicable.
+Holders of Common-Stock Interests, as of the Rights Offering Record Date, shall
+have the right, but not the obligation, to participate in the Rights Offering as
+provided herein.
+
+       Section 9.2.        Subscription Period. The Rights Offering shall
+commence as of the Solicitation Date. Each holder of a Common-Stock Interest
+intending to participate in the Rights Offering must affirmatively elect to
+exercise its Subscription Rights on or prior to the Subscription Expiration
+Date. Valid elections to participate in the Rights Offering shall be
+irrevocable. A holder of Common-Stock Interests may elect to participate in the
+Rights Offering with respect to all or any portion of such holder's Common-Stock
+Interests. After the Subscription Expiration Date, unexercised Subscription
+Rights with respect to the Rights Offering shall be treated as shares to be
+purchased by the Backstop Purchasers pursuant to the Backstop Commitment
+Letters, and any exercise of such Subscription Rights shall be null and void and
+any such purported exercise received by the Rights Offering Agent after the
+Subscription Expiration Date shall not be honored, regardless of when the
+documents relating to such exercise were sent. The Backstop Purchasers have
+agreed to participate in the Rights Offering with respect to all Common-Stock
+Interests held by them as of the Rights Offering Record Date.
+
+       Section 9.3.        Subscription Purchase Price. Each holder of a
+Subscription Right shall be required to pay, on or prior to the Subscription
+Expiration Date, the Subscription Purchase Price.
+
+                                      -20-
+<PAGE>
+
+       Section 9.4.        Exercise of Subscription Rights.
+                           -------------------------------
+
+                           (a)      In order to exercise Subscription Rights,
+                  each holder of a Common-Stock Interest must: (a) be a holder
+                  of such Common-Stock Interest as of the Rights Offering Record
+                  Date, (b) return a duly completed Subscription Form to the
+                  Rights Offering Agent or, in the case of Common-Stock
+                  Interests held through a bank or brokerage firm, arrange for
+                  such firm to affect their subscription through DTC, so that
+                  such form or DTC instruction is actually received by the
+                  Rights Offering Agent on or before the Subscription Expiration
+                  Date and (c) pay to the Rights Offering Agent on or before the
+                  Subscription
+
+                  Expiration Date, or by DTC to the Rights Offering Agent, such
+                  holder's Subscription Purchase Price multiplied by the number
+                  of Rights Offering Shares it seeks to purchase in accordance
+                  with the wire instructions set forth on the Subscription Form
+                  or by bank or cashier's check delivered to the Rights Offering
+                  Agent together with the Subscription Form. The payments made
+                  in accordance with the Rights Offering shall be deposited and
+                  held by the Rights Offering Agent in the Rights Offering Trust
+                  Account until the Effective Date or such other later date, at
+                  the option of Reorganized SeraCare. The Rights Offering Trust
+                  Account will be maintained by the Rights Offering Agent for
+                  the purpose of holding the money for administration of the
+                  Rights Offering. The Rights Offering Agent shall not use such
+                  funds for any other purpose and shall not encumber or permit
+                  such funds to be encumbered with any lien or similar
+                  encumbrance.
+
+                           (b)      If the Rights Offering Agent for any reason
+                  does not receive from a holder of Subscription Rights (or DTC)
+                  both a duly completed Subscription Form or equivalent
+                  instructions from DTC on or prior to the Subscription
+                  Expiration Date, and immediately available funds in an amount
+                  equal to such holder's Subscription Purchase Price on or prior
+                  to the Subscription Expiration Date, or payment by DTC, such
+                  holder shall be deemed to have relinquished and waived its
+                  right to participate in the Rights Offering. Each holder of a
+                  Common-Stock Interest as of the Rights Offering Record Date
+                  intending to participate in the Rights Offering must
+                  affirmatively elect to exercise its Subscription Right(s) on
+                  or prior to the Subscription Expiration Date.
+
+                           (c)      The Joint Plan Proponents may adopt such
+                  additional detailed procedures consistent with the provisions
+                  of this Article IX to more efficiently administer the exercise
+                  of the Subscription Rights.
+
+                           (d)      All questions concerning the timeliness,
+                  viability, form and eligibility of any exercise of
+                  Subscription Rights shall be determined by the Bankruptcy
+                  Court.
+
+       Section 9.5.        Transfer Restriction; Revocation. The Subscription
+Rights are not transferable. Any such transfer or attempted transfer is null and
+void. Once the holder of a Common-Stock Interest has properly exercised its
+Subscription Rights, such exercise will not be permitted to be revoked.
+
+                                      -21-
+<PAGE>
+
+       Section 9.6.        No Interest. No interest shall be paid to entities
+exercising Subscription Rights on account of amounts paid in connection with
+such exercise.
+
+                                   ARTICLE X.
+              TREATMENT OF EXECUTORY CONTRACTS AND UNEXPIRED LEASES
+
+       Section 10.1.       Assumption and Rejection of Executory Contracts and
+Unexpired Leases. On the Effective Date, all executory contracts and unexpired
+leases to which the Debtor is party, and that have not previously been rejected,
+shall be deemed assumed by Reorganized SeraCare; provided, however, that all
+prepetition indemnification agreements and obligations shall be deemed rejected
+as of the Effective Date.
+
+       Section 10.2.       Cure Claims. The Disclosure Statement Order shall
+have provided that counterparties to executory contracts and unexpired leases
+(and other who may have rights) must, not later that the Confirmation Objection
+Deadline, assert claims for the curing of defaults that must be paid in
+accordance with Bankruptcy Code Section 365 ("Cure Claims"), by filing such
+claim in a pleading in the Case. Any Person who has not timely filed a Cure
+Claim with respect to a particular executory contract or unexpired lease shall
+have no Cure Claim with respect to such executory contract or unexpired lease.
+Objections to Cure Claims may be filed by the Ad Hoc Committee, the Debtor or
+Reorganized SeraCare, and may be filed at any time up to the 30th day after the
+Effective Date. The Bankruptcy Court shall determine any disputes over Cure
+Claims.
+
+       Section 10.3.       Cure Amounts. Any Cure Claim with respect to
+executory contracts or unexpired leases being assumed under Section 10.1 shall
+be made on the later of (i) the Effective Date or (ii) the date on which the
+amount of any Cure Claim that has been timely objected to has been determined by
+the Bankruptcy Court pursuant to a Final Order.
+
+       Section 10.4.       Rejection Damages Claims. Any proof of claim with
+respect to any executory contract rejected pursuant to this Plan shall be filed
+not later than the 30th date after the Effective Date; and proof of claim for
+such rejection damages not filed by such date shall be disallowed and
+permanently barred.
+
+                                   ARTICLE XI.
+                                  DISTRIBUTIONS
+
+       Section 11.1.       Disbursing Agent. The Disbursing Agent may employ or
+contract with other entities to assist in or make the distributions required by
+this Plan. The Disbursing Agent shall serve without bond.
+
+       Section 11.2.       Distribution Record Date. With respect to holders of
+all General Unsecured Claims against the Debtors, on the Distribution Record
+Date, the claims register shall be closed. The Debtors and the Reorganized
+Debtors shall have no obligation to recognize any transfer of any Claims
+occurring after the close of business after such date.
+
+                                      -22-
+<PAGE>
+
+       Section 11.3.       Timing of Disbursement of Property. Property to be
+distributed hereunder to holders of Allowed Claims and Interests shall be
+distributed on or as soon as reasonably practicable after the latest of (a) the
+Effective Date or (b) the date the Order of the Bankruptcy Court allowing such
+Claim becomes a Final Order, including any Final Orders governing fee
+applications.
+
+       Section 11.4.       No Fractional Distributions No fractional shares of
+New Common Stock shall be distributed and no Cash shall be distributed in lieu
+of such fractional shares. When any distribution pursuant to the Plan on account
+of an Allowed Claim would otherwise result in the issuance of a number of shares
+of New Common Stock that is not a whole number, the actual distribution of
+shares of New Common Stock shall be rounded as follows: (a) fractions of
+one-half (1/2) or greater shall be rounded to the next higher whole number and
+(b) fractions of less than one-half (1/2) shall be rounded to the next lower
+whole number with no further payment therefor. The total number of authorized
+shares of New Common Stock to be distributed to holders of Allowed Claims shall
+be adjusted as necessary to account for the foregoing rounding.
+
+       Section 11.5.       Cash Payments. Any Cash payments made pursuant to
+this Plan will be made in U.S. dollars. Cash payments made pursuant to this Plan
+in the form of check shall be null and void if not cashed within 90 days of the
+date of issuance thereof.
+
+       Section 11.6.       Delivery of Distributions. Subject to Bankruptcy Rule
+9010, distributions to holders of Allowed Claims under this Plan shall be made
+to the address of such holder listed on any proof of claim filed by such holder,
+or if such holder did not file a proof of claim, the address listed for such
+holder on the Debtor's Schedules or Statement of Financial Affairs filed in the
+Case, and amended, supplemented or modified. Subject to Section 11.7,
+undeliverable distributions shall remain in the possession of the Disbursing
+Agent, as applicable.
+
+       Section 11.7.       Surrender of Common-Stock Interests. Each holder of
+Common-Stock Interests shall surrender such Interests to the Disbursing Agent,
+or in the event such Interests are held in the name of, or by a nominee of, DTC,
+the Disbursing Agent shall seek the cooperation of DTC to provide appropriate
+instructions to the Disbursing Agent. No distributions under the Plan shall be
+made for or on behalf of any such holder unless and until such Interest is
+received by the Disbursing Agent or appropriate instructions from DTC shall be
+received by the Disbursing Agent, or the loss, theft or destruction of such
+Interest is established to the reasonable satisfaction of the Disbursing Agent,
+which satisfaction may require such holder to submit (a) a lost instrument
+affidavit and (b) an indemnity bond holding the Debtor, Reorganized Debtor,
+Disbursing Agent and Transfer Agent harmless in respect of such Interest and any
+distributions made in respect thereof. Upon compliance with this Section by a
+holder of any Interest, such holder shall, for all purposes under the Plan be
+deemed to have surrendered such interest. Any holder of Common-Stock Interests
+that fails to surrender such Interest or satisfactorily explain its
+non-availability to the Disbursing Agent within six (6) months of the Effective
+Date shall be deemed to have no further Interest in the Debtor and the
+Reorganized Debtor (or their property) or the Disbursing Agent in respect of
+such Interest and shall not participate in any distribution under the Plan. All
+property in respect of such forfeited distributions, including interest thereon,
+shall revert to the Reorganized Debtor.
+
+                                      -23-
+<PAGE>
+
+       Section 11.8.       Withholding Taxes. The Debtor or the Disbursing
+Agent, as the case may be, shall be entitled, but shall have no obligation, to
+deduct any federal, state or local withholding taxes from any payments or
+distributions made with respect to Allowed Claims, as reasonably appropriate.
+All entities holding Allowed Claims shall be required to provide any information
+reasonably requested to effect the withholding of such taxes.
+
+       Section 11.9.       Unclaimed Property. Any Person who fails to claim any
+Cash, Reorganized SeraCare Common Stock or any options being issued to Class 8
+Interest Holders to be distributed hereunder within six (6) months from the
+Effective Date shall forfeit all rights to any such distributions and any
+further distributions under this Plan. Upon forfeiture, such Cash (including
+interest thereon) or interests shall be retained by Reorganized SeraCare.
+Nothing herein shall require the Debtor, Reorganized SeraCare or the Disbursing
+Agent to attempt to locate or notify any Person with respect to any forfeited
+property. Persons who fail to claim Cash or Interests timely shall forfeit their
+rights thereto and shall have no claim whatsoever with respect thereto against
+the Debtor, Reorganized SeraCare, the Disbursing Agent or any holder of an
+Allowed Claim or Allowed Interest to which distributions are made.
+
+       Section 11.10.      Disputed Claims. If the Debtor or any other party in
+interest disputes any Claim or Interest, such dispute shall be determined,
+resolved or adjudicated, as the case may be, under applicable law by the
+Bankruptcy Court. Among other things, the Debtor, Reorganized SeraCare, the Ad
+Hoc Committee and the Designated Derivative Shareholder (with respect to any
+claims of any defendant in the Non-Settled D&O Actions) may each elect, at their
+respective sole option, to object to or seek estimation under Bankruptcy Code
+Section 502 with respect to any proof of Claim or Interest filed by or on behalf
+of a holder of a Claim or Interest and that is not Allowed pursuant to this
+Plan.
+
+       Section 11.11.      Objections to Claims and Interests. After the
+Confirmation Date no party in interest shall have the right to object to Claims
+against or Interests in the Debtor other than the Reorganized SeraCare, the Ad
+Hoc Committee and the Designated Derivative Shareholder, each of which shall be
+deemed to have standing to object to all such Claims and Interests (except the
+Designated Derivative Shareholder, who shall be limited to objections with
+respect to any claims of any defendant in the Non-Settled D&O Actions), and such
+objections (including subordination) are preserved except as against Claims
+Allowed in this Plan. All claims objections shall be filed not later than the
+sixtieth day after the Effective Date, or shall be forever barred.
+
+       Section 11.12.      No Distributions Pending Allowance. No payments or
+distributions shall be made on account of any Claim or Interest, including a
+Disputed Claim or Interest, until such Claim becomes an Allowed Claim or
+Interest; provided, however, that a holder of a Disputed Common-Stock Interest
+shall be permitted to fully participate in the Rights Offering.
+
+       Section 11.13.      Post-Confirmation Reports and Fees. Reorganized
+SeraCare shall be responsible for the filing of all post-confirmation reports
+with the Office of the United States Trustee and payment of all
+post-confirmation fees charged or assessed against the Debtor's estate under 28
+U.S.C. ss. 1930.
+
+                                      -24-
+<PAGE>
+
+                                  ARTICLE XII.
+                   CONDITIONS TO CONFIRMATION AND CONSUMMATION
+
+       Section 12.1.       Conditions to Confirmation.
+                           --------------------------
+
+                  12.1.1.  There shall be a Final Order of the Bankruptcy Court
+         approving the Disclosure Statement;
+
+                  12.1.2.  There shall be a Final Order of the Bankruptcy Court
+         providing that the Estimated amount of the Class Action Class 6B Claim
+         is equal to or less than $1,000,000.
+
+                  12.1.3.  There shall be a Final Order of the Bankruptcy Court
+         (including any agreed orders with respect to the Electing D&O)
+         disallowing all indemnification and contribution claims;
+
+                  12.1.4.  The total amount of all Allowed and Disputed Class 5
+         Claims shall not exceed $11,000,000.
+
+       Section 12.2.       Conditions to Effective Date.
+                           ----------------------------
+
+                  12.2.1.  The Bankruptcy Court shall have entered the
+         Confirmation Order, the Confirmation Order shall be a Final Order, and
+         shall be in form and substance reasonably acceptable to the Joint Plan
+         Proponents;
+
+                  12.2.2.  All authorizations, consents and regulatory approvals
+         required, if any, in connection with the Plan's effectiveness, shall
+         have been obtained;
+
+                  12.2.3.  No court shall have entered an order restraining the
+         consummation of this Plan;
+
+                  12.2.4.  The Subscription Period shall have passed and the
+         Rights Offering shall have been consummated;
+
+                  12.2.5.  Each of the Plan Documents shall have been executed
+         and delivered as contemplated by this Plan, and any funding required
+         under such documents to be delivered on the Effective Date shall have
+         been delivered; and
+
+                  12.2.6.  All corporate matters necessary to effect the
+         transactions contemplated by this Plan shall have been completed, in
+         form and substance reasonably satisfactory to the Joint Plan
+         Proponents, including execution and delivery of the Plan Documents.
+
+       Section 12.3.     Waiver of Conditions. The Joint Plan Proponents may
+together waive any conditions to Confirmation or the Effective Date, in whole or
+in part; provided, however, that the Ad Hoc Committee may waive, in its sole
+discretion, any condition that any order be a Final Order.
+
+                                      -25-
+<PAGE>
+
+                                 ARTICLE XIII.
+                            RETENTION OF JURISDICTION
+
+                  Following Confirmation and until such time as all payments and
+distributions required to be made and all other obligations required to be
+performed under this Plan have been made and performed, the Bankruptcy Court
+shall retain jurisdiction as is legally permissible, including for the following
+purposes:
+
+       Section 13.1.       Claims and Interests. To determine the allowability,
+classification, or priority of Claims against and Interests in the Debtor not
+otherwise resolved by allowance, disallowance or estimation by this Plan or the
+Confirmation Order;
+
+       Section 13.2.       Injunction, etc. To issue injunctions or take such
+other actions or make such other orders as may be necessary or appropriate to
+restrain interference with the Plan or its execution or implementation by any
+Person, to construe and to take any other action to enforce and execute the
+Plan, including, but not limited to, the Confirmation Order or any other order
+of the Bankruptcy Court, to issue such orders as may be necessary for the
+implementation, execution, performance and consummation of the Plan and all
+matters referred to herein, and to determine all matters that may be pending
+before the Bankruptcy Court in the Case on or before the Effective Date with
+respect to any Person;
+
+       Section 13.3.       Fees. To determine any all applications for allowance
+of compensation and expense reimbursement of Professionals for periods on or
+before the Effective Date;
+
+       Section 13.4.       Dispute Resolution. To resolve any dispute arising
+under or related to the implementation, execution, consummation or
+interpretation of the Plan and the making of distributions hereunder;
+
+       Section 13.5.       Leases and Executory Contracts. To determine any and
+all disputes regarding Cure Claims, and any disputes regarding the ability of
+the Debtor to assume any executory contracts or unexpired leases pursuant to
+Section 10.1;
+
+       Section 13.6.       Actions. To determine all applications, motions,
+adversary proceedings (including the D&O Adversary and all other Non-Settled D&O
+Actions), contested matters, actions, and any other litigated matters instituted
+prior to the closing of the Case, including any remands;
+
+       Section 13.7.       General Matters. To determine such other matters, and
+for such other purposes, as may be provided in the Confirmation Order or as may
+be authorized under provisions of the Bankruptcy Code, Bankruptcy Rules or Local
+Bankruptcy Rules;
+
+       Section 13.8.       Plan Modification. To modify the Plan under
+Bankruptcy Code Section 1127 in order to remedy any defect, cure any omission,
+or reconcile any inconsistency in the Plan, the Confirmation Order or the Plan
+Documents so as to carry out the Plan's intent and purposes;
+
+                                      -26-
+<PAGE>
+
+       Section 13.9.       Aid Consummation. To issue such orders in aid of
+consummation of the Plan and the Confirmation Order notwithstanding any
+otherwise applicable non-bankruptcy law, with respect to any Person, to the full
+extent authorized by the Bankruptcy Code;
+
+       Section 13.10.      Implementation of Confirmation Order. To enter and
+implement such orders as may be appropriate in the event the Confirmation Order
+is for any reason stayed, revoked, modified or vacated;
+
+       Section 13.11.      Resolve Disputes. To resolve any disputes concerning
+whether a Person had sufficient notice of the Case, the Disclosure Statement
+hearing, or the Confirmation Hearing, for any purpose;
+
+       Section 13.12.      Determine Tax Liability. To determine any tax
+liability pursuant to section 505 of the Bankruptcy Code;
+
+       Section 13.13.      Orders. To resolve any dispute or matter arising
+under or in connection with any order of the Bankruptcy Court entered in the
+Case;
+
+       Section 13.14.      Final Order. To enter Final Orders closing the Case;
+and
+
+       Section 13.15.      Other. To determine such other matters as may be set
+forth in the Confirmation Order or as may arise in connection with the Plan,
+Confirmation Order and/or any other agreement or transaction entered into
+pursuant to or in connection with this Plan.
+
+                                  ARTICLE XIV.
+                            MISCELLANEOUS PROVISIONS
+
+       Section 14.1.       Pre-Confirmation Modification. This Plan may be
+altered, amended or modified jointly by the Joint Plan Proponents, before the
+Confirmation Date, as provided in Bankruptcy Code Section 1127.
+
+       Section 14.2.       Post-Confirmation Immaterial Modification. The Joint
+Plan Proponents may, without notice to all holders of Claims and Interests,
+insofar as it does not materially and adversely affect the interest of holders
+of Claims or Interests, jointly correct any defect, omission or inconsistency in
+this Plan in such manner and to such extent as may be necessary to expedite the
+execution of this Plan.
+
+       Section 14.3.       Post-Confirmation Material Modification. This Plan
+may be altered or amended after the Confirmation Date with the consent of the
+Joint Plan Proponents in a manner which, in the opinion of the Bankruptcy Court,
+materially and adversely affects holders of Claims, provided that such
+alteration or modification is after a hearing as provided in Bankruptcy Code
+Section 1127.
+
+       Section 14.4.       Withdrawal of Plan. The Joint Plan Proponents may,
+upon mutual agreement, withdraw this Plan in their discretion. Either of the
+Joint Plan Proponents may unilaterally withdraw this Plan in the event that such
+Joint Plan Proponent terminates the Plan Support Agreement.
+
+                                      -27-
+<PAGE>
+
+       Section 14.5.       Duties of Disbursing Agent and the Designated
+Derivative Shareholder. The duties of the Disbursing Agent are only as herein
+specifically provided and are purely ministerial in nature.
+
+                  14.5.1.  The Disbursing Agent and the Designated Derivative
+         Shareholder shall incur no liability whatsoever for any action taken,
+         or failure to act, except for its own gross negligence or willful
+         misconduct.
+
+                  14.5.2.  In the performance of its duties hereunder, the
+         Disbursing Agent and the Designated Derivative Shareholder shall be
+         entitled to rely on any document, instrument or signature reasonably
+         believed to be genuine.
+
+                  14.5.3.  The Disbursing Agent and the Designated Derivative
+         Shareholder may assume that any party purporting to give any notice in
+         writing has been duly authorized to do so.
+
+       Section 14.6.       Statutory Committees. Upon the Effective Date, any
+official committees appointed in the Case shall be dissolved.
+
+       Section 14.7.       Successors and Assigns. The rights, benefits and
+obligations of any Person named or referred to in the Plan shall be binding on,
+and shall inure to the benefit of, the heirs, executors, administrators,
+successors and/or assigns of such Person.
+
+       Section 14.8.       Governing Law. Except to the extent that the
+Bankruptcy Code is applicable, the rights and obligations arising under this
+Plan shall be governed by and construed and endorsed in accordance with the laws
+of the State of California, without giving effect to any conflicts principles
+that would require the application of the law of another jurisdiction.
+
+       Section 14.9.       Notices. All notices, requests or demands for
+payments provided for in this Plan shall be in writing and shall be deemed to
+have been given (a) when personally delivered by hand, or (b) when received by
+courier service or telecopier. Notices and requests shall be addressed and sent,
+postage prepaid or delivered, to:
+
+To the Debtor:
+
+Susan Vogt
+Chief Executive Officer
+SeraCare Life Sciences, Inc.
+375 West Street
+West Bridgewater, Massachusetts 02379
+
+Paul Couchot
+Winthrop Couchot, PC
+660 Newport Center Drive
+Newport Beach, California 92660
+
+                                      -28-
+<PAGE>
+
+To the Ad Hoc Committee:
+
+Mark Bane
+Ropes & Gray LLP
+45 Rockefeller Center
+New York, New York, 10045
+
+D. Ross Martin
+Ropes & Gray LLP
+One International Place
+Boston, Massachusetts 02110
+
+Thomas E. Patterson
+Klee Tuchin Bogdanoff & Stern LLP
+2121 Avenue of the Stars
+Los Angeles, California 90067
+
+or to any other address designated by the foregoing by notices to all parties of
+interest who have filed a notice of appearance (which has not been withdrawn)
+pursuant to Rule 2002 of the Bankruptcy Rules.
+
+       Section 14.10.      Severability. Except as to terms which would
+frustrate the overall purpose of this Plan, should any provision in this Plan be
+determined to be unenforceable, such determination shall in no way limit or
+affect the enforceability and operating effect of any or all other provisions of
+this Plan.
+
+       Section 14.11.      Confirmation Order. The Confirmation Order shall
+ratify all transactions effected by the Debtor during the period commencing on
+the Petition Date and ending on the Confirmation Date except for any acts
+constituting willful misconduct, gross negligence, or fraud.
+
+       Section 14.12.      Final Orders. The Ad Hoc Committee may, in its sole
+discretion, waive any requirement in the Plan for a Final Order.
+
+       Section 14.13.      No Admissions. Notwithstanding anything herein to the
+contrary, nothing contained in the Plan or the Disclosure Statement shall be
+deemed as an admission by the Joint Plan Proponents with respect to any matter
+set forth herein, including, without limitation, any liability on or treatment
+of any Claim, or the propriety of a Claim's classification.
+
+       Section 14.14.      Binding Effect. The Plan shall be binding upon and
+inure to the benefit of the Debtor, creditors, holders of equity interests, and
+their respective successors and assigns.
+
+
+                                      -29-
+<PAGE>
+
+                                    SERACARE LIFE SCIENCES, INC.
+
+
+ Dated:  November 10, 2006          /s/ SUSAN L. N. VOGT
+ West Bridgewater, Massachusetts    --------------------------------------------
+                                    By:    Susan L. N. Vogt
+                                    Title: President and Chief Executive Officer
+
+
+
+                                    AD HOC EQUITY COMMITTEE
+                                    OF SERACARE LIFE SCIENCES, INC.
+
+                                    By its authorized attorneys,
+                                    ROPES & GRAY LLP
+
+ Dated:  November 10, 2006          /s/ D. ROSS MARTIN
+ New York, New York                 --------------------------------------------
+                                    By:    D. Ross Martin
+                                    Title: Member of the firm
+
+
+</TEXT>
+</DOCUMENT>

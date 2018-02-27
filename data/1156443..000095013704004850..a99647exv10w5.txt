@@ -1,0 +1,684 @@
+<DOCUMENT>
+<TYPE>EX-10.5
+<SEQUENCE>3
+<FILENAME>a99647exv10w5.txt
+<DESCRIPTION>EXHIBIT 10.5
+<TEXT>
+<PAGE>
+
+                                                                    EXHIBIT 10.5
+
+                           SUMMIT ENERGY VENTURES, LLC
+
+              RESTRUCTURING AND TERMINATION OF MEMBERSHIP AGREEMENT
+
+      This Agreement (this "Agreement") is entered into and effective as of
+April 30, 2004, by and among Summit Energy Ventures LLC, a Delaware limited
+liability company ("Summit"), Commonwealth Energy Corporation, a California
+corporation ("Commonwealth"), Steven Strasser, in his individual capacity
+("Strasser"), and Northwest Power Management, Inc., a Washington corporation
+("Investment Manager") (collectively, the "Parties").
+
+                                R E C I T A L S:
+
+      A. Summit owns (i) 3,000,542 shares of pre-merger Series C Preferred Stock
+and 545,557 shares of Common Stock of Envenergy, Inc., a Delaware corporation
+("Envenergy") which will be converted into shares of Common Stock of Encorp,
+Inc., a Delaware corporation ("Encorp"), upon the completion of the merger of
+Envenergy and Encorp (the "Envenergy Interest"), (ii) 256 shares of Turbocorp
+B.V., a private company with limited liability incorporated under the laws of
+The Netherlands ("Turbocorp B.V."), after the issues of shares currently being
+completed (the "Turbocorp Interest"), and (iii) assuming conversion of all
+preferred shares, 5,902,951 shares of common stock and common stock equivalents
+of Power Efficiency Corporation, a Delaware corporation ("Power Efficiency"), as
+described in detail in Schedule X attached.
+
+      B. Summit is governed by the Limited Liability Company Agreement of Summit
+Energy Ventures, LLC, dated June 29, 2001, as amended by the First Amendment to
+the Limited Liability Company Agreement of Summit Energy Ventures, LLC on August
+1, 2001 and by the Second Amendment to the Limited Liability Company Agreement
+of Summit Energy Ventures, LLC on February 27, 2002 (the "LLC Agreement").
+Immediately prior to giving effect to this Agreement, CEC and Strasser
+constitute all of the members of Summit.
+
+      C. The Parties now desire to restructure the ownership of Summit and to
+redeem and distribute the membership interest of Commonwealth, as specifically
+set forth below (collectively, the "Restructuring").
+
+      NOW, THEREFORE, in consideration of the promises and covenants set forth
+herein, and for other good and valuable consideration, the receipt and
+sufficiency of which are hereby acknowledged, the Parties hereby agree as
+follows:
+
+      1. DEFINED TERMS. Any capitalized terms used in this Agreement and not
+specifically defined in this Agreement shall have the meanings given such terms
+in the LLC Agreement.
+
+<PAGE>
+
+      2. CLOSING DATE. The Restructuring shall be deemed to be effective as of
+12:01 a.m. Pacific Daylight Savings Time on the date of closing, which shall
+take place as soon as practicable after the conditions set forth herein have
+been satisfied (the "Closing Date").
+
+      3. COMPLETE REDEMPTIONS; POWER EFFICIENCY NOTE.
+
+            (a) Effective as of the Closing Date, Commonwealth (the "Redeeming
+      Member") hereby unconditionally and irrevocably surrenders its entire
+      right, title and interest in and to such Redeeming Member's Preferred
+      Membership Interests and Common Membership Interests (as such terms are
+      defined in the LLC Agreement) in Summit (such Redeeming Member's "Redeemed
+      Interest"), including all rights and benefits of such Redeeming Member as
+      a member of Summit, or as the assignee or other holder of an interest in
+      Summit, and such Redeeming Member hereby retires and withdraws from
+      Summit. From and after the Closing Date, the Redeeming Member shall have
+      no further rights or interests in Summit as a member thereof or otherwise,
+      including but not limited to any interest in the Net Profits, Net Losses,
+      Net Cash Flow, Net Capital Cash Proceeds, Cash Available for Distribution,
+      liquidation proceeds or capital of Summit, any right to manage or direct
+      Summit or its affairs, any right to an accounting or other financial or
+      other information with respect to Summit, or any other rights, benefits
+      and interests attributable to such Redeeming Member's status as a member
+      or as an assignee of an interest in Summit, either pursuant to the LLC
+      Agreement or the Limited Liability Company Act of the State of Delaware
+      (the "LLC Act"). Without limiting the foregoing, Commonwealth hereby
+      withdraws as a member of Summit, effective as of the Closing Date.
+
+            (b) As consideration for the redemption of the Redeeming Member's
+      Redeemed Interest, Summit hereby unconditionally and irrevocably assigns
+      to the Redeeming Member, effective as of the Closing Date and subject to
+      Subsection 3(c) hereof, Summit's entire right, title and interest in (i)
+      the Envenergy Interest, (ii) the Turbocorp Interest, (iii) 1,747,587
+      shares of convertible preferred stock and 1,645,404 shares of Common Stock
+      of Power Efficiency (the "PEC Shares"); and (iv) all of the cash owned by
+      Summit on the Closing Date (the "Closing Date Cash Balance") less (y)
+      $1,400,000; and (z) (A) any accrued and unpaid accounting, audit and legal
+      fees incurred by Summit in accordance with the terms of the LLC Agreement
+      relating to the operations of the business of Summit prior to the Closing
+      Date, and (B) all legal fees incurred in connection with the Restructuring
+      in an aggregate amount not to exceed $10,000 and accounting fees incurred
+      in connection with the Restructuring (collectively, the "Fees").
+
+            (c) Effective as of the Closing Date and as soon as practicable
+      thereafter, Summit shall (i) assign to the Redeeming Member the Envenergy
+      Interest, the Turbocor Interest, and the PEC Shares and (ii) transfer to
+      the Redeeming Member the Closing Date Cash Balance less (y) $1,400,000 and
+      (z) payment of and provision for the Fees.
+
+            (d) Reference is made to the loan advanced or to be advanced by
+      Summit to Power Efficiency in the maximum aggregate principal amount of
+      $300,000, evidenced by a note of Power Efficiency in favor of Summit dated
+      April 20, 2004, (the "PE Note"). As additional consideration for the
+      redemption, Summit agrees that it will assign,
+
+                                       2
+
+<PAGE>
+
+      without recourse, its entire interest in the PE Note and all security
+      therefor to Commonwealth as of May 31, 2004, if the PE Note is not paid in
+      full prior to this date. Any payments of principal and interest on the PE
+      Note made by Power Efficiency on or before May 31, 2004 will be paid by
+      Strasser, Northwest Power Management and/or Summit to Commonwealth.
+
+      4. ADMISSION OF NEW MEMBER. By execution of this Agreement, each Party
+hereby approves the admission of John Lackland ("Lackland") as a member of
+Summit, and Lackland is hereby admitted as a member of Summit, effective as of
+the Closing Date. From and after the Closing Date, Lackland shall have all of
+the rights of a member with respect to Summit as provided under the LLC
+Agreement and the LLC Act. As consideration for being admitted as a member of
+Summit, concurrently with the execution of this Agreement, Lackland shall
+advance cash in the amount of $2,000 to Summit as a contribution to the capital
+of Summit, which amount shall not be included in the Capital. In addition to the
+rights of Lackland as a member of Summit as described above, Lackland shall have
+such economic interests and other rights, subject to such obligations, as shall
+be set forth in the LLC Agreement.
+
+      5. LLC AGREEMENT AMENDED. To the extent that the provisions of this
+Agreement change the ownership or governance of Summit or any other provision of
+the LLC Agreement as currently in effect, the Parties agree that the LLC
+Agreement is hereby amended to give full effect to all of the provisions of this
+Agreement. Without limiting the immediately preceding sentence, effective as of
+the Closing Date, (i) Commonwealth hereby withdraws as a member of Summit and
+(ii) Lackland is hereby admitted as a member of Summit owning five hundredths of
+one percent (0.05%) of the Common Membership Interests. The Investment Committee
+and the Investment Manager hereby approve such withdrawal and admission pursuant
+to the LLC Agreement. The LLC Agreement as amended by this Section 5 shall
+govern the operation of Summit until such time as Lackland, Strasser and Summit
+(with their respective successors or assigns) enter into a Restated LLC
+Agreement. Each party to this Agreement agrees to execute and deliver such other
+documents or instruments as any party hereto may reasonably determine to be
+necessary or advisable to effect and evidence the provisions of this Section 5.
+
+      6. RESIGNATION OF INVESTMENT COMMITTEE. Effective as of the Closing Date,
+the current members of the Summit Investment Committee shall resign their
+positions.
+
+      7. REPRESENTATIONS AND WARRANTIES OF REDEEMING MEMBER. The Redeeming
+Member hereby represents and warrants to Summit, Strasser and the Investment
+Manager that as of the date hereof:
+
+            (a) The Redeeming Member is a corporation, duly organized, validly
+      existing and in good standing under the laws of the State of California
+      and has full power and authority under applicable law to own its
+      properties and to carry on its business as now being conducted, and is
+      duly authorized and has full power and authority to execute and deliver
+      this Agreement and consummate the transactions contemplated by this
+      Agreement.
+
+                                       3
+
+<PAGE>
+
+            (b) The Redeeming Member is the legal and beneficial owner of its
+      Redeemed Interest and has good and marketable title to its Redeemed
+      Interest, free and clear of any and all liens, claims, equities, security
+      interests, encumbrances, options, charges and restrictions of any nature
+      whatsoever except as may exist pursuant to the LLC Agreement and this
+      Agreement.
+
+            (c) The Redeeming Member's execution and delivery of this Agreement
+      and the performance of its obligations hereunder will not result in the
+      breach of or a default under any agreement, contract, commitment,
+      indenture, bond, license or other obligation to which such Redeeming
+      Member is a party or by which such Redeeming Member or any of its assets
+      may be bound or affected, nor violate any law, statute, rule, regulation
+      nor any order, writ or decree of any court.
+
+            (d) The Redeeming Member is acquiring the Envenergy Interest, the
+      Turbocorp Interest and the PEC Shares for its own account for investment
+      purposes only and not with a view to, or for resale in connection with,
+      any distribution or public offering of any thereof within the meaning of
+      the United States Securities Act of 1933 and applicable United States
+      state securities laws.
+
+            (e) This Agreement and the provisions hereof are legal, valid and
+      binding against the Redeeming Member in accordance with their terms,
+      except to the extent that enforceability may be limited by applicable
+      bankruptcy, insolvency and other similar laws, by any equitable principles
+      affecting creditors' rights generally, and by the discretion of courts in
+      granting equitable remedies, regardless of whether such enforceability is
+      considered in a proceeding at law or in equity and regardless of whether
+      such limitations are derived from constitutions, statutes, judicial
+      decisions or otherwise.
+
+      8. REPRESENTATIONS AND WARRANTIES OF SUMMIT. Summit, Strasser and the
+Investment Manager (individually and collectively) hereby represent and warrant
+to Commonwealth that as of the date hereof:
+
+            (a) Summit is a limited liability company, duly organized, validly
+      existing and in good standing under the laws of the State of Delaware and
+      has full power and authority under applicable law to own its properties
+      and to carry on its business as now being conducted.
+
+            (b) Summit is the legal and beneficial owner of each of the
+      Envenergy Interest, the Turbocorp Interest, the PEC Shares, and the
+      Closing Date Cash Balance (collectively, the "Redemption Consideration")
+      and has good and marketable title to the Redemption Consideration, free
+      and clear of any and all liens, claims, equities, security interests,
+      encumbrances, options, charges and restrictions of any nature whatsoever,
+      except as provided in the agreements and other documents attached hereto
+      as Exhibits A and B.
+
+            (c) This Agreement and the provisions hereof are legal, valid and
+      binding against Summit, Strasser and the Investment Manager in accordance
+      with their terms, except to the extent that enforceability may be limited
+      by applicable bankruptcy, insolvency and
+
+                                       4
+
+<PAGE>
+
+      other similar laws, by any equitable principles affecting creditors'
+      rights generally, and by the discretion of the courts in granting
+      equitable remedies, regardless of whether such enforceability is
+      considered in a proceeding at law or in equity and regardless of whether
+      such limitations are derived from constitutions, statutes, judicial
+      decisions or otherwise.
+
+            (d) Summit's execution and delivery of this Agreement and the
+      performance of its obligations hereunder will not (i) result in the breach
+      of or a default under any agreement, contract, commitment, indenture,
+      bond, license or other obligation to which Summit is a party or by which
+      Summit or any of its assets may be bound or affected, or (ii) violate any
+      law, statute, rule or regulation applicable to Summit or any order, writ
+      or decree of any court applicable and known to Summit.
+
+            (e) No third party consents are required for Summit to transfer the
+      Redemption Consideration to Commonwealth except for consents which have
+      been obtained or Summit reasonably expects to obtain prior to the Closing
+      Date.
+
+            (f) The Investment Manager has discharged its duties under the LLC
+      Agreement in accordance with the applicable provisions of Article 4 of the
+      LLC Agreement, and applicable law and government regulation, in all
+      material respects; provided, however, that nothing contained in this
+      Section 8(f) or in any other provision of this Agreement shall be deemed
+      to increase the standard of care applicable to, or the related liability
+      of, the Investment Manager (or any related liability of Strasser) beyond
+      that provided in Section 4.7 of the LLC Agreement or alter in any manner
+      whatsoever relating to any provision of such Section 4.7 or Section 4.8 of
+      the LLC Agreement.
+
+            (g) The general ledger records of Summit delivered by Summit to
+      Commonwealth as of May 14, 2004, are accurate and complete in all material
+      respects.
+
+      9. COVENANTS OF COMMONWEALTH. Commonwealth hereby covenants to Summit that
+as of the date hereof:
+
+            (a) Commonwealth agrees to be bound by all agreements relating to
+      Encorp and the Envenergy Interest and Turbocorp B.V. to which Summit is
+      currently a party, including. without limitation, the Articles of
+      Association and Amended and Restated Shareholders Agreement of Turbocorp
+      B.V. Copies of such agreements are attached hereto as Exhibit A.
+
+            (b) Commonwealth further agrees to be bound by the consent and
+      agreement of Summit delivered to PEC dated May 10, 2004, attached hereto
+      as Exhibit B, with respect to the conversion of PEC Series A Preferred
+      Stock.
+
+      10. CONDITIONS TO OBLIGATIONS OF COMMONWEALTH. The obligation of
+Commonwealth to effect the Restructuring shall be subject to the fulfillment on
+or prior to the Closing Date of the following additional conditions, any one or
+more of which may be waived in whole or in part by Commonwealth:
+
+                                       5
+
+<PAGE>
+
+            (a) the Parties will write a mutually agreeable press release
+      describing the Restructuring;
+
+            (b) the Board of Directors of Commonwealth shall have approved the
+      execution, delivery and performance of this Agreement by Commonwealth; and
+
+            (c) all legal matters with respect to this Agreement and the
+      transactions provided for herein shall be reasonably satisfactory to
+      counsel to Commonwealth.
+
+      11. CONDITIONS TO OBLIGATIONS OF SUMMIT, STRASSER AND THE INVESTMENT
+MANAGER. The obligation of Summit, Strasser and the Investment Manager to effect
+the Restructuring shall be subject to the fulfillment on or prior to the Closing
+Date of the following additional conditions, any one or more of which may be
+waived in whole or in part by Summit:
+
+            (a) the Parties will write a mutually agreeable press release
+      describing the Restructuring; and
+
+            (b) all legal matters with respect to this Agreement and the
+      transactions provided for herein (including, without limitation, the
+      resolutions evidencing the approval of the Board of Directors of
+      Commonwealth referred to in Section 10(b) above) shall be reasonably
+      satisfactory to Jones Vargas, counsel to Summit, Strasser and the
+      Investment Manager.
+
+      12. INDEMNIFICATION CONCERNING REPRESENTATIONS AND WARRANTIES. The
+representations and warranties set forth in Sections 7 and 8 of this Agreement
+shall survive for a period of one (1) year from the date of this Agreement. Each
+party making representations and warranties in such Sections (the "Indemnitor")
+agrees to indemnify, defend and hold the other Parties, and their shareholders,
+officers, directors, members, managers, partners, employees, heirs, executors,
+administrators, personal representatives, successors and assigns (the
+"Indemnitees") harmless from and against any and all loss, cost, damage,
+liability or expense (including without limitation attorneys' fees, court costs
+and litigation expenses) which the Indemnitees may suffer, sustain or incur as a
+result of, arising under or in connection with any inaccuracy or breach of any
+representation or warranty of the Indemnitor contained in this Agreement.
+
+      13. INDEMNIFICATION OF COMMONWEALTH. Except to the extent otherwise
+specifically provided in this Agreement (including Section 12 hereof), the
+Investment Manager, Strasser and members of Summit (as constituted after the
+date of the redemptions contemplated by this Agreement) shall indemnify, defend,
+and hold Commonwealth and its Affiliates, members, managers, officers,
+directors, shareholders, partners, employees and agents, and their respective
+successors, executors, administrators and personal representatives, harmless
+from and against
+
+
+                                       6
+
+<PAGE>
+
+any loss, liability, damage, cost or expense (including without limitation
+attorneys' fees, court costs and litigation expenses) sustained or incurred by
+Commonwealth or any one or more of such other parties, arising from or with
+respect to the operations, activities, business and affairs of Summit after the
+Closing Date.
+
+      14. INDEMNIFICATION OF SUMMIT, INVESTMENT MANAGER AND MEMBERS. Except to
+the extent otherwise specifically provided in this Agreement (including Section
+12 hereof), Commonwealth shall indemnify, defend and hold Summit, Strasser and
+the Investment Manager, the respective members and shareholders of Summit and
+the Investment Manager, and their respective Affiliates, partners, members,
+managers, officers, directors, shareholders, partners, employees and agents, and
+their respective successors, executors, administrators and personal
+representatives, harmless from and against any loss, liability, damage, cost or
+expense (including without limitation attorneys' fees, court costs and
+litigation expenses) sustained or incurred by any one or more of such Parties,
+arising from any act by Commonwealth after the date of this Agreement.
+Commonwealth shall further indemnify, defend and hold the Investment Manager and
+Strasser harmless from and against any loss, liability, damage, cost or expense
+(including without limitation attorneys' fees, court costs and litigation
+expenses) sustained or incurred any one or more of such parties arising from a
+lawsuit or claim by a shareholder of Commonwealth relating to (i) the act of
+formation of Summit or (ii) the act of the redemption of Commonwealth's interest
+in Summit, and the transactions effecting such redemption, pursuant to this
+Agreement.
+
+      15. INDEMNIFICATION PURSUANT TO LLC AGREEMENT. Except to the extent
+otherwise specifically provided in this Agreement, (a) the Investment Manager
+and Strasser shall indemnify, defend and hold Commonwealth and its Affiliates,
+members, managers, officers, directors, shareholders, partners, employees and
+agents, and their respective successors, executors, administrators and personal
+representatives, harmless from and against any loss, liability, damage, cost or
+expense (including without limitation attorneys' fees, court costs and
+litigation expenses) sustained or incurred by Commonwealth or any one or more of
+such other parties, arising from or with respect to any breach by the Investment
+Manager of its duties, or the failure of the Investment Manager to perform its
+responsibilities, in each case as set forth in Article 4 of the LLC Agreement,
+subject to the provisions of Section 4.7(b) of the LLC Agreement; and (b) the
+provisions of Section 4.8 of the LLC Agreement shall remain in full force and
+effect in accordance with their terms with respect to matters occurring prior to
+the Closing Date.
+
+      16. RELEASES.
+
+            (a) Except as specifically provided in Sections 3, to the extent
+      (but only to the extent) of the obligations of Summit, Strasser and the
+      Investment Manager and Commonwealth to take the specific actions provided
+      for therein, and Sections 12, 13 and 15 of this Agreement, Commonwealth
+      hereby unconditionally and irrevocably releases Summit, Strasser, and the
+      Investment Manager, the respective members and shareholders of Summit and
+      the Investment Manager, and their respective Affiliates, partners,
+      members, managers, officers, directors, shareholders and employees from
+      any and all claims or rights which Commonwealth may have against any such
+      party arising under or in any manner related to this Agreement, the
+      transactions provided for herein,
+
+                                       7
+
+<PAGE>
+
+      the Redemption Consideration, the LLC Agreement or the operation,
+      activities, business and affairs of Summit, including but not limited to
+      any and all obligations for the distribution or return of capital and the
+      payment of fees.
+
+            (b) Except as specifically provided in Sections 3, 12 and 14 of this
+      Agreement, Summit, Strasser and the Investment Manager and its members,
+      affiliates, directors and employees hereby unconditionally and irrevocably
+      release Commonwealth and its Affiliates, partners, members, managers,
+      officers, directors, shareholders and employees from any and all claims or
+      rights which Summit may have against any such party arising under or in
+      any manner related to the Redemption Consideration, Summit, the LLC
+      Agreement or the operation, activities, business and affairs of Summit,
+      including but not limited to any obligation to contribute capital, loan
+      funds, reimburse any expenses or otherwise advance funds to Summit.
+
+      17. STANDSTILL AGREEMENT OF SUMMIT. Prior to the first anniversary of the
+Closing Date:
+
+            (a) Summit, its members, the Investment Manager, Strasser, or an
+      Affiliate of any thereof, either individually or as a member of a group
+      (an "Acquiror") shall not, directly or indirectly (through the acquisition
+      of control of another person or otherwise), alone or in concert with
+      others, (i) at any time beneficially own any voting securities of
+      Commonwealth greater than, or (ii) acquire, solicit an offer to sell or
+      agree to acquire, by purchase, gift or otherwise, any direct or indirect
+      beneficial interest in any voting securities of Commonwealth if the effect
+      of such acquisition would be to increase the aggregate number of voting
+      securities of Commonwealth then beneficially owned, directly or
+      indirectly, by an Acquiror and its affiliates to greater than, which then
+      represents 4.99% of the voting power of the securities of Commonwealth
+      entitled to vote generally for the election of directors of Commonwealth
+      (the "Percentage Limitation"); provided, however, that the foregoing
+      restriction in this subsection (a) shall be deemed not to be violated if
+      the aggregate percentage ownership of an Acquiror and its affiliates is
+      increased as a result of a recapitalization of Commonwealth or a
+      repurchase of securities by Commonwealth or any other action taken by
+      Commonwealth.
+
+            (b) Neither any Acquiror nor any of its affiliates shall directly or
+      indirectly "solicit" "proxies" with respect to the voting securities of
+      Commonwealth under any circumstances or become a "participant" in any
+      "election contest" (as such terms are used in proxy rules under the 1934
+      Act, as presently in effect) relating to the election of directors of
+      Commonwealth or seek to initiate, propose and otherwise solicit
+      stockholders of Commonwealth for the approval of one or more stockholder
+      proposals or induce or attempt to induce any other person to initiate any
+      stockholder proposal.
+
+            (c) Neither an Acquiror nor any of its affiliates shall join any
+      partnership, limited partnership, syndicate or other group, enter into a
+      voting trust or similar agreement, or otherwise act in concert with any
+      person, or induce a third party to propose a transaction, for the purpose
+      of then or thereafter acquiring, holding, voting or disposing of
+      beneficial ownership of shares of voting securities of Commonwealth or for
+      the purpose of circumventing the provisions of this Agreement.
+
+                                       8
+
+<PAGE>
+
+            (d) Neither an Acquiror nor any of its affiliates shall merger with
+      or into, or consolidate with, any other corporation, unless (i) the
+      Acquiror is the surviving corporation or the surviving corporation and its
+      affiliates agree in writing to be bound by this Agreement and (ii) after
+      consummation of the transaction, the surviving corporation and its
+      affiliates do not beneficially own, directly or indirectly, an aggregate
+      number of voting securities of Commonwealth greater than the Percentage
+      Limitation.
+
+            (e) Neither an Acquiror nor any of its Affiliates shall, directly or
+      indirectly (i) make or propose a tender or exchange offer for any voting
+      securities of Commonwealth or for any other securities of Commonwealth, or
+      make or propose an offer to purchase all or substantially all the assets
+      of Commonwealth or otherwise effect a business combination with
+      Commonwealth; (ii) propose any business combination, sale or transfer of
+      assets, liquidation or other extraordinary corporate transaction with
+      Commonwealth; (iii) publicly disclose an intent, purpose, plan or proposal
+      with respect to Commonwealth or the voting securities of Commonwealth
+      inconsistent with the provisions of this Agreement; (iv) furnish to any
+      person not affiliated with or employed by an Acquiror, or acting as
+      counsel or as an advisor to an Acquiror, non-public, confidential
+      information ("Confidential Information") regarding commonwealth or its
+      affiliates except with the consent of Commonwealth or as required by
+      applicable law (information will not be deemed Confidential Information
+      that (x) is already in the possession of an Acquiror and was not obtained
+      from Commonwealth or its affiliates, (y) becomes available in the public
+      domain other than as a result of disclosure by an Acquiror or its
+      affiliates, or the employees and advisors of an Acquiror or its
+      affiliates, or (z) is not acquired from Commonwealth or its affiliates or
+      persons known by an Acquiror or its affiliates to be in breach of an
+      obligation of secrecy to Commonwealth or its affiliates); or (v) assist,
+      participate in, facilitate, encourage or solicit any effort or attempt by
+      any other person or group to do or seek to do any of the actions
+      restricted or prohibited under this Section 17.
+
+            (f) No request or proposal to amend, modify or waive any provision
+      of this Agreement shall be made by an Acquiror or its affiliates or
+      solicited except in a nonpublic and confidential manner and each such
+      proposal or request shall be accompanied by a written opinion of
+      independent counsel, selected by an Acquiror and with a recognized
+      expertise in the securities laws of the United States of America,
+      addressed to each party to which such proposal or request is directed, to
+      the effect that, based solely on the facts known to, and the reasonable
+      assumptions made by, such counsel and recited in such opinion, such
+      counsel believes that such proposal or request and the subject matter
+      thereof, as so presented, does not, by itself, require disclosure by any
+      party hereto or any affiliate of any such party pursuant to any laws,
+      rules, regulations, including, without limitation, the Securities Act of
+      1933 or the 1934 Act and any rule or regulation promulgated thereunder.
+
+      18. FURTHER ACTS. Each party agrees to do such further acts and execute,
+deliver, file and record such further documents and instruments as may be
+necessary or advisable to effectuate, evidence and record the transactions
+contemplated by this Agreement, including but not limited to an amendment to or
+restatement of the LLC Agreement and any other public filings or
+
+                                       9
+
+<PAGE>
+
+recordings to the extent necessary to correct any statements therein that are no
+longer accurate by reason of the transactions pursuant to this Agreement.
+
+      19. NON-DEFAMATION; NON-DISPARAGEMENT. The Parties agree not to make any
+derogatory or untrue statement in any format, whether written, electronic, or
+oral to the press or any individual or entity regarding any other Party, this
+Agreement or the transactions contemplated hereby.
+
+      20. SURVIVAL. All agreements, representations, and warranties made by each
+party herein shall survive the date of this Agreement for a period of three
+years (except as otherwise expressly provided in Sections 12 and 17 hereof) and
+shall be deemed to be material and to have been relied upon by each other party
+to this Agreement.
+
+      21. THIRD PARTIES. This Agreement is for the sole and exclusive benefit of
+the Parties and their respective successors and assigns, and no third party is
+intended to or shall have any rights or benefits hereunder.
+
+      22. SUCCESSORS AND ASSIGNS. This Agreement shall be binding upon and inure
+to the benefit of the Parties and their respective heirs, executors,
+administrators, successors and assigns.
+
+      23. ENTIRE AGREEMENT. This Agreement constitutes the entire agreement
+between the Parties regarding subject matter hereof and supercedes all prior
+agreements, whether written or oral with regard thereto, including but not
+limited to the LLC Agreement.
+
+      24. MODIFICATIONS. No change, modification or amendment shall be made to
+this Agreement unless set forth in writing and signed by all of the Parties
+affected thereby.
+
+      25. SEVERABILITY. If any provision of this Agreement or the application of
+such provision to any person or circumstance shall be held invalid, the
+remainder of this Agreement, or the application of such provision to persons or
+circumstances, other than those as to which it is held invalid, shall not be
+affected.
+
+      26. APPLICABLE LAW. This Agreement shall be governed by the laws of the
+State of Delaware.
+
+      27. RECITALS; HEADINGS; CONSTRUCTION. The Recitals to this Agreement are
+hereby incorporated in and made a part of this Agreement, and each party hereby
+acknowledges the accuracy of the Recitals. The headings in this Agreement are
+inserted for convenience and identification only and are in no way intended to
+describe, interpret, define or limit the scope, extent or intent of this
+Agreement or any provision. Wherever the context may require, any pronouns used
+herein shall include the corresponding masculine, feminine or neuter forms, and
+the singular form of any noun or pronoun shall include the plural and vice
+versa.
+
+      28. COUNTERPARTS. This Agreement may be executed in multiple counterparts
+with separate signature pages, each such counterpart shall be considered an
+original, but all of which together shall constitute one and the same
+instrument.
+
+                                       10
+
+<PAGE>
+
+      29. DISPUTE RESOLUTION. In the event of any dispute under this Agreement,
+including but not limited to any claim that a breach has occurred, that cannot
+be resolved after fifteen (15) calendar days of good faith negotiations, such
+dispute shall be resolved by binding arbitration held in accordance with the
+Commercial Arbitration Rules of the American Arbitration Association (the
+"Association") in Orange County, City of Tustin, State of California. In order
+to commence arbitration, a party shall give written notice, after the expiration
+of the good faith negotiations period, to the other Parties thirty (30) days
+before filing any demand for arbitration. The Parties shall bear their own costs
+of any arbitration.
+
+      30. IN WITNESS WHEREOF, each of the Parties has executed this Agreement as
+of the date first set forth above.
+
+                              SUMMIT ENERGY VENTURES, LLC, a
+                              Delaware limited liability company
+
+                              By: Northwest Power Management, Investment Manager
+
+                                      By: /s/ Steven Z. Strasser
+                                          -----------------------------
+                                          Steven Z. Strasser, President
+
+                              By: Steven Z. Strasser, an individual
+
+                                      By: /s/ Steven Z. Strasser
+                                          ------------------------------
+                                          Steven Z. Strasser
+
+                              COMMONWEALTH ENERGY
+                              CORPORATION, a California corporation
+
+                              By: /s/ Ian B. Carter
+                                  -------------------------------------
+                                  Name: Ian B. Carter
+                                  Title:Chairman and Chief Executive Officer
+
+                              /s/ Steven Z. Strasser
+                              ----------------------
+                              Steven Z. Strasser
+
+                                       11
+
+<PAGE>
+
+                              INVESTMENT COMMITTEE:
+
+                              /s/ Ian B. Carter
+                              -----------------------------------------
+                              Ian B. Carter, Member
+
+                              /s/ Robert C. Perkins
+                              -----------------------------------------
+                              Robert C. Perkins, Member
+
+                              NORTHWEST POWER MANAGEMENT,
+                              INC., a Washington corporation, as Investment
+                              Manager
+
+                              By: /s/Steven Z. Strasser
+                                  -------------------------------------
+                                  Steven Z. Strasser, President
+
+                                       12
+
+<PAGE>
+
+                                   SCHEDULE X
+
+         DISTRIBUTION OF POWER EFFICIENCY SHARES IN SUMMIT RESTRUCTURING
+
+<TABLE>
+<CAPTION>
+                    DISTRIBUTION OF ACTUAL SHARES OUTSTANDING AT 5/14/04
+                    ----------------------------------------------------
+CLASS OF SHARES            Total           to CEC         to SEV
+---------------          ---------       ---------       ---------
+<S>                      <C>             <C>             <C>
+Preferred Shares         3,328,737       1,747,587       1,581,150
+Common Shares            3,134,102       1,645,404       1,488,698
+                         ---------       ---------       ---------
+Total                    6,462,839       3,392,990       3,069,849
+                         ---------       ---------       ---------
+</TABLE>
+
+<TABLE>
+<CAPTION>
+                                              DISTRIBUTION AT 5/14/04 (ASSUMING PREFERRED FULLY CONVERTED ON 5/14/04)
+                                              -----------------------------------------------------------------------
+                                                            Total             to CEC             to SEV
+                                                          ---------          ---------          ---------
+<S>                                                       <C>                <C>                <C>
+Common Shares From Conversion                             2,768,849          1,453,646          1,315,203
+Common Shares Previously Outstanding                      3,134,102          1,645,404          1,488,698
+                                                          ---------          ---------          ---------
+Total                                                     5,902,951          3,099,049          2,803,902
+                                                          ---------          ---------          ---------
+</TABLE>
+
+
+</TEXT>
+</DOCUMENT>

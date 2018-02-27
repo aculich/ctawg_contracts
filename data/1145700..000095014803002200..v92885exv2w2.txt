@@ -1,0 +1,570 @@
+<DOCUMENT>
+<TYPE>EX-2.2
+<SEQUENCE>4
+<FILENAME>v92885exv2w2.txt
+<DESCRIPTION>EXHIBIT 2.2
+<TEXT>
+<PAGE>
+
+                                                                     EXHIBIT 2.2
+
+                                     FORM OF
+                                ESCROW AGREEMENT
+
+         This Escrow Agreement (the "Agreement") is entered into as of
+August___, 2003, by and among "VITAL LIVING, INC., a Nevada corporation
+("Acquiror"), E-NUTRICEUTICALS, INC., a Delaware corporation ("ENI"), MERCANTILE
+NATIONAL BANK-CALIFORNIA, ("Mercantile National Bank") a California banking
+corporation, in its capacity as escrow agent hereunder (the "Escrow Agent") and
+STEPHEN MORRIS, in his capacity as the representative (the "Shareholders'
+Representative") of all the ENI Shareholders which beneficially own Escrow
+Shares (the "Escrow Shareholders") in connection with the transaction set forth
+in that certain Agreement and Plan of Merger (the "Merger Agreement"), dated
+August __, 2003, by and among VLEN ACQUISITION CORP., INC., a Delaware
+corporation ("Merger Sub") and wholly owned subsidiary of Acquiror, Acquiror and
+ENI.
+
+                                    RECITALS
+
+This Agreement is being entered into in reference to the following facts:
+
+         A.       ENI and Acquiror have entered into the Merger Agreement
+pursuant to which Acquiror, through the Merger Sub, is acquiring all of the
+outstanding equity of ENI (the "Transaction"), all as further specified in the
+Merger Agreement. Capitalized terms used in this Agreement and not otherwise
+defined, shall have the meanings given them in the Merger Agreement.
+
+         B.       Pursuant to the Merger Agreement, a portion of the Merger
+Consideration payable to certain of the shareholders of ENI is to be deposited
+into an escrow fund that will secure certain of the indemnification obligations
+of ENI to Acquiror under the Merger Agreement, on the terms and conditions set
+forth therein and herein.
+
+         NOW, THEREFORE, in consideration of the mutual covenants contained
+herein, the parties hereto hereby agree as follows:
+
+                                    AGREEMENT
+
+         1.       APPOINTMENT; ESCROW ACCOUNT.
+
+                  (a)      Acquiror and ENI each hereby appoint the Escrow Agent
+to act as escrow holder for the Escrow Fund (as hereinafter defined) under the
+terms hereof. Escrow Agent hereby accepts such appointment and agrees to act as
+escrow holder for the Escrow Fund in accordance with the terms hereof.
+
+__________________
+
+                                       1
+
+<PAGE>
+
+                  (b)      Immediately following Escrow Agent's execution of
+this Agreement, Escrow Agent shall establish an account at Mercantile National
+Bank (the "Escrow Account") for the purpose of receiving and holding the Escrow
+Fund.
+
+                  (c)      ENI hereby appoints Stephen Morris to act as
+representative for the Escrow Shareholders under the terms hereof and Stephen
+Morris hereby accepts such appointment.
+
+         2.       ESCROW FUND; ADMINISTRATION
+
+                  (a)      At the Effective Time, Acquiror shall deposit with
+the Escrow Agent 17,044,036 shares of the Acquiror Common Stock, which for the
+avoidance of doubt shall not include the Skye Merger consideration (the "Escrow
+Fund"), subject to downward adjustment with respect to the shares of common
+stock held by Escrow Shareholders who have demanded appraisal in accordance with
+Section 262 of the Delaware General Corporation Law ("DGCL"). The Escrow Fund
+shall be held at all time in the Escrow Account as an escrow fund during the
+Escrow Period as defined in Section 5 below and shall not be subject to any
+lien, attachment, trustee process or any other judicial process of any creditor
+of any party hereto. Escrow Agent agrees to accept delivery of the Escrow Fund
+and to hold such Escrow Fund in the Escrow Account subject to the terms and
+conditions of this Agreement. Upon request from time to time, Escrow Agent shall
+notify Acquiror and ENI of the amount of the Escrow Fund then held in the Escrow
+Account.
+
+                  (b)      Escrow Agent shall hold and safeguard the Escrow Fund
+during the Escrow Period, shall treat such fund as an escrow fund in accordance
+with the terms of this Agreement and not as the property of Acquiror and shall
+hold and dispose of the Escrow Fund only in accordance with the terms hereof.
+
+         3.       INITIAL DISBURSEMENT FROM ESCROW FUND. Escrow Agent shall
+administer the Escrow Fund as follows:
+
+                  (a)      The initial disbursement of the Escrow Fund shall
+occur upon written notification by the Acquiror that it has received ENI's (i)
+audited financial statements for the fiscal years ended March 31, 2002 and March
+31, 2003 and (ii) unaudited financial statements for the three months ended June
+30, 2003. Unless the June 30, 2003 balance sheet reveals liabilities in excess
+of $4,000,000, as soon as possible after the receipt of such financial
+statements, the Acquiror shall instruct the Escrow Agent to release, on a
+pro-rata basis, fifty percent (50%) of all shares of Acquiror Common Stock
+beneficially owned by Escrow Shareholders other than Fifth Avenue Capital, Inc.
+("Fifth Avenue Capital") from the Escrow Fund; provided, however, that if
+liabilities in excess of $4,000,000 are revealed in the June 30, 2003 financial
+statements, such shares shall not be released from the Escrow Fund until the
+completion of the calculation of Effective Time Assumed Liabilities (as defined
+in Section 3(b) below).
+
+                  (b)      As soon as practicable after the Effective Time, but
+in no event later than December 31, 2003, the Acquiror shall calculate the
+liabilities assumed by it at the Effective
+
+                                       2
+
+<PAGE>
+
+Time in accordance with Section 1.14 of the Merger Agreement (the "Effective
+Time Assumed Liabilities"). Prior to any further disbursement to the Escrow
+Shareholders of any of the shares of Acquiror Common Stock in the Escrow Account
+(i.e., a disbursement other than as contemplated by (a) above), the Escrow Agent
+shall return to Acquiror three shares of Acquiror Common Stock for each dollar
+of Effective Time Assumed Liabilities in excess of $100,000 or, if the terms of
+the engagement letter of even date herewith between Acquiror and Stephen Morris
+have been met, $175,000 (as set forth by Acquiror in a written notification
+delivered to the Escrow Agent pursuant to this Section 3(b). The calculation of
+any excess Effective Time Assumed Liabilities shall be in writing ("Deficit
+Notice") and shall be delivered to the Shareholders' Representative and Escrow
+Agent. Notification of such deficit shall be binding upon the Escrow Agent
+absent manifest bad faith in the information contained in the Deficit Notice. In
+the event that the Shareholders' Representative disputes the calculation of
+excess Effective Time Assumed Liabilities set forth in the Deficit Notice, he
+shall have 10 business days to so notify Acquiror and Escrow Agent in writing.
+In such event, the Shareholders' Representative and Acquiror shall agree upon an
+accounting firm of national reputation, who will conduct an independent review
+(the "Reconciliation Procedure") and deliver, within thirty days of its
+appointment, a binding analysis of the excess Effective Time Assumed Liabilities
+set forth in the Deficit Notice. The cost of such review shall be borne by
+Acquiror.
+
+                  (c)      Any return of shares of Acquiror Common Stock to the
+Acquiror in respect of excess Effective Time Assumed Liabilities pursuant to
+Section 3(b) shall be taken on a pro rata basis from Escrow Shares beneficially
+owned by all Escrow Shareholders.
+
+                  (d)      After calculation of the Effective Time Assumed
+Liabilities and the return of shares of Acquiror Common Stock in respect
+thereof, if any, to the Acquiror, any Escrow Shares which would have been
+released pursuant to Section 3(a) but for there having been liabilities in
+excess of $4,000,000 shall be released.
+
+         4.       INDEMNIFICATION; RESOLUTION OF CONFLICTS; ARBITRATION.
+
+                  (a)      Upon receipt by Escrow Agent at any time during the
+Escrow Period of a written notice from Acquiror (a "Claims Notice") stating that
+Acquiror or any of its officers, directors, employees, representative, agents
+and affiliates (each of the foregoing persons and entities is referred to
+hereinafter as an "Indemnified Person" and collectively as "Indemnified
+Persons") has paid or reasonably anticipates that it will have to pay or incur
+an amount in respect of any damages, claims, causes of action or other awards
+(collectively "Damages") and stating the individual items of Damages included in
+the amount so stated, the date each such item was paid or incurred, or the basis
+for such anticipated liability, and the nature of the misrepresentation, breach
+of warranty or claim to which such item is related, Escrow Agent shall deliver
+to Acquiror out of the Escrow Fund, unless an objection is received from the
+Shareholders' Representative within ten days of receipt of the Claims Notice as
+provided in this Section, three shares of the Acquiror Common Stock held in the
+Escrow Fund for each $1.00 of
+
+                                       3
+
+<PAGE>
+
+Damages.
+
+                  (b)      If the Shareholders' Representative objects in
+writing to any claim or claims made in any Claims Notice, which objection shall
+be made to Escrow Agent and Acquiror within 10 days after receipt of a Claims
+Notice by the Shareholders' Representative from Acquiror, then the Shareholders'
+Representative and Acquiror shall attempt in good faith to agree upon the rights
+of the respective parties with respect to each of such claims within 30 days
+after Escrow Agent's receipt of the Shareholders' Representative's written
+objection to the claim (the "Negotiation Period"). If the Shareholders'
+Representative and Acquiror should so agree during the Negotiation Period, a
+memorandum setting forth such agreement shall be prepared and signed by both
+parties and shall be furnished to Escrow Agent. Escrow Agent shall be entitled
+to rely on any such memorandum and distribute the agreed upon amount from the
+Escrow Fund in accordance with the terms thereof.
+
+                  (c)      If no such agreement has been reached by the end of
+the Negotiation Period, then either Acquiror or the Shareholders' Representative
+may demand arbitration of the matter unless the amount of the Damages is at
+issue in pending litigation with a third party, in which event arbitration shall
+not be commenced until such amount is ascertained by settlement or a
+non-appealable decision of a court of competent jurisdiction or both parties
+agree to arbitration; and, in either such event, the matter shall be settled by
+arbitration by three arbitrators, as follows. Within 15 days after the
+Shareholders' Representative or Acquiror delivers a written demand for
+arbitration to the other party, Acquiror and Shareholders' Representative shall
+each select one arbitrator. The third arbitrator shall be selected as soon as
+practicable by agreement of the first two arbitrators or, failing such
+agreement, by JAMS-Endispute (or a recognized arbitral organization comparable
+thereto). The arbitration shall be conducted in New York, New York in accordance
+with the commercial arbitration rules (the "Rules") used by JAMS-Endispute (or a
+recognized arbitral organization comparable thereto). The written decision of a
+majority of the three arbitrators as to the validity and amount of any claim in
+such Claims Notice shall be binding and conclusive upon the parties to this
+Agreement, and Escrow Agent shall be entitled to act in accordance with such
+decision and make or withhold payments out of the Escrow Fund in accordance
+therewith. The arbitrators shall award reimbursement to the prevailing party in
+the arbitration of its reasonable expenses of the arbitration (including costs
+and reasonable attorneys' fees). The award of the arbitrators shall be the sole
+and exclusive monetary remedy of the parties with respect to the matter
+submitted and shall be enforceable in any court of competent jurisdiction. Each
+of the parties hereto submits to the non-exclusive personal jurisdiction of the
+courts of the State of New York as an appropriate place for compelling
+arbitration or giving legal confirmation of any arbitration award, and
+irrevocably waives any objection which it may now or hereafter have to the venue
+of any such enforcement proceeding brought in any of said courts and any claim
+of inconvenient forum. Each of the parties agrees that service of process for
+all arbitration proceedings may be made in accordance with the Rules and shall
+be deemed effective as provided therein. Any claim or action of any kind
+(including, but not limited to, any claims for breach of contract), against
+Escrow Agent arising out of or connected with this Agreement
+
+                                       4
+
+<PAGE>
+
+shall be barred and waived unless asserted by the commencement of an arbitration
+proceeding within 180 days after the accrual of the action or claim, or 180 days
+after the termination of this Agreement, whichever occurs first. This limitation
+shall also apply to claims which might otherwise be asserted against as a
+"set-off," credit, cross-complaint, or defense. This section and the forgoing
+limitation shall survive termination of this Agreement.
+
+                  (d)      Copies of all notices and other communications
+including Claims Notices among the parties pursuant to this Section 4 shall be
+delivered to each party hereto concurrently with delivery to any other party
+hereto.
+
+                  (e)      Any indemnification for Damages under Section 4(a)
+shall be provided on a pro rata basis, determined by reference to the actual
+number of shares in the Escrow Account, from Escrow Shares beneficially owned by
+all Escrow Shareholders,
+
+         5.       FINAL RELEASE OF ESCROW FUND. Subject to the following
+requirements, the Escrow Fund shall remain in existence from the Effective Time
+until the first anniversary of the date of the Effective Time (the "Escrow
+Period"). Upon the expiration of the Escrow Period, the Escrow Fund shall
+terminate with respect to all amounts then remaining in the Escrow Fund, and all
+such remaining Escrow Shares shall be delivered to the relevant Escrow
+Shareholders, according to the number of shares of Acquiror Common Stock
+beneficially owned by each such shareholder at the time of the creation of the
+Escrow Fund as reduced by any such shares returned to the Acquiror pursuant to
+Section 3(b) or Section 4(a), provided however, that an amount of the Escrow
+Fund, which is necessary to satisfy any unsatisfied claims specified in any
+Claims Notice delivered to Escrow Agent and not objected to in accordance with
+the provisions of Section 4 above prior to the expiration of such Escrow Period
+shall remain in the Escrow Fund (and the Escrow Fund shall remain in existence)
+until such claims have been resolved. As soon as all such claims have been
+resolved, Escrow Agent shall deliver to the relevant Escrow Shareholders the
+remaining Escrow Fund not required to satisfy such claims.
+
+         6.       ENI SHAREHOLDERS' REPRESENTATIVE.
+
+                  Stephen Morris ("Morris") shall be deemed the Shareholders'
+Representative, and Acquiror and Escrow Agent may rely on the statements and
+signature of Morris as binding . Notices or communications to or from Morris
+shall constitute notice to or from the Escrow Shareholders. A decision, act,
+consent or instruction of Morris shall constitute a decision of ENI and shall be
+final, binding and conclusive with respect to that portion of the Escrow Fund
+beneficially owned by each of the Escrow Shareholders. All other Indemnified
+Persons may rely upon any decision, act, consent or instruction of Morris as
+being the decision, act, consent or instruction of the Escrow Shareholders.
+Escrow Agent, Acquiror and all other Indemnified Persons are hereby relieved
+from any liability to any person for any acts done by them in accordance with
+such decision, act, consent or instruction of Morris.
+
+                                        5
+
+<PAGE>
+
+         7.       ESCROW AGENT'S DUTIES.
+
+                  (a)      Acquiror shall indemnify Escrow Agent and hold it
+harmless from and against any fee, loss, liability or expense (including
+reasonable attorney's fees and expenses) (a "Loss") incurred by Escrow Agent
+arising out of or in connection with the performance of its obligations in
+accordance with the provisions of this Agreement or with the administration of
+its duties hereunder, unless such Loss shall arise out of or be caused by Escrow
+Agent's gross negligence, bad faith or willful misconduct; provided however the
+indemnity agreement contained in this Section 7(a) shall not apply to amounts
+paid in settlement of any Loss if such settlement is effected without the
+consent of Acquiror and the Shareholders' Representative.
+
+                  (b)      Acquiror shall indemnify and hold Escrow Agent
+harmless from and against any taxes, additions for late payment, interest,
+penalties and other expenses, that may be assessed against Escrow Agent on any
+payment or other activities under this Agreement unless any such tax, addition
+for late payment, interest, penalty or other expense shall arise out of or be
+caused by the actions of, or a failure to act by, Escrow Agent.
+
+                  (c)      Escrow Agent's duties and obligations hereunder shall
+be determined solely by the express provisions of this Agreement. Escrow Agent's
+duties and obligations are purely ministerial in nature, and nothing in this
+Agreement shall be construed to give rise to any fiduciary obligations of Escrow
+Agent with respect to Acquiror . Escrow Agent is not charged with any duties or
+responsibilities with respect to the Merger Agreement and shall not be concerned
+with the terms thereof. Escrow Agent shall not be required to notify or obtain
+the consent, approval, authorization, or order of court or governmental body to
+perform its obligations under this Agreement, except as expressly provided
+herein.
+
+                  (d)      In the event of any disagreement or the presentation
+of any adverse claim or demand in connection with the disbursement of the Escrow
+Fund, except as otherwise provided herein, then Escrow Agent may, at its option,
+after providing written notice to Acquiror and the Shareholders' Representative
+of such disagreement or adverse claim or demand, refuse to comply with any such
+claims or demands during the continuance of such disagreement and may refrain
+from delivering any item affected hereby, and in so doing, Escrow Agent shall
+not become liable to the undersigned or to any other person, due to its failure
+to comply with such adverse claim or demand. If Acquiror and/or the
+Shareholders' Representative, as appropriate do not provide satisfactory
+assurances to Escrow Agent that it may act in accordance with the other
+provisions of this Agreement, Escrow Agent shall be entitled to continue,
+without liability, to refrain and refuse to act until:
+
+                           (i)      authorized to disburse the Escrow Fund by an
+order from a court purporting to have jurisdiction of the parties and the Escrow
+Fund, after which time Escrow Agent shall be entitled to act in conformity with
+such order; or
+
+                                       6
+
+<PAGE>
+
+                           (ii)     Escrow Agent (i) shall have been notified
+that all differences shall have been adjusted by agreement, and (ii) shall have
+been directed in writing to take certain actions with respect to the Escrow Fund
+subject to the adverse claim or demand, signed jointly or in counterpart by the
+Shareholders' Representative and/or Acquiror and by all persons making adverse
+claims or demands, at which time Escrow Agent shall be protected in acting in
+compliance therewith.
+
+         At any time prior to Escrow Agent's receipt of a court order or a
+notice, as provided in clauses (i) or (ii) of this Section 7(d) Escrow Agent
+may, but is not required to, file a suit in interpleader and obtain an order
+from the court requiring the parties to interplead and litigate in such court
+adverse claims or demands raised pursuant to this Section 7(d). If such
+interpleader suit is brought, then Escrow Agent shall ipso facto be fully
+released and discharged from all obligations to further perform any and all
+duties or obligations imposed upon it in relation to the disputed amount.
+Acquiror agrees to reimburse Escrow Agent for all costs, expenses, and
+reasonable attorney's fees expended or incurred by Escrow Agent in connection
+with such adverse claim or demand, the amount thereof to be fixed and judgment
+thereof to be rendered by the court in such lawsuit.
+
+                  (e)      Escrow Agent shall not be liable to anyone whatsoever
+by any reason of error of judgment or for any act done or step taken or omitted
+by them in good faith or for any mistake of fact or law or for anything which
+they may do or refrain from doing in connection herewith unless caused by or
+arising out of their own gross negligence or willful misconduct. In no event
+shall Escrow Agent be liable for any indirect, special, consequential damages,
+or punitive damages.
+
+                  (f)      Escrow Agent shall be entitled to rely on and shall
+be protected in acting in reliance upon any instructions or directions furnished
+to it in writing or pursuant to any provisions of this Agreement and shall be
+entitled to treat as genuine, and as the document it purports to be, any letter,
+paper, or other document furnished to it and believed by it to be genuine and to
+have been signed and presented by the proper party or parties. The Shareholders'
+Representative and Acquiror shall not include Escrow Agent's name in any
+document unless such document has been approved in writing by the Escrow Agent,
+except with regard to those documents pertaining to and referring to Escrow
+Agent's functions as Escrow Holder pursuant to this Agreement.
+
+                  (g)      Escrow Agent may resign at any time upon giving at
+least 30 days written notice to Acquiror and the Shareholders' Representative;
+provided, however, that no such resignation shall become effective until the
+appointment of a successor escrow agent, which shall be accomplished as follows:
+Acquiror and the Shareholders' Representative shall use their best efforts to
+mutually agree upon a successor agent within 30 days after receiving such
+notice. If the parties fail to agree upon a successor escrow agent within such
+time, the Shareholders' Representative shall have the right to appoint a
+successor escrow agent, such appointment to be
+
+                                       7
+
+<PAGE>
+
+made in his reasonable best judgment. The successor escrow agent selected in the
+preceding manner shall execute and deliver an instrument accepting such
+appointment and it shall thereupon be deemed Escrow Agent hereunder and it shall
+without further acts be vested with all the estates, properties, rights, powers,
+and duties of the predecessor Escrow Agent as if originally named as Escrow
+Agent. If no successor escrow agent is named, Escrow Agent may apply to a court
+of competent jurisdiction for the appointment of a successor escrow agent.
+Thereafter, the predecessor Escrow Agent shall be discharged from any further
+duties and liabilities under this Agreement.
+
+         8.       FEES, EXPENSES AND TAXES. Acquiror shall pay to Escrow Agent,
+as compensation for its services hereunder the following amounts (a) a $2,500
+non-refundable start-up fee, payable upon Escrow Agent's execution of this
+Agreement; (a) an annual renewal fee of $1,000, payable upon each anniversary of
+the date of this Agreement; and (c) a $50 escrow processing fee (for each
+receipt and disbursement of the Escrow Fund) and all customary charges assessed
+by Mercantile National Bank in connection with the Escrow Account, upon the
+Escrow Agent's demand. Upon demand, Acquiror will pay or reimburse Escrow Agent
+for all expenses, disbursements and advances incurred or made at the request of
+that party. If Acquiror fails to pay any fee or other sums owing to Escrow Agent
+hereunder when due then Escrow Agent may pay out of and charge to the Escrow
+Fund all such fees and sums. Taxes incurred with respect to the earnings of the
+Escrow Fund and payments made hereunder shall be borne by the party to whom such
+earnings are distributed (or to be distributed) or to whom such payment is made.
+
+         9.       MISCELLANEOUS.
+
+                  (a)      VOTING. All shares of the Acquiror Common Stock held
+in the Escrow Account shall be voted by the applicable Escrow Shareholder as if
+such shares had been distributed.
+
+                  (b)      AMENDMENTS AND WAIVERS. Any term of this Agreement
+may be amended or waived with the written consent of the parties or their
+respective successors and assigns. Any amendment or waiver effected in
+accordance with this Section 9(b) shall be binding upon the parties and their
+respective successors and assigns.
+
+                  (c)      SUCCESSORS AND ASSIGNS. The terms and conditions of
+this Agreement shall inure to the benefit of and be binding upon the respective
+successors and assigns of the parties. Nothing in this Agreement, express or
+implied, is intended to confer upon any party other than the parties hereto or
+their respective successors and assigns any rights, remedies, obligations, or
+liabilities under or by reason of this Agreement, except as expressly provided
+in this Agreement.
+
+                  (d)      GOVERNING LAW. This Agreement shall be governed by
+and construed in accordance with the laws of the State of New York regardless of
+the laws that might otherwise
+
+                                       8
+
+<PAGE>
+
+govern under applicable principles of conflicts of laws thereof. If any portion
+of subsection (h) below shall be unenforceable, each of the parties hereto
+irrevocably consents to the exclusive jurisdiction and venue of the New York
+State or federal courts encompassing the city of New York, New York in
+connection with any matter based upon or arising out of this Agreement or the
+matters contemplated herein, agrees that process may be served upon them in any
+manner authorized by the laws of the State of New York for such persons and
+waives and covenants not to assert or plead any objection which they might
+otherwise have to such jurisdiction, venue and such process.
+
+                  (e)      COUNTERPARTS. This Agreement may be executed in two
+or more counterparts, each of which shall be deemed an original and all of which
+together shall constitute one instrument.
+
+                  (f)      TITLES AND SUBTITLES. The titles and subtitles used
+in this Agreement are used for convenience only and are not to be considered in
+construing or interpreting this Agreement
+
+                  (g)      NOTICES. Any notice required or permitted by this
+Agreement shall be in writing and shall be deemed sufficient upon receipt, when
+delivered personally or by courier, overnight delivery service or confirmed
+facsimile addressed to the party to be notified at such party's address or
+facsimile number as set forth below, or as subsequently modified by written
+notice.
+
+If to the Acquiror:                 5080 N. 40th STREET
+                                    SUITE 105
+                                    PHOENIX, AZ 85018-2147
+                                    Telephone:602 952-9909
+                                    Facsimile:602-952-7129
+
+With an Additional                  Bruce P. Vann, Esq.
+Copy to:                            Kelly Lytton & Vann LLP
+                                    1900 Avenue of the Stars, Suite 1450
+                                    Los Angeles, California 90067
+                                    Facsimile:  310-277-5953
+
+If to Shareholders'                 Mr. Stephen Morris
+Representative:                     10 East 63rd Street
+                                    New York, NY 10021
+
+With an Additional
+Copy to:                            Michael J. Dougherty, Esq.
+                                    Becker Glynn Melamed & Muffly LLP
+                                    299 Park Avenue
+
+                                       9
+
+<PAGE>
+
+                                    New York, NY 10171
+                                    Facsimile: 212-888-0255
+
+If to Escrow Agent:                 Mercantile National Bank
+                                    1840 Century Park East
+                                    Los Angeles, Ca. 90067
+                                    Attn: Mandie Rush
+                                    Facsimile: 310 788 0669
+
+                  (h)      SEVERABILITY. If one or more provisions of this
+Agreement are held to be unenforceable under applicable law, the parties agree
+to renegotiate such provision in good faith, in order to maintain the economic
+position enjoyed by each party as close as possible to that under the provision
+rendered unenforceable. If the parties cannot reach a mutually agreeable and
+enforceable replacement for such provision, then (i) such provision shall be
+excluded from this Agreement, (ii) the balance of the Agreement shall be
+interpreted as if such provision were so excluded and (iii) the balance of the
+Agreement shall be enforceable in accordance with its terms.
+
+                  (i)      ARBITRATION. All disputes between the Shareholders'
+Representative and/or Acquiror on the one hand, and Escrow Agent, on the other
+hand, relating to the payment of the Escrow Fund and/or Escrow Agent's rights,
+obligations, and liabilities arising from or related to this Agreement shall be
+resolved by mandatory binding expedited arbitration as provided in Section 4(c)
+above. Acquiror, the Shareholders' Representative, and Escrow Agent shall abide
+by any decision rendered in such arbitration, and that any court having
+jurisdiction may enforce such a decision.
+
+                  (j)      ENTIRE AGREEMENT. Except as set forth in the Merger
+Agreement (the terms of which Escrow Agent is not to be concerned), this
+Agreement is the product of all of the parties hereto, and constitutes the
+entire agreement among such parties pertaining to the subject matter hereof. Any
+and all other written or oral agreements existing between the parties hereto
+regarding such transactions are expressly canceled.
+
+                  (k)      ADVICE OF LEGAL COUNSEL. Each party acknowledges and
+represents that, in executing this Agreement, it has had the opportunity to seek
+advice as to its legal rights from legal counsel and that the person signing on
+its behalf has read and understood all of the terms and provisions of this
+Agreement. This Agreement shall not be construed against any party by reason of
+the drafting or preparation thereof.
+
+                                     - 10 -
+<PAGE>
+
+         IN WITNESS WHEREOF, the parties have executed this Agreement as of the
+date first above written.
+
+                                              VITAL LIVING , INC.
+
+                                              By:_______________________________
+                                              Name:  Brad Edson
+                                              Title: Chief Executive Officer
+
+                                              By:_______________________________
+                                              Name:  Stuart Benson
+                                              Title: President
+
+                                              E-NUTRICEUTICALS, INC.
+
+                                              By:_______________________________
+                                              Name:  Stephen Morris
+                                              Title: Sole Officer and Director
+
+Agreed and Accepted                                 Agreed and Accepted
+"ESCROW AGENT"                                "SHAREHOLDERS' REPRESENTATIVE"
+
+MERCANTILE NATIONAL BANK
+
+By:_____________________________                 _______________________________
+   Mandie Rush, Senior Vice President            Stephen Morris
+
+                                     - 11 -
+
+</TEXT>
+</DOCUMENT>

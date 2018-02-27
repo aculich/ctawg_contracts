@@ -1,0 +1,449 @@
+<DOCUMENT>
+<TYPE>EX-10.7
+<SEQUENCE>4
+<FILENAME>a94018exv10w7.txt
+<DESCRIPTION>EXHIBIT 10.7
+<TEXT>
+<PAGE>
+
+                                                                    Exhibit 10.7
+
+Explanatory Note: Text in the following exhibit contained in square brackets and
+denoted with an asterisk - [example]* - indicates text that is struck through by
+hand in the original agreement accompanied by the initials "IBC." Text in the
+following exhibit contained in curved brackets and denoted with a pound symbol -
+{example}# - indicates additional text that handwritten on the original
+agreement accompanied by the initials "IBC."
+
+                              EMPLOYMENT AGREEMENT
+
+      THIS EMPLOYMENT AGREEMENT (the "Agreement") is entered into as of December
+1, 2001 between Commonwealth Energy Corporation, a California corporation (the
+"Company") and Michael G. Nelson ("Employee"), with reference to the following:
+
+      A. Employee has heretofore acted as Assistant General Counsel to the
+Company, and in that capacity has rendered valuable services to the Company.
+
+      B. The Company and Employee desire that Employee continue to provide
+services to the Company as an employee of the Company on the terms provided
+herein.
+
+      NOW, THEREFORE, in consideration of the various covenants and agreements
+hereinafter set forth, the parties hereto agree as follows:
+
+      1. Term of Employment. The Company hereby employs Employee and Employee
+accepts such employment for a term of twenty-four (24) months, commencing on
+December 1, 2001 and terminating on December 31, 2003 (the "Initial Term");
+provided, however, that the term of this Agreement shall automatically renew for
+successive twelve (12) month periods (each a "Renewal Term") commencing on the
+expiration of the Initial Term or the then current Renewal Term, as the case may
+be, unless, not less than ninety (90) days prior to the expiration of the
+Initial Term or the then current Renewal Term, as the case may be, the Company
+and Employee mutually agree in writing to the contrary. Notwithstanding the
+foregoing, however, the term of this Agreement is subject to earlier termination
+as provided in Section 7 below.
+
+      2. Title and Responsibilities. During the term of this Agreement, Employee
+shall serve as Associate General Counsel of the Company. In the performance of
+such duties Employee shall report directly to (and only to) the General Counsel,
+Chief Operating Officer ("COO"), and the Chief Executive Officer of the Company
+(the "CEO") and shall, subject to the reasonable supervision and control of the
+General Counsel, COO and CEO, have the duties, responsibilities and authority
+commensurate with such positions in companies comparable to the Company.
+Employee's office location shall at all times be in offices of the Company
+located in Orange County, California. Employee may be required to travel from
+time to time to the extent reasonably necessary to the performance of his duties
+hereunder.
+<PAGE>
+      Employee shall in good faith and consistent with his ability, experience
+and talent perform the duties set forth in this Section 2, and shall devote
+substantially all of his productive time and efforts to the performance of such
+duties provided, however, that Employee may participate in civic, charitable,
+and other not-for-profit activities and manage personal and family investments
+to the extent that the same does not materially conflict with the discharge of
+his duties hereunder.
+
+      3. Compensation and Benefits. The Company shall pay and/or provide the
+following compensation and benefits to Employee during the term hereof, and
+Employee shall accept the same as payment in full for all services rendered by
+Employee to or for the benefit of the Company:
+
+
+            3.1 Base Salary. The Company shall pay Employee a salary of $130,000
+per annum for the first twelve months of the term of this Agreement and $140,000
+per annum for the second twelve months of the term (the "Base Salary").
+Notwithstanding the foregoing, the Base Salary shall be subject to review from
+time to time (not less frequently than at the end of each fiscal year of the
+Company) and, as a result thereof, may be increased (but not decreased) at the
+discretion of the CEO, COO and the Compensation Committee of the Company's Board
+of Directors. In determining such increases in the Base Salary, if any, the CEO,
+COO and the Compensation Committee of the Company's Board of Directors shall
+take into account, among other things, the Company's achievement of the
+objectives set forth in its business plan and the Company's results of
+operations. The Base Salary shall be payable in accordance with the payroll
+practices of the Company in effect from time to time.
+
+            3.2 Bonus. Employee shall be entitled to a bonus to be granted on a
+discretionary basis with all similar or like bonuses grants to other executives
+of the Company.
+
+            [3.3 Bonus Upon Change in Control of the Company. If during the term
+of this Agreement there is a Change in Control (as defined below), then the
+Company shall pay to Employee concurrently with such Change in Control, a cash
+bonus in an amount equal to the sum of (a) three (3) times the Employee's then
+current annual Base Salary; and (b) the amount of taxes payable by Employee
+under Internal Revenue Code Section 280G with respect to the bonus contemplated
+by this Section 3.3. The bonus contemplated by this Section 3.3 shall be paid to
+Employee whether or not Employee elects to terminate this Agreement pursuant to
+any of the terms of this Agreement.]*
+
+      [For purposes of this Agreement, a "Change in Control" shall be deemed to
+have occurred if (i) any "person" (as such term is used in Sections 13(d) and
+14(d) of the Securities Exchange Act of 1934, as amended (the "Exchange Act"))
+other than a trustee or other fiduciary holding securities of the Company under
+an employee benefit plan of the Company, becomes the "beneficial owner" (as
+defined in Rule 13d-3 promulgated under the Exchange Act), directly or
+indirectly, of securities of the Company representing
+
+                                      -2-
+<PAGE>
+50% or more of (A) the outstanding shares of common stock of the Company, or (B)
+the combined voting power of the Company's then outstanding securities entitled
+to vote generally in the election of directors; (ii) during any period of not
+more than two consecutive years, not including any period prior to the date of
+this Agreement, individuals who at the beginning of such period constitute the
+Board, and any new director (other than a director designated by a person who
+has entered into an agreement with the Company to effect a transaction described
+in clause (iii) below) whose election by the Board or nomination by the
+Company's shareholders was approved by a vote of at least a majority of the
+directors still in office who either were in office at the beginning of such
+period or whose election or nomination for election was previously so approved,
+ceases for any reason to constitute a majority of the Board; or (ii) the Company
+is a party to a merger consolidation which results in the holders of voting
+securities of the Company outstanding immediately prior thereto failing to
+continue to represent (either by remaining outstanding or being converted into
+voting securities of the surviving entity) at least 50% of the combined voting
+power of the voting securities of the Company or such surviving entity
+outstanding immediately after such merger or consolidation, or the Company sells
+or disposes of all or substantially all of the Company's assets or any
+transaction having similar effect is consummated.]*
+
+            3.4 Stock Option Plan. Concurrently herewith, the Company shall
+grant to Employee stock options entitling Employee to purchase 200,000 shares of
+the Company's common stock, with an exercise price of $7.75 per share (the
+"Options"). The right to exercise the Options shall be vested as to 100,000
+shares covered thereby immediately upon execution of this Agreement. The Options
+shall vest as to an additional [50,000]* {25,000}# shares on each of December 1,
+20002, [and]8 December 1, 2003{, December 1, 2004 and December 1, 2005}#[;
+provided, however, that all Options under this Agreement shall vest in full
+immediately prior to the consummation of any Change in Control.]* The Options
+shall have a term of seven years (regardless of any termination of Employee's
+employment). Employee shall be entitled to include the shares purchased or
+purchasable upon exercise of the Options in any registration statement hereafter
+filed by the Company under the Securities Act of 1933, as amended, on a basis
+which is no less favorable to Employee than the basis on which any other
+shareholder of the Company is entitled to include such shareholder's shares in
+such registration statement.
+
+            3.5 Other Fringe Benefits. Employee shall be entitled to participate
+in all of the Company's incentive and benefit plans and arrangements, including,
+without limitation, all bonus, compensation and other incentive and benefit
+plans or arrangements made available now or in the future by the Company to it
+senior executives, subject to an on a basis consistent with the terms,
+conditions and overall administration of such plans and arrangements, but on a
+basis no less favorable than that afforded to any other director, officer or
+employee of the Company. The Company shall also provide to Employee at the
+Company's expense all health, medical, hospitalization, life and disability
+insurance provided to other senior executives of the Company.
+
+                                      -3-
+<PAGE>
+            3.6 Expenses. The Company shall promptly reimburse Employee for all
+out-of pocket expenses actually incurred by him in connection with the
+performance of his duties hereunder, subject to Employee's furnishing the
+Company with evidence in the form of receipts satisfactory to the Company
+substantiating the claimed expenditures (such expenses being commensurate with
+the office and executive position of Employee hereunder, and including first
+class hotel and travel arrangements). Employee's right to be reimbursed for
+expenses incurred prior to the termination of this Agreement shall survive
+termination of this Agreement.
+
+            3.7 Vacation. Employee shall be entitled to the number of paid
+vacation days in each calendar year determined by the Board from time to time
+for the Company's senior executive officers, but not less than 20 days in any
+calendar year. Employee shall also be entitled to all paid holidays given to the
+Company's senior executive officers.
+
+            3.8 Automobile, Telephone, Etc. During the term hereof the Company
+shall provide Employee $500 per month for the purposes of the Employee paying
+for an automobile and related expenses. In addition, the Company shall provide a
+cell phone and shall reimburse Employee for all charges incurred by him in
+connection with the use thereof related to the performance of his duties
+hereunder.
+
+            3.9 Withholding and Other Deductions. All compensation payable to
+Employee hereunder shall be subject to such deductions as the Company is from
+time to time required to make pursuant to law, governmental regulation or order.
+
+
+      4. Representations and Warranties. Employee represents and warrants to the
+Company that (a) Employee is under no contractual or other restriction or
+obligation which is inconsistent with the execution of this Agreement, the
+performance of his duties hereunder, or the other rights of the Company
+hereunder, and (b) Employee is under no physical or mental disability that would
+hinder the performance of his duties under this Agreement. The Company
+represents and warrants to Employee that (i) the execution and delivery of this
+Agreement by the Company and the performance of its obligations hereunder have
+been duly authorized by the Board and no further corporate action on the
+Company's part is necessary to authorize this Agreement and the performance of
+such obligations; and (ii) this Agreement constitutes the valid and binding
+obligation of the Company, enforceable by Employee against the Company strictly
+in accordance with its terms (subject to laws in effect with respect to
+creditors' rights generally and applicable principles relating to equitable
+remedies).
+
+      5. Confidential Information. Employee acknowledges that the nature of
+Employee's engagement by the Company is such that Employee will have access to
+Confidential Information (as hereinafter defined) which has value to the
+Company. During the term of this Agreement and at all times thereafter, Employee
+shall keep all of the Confidential Information in confidence and shall not
+disclose any of the same to any other person, except the Company's personnel
+entitled thereto and other persons
+
+
+                                      -4-
+<PAGE>
+designated in writing by the Company or except as otherwise required by law.
+Employee shall not use the confidential Information for Employee's personal gain
+or benefit outside the scope of Employee's engagement by the Company. The term
+"Confidential Information," as used herein, means all information or material
+not generally known by non-Company personnel which (a) gives the Company some
+competitive business advantage or the opportunity of obtaining such advantage or
+the disclosure of which could be materially detrimental to the interests of the
+Company; (b) which is owned by the Company or in which the Company has an
+interest; and (c) which is either (i) marked "Confidential Information,"
+"Proprietary Information" or other similar marking, (ii) known by Employee to be
+considered confidential and proprietary by the Company, or (iii) form all the
+relevant circumstances should reasonably be assumed by Employee to be
+confidential and proprietary to the Company.
+
+      6. "Key Man" Insurance. The Company shall have the right to purchase "key
+man" life insurance covering Employee, in the name and for the benefit of the
+Company and at the Company's expense. Employee shall cooperate in all reasonable
+respects with the Company's efforts to obtain such insurance and shall submit to
+any required medical or other examination; provided, however, that if such
+medical or other examination cannot be conducted by Employee's personal
+physician, then Employee shall have the right to have his personal physician
+attend the examination. Upon the termination of his employment hereunder,
+Employee may acquire any such life insurance policy upon paying the Company an
+amount equal to the insurance policy's case surrender value, if any, at the time
+of termination and reimbursing the Company for the pro rata portion of any
+premium paid applicable to periods subsequent to the termination.
+
+      7. Termination; Separation Compensation.
+
+
+            7.1 Termination. Notwithstanding Section 1 above, Employee's
+employment with the Company shall terminate upon the earliest to occur of any of
+the following:
+
+
+               (a) the death of Employee;
+
+               (b) the "total disability" of Employee (as hereinafter defined);
+
+               (c) the expiration of ten (10) days after the receipt by Employee
+of written notice of termination executed by the Company if Employee shall make
+any intentional material misrepresentation to the Company's Board of Directors,
+commit any felony involving fraud, embezzlement, misappropriation or other
+criminal act with respect to Company, and/or any affiliates thereof;
+
+               (d) the expiration of one hundred eighty (180) days after receipt
+by the Company of written notice of termination executed by Employee;
+
+
+
+                                      -5-
+<PAGE>
+               (e) the expiration of ten (10) days after receipt by the Company
+of written notice of termination executed by Employee if, without Employee's
+written consent, there shall have been any adverse change in Employee's status,
+title, position, duties, responsibilities or authorities contemplated by this
+Agreement; or
+
+               (f) the expiration of ten (10) days after receipt by the Company
+of written notice of termination executed by Employee if there shall have been a
+material breach by the Company of any of its obligations under this Agreement,
+which default is not cured within such ten day period.
+
+            7.2 Definition of Total Disability. For purposes of this Agreement,
+Employee shall be deemed to have suffered a "total disability" if he is unable
+to perform substantially all of his duties theretofore performed by him under
+this Agreement by reason of any medically determinable physical or mental
+impairment which has lasted for not less than one hundred twenty (120)
+consecutive calendar days or for one hundred fifty (150) calendar days (whether
+or not consecutive) in any one hundred eighty (180) calendar days. Prior to
+termination of this Agreement as a result of total disability, and
+notwithstanding any failure or inability of Employee to render services
+hereunder, the Company shall continue to pay and/or provide to Employee the
+compensation and benefits specified in Section 3 hereof.
+
+            7.3 Separation Compensation. If Employee's employment terminates
+pursuant to Section 7.1(a), (b), (c), or of this Agreement, Employee shall be
+entitled to receive the Base Salary and other compensation and benefits provided
+for under this Agreement through the date of termination, but shall not be
+entitled to receive any severance pay or non-vested employment benefits or
+options, or any other termination benefits, except to the extent otherwise
+required to be paid under applicable California law. If Employee's employment
+terminates for any reason other than pursuant to the provisions of this
+Agreement referred to in the immediately preceding sentence, then Employee shall
+be entitled to receive (i) the Base Salary and other compensation and benefits
+provided for under this Agreement through the date of termination and (ii) an
+amount equal to three times Employee's then current annual Base Salary. The
+amount specified in clause (ii) above shall be payable immediately in cash
+commencing immediately following the termination of Employee's employment. The
+Company and Employee both agree that the amount of the severance payment
+specified in the immediately preceding sentence is reasonable under the
+circumstances existing at the time of the execution of this Agreement.
+
+            7.4 Mitigation. Employee shall not be required to mitigate the
+amount of any payment provided for in this Section 7 by seeking other employment
+or otherwise, and the amount of any payment or benefit provided in this Section
+7 shall not be reduced by any compensation earned by Employee as a result of
+employment by another employer or by any other benefits.
+
+                                      -6-
+<PAGE>
+      8. General Relationship. Employee shall be considered an employee of the
+Company within the meaning of all federal, state and local laws and regulations
+including, but not limited to, laws and regulations governing unemployment
+insurance, workers' compensation, industrial accident, labor and taxes.
+
+
+      9. Indemnification Agreement. As a material inducement to Employee to
+execute and deliver this Agreement, concurrently with the execution and delivery
+of this Agreement, the Company and Employee have executed and delivered an
+Indemnification Agreement in the form attached to this Agreement as Exhibit A.
+
+
+      10. Miscellaneous.
+
+
+            10.1 Entire Agreement. This Agreement sets forth the entire
+understanding of the parties with respect to the subject matter hereof,
+supersedes all existing agreements between them concerning such subject matter,
+and may be modified only by a written instrument duly executed by each party.
+
+
+            10.2 No Assignment. This Agreement may not be assigned by the
+Company or Employee without the prior written consent of the other (which
+consent may be granted or withheld by such party in its sole and absolute
+discretion), and any attempt to assign rights and duties without such written
+consent shall be null and void and of no force and effect. Subject to the
+preceding sentence, this Agreement shall inure to the benefit of and be binding
+upon the parties hereto and their respective successors and assigns.
+
+            10.3 Survival. The covenants, agreements, representations and
+warranties contained in or made pursuant to this Agreement shall survive
+Employee's termination of employment, irrespective of any investigation made by
+or on behalf of any party.
+
+
+            10.4 Third Party Beneficiaries. This Agreement does not create, and
+shall not be construed as creating, any rights enforceable by any person not a
+party to this Agreement.
+
+
+            10.5 Waiver. The failure of either party hereto at any time to
+enforce performance by the other party of any provision of this Agreement shall
+in no way affect such party's rights thereafter to enforce the same, nor shall
+the waiver by either party of any breach of any provision hereof be deemed to be
+a waiver by such party of any other breach of the same or any other provision
+hereof.
+
+            10.6 Section Headings. The headings of the several sections of this
+Agreement are inserted solely for the convenience of the parties and are not a
+part of and are not intended to govern, limit or add in the construction of any
+term or provision hereof.
+
+
+
+
+
+                                      -7-
+<PAGE>
+            10.7 Notices. all notices and other communications required or
+permitted under this Agreement shall be in writing, served personally or,
+telecopied, sent by courier or other express private mail service, or mailed by
+certified, registered or express United States mail postage prepaid, and shall
+be deemed given upon receipt if delivered personally, telecopied or sent by
+courier or other express private mail service, or if mailed when actually
+received as shown on the return receipt. Notices shall be addressed as follows:
+
+               (a) If to the Company, to:
+
+                   Commonwealth Energy Corporation
+                   15901 Read Hill Avenue, Suite 100
+                   Tustin, CA 92780
+
+
+               (b) If to Employee, to:
+
+                   Michael G. Nelson
+                   P.O. Box 1282
+                   Tustin, CA 92781
+
+      Either party may change its address for purposes of this Section by giving
+to the other, in the manner provided herein, a written notice of such change.
+
+            10.8 Severability. All sections, clauses and covenants contained in
+this Agreement are severable, and in the event any of them shall be held to be
+invalid in any court, this Agreement shall be interpreted as if such invalid
+sections, clauses or covenants were not contained herein.
+
+
+            10.9 Applicable Law. This Agreement is made with reference to the
+laws of the State of California, shall be governed by and construed in
+accordance therewith, and any court action brought under or arising out of this
+Agreement shall be brought in any competent court within the State of
+California, County of Orange.
+
+
+            10.10 Attorneys' Fees. If any legal action, arbitration or other
+proceeding is brought for the enforcement of this Agreement, or because of any
+alleged dispute, breach, default or misrepresentation in connection with this
+Agreement, the successful or prevailing party shall be entitled to recover
+reasonable attorneys' fees and other costs it incurred in that action or
+proceeding, in addition to any other relief to which it may be entitled.
+
+            10.11 Gender. Where the context so requires, the use of the
+masculine gender shall include the feminine and/or neuter genders and the
+singular shall include the plural, and vice verse, and the work "person" shall
+include any corporation, firm, partnership or other form of association.
+
+
+
+
+                                      -8-
+<PAGE>
+            10.12 Counterparts. This Agreement may be executed in one or more
+counterparts, each of which shall be deemed an original, but all of which
+together shall constitute one and the same Agreement.
+
+
+      IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be
+duly executed as of the date hereinabove set forth.
+
+Commonwealth Energy Corporation
+
+By: /S/ IAN B. CARTER                                     /S/MICHAEL G. NELSON
+    --------------------------                            --------------------
+    Ian B. Carter                                         Michael G. Nelson
+    Chief Executive Officer
+
+
+                                      -9-
+
+
+</TEXT>
+</DOCUMENT>

@@ -1,0 +1,294 @@
+<DOCUMENT>
+<TYPE>EX-10.2
+<SEQUENCE>3
+<FILENAME>ex10_2.txt
+<DESCRIPTION>EXHIBIT 10.2
+<TEXT>
+                          HOUSTON AMERICAN ENERGY CORP.
+
+                          STOCK OPTION AGREEMENT - NQO
+
+     THIS STOCK OPTION AGREEMENT (the "Agreement") is entered into by and among
+_________________, an individual (the "Optionee"), and HOUSTON AMERICAN ENERGY
+CORP., a Delaware corporation (the "Company").
+
+                                    RECITALS
+
+     WHEREAS, the Company has heretofore adopted the HOUSTON AMERICAN ENERGY
+CORP 2005 STOCK OPTION PLAN (the "Plan") for the purpose of providing eligible
+key employees, consultants and directors of the Company and its Affiliates (as
+defined in the Plan), with increased incentive to render services, to exert
+maximum effort for the business success of the Company and to strengthen the
+identification of employees, consultants and directors with the shareholders.
+The Company, acting through its Board of Directors (the "Board") or the
+Compensation Committee of the Board (the "Committee"), has determined that its
+interests will be advanced by the issuance to Optionee, as an employee of the
+Company, of a stock option under the Plan.
+
+     NOW, THEREFORE, in consideration of the foregoing recitals and the mutual
+promises, representations, warranties, covenants and agreements hereinafter set
+forth, and intending to be legally bound, the parties hereto hereby agree as
+follows:
+
+     SECTION 1.  GRANT OF OPTION.  Subject to the terms and conditions set forth
+herein, the Company hereby irrevocably grants to Optionee the right and option,
+of the character indicated on EXHIBIT A attached hereto ("Option"), to purchase
+                              ---------
+from the Company the number of shares of the Company's common stock, $0.001 par
+value ("Common Stock") set out on EXHIBIT A at the price per share indicated on
+                                  ---------
+EXHIBIT A.
+---------
+
+     SECTION 2.  OPTION PERIOD.  The Option herein granted may be exercised by
+Optionee in whole or in part at any time during a period beginning six months
+from the date hereof and ending on the date set out on EXHIBIT A (the "Option
+                                                       ---------
+Period").
+
+     SECTION 3.  PROCEDURE FOR EXERCISE.  The Option herein granted may be
+exercised by the delivery by Optionee of written notice to the Company setting
+forth the number of shares of Common Stock with respect to which the Option is
+being exercised.  The notice shall be accompanied by, at the election of the
+Optionee:
+
+          (a)     cash, cashier's check, bank draft, or postal or express money
+     order payable to the order of the Company;
+
+          (b)     certificates representing shares of Common Stock theretofore
+     owned by Optionee duly endorsed for transfer to the Company;
+
+
+<PAGE>
+          (c)     if approved by the Board or the Committee, to the extent
+     permitted by applicable law, a copy of irrevocable instructions to a broker
+     to deliver promptly to the Company the amount of sale or loan proceeds
+     necessary to pay the Option Price, and, if requested, the amount of any
+     federal, state, local or foreign withholding taxes. To facilitate the
+     foregoing, the Company may enter into agreements for coordinated procedures
+     with one or more brokerage firm; or
+
+          (d)     any combination of the preceding, equal in the value to the
+     aggregate exercise price.
+
+Notice may also be delivered by telecopy provided that the exercise price of
+such shares is received by the Company on the same day the telecopy transmission
+is received by the Company.  The notice shall specify the address to which the
+certificates for such shares are to be mailed.  An option to purchase shares of
+Common Stock hereunder shall be deemed to have been exercised immediately prior
+to the close of business on the date (i) written notice of such exercise and
+(ii) payment in full of the exercise price for the number of shares for which
+Options are being exercised, are both received by the Company and Optionee shall
+be treated for all purposes as the record holder of such shares of Common Stock
+as of such date.
+
+     As promptly as practicable after receipt of such written notice and
+payment, the Company shall cause the shares being purchased to be issued to the
+Optionee and to record the issuance of such shares to Optionee.
+
+     SECTION 4.  DISABILITY OR DEATH.  In the event the Optionee dies or is
+determined to be disabled during the term of this Option, the options previously
+granted to Optionee may be exercised (to the extent Optionee would have been
+entitled to do so at the date of death or the determination of disability) at
+any time and from time to time, by the Optionee, the guardian of Optionee's
+estate, the executor or administrator of Optionee's estate or by the person or
+persons to whom Optionee's rights under this Option Agreement shall pass by will
+or the laws of descent and distribution, but in no event may the Option be
+exercised after the earlier of twelve months from the date of death or
+disability or its expiration under the terms of this Option Agreement.  An
+Optionee shall be deemed to be disabled if, in the opinion of a physician
+acceptable to the Board or the Committee, Optionee is incapable of performing
+services for the Company of the kind Optionee was performing at the time the
+disability occurred by reason of any medically determinable physical or mental
+impairment which can be expected to result in death or to be of long, continued
+and indefinite duration.  The date of determination of disability for purposes
+hereof shall be the date of such determination by such physician.
+
+     SECTION 5.  TRANSFERABILITY.  This Option shall not be transferable by
+Optionee otherwise than by Optionee's will or by the laws of descent and
+distribution or pursuant to a qualified domestic relations order as defined in
+the Code or Title I of the Employee Retirement Income Security Act, as amended,
+or the rules thereunder.  During the lifetime of Optionee, the Option shall be
+exercisable only by Optionee.  Any heir or legatee of Optionee shall take rights
+herein granted subject to the terms and conditions hereof.  No such transfer of
+this Option Agreement to heirs or legatees of Optionee shall be effective to
+bind the Company unless the Company shall have been furnished with written
+notice thereof and a copy of such evidence as the Board or the Committee may
+deem necessary to establish the validity of the transfer and the acceptance by
+the transferee or transferees of the terms and conditions hereof.
+
+
+                                        2
+<PAGE>
+     SECTION 6.  NO RIGHTS AS SHAREHOLDER.  Optionee shall have no rights as a
+shareholder with respect to any shares of Common Stock covered by this Option
+Agreement until the Option is exercised by written notice and accompanied by
+payment as provided in Section 3 of this Option Agreement.
+
+     SECTION 7.  CHANGES IN CAPITAL STRUCTURE.  If the outstanding shares of
+Common Stock or other securities of the Company, or both, for which the Option
+is then exercisable shall at any time be changed or exchanged by declaration of
+a stock dividend, stock split, combination of shares, or recapitalization, the
+number and kind of shares of Common Stock or subject to the Option and the
+exercise price, shall be appropriately and equitably adjusted so as to maintain
+the proportionate number of shares or other securities without changing the
+aggregate exercise price.
+
+     SECTION 8.  COMPLIANCE WITH LAWS.  Notwithstanding any of the other
+provisions hereof, Optionee agrees that he or she will not exercise the Option
+granted hereby, and that the Company will not be obligated to transfer any
+shares pursuant to this Option Agreement, if the exercise of the Option or the
+transfer of such shares of Common Stock would constitute a violation by Optionee
+or by the Company of any provision of any law or regulation of any governmental
+authority.
+
+     SECTION 9.  NO RIGHT TO CONTINUED SERVICE.  Optionee shall be considered to
+be serving as an employee of the Company so long as he or she continues to
+provide services to the Company.  Any questions as to whether and when there has
+been a termination of such service as an employee and the cause of such
+termination shall be determined by the Board, and its determination shall be
+final.  Nothing contained herein shall be construed as conferring upon Optionee
+the right to continue in the service of the Company as an employee.
+
+     SECTION 10.  RESOLUTION OF DISPUTES.  As a condition of the granting of the
+Option hereby, Optionee, and Optionee's heirs, personal representatives and
+successors agree that any dispute or disagreement which may arise hereunder
+shall be determined by the Board in its sole discretion and judgment and that
+any such determination and any interpretation by the Board of the terms of this
+Option Agreement shall be final and shall be binding and conclusive, for all
+purposes, upon the Company, Optionee, and Optionee's heirs, personal
+representatives and successors.
+
+     SECTION 11.  LEGENDS ON CERTIFICATE.  The certificates representing the
+shares of Common Stock purchased by exercise of the Option will be stamped or
+otherwise imprinted with legends in such form as the Company or its counsel may
+require with respect to any applicable restrictions on sale or transfer and the
+stock transfer records of the Company will reflect stop-transfer instructions
+with respect to such shares.
+
+     SECTION 12.  NOTICES.  Every notice hereunder shall be in writing and shall
+be given by registered or certified mail.  All notices of the exercise of any
+Option hereunder shall be directed to the Company as follows: Houston American
+Energy Corp, 801 Travis, Suite 2020, Houston, Texas 77002.  Any notice given by
+the Company to Optionee shall be directed to Optionee at the address set forth
+on EXHIBIT A attached hereto.  The Company shall be under no obligation
+   ---------
+whatsoever to advise Optionee of the existence, maturity or termination of any
+of
+
+
+                                        3
+<PAGE>
+Optionee's rights hereunder and Optionee shall be deemed to have familiarized
+himself with all matters contained herein.
+
+     SECTION 13.  "MARKET STAND-OFF" AGREEMENT.  Optionee agrees that, if
+requested by the Company or the managing underwriter of any proposed public
+offering of the Company's securities, Optionee will not sell or otherwise
+transfer or dispose of any shares of Company common stock held by Optionee
+without the prior written consent of the Company or such underwriter, as the
+case may be, during such period of time, not to exceed one hundred eighty (180)
+days following the effective date of the registration statement filed by the
+Company with respect to such offering, as the Company or the underwriter may
+specify.
+
+     SECTION 14.  WITHHOLDING OF TAX.  Optionee shall notify the Company of the
+disposition of any shares of Common Stock acquired pursuant to this Option and,
+to the extent that the exercise of this Option or the disposition of shares of
+Common Stock acquired by exercise of this Option results in compensation income
+to Optionee for federal or state income tax purposes, Optionee shall pay to the
+Company at the time of such exercise or disposition (or such other time as the
+law permits if Optionee is subject to Section 16(b) of the Securities Exchange
+Act of 1934, as amended) such amount of money as the Company may require to meet
+its obligation under applicable tax laws or regulations; and, if Optionee fails
+to do so, the Company is authorized to withhold from any cash remuneration then
+or thereafter payable to Optionee, any tax required to be withheld by reason of
+such resulting compensation income or Company may otherwise refuse to issue or
+transfer any shares otherwise required to be issued or transferred pursuant to
+the terms hereof.
+
+     SECTION 15.  AGREEMENT SUBJECT TO PLAN.  This Option Agreement is subject
+to the Plan.  The terms and provisions of the Plan (including any subsequent
+amendments thereto) are hereby incorporated herein be reference thereto.  In the
+event of a conflict between any term or provision contained herein and a term or
+provision of the Plan, the applicable terms and provisions of the Plan will
+govern and prevail.  All definitions of words and terms contained in the Plan
+shall be applicable to this Option Agreement.
+
+     SECTION 16.  BINDING EFFECT.  This Option Agreement shall be binding upon
+and inure to the benefit of any successors to the Company and all persons
+lawfully claiming under Optionee as provided herein.
+
+     IN WITNESS WHEREOF, this Stock Option Agreement has been executed as of
+this ___ day of ________ 20__.
+
+                                        HOUSTON AMERICAN ENERGY CORP
+
+                                        By:
+                                           ---------------------------
+                                        John Terwilliger, President
+
+                                        OPTIONEE:
+
+
+                                        ------------------------------
+
+
+                                        4
+<PAGE>
+                                    EXHIBIT A
+
+                             STOCK OPTION AGREEMENT
+
+
+OPTION GRANT DATE:
+                         ----------------------
+
+OPTIONEE:
+                         ----------------------
+
+OPTIONEE ADDRESS:
+                         ----------------------
+
+                         ----------------------
+
+OPTION CHARACTER:
+                         ----------------------
+
+NUMBER OF
+OPTION SHARES:
+                         ----------------------
+
+EXERCISE PRICE:          $
+                          ---------------------
+
+OPTION PERIOD:
+                         ----------------------
+
+VESTING SCHEDULE:
+                         ----------------------
+
+
+IN WITNESS WHEREOF, this Exhibit A to Stock Option Agreement has been executed
+and acknowledged as of the day and date indicated.
+
+                                        HOUSTON AMERICAN ENERGY CORP
+
+Dated:             , 20
+       ------------    --
+                                        By:
+                                           ---------------------------
+                                        John Terwilliger, President
+
+
+                                        OPTIONEE:
+Dated:             , 20
+       ------------    --
+
+                                        ------------------------------
+
+
+                                        5
+
+</TEXT>
+</DOCUMENT>

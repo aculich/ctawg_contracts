@@ -1,0 +1,121 @@
+<DOCUMENT>
+<TYPE>EX-10.10
+<SEQUENCE>2
+<FILENAME>ex10-10.txt
+<DESCRIPTION>EQUITY AND CLAIM TRANSFER AGREEMENT
+<TEXT>
+                                                                   Exhibit 10.10
+
+
+  JILIN YICAOTANG PHARMACEUTICAL CO., LTD. EQUITY AND CLAIM TRANSFER AGREEMENT
+
+Party A (Transferor): Jilin Tian Yao Science and Technology Limited Company
+
+Legal Representative: Ms. Lianqin Qu
+
+Business Address: 509 Maoxiang Street,  High-Tech  Development Area,  Changchun,
+Jilin, China.
+
+Party B (Transferee): Mr. Daojun Wang
+
+National ID: 220225196010230114
+
+Where as:
+
+     1.   Party A is a corporation  registered with Commerce and Industry Bureau
+          of Jilin.
+
+     2.   Party B is a Chinese resident with civil capacity.
+
+     3.   Jilin  Yicaotang  Pharmaceutical  Co.,  Ltd.  ("YCT") has a registered
+          capital of 10,000,000 RMB, Party A has 95% of equity interest.
+
+     4.   As of January 21, 2007, YCT's has total asset of 23,840,000 RMB, total
+          liability of 15,930,000  RMB, net asset  7,910,000  RMB,  Party A owns
+          7,520,000  RMB of YCT's  shareholder's  equity.  Party A is also YCT's
+          creditor of 9,780,000 RMB debt (including  925,500 RMB debts which the
+          creditor is Jilin Bencaotang  Pharmaceutical Co., Ltd ("BCT"), Party A
+          holds 75% of equity interest of BCT).
+
+Based on the above, after negotiation, both Parties have made the following
+agreement on the sale of Party A's shares and claims of YCT to Party B:
+
+     1.   Party A will transfer  9,500,000  shares  (represent  95% of the total
+          outstanding  shares of YCT) and  9,780,000  RMB claims to Party B. The
+<PAGE>
+          consideration is 9,000,000 RMB (including the shares and claims).
+
+     2.   Payment schedule (Party B is to pay the amount shown on the due date):
+
+                    Due Date                           Amount Due (in RMB)
+                    --------                           -------------------
+          3 days after signing this agreement                500,000
+          May 30, 2007                                       500,000
+          November 30, 2007                                1,000,000
+          May 30, 2008                                     1,000,000
+          November 30, 2008                                1,000,000
+          May 30, 2009                                     1,000,000
+          November 30, 2009                                1,000,000
+          May 30, 2010                                     1,000,000
+          November 30, 2010                                1,000,000
+          May 30, 2011                                     1,000,000
+
+          Party B may make payment before the due date.
+
+     3.   Party A will  assist  the share  transfer  and  update  YCT's  Company
+          By-Laws  and the  shareholders  list  within  one month when the first
+          payment of 500,000 RMB is made.  Party B is  responsible  for the fees
+          for transferring of the shares.
+
+     4.   After the shares are  transferred to Party B, these shares  (9,500,000
+          shares)  will be used as  collateral  for  the  remaining  payment  of
+
+                                       2
+<PAGE>
+          8,500,000  RMB.  Party B is not  allowed to  transfer  or dispose  any
+          shares before the payment is made in full.
+
+     5.   After  the  shares  are  transferred  to  Party  B,  Party  B will  be
+          responsible for all the liabilities and claims of YCT.
+
+     6.   If Party B is unable to make a payment  on the due date,  Party A will
+          charge  Party B 0.5%  interest on the balance  past due. If Party B is
+          unable to make a payment  and  interested  (if any) within 6 months of
+          the due date, Party A is entitled to receive the unpaid shares and the
+          management  of YCT. If Party B is unable to make a payment and Party A
+          claims the unpaid  shares,  the net asset per share at the time of the
+          claim should not be less than the net asset per share at the time when
+          Party A  transfers  the  shares  to  Party  B  (Party  B will  pay the
+          difference  if that is the  case).  When  Party A  claims  the  unpaid
+          shares,  Party A is also  entitled to part of the claims of YCT, up to
+          the  percent  of the  shares it holds.  When Party A claims the unpaid
+          shares, the interest charges (if there is any) is also due.
+
+     7.   Before Party B made full payment to Party A, if either party  violated
+          any part of this  agreement,  the party which  violated the  agreement
+          should compensate the other party for the loss.
+
+     8.   Both  Parties  may  negotiate  additional  agreement,  the  additional
+          agreement has the same legal status as this agreement.
+
+     9.   This agreement has three copies,  each party holds one copy, YCT holds
+          one copy.  10. This agreement is effective once signed by both parties
+          and stamped by Party A.
+
+Party A (Transferor): Jilin Tian Yao Science and Technology Limited Company
+
+
+Legal Representative: Lianqin Qu (Signature) /s/ Lianqin Qu
+                                            --------------------------
+
+Party B: Daojun Wang
+
+
+Signature: /s/ Daojun Wang
+          --------------------------
+
+Date: May 11, 2007
+
+                                       3
+</TEXT>
+</DOCUMENT>

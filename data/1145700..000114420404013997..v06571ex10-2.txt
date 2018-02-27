@@ -1,0 +1,338 @@
+<DOCUMENT>
+<TYPE>EX-10.2
+<SEQUENCE>3
+<FILENAME>v06571ex10-2.txt
+<TEXT>
+
+                                ESCROW AGREEMENT
+
+      ESCROW AGREEMENT (this "Agreement"), dated as of , 2004, by and between
+Vital Living, Inc., a Nevada corporation with its principal place of business at
+5080 North 40th Street, Suite 105, Phoenix, Arizona 85018 (the "Target
+Company"); Gottbetter & Partners, LLP with its principal place of business at
+488 Madison Avenue, New York, NY 10022 (the "Escrow Agent"); and Langley Park
+Investments Plc, a corporation organized under the laws of England and Wales
+with its offices at 30 Farringdon Street, London EC4A 4HJ ("Langley").
+
+                                    Recitals
+
+            A. Simultaneously with the execution of this Agreement, Langley and
+the Target Company entered into a Stock Purchase Agreement (the "Stock Purchase
+Agreement"), dated as of the date hereof and incorporated herein by reference,
+pursuant to which the Target Company has agreed to issue to Langley the
+Consideration Stock in exchange for the Langley Consideration Shares.
+
+            B. The parties have agreed that the Consideration Stock and Langley
+Consideration Shares shall be deposited into escrow pursuant to this Agreement,
+including fifty percent (50%) of the Langley Consideration Shares to be
+deposited into escrow as Downside Price Protection (the "Langley Escrow
+Shares").
+
+            C. The Escrow Agent is willing to act as escrow agent pursuant to
+the terms of this Agreement with respect to the purchase of the shares of
+Consideration Stock.
+
+            D. All capitalized terms used but not defined herein shall have the
+meanings ascribed thereto in the Stock Purchase Agreement.
+
+      NOW, THEREFORE, IT IS AGREED:
+
+            1. Deposit into Escrow. At Closing, the parties shall deposit into
+escrow (i) the Langley Consideration Shares, (ii) the Consideration Stock and
+(iii) the stock power executed by Langley. The deposit of the Langley
+Consideration Shares, at the election of Langley, may be made as (i) a
+certificate in the name of the Target Company or a provisional letter of
+allotment for a trading account in the name of the Escrow Agent representing the
+Langley Escrow Shares and (ii) a certificate in the name of the Target Company
+or a provisional letter of allotment for a trading account in the name of the
+Escrow Agent for the benefit of the Target Company representing the balance of
+the Langley Consideration Shares. The Escrow Agent shall hold the Langley
+Consideration Shares and the Consideration Stock in escrow when delivered.
+
+            2. Terms of Escrow. (a) If at any time before September 30, 2004,
+the Escrow Agent receives written notice (the "LSE Notice") from Langley that
+the Langley Consideration Shares are listed on the London Stock Exchange plc
+(the "London Exchange"), the Escrow Agent is authorized and directed to
+distribute, within fourteen (14) Business Days of receipt of such LSE Notice,
+(i) the Consideration Stock to Langley and (ii) fifty percent (50%) of the
+Langley Consideration Shares to the Target Company. If the Escrow Agent does not
+receive such LSE Notice by September 30, 2004, the Escrow Agent is authorized
+and directed to distribute, no later than October 5, 2004, (i) the Consideration
+Stock and the stock power executed by Langley to the Target Company and (ii) the
+Langley Consideration Shares to Langley; provided, however, that the Target
+Company shall have the option to extend the September 30, 2004 deadline by
+providing written notice to the Escrow Agent with a written acknowledgement from
+Langley. At such time, the Consideration Stock and Langley Consideration Shares
+shall be cancelled.
+
+
+                                       1
+<PAGE>
+
+      (b) If the Market Value of the Common Stock on the date occurring two
+years after Closing (the "Two Year Anniversary") is less than the Closing Price,
+the Target Company shall sell to Langley and Langley shall purchase the number
+of Langley Escrow Shares (the "Langley Protection Shares") equal to (a) the
+Langley Consideration Shares multiplied by (b) the Percentage Decrease, at a
+purchase price of 1p per Langley Consideration Share (the "Escrow Purchase
+Price"). The "Percentage Decrease" shall be equal to 1 - Market Value/the
+Closing Price. "Market Value" shall be the average of the ten (10) closing bid
+prices per share of the Common Stock during the ten (10) trading days
+immediately preceding the Two Year Anniversary.
+
+      Within three (3) Business Days of the Two Year Anniversary, Langley shall
+(i) send a notice ("Sale Notice") to the Target Company and the Escrow Agent of
+the Langley Protection Shares to be sold by the Target Company to Langley, if
+any, and (ii) deposit the Escrow Purchase Price with the Escrow Agent, if
+necessary. Within fourteen (14) Business Days of the Target Company's and the
+Escrow Agent's receipt of the Sale Notice and Escrow Agent's receipt of the
+Escrow Purchase Price, the Escrow Agent is authorized and directed (i) to pay
+the Escrow Purchase Price to the Target Company, if any, (ii) to deliver the
+Langley Protection Shares, if any, and (iii) to deliver the remaining Langley
+Escrow Shares, if any, to the Target Company.
+
+      3. Duties and Obligations of the Escrow Agent.
+
+      (a) The parties hereto agree that the duties and obligations of the Escrow
+Agent shall be only those obligations herein specifically provided and no other.
+The Escrow Agent's duties are those of a depositary only, and the Escrow Agent
+shall incur no liability whatsoever, except as a direct result of its willful
+misconduct or gross negligence in the performance of its duties hereunder;
+
+      (b) The Escrow Agent may consult with counsel of its choice, and shall not
+be liable for any action taken, suffered or omitted to be taken by it in
+accordance with the advice of such counsel;
+
+      (c) The Escrow Agent shall not be bound in any way by the terms of any
+other agreement to which Langley and the Target Company are parties, whether or
+not the Escrow Agent has knowledge thereof, and the Escrow Agent shall not in
+any way be required to determine whether or not any other agreement has been
+complied with by Langley and the Target Company, or any other party thereto. The
+Escrow Agent shall not be bound by any modification, amendment, termination,
+cancellation, rescission or supersession of this Agreement unless the same shall
+be in writing and signed jointly by Langley and the Target Company and agreed to
+in writing by the Escrow Agent;
+
+
+                                       2
+<PAGE>
+
+      (d) If the Escrow Agent shall be uncertain as to its duties or rights
+hereunder or shall receive instructions, claims or demands which, in its
+opinion, are in conflict with any of the provisions of this Agreement, the
+Escrow Agent shall be entitled to refrain from taking any action other than
+keeping safely the Consideration (as defined below) or taking certain action
+until the Escrow Agent is directed otherwise in writing jointly by Langley and
+the Target Company or by a final judgment of a court of competent jurisdiction;
+
+      (e) The Escrow Agent shall be fully protected in relying upon any written
+notice, demand, certificate or document which the Escrow Agent, in good faith,
+believes to be genuine. The Escrow Agent shall not be responsible for the
+sufficiency or accuracy of the form, execution, validity or genuineness of
+documents or securities now or hereafter deposited hereunder or of any
+endorsement thereon, or for any lack of endorsement thereon, or for any
+description therein; nor shall the Escrow Agent be responsible or liable in any
+respect on account of the identity, authority or rights of the persons executing
+or delivering or purporting to execute or deliver any such document, security or
+endorsement;
+
+      (f) The Escrow Agent shall not be required to institute legal proceedings
+of any kind and shall not be required to defend any legal proceedings which may
+be instituted against it or in respect of the Consideration;
+
+      (g) If the Escrow Agent at any time, in its sole discretion, deems it
+necessary or advisable to relinquish custody of any of the Securities (to the
+extent delivered to the Escrow Agent pursuant hereto, the "Consideration"), it
+may do so by delivering the same to another Person that agrees to act as escrow
+agent hereunder and whose substitution for the Escrow Agent is agreed upon in
+writing by Langley and the Target Company; provided, however, that such
+successor Escrow Agent must be resident in the United States. If no such escrow
+agent is selected within three (3) days after the Escrow Agent gives notice to
+Langley and the Target Company of the Escrow Agent's desire to so relinquish
+custody of the Consideration and resign as Escrow Agent, then the Escrow Agent
+may do so by delivering the Consideration to the clerk or other proper officer
+of a state or federal court of competent jurisdiction situate in the state and
+county of New York. The fee of any court officer shall be borne by the Target
+Company. Upon such delivery, the Escrow Agent shall be discharged from any and
+all responsibility or liability with respect to the Consideration and this
+Agreement and each of the Target Company and Langley shall promptly pay all
+monies it may owe to the Escrow Agent for its services hereunder, including, but
+not limited to, reimbursement of its out-of-pocket expenses pursuant to
+paragraph (i) below;
+
+      (h) This Agreement shall not create any fiduciary duty on the Escrow
+Agent's part to Langley or the Target Company, nor disqualify the Escrow Agent
+from representing either party hereto in any dispute with the other, including
+any dispute with respect to the Purchase Agreement; provided, however, that in
+the event of such dispute, the Escrow Agent shall have the right to commence an
+interpleader action in any court of competent jurisdiction of the state of New
+York or of the United States located in the county and state of New York,
+deposit the Consideration with such court;
+
+
+                                       3
+<PAGE>
+
+      (i) The parties acknowledge and agree that the Escrow Agent is counsel to
+Langley. The parties agree to, and agree not to object to, the Escrow Agent's
+engagement as Escrow Agent hereunder;
+
+      (j) Upon the full performance of this Agreement, the Escrow Agent shall be
+deemed released and discharged of any further obligations hereunder.
+
+      4. Indemnification.
+
+      (a) Langley hereby indemnifies and holds free and harmless the Escrow
+Agent from any and all losses, expenses, liabilities and damages (including but
+not limited to reasonable attorney's fees, and amounts paid in settlement)
+resulting from claims asserted by the Target Company against the Escrow Agent
+with respect to the performance of any of the provisions of this Agreement;
+
+      (b) The Target Company hereby indemnifies and holds free and harmless the
+Escrow Agent from any and all losses, expenses, liabilities and damages
+(including but not limited to reasonable attorney's fees, and amount paid in
+settlement) resulting from claims asserted by Langley against the Escrow Agent
+with respect to the performance of any of the provisions of this Agreement;
+
+      (c) Langley and the Target Company, jointly and severally, hereby
+indemnify and hold the Escrow Agent harmless from and against any and all
+losses, damages, taxes, liabilities and expenses that may be incurred by the
+Escrow Agent, arising out of or in connection with its acceptance of appointment
+as the Escrow Agent hereunder and/or the performance of its duties pursuant to
+this Agreement, the Purchase Agreement and the Securities, including, but not
+limited to, all legal costs and expenses of the Escrow Agent incurred defending
+itself against any claim or liability in connection with its performance
+hereunder, provided that the Escrow Agent shall not be entitled to any indemnity
+for any losses, damages, taxes, liabilities or expenses that directly result
+from its willful misconduct or gross negligence in its performance as Escrow
+Agent hereunder
+
+      (d) In the event of any Proceeding involving any of the parties to this
+Agreement which is brought to enforce or otherwise adjudicate any of the rights
+or obligations of the parties hereunder, the non-prevailing party or parties
+shall pay the legal fees of the prevailing party or parties and the legal fees,
+if any, of the Escrow Agent.
+
+      5. Miscellaneous.
+
+
+                                       4
+<PAGE>
+
+      (a) All notices, including Notices of Conversion and Notices of Exercise,
+objections, requests, demands and other communications sent to any party
+hereunder shall be deemed duly given if (x) in writing and sent by facsimile
+transmission to the Person for whom intended if addressed to such Person at its
+facsimile number set forth below or such other facsimile number as such Person
+may designate by notice given pursuant to the terms of this Section 5 and (y)
+the sender has confirmation of transmission:
+
+(i)      If to the Target Company:          Vital Living, Inc.
+                                            5080 North 40th Street
+                                            Suite 105
+                                            Phoenix, Arizona 85018
+                                            Attn:  CEO
+                                            Tel:  (602) 952-9909
+                                            Fax:  (602) 952-6907
+
+         With a copy to:
+
+
+
+(ii)     If to Langley:                     Langley Park Investments PLC
+                                            30 Farringdon Street
+                                            London EC4A 4HJ
+                                            Attn: Harry Pearl
+                                            Tel: 44.207.569.0044
+                                            Fax: 44.207.724.0090
+
+(iii)                                       If to the Escrow
+                                            Agent: Gottbetter
+                                            & Partners, LLP
+                                            488 Madison Ave.
+                                            New York, New York
+                                            10022 Attn: Adam
+                                            S. Gottbetter,
+                                            Esq. Tel: (212)
+                                            400-6900 Fax:
+                                            (212) 400-6901
+
+      (b) This Agreement has been prepared, negotiated and delivered in the
+state of New York and shall be governed by and construed and enforced in
+accordance with the laws of the state of New York applicable to contracts
+entered into and performed entirely within New York, without giving effect to
+the principles of New York law relating to the conflict of laws.
+
+      (c) This Agreement may be executed in two or more counterparts, all of
+which when taken together shall be considered one and the same agreement and
+shall become effective when counterparts have been signed by each party and
+delivered to the other party, it being understood that both parties need not
+sign the same counterpart. In the event that any signature is delivered by
+facsimile transmission, such signature shall create a valid and binding
+obligation of the party executing (or on whose behalf such signature is
+executed) the same with the same force and effect as if such facsimile signature
+page were an original thereof.
+
+      (d) This Agreement shall be binding upon and inure to the benefit of the
+parties and their successors and permitted assigns. The assignment by a party of
+this Agreement or any rights hereunder shall not affect the obligations of such
+party under this Agreement.
+
+
+                                       5
+<PAGE>
+
+      6. Termination of Escrow. The term of this Escrow Agreement shall begin
+upon the date hereof and shall continue until terminated upon the earlier to
+occur of (i) the Langley Escrow Shares are fully distributed or (ii) the written
+agreement of the parties to terminate this Agreement. Upon the termination of
+this Escrow Agreement pursuant to subsection (ii), the Escrow Agent shall
+distribute any of the Langley Escrow Shares then held by it pursuant to the
+terms of the written agreement of the parties.
+
+
+                           [ SIGNATURE PAGE FOLLOWS ]
+
+
+                                       6
+<PAGE>
+
+      IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be
+signed the day and year first above written.
+
+
+                                         The Target Company:
+
+                                         Vital Living, Inc.
+
+
+                                         By: ______________________________
+                                         Name:
+                                         Title:
+
+
+                                         Langley:
+
+                                         Dungarvon Associates, Inc. on behalf of
+Langley Park Investments Plc.
+
+
+                                         By: ______________________________
+                                         Name:
+                                         Title:
+
+
+                                         Escrow Agent:
+
+                                         Gottbetter & Partners, LLP
+
+
+                                         By:______________________________
+                                         Name: Adam S Gottbetter
+                                         Title: Managing Partner
+
+
+                                       7
+
+</TEXT>
+</DOCUMENT>

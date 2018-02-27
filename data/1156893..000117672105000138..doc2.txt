@@ -1,0 +1,1496 @@
+<DOCUMENT>
+<TYPE>EX-10.1
+<SEQUENCE>2
+<FILENAME>doc2.txt
+<DESCRIPTION>MASTER  SERVICES  AGREEMENT
+<TEXT>
+
+Exhibit  10.1:  Master  Services  Agreement,  dated  August 4, 2005, between NS8
+Corporation  and  SAVVIS  Communications  Corporation
+
+MASTER  SERVICES  AGREEMENT
+
+     THIS  MASTER SERVICES AGREEMENT, together with all Service Addenda, Service
+Order(s)  and exhibits attached hereto and incorporated herein from time to time
+(collectively,  "Agreement"),  is  entered  into  this  _____  day  of  _____,
+("Effective  Date")  by  and  between  the  SAVVIS  Communications  Corporation
+("SAVVIS")  and  NS8  Corporation  ("Customer").
+
+1.     Services;  Additional  Services;  Service  Level  Agreement.
+
+A.     Services;  Service Level Agreement.  SAVVIS, through itself and/or any of
+its  affiliates,  agrees  to  provide  Customer  the  services  ("Service"  or
+"Service(s)")  in  accordance  with  this  Agreement.  For  purposes  of  this
+Agreement,  "Service  Addendum" shall refer to the specific terms and conditions
+and  any  applicable  service  level  agreement  ("SLA")  attached  thereto  and
+incorporated  herein,  that  applies  to  the  Service(s) purchased by Customer.
+"Service  Order" shall collectively refer to any service order(s), authorization
+form(s)  or  order  form(s)  that  describes  and sets forth the pricing for the
+Service(s)  purchased  by  Customer. Service Orders shall be effective as of the
+date  of acceptance by SAVVIS. SAVVIS reserves the right to accept or reject any
+Service  Order.  The  parties acknowledge that SAVVIS' obligation to provide the
+Service(s)  is  subject to its having obtained all of the requisite licenses and
+consents  related  thereto.
+
+B.     Additional  Services.  From  time  to time, Customer may order additional
+Service(s)  by  executing a Service Order, and, if necessary a Service Addendum.
+In  addition,  any  service requested by Customer and performed by SAVVIS beyond
+that  explicitly described in the applicable Service Addenda or Service Order(s)
+shall  be  at  an  additional cost, and Customer shall reimburse SAVVIS for such
+additional  costs  incurred.  The  rates  and  description  for  such additional
+services,  if  any, are attached to the applicable Service Addendum, or shall be
+mutually  agreed  upon  by  the  parties  in  a  separate  agreement.
+
+2.     Term.  The term of the Agreement shall commence on the Effective Date and
+shall  continue  thereafter  until  the  expiration of the last expiring Service
+term,  as  contained  in  the  Service Addendum or Service Order, unless earlier
+terminated in accordance with this Agreement ("Agreement Term"). SAVVIS reserves
+the  right  to  change its rates or the SLA during any Service's renewal term by
+notifying Customer at least ninety (90) days in advance of the effective date of
+such  rate  or  SLA  change.
+
+3.     Billing;  Payment;  Deposit;  Business  Downturn.
+
+A.     Billing.  Billing  for  each  Service  shall  commence  on  the  Billing
+Commencement  Date  or  Service  Commencement Date, as defined in the applicable
+Service  Addendum.  In  the event SAVVIS is unable to deliver the Service(s) due
+to  any  reason,  issue  or  delay  caused  either directly or indirectly by the
+Customer  or  its  agents,  such Service(s) shall be deemed delivered and SAVVIS
+shall commence billing when SAVVIS is ready to deliver such Service(s). Customer
+will  be invoiced monthly for all amounts due and owing to SAVVIS.  All invoices
+shall  be deemed final and binding unless Customer notifies SAVVIS in writing of
+any  alleged  discrepancies  no later than sixty (60) days from the date of such
+invoice(s).
+
+B.     Payment.  All  payments are due within thirty (30) days after the date of
+the  invoice(s)  without  set-off  or demand ("Due Date").  The charges and fees
+under  this  Agreement are exclusive of any national, state, municipal, or other
+governmental  excise,  sales, value-added and occupational taxes and other fees,
+surcharges  and  levies,  third party installation charges, and/or Inside Wiring
+Pass Thrus, all of which Customer shall be responsible for and will pay in full.
+Customer will be deemed to be in default hereunder if payment is not received by
+the  Due Date and, in addition to its other remedies, SAVVIS may charge Customer
+interest  equal  to  1/2%  per  month  on  any  amount(s)  past  due.
+
+
+<PAGE>
+C.     Deposit.  The  provision of Service(s) under this Agreement is contingent
+upon  SAVVIS'  initial  and continuing credit approval of Customer.  At any time
+during the Agreement Term, SAVVIS may require a deposit or other acceptable form
+of  security  if  it reasonably deems itself insecure with respect to Customer's
+ability  to  pay.  In addition to its termination rights under Section 6 of this
+Agreement, SAVVIS may, immediately and without notice, suspend the Service(s) if
+Customer  fails to comply with these security obligations.  During any period of
+suspension,  no  service  interruption  shall  be  deemed  to  occur.
+
+D.     Business  Downturn.  In  the  event  that  a  business  downturn  beyond
+Customer's  reasonable  control  significantly  reduces  the  size  or  scope of
+Customer's  operations  and  the  volume  of  Services  required  by  Customer
+(notwithstanding  Customer's  best efforts to avoid such a downturn), SAVVIS and
+Customer  will  cooperate in efforts to develop a mutually agreeable alternative
+proposal  that  will  address  the  concerns of both parties and comply with all
+applicable  legal  and  regulatory  requirements  and  restrictions.  By  way of
+example  and  not  limitation,  such alternative proposal may include changes in
+discounts,  credits,  revenue  and/or  volume  commitments,  the term, and other
+provisions.  This  provision  shall  not  apply  to  a  change  resulting from a
+decision  by  Customer  to:  (i)  reduce  its  overall use of telecommunications
+services  except  as  result  of  business  downturn:  (ii)  alter  its
+telecommunications  network  architecture except as result of business downturn;
+or  (iii) transfer portions of its traffic or projected growth to carriers other
+than  SAVVIS.  Customer  must  give  SAVVIS  immediate  written  notice  of  the
+conditions  it  believes  will require application of this provision and may not
+invoke  it  more  than  one  (1)  time during the Term.  This provision does not
+constitute a waiver of any charges, including underutilization charges, incurred
+by  Customer  prior  to  the time the parties mutually agree to amend or replace
+this  Agreement.  If,  after  negotiating  in  good  faith,  the  parties do not
+mutually  agree  on  an  alternative  proposal, all terms and conditions of this
+Agreement  shall  remain  in  full  force  and  effect.
+
+4.     Compliance  with  Laws  and  Acceptable  Use.
+
+A.     SAVVIS'  network  and  Service(s) may only be used in accordance with the
+Agreement.  Customer  and  its  customers and end-users will comply at all times
+with  all  applicable  laws  and  regulations, SAVVIS' operating procedures, and
+SAVVIS'  Acceptable  Use  Policy  located  on  its  website  at
+http://www.savvis.net/company/profile/aup.html  and  incorporated  herein  by
+reference  ("AUP").  Customer  or  any  other entity or person shall not use the
+Service(s)  or  SAVVIS'  network  in  a  fraudulent  manner  or in a manner that
+violates  the  AUP  or  any  applicable  law or regulation, or otherwise exposes
+SAVVIS to legal liability, whether or not this use is authorized or consented to
+by  Customer  (each  such  circumstance,  "Service  Misuse").
+
+B.     Customer  acknowledges  that  SAVVIS exercises no control whatsoever over
+the  content  (any  and  all  content of Customer or Customer's end users and/or
+customers,  including  but  not  limited  to data, text, multimedia images (e.g.
+graphics, audio and video files), software, applications, or other materials, or
+any  content  shared  or  processed  on equipment under the control of SAVVIS on
+behalf  of  Customer  (collectively  "Content")),  and  that  it  is  the  sole
+responsibility  of  Customer  to ensure that the information and Content  it and
+its  end-users  and/or customers transmit, receive, or use complies with the AUP
+and  all  applicable  laws  and  regulations.
+
+C.     In  addition  to any other remedies available at law or in equity, SAVVIS
+may  immediately  and without notice suspend or block access to a Service or all
+Services  (each  such  circumstance,  a  "Service  Suspension")  and/or restrict
+Customer's access to the Internet Data Center(s), if deemed reasonably necessary
+by  SAVVIS to prevent any harm to SAVVIS, its employees and its business for any
+of  the  following reasons: (a) to comply with any law, regulation, court order,
+or  other  governmental  request  or  order  requiring  immediate action; (b) to
+prevent  interference with, damage to, or degradation of SAVVIS' network; (c) to
+eliminate  a  hazardous  condition;  (d)  if  required by SAVVIS' vendor; or (e)
+Service  Misuse.  Customer  shall  not  be  relieved  of its payment obligations
+hereunder  during  any  period  of  Service  Suspension.
+
+D.     Notwithstanding  anything  to  the  contrary contained in this Agreement,
+SAVVIS  reserves the right to immediately terminate the Services or Agreement in
+the  event  that SAVVIS becomes aware that Customer, or other persons making use
+of  Customer's  Services  are  in  breach  of  this  Section.
+
+5.     DISCLAIMERS  OF  WARRANTY.
+
+A.     THE  SERVICE(S)  ARE PROVIDED "AS IS" AND "AS AVAILABLE" AND SAVVIS MAKES
+NO WARRANTIES OR REPRESENTATIONS OF ANY KIND CONCERNING THE SERVICE(S), SOFTWARE
+OR  EQUIPMENT  OR  ANY  RESULTS  TO  BE  ACHIEVED THROUGH USE OF THE SERVICE(S),
+SOFTWARE  OR  EQUIPMENT.  SAVVIS DOES NOT WARRANT THAT THE EQUIPMENT OR SOFTWARE
+WILL  BE  COMPATIBLE  WITH  ANY  EQUIPMENT  OR SOFTWARE NOT FURNISHED BY SAVVIS.
+SAVVIS  DISCLAIMS  ALL  WARRANTIES, INCLUDING THE WARRANTIES OF MERCHANTIBILITY,
+QUALITY,  FITNESS  FOR  A PARTICULAR PURPOSE, NONINFRINGEMENT AND TITLE, AND ALL
+
+
+<PAGE>
+IMPLIED  WARRANTIES  ARISING FROM A COURSE OF DEALING, USAGE, OR TRADE PRACTICE.
+SAVVIS  SPECIFICALLY DISCLAIMS ANY RESPONSIBILITY FOR THE ACCURACY OR QUALITY OF
+INFORMATION  OBTAINED  THROUGH ITS SERVICE(S), THE USE OF WHICH IS AT CUSTOMER'S
+OWN  RISK.
+
+B.     CUSTOMER'S  SOLE AND EXCLUSIVE REMEDY IN THE EVENT OF ANY SERVICE OUTAGE,
+INTERRUPTION  OR DEFICIENCY OF SERVICE(S) OR FAILURE BY SAVVIS TO MEET THE TERMS
+OF  AN  APPLICABLE SLA, SHALL BE THE REMEDIES PROVIDED IN THE SLA; PROVIDED THAT
+ANY  REMEDIES  OR  CREDITS  CONTAINED  IN THE SLA ARE NOT AVAILABLE FOR OUTAGES,
+INTERRUPTIONS  OR  DEFICIENCIES  OCCURRING DURING ANY PERIOD IN WHICH CUSTOMER'S
+ACCOUNT  HAS  A  PAST  DUE BALANCE OR THE CUSTOMER IS OTHERWISE IN BREACH OF THE
+AGREEMENT.  SAVVIS,  ITS  SERVICE  PROVIDERS  AND SUPPLIERS DISCLAIM ANY AND ALL
+OTHER LIABILITIES OR REMEDIES FOR SUCH OUTAGES, INTERRUPTIONS OR DEFICIENCIES OF
+SERVICE.
+
+C.     SAVVIS DOES NOT AND CANNOT CONTROL THE PERFORMANCE OF ANY DATA, PRODUCTS,
+OR  SERVICE(S)  CONTROLLED  OR  PROVIDED  BY  THIRD  PARTIES. AT TIMES ACTION OR
+INACTION  BY  THIRD  PARTIES  CAN  IMPAIR OR DISRUPT SAVVIS' SERVICE(S).  SAVVIS
+MAKES  NO  REPRESENTATIONS  AND EXPRESSLY DISCLAIMS ALL WARRANTIES REGARDING THE
+DATA,  PRODUCTS,  OR  SERVICE(S)  CONTROLLED  BY  ANY THIRD PARTY, INCLUDING THE
+PROVIDERS  OF  TELECOMMUNICATIONS  OR  NETWORK PRODUCTS OR SERVICES.  SUCH DATA,
+PRODUCTS, AND SERVICES ARE NOT PROMISED TO BE FREE OF ERROR OR INTERRUPTION, AND
+SAVVIS,  ITS SERVICE PROVIDERS AND SUPPLIERS EXPRESSLY DISCLAIMS ALL LIABILITIES
+ARISING  FROM  ANY  SUCH  ERROR,  INTERRUPTION,  OR  OTHER  FAILURE.  CUSTOMER
+ACKNOWLEDGES  THAT AN INTERRUPTION IN SERVICE(S) DUE TO CIRCUMSTANCES BEYOND THE
+REASONABLE CONTROL OF SAVVIS, SUCH AS A FAILURE OF TELECOMMUNICATIONS OR NETWORK
+SYSTEMS  NOT CONTROLLED BY SAVVIS, SHALL BE CONSIDERED A FORCE MAJEURE HEREUNDER
+AND  NOT  A  SERVICE  OUTAGE  OR  SERVICE  DEFICIENCY FOR PURPOSES OF ANY REMEDY
+PROVIDED  IN  AN  APPLICABLE SLA.  FURTHER, SAVVIS DISCLAIMS ALL RESPONSIBILITY,
+WARRANTIES AND LIABILITY FOR DELAY, INTERRUPTION OR INEFFICIENCY ATTRIBUTABLE TO
+CUSTOMER'S  HARDWARE,  SOFTWARE  OR  ANY  THIRD  PARTY  SERVICE  PROVIDER.
+
+6.     Default.
+
+A.     Termination  by  SAVVIS.  SAVVIS  may  terminate  this  Agreement without
+liability,  immediately upon notice upon Default by Customer.  Default means (a)
+the  failure  by  Customer  to  (i)  pay  any amounts when due; (ii) comply with
+Section 4 Compliance with Laws and Acceptable Use; or (iii) perform any material
+obligation under this Agreement which failure is not remedied within thirty (30)
+days after receipt of written notice from SAVVIS (unless a shorter notice period
+is expressly set forth in the Agreement, in which case the shorter notice period
+shall  apply);  or  (b)  Insolvency  (as  hereinafter defined).  As used herein,
+"Insolvency" shall refer to any one of the following events:  (i) Customer files
+a  voluntary  petition in bankruptcy or an involuntary petition is filed against
+Customer; (ii) Customer is adjudged bankrupt; (iii) a court assumes jurisdiction
+of  the  assets  of Customer under federal reorganization act; (iv) a trustee or
+receiver  is appointed by a court for all or a substantial portion of the assets
+of  Customer;  (v)  Customer  becomes  insolvent  or  suspends business; or (vi)
+Customer  makes  an  assignment  of its assets for the benefit of its creditors.
+Termination  by  SAVVIS shall not preclude SAVVIS from pursuing any other rights
+or  remedies  available  to  it  at  law  or  in  equity.
+
+B.     Cancellation  and  Early  Termination Charges.  (i) Pre-Delivery.  In the
+event  Customer terminates a Service prior to the delivery of or deemed delivery
+of  such  Service, Customer shall owe SAVVIS a pre-delivery cancellation fee, if
+any,  as  set forth in the applicable Service Addendum and all third party costs
+and  fees.    (ii)  Post  Delivery.  If after the delivery of or deemed delivery
+of  such  Service  by  SAVVIS,  SAVVIS  terminates  this  Agreement for Customer
+Default,  or  Customer terminates this Agreement for convenience, Customer shall
+be liable and shall pay to SAVVIS, at SAVVIS sole option, and within thirty (30)
+days  of  such  termination,  (a)  the  termination  charges  set  forth  in the
+applicable  Service  Addendum,  or (b) all of the following shall be immediately
+due  and  payable  by  Customer:  (y) the cumulative total of the balance of all
+monthly  charges  remaining  on this Agreement through the end of the applicable
+Service  Term(s);  plus  (z)  any charges accrued but unpaid as of the effective
+date of termination.  Customer acknowledges that the amounts payable pursuant to
+this  Section  6(B)  are  equitable  compensation  to SAVVIS and are intended to
+reasonably  compensate  SAVVIS for the losses which are occasioned by Customer's
+failure  to  honor  Customer's  obligations  hereunder.  In  the  event Customer
+terminates  for  convenience,  SAAVIS  acknowledges  and agrees that the amounts
+payable  by  Customer  to  SAAVIS pursuant to this Section 6(B) are the full and
+only  amounts  of  compensation  payable  to  SAVVIS.
+
+7.     Maintenance.  Routine  maintenance and periodic system repairs, upgrades,
+and  reconfigurations  may result in the temporary impairment or interruption in
+Service(s).  As  a result, SAVVIS does not guarantee continuous or uninterrupted
+Service(s)  and  reserves  the  right from time to time to temporarily reduce or
+suspend  Service(s); provided, however that SAVVIS will attempt to give Customer
+advance  notice  of  any  such  impairment  or interruption in Service(s) to the
+extent  reasonably  practicable  under  the  circumstances.
+
+
+<PAGE>
+8.     Indemnification.  Customer  shall  indemnify, defend and hold SAVVIS, its
+affiliates, officers, directors, licensees, licensers, and vendors harmless from
+any and all claims, losses, damages and expenses, including, without limitation,
+reasonable  attorney's  fees  and  court  costs,  or liabilities arising from or
+related  to:  (i)  Service  Misuse or a violation of any other provision of this
+Agreement;  (ii) any claim of infringement of any intellectual property or other
+proprietary  interest  resulting  from  the possession or use of any Service(s),
+software  or  equipment;  (iii)  the  Content;  (iv)  any  acts  or omissions of
+Customer,  its  employees,  agents,  contractors, invitees, licensees, visitors,
+and/or  customer/end-users;  and/or  (v)  any  injury  or  damage to the person,
+property,  or  business of SAVVIS, its employees, agents, contractors, invitees,
+licensees,  visitors,  and/or  customer(s)/end-user(s).  SAVVIS shall indemnify,
+defend  and  hold Customer its officers, directors,  and employees harmless from
+any and all claims, losses, damages and expenses, including, without limitation,
+reasonable  attorney's  fees  and  court  costs,  or liabilities arising from or
+related to any third party claim of infringement of any U.S. patent or copyright
+resulting  from  the  software  or  equipment  supplied or otherwise provided by
+SAVVIS  as  part  of  the  Services.
+
+9.       Governing Law.  This Agreement shall not become a binding obligation of
+SAVVIS  until  it  has been executed by an officer of SAVVIS.  The parties agree
+that any dispute arising under this Agreement shall be governed by and construed
+in  accordance with the laws of the State of Missouri, except for its principals
+for  resolving  conflicts  of  law.  The parties agree that any disputes arising
+under  this  Agreement  shall  be resolved in the state or federal courts of the
+State  of  Missouri.
+
+10.     Assignment.  Neither  party  may  assign  this  Agreement or any portion
+hereof  without the other party's prior written consent, which consent shall not
+be  unreasonably  withheld.  Notwithstanding  the  foregoing,  either  party may
+assign  this  Agreement  or  a  portion thereof: (i) in the event of a merger in
+which  the party is not the surviving entity; (ii) in the event of a sale of all
+or  substantially  all  of  its  assets; or (iii) to any party that controls, is
+controlled  by  or  is  in common control with such party; provided that, in the
+event  of  an  assignment  by Customer pursuant to (i), (ii) or (iii) above, the
+assignee  must  have  at  least  the  same  level  of  financial, managerial and
+technical  capabilities  as  Customer,  as  determined  by  SAVVIS  in  its sole
+discretion.  Subject  to the foregoing, this Agreement shall be binding upon and
+inure  to  the  benefit  of  the  parties  hereto and their respective permitted
+successors  and  assigns.
+
+11.     Limitation  on  Liability.
+
+A.     IN NO EVENT SHALL SAVVIS, ITS AFFILIATES, SERVICE PROVIDERS, SUPPLIERS OR
+AGENTS  BE  LIABLE  TO CUSTOMER OR ANY THIRD PARTY FOR ANY INDIRECT, INCIDENTAL,
+SPECIAL, PUNITIVE OR CONSEQUENTIAL DAMAGES OR FOR ANY LOST OR IMPUTED PROFITS OR
+REVENUES, LOST DATA OR COST OF PROCUREMENT OF SUBSTITUTE SERVICES RESULTING FROM
+DELAYS,  NONDELIVERIES,  MISDELIVERIES  OR SERVICE INTERRUPTION, HOWEVER CAUSED,
+ARISING  FROM  OR RELATED TO THE SERVICE(S) OR THIS AGREEMENT, REGARDLESS OF THE
+LEGAL THEORY UNDER WHICH SUCH LIABILITY IS ASSERTED, WHETHER BREACH OF WARRANTY,
+INDEMNIFICATION,  NEGLIGENCE,  STRICT  LIABILITY  OR  OTHERWISE,  AND  WHETHER
+LIABILITY  IS ASSERTED IN CONTRACT, TORT OR OTHERWISE, AND REGARDLESS OF WHETHER
+SAVVIS  HAS  BEEN  ADVISED  OF  THE  POSSIBILITY  OF ANY SUCH LIABILITY, LOSS OR
+DAMAGE.  NOTWITHSTANDING  THE  FOREGOING  PROVISIONS  OF  THIS  SECTION,  THE
+INDEMNIFICATION PROVISIONS IN FAVOR OF THE CUSTOMER SET FORTH IN SECTION 8 SHALL
+NOT  BE  LIMITED  BY  THE  PROVISIONS  OF  THIS  SECTION.
+
+B.     THE  TOTAL  AGGREGATE  LIABILITY  OF SAVVIS AND ITS SUPPLIERS TO CUSTOMER
+AND/OR  ANY  THIRD  PARTY  IN CONNECTION WITH THIS AGREEMENT SHALL BE LIMITED TO
+DIRECT  DAMAGES  PROVEN BY CUSTOMER; SUCH DIRECT DAMAGES NOT TO EXCEED AN AMOUNT
+EQUAL  TO  THE  TOTAL  NET  PAYMENTS RECEIVED BY SAVVIS FOR THE AFFECTED SERVICE
+WHICH  GIVES  RISE  TO  SUCH  LIABILITY  IN  THE TWELVE MONTH PERIOD IMMEDIATELY
+PRECEDING THE DATE IN WHICH THE CLAIM ARISES.  SECTION 8 SHALL NOT BE LIMITED BY
+THE  PROVISIONS  OF  THIS  SECTION.
+
+C.     For  certain  Service(s),  SAVVIS  licenses  certain  software from third
+parties  for  use  with  such  Service(s).  The  liability  of  such third party
+suppliers  for  damages, whether direct, indirect, incidental, special, punitive
+or  consequential  arising  from  use  of  the  software  and hardware, shall be
+disclaimed  and  limited  to  the  maximum  extent  permitted  by  law.
+
+D.     Customer  acknowledges and agrees that in no event shall SAVVIS be liable
+for  any  damages,  whether  in contract or tort, including, but not limited to,
+direct,  consequential  (including  without limitation loss of profits), cost of
+substitute  goods,  special, exemplary, incidental and indirect damages, arising
+out  of  compliance or reasonable attempts to: (i) comply with the United States
+Copyright  Act,  or  (ii)  satisfy  requirements to qualify for the safe harbors
+designated in Section 512 of the Digital Millennium Copyright Act including, but
+not  limited  to any actions by SAVVIS that result in a disruption or suspension
+of  the  Service(s).
+
+
+<PAGE>
+E.     The  parties  acknowledge that the limitations referenced in this Section
+are material terms to this Agreement.  Customer acknowledges that SAVVIS has set
+its  prices,  and  other  charges  in  reliance  on the foregoing limitations of
+liability,  which  form  an  essential basis of the bargain between the parties.
+
+12.     Confidential  Information.
+
+A.     Except  as  otherwise  provided  in  this  Agreement, neither party shall
+disclose  any  of  the terms and conditions of this Agreement nor any non-public
+information  received  by  the  other  party  (collectively  "Confidential
+Information")  without  the  prior  written  consent  of the other party hereto.
+Notwithstanding  the foregoing, each party may disclose Confidential Information
+to  any  consultants, contractors, and counsels who have a need to know and have
+executed  a  reasonably  protective non-disclosure agreement with the disclosing
+party.  Further  notwithstanding, if the Confidential Information is required to
+be  disclosed  by  law  or  a  court,  governmental or administrative order, the
+receiving party may disclose the Confidential Information but only to the extent
+such disclosure is required by such law or court, governmental or administrative
+order  and further provided that prior notice of such disclosure is given to the
+other  Party,  unless  legally  prohibited.
+
+B.     The  provisions  of  this  Section  12 shall not apply to any information
+which: (a) is or becomes public knowledge other than by breach of this Agreement
+by  the receiving party; (b) is in the possession of the receiving party without
+restriction  in  relation  to  disclosure  before  the  date of receipt from the
+disclosing party; (c) is received by either party from a third party not under a
+duty  of  confidence;  (d)  is  independently  developed  by the receiving party
+without  use  of  the  Confidential  Information.
+
+C.     In  the  event  the  receiving party commits a breach of, or threatens to
+commit  a  breach of, this Section 12, the disclosing party shall have the right
+to  seek  and  obtain  all  judicial  relief  (including,  but  not  limited to,
+injunctive  or  other  equitable  relief,  and  monetary  damages,  interest and
+attorney's fees and expenses) as may be finally ordered or awarded by a court of
+competent  jurisdiction.
+
+13.     Modification.  This  Agreement  may  be  modified  only  by  a  written
+instrument  executed  by  both  parties.
+
+14.     Notices.  Any  notice required to be given hereunder shall be in writing
+and  shall  be  deemed  to  have  been delivered when (i) sent by facsimile, and
+electronically  confirmed,  (ii) deposited in the United States mail (registered
+or  certified mail), return receipt requested, with adequate postage affixed, or
+(iii)  delivered  to  a  national overnight courier service and addressed to the
+persons  set  forth  herein.  Notice for monetary default may be sent by e-mail,
+facsimile,  or  other  written  format.
+
+To  SAVVIS:
+General notices:                        with a copy to:
+SAVVIS  Communications  Corporation     SAVVIS  Communications  Corporation
+12851  Worldgate  Drive                 1  SAVVIS  Parkway
+Herndon,  Virginia,  USA  20170         Town  &  Country,  MO,  USA  63017
+Attn:  Legal  Department                Attn:  Vice  President  of  Billing
+
+For  allcancellation/disconnection, upgrades, or  termination  notices:
+SAVVIS  Communications  Corporation
+12851  Worldgate  Drive
+Herndon,  Virginia,  USA  20170
+Attn:  Client  Solutions
+
+To  Customer:
+NS8  Corporation                        with  a  copy  to:
+One  Union  Square                      NS8  Corporation
+600 University Street, Suite 1525       200 - 1311 Howe Street
+Seattle,  Washington,  USA  98101       Vancouver,  British Columbia,  V6Z  2P3
+Attn:  Sales  Department                Attn:  Legal  Department
+
+15.     Force  Majeure.   Except  for  the  obligation  to  make  payments  for
+Service(s)  rendered,  neither  party will be liable for any failure or delay in
+its  performance  under  this  Agreement  due to any cause beyond its reasonable
+control,  including  but  not  limited to, acts of war, acts of God, earthquake,
+flood,  embargo,  riot, sabotage, labor shortage or dispute, acts of government,
+failure  of  the  Internet, terrorist acts, failure of third party(ies), utility
+power  failure,  or  failure  of  communication  lines.
+
+16.     Severability.     In  the event any portion of this Agreement is held to
+be  unenforceable,  the  unenforceable  portion shall be construed in accordance
+with  applicable law as nearly as possible to reflect the original intentions of
+the  parties, and the remainder of the provisions shall remain in full force and
+effect.
+
+
+<PAGE>
+17.     Waiver.       SAVVIS'  failure  to  insist  upon  or  to  enforce strict
+performance  of  any  provision  of  this  Agreement shall not be construed as a
+waiver of any provision or right.  Neither the course of conduct between parties
+nor  trade  practice  shall  act  to  modify  any  provision  of this Agreement.
+
+18.     Monitoring.  SAVVIS  reserves  the  right to monitor Customer's activity
+for  internal network utilization and reliability purposes.  SAVVIS' utilization
+and  reliability monitoring does not include examination of Customer data unless
+(i)  such  examination is deemed necessary to troubleshoot a Customer issue, and
+the  Customer consents to such examination; or (ii) such examination is pursuant
+to  any judicial order, search warrant, or statutory requirement, in which event
+SAVVIS shall provide notice thereof to Customer, to the extent that the judicial
+order,  search  warrant,  or  statutory  requirement  permits  said notice.  Any
+monitoring  by  SAVVIS  is subject to the confidentiality provision set forth in
+this  Agreement.
+
+19.     Insurance.  Customer shall keep in full force and effect during the term
+of  this Agreement  commercial general liability insurance in an amount not less
+than  $2  million per occurrence with a $2 million aggregate covering claims for
+bodily  injury,  death,  personal  injury  or  property  damage.  The  liability
+insurance  limits  required  herein  may  be obtained through any combination of
+primary  and  excess or umbrella liability insurance.  Customer will (i) deliver
+to  SAVVIS  certificates  of  insurance  which  evidence  the  minimum levels of
+insurance  set  forth  above  and  provide  not less than thirty (30) days prior
+written notice of cancellation to any herein required policy, and (ii) cause its
+liability  insurance  provider(s) to name SAVVIS as an additional insured as its
+interest  may  appear  with  respect  to  the  Agreement.
+
+20.     Miscellaneous.
+
+A.     In  the  event  SAVVIS  or  the local access provider needs to access the
+Customer site to maintain or repair or otherwise effect the Service(s), Customer
+shall  cooperate  in a timely manner and provide access to the Customer site and
+assist  SAVVIS  or the local access provider to affect such maintenance.  In the
+event  Customer  does  not  provide, in a timely manner, the required assistance
+and/or  access,  SAVVIS  may  immediately  terminate  the  Agreement  or suspend
+Service(s)  without  liability  or further obligation, and Customer shall not be
+entitled  to  any  remedies  under  the  SLA  for the timeframe during which the
+required  assistance  and/or  access  is  not  provided.  SAVVIS  shall,  when
+reasonably  practicable  under  the  circumstances,  give  advance notice to the
+Customer  when  it  anticipates  that  it  is  required to provide access to the
+Customer  site.
+
+B.     SAVVIS  reserves  the  right  to  terminate the Agreement or any affected
+Service Addendum without liability or further obligation upon notice to Customer
+in  the  event that (i) SAVVIS cannot maintain, despite reasonable efforts to do
+so,  its  regulatory  approval  necessary to provide the Service(s) and/or enter
+into  this  Agreement; and (ii) SAVVIS' underlying vendor is unable or unwilling
+to  provide  some  or all of the Service(s) required for SAVVIS to continue this
+Agreement.  To the extent reasonably practicable under the circumstances, SAVVIS
+shall  give  advance  notice  to  the  Customer  when  it anticipates that it is
+required  to  terminate  the  Agreement or any affected Service Addendum for the
+reasons  set  forth  in  this  paragraph.
+C.     Any  cause  of  action  Customer  may have with respect to the Service(s)
+shall  be  barred  unless  it  is  commenced  within eighteen (18) months of the
+earlier  of  (i)  the  effective  date  of  expiration  or  termination  of this
+Agreement;  or  (ii)  the  date  after  the  claim  or  cause  of action arises.
+
+D.     All  provisions  in this Agreement, which by their nature are intended to
+survive expiration or termination shall survive any expiration or termination of
+this  Agreement.
+
+E.     SAVVIS reserves the right to reject any handwritten or typed modification
+to  this  Agreement, any Service Addendum or Service Order which is not mutually
+agreed  to  in  writing.
+
+21.     Third  Party  Beneficiaries.  The terms, representations, warranties (if
+any)  and agreements of the parties set forth in this Agreement are not intended
+for,  nor  shall  they be for the benefit of or enforceable by, any third party,
+including  without  limitation,  Customer's  end  users.
+
+22.     Conflicts.  In  the  event  of  a conflict between or among the terms in
+this  Agreement,  the  Service  Order(s),  the  Service  Addenda,  and any other
+document  made a part hereof, the documents shall control in the following order
+unless otherwise specifically set forth in a Service Addendum: the Service Order
+with  the  latest  date,  the  AUP,  the  Service  Addendum,  this  Agreement.
+
+23.     Publicity.   Customer  shall  not use, in advertising or publicity or in
+any  way  related  to  this  Agreement or the subject matter hereof, the name of
+SAVVIS,  its  affiliates or any of its directors, officers, managers, employees,
+consultants or agents or any trade name, trademark, service mark, logo or symbol
+of  SAVVIS  or  its affiliates, except with the express prior written consent of
+
+
+<PAGE>
+SAVVIS,  such  consent  not  to be unreasonably withheld. SAVVIS may disclose as
+part  of  its promotional activities the fact that Customer is obtaining Service
+from  SAVVIS.
+
+24.     Entirety.  This  Agreement  contains the entire agreement of the parties
+hereto with respect to the matters covered hereby and supersedes any other prior
+or  simultaneous  agreement  related  to  such  matters.
+
+SAVVIS  Communications  Corporation          NS8  Corporation
+
+By:   /s/ James Mori                         By: /s/ Emma Steinberg
+-------------------------------------------  -----------------------------------
+
+Print  Name:  James Mori                     Print  Name: Emma Steinberg
+-------------------------------------------  -----------------------------------
+
+Title: EVF, General Manager of the Americas  Title: VP, Telco Sales
+-------------------------------------------  -----------------------------------
+
+Date:  Sep 23, 2005                          Date: August 4, 2005
+-------------------------------------------  -----------------------------------
+
+
+<PAGE>
+                        SAVVIS Hosting Service Addendum
+
+This  Hosting  Service Addendum ("Service Addendum") by and between Customer and
+SAVVIS  shall  modify  the  Master  Services  Agreement  between  the parties in
+accordance  with  the  terms and conditions provided for herein.  Except for the
+modifications  provided  for herein, all the terms of the Agreement shall remain
+unchanged.  All  capitalized  terms not defined herein shall have the meaning as
+set  forth  in  the  Agreement.
+
+1.     Services.  SAVVIS  owns or has a leasehold interest in certain commercial
+buildings  throughout  the  United  States and internationally (the "Premises"),
+which  are  suitable  for  the  placement  and  operation  of telecommunications
+equipment.  Customer  may  provide  or  purchase  from  SAVVIS  certain
+telecommunications  and  computer  equipment and cabling (the "Customer Provided
+Equipment").  SAVVIS  may  provide  or  purchase  for  Customer  certain
+telecommunications  and  computer  equipment  and  cabling (the "SAVVIS Provided
+Equipment").  SAVVIS  Provided  Equipment,  combined  with  Customer  Provided
+Equipment, certain bandwidth (the "Connection"), and additional services such as
+server  monitoring,  backup  services,  reporting  services,  SAN services, load
+balancing  services,  security  service and system administration services shall
+comprise  the  "Service" for Hosting or "Hosting Service".  SAVVIS shall provide
+Customer  with  Hosting  Service  in  accordance  with the specifications on the
+Service  Order.
+
+A.     Customer  Provided  Equipment  and  SAVVIS  Provided  Equipment  shall be
+utilized  only  for  interconnection  to  the  network  services  of  SAVVIS.
+
+B.     SAVVIS  shall  perform services that support the overall operation of the
+Premises  (e.g.,  janitorial  services,  environmental  systems maintenance, and
+power  plant  maintenance)  at  no  additional  charge  to  Customer.
+
+C.     Customer  shall  not have the right to physically access the Premises for
+any  reason,  unless  such  access  is  approved  in  writing  by  SAVVIS.
+
+D.     Customer  acknowledges  that  it is receiving Hosting Service only and is
+not  entitled  to  occupy  the  Premises  and  shall not use the SAVVIS Provided
+Equipment,  other  than  as  provided  herein.   Further,  Customer has not been
+granted any property interests in the Premises or the SAVVIS Provided Equipment.
+Customer  Provided  Equipment  shall  not  be  deemed  or become fixtures in the
+Premises.
+
+2.     Term.  The  initial term for each Hosting Service shall have a term which
+shall  be the greater of one (1) year or the term set forth in the Service Order
+for  such  Hosting  Service  which term shall commence from the date that SAVVIS
+notifies  Customer  that  it  has  installed  and activated such Hosting Service
+("Service  Initial  Term").  Such  notification  by  SAVVIS  may  be  by e-mail,
+facsimile,  or  other  written format.  Each Hosting Service shall automatically
+renew for successive periods equal to the Service Initial Term unless terminated
+by  either  party  at  least thirty (30) days prior to the then current date for
+termination.
+
+A.     Upon termination or expiration of the Service Initial Term or renewal
+term,  as  the case may be, SAVVIS shall remove the Customer Provided Equipment.
+In  the event that Customer does not claim or provide an address for shipment of
+such  Customer  Provided Equipment within thirty (30) days after SAVVIS' request
+for such information, the Customer Provided Equipment shall be deemed abandoned,
+and  Customer  shall  lose  all  rights  and  title  thereto.
+
+B.     In  the  event the Premises become the subject of a taking by eminent
+domain  by  any  authority  having  such  power,  SAVVIS shall have the right to
+terminate  any  or  all of the Hosting Service, including this Service Addendum.
+SAVVIS  shall  attempt  to  give  Customer as much advance notice of the removal
+schedule  as  is reasonably practicable under the circumstances.  Customer shall
+have  no claim against SAVVIS for any relocation expenses, any part of any award
+that  may  be made for such taking or the value of any unexpired term or renewed
+periods  that  result  from a termination by SAVVIS under this provision, or any
+loss  of  business  from full or partial interruption or interference due to any
+termination.
+
+3.     Payment.  The Billing Commencement Date for Hosting Service is defined as
+follows:  The  initial  installation  fee and monthly recurring fee shall be due
+upon  SAVVIS'  notice  to Customer that the initial installation is completed by
+SAVVIS,  which  notice  shall be sent to Customer by e-mail, facsimile, or other
+written  format.  SAVVIS  shall  charge  additional  fees for additional Hosting
+Service  ordered by Customer.   Notwithstanding the foregoing, in the event that
+SAVVIS  partially  installs or activates a Service, SAVVIS reserves the right to
+commence  billing  for  such  partial  Service  in accordance with this Section.
+
+Notwithstanding  the  above,  in the event that Customer fails to pay any or all
+amounts  due  to SAVVIS and remove Customer Provided Equipment from the Premises
+in  accordance  with  Section  2A  above  within thirty (30) days of such SAVVIS
+request,  SAVVIS may liquidate the Customer Provided Equipment in any reasonable
+
+
+<PAGE>
+manner,  without  being  liable  for  related  damages,  and  recover  from such
+liquidation  the  amount(s)  owed  by  Customer  to  SAVVIS.
+
+4.     Additional  Terms  Governing  Use.
+
+A.  SAVVIS  shall  allocate Customer's IP addresses in accordance with RFC 2050.
+
+B.  SAVVIS  offers  Customer  access  to  the  Internet.  Customer  hereby
+acknowledges that the Internet is not owned, operated, managed by, or in any way
+affiliated  with  SAVVIS  or  any  of  its affiliates, and that it is a separate
+network  of  computers independent of SAVVIS.  Customer's use of the Internet is
+solely  at its own risk and is subject to all applicable local, state, national,
+international, other applicable laws and regulations.  Access to the Internet is
+dependent  on  numerous  factors,  technologies  and  systems, many of which are
+beyond  SAVVIS'  authority  and  control.
+
+C.  SAVVIS  reserves  the  right  to  perform and manage any construction or
+material  alterations  within  the  Premises.
+
+D.  Customer's  use  of the Hosting Service shall at all times be subject to
+Customer's  adherence  to  the  generally  accepted industry standards, security
+rules,  and  rules  of  conduct  established  by  SAVVIS  for  the  Premises.
+
+E.  SAVVIS  shall  not  arbitrarily  or discriminatorily require Customer to
+relocate  the  Customer  Provided Equipment; however, upon sixty (60) days prior
+written notice or, in the event of an emergency, such time as may be reasonable,
+SAVVIS  reserves the right to change the location of the Premises to a site that
+shall  afford  comparable  environmental  conditions  for  the Customer Provided
+Equipment  and  comparable  accessibility  to  the  Customer Provided Equipment.
+SAVVIS  and Customer will work together in good faith to minimize any disruption
+of  Customer's  services  as  a  result  of  such  relocation.
+
+5.     Pre-Activation  Cancellation  Charges.  In  the  event  that  Customer
+terminates  this Service Addendum or any Hosting Service prior to SAVVIS' notice
+to Customer that the initial installation is completed by SAVVIS, Customer shall
+owe  SAVVIS  a  pre-delivery cancellation fee as follows:  Customer shall owe to
+SAVVIS  a  charge of $5,000, and any and all third-party charges, including, but
+not  limited  to,  SAVVIS  Provided  Equipment  and software charges that SAVVIS
+incurs  or  will incur.  Customer acknowledges that the amounts payable pursuant
+to  the preceding sentence are equitable compensation to SAVVIS and are intended
+to  reasonably  compensate  SAVVIS  for  the  losses  which  are  occasioned  by
+Customer's  failure to honor its obligations hereunder and that the exact amount
+of  damages  is  difficult  or  impractical  to  establish.
+
+At  any  time  during  the term of this Service Addendum, SAVVIS may, at SAVVIS'
+sole  option, immediately terminate any or all of the Hosting Service, including
+this  Service  Addendum  if  Customer  is  not then maintaining or utilizing the
+Customer Provided Equipment and SAVVIS Provided Equipment solely for the purpose
+of  originating and/or terminating telecommunications transmissions carried over
+the  SAVVIS  network  or  as  otherwise  set  forth in Section 1 of this Service
+Addendum.
+
+6.     Ownership  of  Intellectual  Property.
+     A.     Unless  otherwise  expressly set forth in this Service Addendum, the
+parties  do  not, directly or by implication, by estoppel or otherwise, grant to
+each  other  any  rights or licenses, and neither party shall have any ownership
+rights  in  any  intellectual  or  tangible  property  of  the  other.
+
+     B.     Unless  otherwise  expressly  set  forth  in  this Service Addendum,
+SAVVIS  shall  not  obtain  any  right,  title,  and/or  interest in the content
+provided  by  Customer or its customers or end users and installed on, stored or
+processed  through  SAVVIS'  hardware  and  software, and, as between SAVVIS and
+Customer,  Customer shall retain title to and all rights and/or interest in such
+content.
+
+     C.     SAVVIS  shall  retain  title  to  and all rights in all intellectual
+property provided by SAVVIS, including, but not limited to, any know-how related
+to  the Hosting Service, SAVVIS Provided Equipment, software or any other server
+technology.  Customer  understands  that  delivery  of  the  Hosting Service may
+involve  use  of  software  owned  by  SAVVIS  or  third  parties  under license
+agreements  with  SAVVIS.  Customer  agrees  to  abide  by  the  following terms
+governing  use  of  such  software:
+
+(i)  Customer  shall  not  cause  or  permit reverse engineering, disassembly or
+decompilation  of  any software provided by SAVVIS, or use such software outside
+the  scope  of  this  Service  Addendum;
+
+(ii)  Title  to  software  provided  by  SAVVIS  shall not pass to the Customer;
+
+(iii)  Customer  may  use  the  software  only  in  object  code  form;
+
+(iv)  Upon  termination  of  this  Service  Addendum  ,  or any Hosting Service,
+Customer  shall cease using the software, and any copies of software provided to
+
+
+<PAGE>
+such  Customer,  if any, are to be either completely removed from the Customer's
+computing  devices  or  otherwise  rendered  unusable;
+
+(v)  Customer  understands  that  in  the  event  that  Customer  violates  the
+intellectual  property  rights  of  any  third  party supplier of software, such
+software  supplier  shall  have  the  right to enforce its intellectual property
+rights  with  respect  to  the  software  directly  against  the  Customer;
+
+(vi)  Customer  and  its customers and end users may access the software only in
+connection  with  use of the Hosting Service and Customer's business operations,
+and software may not be re-licensed, rented, leased, or used for time sharing or
+service  bureau  users  by  Customer.
+
+7.     Equipment.  SAVVIS  assumes  no  liability for any damage to, or loss of,
+any Customer Provided Equipment, data or software resulting from any cause other
+than the intentional misconduct or negligence of SAVVIS. To the extent SAVVIS is
+liable  for  any  damage  to,  or  loss  of, Customer Provided Equipment for any
+reason,  such  liability  will be limited solely to the then-current replacement
+value  of  the  Customer  Provided  Equipment up to the limitations set forth in
+Section  11  (Limitation  on  Liability)  of  the  Agreement.
+
+8.     Miscellaneous.
+
+     A.     SAVVIS  shall  have the right to terminate any or all of the Hosting
+Service,  including  this Service Addendum. without liability of any kind on the
+earlier  of  (i)  the expiration of or earlier termination of SAVVIS' underlying
+lease  for  the Premises ("Lease"), or (ii) expiration or earlier termination of
+this  Service  Addendum.  The  parties agree that any renewal of Hosting Service
+shall  be  contingent  on the election by SAVVIS to continue to own or lease the
+Premises,  such  election  to  be  exercised  at  the sole discretion of SAVVIS;
+provided,  however that if SAVVIS intends to terminate any or all of the Hosting
+Service,  including  this  Service  Addendum,  due  to  expiration of or earlier
+termination  of SAVVIS' Lease or ownership of the Premises then SAVVIS will give
+the  Customer  as  much  advance  notice  as is reasonably practicable under the
+circumstances.
+
+     B.     In  the event that any Service(s) supplied by or through SAVVIS
+under  this Service Addendum becomes, or in SAVVIS' reasonable opinion is likely
+to  become,  the  subject  of  a  claim of infringement, SAVVIS may, at its sole
+option,  without  further  liability  or  obligation  to  Customer, either:  (i)
+procure  for Customer the right to continue use of the affected Service(s); (ii)
+provide a modification on a timely basis to the affected Service(s), so that its
+use  becomes  non-infringing  but  remains  materially  similar  to the affected
+Service(s);  (iii) replace the affected Service(s) with a non-infringing version
+which  is  materially  similar to the affected Service(s); or (iv) terminate the
+affected  Service(s);  provided, however that if SAVVIS intends to terminate any
+or  all of the affected Services due to any of the foregoing circumstances, then
+SAVVIS  will  give  the  Customer  as  much  advance  notice  as  is  reasonably
+practicable  under  the  circumstances.
+
+          C.     Customer Provided Equipment and SAVVIS Provided Equipment shall
+be  utilized  only  for  interconnection  to  the  network  services  of SAVVIS.
+
+          D.     SAVVIS  shall  perform  services  that  support  the  overall
+operation  of  the  Premises  (e.g.,  janitorial services, environmental systems
+maintenance,  and  power plant maintenance) at no additional charge to Customer.
+
+          E.     Customer  shall  not  have  the  right to physically access the
+Premises  for  any  reason, unless such access is approved in writing by SAVVIS.
+
+     F.     Customer  acknowledges that it is receiving Hosting Service only and
+is  not  entitled  to  occupy the Premises and shall not use the SAVVIS Provided
+Equipment,  other  than  as  provided  herein.   Further,  Customer has not been
+granted any property interests in the Premises or the SAVVIS Provided Equipment.
+Customer  Provided  Equipment  shall  not  be  deemed  or become fixtures in the
+Premises.
+
+SAVVIS                                     NS8  Corporation
+
+By:   /s/ James Mori                         By: /s/ Emma Steinberg
+-------------------------------------------  -----------------------------------
+
+Name:  James Mori                            Name: Emma Steinberg
+-------------------------------------------  -----------------------------------
+
+Title: EVF, General Manager of the Americas  Title: VP, Telco Sales
+-------------------------------------------  -----------------------------------
+
+Date:  Sep 23, 2005                          Date: August 4, 2005
+-------------------------------------------  -----------------------------------
+
+
+<PAGE>
+                          Exhibit A for Hosting Service
+
+                                      SLA
+
+                                 (See Attached)
+
+
+<PAGE>
+                          Exhibit B for Hosting Service
+                              Professional Services
+
+DEFINITIONS  AND  COVERAGE:
+
+PROFESSIONAL  SERVICES  -  Shall  consist  of  services  performed  by  SAVVIS'
+employees,  agents,  and/or  contractors/subcontractors  (collectively  or
+individually  referred  to  as "SAVVIS Personnel"), which is outside of existing
+managed services contract set forth in the Service Order, and shall be billed at
+the rates listed below.  Also, any and all necessary materials will be billed to
+Customer  at  an additional amount.  SAVVIS current Professional Services are as
+follows:
+
+(i)  Emergency  On Call - Customer may contact the SAVVIS Network Control Center
+("NOC")  24/7/365  to  request  Professional Services be performed.  SAVVIS will
+arrange  for qualified SAVVIS Personnel to perform requested function as soon as
+reasonably  practicable.  If  SAVVIS does not have SAVVIS Personnel available to
+perform  functions,  SAVVIS  will  notify  Customer within 2 hours of Customer's
+request.  SAVVIS will use its commercially reasonable efforts to begin work (but
+is  not  under  any  obligation to begin work) on an authorized request within 4
+hours  of  SAVVIS  NOC's  receipt  of  request  from  Customer.
+
+(ii)  Contracted  Services  (Database  Administration-DBA)  -  Shall  consist of
+pre-authorized  service  on Oracle and Microsoft SQL server databases.  Provided
+that  Customer  authorizes  work  at  least 48 hours before work is to commence,
+SAVVIS  shall  use its commercially reasonable efforts to begin work (but is not
+under any obligation to begin work) on an authorized request within the time and
+date  that  is  mutually  agreed  upon  between  SAVVIS  and  Customer.
+
+(iii)  Contracted  Services  (Systems  Administration)  -  Shall  consist  of
+pre-authorized service for the Windows, Linux and Solaris Operating Systems, and
+any  applications  that  are  standard  to  the  SAVVIS  product  portfolio,  as
+determined  by  SAVVIS.  Any  applications  that  are  outside  of  the  product
+portfolio,  can  be performed at this rate if SAVVIS Personnel is available with
+that  skill  set.   Provided  that  Customer  authorizes  work at least 48 hours
+before work is to commence, SAVVIS shall use its commercially reasonable efforts
+to  begin  work (but is not under any obligation to begin work) on an authorized
+request within the time and date that is mutually agreed upon between SAVVIS and
+Customer.
+
+SAVVIS  will  not  perform  any  Professional Services until Customer either (i)
+executes  an  Authorization of Professional Services (a current form of which is
+included  hereunder)  or  (ii)  submits  an  email  with  substantially the same
+information  set  forth  on the Authorization of Professional Services, and such
+service  authorization  has  been  received  and  accepted  by  the  SAVVIS NOC.
+Authorization  of  Professional  Services  shall  be  signed  or submitted by an
+authorized  representative  of  Customer,  and will specify the type of service,
+hourly  rate,  and authorized amount of time. SAVVIS will provide to Customer an
+estimate  of  time  required  before  starting  engagement.
+
+It  is  understood  and  agreed Customer that SAVVIS' and the SAVVIS Personnel's
+maximum  liability  for  any claims relating to Professional Services offered or
+provided  by  SAVVIS  shall  not  exceed  the amount of the service fee for such
+Professional  Service  provided  on  the  occasion  giving  rise  to  the claim.
+
+RATE  INFORMATION:
+Emergency  On  Call          $350  per  hour  per  person
+
+Contracted  Service  -  DBA  $185 per hour per person (Minimum 48 Hours Prior
+                             Notice)
+
+Contracted  Service  -       $150  per  hour per person (Minimum 48 Hours Prior
+Server  Administration       Notice)
+
+Remote  hands                $100  per  hour  (Minimum  48  Hours  Prior Notice)
+
+Minimum  billing 1/2  hour  per  incident
+Additional  time  rounded  to  next 1/4  hour
+Total  time  calculated  and  invoiced  monthly
+
+Acknowledgement  of  Customer  Call  Timeframe:  Four  hours  from  SAVVIS NOC's
+receipt  of  call  from  Customer  and  SAVVIS'  opening  of  a  ticket.
+
+Note:  SAVVIS  reserves  the  right to change the rates and parameters set forth
+herein  from  time  to  time  without  notice.
+
+Authorization  of  Professional  Services
+
+Customer  Company  Name: NS8  Corporation
+Address:     One  Union  Square,  600  University  Street,  Suite  1525
+City,  State,  ZIP:     Seattle,  Washington,  USA,  98101
+Site  ID:
+         -----------
+
+
+<PAGE>
+Authorizing  Order  Contact:
+                             ------------
+
+Customer  Company  Name  (If  different  from  above):
+                                                       -------
+
+Phone:            Fax:            E-mail:
+       --------        ---------          -----------
+
+ Customer  authorizes  SAVVIS  to  perform  Professional  Services  as set forth
+herein.
+
+Service Description     Hourly Rate  Number of hours  Total amount authorized
+----------------------  -----------  ---------------  -----------------------
+Emergency
+On  Call                $350
+
+Contracted Service
+- DBA                   $185
+
+Contracted Service -
+Server  Administration  $150
+
+Contracted  Service  -
+Remote  Hands           $100
+
+
+     IN  WITNESS  WHEREOF,  the  Parties  have  executed  this  Authorization of
+Professional  Services  as  of  this         day  of       ,       .
+                                      -----           -----   -----
+
+SAVVIS                                     Customer
+
+By:                                        By:
+-----------------------------------------  -------------------------------------
+
+Print  Name:                               Print  Name:
+-----------------------------------------  -------------------------------------
+
+Title:                                     Title:
+-----------------------------------------  -------------------------------------
+
+Date:                                      Date:
+-----------------------------------------  -------------------------------------
+
+
+<PAGE>
+                                    EXHIBIT A
+
+                        SERVICE LEVEL AGREEMENT ("SLA")
+                        FOR INTELLIGENT HOSTING SERVICES
+
+I.  Definitions
+
+A.  The  "Main Agreement" is the i) Hosting Agreement or ii) the Master Services
+Agreement and applicable Service Addendum to    which this SLA is an attachment.
+
+B.  The  "Systems"  is  the  computer equipment and software that is approved by
+SAVVIS and leased to the Customer by SAVVIS and contains the Customers' data and
+applications.
+
+C.  A  "Data  Center"  means  the  facility  in  which  the Systems are located.
+
+D.  "Customer  Data"  means  the  data  and  applications  that are owned by the
+Customer  and  reside  on  the  Systems.
+
+E.  A  "Session"  means  an  active  communications  connection,  measured  from
+beginning  to  end,  between  Customer  or  one  of  its users, and the Systems.
+
+F.  An  "Outage"  means the accumulated time during which Customer or any of its
+users  are  unable  to  establish a Session with the Systems, or access Customer
+Data  for  reasons  other  than:
+
+     (1)  The  failure  of  equipment  that  is  not fully owned and managed by
+          SAVVIS
+     (2)  Scheduled  or  emergency maintenance performed at SAVVIS' initiative;
+     (3)  Maintenance  or  service  interruptions  requested  by  Customer;
+     (4)  Customer's  acts  or  failure to act in a timely and/or proper manner
+          when  notified  to  do  so  by  SAVVIS (including, without limitation,
+          Customer's  failure  to  permit  entry by SAVVIS or make facilities or
+          components  available to SAVVIS for testing or repair; or otherwise to
+          comply  with  SAVVIS'  instructions  and  service  requirements);
+     (5)  A  doubling of data transmitted above the committed data transmission
+          rate  specified  in the most recent Order Form for the Customer if the
+          committed  rate  is  in  excess  of  10mbps;
+     (6)  Failures  caused  by  Customer  Data.
+
+II.  Maintenance
+
+SAVVIS  reserves  the  right to perform emergency maintenance as needed.  SAVVIS
+will make commercially reasonable efforts to inform Customer prior to performing
+scheduled  or  emergency  maintenance.  If  such advance notice is not possible,
+SAVVIS  shall  notify  Customer  about  such emergency maintenance as soon as is
+practicable.
+
+III.  Service  Level  Agreement
+
+A.  SAVVIS  guarantees  an  overall  availability  of  99.9%  for  the  Systems.
+
+B.  If in one month the Outage exceeds 44 minutes, the Customer will be entitled
+to a credit towards the invoice that Customer  receives two months following the
+month  in  which  the  Outage  was  reported. For the purpose of determining the
+amount  of  any Credit, an Outage will be deemed to commence when SAVVIS opens a
+"trouble ticket" to track such Outage, and will be deemed to end when SAVVIS has
+restored  availability  of  the  Systems.  The  Customer will not be entitled to
+receive  a  credit if (i) Customer has violated the SAVVIS Acceptable Use Policy
+(AUP)  or (ii) Customer is in breach of any provision (monetary or non-monetary)
+under  the  Main  Agreement.
+
+C.  The  amount  of  the  Credit  will  be  determined  as  follows:
+
+     (1)  If  there  is  an  Outage for more than 44 minutes, but less than 3.6
+          hours in any calendar month, Customer shall be entitled to a Credit of
+          15%  of  that  month's  invoice  for  the  portion of the invoice that
+          corresponds  to  the  Data  Center  in  which  the  Outage  occurred.
+
+     (2)  If  there  is  an  Outage  for more than 3.6 hours, but less than 7.2
+          hours in any calendar month, Customer shall be entitled to a Credit of
+          20%  of  that  month's  invoice  for  the  portion of the invoice that
+          corresponds  to  the  Data  Center  in  which  the  Outage  occurred.
+
+     (3)  If  there  is  an  Outage for more than 7.2 hours, but less than 10.8
+          hours in any calendar month, Customer shall be entitled to a Credit of
+          35%  of  that  month's  invoice  for  the  portion of the invoice that
+          corresponds  to  the  Data  Center  in  which  the  Outage  occurred.
+
+     (4)  If there is an Outage for more than 10.8 hours in any calendar month,
+          Customer  shall be entitled to a Credit of 50% of that month's invoice
+          for  the portion of the invoice that corresponds to the Data Center in
+          which  the  Outage  occurred.
+
+
+<PAGE>
+D.  In  order  to  receive  any Credit, Customer must notify SAVVIS, in writing,
+within  30  days from the time Customer becomes eligible  to receive such Credit
+(i.e. the Trouble Ticket is closed).  Customer's failure to notify SAVVIS within
+that  period  shall result in the waiver of Customer's right to receive any such
+Credit.
+
+E.  Credit  shall  not  be  paid  if  Customer is in default (i) at the time the
+Outage  occurred  or  (ii) at the time when such Credit is requested by Customer
+
+F.  An  Outage  shall  not  be  deemed  to  occur upon the occurrence of routine
+maintenance  or  upon  the  occurrence  of  an  act outside of    the control of
+SAVVIS,  such  as  loss  of  power at the Customer premises or an act of nature.
+
+
+<PAGE>
+                                    Exhibit B
+                                    ---------
+              Streaming Delivery Service Level Agreement ("SDSLA")
+              ----------------------------------------------------
+
+All  capitalized  terms  not  defined  herein  shall  have the meanings that are
+ascribed  in  the  Agreement.
+
+1.     DEFINITIONS:
+       -----------
+Measurement  Provider:  A  third  party  vendor  who is  selected to perform the
+service  measurements  described  herein.
+
+Start-up  Time: The time between the initial submission of the target URL to the
+Media Player and the beginning of playback. It includes the connect time and the
+initial  buffer  time.  Daily  Start-up Time will be calculated as an average of
+all measurements of each item in the Test Set over each 24-hour calendar day and
+then averaged across all streams in the Test Set, excluding periods of scheduled
+maintenance  which  shall not exceed four (4) hours per month.  Monthly Start-up
+Time  will be calculated as an average of all Daily Start-up Times in a calendar
+month.
+
+Streaming  Service  Credit:  A  reduction  in the charges for streaming services
+equal  to one thirtieth (1/30th) of the total charges for the streaming services
+in  the  month  in  which  the  Streaming  Service  Credit  was issued. Only one
+Streaming  Service Credit will be issued for any single calendar day, regardless
+of  the  number  of  Commitments  that SAVVIS may have failed to acheive on that
+particular  day. SAVVIS will issue Streaming Service Credits to a maximum of the
+total  charges  for  streaming  services in the month that the Streaming Service
+Credits  were  issued. Streaming Service Credits represent reasonable liquidated
+damages  for  deteriorated  service,  and  are  not  a  penalty.
+Streaming  Service Degradation:  Failure by SAVVIS to meet the Streaming Service
+Commitments  in  a  given  calendar  month.
+
+Streaming Service Outage:  A Streaming Service Outage will be declared if either
+SAVVIS  or Customer create and verify a trouble ticket declaring that content is
+not  being  streamed  to  a  majority  of  users  within  a geographic region (a
+"Priority  One  Trouble  Ticket").  The  Streaming Service Outage will remain in
+effect until SAVVIS closes the Priority One Trouble Ticket. If Customer attempts
+to  initiate  a  Priority One Trouble Ticket, and SAVVIS does not respond with a
+valid  ticket number within one (1) hour of the initial contact by Customer, the
+Priority One Trouble Ticket will be deemed to have been open for one hour at the
+time  of  opening
+
+Streaming  Uptime:  A  percentage  obtained  by  dividing  the  total  number of
+successful checks by the total number of checks performed. A successful check is
+defined  as  one  where  the  Media  Player  is  able  to  begin
+playback.  Daily  Streaming  Uptime  will  be  calculated  as  an  average  of
+measurements  of  each  item  in the Test Set over each 24-hour calendar day and
+then averaged across all streams in the Test Set, excluding periods of scheduled
+maintenance  which  shall  not exceed four (4) hours per month ("Daily Aggregate
+Uptime").  Monthly  Streaming  Uptime  will  be  calculated as an average of all
+Daily  Streaming  Uptimes  in  a  calendar  month.
+
+Test  Set:  A  set  of  ten  (10) on-demand streaming clips from those hosted on
+SAVVIS'  Streaming  Network,  specified  by Customer to be used as the basis for
+measuring  performance  hereunder.
+
+2.     MEASUREMENT  OBLIGATIONS.
+       ------------------------
+     (a)  Measurement  Provider.  SAVVIS  will  hire,  at  SAVVIS'  expense,  a
+Measurement Provider to measure and report the service levels provided by SAVVIS
+under  orders  for  streaming  delivery services.  Due to the access control and
+related issues involved with granting a third party access to Customer's storage
+account  for  this  testing,  the  parties  will  cooperate with the Measurement
+Provider to establish appropriate procedures regarding the testing.  SAVVIS will
+have  no obligations under this Service Level Agreement during any periods where
+measurements  are  unavailable  due to any action or lack of action of Customer.
+
+
+<PAGE>
+     (b)  Multiple  Service  Orders.  Separate  Test Sets will be identified for
+each  order  (or  "Statement  of  Work")  for  streaming  delivery services, and
+Streaming  Service  Credits  will be separately measured and calculated for each
+such  order.
+
+     (c)  Reporting.  SAVVIS  will  arrange  for Customer to receive the reports
+created  by  such  Measurement Provider and will give Customer an opportunity to
+examine  such  reports  on a continuing basis for at least ninety (90) days from
+the  time  of  the  measurement.  If  there  are  reports that are found by both
+parties  to  contain  inaccurate  data  after  Streaming  Data  Trimming  by the
+Measurement Provider, both parties will work together to recalculate the service
+levels  excluding  the  inaccurate  data.  No  Streaming  Service Degradation or
+Streaming  Service  Outage  will be declared for reports that both parties agree
+contain  inaccurate  data  until  new calculations are completed and accepted by
+both  parties.
+
+3.     Streaming  Services  commitments.
+       ---------------------------------
+(a)     98%  Streaming Uptime.  SAVVIS will provide Streaming Uptime of 98% (the
+"Streaming  Uptime  Commitment") as measured by the Measurement Provider. SAVVIS
+will  not  be  held responsible for any failure to maintain the Streaming Uptime
+Commitment due to actions or inactions of Customer.  If SAVVIS fails to meet the
+Streaming Uptime Commitment on any given day of a calendar month, a Service
+Degradation  will  be  declared  for  that  day.  If  SAVVIS  fails  to meet the
+Streaming Uptime Commitment for any five (5) days in a calendar month, a Service
+Outage  will  be  declared  for  that  month.  Only one single Streaming Service
+Credit  will be issued for any single calendar day under any single Statement of
+Work,  regardless  of  the  number of Commitments that SAVVIS may have failed to
+achieve  on  that  particular  day.
+
+(b)     10  Second  Start-up  Time. SAVVIS will provide Start-up Time of no more
+than  10  seconds  ("Start-up  Time  Commitment") as measured by the Measurement
+Provider.  SAVVIS  will  not be held responsible for any failure to maintain the
+Start-Up  Time  Commitment  due  to actions or inactions of Customer.  If SAVVIS
+fails to meet the Start-up Time Commitment on any given day of a calendar month,
+a  Service  Degradation  will  be declared for that day. If SAVVIS fails to
+meet  the Start-up Time Commitment for any 5 days in a calendar month, a Service
+Outage will be declared for that month. Only one single Streaming Service Credit
+will  be  owed  for  any single calendar day under any single Statement of Work,
+regardless  of  the number of Commitments that SAVVIS may have failed to achieve
+on  that  particular  day.
+
+4.     REMEDIES.
+       --------
+(a)     Service  Degradation:
+Customer's  sole and exclusive remedy for any single Service Degradation will be
+the  eligibility to receive one (1) Streaming Service Credit for each day that a
+Service  Degradation  is  declared.
+
+Savvis  will  use  all  reasonable efforts to apply Streaming Service Credits to
+invoices for the month in which the Service Degradation occurred.  Customer must
+notify  SAVVIS  within  sixty (60) business days from the date of receipt of the
+invoice  for  the  period,  if  it  believes  Savvis  failed to apply all earned
+Streaming  Service  Credits.
+
+(b)     Service  Outage
+If  a  Service  Outage is declared, SAVVIS will exercise commercially reasonable
+efforts  to  resolve the Service Outage within twenty-four (24) hours. If SAVVIS
+does  not  resolve  the  Service  Outage  within twenty-four (24) hours, or if a
+second Service Outage is declared within thirty (30) calendar days of the first,
+Customer  may  terminate  the  Statement  of Work by providing fifteen (15) days
+prior  written  notice  to SAVVIS.  Such notice will be given within twenty (20)
+days  after  the end of the calendar month in which the Service Outage occurred.
+Neither  party shall have any further liability for termination arising out of a
+Service  Outage.  Notwithstanding the foregoing, Customer will remain liable for
+fees  incurred through the date of termination in accordance with the Agreement,
+but  not  for  any  early  cancellation  penalty.
+
+
+<PAGE>
+(c)     THE  REMEDIES  SET FORTH IN THIS SERVICE LEVEL AGREEMENT ARE CUSTOMER'S
+SOLE  AND  EXCLUSIVE  REMEDIES  AS  IT RELATES TO SAVVIS' FAILURE TO PERFORM THE
+SERVICES  IN  ACCORDANCE  WITH  THIS  SERVICE  LEVEL  AGREEMENT.
+
+5.     MEASUREMENT  AND  AVAILABILITY
+       ------------------------------
+
+a)     Choice  of  Measurement  Provider
+At  the  time  of  initiation of this SDSLA, the Measurement Provider is Keynote
+Systems,  Inc.  SAVVIS  reserves  the right in its sole discretion to change the
+Measurement  Provider  at  any  time  upon  thirty  (30)  days written notice to
+Customer.
+
+b)     Collection  of  Stream  Quality  Data
+The  Test Set selected for each Statement of Work will consist of content on the
+SAVVIS  Streaming  CDN.  The  fully  qualified  path of the URL must be entirely
+within  the  domain  of  the SAVVIS Streaming CDN. Customer will arrange for the
+Measurement Provider to perform checks on each of the Test Streams provided at a
+rate  of 10 checks per hour throughout the day. Each check will last 60 seconds,
+during  which  time  various measurements are collected to determine performance
+under  the  service  commitments described above. These measurement results will
+constitute  the  Raw  Stream  Quality  Data.
+
+c)     Streaming  Data  Trimming
+Once  a  day,  the  Raw  Stream Quality Data will be trimmed to create the Final
+Stream Quality Data. The trimming process will eliminate any data that came from
+any Measurement Provider scanners that experienced technical problems during the
+measurement period.   The trimmed Raw Stream Quality Data will make up the Final
+Stream  Quality  Data  ("Streaming  Data  Trimming").
+
+d)     Availability  and  Use  of  Stream  Quality  Data
+SAVVIS  will arrange for the Measurement Provider's Final Stream Quality Data to
+be  made  available  via  secure  log-in  to  Customer  and SAVVIS. Data will be
+archived  by  the  Measurement  Provider  for  90  days.
+
+e)     Confidentiality
+Passwords  supplied  to  SAVVIS  may  be distributed only to its duly authorized
+employees  or representatives with a need to access the information for purposes
+of  implementing  this SDSLA. Unless specified otherwise in an agreement between
+SAVVIS  and  the  Measurement  Provider,  the Measurement Provider's information
+obtained  by  SAVVIS  hereunder  must be treated as information that Customer is
+obligated  to  treat  as  confidential,  under  the  terms  of the Nondisclosure
+Agreement  between  Customer  and  SAVVIS.
+
+
+<PAGE>
+            SAVVIS Content Delivery Network (CDN) Services Addendum
+
+This  Service Addendum for Content Delivery Network Services (the "Services") by
+and  between  Customer  and  SAVVIS  shall  modify the Master Services Agreement
+between  the  parties  in  accordance with the terms and conditions provided for
+herein.  Except  for the modifications provided for herein, all the terms of the
+Agreement  shall  remain  unchanged.  All  capitalized  terms not defined herein
+shall  have  the  meaning  as  set forth in the Agreement.  The Service Addendum
+hereby  incorporates  by  reference  all  terms  and conditions set forth in the
+applicable Specification Sheets for Services ordered by Customer.  This addendum
+shall  also  apply  to  Streaming  Services.
+
+1.     Installation.   "Installation  Date"  means the date SAVVIS has completed
+the  installation  for a Service, or, in the case of non-installed services, the
+date  SAVVIS  begins  providing  the  service  to  Customer.
+
+2.     Term.     The  initial term of each Service ("Initial Term") shall be set
+forth  on  the  applicable Service Order, and shall commence on the Installation
+Date.  After  the  Initial  Term,  each  monthly recurring Service will continue
+automatically  for  additional  terms equal to the Initial Term ("Renewal Term")
+unless such Services(s) are terminated by either party in writing at least sixty
+(60) days prior to the end of the Initial Term or a Renewal Term, as applicable,
+in  which  case  such  Service  shall  terminate  at  the  end of such term. The
+termination  of  any  Service  will not affect Customer's obligations to pay for
+other  service(s).  If  Customer terminates a particular Service, and the result
+of  such  terminated  Service  is  that  SAVVIS  is  prevented from providing an
+additional  related  Service  (the  "Related  Service"), then SAVVIS will not be
+obligated  to  provide  the  Related  Service; provided that notwithstanding the
+foregoing, Customer shall nonetheless be obligated to pay SAVVIS for the Related
+Service.
+
+3.     Billing.  All  fees  for  the  Services  will be listed on the applicable
+Order  Form(s).  The  Billing  Commencement  Date  for the Services shall be the
+Installation  Date.  Monthly  minimum  payment  obligations  ("Monthly Recurring
+Charges,"  or "MRC") for each Service will be billed in advance of the provision
+of Services.  One-time implementation or other fees for a new Service or portion
+of  a  Service  ("Non-Recurring  Charges,"  or  "NRC") and all other charges for
+Services received, including but not limited to variable usage Services, will be
+billed  in  arrears.
+
+4.     Use  of  Services.
+
+A.     With  respect to On-Demand Streaming Services or any successor product or
+service,  Customer  will not sublicense or otherwise redistribute the streams in
+any  way  other  than  for;  i) delivery to end users, or ii) use of the streams
+primarily  to  serve  its  corporate  intranets.
+
+B.     SAVVIS  assumes  no liability for any damage to, or loss of, any Customer
+Equipment  resulting  from  any cause other than the gross negligence or willful
+misconduct  of SAVVIS.  To the extent SAVVIS and/or its affiliates is liable for
+any  damage  to,  or  loss of, Customer Equipment for any reason, such liability
+will  be  limited  solely  to the then-current replacement value of the affected
+Customer  Equipment,  excluding  lost  data,  software  and  firmware.
+
+5.     Service  Level  Agreement.  SAVVIS  represents  that  it will perform the
+Services  in  a workmanlike manner consistent with industry standards reasonably
+applicable  to  the  performance thereof.  The remedies set forth in the Service
+Level  Agreement  Attached as Exhibit A for Content Delivery Network Services or
+Exhibit  B  for  Streaming Services , are Customer's sole and exclusive remedies
+for  any  failure  by  SAVVIS to provide the Services and for SAVVIS' failure to
+meet  any  representation  set  forth  in  this  Section  6.
+
+6.     Service  End  of  Life.  SAVVIS  may  elect  at  its  sole  discretion to
+substitute  or  terminate ("end-of-life") certain Services provided to Customer.
+In that event, SAVVIS will use commercially reasonable efforts to (i) substitute
+substantially  similar services in lieu of the Services being replaced; and (ii)
+minimize  the  impact  resulting from such changes on the Customer.  SAVVIS will
+provide  Customer  with  at least thirty (30) days notice before end-of-lifing a
+Service  or  substituting  a  replacement  Service.
+
+7.     Compliance  with  Laws  and  AUP.  In  addition to Customer's obligations
+contained  in  Section  4  of  the  Agreement, Customer acknowledges that SAVVIS
+exercises  no  control  whatsoever over the content residing on  Customer's site
+(including  Customer's  customers'  or end users' content, and including any and
+all  audio content, video content, film, slides, renderings, text-based content,
+and/or  other  images  provided  to  SAVVIS  by or on behalf of Customer) or any
+content  shared  or processed on equipment under the control of SAVVIS on behalf
+of  Customer,  and that it is the sole responsibility of Customer to ensure that
+the  information  it  and  its customers and users transmit and receive, and use
+thereof,  complies  with  all  applicable  laws  and  regulations  and  the AUP.
+
+
+<PAGE>
+8.     Suspension  of  Service.  In  addition  to  SAVVIS'  rights  contained in
+Section  4  of  the  Agreement,  in  the  event  of any breach of the AUP or any
+Customer  warranty  or representation set forth within this Service Addendum, in
+addition  to  any other remedies available at law or in equity, SAVVIS will have
+the  right  to  suspend  immediately  the  applicable Service(s) and/or restrict
+Customer's access to the SAVVIS data center(s), to the extent and for so long as
+deemed  reasonably  necessary  by  SAVVIS  to  prevent  any  harm to SAVVIS, its
+employees  or  its  business.
+
+9.     Intellectual  Property.
+
+A.     Except  for  the rights expressly granted herein, this Agreement does not
+transfer to Customer any SAVVIS Technology, and all right, title and interest in
+and to SAVVIS Technology will remain solely with SAVVIS and/or its Affiliates or
+licensed  third  parties.  Except  for the rights expressly granted herein, this
+Agreement does not transfer from Customer to SAVVIS any Customer Technology, and
+all  right,  title and interest in and to Customer Technology will remain solely
+with  Customer.  SAVVIS  and  Customer each agrees that it will not, directly or
+indirectly,  reverse  engineer,  decompile,  disassemble or otherwise attempt to
+derive  source  code  or other trade secrets from technology of the other party.
+
+B.     For  purposes  of  this  Service  Addendum,     (i) "Customer Technology"
+means  Customer's  proprietary  technology,  including  Customer's  Internet
+operations  design,  software  tools, hardware designs, algorithms, software (in
+source and object forms), user interface designs, architecture, class libraries,
+objects and documentation (both printed and electronic), know-how, trade secrets
+and any related intellectual property rights throughout the world (whether owned
+by  Customer  or licensed to Customer from a third party) and also including any
+derivatives,  improvements,  enhancements  or  extensions of Customer Technology
+conceived,  reduced  to practice, or developed during the term of this Agreement
+by  Customer; and (ii) "SAVVIS Technology" means SAVVIS' proprietary technology,
+including  SAVVIS and its Affiliates services, software tools, hardware designs,
+algorithms,  software  (in  source  and  object  forms), user interface designs,
+architecture,  class  libraries,  objects  and  documentation  (both printed and
+electronic),  network  designs,  know-how,  trade  secrets  and  any  related
+intellectual  property rights throughout the world (whether owned by SAVVIS, its
+Affiliates  or  licensed to SAVVIS and/or its Affiliates from a third party) and
+also  including  any  derivatives,  improvements,  enhancements or extensions of
+SAVVIS  Technology  conceived, reduced to practice, or developed during the term
+of  this  Agreement by either party that are not uniquely applicable to Customer
+or  that  have  general  applicability  in  the  art.
+
+C.     Notwithstanding  anything  to the contrary in this Agreement, SAVVIS will
+not  be prohibited or enjoined at any time by Customer from utilizing any skills
+or  knowledge  of  a  general nature acquired during the course of providing the
+Services, including, without limitation, information publicly known or available
+or  that  could  reasonably  be  acquired  in similar work performed for another
+customer  of  SAVVIS.
+
+D.  In  the  event  that any Service(s) supplied by or through SAVVIS under this
+Agreement  becomes,  or  in  SAVVIS' reasonable opinion is likely to become, the
+subject of a claim of infringement, SAVVIS may, at its sole option, either:  (i)
+procure  for Customer the right to continue use of the affected Service(s); (ii)
+provide a modification on a timely basis to the affected Service(s), so that its
+use  becomes  non-infringing  but  remains  materially  similar  to the affected
+Service(s);  (iii) replace the affected Service(s) with a non-infringing version
+which  is  materially  similar to the affected Service(s); or (iv) terminate the
+affected  Service(s)  without  further  liability  or  obligation  to  Customer.
+
+10.     License  Grants.
+
+A.     SAVVIS  hereby  grants  to Customer a nonexclusive, royalty-free license,
+non-transferable  (except  as  otherwise  provided in this Agreement) during the
+Initial  Term  and  any  Renewal  Term, to use the SAVVIS Technology that SAVVIS
+provides Customer in connection with the provision of the Service(s), solely for
+purposes  of using the Service(s) in accordance with the terms and conditions of
+this  Agreement  and  for  no  other  purpose.
+
+B.     Customer  agrees  that if, in the course of performing the Service(s), it
+is necessary for SAVVIS to use Customer Technology, SAVVIS is hereby granted and
+shall have a nonexclusive, royalty-free license, during the Initial Term and any
+Renewal  Term,  to  use the Customer Technology solely for purposes of providing
+the  Service(s)  to  Customer  and  no  other  purpose.
+
+11.     Termination.
+
+A.     Unless  otherwise  provided  on an Order Form, if Customer terminates any
+Service  prior to the completion of the applicable term, whether the term is for
+an  Initial  Term  or  for a Renewal Term, then SAVVIS will charge Customer, and
+Customer agrees to pay, the fees for the remainder of the term on the terminated
+Service.
+
+
+<PAGE>
+12.     No  Lease;  Agreement  Subordinate to Master Lease.  This Agreement is a
+services agreement and is not intended to and will not constitute a lease of any
+real  property.  Customer  acknowledges  and agrees that (i) it has been granted
+only a license to occupy the Customer Area and use the SAVVIS data center(s) and
+any  equipment  provided  by  SAVVIS  in  accordance  with  this Agreement; (ii)
+Customer has not been granted any real property interest in the Customer Area or
+data  center(s); (iii) Customer has no rights as a tenant or otherwise under any
+real property or landlord/tenant laws, regulations, or ordinances; and (iv) this
+Agreement, to the extent it involves the use of space leased by SAVVIS, shall be
+subordinate  to  any  lease between SAVVIS and its landlord(s).  Customer hereby
+waives  and  releases  any  claims  or  rights  to make a claim that it may have
+against  the landlord(s) under any lease by SAVVIS with respect to any equipment
+or  property  of  Customers  located  in  the premises demised to SAVVIS by such
+landlord(s).
+
+13.     Specification  Sheet.  The "Specification Sheet" shall mean the detailed
+description  for  each Service, other than Professional Services, ordered in the
+applicable  Service  Order  by Customer, which is attached to or forms a part of
+the  applicable  Service  Order(s).  The  terms  of  the Specification Sheet are
+hereby  incorporated by reference into this Service Addendum.  In the event of a
+conflict between the terms of the Specification Sheet and this Service Addendum,
+the  terms  of  the  Specification  Sheet  shall  control.
+
+
+SAVVIS                                     Customer
+
+By:                                        By:
+-----------------------------------------  -------------------------------------
+
+Print  Name:                               Print  Name:
+-----------------------------------------  -------------------------------------
+
+Title:                                     Title:
+-----------------------------------------  -------------------------------------
+
+Date:                                      Date:
+-----------------------------------------  -------------------------------------
+
+
+<PAGE>
+                                    EXHIBIT A
+                                    ---------
+                        CONTENT DELIVERY NETWORK SERVICES
+                        ---------------------------------
+                            SERVICE LEVEL AGREEMENT
+                            -----------------------
+
+Performance  Guarantee
+
+At no charge to Customer, SAVVIS commits that the performance, as defined below,
+of Customer Content located on the SAVVIS Content Delivery Network will beat the
+performance  of content located on the Customer's origin site 99.8% of the time.
+SAVVIS  will  determine  performance  using  the independent performance testing
+company  Keynote Systems, Inc.  Performance will be measured as a daily (24-hour
+period)  worldwide  average using ten (10) Keynote agents located throughout the
+world.  In  the  event the average daily response time of the content located on
+the  SAVVIS  Content  Delivery Network is slower than the average daily response
+time  of the content on Customer's origin server, Customer will receive a credit
+of  one  hundred  percent  (100%)  of  its daily SAVVIS Content Delivery Network
+transfer  fees,  not  to  exceed  $5,000  per  month.
+
+Please Note: This Service Level Agreement applies to standard SAVVIS Caching (C)
+data  only.  It  does  not  apply  to  streaming  media  data.
+
+Measurement  Techniques  and  Definitions:
+
+Measurement  of  Performance  Guarantee
+
+     SAVVIS  uses  one  of  the  recognized  leaders  in independent performance
+     testing - Keynote Systems, Inc. -- to measure the performance of Customer's
+     content,  as  outlined  herein.  Keynote  measures performance by utilizing
+     Keynote  agents  situated  around the world and, from these Keynote agents,
+     SAVVIS  obtains  a  worldwide  daily  average  of the download time for the
+     content.  The  current  Keynote Agents are located at the following sites*:
+
+     -  New  York, NY, San Francisco, CA, Los Angeles, CA, Atlanta, GA, Chicago,
+     IL,  Washington,  DC,  London,  Tokyo,  Hong  Kong,  Germany
+
+     SAVVIS  will  give  Customer  a 100-kb text file to be stored on Customer's
+     origin site. SAVVIS will then enable the 100-kb file, thereby loading it on
+     the  Caching Network. Keynote will test the download time of this text file
+     from  the  Caching  Network and compare it to the download time of the same
+     file  from  Customer's  origin  server.
+
+     *SAVVIS  reserves the right, in its sole and absolute discretion, to change
+     the  testing  locations  listed  above.
+
+Scenarios  in  which  Keynote  measurements  will not be counted against Service
+Level  Agreement
+
+     Erroneous  performance  measurements  by  Keynote  agents,  as  verified by
+     Keynote,  will  not  be  counted  against  this  Service  Level  Agreement.
+
+     Downtime  minutes  will  not  be  counted  against  the  measurement of the
+                              ---
+     performance  guarantee,  as  defined  above,  in  the  following  cases:
+
+     -  Customer's origin server is unavailable or not responding to the Keynote
+     test  agents.
+
+     - Downtime due to failure or inaccessibility of to the Keynote test agents.
+
+     Performance  measurements  during  customer initiated invalidation (such as
+     redirection)  or  expiration  of  the  100  kb  test file that prevents the
+     caching  of  the  100  kb  test  file  onto the Caching Network will not be
+     counted  against  this  Service  Level  Agreement.
+
+     This  Service  Level  Agreement  is not valid for customers with geographic
+     restrictions  on  content  delivery  using  Footprint.
+
+Refunds
+
+     In  the event SAVVIS fails to meet the performance guarantee, as defined in
+     this Service Level Agreement, at the end of the calendar month, SAVVIS will
+     determine  the  monthly  caching  amount and divide by thirty to derive the
+     daily caching transfer credit. All daily caching transfer credits permitted
+     under  this  Service  Level  Agreement will be added together to obtain the
+     total credits for the month. The total monthly credit, not to exceed $5,000
+     per  month, will be applied as a credit on Customer's next monthly invoice.
+
+     The foregoing lists Customer's sole and exclusive remedy should SAVVIS fail
+     to  meet  the above performance guarantee, as defined in this Service Level
+     Agreement.
+
+
+<PAGE>
+</TEXT>
+</DOCUMENT>

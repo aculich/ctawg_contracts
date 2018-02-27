@@ -1,0 +1,78 @@
+<DOCUMENT>
+<TYPE>EX-10.1
+<SEQUENCE>3
+<FILENAME>a97391exv10w1.txt
+<DESCRIPTION>EXHIBIT 10.1
+<TEXT>
+<PAGE>
+                                                                    Exhibit 10.1
+
+                          CONSENT AND WAIVER AGREEMENT
+
+
+     THIS CONSENT AND WAIVER is given by Ian B. Carter (the "Employee") to
+Commonwealth Energy Corporation, a California corporation (the "Company")
+effective as of March 12, 2004.
+
+                                    RECITALS
+
+     A. The Employee and the Company are parties to an Employment Agreement
+dated as of January 1, 2000, as amended by an Addendum dated November 1, 2000
+(the "Employment Agreement").
+
+     B. Pursuant to Section 3.2(a) of the Employment Agreement, upon the
+occurrence of certain change of control transactions of the Company, the
+Employee has the right to receive certain bonus payments. Pursuant to Section
+3.9 of the Employment Agreement, upon the occurrence certain sales of assets and
+change of control events, the Employee shall have the right to require the
+Company to repurchase from the Employee all capital stock and stock options then
+owned by or owing to Employee at an aggregate repurchase price equal to two (2)
+times the then aggregate price value (as defined in the Employment Agreement) of
+the Company's capital stock.
+
+     C. Pursuant to Section 7.3 of the Employment Agreement, the Employee may
+terminate the Employment Agreement for cause and receive certain severance
+payments upon the occurrence of certain change of control events without the
+Employee's prior written consent.
+
+     D. The Company intends to complete a reorganization transaction (the
+"Transaction") pursuant to which to (a) a newly-formed California subsidiary
+("Newco") of Commerce Energy Group, Inc., one of the Company's wholly-owned
+Delaware subsidiaries (the "Holding Company") would be merged with and into the
+Company; (b) the Company would be the surviving corporation in the merger; and
+(c) the Company would become a wholly-owned subsidiary of the Holding Company.
+
+     E. In order to facilitate the Transaction, the Employee is willing to
+consent to the Transaction and in connection with the Transaction waive (a) any
+right to the payment of a bonus under Section 3.2(a) of the Employment
+Agreement, (b) the Employee's right to exercise the stock repurchase option
+under Section 3.9 of the Employment Agreement and (c) any right to terminate the
+Employment Agreement for cause under Section 7.3 of the Employment Agreement.
+
+     NOW, THEREFORE, for good and valuable consideration, receipt of which is
+hereby acknowledged, the Employee hereby agrees as follows:
+
+<PAGE>
+
+                               CONSENT AND WAIVER
+
+     1. The Employee hereby expressly consents in writing to the Transaction.
+
+     2. The Employee hereby waives any rights he may have under Sections 3.2(a),
+3.9 and 7.3 of the Employment Agreement in connection with the Transaction.
+
+     3. The consent and waivers contained in Paragraphs 1 and 2 above shall only
+apply to the Transaction, not other future transactions. Except as amended or
+modified by this Consent and Waiver, the Employment Agreement shall continue in
+full force and effect in accordance with its terms.
+
+
+                                          By: /s/ IAN B. CARTER
+                                              ----------------------------------
+                                              Ian B. Carter
+
+
+                                      -2-
+
+</TEXT>
+</DOCUMENT>

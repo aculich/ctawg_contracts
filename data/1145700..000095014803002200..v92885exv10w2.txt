@@ -1,0 +1,693 @@
+<DOCUMENT>
+<TYPE>EX-10.2
+<SEQUENCE>8
+<FILENAME>v92885exv10w2.txt
+<DESCRIPTION>EXHIBIT 10.2
+<TEXT>
+<PAGE>
+
+                                                                    EXHIBIT 10.2
+
+                                                                  EXECUTION COPY
+
+                   VITAL LIVING REGISTRATION RIGHTS AGREEMENT
+
+This Registration Rights Agreement (the "Agreement"), dated as of August 20,
+2003, is between SkyePharma PLC, a company incorporated under the laws of
+England and Wales (the "Holder") and Vital Living, Inc., a Nevada corporation
+(the "Corporation").
+
+         WHEREAS, the Holder will acquire 14,204,548 shares of the Corporation's
+common stock, par value $0.001 (the "Shares") pursuant to the terms of that
+certain Merger Agreement (the "Merger Agreement" and the Shares issued thereby,
+the "Merger Shares"), dated August 20, 2003, by and between the Corporation,
+VLEN Acquisition Corp., Inc., a wholly owned subsidiary of the Corporation, and
+e-nutriceuticals, inc., a Delaware corporation.
+
+         WHEREAS the Holder will acquire additional Shares (together with the
+Merger Shares, the "Subject Shares") upon conversion of shares of preferred
+stock of the Corporation to be issued to the Holder pursuant to a Subscription
+Agreement, dated August 20, 2003 by and between the Holder and the Corporation
+(the "Subscription Agreement");
+
+         NOW THEREFORE, in consideration of mutual covenants, obligations and
+agreements contained herein, in the Merger Agreement and in the Subscription
+Agreement, and intending to be legally bound hereby, the parties hereto agree as
+follows:
+
+Section 1. Definitions. Except as otherwise specified herein, defined terms used
+in this Agreement shall have the respective meanings assigned to such terms in
+the Merger Agreement. Unless otherwise specified all references to "days" shall
+be deemed to be references to calendar days. For purposes of this Agreement the
+following terms shall have the following meanings:
+
+         (a) "Affiliate" shall mean, with respect to any Person, any other
+Person who, directly or indirectly through one or more intermediaries, controls,
+is controlled by or is under common control with such Person. For purposes of
+this definition, "control" when used with respect to any Person means the power
+to direct the management and policies of such Person, directly or indirectly,
+whether through the ownership of voting securities, by appointment of directors,
+by contract or otherwise.
+
+         (b) "Business Day" shall mean any day other than a business day on
+which banking institutions in New York are authorized or obligated by law to
+close for business.
+
+         (c) "Commission" shall mean the U.S. Securities and Exchange Commission
+or any other Federal agency at the time administering the Securities Act.
+
+<PAGE>
+
+         (d) "Exchange Act" shall mean the U.S. Securities Exchange Act of 1934,
+as amended, or any successor Federal statute, and the rules and regulations of
+the Commission promulgated thereunder, all as the same shall be in effect from
+time to time.
+
+         (e) "Closing Date" shall have the meaning set forth in the Merger
+Agreement.
+
+         (f) "Merger Shares" shall have the meaning set forth in the Recitals.
+
+         (g) "Merger Agreement" shall have the meaning set forth in the
+Recitals.
+
+         (h) "Person" or "persons" mean any individual, corporation,
+partnership, limited liability company, joint venture, association, joint-stock
+company, trust, unincorporated organization or government or other agency or
+political subdivision thereof
+
+         (i) "Registrable Shares" shall mean the Shares held by Holder that
+constitute Restricted Shares.
+
+         (j) "Restricted Shares" shall mean (i) the Subject Shares issued to the
+Holder pursuant to the Purchase Agreement, and (ii) any securities received in
+respect of the Subject Shares, that (x) are held by the Holder and (y)
+theretofore have not been sold to the public pursuant to a registration
+statement under the Securities Act or pursuant to Rule 144 or that may not be
+freely sold by the Holder without registration under Rule 144(k).
+
+         (k) "Rule 144" shall mean Rule 144 promulgated under the Securities Act
+or successor or complementary rule thereto.
+
+         (l) "Securities Act" shall mean the Securities Act of 1933, as amended,
+or any successor Federal statute, and the rules and regulations of the
+Commission promulgated thereunder, all as the same shall be in effect from time
+to time.
+
+         (m) "Shares" shall mean shares of Common Stock, par value $ 0.001 per
+share, of the Corporation.
+
+         (n) "Transfer" shall mean any disposition of any Restricted Shares or
+of any interest therein that would constitute a sale thereof within the meaning
+of the Securities Act other than any such disposition pursuant to an effective
+registration statement under the Securities Act and complying with all
+applicable state securities and "blue sky" laws.
+
+Section 2. Representations and Warranties of the Corporation.
+
+         (a) Representations and Warranties of the Corporation. The Corporation
+represents and warrants to the Holder as follows:
+
+                  (i) The execution, delivery and performance by the Corporation
+of this Agreement and the consummation of the transactions contemplated hereby
+have been duly authorized by all requisite corporate action on the part of the
+Corporation and the Agreement
+
+                                       2
+
+<PAGE>
+
+shall have been duly executed and delivered by the Corporation and is in full
+force and effect. The Agreement constitutes the valid and binding obligations of
+the Corporation, enforceable in accordance with its terms, subject as to
+enforcement to applicable bankruptcy, insolvency, moratorium or other similar
+laws relating to creditors' rights and general principles of equity.
+
+                  (ii) The execution, delivery and performance of this Agreement
+and the consummation of the transactions contemplated hereby, and compliance
+with the provisions hereof by the Corporation will not (a) violate any law or
+statute or order, judgment or decree of any court, administrative agency or
+other governmental body applicable to the Corporation, or its properties or
+assets, (b) conflict in any respect with or result in any breach of any of the
+terms or provisions or constitute (without due notice or lapse of time, or both)
+a default under the Certificate of Incorporation or By-laws of the Corporation,
+(c) result in a breach or violation of, or a default under, or acceleration of
+any obligations pursuant to any note, indenture, mortgage, lease, agreement,
+contract, understanding, arrangement or instrument ("Contracts") to which the
+Corporation is a party or by which it or any of its properties or assets may be
+bound or affected, (d) result in any change in the rights or obligations of any
+party under the Contracts, or (e) result in the creation or imposition of any
+lien, claim, judgment, charge, mortgage, security interest, pledge, escrow
+equity or other encumbrance of any nature whatsoever upon any of the properties
+or assets of the Corporation.
+
+         (b) Representations and Warranties of the Holder. The Holder represents
+and warrants to the Corporation that it has all requisite power and authority to
+execute this Agreement, to perform its obligations hereunder and to consummate
+the transactions contemplated hereby. The execution and delivery of this
+Agreement and the consummation of the transactions contemplated hereby have been
+duly authorized by all necessary action on the part of the Holder. This
+Agreement has been duly executed and delivered by the Holder and this Agreement
+constitutes the legal, valid, binding and enforceable obligation of the Holder,
+subject to applicable bankruptcy, insolvency, moratorium or other similar laws
+relating to, creditors' rights and general principles of equity.
+
+Section 3. Piggyback Registration. Subject to the terms and conditions set forth
+in this Agreement, if the Corporation at any time after March 31, 2004, proposes
+for any reason to register Shares under the Securities Act (other than on Form
+S-4 or Form S-8 promulgated under the Securities Act or any successor forms
+thereto, or any post-effective amendment relative to a registration statement
+previously filed), it shall as promptly as practicable (but in no event less
+than thirty (30) days prior to the date the registration statement is filed with
+the Commission) give written notice to the Holder of its intention to effect
+such registration. If within twenty (20) days of delivery of such notice the
+Holder submits a written request to the Corporation specifying the amount of
+Registrable Shares held by the Holder and the intended method of disposition of
+such Registrable Shares, the Corporation shall include in the registration
+statement and offering, the Registrable Shares specified in the request on the
+same terms and conditions as the Shares otherwise being sold in such
+registration and use its best efforts to cause such registration statement to
+become effective. If the managing underwriter determines in good faith and
+advises the Holder in writing that the inclusion in the registration statement
+and offering of all the Registrable Shares proposed to be included would
+interfere with the
+
+                                       3
+
+<PAGE>
+
+successful marketing of all securities proposed to be registered, then the
+Holder shall agree to a downward adjustment in the number of Registrable Shares
+to be included in such underwriting sufficient to alleviate such marketing
+concern (provided that if securities are being offered for the account of
+Persons other than the Corporation, then such securities intended to be offered
+for the account of such other Person shall be reduced first).
+
+Section 4. Shelf and Demand Registration. As soon as reasonably practicable
+after March 31, 2004, the Corporation shall prepare and file with the SEC a
+registration statement (the "Shelf Registration Statement") under form S-3 (or
+any successor form, if permitted) to permit offerings and sales of Registrable
+Shares by the Holder pursuant to Rule 415 under the Securities Act and shall use
+its reasonable best efforts to maintain such Shelf Registration Statement
+effective and current. The Corporation shall supplement and amend the Shelf
+Registration Statement if required by the rules, regulations or instructions
+applicable to the registration form used for such Shelf Registration Statement,
+if required by the Securities Act or if reasonably requested by the Holder. In
+the event that the Corporation has failed to or is unable to file and maintain a
+Registration Statement as contemplated by this Section 4 and until such failure
+or inability is remedied, the Holder shall have the right to make at any time a
+written demand upon the Corporation (each, a "Demand Notice") to have the
+Corporation as promptly as practical register under the Securities Act for offer
+and sale all Registrable Shares specified to the Corporation by the Holder
+within 20 days of the date of the Demand Notice and the Corporation agrees to so
+register such Registrable Shares. Notwithstanding the foregoing, if the
+Corporation shall furnish a certificate to the Holder signed by the Chief
+Executive Officer of the Corporation (a "Blackout Notice"), the Corporation may
+suspend the use, or delay the delivery or filing (but not the preparation) of
+the Registration Statement or any amendment or supplements thereto, for a
+limited period of time (which in no event shall be longer than forty-five (45)
+days after the date of the Blackout Notice ("Suspension Right"), if the
+Corporation determines in good faith that (i) it is in possession of material,
+non-public information concerning an acquisition, merger, recapitalization,
+consolidation, reorganization or other material transaction by or of the
+Corporation or concerning pending or threatened litigation and disclosure of
+such information would jeopardize any such transaction or litigation or
+otherwise materially harm the Corporation, or (ii) in the case of a Demand
+Notice, the filing of the registration statement would occur after February 15
+of any year but before the filing by the Corporation of its annual report on
+Form 10-K; and, in either case, (iii) the Corporation shall have so stated in
+the Blackout Notice; provided, however, that the Corporation may not exercise
+such Suspension Right more than twice in any twelve month period.
+
+Section 5. Registration Mechanics. In connection with any registration of the
+Registrable Shares effected pursuant to Sections 3 or 4 the Corporation shall:
+
+         (a) prepare and file the registration statement and such amendments and
+supplements to the registration statement and the prospectus or offering
+circular used in connection therewith as may be necessary to keep the
+registration statement current and effective and to comply with the provisions
+of the Securities Act and the rules and regulations thereunder with respect to
+the disposition of all the Registrable Shares covered by the registration
+statement for the period
+
+                                       4
+
+<PAGE>
+
+required to effect the distribution thereof, and to use its best efforts to make
+any corrections or updates to the registration statement or prospectus as
+promptly as practicable;
+
+         (b) furnish to the Holder such number of copies of any prospectus,
+prospectus supplement or offering circular, including a preliminary prospectus,
+and of a full registration statement and exhibits in conformity with the
+requirements of the Securities Act and the rules and regulations thereunder, as
+the Holder may reasonably request in order to facilitate the disposition of such
+securities;
+
+         (c) use its best efforts to register or qualify the Registrable Shares
+covered by the registration statement under the securities or "blue sky" laws of
+such state jurisdictions of the United States as the Holder may reasonably
+request, and to accomplish any and all other acts and things which may be
+necessary or advisable to permit sales in such jurisdictions of such Registrable
+Shares and keep such registration or qualification in effect for so long as the
+registration statement remains in effect;
+
+         (d) in connection with an underwritten public offering, to enter into
+an underwriting agreement in form and substance customary under the
+circumstances, which shall include (i) provisions for any "lock up" period,
+during which the sale of Shares and securities convertible into Shares by the
+Corporation or its Affiliates will be restricted, that may reasonably be
+required by the managing underwriter thereof and (ii) indemnification and
+contribution provisions and procedures that are no less favorable to the
+underwriters than those set forth in Section 10 hereof and otherwise reasonably
+satisfactory to the managing underwriter;
+
+         (e) in connection with any underwritten public offering, obtain
+opinions of counsel to the Corporation (which counsel and opinions (in form,
+scope and substance) shall be reasonably satisfactory to the managing
+underwriter) addressed to the Holder and the underwriters, covering such matters
+as are customarily covered in opinions requested in underwritten offerings of
+equity and convertible debt securities and such other matters as may be
+reasonably requested by the Holder and the underwriters (it being agreed that
+the matters to be covered by such opinions shall include, without limitation,
+the absence from the registration statement and the prospectus, including the
+documents incorporated by reference therein and any prospectus supplement
+thereto, of an untrue statement of a material fact or the omission of a material
+fact required to be stated therein or necessary to make the statements therein
+not misleading);
+
+         (f) at any time when a prospectus relating thereto is required to be
+delivered under the Securities Act, notify the Holder upon discovery that, or
+upon the happening of any event as a result of which, the prospectus included in
+such registration statement, as then in effect, includes an untrue statement of
+a material fact or omits to state any material facts required to be stated
+therein or necessary to make the statements therein not misleading, in the light
+of the circumstances under which they were made, and (subject to the good faith
+determination of the Board of Directors as to whether to cease all sales under
+such registration statement) unless such untrue statement or omission has been
+made upon and in conformity with information furnished in writing to the
+Corporation by the Holder or any underwriter or any person who controls any of
+them within the meaning of Section 15 of the Securities Act or any director or
+officer of any of the foregoing, as the case may be, specifically for use in
+connection with the preparation of the
+
+                                       5
+
+<PAGE>
+
+registration statement, at the request of the Holder prepare and furnish to it a
+reasonable number of copies of a supplement to or an amendment of such
+prospectus as may be necessary so that, as thereafter delivered to the Holders
+of such securities, such prospectus shall not include an untrue statement of a
+material fact or omit to state a material fact required to be stated therein or
+necessary to make the statements therein not misleading, in the light of the
+circumstances under which they were made;
+
+         (g) in connection with any underwritten public offering, obtain "cold
+comfort" letters and updates thereof from the independent public accountants of
+the Corporation (and, if necessary, from the independent public accountants of
+any subsidiary of the Corporation or of any business acquired by the Corporation
+for which financial statements and financial data are, or are required to be,
+included in the relevant registration statement), addressed to the Holder (if
+the Holder has provided such letter, representations or documentation, if any,
+required for such "cold comfort" letter to be so addressed) and the
+underwriters, in customary form and covering matters of the type customarily
+covered in "cold comfort" letters in connection with primary underwritten
+offerings;
+
+         (h) use its best efforts to cause the Registrable Shares to be listed
+on or included for quotation on any stock exchange or trading system on which
+the Shares then primarily trade;
+
+         (i) provide a CUSIP number for all Registrable Securities, not later
+than the effective date of such registration statement;
+
+         (j) if requested by any managing underwriter or underwriters of
+Registrable Shares, participate and use its best efforts to cause its executive
+officers to participate in any "roadshow" or other marketing activities intended
+to aid in the successful disposition of the Registrable Shares; and
+
+         (k) upon the request of the Holder take reasonable efforts to make
+available for inspection by the Holder and the underwriters, if any, and their
+respective advisers all financial and other records, pertinent corporate
+documents of the Corporation and cause the Corporation's officers, directors and
+employees to take reasonable efforts to supply all information reasonably
+requested by the Holder, the underwriters, if any, or any such adviser in
+connection with such registration (as long as such registration shall not have
+been postponed, delayed or withdrawn, or the effectiveness thereof terminated).
+
+Section 6. Information Provided by the Holder. Whenever under this Agreement
+Registrable Shares are being registered, the Holder shall provide the
+Corporation on a timely basis with such information and materials as the
+Corporation may reasonably request in order to effect the registration of the
+Registrable Shares.
+
+Section 7. Rule 144. With a view to making available to the Holder the benefits
+of Rule 144, the Corporation agrees to use its best efforts to make available
+adequate current public information with respect to it within the meaning of,
+and as required pursuant to, Rule 144(c).
+
+                                       6
+
+<PAGE>
+
+Section 8. Selection of Underwriters. If the offering pursuant to any piggy back
+registration pursuant to Section 3 hereof is to be made by or through
+underwriters, the Corporation shall have the right to designate the managing
+underwriter which shall be reasonably satisfactory to the Holder. If the
+offering pursuant to any registration of Registrable Shares pursuant to a demand
+by the Holder under Section 4 hereof is to be made by or through underwriters,
+the Holder shall have the right to designate the managing underwriter which
+shall be reasonably satisfactory to the Corporation.
+
+Section 9. Expenses. All expenses incurred by the Corporation in effecting a
+registration and sale of Registrable Shares under this Agreement, including,
+without limitation, all registration and filing fees (including all expenses
+incidental to filing with the NASD), fees and expenses of complying with
+securities and "blue sky" laws, printing expenses, expenses incurred by the
+Corporation in marketing and assisting in the marketing of such Registrable
+Shares, the fees, disbursements and expenses of the managing underwriter or
+underwriters, the fees and expenses of counsel and independent auditors for the
+Corporation including fees of counsel and accountants incurred in connection
+with the preparation of customary opinions of counsel and independent auditors,
+and the reasonable fees and expenses of one counsel for the Holder, shall be
+borne by the Corporation, provided, however, that any underwriting commissions
+or concessions incurred in effecting a registration and sale of the Holder's
+Registrable Shares shall not be borne by the Corporation.
+
+Section 10. Indemnification.
+
+         (a) In connection with any registration of any Registrable Shares under
+the Securities Act pursuant to this Agreement, the Corporation shall indemnify
+and hold harmless the Holder, and the officers, directors and other Persons, if
+any, that may be deemed to control the Holder within the meaning of the Exchange
+Act, and each underwriter, broker, dealer or other Person active on behalf of
+the Holder, against any losses, claims, damages or liabilities, joint or several
+(or actions in respect thereof), to which the Holder and such Persons may become
+subject under the Securities Act or otherwise, insofar as such losses, claims,
+damages or liabilities (or actions in respect thereof) (i) arise out of or are
+based upon an untrue statement or alleged untrue statement of a material fact
+contained in the registration statement (including the documents incorporated
+therein by reference) under which such Registrable Shares were registered under
+the Securities Act, any preliminary prospectus, final prospectus or prospectus
+supplement contained therein or otherwise filed with the Commission, any
+amendment or supplement thereto or any document incident to registration or
+qualification of any Registrable Shares, or (ii) arise out of or are based upon
+the omission or alleged omission to state therein a material fact required to be
+stated therein or necessary to make the statements therein not misleading or,
+with respect to any prospectus or prospectus supplement, necessary to make the
+statements therein in the light of the circumstances under which they were made
+not misleading, or (iii) arise out of any violation by the Corporation of the
+Securities Act or state securities or "blue sky" laws applicable to the
+Corporation and relating to action or inaction required of the Corporation in
+connection with such registration or qualification under state securities or
+"blue sky" laws; provided, however, that the Corporation shall not be liable in
+any such case to the extent that any such loss, claim, damage, liability or
+action arises out of or is based upon an untrue, statement or alleged untrue
+statement or omission or alleged omission made in said registration
+
+                                       7
+
+<PAGE>
+
+statement, preliminary prospectus, final prospectus, prospectus supplement,
+amendment, supplement or document incident to registration or qualification of
+any Registrable Shares in reliance upon written information furnished to the
+Corporation by the Holder with respect to information regarding the Holder
+expressly for inclusion therein.
+
+         (b) In connection with any registration of Registrable Shares under the
+Securities Act pursuant to this Agreement, the Holder shall indemnify and hold
+harmless (in the same manner and to the same extent as set forth in Section
+10(a)) the Corporation, each director of the Corporation, each officer of the
+Corporation who shall sign such registration statement, each underwriter,
+broker, dealer or other Person acting on behalf of the Corporation and each
+Person, if any, who controls any of the foregoing Persons within the meaning of
+the Securities Act with respect to any statement or omission from such
+registration statement, any preliminary prospectus, final prospectus or
+prospectus supplement contained therein or otherwise filed with the Commission,
+any amendment or supplement thereto or any document incident to registration or
+qualification of any Registrable Shares, if such statement or omission was made
+in reliance upon written information furnished by the Holder to the Corporation
+or such underwriter expressly for inclusion in such registration statement,
+preliminary prospectus, final prospectus, prospectus supplement, amendment,
+supplement or document, provided that the liability of the Holder under this
+Section 10(b) shall not exceed the aggregate proceeds received by the Holder
+upon the sale of Registrable Shares by such investor pursuant to such
+registration.
+
+         (c) Promptly after receipt by an indemnified party of notice of the
+commencement of any action involving a claim referred to in the preceding
+paragraphs of this Section 10, such indemnified party will, if a claim in
+respect thereof is made against an indemnifying party, give written notice to
+the latter of the commencement of such action. In case any such action is
+brought against an indemnified party, the indemnifying party will be entitled to
+participate in and to assume the defense thereof, jointly with any other
+indemnifying party similarly notified to the extent that it may wish, with
+counsel reasonably satisfactory to such indemnified party, and after notice from
+the indemnifying party to such indemnified party of its ejection so to assume
+the defense thereof, the indemnifying party shall not be responsible for any
+legal or other expenses subsequently incurred by the indemnified party in
+connection with the defense thereof; provided, however, that an indemnified
+party shall have the right to retain its own counsel, with the reasonable fees
+and expenses to be paid by the indemnifying party, if such indemnified party
+shall have been advised in writing by counsel that representation of such
+indemnified party or parties by the counsel retained by the indemnifying party
+or parties would be inappropriate due to actual or potential differing interests
+between such indemnified party or parties and any other party represented by
+such counsel in such proceeding.
+
+         (d) If the indemnification provided for in this Section 10 is held by a
+court of competent jurisdiction to be unavailable to an indemnified party with
+respect to any loss, claim, damage, liability or action referred to herein, then
+the indemnifying party, in lieu of indemnifying such indemnified party
+hereunder, shall contribute to the amounts paid or payable by such indemnified
+party as a result of such loss, claim, damage, liability or action in such
+proportion as is appropriate to reflect the relative fault of the indemnifying
+party on the one hand and of the indemnified party on the other in connection
+with the statements or omissions which resulted in
+
+                                       8
+
+<PAGE>
+
+such loss, claim, damage, liability or action as well as any other relevant
+equitable considerations. The relative fault of the indemnifying party and of
+the indemnified party shall be determined by reference to, among other things,
+whether the untrue or alleged untrue statement of a material fact or the
+omission or alleged omission to state a material fact relates to information
+supplied by the indemnifying party or by the indemnified party and the parties'
+relative intent, knowledge, access to information and opportunity to correct or
+prevent such statement or omission.
+
+Section 11. Listing; Market for Shares; Legend. The Corporation shall use its
+best efforts to ensure that the Holder has a readily realisable market for its
+outstanding shares of Common Stock from January 1, 2004 (the "Liquidity
+Covenant"). The Liquidity Covenant includes, without limitation, that (i) the
+Corporation shall use its reasonable best efforts to obtain a listing on the
+American Stock Exchange or a quotation on NASDAQ for its common stock prior to
+December 31, 2003, and (ii) in the event the Corporation fails to obtain such a
+listing or quotation, the Corporation shall use its best efforts to procure
+purchasers of Shares held by the Holder, on terms and conditions satisfactory to
+the Holder. Notwithstanding any other agreement between the Corporation and the
+Holder, the Corporation shall at the request of the Holder promptly remove any
+legends on the Registrable Shares at any time on or after March 31, 2004.
+
+Section 12. Termination.
+
+         (a) This Agreement shall terminate and be of no further force or effect
+when there shall not be any Restricted Shares, provided that the rights of the
+Holder and obligations of the Corporation under Sections 3 and 4 hereof shall
+earlier terminate and be of no further force or effect with respect to the
+Holder, and the Corporation vis-a-vis the Holder at such earlier time as it or
+its assigns no longer holds any Restricted Shares.
+
+         (b) Notwithstanding anything to the contrary contained herein, Section
+9 of this Agreement shall survive any termination hereof and shall remain in
+full force and effect.
+
+Section 13. Successors and Assigns. This Agreement shall bind and inure to the
+benefit of the Corporation and the Holder and the respective successors,
+assigns, heirs and legal representatives (as the case may be) of the Corporation
+and the Holder.
+
+Section 14. No Inconsistent Rights; Other Agreements. (a) The Corporation shall
+not grant, and has not granted, any other Person rights to register securities
+of the Corporation on terms that would reasonably be likely to restrict the
+ability of the Corporation fully to perform its obligations to the Holder
+pursuant to this Agreement.
+
+         (b) The Corporation shall not amend any registration rights agreement
+with any other Person nor shall the Corporation waive any provision under any
+registration rights agreement that it would be entitled to waive thereunder if
+such waiver would reasonably be likely to adversely affect the Holder's rights
+under this Agreement.
+
+                                       9
+
+<PAGE>
+
+Section 15 Assignment. The rights granted pursuant to this Agreement may not be
+assigned or otherwise conveyed by the Holder or by any subsequent assign of any
+of such rights without the written consent of the Corporation, which consent
+shall not unreasonably be withheld; provided, however, that no such written
+consent shall be required if the transfer is to any Affiliate or partner of the
+Holder or if such assign acquires at least a majority of the capital stock of
+the Corporation owned by the Holder. The rights granted pursuant to this
+Agreement with respect to the Restricted Shares shall be deemed to be assigned
+subject to the provisions of this Section 14 (with respect to such Restricted
+Shares) to any assign of such Restricted Shares, unless the documentation
+executed by the Holder to effect the transfer of such Restricted Shares provides
+that rights under this Agreement are not being assigned to such assign. The
+Holder shall be deemed to include any party to whom the Holders rights with
+respect to particular Restricted Shares have been assigned in accordance with
+this Section 15.
+
+Section 16. Entire Agreement. This Agreement, which shall be effective as of the
+date hereof, contains the entire agreement among the parties with respect to the
+subject matter hereof and supersedes all prior and contemporaneous arrangements
+or understandings with respect thereto.
+
+Section 17. Severability. Whenever possible, each provision or portion of this
+Agreement will be interpreted in such manner as to be effective and valid under
+applicable law, but if any provision or portion of any provision of this
+Agreement is held to be invalid, illegal or unenforceable in any respect under
+any applicable law, rule or regulation in any jurisdiction, such invalidity,
+illegality or unenforceability will not affect any other provision or portion of
+any provision in such jurisdiction, and this Agreement will be reformed,
+construed and enforced in such jurisdiction as if such invalid, illegal or
+unenforceable provision or a portion of any provision shall have been replaced
+with a provision or a portion of any provision, which shall, to the maximum
+extent permissible under such applicable law, rule or regulation, give effect to
+the intention of the parties as expressed in such invalid, illegal or
+unenforceable provision.
+
+Section 18. Notices. All notices and other communications pursuant to this
+Agreement shall be in writing and deemed to be sufficient if delivered
+personally, by telecopier, sent by nationally-recognized overnight courier or
+mailed by registered or certified mail (return receipt requested), postage
+prepaid, to the parties at the following addresses:
+
+                                       10
+
+<PAGE>
+
+         (a) if to the Corporation, to:
+
+                                            VITAL LIVING, INC.
+                                            5080 North 40th Street
+                                            Suite 105
+                                            Phoenix, AZ 85018-2147
+                                            Attn: Mr. Brad Edson
+                                            Telephone 602- 952-9909
+                                            Facsimile: 602- 952-7129
+
+                   with a copy to:          Kelly Lytton & Vann LLP
+                                            1900 Avenue of the Stars, Suite 1450
+                                            Los Angeles, CA 90067
+                                            Attention: Bruce Vann Esq.
+                                            Telephone No.: 310-277-5333
+                                            Facsimile No.: 310-277-5953
+
+         (b) if to the Holder, to:          SkyePharma PLC
+                                            105 Piccadilly
+                                            London, England WIJ 7NJ
+                                            Attn: Company Secretary
+                                            Telephone No.: +44 20 7491 1777
+                                            Facsimile No.: +44 20 7491 3338
+
+         with a copy to:                    Sullivan & Cromwell LLP
+                                            1 New Fetter Lane
+                                            London, England EC4A 1AN
+                                            Attn: Kathryn A. Campbell, Esq.
+                                            Telephone: +44 30 7959 8580
+                                            Facsimile No.: +44 20 79598950
+
+or to such other address as the party to whom notice is tope given may have
+furnished to the other parties hereto in writing in accordance herewith. Any
+such notice or communication shall be deemed to have been delivered and received
+(i) in the case of personal delivery or delivery by telecopier, on the date of
+such delivery, (ii) in the case of a nationally-recognized overnight courier, on
+the next business day after the date when sent and (iii) in the case of mailing,
+on the third business day following that on which the piece of mail containing
+such communication is posted.
+
+Section 19. Modifications; Amendments; Waiver. The terms and provisions of this
+Agreement may only be amended or waived either (i) with the written consent of
+the Corporation and the Holder or (ii) in writing by the party against whom such
+amendment or waiver is sought to be enforced. The failure of a party to insist
+upon strict adherence to any term of this Agreement on
+
+                                       11
+
+<PAGE>
+
+one or more occasions shall not be considered a waiver of or deprive that party
+of the right thereafter to insist upon strict adherence to that term or any
+other term of this Agreement.
+
+Section 20. Counterparts. This Agreement may be executed in any number of
+separate counterparts, and each such counterpart hereof shall be deemed to be an
+original instrument, but all such counterparts together shall constitute one
+agreement.
+
+Section 21. Headings. The headings of the various sections of this Agreement
+have been inserted for convenience of reference only and shall not be deemed to
+be a part of this Agreement.
+
+Section 22. Governing Law; Submission to Jurisdiction; Selection of Forum. This
+Agreement shall be construed in accordance with the laws of the State of New
+York, without regard to conflict of law provisions thereof. Each party hereto
+agrees that it shall bring up any action or proceeding in respect of any claim
+arising out of or related to this agreement or the transactions contained in and
+contemplated by this Agreement, whether in tort or contract or at law or in
+equity, exclusively in the United States District Court for the Southern
+District of New York or, if such court is not available, the Supreme Court of
+the State of New York (the "Chosen Courts") and solely in connection with claims
+arising under this Agreement or the transactions contained in or contemplated by
+this Agreement (i) irrevocably submits to the exclusive jurisdiction of the
+Chosen Courts, (ii) waives any objection to laying venue in any such action or
+proceeding in the Chosen Courts and agrees not to commence any action in respect
+of any such claim in any other court or forum, (iii) waives any objection that
+the Chosen Courts are an inconvenient forum or do not have jurisdiction over any
+party hereto, (iv) waives any right to a trial by jury and (v) agrees that
+service of process upon such party in any such action or proceeding shall be
+effective if notice is given in accordance with Section 18 of this Agreement.
+Without limiting the foregoing, each of the Corporation and the Holder hereby
+appoints, in the case of any such action or proceeding brought in the courts of
+or in the State of New York, CT Corporation System with offices on the date
+hereof at 111 8th Avenue, 13th Floor, New York, N.Y. 10011 to receive, for it
+and on its behalf, service of process in the State of New York with respect
+thereto, provided the Corporation and the Holder may appoint any other person,
+reasonably acceptable to the other party, with offices in the State of New York
+to replace such agent for service of process upon delivery to the other party of
+a reasonably acceptable agreement of such new agent agreeing to act.
+
+                                       12
+
+<PAGE>
+
+IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be executed
+and delivered as of the date first written above.
+
+                                      Vital Living, Inc.
+
+                                            By:_____________________
+
+                                            Its:____________________
+
+                                            By:_____________________
+
+                                            Its:____________________
+
+                                      SkyePharma PLC
+
+                                            By:_____________________
+
+                                            Its:____________________
+
+                                       13
+
+</TEXT>
+</DOCUMENT>

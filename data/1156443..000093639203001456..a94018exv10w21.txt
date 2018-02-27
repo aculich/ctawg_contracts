@@ -1,0 +1,83 @@
+<DOCUMENT>
+<TYPE>EX-10.21
+<SEQUENCE>6
+<FILENAME>a94018exv10w21.txt
+<DESCRIPTION>EXHIBIT 10.21
+<TEXT>
+<PAGE>
+                                                                   Exhibit 10.21
+
+                               [EXELON LETTERHEAD]
+
+Exelon Generation Company, LLC 800-355-8326
+300 Exelon Way
+Kennett Square, PA 19348
+
+
+TO: Ian Carter
+
+COMPANY: Commonwealth Energy Corporation (d/b/a/ electricAMERICA)
+
+This confirmation letter ("Letter") shall confirm the agreement reached on July
+22, 2003, between Commonwealth Energy Corporation and Exelon Generation Company,
+LLC, for the sale and purchase under the terms and conditions as follows:
+
+Seller: Exelon Generation Company, LLC ("Exelon")
+
+Buyer: Commonwealth Energy Corporation ("Commonwealth")
+
+Product: [Confidential Treatment Requested]
+
+Term: [Confidential Treatment Requested]
+
+Start Date: [Confidential Treatment Requested]
+
+End Date: [Confidential Treatment Requested]
+
+Quantity: [Confidential Treatment Requested]
+
+Schedule: 7 x 24 (around the clock)
+
+Delivery Point: Western Hub, PJM Interconnection
+
+Price: [Confidential Treatment Requested]
+
+Operations: Exelon will initiate a contract or contracts in eSchedules or its
+successor. Such contract or contracts will be designated as "real-time" and will
+identify Western Hub as source and sink.
+<PAGE>
+Payment: Exelon will bill Commonwealth twice per month in arrears in accordance
+with the following billing schedule:
+
+[Confidential Treatment Requested]
+
+
+
+Enabling Authority: This Confirmation is entered into under that certain EEI
+Master Power Purchase & Sale Agreement between Commonwealth and Exelon dated as
+of July 1, 2003 (the "Master Agreement"). In the case of a conflict between the
+terms of this Confirmation and the Master Agreement, the terms of this
+Confirmation will govern over those of the Master Agreement. All terms not
+defined herein shall have the meaning ascribed to them in the Master Agreement.
+
+
+                                       -2-
+<PAGE>
+EXELON GENERATION COMPANY, LLC           COMMONWEALTH ENERGY CORPORATION
+
+
+
+
+By:   /S/ IAN MCLEAN /KWC                 By:   /S/ IAN B. CARTER
+   --------------------------------          -----------------------------------
+Name: Ian McLean                          Name: Ian B. Carter
+
+Title: President of Exelon Power Team     Title: Chairman & CEO
+
+
+
+                                      -3-
+
+
+</TEXT>
+</DOCUMENT>

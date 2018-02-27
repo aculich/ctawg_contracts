@@ -1,0 +1,2189 @@
+<DOCUMENT>
+<TYPE>EX-10.1
+<SEQUENCE>2
+<FILENAME>v00918exv10w1.txt
+<DESCRIPTION>EXHIBIT 10.1
+<TEXT>
+<PAGE>
+                                                                    EXHIBIT 10.1
+
+
+
+                                      LEASE
+
+                                     between
+
+                      STATE OF WISCONSIN INVESTMENT BOARD,
+                 AN INDEPENDENT AGENCY OF THE STATE OF WISCONSIN
+
+                                    (Lessor)
+
+                                       and
+
+                           UNITED MERCHANDISING CORP.,
+                            a California corporation
+
+                                    (Lessee)
+
+Dated as of March 5, 1996
+
+Demised Premises: 7351 McGuire Avenue, Fontana, CA
+
+<PAGE>
+
+Big 5, Fontana, CA
+2-12-96 (8)
+
+                                TABLE OF CONTENTS
+
+<TABLE>
+<S>                                                                        <C>
+ARTICLE 1.- PREMISES ....................................................   1
+          1.1. Demised Premises .........................................   1
+          1.2. Title and Condition of the Demised Premises ..............   1
+          1.3. Quiet Enjoyment ..........................................   2
+
+ARTICLE 2.- TERM ........................................................   2
+          2.1. Primary Term .............................................   2
+          2.2. Option to Extend .........................................   2
+
+ARTICLE 3.- RENTAL ......................................................   2
+          3.1. Rental For Primary Term and Option Terms .................   2
+          3.2. Consumer Price Index .....................................   4
+          3.3. Additional Rental ........................................   5
+          3.4. Place of Payment .........................................   5
+          3.5. No Counterclaim, Abatement, etc ..........................   5
+
+ARTICLE 4.- USE .........................................................   6
+          4.1. Permitted Use ............................................   6
+          4.2. Forbidden Uses ...........................................   6
+          4.3. No Covenant To Operate or Occupy .........................   6
+          4.4. Laws and Regulations .....................................   6
+
+ARTICLE 5.- TAXES AND UTILITIES .........................................   8
+          5.1. Taxes ....................................................   8
+          5.2. Income Taxes .............................................   9
+          5.3. Utilities ................................................   9
+
+ARTICLE 6.- MAINTENANCE AND ALTERATIONS .................................   9
+          6.1. Maintenance and Repair ...................................   9
+          6.2. Alterations and Additions ................................   9
+          6.3. Machinery and Fixtures ...................................  10
+
+ARTICLE 7.- DAMAGE OR DESTRUCTION .......................................  10
+          7.1. Notice to Lessor .........................................  10
+          7.2. Damage or Destruction ....................................  11
+          7.3. No Termination ...........................................  11
+          7.4. Damage or Destruction During the Last Year of the Term ...  11
+          7.5. Rebuilding of Premises ...................................  12
+          7.6. Destruction During Option Terms ..........................  12
+
+ARTICLE 8. - CONDEMNATION ...............................................  12
+          8.1. Condemnation Award .......................................  12
+          8.2. Total or Substantial Taking ..............................  13
+          8.3. Partial Taking ...........................................  13
+          8.4. Condemnation During Option Terms .........................  13
+          8.5. Taking Defined ...........................................  13
+
+ARTICLE 9. - INSURANCE ..................................................  14
+          9.1. Nature of Insurance ......................................  14
+          9.2. Adjustment of Claims .....................................  16
+          9.3. Endorsement in Favor of Lender ...........................  16
+</TABLE>
+
+                                        i
+
+<PAGE>
+
+Big 5, Fontana, CA
+2-12-96 (8)
+
+<TABLE>
+<S>                                                                       <C>
+         9.4.   Certificates of Insurance ..............................  16
+
+ARTICLE 10. - INDEMNIFICATION ..........................................  17
+
+ARTICLE 11. - LIENS ....................................................  17
+
+ARTICLE 12. - ADVANCES BY LESSOR: PERMITTED CONTESTS ...................  18
+         12.1.  Advances ...............................................  18
+         12.2.  Permitted Contests .....................................  18
+
+ARTICLE 13. - CONDITIONAL LIMITATIONS; EVENTS OF DEFAULT AND REMEDIES...  18
+         13.1.  Default ................................................  18
+         13.2.  Lessor's Option to Terminate ...........................  19
+         13.3.  Recovery of Damage; Termination of Lease ...............  20
+         13.4.  Expenses of Lessor; Continuation of Lease ..............  20
+         13.5.  Additional Rights of Lessor ............................  21
+         13.6.  Attorneys' Fees and Other Expenses .....................  21
+
+ARTICLE 14. - ASSIGNMENT AND SUBLETTING ................................  22
+
+ARTICLE 15. - MISCELLANEOUS PROVISIONS .................................  23
+         15.1.  Subordination ..........................................  23
+         15.2.  No Merger ..............................................  24
+         15.3.  Surrender ..............................................  24
+         15.4.  Binding Effect .........................................  25
+         15.5.  Headings ...............................................  25
+         15.6.  Successors and Assigns .................................  25
+         15.7.  Notices ................................................  25
+         15.8.  Local Law to Apply .....................................  26
+         15.9.  Time is of the Essence .................................  26
+         15.10. No Waiver ..............................................  26
+         15.11. Liability of Lessor and Release ........................  26
+         15.12. Financial Statements ...................................  26
+         15.13. Late Charge ............................................  27
+         15.14. Lessor's Right To Perform and Right to Enter ...........  27
+         15.15. Lessee's Quitclaim .....................................  27
+         15.16. Invalidity .............................................  27
+         15.17. Hold Over ..............................................  27
+</TABLE>
+
+Exhibit  A - Legal Description of Demised Premises
+Exhibit  B - Plot Plan of Demised Premises
+Exhibit  C - Subordination Agreement
+Exhibit  D - Lessee's Lender's Estoppel and Waiver Letter
+
+                                       ii
+
+<PAGE>
+
+Big 5, Fontana, CA
+2-12-96 (8)
+
+                                     LEASE
+
+THIS LEASE is made as of this _________ day of _______________, 1996, by and
+between STATE OF WISCONSIN INVESTMENT BOARD, AN INDEPENDENT AGENCY OF THE STATE
+OF WISCONSIN (hereinafter called "Lessor"), and UNITED MERCHANDISING CORP., a
+California corporation (hereinafter called "Lessee").
+
+                              ARTICLE 1. - PREMISES
+
+      1.1.  DEMISED PREMISES. For and in consideration of the rental hereinafter
+            reserved, and the mutual covenants, agreements and conditions
+            hereinafter contained, Lessor does hereby lease to Lessee and Lessee
+            does hereby rent from Lessor that certain real property commonly
+            known as 7351 McGuire Avenue, City of Fontana, County of San
+            Bernardino, State of California, more particularly described in
+            Exhibit A attached hereto and made a part hereof; together with all
+            easements, rights and appurtenances in connection therewith;
+            together with the buildings and improvements now erected or
+            hereafter to be erected upon the above described real property,
+            including, without limitation, any fixtures and equipment which are
+            an integral part of the buildings and improvements for purposes of
+            their use and operation as an office, warehouse or distribution
+            facility or which cannot be removed without material damage to such
+            buildings and improvements (which, by way of example, shall include
+            all HVAC and mechanical systems, conveyor systems, loading docks,
+            load leveler systems, carpeting and wall coverings). The real
+            property owned by Lessor and leased hereunder does not include, and
+            Lessee shall retain ownership and the right to remove, those items
+            of personal property and trade fixtures that are attached to or used
+            in the buildings and improvements solely for the purpose of Lessee
+            conducting its business therein and which can be removed without
+            material damage to the buildings and improvements (including,
+            without limitation Lessee's satellite communication equipment, music
+            and intercom systems, security systems, and racking systems). Said
+            real property and the building and improvements thereon may
+            hereinafter be called "the Premises" or "the Demised Premises". Said
+            real property exclusive of the building and improvements may
+            hereinafter be called "the Land". For the convenience of the parties
+            hereto a plot plan is attached hereto as Exhibit B on which the
+            Demised Premises is outlined in black.
+
+      1.2.  TITLE AND CONDITION OF THE DEMISED PREMISES. Lessee represents that
+            the Demised Premises and the title thereto have been examined and
+            approved by Lessee and for all purposes of this Lease, Lessee hereby
+            accepts the Demised Premises in its present condition. Lessee
+            further represents that the Demised Premises was constructed for the
+            benefit of Lessee and that Lessee has occupied the Premises since
+            February, 1990. To Lessee's actual knowledge, as of the date of
+            execution of this Lease, the Demised Premises is in good condition
+            and repair and is in compliance with laws.
+
+                                       1
+
+<PAGE>
+
+Big 5, Fontana, CA
+2-12-96 (8)
+
+      1.3.  QUIET ENJOYMENT. So long as Lessee shall not be in default under the
+            terms of this Lease, Lessee shall quietly have and enjoy the Demised
+            Premises during the term of this Lease.
+
+                                ARTICLE 2.- TERM
+
+      2.1.  PRIMARY TERM. The primary term (herein called the "Primary Term")
+            shall commence on the date hereof (the "Commencement Date") and
+            shall end at midnight on ______________________, unless terminated
+            sooner pursuant to the terms hereof.
+
+      2.2.  OPTION TO EXTEND. Subject to the provisions of this Section 2.2,
+            Lessee shall have three (3) consecutive options to extend the term
+            of this Lease for five (5) years each. (Such additional terms may
+            hereinafter be called "Option Terms".) Such options shall be
+            personal to United Merchandising Corp., or its Affiliate, as that
+            term is defined in Section 14.2 hereof, and may not be exercised by
+            an assignee or sublessee under the Lease, unless said assignee or
+            sublessee is an Affiliate of United Merchandising Corp., nor may
+            Lessee exercise an option as provided herein for the purpose of
+            subletting or assigning the Demised Premises during such Option Term
+            to any party who is not an Affiliate. The first Option Term shall
+            commence on the day following the expiration of the Primary Term and
+            end at midnight five (5) years thereafter. Each succeeding Option
+            Term shall commence on the day following the preceding Option Term
+            and end at midnight five (5) years thereafter. Each option shall be
+            exercised by giving notice to Lessor in writing of the exercise
+            thereof at least twelve (12) months prior to the commencement of
+            each Option Term, which notice shall be irrevocable by Lessee. All
+            Option Terms shall be on the same terms and conditions as otherwise
+            provided in this Lease, except that the rents payable during the
+            Option Terms shall be adjusted as set forth below. Notwithstanding
+            the foregoing, in the event an Event of Default (as defined in
+            Section 13.1, hereof) exists under this Lease at the time Lessee
+            exercises its option to extend the term of this Lease, or if an
+            Event of Default pursuant to the provisions of Section 13.1.1(a)
+            hereof exists as of the commencement of the respective Option Term,
+            then Lessor shall have, in addition to all of Lessor's other rights
+            and remedies under this Lease, the right to terminate such option
+            and to cancel Lessee's exercise of such option, in which event this
+            Lease shall expire at the expiration of the Primary Term or any then
+            existing Option Term, as the case may be.
+
+                               ARTICLE 3. - RENTAL
+
+      3.1.  RENTAL FOR PRIMARY TERM AND OPTION TERMS. Commencing on the
+            Commencement Date and thereafter on the first day of each calendar
+            month of the Primary Term, and continuing thereafter until the end
+            of the Primary Term and any Option Term of this Lease. Lessee agrees
+            to pay, and Lessor agrees to accept, as rental for the Demised
+            Premises, for each calendar year during the term of this Lease the
+            sum(s) set forth below in subparagraph(s) 3.1.1 et. seq.
+
+                                       2
+
+<PAGE>
+
+Big 5, Fontana, CA
+2-12-96 (8)
+
+            Said annual rent shall be paid in equal monthly installments in the
+            amount(s) set forth in said subparagraph(s). For periods of less
+            than a full calendar month, said monthly rental payment shall be
+            prorated based on the relationship of the number of days of the term
+            of this Lease in such month to the total number of days in such
+            month. If the Commencement Date occurs on other than the first day
+            of a calendar month, the rental for such partial month shall be
+            prorated as aforesaid and shall be due and payable on the
+            Commencement Date.
+
+            3.1.1. Commencing on the date referred to in Paragraph 3.1. above,
+            and continuing for the next sixty (60) full calendar months ("First
+            Period") of the term of this Lease, the annual rent referred to in
+            said Paragraph 2.1. shall be the sum of One Million Three Hundred
+            Fifty Six Thousand Four Hundred Fifty Six and no/100 Dollars
+            ($1,356,456.00) to be paid in equal monthly installments of One
+            Hundred Thirteen Thousand Thirty Eight and no/100 Dollars
+            ($113,038.00).
+
+            3.1.2. Commencing on the first day following the last day of the
+            First Period, and continuing until the end of the Primary Term
+            ("Second Period"), the annual and monthly rents payable under the
+            Lease shall be increased and adjusted once by a fixed amount equal
+            to the percentage increase in the consumer price index ("C.P.I."),
+            as hereinafter defined, calculated as follows: The adjusted annual
+            and monthly rents that shall be payable throughout the Second Period
+            shall be equal to (a) the rent set forth in Paragraph 3.1.1. above,
+            (b) multiplied by a fraction, (i) the numerator of which shall be
+            the C.P.I. as of the last day of the First Period and (ii) the
+            denominator of which shall be the C.P.I. as of the Commencement
+            Date; provided, however, that the increase in rent shall not be less
+            than ten and 41/100 percent (10.41%) or be more than twenty one and
+            67/100 percent (21.67%) of the rental amounts payable during the
+            First Period under Paragraph 3.1.1. above.
+
+            3.1.3. In the event Lessee exercises its right to extend the Lease
+            for the First Option Term pursuant to the provisions of Section 2.2,
+            above, commencing on the first day following the last day of the
+            Primary Term and continuing fox the next sixty (60) months (the
+            "First Option Term"), the annual and monthly rents payable under the
+            Lease shall be increased and adjusted once by an amount equal to the
+            percentage increase in the consumer price index ("C.P.I."), as
+            hereinafter defined, calculated as follows: The adjusted annual and
+            monthly rents that shall be payable throughout the First Option Term
+            shall be equal to (a) the rents set forth in Paragraph 3.1.2. above,
+            (b) multiplied by a fraction, (i) the numerator of which shall be
+            the C.P.I. as of the last day of the Primary Term, and (ii) the
+            denominator of which shall be the C.P.I. as of the last day of the
+            First Period; provided, however, that the increase in rents shall
+            not be less than ten and 41/100 percent (10.41%) or be more than
+            twenty one and 67/100 percent (21.67%) of the rental amounts payable
+            during the Second Period under Paragraph 3.1.2. above.
+
+                                       3
+
+<PAGE>
+
+Big 5, Fontana, CA
+2-12-96 (8)
+
+            3.1.4. In the event Lessee exercises its right to extend the Lease
+            for the Second Option Term pursuant to the provisions of Section
+            2.2, above, commencing on the first day following the last day of
+            the First Option Term and continuing for the next sixty (60) months
+            (the "Second Option Term"), the annual and monthly rents payable
+            under the Lease shall be increased and adjusted once by an amount
+            equal to the percentage increase in the consumer price index
+            ("C.P.I."), as hereinafter defined, calculated as follows: The
+            adjusted annual and monthly rents that shall be payable throughout
+            the Second Option Term shall be equal to (a) the rents set forth in
+            Paragraph 3.1.3. above, (b) multiplied by a fraction, (i) the
+            numerator of which shall be the C.P.I. as of the last day of the
+            First Option Term, and (ii) the denominator of which shall be the
+            C.P.I. as of the last day of the Primary Term; provided, however,
+            that the increase in rent shall not be less than ten and 41/100
+            percent (10.41%) or be more than twenty four and 62/100 percent
+            (24.62%) of the rental amounts payable during the First Option Term
+            under Paragraph 3.1.3. above.
+
+            3.1.5. In the event Lessee exercises its right to extend the Lease
+            for the Third Option Term pursuant to the provisions of Section 2.2,
+            above, commencing on the first day following the last day of the
+            Second Option Term and continuing for the next sixty (60) months
+            (the "Third Option Term"), the annual and monthly rents payable
+            under the Lease shall be increased and adjusted once by an amount
+            equal to the percentage increase in the consumer price index
+            ("C.P.I."), as hereinafter defined, calculated as follows: The
+            adjusted annual and monthly rents that shall be payable throughout
+            the Third Option Term shall be equal to (a) the rents set forth in
+            Paragraph 3.1.4. above, (b) multiplied by a fraction, (i) the
+            numerator of which shall be the C.P.I. as of the last day of the
+            Second Option Term, and (ii) the denominator of which shall be the
+            C.P.I. as of the last day of the First Option Term; provided,
+            however, that the increase in rent shall not be less than ten and
+            41/100 percent (10.41%) or be more than twenty four and 62/100
+            percent (24.62%) of the rental amounts payable during the Second
+            Option Term under Paragraph 3.1.4. above.
+
+      3.2.  CONSUMER PRICE INDEX. For purposes hereof, the C.P.I. shall be the
+            Consumer Price Index, for all Urban Consumers, "All Items" average
+            for Los Angeles - Anaheim - Riverside, California, published by the
+            U.S. Department of Labor, Bureau of Labor Statistics, from time to
+            time. In the event the Department of Labor or the United States
+            government shall cease to publish the Consumer Price Index then the
+            successor index (or most comparable) shall be used unless the
+            parties hereto otherwise agree. In the event the Department of Labor
+            or United States government alters the calculation or formula by
+            which the C.P.I. is determined, the official replacement index
+            published by either the Department of Labor or the United States
+            government shall be utilized unless the parties mutually agree chat
+            an alternative index should be utilized. In the event there is no
+            official replacement index published the parties hereto covenant and
+            agree to use reasonable, good faith efforts to agree on an
+
+                                       4
+
+<PAGE>
+
+Big 5, Fontana, CA
+2-12-96 (8)
+
+            index which most closely approximates the information and data
+            contained in the C.P.I. as of the date of this Lease.
+
+      3.3.  ADDITIONAL RENTAL. In addition to the scheduled rental payable under
+            this Article 3, Lessee agrees to pay, as Additional Rental, such
+            other sums and expenses as shall be required by the terms of this
+            Lease.
+
+      3.4.  PLACE OF PAYMENT. All rental due hereunder shall be paid to Lessor
+            at the address set forth in Section 15.7 herein, as such person or
+            address may be changed from time to time.
+
+      3.5.  NO COUNTERCLAIM, ABATEMENT, ETC. This Lease is a net Lease and
+            except to the extent otherwise expressly provided in this Lease, the
+            scheduled rent and all other sums payable by Lessee hereunder shall
+            be paid without notice, demand, offset, suspension, deduction or
+            abatement and this Lease shall continue in full force and effect and
+            the obligations and liabilities of Lessee hereunder shall in no way
+            be released, discharged or otherwise affected (except as expressly
+            provided herein) by reason of:
+
+            3.5.1. any damage to or destruction of or any condemnation or
+            similar taking of the Demised Premises or any part thereof;
+
+            3.5.2. any restriction or prevention of or interference with any use
+            of the Demised Premises or any part thereof;
+
+            3.5.3. any title defect or encumbrance:
+
+            3.5.4. any bankruptcy, insolvency, reorganization or other like
+            proceeding relating to Lessee or by any court, in any such
+            proceeding;
+
+            3.5.5. any claim which Lessee has or might have against Lessor;
+
+            3.5.6. any default or failure on the part of Lessor to perform or
+            comply with any of the terms hereof or of any other agreement with
+            Lessee; or
+
+            3.5.7. any other occurrence whatsoever, whether similar or
+            dissimilar to the foregoing, any present or future law to the
+            contrary notwithstanding, whether or not Lessee shall have notice or
+            knowledge of any of the foregoing. Except as expressly provided in
+            Sections 7.2. and 8.2. hereof, Lessee waives all rights now or
+            hereafter conferred by statute or otherwise to quit, terminate or
+            surrender this Lease or the Demised Premises, or any part thereof,
+            or to any abatement, suspension, deferment, diminution or reduction
+            of rent or any other sum payable by Lessee hereunder. Nothing
+            contained herein shall relieve Lessor of its liability to Lessee for
+            Lessor's breach of any of its obligations under this Lease.
+
+                                       5
+
+<PAGE>
+
+Big 5, Fontana, CA
+2-12-96 (8)
+
+                                ARTICLE 4. - USE
+
+      4.1.  PERMITTED USE. During the Primary term of the Lease, Lessee may use
+            the Demised Premises for retail, warehouse or distribution purposes,
+            or for any other lawful purpose approved by Lessor, which approval
+            shall not be unreasonably withheld, provided said use does not
+            conflict with the terms of any Covenants, Conditions and
+            Restrictions of record ("CC&R's") existing and of record as of the
+            date of this Lease. During the Option terms of the Lease, Lessee may
+            use the Demised Premises for retail, warehouse or distribution
+            purposes either consistent with its then practices or otherwise
+            involving only softgoods and for no other use whatsoever without the
+            prior written consent of the Lessor, which consent may be withheld
+            in Lessor's sole and absolute discretion.
+
+      4.2.  FORBIDDEN USES. Lessee shall not suffer any act to be done or any
+            condition to exist on the Demised Premises, or any part thereof, or
+            any article to be brought thereon, which may be dangerous (unless
+            Lessee employs such safeguards as may be required by law or if not
+            provided for by law, then as may be reasonable) or which may, in
+            law, constitute a nuisance, public or private, or which may make
+            void or voidable any insurance required hereunder to be in force
+            with respect to the Demised Premises, or any part thereof.
+
+      4.3.  NO COVENANT TO OPERATE OR OCCUPY. Nothing herein contained shall
+            require Lessee to continuously operate any particular type of
+            business on the Demised Premises or to continuously occupy the
+            Demised Premises. Nothing contained in this Section 4.3 shall be
+            deemed to relieve Lessee of the full and absolute responsibility for
+            the maintenance and upkeep of the Demised Premises throughout the
+            term of this Lease.
+
+      4.4.  LAWS AND REGULATIONS. Lessee shall not use the Demised Premises or
+            permit anything to be done in or about the Demised Premises which
+            will in any way conflict with any law, statute, ordinance or
+            governmental rule or regulation now in force or which may hereafter
+            be enacted or promulgated. Lessee shall at its sole cost and expense
+            comply with all laws, statutes, ordinances and governmental rules,
+            regulations or requirements now in force or which may hereafter be
+            in force relating to or affecting the condition, use or occupancy of
+            the Demised Premises, including, without limitation, the Americans
+            with Disabilities Act of 1990, (42 USC Section 12181-12183) and all
+            orders, rules, regulations and any other requirements of the
+            National Board of Fire Underwriters (or any other body exercising
+            similar functions) now or hereafter applicable to or affecting the
+            Premises or any part thereof, or any use or condition of the
+            Premise, whether or not such compliance shall require structural
+            alterations or additions or interfere with Lessee's use of the
+            Demised Premises. In the event Lessee is so required to undertake
+            code required alterations to the Premises Lessee shall notify Lessor
+            of such requirements before undertaking any such code related
+            alterations that affect the roof, foundations or any other
+            structural elements or components of improvements or
+
+                                       6
+
+<PAGE>
+
+Big 5, Fontana, CA
+2-12-96 (8)
+
+            any of the building systems owned by Lessor. If such code required
+            alterations are required because of other alterations that Lessee
+            proposes to undertake of the Premises, Lessee shall not undertake
+            such other alterations unless Lessor has first approved the same
+            after taking into consideration the code required alterations that
+            will be required as a result thereof, which approval by Lessor shall
+            not be unreasonably withheld.
+
+      4.5.  HAZARDOUS MATERIALS. Lessee covenants to comply, and to cause its
+            employees, agents, licensees, contractors and permitted assignees or
+            sublessee to comply, with all local, state and federal laws, rules
+            and regulations, now or at any time hereafter governing the use,
+            handling, storage, treatment, removal, production, manufacture,
+            transportation or disposal of hazardous or toxic substances or
+            materials on the Demised Premises ("Laws"), and Lessee shall
+            indemnify, defend and hold harmless Lessor from and against any and
+            all liabilities, losses, damages, costs, expenses (including
+            attorneys fees and expenses of Lessor), causes of action, suits,
+            claims, demands or judgments of any nature (i) resulting from any
+            spills or discharges of hazardous or toxic substances or materials
+            on the Demised Premises during the Primary Term or any Option Term
+            or during any period prior to the Commencement Date when Lessee was
+            in occupancy of the Premises, caused by any act or omission of
+            Lessee, or (ii) arising out of any failure on the part of Lessee, or
+            its employees, agents, licensees, contractors or permitted assignees
+            or sublessee to comply with all Laws. This indemnity shall include
+            the cost of any required or necessary repair, cleanup or
+            detoxification, and the preparation of any closure or other required
+            plans, whether such action is required or necessary prior to or
+            following the termination of this Lease. Neither the written consent
+            by Lessor to the presence of hazardous or toxic materials or
+            substances on, under or about the Premises nor the strict compliance
+            by Lessee with all Laws shall excuse Lessee from Lessee's obligation
+            of indemnification pursuant hereto. Lessee's obligations pursuant to
+            the foregoing indemnity shall survive the termination of this Lease.
+            Lessee further covenants and agrees to remove any of its hazardous
+            or toxic personal property from the Demised Premises at the
+            expiration or earlier termination of this Lease. Upon Lessor's
+            written request, Lessee shall deliver to Lessor copies of all
+            studies, reports and other information submitted by Lessee to any
+            governmental entity or agency regulating the use of such substances
+            and materials. Should Lessee at any time receive any notice of
+            violation of any Laws or be given a citation with respect thereto,
+            or receive notice of any claims made by any third party against
+            Lessee relating to the presence or suspected presence of hazardous
+            or toxic materials or substances on the Premises, Lessee shall
+            notify Lessor of such notice of violation, citation, or claim and
+            shall provide Lessor with a copy of the same, and, with respect to
+            any such violation of Laws or citations, shall cure the deficiency
+            set forth in such notice of violation or citation within the time
+            required. Any consent or approval, express or implied, by Lessor of
+            Lessee's use or handling
+
+                                       7
+
+<PAGE>
+
+Big 5, Fontana, CA
+2-12-96 (8)
+
+            of any hazardous or toxic materials or substances shall not
+            constitute an assumption of risk by Lessor regarding such materials
+            or substances or a warranty or certification by Lessor that Lessee's
+            use or handling of such materials or substances is safe or
+            reasonable or in compliance with any Laws.
+
+                        ARTICLE 5. - TAXES AND UTILITIES
+
+      5.1.  TAXES. As additional rental under this Lease Lessee hereby agrees
+            that it shall pay, prior to delinquency, all taxes (including,
+            without limitation, sales and use taxes), assessments and bonds
+            (including, without limitation, all assessments and bonds for public
+            improvements or benefits, whether or not commenced, or completed
+            prior to the date hereof and whether or not completed within the
+            term hereof), ground rents, water, sewer or other rents, rates and
+            charges, excises, levies, license fees, permit fees, inspection fees
+            and other authorization fees and other charges, in each case whether
+            general or special, ordinary or extraordinary, foreseen or
+            unforeseen, of every character (including all interest and penalties
+            thereon), which at any time during or in respect of the term hereof
+            may be assessed, levied, confirmed or imposed on, or in respect of
+            or be a lien upon (a) the Demised Premises or any part thereof or
+            any estate, right or interest therein, (b) any occupancy, use or
+            possession of or activity conducted on the Demised Premises or any
+            part thereof, (c) any Basic Rent or additional rent reserved or
+            payable hereunder (excluding any taxes referred to in (i), (ii) or
+            (iii) of (f) below, (d) this Lease, (e) the gross receipts from the
+            Demised Premises or the earnings from the use or occupancy thereof,
+            or (f) Lessor, in its capacity as owner or Lessor of the Demised
+            Premises, including any tax, surtax or charge measured solely by
+            rents received by Lessor in respect of the leasing of the Demised
+            Premises, but excluding municipal, county, state or federal income
+            taxes assessed against Lessor, municipal, state, or federal capital
+            levy, estate, succession, inheritance or transfer taxes of Lessor,
+            or corporation franchise taxes imposed upon any corporate owner of
+            the Lessor's interest in the Demised Premises; provided, however,
+            that if at any time during the term of this Lease the methods of
+            taxation prevailing at the commencement of the term hereof shall be
+            altered so that in lieu of or as a supplement to or a substitute for
+            the whole or any part of the taxes, assessments, levies, impositions
+            or charges now levied, assessed or imposed on real estate and the
+            improvements thereon, there shall be levied, assessed and imposed,
+            (i) a tax, assessment, levy, imposition or charge, wholly or
+            partially as a capital levy or otherwise, on the rents received
+            therefrom, or (ii) a tax, assessment, levy (including but not
+            limited to any municipal, state or federal levy), imposition or
+            charge measured by or based in whole or in part upon the Demised
+            Premises and imposed upon Lessor, or (iii) a license fee measured
+            by the rent payable by Lessee under this Lease, then all such
+            taxes, assessments, levies, impositions or charges or the part
+            thereof so measured or based, shall be deemed to be included within
+            the term "Taxes" for the purposes hereof, to the extent that such
+
+                                       8
+
+<PAGE>
+
+Big 5, Fontana, CA
+2-12-96 (8)
+
+            Taxes would be payable if the Demised Premises were the only
+            property of Lessor subject to such Taxes, and Lessee shall pay and
+            discharge the same as herein provided in respect of the payment of
+            all other Taxes. Lessee shall have the option to pay such tax or
+            assessment in installments, except that each installment thereof,
+            and any interest thereon, must be paid no later than the earlier to
+            occur of the final date fixed for the payment thereof or the date on
+            which a penalty for non-payment could be imposed, and the whole
+            amount thereof must be paid prior to the expiration of the term of
+            this Lease, as it may be extended pursuant to Section 2.2. of this
+            Lease. Taxes and assessments shall be prorated at the end of the
+            term of this Lease. Lessee will furnish to Lessor, within thirty
+            (30) days after payment thereof, proof of the payment (copies of tax
+            bills and cancelled checks shall be deemed sufficient) of any such
+            tax, assessment, levy, fee, rent or charge which is payable by
+            Lessee pursuant to this Section.
+
+      5.2.  INCOME TAXES. Anything in the foregoing to the contrary notwith-
+            standing, Lessee shall have no obligation under this Lease to pay
+            any net income, franchise, excess profit or gift, estate or
+            inheritance tax levied upon or assessed against Lessor, unless such
+            tax is in lieu of or a substitute for any other tax or assessment
+            upon or with respect to the Demised Premises which, if such other
+            tax or assessment were in effect, would be payable by Lessee
+            hereunder.
+
+      5.3.  UTILITIES. As additional rental hereunder, Lessee agrees to pay all
+            charges for water, gas, light, heat, telephone, electricity, power
+            and other utility and communications services rendered or used on or
+            about the Demised Premises and all other costs and expenses of any
+            kind whatsoever arising in connection with the furnishing of such
+            services to the Premises.
+
+                    ARTICLE 6. - MAINTENANCE AND ALTERATIONS
+
+      6.1.  MAINTENANCE AND REPAIR. Lessee will, at its cost and expense, keep
+            and maintain the Demised Premises, including any rebuilt, additional
+            or substituted buildings and other improvements in good repair and
+            condition, whether interior or exterior, structural or
+            non-structural, ordinary or extraordinary, foreseen or unforseen,
+            subject to the provisions of Section 15.3, hereinafter. Lessor shall
+            not be required to maintain, alter, repair, rebuild or replace the
+            Demised Premises or any part thereof, and Lessee expressly waives
+            the right to make repairs at the expense of Lessor which may be
+            provided for in any law now in effect or hereafter enacted. Lessor
+            and its authorized representatives may enter the Demised Premises,
+            or any part thereof at any reasonable time for the purpose of
+            inspecting the same. Lessor shall not have any duty to make any such
+            inspection nor shall it incur any liability or obligation for not
+            making any such inspection.
+
+      6.2.  ALTERATIONS AND ADDITIONS. Subject to Lessor's approval of certain
+            alterations, as described hereinafter, Lessee shall have the right
+
+                                       9
+
+<PAGE>
+
+Big 5, Fontana, CA
+2-12-96 (8)
+
+            at any time to make (a) such additions, alterations, changes or
+            improvements, in, on or to the Demised Premises as Lessee may deem
+            necessary or proper, provided, however, that (i) any and all such
+            work shall fully comply with all codes and regulations and with
+            other recorded requirements relating to the Demised Premises (such
+            as CC&R's), (ii) except to the extent required of Lessee by any
+            governmental authority, no work done by Lessee shall lessen the
+            market value of the Demised Premises, and (iii) except to the extent
+            required of Lessee by any governmental authority, no work done by
+            Lessee shall diminish Lessor's ability to use and/or release the
+            Demised Premises on the termination or expiration of this Lease.
+            Lessee shall pay promptly for all such work done by it or upon its
+            order. Lessee covenants and agrees to give Lessor written notice of
+            any alteration which affects the roof, foundation or any other
+            structural elements or components or the building systems, together
+            with a copy of Lessee's plans and specifications prior to the
+            commencement of work. Lessee shall also deliver to Lessor, upon
+            completion of any such work, copies of any "as-built" plans obtained
+            by Lessee in connection with such additions or alterations. Without
+            limiting any of Lessee's other obligations with respect to
+            alterations hereunder, in the event Lessee proposes alterations to
+            the structure of the improvements, or to any permanent building
+            systems (such as plumbing and/or HVAC) Lessee shall obtain Lessor's
+            prior written approval of such alterations, which approval shall not
+            be unreasonably withheld and will be deemed granted if not
+            disapproved, with explanation, within two (2) weeks after submittal
+            by Lessee to Lessor of plans for such alterations.
+
+      6.3.  MACHINERY AND FIXTURES. In addition to the foregoing, Lessee may, at
+            any time during the term of this Lease and at its sole cost and
+            expense, install, assemble or place upon the Demised Premises any
+            items of machinery or equipment, trade fixtures or other personal
+            property used or useful in Lessee's business. All such machinery,
+            equipment, trade fixtures or other personal property shall be and
+            remain the property of Lessee and Lessee may remove the same from
+            the Demised Premises at any time prior to the expiration or earlier
+            termination of this Lease, and in the event of any such removal,
+            Lessee shall repair any damage to the Demised Premises caused
+            thereby, at Lessee's cost and expense.
+
+                       ARTICLE 7. - DAMAGE OR DESTRUCTION
+
+      7.1.  NOTICE TO LESSOR. If the Demised Premises or any part thereof shall
+            be damaged or destroyed by fire or other casualty, Lessee shall
+            promptly notify Lessor of such destruction or damage if the cost of
+            rebuilding, replacing and repairing such damage or destruction, as
+            estimated by Lessee, shall either exceed Twenty Five Thousand and
+            no/100 Dollars ($25,000.00) or affect the roof, foundation or any
+            other structural elements or components or the building systems
+            (such as plumbing and/or HVAC) on the Premises. Lessee expressly
+            waives the provisions of any present or future law
+
+                                       10
+
+<PAGE>
+
+Big 5, Fontana, CA
+2-12-96 (8)
+
+            relating to damage or destruction and agrees that the provisions of
+            this Lease shall control the rights of Lessor and Lessee.
+
+      7.2.  DAMAGE OR DESTRUCTION. If the Demised Premises shall be destroyed or
+            damaged from any cause Lessee shall forthwith repair and restore the
+            same to substantially the same condition existing immediately prior
+            to said damage or destruction with all reasonable dispatch and
+            diligence. Said restoration and repair shall include all fixtures
+            and equipment in the Demised Premises owned by Lessee and so damaged
+            or destroyed. So long as Lessee's net worth is Twenty Million and
+            no/100 Dollars ($20,000,000.00) or more and the amount of any
+            insurance proceeds payable with respect to any such damage or
+            destruction of the Demised Premises is less than One Million and
+            no/100 Dollars ($1,000,000.00), Lessee shall be entitled to receive
+            such insurance proceeds and shall apply the same as may be required
+            to the restoration and repair of the Demised Premises as required
+            under this Article 7. If Lessee's net worth at the time of such
+            damage or destruction is less than Twenty Million and no/100 Dollars
+            ($20,000,000.00) or if the amount of such insurance proceeds payable
+            with respect to any such damage or destruction is One Million and
+            no/100 Dollars ($1,000,000.00) or more, then such insurance proceeds
+            payable with respect to such damage or destruction shall be paid
+            into an escrow account and such proceeds shall be disbursed to
+            Lessee as required to pay invoices for the work or restoration and
+            repair of the Premises. Any balance of such proceeds remaining
+            following completion of such repair or restoration shall be
+            disbursed to Lessee. Lessee shall comply, and shall require all its
+            contractors to comply, with all federal, state and local laws in
+            making any said repairs and restoration.
+
+      7.3.  NO TERMINATION. Except as provided in Section 7.4, such destruction
+            or damage to the Demised Premises shall not terminate this Lease,
+            notwithstanding any laws of the state in which the Demised Premises
+            are located to the contrary.
+
+      7.4.  DAMAGE OR DESTRUCTION DURING THE LAST YEAR OF THE TERM. Anything in
+            this Article 7 to the contrary notwithstanding, if the Demised
+            Premises shall be destroyed or damaged so as to materially interfere
+            with Lessee's business in the Premises (as reasonably determined by
+            Lessee using its good faith business judgment) during the last 12
+            months of the term hereof by reason of any cause, and the Demised
+            Premises cannot be completely restored within a period of sixty (60)
+            working days from the date of commencement of such repairs, this
+            Lease may be terminated upon written notice by either party to the
+            other and any and all insurance proceeds covering the Premises shall
+            be paid to Lessor and insurance proceeds covering Lessee's personal
+            property and trade fixtures shall be paid to Lessee. Provided,
+            however, that if at the time of said destruction or damage, Lessee
+            has exercised an option to extend this Lease pursuant to Article 2
+            hereof, then this Lease shall not be terminable by either party but
+            shall continue until the expiration of such Option Term and Lessee
+            shall forthwith repair and restore the Demised Premises as required
+            pursuant to Sections 7.2 and 7.5
+
+                                       11
+
+<PAGE>
+
+Big 5, Fontana, CA
+2-12-96 (8)
+
+            hereof. Upon such termination Lessee shall be relieved from all
+            liabilities hereunder except the liability to pay rent up to the
+            date of such damage or destruction and any accrued charges, costs,
+            and expenses required to be paid by Lessee hereunder up to said date
+            and any other liabilities Lessee may have hereunder, including,
+            without limitation, any indemnity obligations, arising prior to such
+            termination.
+
+      7.5.  REBUILDING OF PREMISES. If the Demised Premises shall be damaged or
+            destroyed by any casualty during the primary term of this Lease, and
+            this Lease is not terminated pursuant to the provisions of Section
+            7.4, above, then this Lease shall continue in full force and effect
+            and Lessee shall promptly, at its cost and expense, restore and
+            rebuild the Demised Premises as nearly as may be practicable under
+            the circumstances to substantially the same condition existing
+            immediately prior to said damage or destruction irrespective of the
+            availability or sufficiency of any fire or other insurance proceeds
+            payable with respect thereto. If the cost and expense of such
+            repairs shall exceed the amount of any such net proceeds, the
+            deficiency shall be paid by Lessee.
+
+      7.6.  DESTRUCTION DURING OPTION TERMS. If any portion of the Demised
+            Premises shall be damaged or destroyed by any casualty during any
+            Option Term of this Lease, and the Premises cannot reasonably be
+            expected to be completely restored within three hundred sixty five
+            (365) days of the date of such loss, then Lessee may elect to
+            restore or rebuild the Demised Premises in the manner set forth in
+            Section 7.2 and 7.5 or Lessee may, within ninety (90) days after
+            such loss or damage give to Lessor a thirty (30) day notice, in
+            writing, cancelling and terminating the Option Term then in effect.
+            On the expiration of said thirty (30) day notice, the Option Term
+            shall terminate. As a condition to such termination, any and all
+            insurance proceeds covering the Lessor's interest in the Premises
+            shall be paid to Lessor and the insurance proceeds covering Lessee's
+            personal property and trade fixtures shall be paid to Lessee. Upon
+            such termination Lessee shall be relieved from all liabilities
+            hereunder except the liability to pay rent up to the date of such
+            damage or destruction and, subject to any insurance payment to
+            Lessor, any accrued charges, costs, and expenses required to be paid
+            by Lessee hereunder up to said date and all other liabilities Lessee
+            may have hereunder, including, without limitation, any indemnity
+            obligations, arising prior to such termination.
+
+                            ARTICLE 8. - CONDEMNATION
+
+      8.1.  CONDEMNATION AWARD. Any condemnation award arising out of a total or
+            partial taking of the Demised Premises shall belong solely to the
+            Lessor except for any portion of the award attributable to Lessee's
+            leasehold interest during the Primary Term (but not during any
+            exercised or unexercised Option Term) of this Lease, Lessee's trade
+            fixtures, equipment or leasehold improvements made by Lessee at its
+            expense. In addition, Lessee shall have the right to claim
+
+                                       12
+
+<PAGE>
+
+Big 5, Fontana, CA
+2-12-96 (8)
+
+            any compensation as may be separately awarded or receivable by
+            Lessee in Lessee's own right on account of its relocation expenses,
+            loss of goodwill, any cost or loss Lessee may suffer for the removal
+            of its merchandise, furniture, trade fixtures or equipment, or the
+            interruption of, or damage to Lessee's business.
+
+      8.2.  TOTAL OR SUBSTANTIAL TAKING. If during the Primary Term of this
+            Lease:
+
+            8.2.1. the entire Demised Premises shall be taken by condemnation or
+            other eminent domain proceedings pursuant to any law, general or
+            special, or
+
+            8.2.2. any substantial portion of the Demised Premises which is
+            sufficient in Lessee's reasonable and good faith judgment to render
+            the remaining portion thereof unsuitable for Lessee's continued use
+            or occupancy of the Demised Premises shall be taken by such
+            proceedings, then Lessee may, within thirty (30) days after any such
+            taking, give notice to Lessor of its intention to terminate this
+            Lease on any rental payment day specified in such notice which
+            occurs not less than ninety (90) days after such notice.
+
+      8.3.  PARTIAL TAKING. If a portion of the Demised Premises shall be taken
+            by condemnation or other eminent domain proceedings pursuant to any
+            law, general or special, which taking is not sufficient to require
+            Lessee to give notice of its intention to terminate this Lease as
+            provided in Section 8.2, then this Lease shall continue in full
+            effect without abatement or reduction of rent (except as provided
+            hereinafter in this Section 8.3), additional rent or other sums
+            payable by Lessee hereunder notwithstanding such taking, and Lessee
+            shall, promptly after any such taking and at its expense, repair any
+            damage caused by any such taking in conformity with the requirements
+            of Section 7.2 so that after the completion of such repairs the
+            Demised Premises shall be, as nearly as practicable in a condition
+            as good as the condition thereof immediately prior to such taking.
+            In the event of any such taking by condemnation or other eminent
+            domain proceedings, Lessee shall be entitled to receive all of the
+            award payable in connection with such taking. If the cost of any
+            repairs required to be made by Lessee pursuant to this Section 8.3,
+            shall exceed the amount of the award, the deficiency shall be paid
+            by Lessee. Subject to Lessee's rights to receive all awards for
+            reconstruction of the improvements, any award granted and allocated
+            to Lessor's interest in the Demised Premises shall be paid to Lessor
+            and Lessee shall be entitled to an equitable abatement of rent based
+            upon the extent of the Premises taken and the adverse effect on
+            Lessee's ability to use and enjoy the Premises following such
+            taking.
+
+      8.4.  CONDEMNATION DURING OPTION TERMS. Not Used.
+
+      8.5.  TAKING DEFINED. For the purposes of this Lease, all amounts payable
+            pursuant to any agreement with any condemning authority which has
+            been made in settlement of or under threat of any
+
+                                       13
+
+<PAGE>
+
+Big 5, Fontana, CA
+2-12-96 (8)
+
+            condemnation or other eminent domain proceeding affecting the
+            Demised Premises shall be deemed to constitute an award made in such
+            proceeding.
+
+                             ARTICLE 9. - INSURANCE
+
+      9.1.  NATURE OF INSURANCE. Lessee will at all times maintain insurance on
+            the Demised Premises of the following character:
+
+            9.1.1. Insurance against loss or damage by fire and other risks from
+            time to time included under so-called "all-risk", including extended
+            coverage endorsements and boiler and machinery comprehensive
+            coverage, standard for use in the State of California, and also
+            including earthquake and flood coverage, in amounts equal to the
+            full replacement value of the Demised Premises, reviewed annually.
+            As used herein, "full replacement value" shall mean actual
+            replacement cost (exclusive of the cost of excavation, foundations
+            and subsurface footing) without deduction for physical depreciation.
+            Notwithstanding anything to the contrary contained in this Article
+            9, in the event Lessee's net worth is at any time less than Twenty
+            Million and no/100 Dollars ($20,000,000.00), Lessee shall provide
+            for the insurance required pursuant to this Section 9.1.1 to have a
+            deductible for earthquake coverage of no greater than twelve and
+            5/100 percent (12.5%) of the value of the property required to be
+            insured and for all other insurance required hereunder, a deductible
+            of no greater than Seventy Five Thousand and no/100 Dollars
+            ($75,000.00) per occurrence. So long as Lessee's net worth exceeds
+            Twenty Million and no/100 Dollars ($20,000,000.00), any deductible
+            amounts shall be subject to the self-insurance limits set forth in
+            section 9.1.3, hereinafter. In the event this Lease is terminated
+            pursuant to the provisions of Sections 7.4 or 7.6, above, Lessee's
+            obligation to pay insurance proceeds to Lessor shall include the
+            amounts of any deductible and/or any self-insured retention amounts.
+
+            9.1.2. Commercial general liability insurance against claims for
+            bodily injury, death or property damage occurring on, in or about
+            the Demised Premises and the adjoining streets, sidewalks and
+            passageways, such insurance to afford protection of not less than a
+            combined single limit liability of Five Million and no/100 Dollars
+            ($5,000,000.00), providing coverage for, among other things, blanket
+            contractual liability, premises and personal injury coverage, with
+            the deletion of railroad track (railroad protective liability), if
+            applicable, and the exclusion for explosion, collapse or
+            underground hazard, if applicable. In no event shall the liability
+            amount be less than Five Million and no/100 Dollars ($5,000,000.00).
+            Said minimum limit of liability shall be subject to periodic
+            adjustment (but no more frequently than once every five years), so
+            as to conform with standard industry practice for similar properties
+            in similar geographic locations. Any such adjustment must be
+            reasonably approved by Lessee and documented by written amendment to
+            this Lease.
+
+                                       14
+
+<PAGE>
+
+Big 5, Fontana, CA
+2-12-96 (8)
+
+            9.1.3. Such insurance shall be written by companies licensed to do
+            business in the State of California and with a general policy
+            holder's rating of at lease B+ and a financial rating of at least X
+            in the most current "Best Insurance Report" (or its equivalent
+            replacement should such report cease to be issued) or as otherwise
+            reasonably approved by Lessor, as available on the Commencement Date
+            and annually thereafter. Such insurance shall (i) name as the
+            insured parties thereunder Lessee, the Lessor and Bristol Group,
+            Inc., as their interests may appear; (ii) shall contain an
+            endorsement that such insurance shall remain in full force and
+            effect notwithstanding that the insured may have waived its right of
+            action against any party prior to the occurrence of a loss; (iii)
+            shall, to the extent commercially available, contain an endorsement
+            prohibiting cancellation, failure to renew, reduction of amount of
+            insurance or change in coverage without the insurer's first giving
+            Lessor thirty (30) days prior written notice of such proposed
+            action; (iv) provide that any insurer issuing liability insurance
+            waives all rights of recovery by way of subrogation against Lessor
+            or Lessee, as the case may be, and their respective shareholders,
+            partners, beneficial owners, agents, employees and representatives
+            in connection with any loss or damage covered by such insurance; (v)
+            be primary and non contributory, and (vi) comply with any other
+            requirements set forth in this Article 9. Such insurance may be
+            obtained by Lessee by endorsement on its blanket insurance policies,
+            provided that such blanket policies satisfy the requirements
+            specified above in this Section. Lessee may carry all or any part of
+            such insurance:
+
+                  a.    (i) under any plan of self-insurance which it may from
+                        time to time have in force and effect, with a
+                        self-insured retention of up to Five Hundred Thousand
+                        and no/100 Dollars ($500,000.00) (except any earthquake
+                        deductible may be up to twelve and 5/100 percent (12.5%)
+                        of the value of the property required to be insured) so
+                        long as Lessee's net worth exceeds Twenty Million and
+                        no/100 Dollars ($20,000,000.00) (which self-insured
+                        retention may be increased by Lessee to Seven Hundred
+                        Fifty Thousand and no/100 Dollars ($750,000.00) so long
+                        as Lessee's net worth exceeds Thirty Five Million and
+                        no/100 Dollars ($35,000,000.00) and to One Million and
+                        no/100 Dollars ($1,000,000.00) so long as Lessee's net
+                        worth exceeds Fifty Million and no/100 Dollars
+                        ($50,000,000.00), provided that in no event shall
+                        Lessee's self insured retention exceed the sum of One
+                        Million and no/100 Dollars ($1,000,000.00), or (ii)
+                        under a "blanket" policy or policies covering other
+                        liabilities of Lessee and its subsidiaries, controlling
+                        or affiliated corporations, or
+
+                  b.    partly under such a plan of self-insurance and partly
+                        under such "blanket" policies.
+
+                                       15
+
+<PAGE>
+
+Big 5, Fontana, CA
+2-12-96 (8)
+
+            Lessor shall not be required to prosecute any claim against any
+            insurer or to contest any settlement proposed by any insurer,
+            provided that Lessee may, at its cost and expense, prosecute any
+            such claim or contest any such settlement, and in such event Lessee
+            may bring any such prosecution or contest in the name of Lessor,
+            Lessee or both, and Lessor shall cooperate with Lessee and will join
+            therein at Lessee's written request upon receipt by Lessor of an
+            indemnity from Lessee against all costs, liabilities and expenses in
+            connection with such cooperation, prosecution or contest.
+
+      9.2.  ADJUSTMENT OF CLAIMS. Insurance claims by reason of damage or
+            destruction to any portion of any Demised Premises shall be adjusted
+            by and at the cost of Lessee, provided, however, that if the loss
+            shall be in excess of One Hundred Thousand and no/100 Dollars
+            ($100,000.00), no final adjustment shall be made with the insurance
+            company or companies, without the written approval of Lessor of the
+            amount of the adjustment.
+
+      9.3.  ENDORSEMENT IN FAVOR OF LENDER. Upon thirty (30) days advance
+            written notice from Lessor, each such insurance policy (other than
+            liability insurance policies) maintained pursuant to this Section
+            shall, to the extent available, bear a standard first mortgagee
+            endorsement in favor of any lender holding a first deed of trust on
+            the Demised Premises (hereinafter called "Lender"), but,
+            notwithstanding such endorsement, each payment for a single loss
+            which does not exceed One Hundred Thousand and no/100 Dollars
+            ($100,000.00) shall be made directly to Lessee, and all other loss
+            under any such policy shall be made payable to Lender, but
+            recoveries under any such policies received by Lender shall be paid
+            to Lessee for the repair and restoration of the Demised Premises as
+            provided in Sections 7.2 or 7.4 of this Lease. Every such policy
+            shall provide that the issuer thereof waives all rights of
+            subrogation against Lessee, Lessor, any successor to Lessor's
+            interest in the Demised Premises, that ten (10) days' prior written
+            notice of cancellation shall be given to Lessor and Lender and that
+            such insurance, as to the interest of Lender therein, shall not be
+            invalidated by any act or neglect of Lessor or Lessee or any owner
+            of the Demised Premises, nor by any foreclosure or any other
+            proceedings or notices thereof relating to the Demised Premises, nor
+            by any change in the title or ownership of the Demised Premises, nor
+            by occupancy of the Demised Premises for purposes more hazardous
+            than are permitted by such policy.
+
+      9.4.  CERTIFICATES OF INSURANCE. Lessee shall deliver to Lessor promptly
+            after the execution and delivery of this Lease certificates of
+            insurance evidencing all the insurance which is required to be
+            maintained by Lessee hereunder, and Lessee shall, at least thirty
+            (30) days prior to the expiration of any such insurance, deliver
+            certificates of insurance evidencing the renewal of such insurance.
+            Should Lessee fail to maintain or renew any insurance provided for
+            in this Section, or to deliver to Lessor any of such policies or
+            certificates, Lessor at its option, but without obligation so to
+
+                                       16
+
+<PAGE>
+
+Big 5, Fontana, CA
+2-12-96 (8)
+
+            do, may upon fifteen (15) days' notice to Lessee, procure such
+            insurance, and any sums expended by it to procure such insurance
+            shall be additional rent hereunder and shall be repaid by Lessee
+            within ten (10) days following the date on which demand therefor
+            shall be made by Lessor.
+
+                          ARTICLE 10. - INDEMNIFICATION
+
+      10.1. Lessee agrees to indemnify, defend and hold Lessor harmless from and
+            against, any and all liabilities, losses, damages, costs, expenses
+            (including attorneys' fees and expenses of Lessee and Lessor),
+            causes of action, suits, claims, demands or judgments of any nature
+            arising from:
+
+            10.1.1. any injury to, or the death of, any person or any damage to
+            property on the Demised Premises or upon adjoining sidewalks or
+            streets, or in any manner growing out of or connected with the use,
+            nonuse, condition or occupancy of the Demised Premises or the
+            construction or repair of any improvements on the Demised Premises,
+            or resulting from the condition of adjoining sidewalks or streets,
+
+            10.1.2. violation of any agreement or condition of this Lease and of
+            any contracts or agreements of which Lessee has notice, or which
+            shall have existed at the commencement of this Lease or which shall
+            have been approved by Lessee, and of any restrictions, laws,
+            ordinances or regulations affecting the Demised Premises or the
+            occupancy or use thereof,
+
+            10.1.3. any encroachment of improvements on the Demised Premises
+            upon property adjoining the Demised Premises, and
+
+            10.1.4. any contest permitted by Section 12.2.
+
+                               ARTICLE 11. - LIENS
+
+      11.1. Lessee will not permit to remain, and will promptly discharge, at
+            its cost and expense, all liens (other than liens created by Lessor)
+            upon the Demised Premises; provided that the existence of any
+            mechanic's, laborer's, materialman's, supplier's or vendor's lien or
+            right thereto shall not constitute a violation of this Section if
+            payment is not yet due under the contract which is the foundation
+            thereof. Lessor is hereby given authority to enter upon the Demised
+            Premises at any time to post any notices which in its opinion shall
+            be necessary to hold Lessor harmless from any claim or liability
+            arising out of any work done on the Demised Premises. Notice is
+            hereby given that Lessor will not be liable for any labor, services
+            or materials furnished or to be furnished to Lessee, or to anyone
+            holding the Demised Premises through or under Lessee, and that no
+            mechanic's or other such lien for any such labor or materials shall
+            attach to or affect the interest of Lessor in and to the Demised
+            Premises.
+
+                                       17
+<PAGE>
+
+Big 5, Fontana, CA
+2-12-96 (8)
+
+              ARTICLE 12. - ADVANCES BY LESSOR: PERMITTED CONTESTS
+
+12.1. ADVANCES. If Lessee shall fail to make any payment or perform any act on
+      its part to be made or performed under this Lease, then, subject to the
+      provisions of Section 12.2 hereof, Lessor may (but shall not be obligated
+      to), upon fifteen (15) days written notice to Lessee and without waiving
+      any default or releasing Lessee from any obligation, make such payment or
+      perform such act for the account and at the cost and expense of Lessee.
+      All sums so paid by Lessor and all necessary and incidental costs and
+      expenses (including attorneys' fees and expenses) incurred in connection
+      therewith, together with interest at the rate of twelve percent (12%) per
+      annum from the date of the making of such payment by Lessor, shall be
+      payable by Lessee to Lessor, on demand.
+
+12.2. PERMITTED CONTESTS. Lessee shall not be required to pay any tax,
+      assessment, levy, fee, rent or charge or to discharge or remove any lien,
+      encumbrance or charge or to comply with any law, rule, order, regulation
+      and ordinance, so long as Lessee shall contest, in good faith and at its
+      cost and expense, the amount or validity thereof, by appropriate
+      proceedings which shall operate during the pendency thereof to prevent the
+      sale, forfeiture or loss of the Demised Premises or any part thereof.
+      While any such proceedings are pending, Lessor shall not have the right to
+      pay, remove, cause to be discharged or comply with the tax, assessment,
+      levy, fee, rent, charge, lien, encumbrance, law, rule, order, regulation
+      or ordinance being contested. Each such contest shall be promptly
+      prosecuted to a final conclusion, and Lessee will pay, and save Lessor
+      harmless against all losses, judgments and costs (including attorneys'
+      fees and expenses) in connection therewith, and will, promptly after the
+      final determination of such contest, pay and discharge the amounts which
+      shall be levied, assessed or imposed or determined to be payable therein,
+      together with all penalties, fines, interests, costs and expenses thereon
+      or in connection therewith. No such contest shall subject Lessor to risk
+      of any criminal liability, and Lessee shall give reasonable security to
+      Lessor as may be demanded by Lessor to insure payment of or compliance
+      with any tax, assessment, levy, fee, rent, charge, lien, encumbrance, law,
+      rule, order, regulation or ordinance contested as provided in this Section
+      and to prevent any such sale or forfeiture.
+
+ARTICLE 13. - CONDITIONAL LIMITATIONS; EVENTS OF DEFAULT AND REMEDIES
+
+13.1  DEFAULT. Any of the following occurrences, following the below described
+      notices and opportunities to cure, shall constitute an event of default
+      ("Event of Default") under this Lease:
+
+      13.1.1. if Lessee shall:
+
+            a.    fail to make any payment of rent, or other sum herein
+                  required to be paid by Lessee and such failure shall continue
+                  for ten (10) days after Lessor shall have given written notice
+                  of such non-payment to Lessee, or
+
+                                       18
+<PAGE>
+
+Big 5, Fontana, CA
+2-12-96 (8)
+
+            b.    fail to substantially perform any of Lessee's other covenants,
+                  agreements or obligations hereunder and such failure shall
+                  continue for thirty (30) days after Lessor shall have given
+                  written notice to Lessee specifying such failure or, if such
+                  default cannot be cured by the payment of money and cannot
+                  with due diligence be cured within such thirty (30) day
+                  period, if Lessee shall fail to proceed promptly to cure the
+                  same and thereafter prosecute the curing of such default with
+                  diligence, or
+
+      13.1.2. if Lessee shall file a petition in bankruptcy or for
+      reorganization or for an arrangement pursuant to any present or future
+      federal bankruptcy act or under any similar federal or state law, or shall
+      be adjudicated a bankrupt or insolvent or shall make an assignment for the
+      benefit of its creditors or shall admit in writing its inability to pay
+      its debts generally as they become due, or if a petition or answer
+      proposing the adjudication of Lessee as a bankrupt or its reorganization
+      under any present or future federal bankruptcy act or any similar federal
+      or state law shall be filed in any court and such petition or answer shall
+      not be discharged or denied within ninety (90) days after the filing
+      thereof, or
+
+      13.1.3. if Lessee shall make a general assignment for the benefit of
+      creditors or if a receiver, trustee or liquidator of Lessee or of all or
+      substantially all of Lessee's assets or of Lessee's interest in the
+      Demised Premises shall be appointed in any proceeding brought by Lessee,
+      or if any such receiver, trustee or liquidator shall be appointed in any
+      proceeding brought against Lessee and shall not be discharged within
+      ninety (90) days after such appointment or if Lessee shall consent to or
+      acquiesce in such appointment.
+
+      13.1.4. If Lessee shall furnish financial statements to Lessor that are
+      known to Lessee to be false or misleading.
+
+13.2. LESSOR'S OPTION TO TERMINATE. In the event of a default of Lessee, Lessor
+      shall have the right, at its election, then or thereafter while any such
+      event of default shall continue and notwithstanding the fact that Lessor
+      may have some other remedy hereunder or at law or in equity, to give
+      Lessee written notice of Lessor's intention to terminate the term of this
+      Lease on a date specified in such notice, which shall be not less than
+      thirty (30) days after the giving of such notice, and upon the date so
+      specified, the term of this Lease and the estate hereby granted shall
+      expire and terminate and all rights of Lessee hereunder shall expire and
+      terminate. In lieu of terminating this Lease, Lessor may elect to continue
+      this Lease, in which event Lessor shall have the immediate right of
+      re-entry and possession of the Demised Premises and the right to remove
+      all persons and property therefrom. Should Lessor elect to re-enter as
+      herein provided or should Lessor take possession pursuant to legal
+      proceedings or pursuant to any notice provided for by law, Lessor may from
+      time to time re-let the Demised Premises or any part thereof for such term
+      or terms and at such rental or rentals and
+
+                                       19
+<PAGE>
+
+Big 5, Fontana, CA
+2-12-96 (8)
+
+      upon such terms and conditions as Lessor may deem advisable, with the
+      right to make repairs and alterations to the Demised Premises.
+
+13.3. RECOVERY OF DAMAGE; TERMINATION OF LEASE. In the event of any termination
+      of the term of this Lease as provided in this Article Lessee shall quit
+      and surrender the Demised Premises to Lessor, and Lessor may without
+      further notice re-enter and repossess the same by summary proceedings,
+      ejectment or otherwise, and in any such event neither Lessee nor any
+      person, claiming through or under Lessee shall be entitled to possession
+      or to remain in possession of the Demised Premises but shall forthwith
+      quit and surrender the Demised Premises. Upon such termination, Lessor may
+      recover from Lessee: (a) the worth at the time of award of the unpaid rent
+      which had been earned at the time of termination; (b) the worth at the
+      time of award of the amount by which the unpaid rent which would have been
+      earned after termination until the time of award exceeds the amount of
+      such rental loss that Lessee proves could have been reasonably avoided;
+      (c) the worth at the time of award of the amount by which the unpaid rent
+      for the balance of the term after the time of award exceeds the amount of
+      such rental loss that Lessee proves could be reasonably avoided; and (d)
+      any other amount necessary to compensate Lessor for all the detriment
+      proximately caused by Lessee's failure to perform its obligations under
+      this Lease or which in the ordinary course of things would be likely to
+      result therefrom. The "worth at the time of award" of the amounts referred
+      to in (a) and (b) above is computed by allowing interest at an annual
+      interest rate of ten percent (10%). The "worth at the time of award" of
+      the amount referred to in (c) above is computed by discounting such
+      amount at the discount rate of the Federal Reserve Bank of San Francisco
+      at the time of award plus one percent (1%). Nothing herein contained shall
+      limit or prejudice the right of Lessor, in any bankruptcy or
+      reorganization or insolvency proceeding, to prove for and obtain by reason
+      of such termination an amount to the maximum allowed by any bankruptcy or
+      reorganization or insolvency proceedings, or to prove for and obtain by
+      reason of such termination, an amount equal to the maximum allowed by any
+      statute or rule of law whether such amount shall be greater or less than
+      the excess referred to above. In the event that Lessee, prior to the
+      occurrence of an Event of Default hereunder, exercises an option to extend
+      the term of this Lease pursuant to Section 2.2 and at the time of
+      commencement of the Option Term an Event of Default exists hereunder but
+      not an Event of Default giving Lessor the right to terminate the option
+      and cancel Lessee's exercise thereof pursuant to Section 2.2, then, for
+      purposes of the preceding clause (d) of this Section 13.3, Lessor shall be
+      entitled to recover from Lessee any consequential damages arising out of
+      or in connection with Lessor's inability to terminate such option and
+      recover possession of the Demised Premises at the expiration of the
+      Primary Term or any then-existing Option Term, as the case may be.
+
+13.4. EXPENSES OF LESSOR; CONTINUATION OF LEASE. If Lessor shall re-enter and
+      obtain possession of the Demised Premises following an event of default,
+      and elect to continue this Lease, Lessor shall
+
+                                       20
+<PAGE>
+
+Big 5, Fontana, CA
+2-12-96 (8)
+
+      have the right, without notice, to repair or alter the Demised Premises in
+      such manner as Lessor deems necessary or advisable so as to put the
+      Demised Premises in good order and to make the same rentable, and shall
+      have the right, at Lessor's option, to re-let the Demised Premises or any
+      part thereof. Lessee agrees to pay to Lessor on demand all expenses
+      incurred by Lessor in obtaining possession, and in altering, repairing and
+      putting the Demised Premises in good order and condition, and in reletting
+      the same, including fees of attorneys and architects, and all other
+      reasonable expenses or commissions, and Lessee further agrees to pay to
+      Lessor upon the rental payment dates following the date of such re-entry
+      until the expiration of the term of this Lease the sums of money which
+      would have been payable by Lessee as rent hereunder on said rental payment
+      dates if Lessor had not re-entered and resumed possession of the Demised
+      Premises deducting only the net amount of rent, if any, which Lessor shall
+      actually receive (after deducting from the gross receipts the expenses,
+      costs and payments of Lessor which in accordance with the terms of this
+      Lease would have been borne by Lessee) in the meantime from and by any
+      reletting of the Demised Premises. In addition, Lessee shall remain liable
+      for all sums otherwise payable by Lessee under this Lease, and Lessor
+      shall have the right from time to time to bring successive actions or
+      other legal proceedings against Lessee for the recovery of such deficiency
+      or expenses. The liability of Lessee herein provided shall survive the
+      commencement of any action to secure possession of the Demised Premises.
+      Nothing herein contained shall be deemed to require Lessor to wait to
+      commence such action or other legal proceedings until the date when this
+      Lease would have expired had there been no such event of default.
+
+13.5. ADDITIONAL RIGHTS OF LESSOR. No right or remedy herein conferred upon or
+      reserved to Lessor is intended to be exclusive of any right or remedy, and
+      every right and remedy shall be cumulative and in addition to any other
+      right or remedy given hereunder or now or hereafter existing at law unless
+      otherwise provided herein. The failure of Lessor to insist at any time
+      upon the strict performance of any covenant or agreement or to exercise
+      any right, power or remedy contained in this Lease shall not be construed
+      as a waiver or relinquishment thereof for the future. The receipt by
+      Lessor of any rent or other sum payable hereunder with knowledge of the
+      breach of any covenant or agreement contained in this Lease shall not be
+      deemed a waiver of such breach, and no waiver by Lessor of any provision
+      of this Lease shall be deemed to have been made unless expressed in
+      writing and signed by Lessor. Lessor shall be entitled, to the extent
+      permitted by law, to injunctive relief in case of the violation, or
+      threatened violation, of any covenant, agreement, condition or provision
+      of this Lease or to any other remedy allowed to Lessor by law.
+
+13.6. ATTORNEYS' FEES AND OTHER EXPENSES. If Lessee shall be in default in the
+      performance of any of its obligations under this Lease and an action shall
+      be brought for the enforcement thereof in which it shall be determined
+      that Lessee was in default, Lessee shall pay to
+
+                                       21
+<PAGE>
+
+Big 5, Fontana, CA
+2-12-96 (8)
+
+      Lessor the expenses incurred in connection therewith including reasonable
+      attorneys' fees. If Lessor shall without fault on its part be made a party
+      to any litigation commenced against Lessee, and if Lessee shall not
+      provide Lessor with counsel reasonably satisfactory to Lessor, Lessee
+      shall pay all costs and attorneys' fees incurred or paid by Lessor in
+      connection with such litigation. Lessor and lessee agree to cooperate with
+      each other in a timely manner on the selection of counsel to represent
+      Lessor.
+
+                      ARTICLE 14. ASSIGNMENT AND SUBLETTING
+
+14.1. Subject to the provisions of Section 2.2, above, relating to the option
+      terms of this Lease being personal to Lessee and subject to the provisions
+      of Section 4.1, above, relating to the restrictions on the use of the
+      Demised Premises, Lessee may sublet up to eighty percent (80%) of the
+      Demised Premises or any part thereof, or may assign its interest under
+      this Lease, provided that each assignment or sublease shall expressly be
+      made subject to the provisions of this Lease and further provided that
+      Lessee shall remain primarily liable under the terms of this Lease. No
+      assignment or sublease made as permitted by this Section shall affect or
+      reduce any obligations of Lessee or rights of Lessor hereunder. Any
+      assignment or subletting of the Premises during or for any Option Term
+      shall be subject to the provisions of Section 14.3, hereinafter.
+
+14.2. Notwithstanding the foregoing, and notwithstanding the provisions and
+      restrictions with respect to options as set for in Section 2.2, above,
+      Lessee may freely assign, sublease or transfer this Lease (i) to any
+      corporation which owns or controls Lessee, (ii) to any corporation owned
+      or controlled by Lessee, (iii) to any corporation owned or controlled by,
+      or which is an Affiliate of any corporation which owns or controls Lessee,
+      (iv) to any corporation resulting from a consolidation or to the surviving
+      corporation in case of a merger, to which consolidation or merger Lessee
+      shall be a party, or (v) to a corporation to which all or substantially
+      all of the assets of Lessee have been sold (any such entity referred to in
+      (i) through (v) above being herein referred to as an "Affiliate").
+
+14.3. If, during any Option Term Lessee desires to assign the Lease Lessee shall
+      give Lessor written notice of such intent, accompanied by the identity of
+      the proposed assignee and such other information as lessor may reasonably
+      request and which is in the possession of Lessee. Lessor shall then have a
+      period of twenty (20) days following receipt of such notice and
+      information within which to notify Lessee in writing that Lessor elects
+      either (i) to terminate this Lease as of the date specified by Lessee in
+      the information provided to Lessor, in which event Lessee shall be
+      relieved of all liabilities hereunder except the liability to pay rent up
+      to the date of such termination and any accrued charges, costs and
+      expenses required to be paid by Lessee hereunder up to the date of such
+      termination, and any other liabilities Lessee may have hereunder,
+      including, without limitation, any indemnity obligations arising prior to
+      such termination, or (ii) to permit such assignment, which
+
+                                       22
+<PAGE>
+
+Big 5, Fontana, CA
+2-12-96 (8)
+
+      permission shall not be unreasonably withheld. In the event Lessee sublets
+      the Premises for occupancy during an Option Term and such sublet provides
+      for a rental stream in excess of that payable by Lessor to Lessee
+      hereunder, than seventy five percent (75%) of such "profits" (being
+      defined as all income received by Lessee from a subtenant in excess of
+      remodel, brokerage and other similar costs incurred in connection with the
+      transaction) shall be payable to Lessor and the remaining twenty five
+      percent (25%) shall be paid to Lessee. In the event Lessee sublets the
+      Premises for occupancy during an Option Term and such sublet covers fifty
+      one percent (51%) or more of the Demised Premises, such sublet shall be
+      deemed an assignment for purposes of this Section 14.3 and subject to
+      Lessor's right to either permit the subletting or terminate this Lease.
+      The provisions of this Section 14.3 shall not apply in connection with any
+      subletting by Lessee (i) to any corporation which owns or controls Lessee,
+      (ii) to any corporation owned or controlled by Lessee, (iii) to any
+      corporation owned or controlled by or affiliated with any corporation
+      which owns or controls Lessee, (iv) to any corporation resulting from a
+      consolidation or to the surviving corporation in case of a merger, to
+      which consolidation or merger Lessee shall be a party, or (v) to a
+      corporation to which all or substantially all of the assets of Lessee have
+      been sold (any such entity referred to in (i) through (v) above being
+      herein referred to as an "Affiliate").
+
+                     ARTICLE 15. - MISCELLANEOUS PROVISIONS
+
+15.1. SUBORDINATION. In the event the Demised Premises are subject to one or
+      more mortgages or deeds of trust, Lessor agrees to deliver to Lessee on or
+      before the commencement of the term of this Lease a Non-Disturbance,
+      Attornment and Subordination Agreement executed by each such mortgagee or
+      holder of said deed of trust in the form attached hereto as Exhibit C. If
+      Lessor fails to deliver said Agreement to Lessee prior to the commencement
+      of the term hereof, Lessee may, at its option, defer the payment of any
+      and all rental due hereunder until said Agreement is delivered to Lessee.
+      During such period of deferral, said rental shall accrue without
+      interest. Lessee shall pay such accrued rent in full to Lessor within
+      fifteen (15) days after Lessee's receipt of said Agreement in recordable
+      form fully executed by each such Beneficiary.
+
+      15.1.1. Lessee covenants that it will execute an agreement subordinating
+      this Lease to any mortgage or deed of trust subsequently placed upon the
+      Demised Premises in either the form attached hereto as Exhibit C or in
+      such other form as may be requested by Lessor's mortgagee provided such
+      other form in no way increases Lessee's liabilities or obligations
+      hereunder or diminishes Lessee's rights hereunder. Lessor covenants that
+      it will execute an agreement setting forth certain information regarding
+      this Lease, as well as acknowledging certain rights of Lessee and any
+      lender of Lessee, in the form attached hereto as Exhibit D.
+
+                                       23
+<PAGE>
+
+Big 5, Fontana, CA
+2-12-96 (8)
+
+      15.1.2. From time to time (but not more than twice in any calendar year)
+      upon not less than thirty (30) days prior written notice which shall be
+      accompanied by a form of estoppel statement, each party shall execute,
+      acknowledge and deliver to the other a statement in writing:
+
+            a.    certifying that this Lease is unmodified (except for any
+                  amendments specifically stated) and in full force and effect
+                  (or, if modified, that the same is in full force and effect as
+                  modified),
+
+            b.    setting forth the date of termination of the term of this
+                  Lease and the status of the exercise of any Option Terms,
+
+            c.    setting forth the then currently scheduled monthly rent
+                  payable under the Lease and the date to or through which rent
+                  has been paid,
+
+            d.    acknowledging that there are not, to such party's knowledge,
+                  any uncured defaults on the part of the other hereunder, or
+                  specifying such defaults if any are claimed, and
+
+            e.    acknowledging that such party has no claims or offsets against
+                  the other party, or specifying such claims or offsets if any
+                  are claimed.
+
+      In addition to the foregoing, Lessee covenants and agrees to use good
+      faith efforts to cooperate with Lessor in providing any additional
+      information relating to the status of the Lease reasonably requested in
+      connection with such estoppel. Any such estoppel statement may be relied
+      upon by any prospective purchaser or encumbrancer of all or any portion of
+      the real property of which the Demised Premises are a part.
+
+15.2. NO MERGER. There shall be no merger of this Lease or of the leasehold
+      estate hereby created with the fee estate in the Demised Premises or any
+      part thereof by reason of the fact that the same person may acquire or
+      hold, directly or indirectly, all or part of such fee estate and this
+      Lease or the leasehold estate hereby created or any interest in this
+      Lease, and this Lease shall not be terminated for any cause except as
+      expressly provided in this Lease.
+
+15.3. SURRENDER. Upon the expiration or earlier termination of this Lease,
+      Lessee shall surrender the Demised Premises to Lessor in the same
+      condition in which the Demised Premises was originally received from
+      Lessor except as repaired, rebuilt, restored, altered or added to, as
+      permitted by any provision of this Lease, and except for ordinary wear,
+      tear or obsolescence. Lessee shall remove from the Demised Premises on or
+      prior to such expiration or earlier termination all property situated
+      thereon which is not owned by Lessor, and at its cost and expense shall
+      repair any damage caused by such removal. Property not so removed shall
+      become the property
+
+                                       24
+<PAGE>
+
+Big 5, Fontana, CA
+2-12-96 (8)
+
+      of Lessor, and Lessor may thereafter cause such property to be removed
+      from the Demised Premises and disposed of, but the cost of any such
+      removal and disposition as well as the cost of repairing any damage caused
+      by such removal shall be borne by Lessee.
+
+15.4. BINDING EFFECT. This Lease may not be changed, modified or discharged
+      except by a writing signed by Lessor and Lessee. All covenants, conditions
+      and obligations contained in this Lease shall be binding upon and inure to
+      the benefit of the respective successors and assigns of Lessor and Lessee
+      to the same extent as if each successor and assign were named as a party
+      to this Lease.
+
+15.5. HEADINGS. The headings contained in this Lease have been inserted for
+      convenience only and shall not have the effect of modifying, amending or
+      changing the express terms and provisions of this Lease.
+
+15.6. SUCCESSORS AND ASSIGNS. The covenants and conditions herein contained
+      shall, subject to the provisions of Article 14 of this Lease, apply to and
+      bind the heirs, successors, executors, administrators and assigns of all
+      the parties hereto; and all of the parties hereto shall be jointly and
+      severally liable hereunder.
+
+15.7. NOTICES. All notices and demands of any kind which either party may be
+      required or desire to make or serve upon the other party shall be made in
+      writing and sent by certified or registered mail, return receipt
+      requested, to the following addresses, which notices shall be deemed
+      effective on either receipt or refusal of acceptance:
+
+      To Lessor:  State of Wisconsin Investment Board
+                  c/o Bristol Group, Inc.
+                  400 Montgomery Street
+                  San Francisco, California 94104
+                  Attn: Jeffrey S. Kott
+
+      Copy to:    State of Wisconsin Investment Board
+                  Post Office Box 7842
+                  Madison, Wisconsin 53707
+                  Attention: Director of Real Estate
+
+      To Lessee:  United Merchandising Corp.
+                  2525 E. El Segundo Boulevard
+                  El Segundo, California 90245
+                  Attention: President or Secretary
+
+      or to such other addresses as each party may from time to time request in
+      writing as provided by the notice requirements set forth in this Section.
+      From and after the date five (5) years from the commencement of the term
+      of this Lease notices may also, or in lieu of the preceding requirement,
+      be sent via overnight courier. Until Lessee receives written notice to the
+      contrary from Lessor, rental payments hereunder shall be made payable to
+      Bristol Group, Inc., at the address for Lessor set forth above.
+
+                                       25
+<PAGE>
+
+Big 5, Fontana, CA
+2-12-96 (8)
+
+15.8.  LOCAL LAW TO APPLY. This Lease is governed by the law of the State of
+       California and any question arising hereunder shall be construed or
+       determined according to such law.
+
+15.9.  TIME IS OF THE ESSENCE. Time is of the essence of this Lease.
+
+15.10. No Waiver. No delay or omission in the exercise of any right or remedy of
+       Lessor on any default by Lessee shall impair such right or remedy or be
+       construed as a waiver.
+
+       No act or conduct of Lessor, including, without limitation, the
+       acceptance of the keys to the Premises, shall constitute an acceptance of
+       the surrender of the Premises by Lessee before the expiration date of the
+       Term. Only a notice from Lessor to Lessee shall constitute acceptance of
+       the surrender of the Premises and accomplish a termination of the Lease.
+
+       Lessor's consent to or approval of any act by Lessee requiring Lessor's
+       consent or approval shall not be deemed to waive or render unnecessary
+       Lessor's consent to or approval of any subsequent act by Lessee.
+
+15.11. LIABILITY OF LESSOR AND RELEASE. In the event of any sale of the Demised
+       Premises by Lessor, Lessor shall be and is hereby entirely freed and
+       relieved of all liability under any and all of its covenants and
+       obligations contained in or derived from this Lease arising out of any
+       act, occurrence or omission occurring after the consummation of such
+       sale. Lessor agrees to deliver to Lessee an agreement signed by any
+       person or persons who may purchase all of any part of Lessor's interest
+       in the Demised Premises, which agreement shall formally recognize and
+       accept all of Lessor's obligations, responsibilities and duties hereunder
+       occurring from and after the date of the sale. Lessor's liability
+       hereunder, including any liability of Lessor prior to any transfer of the
+       Premises, shall be limited to Lessor's interest in the Premises, not to
+       exceed Ten Million and no/100 Dollars ($10,000,000.00), including,
+       without limitation, any and all income produced therefrom and the
+       proceeds of any sale and the proceeds of any insurance policies which
+       cover all or any of the Premises up to, but not in excess of Ten Million
+       and no/100 Dollars ($10,000,000.00). At no time shall Lessor, nor any
+       trustee, officer, director, shareholder, partner, agent, representative
+       or holder of any beneficial interest in Lessor have or incur any personal
+       liability whatsoever with respect to this Lease.
+
+15.12. FINANCIAL STATEMENTS. Lessee will, upon request of Lessor (but not more
+       frequently than once per annum), provide its most current audited
+       financial statements to Lessor prepared under generally accepted
+       accounting principles consistently applied and signed by either an
+       officer of Lessee or by a representative of a nationally accepted
+       accounting firm.
+
+                                       26
+<PAGE>
+
+Big 5, Fontana, CA
+2-12-96 (8)
+
+15.13. LATE CHARGE. If Lessee fails to pay any rent or additional charges when
+       due, and such failure occurs more than one time in any calendar year,
+       then, if for any subsequent late payments during such calendar year, such
+       unpaid amounts shall be subject to a late payment charge equal to five
+       percent (5%) of the unpaid amounts in each instance. The late payment
+       charge has been agreed upon by Lessor and Lessee, after negotiation, as
+       liquidated damages and a reasonable estimate of the additional
+       administrative costs and detriment that will be incurred by Lessor as a
+       result of any such failure to pay by Lessee, the actual costs thereof
+       being extremely difficult if not impossible to determine.
+
+15.14. LESSOR'S RIGHT TO PERFORM AND RIGHT TO ENTER. In connection with Lessor's
+       right to enter the Premises to determine whether Lessee is complying with
+       its obligations under Section 4.5, Lessor shall have the right to inspect
+       the Premises, upon reasonable prior notice to Lessee and provided such
+       inspection can be completed without interference to Lessee's use and
+       enjoyment of the Premises. Lessor reserves for itself and its agents the
+       right to enter the Demised Premises at all reasonable times, and upon
+       reasonable prior notice to Lessee, to inspect the Demised Premises, to
+       show the Demised Premises to prospective purchasers, mortgagees,
+       beneficiaries, to post notices of non-responsibility, to determine
+       whether Lessee is complying with its obligations under this Lease, and to
+       perform any obligations, if any, required hereunder on the part of
+       Lessor. Lessee hereby waives any claim for damages for any injury or
+       inconvenience to or interference with Lessee's business, any loss of
+       occupancy or quiet enjoyment of the Demised Premises, any right to
+       abatement of rental or additional charges, or any other loss occasioned
+       by Lessor's exercise of any of its rights under this Section 15.15
+       provided Lessor shall act diligently and use its best efforts to minimize
+       any interferences with, or interruption of, Lessee's business.
+
+15.15. LESSEE'S QUITCLAIM. upon Lessee's receipt of the written request of
+       Lessor after the expiration of the Lease and any extensions thereof, or
+       upon the earlier termination thereof as provided herein, Lessee shall
+       execute in recordable form and deliver to Lessor a quitclaim deed in
+       favor of Lessor conveying all of Lessee's right, title and interest in
+       and to the Demised Premises as defined herein.
+
+15.16. INVALIDITY. In the event that any provision of this Lease shall be held
+       invalid, void, illegal or unenforceable, such provision shall be
+       severable from, and such invalidity or unenforceability shall not be
+       construed to have any effect on, impair or invalidate the remaining
+       provisions of this Lease which shall remain in full force and effect.
+
+15.17. HOLD OVER. Should Lessee hold over the Demised Premises, or any part
+       thereof, after the expiration or earlier termination of the term of this
+       Lease, unless otherwise agreed to in writing, such holding over shall
+       constitute and be construed as a tenancy from month to month only,
+       cancellable upon thirty (30) days written
+
+                                       27
+<PAGE>
+
+Big 5, Fontana, CA
+2-12-96 (8)
+
+            notice. All obligations and duties imposed by this Lease upon Lessor
+            and Lessee shall remain the same during any such period of
+            occupancy, with the exception that the minimum rent for such hold
+            over tenancy shall be increased to one hundred fifty percent (150%)
+            of the minimum rent during the last year of the term or extended
+            term hereof. Acceptance of rental by Lessor shall not result in a
+            renewal of this Lease. If Lessee fails to surrender the Premises
+            upon the expiration of this Lease despite demand to do so by Lessor,
+            Lessee shall be liable for losses directly incurred by Lessor in
+            connection with such holding over.
+
+      IN WITNESS WHEREOF, Lessor and Lessee have executed this Lease as of the
+day and year first above written.
+
+                                           State of Wisconsin Investment Board,
+                                           an independent agency of the
+                                           State of Wisconsin
+
+                                           By /s/ Patricia Lipton
+                                              ----------------------------------
+                                              Patricia Lipton
+                                           Title: Executive Director
+
+                                           UNITED MERCHANDISING CORP.,
+                                           a California corporation
+
+                                           By Steven G. Mills
+                                              ----------------------------------
+                                                                       President
+
+                                           By Kathleen Reid Seidner
+                                              ----------------------------------
+                                                                       Secretary
+
+                                                                          Lessee
+
+                                       28
+<PAGE>
+
+Big 5, Fontana, CA
+2-12-96 (8)
+
+                                    Exhibit A
+
+                                Legal Description
+
+PARCEL NO. A:
+
+THE NORTH 208 FEET OF THE WEST 208 FEET OF LOT 8 OF ARROWHEAD VINEYARD TRACT NO.
+1, IN THE CITY OF FONTANA, COUNTY OF SAN BERNARDINO, STATE OF CALIFORNIA, AS PER
+PLAT RECORDED IN BOOK 16 OF MAPS, PAGE 69, RECORDS OF SAID COUNTY.
+
+TOGETHER WITH THAT PORTION OF REDWOOD AVENUE (MC GUIRE AVENUE) ABANDONED BY
+RESOLUTION NO. 90-210 OF THE CITY COUNCIL OF FONTANA, RECORDED NOVEMBER 5, 1990,
+INSTRUMENT NO. 90-443227, OFFICIAL RECORDS, DESCRIBED AS FOLLOWS:
+
+BEING A PORTION OF REDWOOD AVENUE, FORMERLY KNOWN AS COLORADO AVENUE, OF
+ARROWHEAD VINEYARD TRACT NO. 1, IN THE CITY OF FONTANA, COUNTY OF SAN
+BERNARDINO, STATE OF CALIFORNIA, AS PER PLAT RECORDED IN BOOK 16 OF MAPS, PAGES
+69, RECORDS OF SAID COUNTY, DESCRIBED AS FOLLOWS:
+
+BEGINNING AT A POINT IN THE WEST LINE OF LOT 8 OF SAID TRACT, WHICH BEARS SOUTH
+00 DEG. 15' 57" WEST, 46.93 FEET FROM THE NORTHWEST CORNER OF SAID LOT; THENCE
+SOUTH 00 DEG. 15' 57" WEST, 110.65 FEET ALONG SAID WEST LINE TO A POINT ON A
+NON-TANGENT CURVE CONCAVE EASTERLY AND HAVING A RADIUS OF 368.00 FEET, A RADIAL
+LINE OF SAID CURVE THROUGH SAID POINT BEARS SOUTH 82 DEG. 56' 41" WEST, THENCE
+NORTHERLY 47.02 FEET ALONG SAID CURVE THROUGH A CENTRAL ANGLE OF 7 DEG. 19' 16"
+TO A LINE THAT IS PARALLEL WITH AND 3.00 FEET WEST OF THE WEST LINE OF SAID LOT;
+THENCE NORTH 00 DEG. 15' 57" EAST, 60.74 FEET ALONG SAID PARALLEL LINE; THENCE
+NORTH 45 DEG. 10' 12" EAST, 4.25 FEET TO THE POINT OF BEGINNING.
+
+PARCEL NO. B:
+
+LOT 13, TRACT NO. 13596, IN THE CITY OF FONTANA, COUNTY OF SAN BERNARDINO, STATE
+OF CALIFORNIA, AS PER PLAT RECORDED IN BOOK 212 OF MAPS, PAGES 99 THROUGH 105,
+INCLUSIVE, RECORDS OF SAID COUNTY, AND AS AMENDED BY CERTIFICATE OF CORRECTION
+RECORDED OCTOBER 31, 1990, INSTRUMENT NO. 90-435126, OFFICIAL RECORDS.
+
+<PAGE>
+
+                                 [PLAN DRAWING]
+
+                                    EXHIBIT B
+
+<PAGE>
+
+Big 5, Fontana, CA
+12-28-95 (1)
+
+Recorded at the request of
+UNITED MERCHANDISING CORP., and
+to be mailed after recording to:
+
+United Merchandising Corp.
+Attn.: W. Huff
+Legal Department
+P.O. Box 92088
+Los Angeles, California 90009
+
+                                    EXHIBIT C
+
+                           NON-DISTURBANCE, ATTORNMENT
+
+                           AND SUBORDINATION AGREEMENT
+
+      United Merchandising Corp., a California corporation, ("Lessee") has
+entered into a lease (the "Lease") dated March 5, 1996, with
+
+("Lessor") of the premises commonly known as , and more particularly described
+in Exhibit A attached hereto (the "Demised Premises").
+
+("Beneficiary") is the holder of the beneficial interest under a Deed of Trust
+dated____________________, recorded in the Official Records in the County of ,
+State of______________________________as Instrument No. ______________________
+in Book No. __________Page _________ on ____________________________on said
+Demised Premises (the "Deed of Trust"). Lessee and Beneficiary desire hereby to
+establish certain rights, safeguards, obligations and priorities with respect to
+their respective interests by means of the following non-disturbance, attornment
+and subordination agreements.
+
+      NOW, THEREFORE, the parties hereto covenant and agree as follows:
+
+1.    Provided the Lease is in full force and effect and there are no defaults
+      by Lessee in the payment of rent thereunder, then:
+
+      1.1.  The right of possession of Lessee to the Demised Premises and
+            Lessee's rights arising out of the Lease shall not be affected or
+            disturbed by Beneficiary in the exercise of any of its rights under
+            the Deed of Trust or the Note secured thereby.
+
+      1.2.  Lessee shall not be named in any foreclosure action related to the
+            Deed of Trust.
+
+                                      C-1-
+<PAGE>
+
+Big 5, Fontana, CA
+12-28-95 (1)
+
+      1.3.  In the event that Beneficiary or any other person acquires title to
+            the Demised Premises pursuant to the exercise of any remedy provided
+            for in the Deed of Trust or under the laws of the state in which the
+            Demised Premises are located, the Lease shall not be terminated or
+            affected by said foreclosure or sale resulting from any such
+            proceeding; and Beneficiary hereby covenants that any sale by it of
+            the Demised Premises pursuant to the exercise of any rights and
+            remedies under the Deed of Trust or otherwise, shall be made subject
+            to the Lease and the rights of Lessee thereunder; and Lessee
+            covenants and agrees to attorn to Beneficiary or such other person
+            as its new lessor; and the Lease shall continue in full force and
+            affect as a direct lease between Lessee and Beneficiary or such
+            other person, as Lessor, upon all the terms, covenants, conditions
+            and agreements set forth in the Lease between Lessee and Lessor.
+            However, in no event shall Beneficiary or such person be:
+
+            1.3.1. liable for any act or omission of Lessor, except for those
+                   acts or omissions for which Lessee has given Beneficiary
+                   notice thereof prior to said foreclosure or sale;
+
+            1.3.2. bound by any payment of rent made by Lessee for periods
+                   extending beyond the date of said foreclosure or sale except
+                   for those rental payments provided for under the Lease;
+
+            1.3.3. bound by any amendment to the Lease made subsequent to the
+                   date of this Agreement without the written consent of
+                   Beneficiary, which consent shall not be unreasonably withheld
+                   or withheld for the purpose of effectuating a change in terms
+                   to the Deed of Trust. Beneficiary hereby consents to any such
+                   subsequent amendment if the primary purpose of such amendment
+                   is to provide for the expansion or remodeling of the Demised
+                   Premises or an extension of the primary term or option
+                   periods, so long as there is no decrease in the minimum rent
+                   payable under the Lease.
+
+            Notwithstanding the foregoing, the rights and obligations of lessee
+            and Beneficiary, respectively, upon such attornment shall, to the
+            extent of the then remaining balance of the term of the Lease,
+            including any renewals or extensions thereof, be the same as now set
+            forth in the Lease and by this reference the Lease is incorporated
+            herein as part of this Agreement.
+
+      1.4.  Beneficiary agrees that in the event of casualty or condemnation,
+            insurance or condemnation proceeds shall be used for the purpose of
+            reconstruction in the circumstances set forth in the Lease and
+            subject to the provisions of the Lease.
+
+2.    The Lease shall be subject and subordinate to the lien of the Deed of
+      Trust and to all the terms, conditions and provisions thereof, to all
+      advances made or to be made thereunder, and to any renewals, extensions,
+
+                                      C-2-
+<PAGE>
+
+Big 5, Fontana, CA
+12-28-95 (1)
+
+      modifications or replacements thereof, not inconsistent with Paragraph 1
+      of this Agreement.
+
+3.    Any notices or other communication required or desired to be given by one
+      party to the other party hereto shall be given in writing by mailing the
+      same by certified United States Mail, return receipt requested, postage
+      prepaid, addressed as follows:
+
+      To Lessee:          United Merchandising Corp.
+                          2525 E. El Segundo Boulevard
+                          El Segundo, California 90245
+                          Attention: President or Secretary
+
+      To Beneficiary:     _________________________________
+
+                          _________________________________
+
+                          _________________________________
+
+                          _________________________________
+
+      or to such other addresses as the respective parties may from time to time
+      designate by notice given as provided in this Agreement.
+
+4.    This Agreement may not be modified other than by an agreement in writing
+      signed by the parties hereto or by their respective successors in
+      interest.
+
+5.    This Agreement shall inure to the benefit of and be binding upon the
+      parties hereto and their successors and assigns.
+
+6.    The foregoing provisions shall be self operative and effective without the
+      execution of any further instruments on the part of either parry hereto.
+
+7.    Should Beneficiary cease to have a beneficial interest under the Deed of
+      Trust, Beneficiary shall give prompt written notice to Lessee of the
+      reconveyance, assignment or other form of termination of said beneficial
+      interest.
+
+                                      C-3-
+<PAGE>
+
+Big 5, Fontana, CA
+12-28-95 (1)
+
+      IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be
+duly executed this _________ day of ________, 19_______.
+
+                                           By___________________________________
+                                           Title:
+
+                                           By___________________________________
+                                           Title:
+
+                                                                     BENEFICIARY
+
+                                           UNITED MERCHANDISING CORP., a
+                                           California corporation
+
+                                           By___________________________________
+                                                                       President
+
+                                           By___________________________________
+
+                                                                       Secretary
+
+                                                                          LESSEE
+
+                                      C-4-
+<PAGE>
+
+                                    Exhibit D
+
+                         FORM OF LANDLORD'S CERTIFICATE
+
+                               _____________,199__
+
+[LANDLORD]
+______________
+______________
+
+      Re:   Lease dated March 5, 1996, as amended(the "Lease"), between _______,
+            a _________ (the "Landlord"), and United Merchandising Corp., a
+            California corporation (the Tenant")
+
+            Premises:    BIG 5 Fontana Warehouse
+                         7351 McGuire Avenue
+                         Fontana, California (the "Premises")
+
+Gentlemen:
+
+The undersigned Landlord, the owner of the above described Premises and the
+holder of the Lease, has been advised by Tenant that Tenant has granted a
+security interest in personal property located on the Premises to General
+Electric Capital Corporation ("GE Capital"), as agent for itself and certain
+other lenders under Credit Agreement among Tenant, GE Capital and the other
+lenders party thereto, and GE Capital, as agent. The undersigned for good and
+valuable consideration, the receipt and sufficiency of which is acknowledged by
+the undersigned, hereby consents, agrees, certifies and confirms as follows:
+
+1.    The information set forth below is correct:
+
+      a.    Commencement Date
+            of the Lease:                                [Date]
+
+      b.    Current annual
+            minimum rent payable:                        [$Amount]
+
+      c.    Month and date through which minimum
+            rent, and all other sums due and payable
+            to Landlord, have been paid:                 [Date]
+
+2.    The Lease is in full force and effect and represents the entire agreement
+      between Landlord and Tenant, and the Lease as originally executed has not
+      been modified, changed, altered or amended in any way.
+
+                                                                         1/26/96
+                                                  FORM OF LANDLORD'S CERTIFICATE
+
+                                       D-1
+<PAGE>
+
+[LANDLORD]
+
+_______________,199___
+2
+
+3.    Tenant is not in default under the Lease, and to the best of Landlord's
+      knowledge, there has not occurred any event which, by lapse of time or
+      otherwise, would constitute a default by Tenant under the Lease.
+
+4.    Landlord hereby consents to the granting by Tenant of any liens on
+      or security interests in Tenant's personal property located on the
+      Premises. Landlord agrees to permit the entry and occupancy, by the
+      holders ("Holder") of such liens or security interests and their
+      representatives, onto the Premises for a period not exceeding sixty (60)
+      consecutive days for the proposes of removing, selling or otherwise
+      disposing of merchandise, inventory, equipment, furniture, trade fixtures
+      and other personal property of Tenant (but excluding fixtures in which
+      Landlord has an interest as hereinafter described) subject to such liens
+      or security interests so long as Holder agrees: (a) to promptly repair any
+      physical damage to the Premises actually caused by the conduct of such
+      removal (ordinary wear and tear excluded); (b) to pay Landlord the rent
+      and other monetary amounts due under the lease or, in the case where the
+      Lease has been terminated, those amounts that would have became due under
+      the Lease if the Lease were still in effect (including, without
+      limitation, any amounts due for payment of taxes, utilities or
+      maintenance) for the actual period of occupancy by such holder, pro-rated
+      on a per diem basis determined on a 30-day month (provided that such
+      amounts paid to Landlord would exclude any adjustments under the Lease for
+      default, holdover status or other similar charges, if any); and (c) to
+      provide and retain liability and property insurance coverage and utilities
+      to the extent required by the Lease; provided, that (i) if Holder is
+      prohibited, by reason of the commencement of any bankruptcy case or
+      insolvency proceedings by or against Tenant, from entering upon the
+      Premises or from enforcing its liens or security interest, then, at
+      Holder's option, such 60-day period shall be stayed during the period of
+      such prohibition and shall continue thereafter for the number of days
+      remaining in such period, and (ii) Holder would not be liable for any
+      delinquent rent or other amounts owing by Tenant under the Lease or for
+      any diminution in value of the Premises caused by the absence of any such
+      personal property actually removed or by any necessity of replacing such
+      personal property. Notwithstanding anything herein to the contrary, in no
+      event shall Holder's right to enter or occupy the Premises pursuant to
+      this Certificate extend beyond sixty (60) days from the date of
+      termination of the term of the Lease, and at any time thereafter Landlord
+      shall have the right to have any personal property of Tenant that may be
+      located upon the Premises removed from the Premises in accordance with the
+      terms of the Lease and applicable law. Any reference in this Certificate
+      to Tenant's "trade fixtures" or "personal property" shall not mean or
+      include any fixtures or equipment which are an integral part of the
+      buildings and improvements comprising the Premises for purposes of their
+      use and operation as an office, warehouse and distribution facility or
+      which cannot be
+
+                                                                         1/26/96
+                                                  FORM OF LANDLORD'S CERTIFICATE
+
+                                       D-2
+<PAGE>
+
+[LANDLORD]
+
+__________,199 ___
+3
+
+      removed without material damage to such buildings and improvements (which,
+      by way of example, shall include all HVAC and mechanical systems, conveyor
+      systems, loading docks, load leveler systems, carpeting and wall
+      coverings), and, as used herein, any references to Tenant's "fixtures" or
+      "personal property" shall mean and be limited to those items that are
+      attached to or used in the buildings and improvements comprising the
+      Premise solely for the purpose of Tenant conducting its business therein
+      and which can be removed without material damage to such buildings and
+      improvements (including, by way of example, Tenant's satellite
+      communication equipment, music and intercom systems, security system and
+      racking systems).
+
+5.    With respect to any financing provided by any bank or other institutional
+      lender or investor to Tenant now or hereafter, existing, and which is
+      secured by any such personal property, Landlord hereby subordinates to
+      any lien or security interest securing such financing, any statutory or
+      contractual lien that Landlord may have with respect to the merchandise,
+      inventory, furniture, trade fixtures and other personal property of
+      Tenant, whether now located on or about the Premises or hereafter brought
+      thereout.
+
+6.    No action to which Landlord consents under this document shall constitute
+      a default under the Lease, permit Landlord to terminate the Lease or
+      reenter or repossess the Premises or otherwise provide the basis for the
+      exercise of any remedy by Landlord.
+
+                                                                         1/26/96
+                                                  FORM OF LANDLORD'S CERTIFICATE
+
+                                       D-3
+<PAGE>
+
+[LANDLORD]
+
+______________,199__
+4
+
+7.    Landlord hereby agrees to provide GE Capital, concurrently with the
+      issuance to Tenant, a copy of all notices of default delivered to Tenant.
+      Landlord further agrees to accept from GE Capital any payment or
+      performance tendered or made by GE Capital to cure any such default
+      (including, without limitation, all payment defaults), it being understood
+      that GE Capital shall have no obligation to cure any such default.
+
+            Notices to GE Capital should be sent to:
+
+            Mr. Steven C. Bierman
+            General Electric Capital Corporation
+            350 South Beverly Drive, Suite 200
+            Beverly Hills,California 90212
+
+                                           Sincerely,
+
+                                           UNITED MERCHANDISING CORP.
+
+                                           Kathleen Reid-Seidner
+                                           Vice President and Secretary
+
+Acknowledged this ____day of__________, 199_
+
+WITNESSES:                                 LANDLORD:
+
+____________________                       ____________________
+
+____________________                       By:________________
+
+                                           Title:_____________
+
+                                                                         1/26/96
+                                                  FORM OF LANDLORD'S CERTIFICATE
+
+                                       D-4
+
+</TEXT>
+</DOCUMENT>

@@ -1,0 +1,345 @@
+<DOCUMENT>
+<TYPE>EX-10.4
+<SEQUENCE>10
+<FILENAME>v92885exv10w4.txt
+<DESCRIPTION>EXHIBIT 10.4
+<TEXT>
+<PAGE>
+
+                                                                    EXHIBIT 10.4
+
+                          CONFIDENTIAL TREATMENT REQUESTED BY VITAL LIVING, INC.
+
+                                                                   REDACTED COPY
+
+                                 AMENDMENT NO. 1
+                                       to
+                        DEVELOPMENT AND LICENSE AGREEMENT
+
+This Amendment No. 1 to Development and License Agreement (this "Amendment"), is
+entered into as of August 20, 2003 by and among:
+
+(1)      e-nutriceuticals, Inc., a Delaware corporation ("e-nut");
+
+(2)      Vital Living, Inc., a Nevada corporation ("Vital Living");
+
+(2)      Jagotec AG, a Swiss Corporation; and
+
+(3)      SkyePharma PLC, a company incorporated in England and Wales.
+
+                              W I T N E S S E T H:
+
+                  WHEREAS, e-nut and SkyePharma PLC have entered into a
+Development and License Agreement, dated as of December 28, 2001 (the "DLA");
+
+                  WHEREAS, on January 23, 2002 all rights and obligations of
+SkyePharma PLC under the DLA were assigned to its wholly owned subsidiary
+Jagotec AG (which for the purposes of this Amendment shall be referred to as
+"Skye");
+
+                  WHEREAS, e-nut and Skye desire to amend the DLA in certain
+respects, subject to the terms, conditions and limitations hereof;
+
+                  WHEREAS, e-nut, Vital Living and VLEN Acquisition Corporation
+expect to enter into an Agreement and Plan of Merger (the "Merger Agreement")
+immediately after the execution of this Amendment; and
+
+                  WHEREAS, the parties hereto desire to provide for the
+assignment of the DLA, as amended hereby, by e-nut to Vital Living concurrently
+with the consummation of the transactions contemplated by the Merger Agreement.
+
+                  NOW, THEREFORE, in consideration of the mutual promises and
+conditions set forth below, the parties agree as follows:
+
+ARTICLE ONE - AMENDMENTS
+
+1.0      Interpretation. Capitalized terms used herein but not otherwise defined
+herein shall have the meanings ascribed thereto in the DLA.
+
+1.1      Amendment of Exhibit 1. Exhibit 1 attached to this Amendment is the
+Skye Patent Exhibit 1 referred to in Section 1. (o) i) of the DLA.
+
+<PAGE>
+
+                          CONFIDENTIAL TREATMENT REQUESTED BY VITAL LIVING, INC.
+
+1.2      Amendment of Section 2.1. Section 2.1 is hereby amended and restated to
+read in its entirety as follows:
+
+"2.1     Products. Through the period up to ***, (i) e-nut shall have the
+exclusive right to identify up to *** product candidates in the Field for
+Development using the Skye Technology (each, a "Product"), (ii) Skye shall not
+have the right to license the Technology (or any Joint Patent) to third parties
+for products in the Field and (iii) Skye shall not have the right to use the
+Technology (or any Joint Patent) to independently develop products in the Field.
+
+The Parties acknowledge and agree that as of the date of this Amendment, *** of
+the *** Products have been identified and formulated and *** product remains to
+be identified and formulated, and all *** products have been paid for. The ***
+product is to be identified prior to ***. In the event of the *** Product not
+being identified by ***, e-nut's rights to identify a *** Product under Section
+2.1(i) will terminate and be of no further effect."
+
+1.3      Amendment of Section 2.2. Section 2.2 is amended and restated in its
+entirety as follows:
+
+"Section 2.2. Additional Products.
+
+         (a) Beginning on ***, e-nut shall have the right until *** to identify
+additional product candidates in the Field (each, an "Additional Product") for
+Development using the Skye Technology, provided, however, that: (i) at least ***
+Additional Products are identified by e-nut in each calendar year and all ***
+Additional Products are capable of being formulated by Skye (as determined by
+Skye in its reasonable judgment), or (ii) beginning on *** Skye receives Product
+Development Fees of at least *** from e-nut (or any affiliate) in each calendar
+year as adjusted for inflation in accordance with Section 3.2.
+
+         (b) The terms and conditions upon which Skye would formulate the
+Additional Products are to be negotiated in good faith by e-nut and Skye but in
+any event shall be no worse than the terms for the development of the first six
+Products specified in Section 3.2 of the DLA.
+
+         (c) The rights of e-nut to submit annual Additional Products shall
+extend beyond *** if the Skye Patents extend beyond such date, and in such
+case, ***.
+
+         (d) For the avoidance of doubt, in the event that *** new Additional
+Products are not acceptable to Skye in accordance with Section 2.2(a) during the
+calendar year of *** or any calendar year thereafter, then, exclusivity shall
+terminate at the end of such calendar year and Skye shall have the right to
+license the Technology (or any joint Patent) to third parties for products in
+the Field and the right to independently develop products in the field. As to
+any new Additional Products submitted by e-nut after such termination of
+exclusivity, such products may be licensed at SkyePharma's option on a
+non-exclusive basis, it being acknowledged that all prior Additional Products
+shall remain subject to the exclusive marketing rights of e-nut.
+
+<PAGE>
+
+                          CONFIDENTIAL TREATMENT REQUESTED BY VITAL LIVING, INC.
+
+         (e) Notwithstanding the foregoing, in the event that Skye determines
+that an Additional Product is not capable of being formulated by Skye (in
+accordance with Section 2.2(a)), it shall not count as an Additional Product for
+purposes of determining whether four Additional Products have been submitted.
+
+         (f) e-nut will pay to Skye ***.
+
+1.4      Amendment of Section 2.4. The second sentence of Section 2.4, which
+reads:
+
+"The License will be exclusive until ***, after which date the License will be
+non-exclusive save with respect to Products and Additional Products and Skye may
+grant licenses within the Field to other parties."
+
+shall be deleted in its entirety and replaced with the following:
+
+"The License will be exclusive until ***, subject to extension(s) thereof for
+the life or extension(s) thereof of the Skye Patents. The License shall however
+become non-exclusive on *** of any year, beginning on *** if in the preceding
+calendar year the conditions of Section 2.2 (a) are not fulfilled."
+
+1.5      Amendment of Section 2.5 (ii). Section 2.5 (ii) of the agreement which
+reads:
+
+"agrees to pay Skye quarterly in arrears royalties equal to *** of e-nut's Net
+Sales of Products or Additional Products during the term of this Agreement where
+the Product or Additional Product and its exploitation under the terms of this
+Agreement are covered by a Valid Claim."
+
+shall be deleted in its entirety and replaced with the following:
+
+"agrees to pay Skye quarterly in arrears royalties equal to *** of e-nut's Net
+Sales of Products or Additional Products until the last to expire of the Valid
+Claims covering the Product or Additional Product and thereafter until e-nut
+ceases to derive revenues from or make sales of such Products or Additional
+Products."
+
+1.6      Amendment of Section 2. Section 2 is hereby amended by the addition of
+a new Section 2.6 and Section 2.7, which shall read in their entirety as
+follows:
+
+"2.6     Marketing in China. e-nut is hereby appointed as Skye's exclusive
+marketing partner to pharmaceutical companies for the licensing of all Skye
+Technology (including the Geomatrix technology) relating to the delivery of
+drugs or other vitamins or nutraceuticals, whether existing now or herein after
+created, in the Peoples Republic of China, Taiwan and Hong Kong (the "Chinese
+Territory"). For each Introduction made or facilitated by e-nut which results in
+any fees or revenues being paid to Skye or any of Skye's Affiliates in the
+Chinese Territory, Skye shall pay to e-nut a royalty equal to *** of such gross
+fees or revenues, payable on the same terms and conditions as the other royalty
+payments set forth in this Agreement. Gross fees and revenues shall include all
+cash
+
+<PAGE>
+
+                          CONFIDENTIAL TREATMENT REQUESTED BY VITAL LIVING, INC.
+
+compensation excluding those for research and development for purposes of
+computing the royalty payment.
+
+On each *** of ***, if Skye shall not have received as of such *** *** (as
+adjusted for inflation as of such date in accordance with the inflation
+adjustment methodology established in Section 3.2) in gross cash fees and
+revenues in the *** prior to such *** date generated by Introductions made or
+facilitated by e-nut (which gross cash fees and revenues for purposes of this
+calculation shall not include any research and development fees but shall for
+the *** periods ended on the *** of *** include any payments for research and
+development pursuant to feasibility studies ("Adjusted Revenues")), then unless
+Skye shall have received as of the next following *** date an aggregate of ***
+(as adjusted for inflation as of such date in accordance with the inflation
+adjustment methodology established in Section 3.2) in Adjusted Revenues in
+respect of the *** period ending on such *** date generated by Introductions
+made or facilitated by e-nut, (i) exclusivity shall terminate as of such date
+and (ii) Skye shall thereafter not be bound by any of the provisions of this
+Section 2.6 and shall retain all rights with respect to the Chinese Territory,
+which shall include the right to directly or indirectly market its products in
+the Chinese Territory for the purpose of licensing the Skye Technology without
+any obligation to make any payment to e-nut; provided, however, that Skye will
+be required to continue to pay the *** payment referred to above, which shall
+remain payable, and shall be paid, during the duration of the relevant Skye
+Patent to the extent that revenues are derived from an Introduction.
+
+For purposes of this Agreement, the term "Introduction" shall mean ***.
+
+"2.7     Additional License Fees. In consideration of additional rights granted
+by this Amendment in respect of (i) Section 2.1 and 2.2, of the DLA, e-nut
+hereby pays to Skye a one time fee of *** by the issuance to Skye of *** shares
+of Common Stock of e-nut, convertible into *** shares of Common Stock of Vital
+Living on the terms and conditions set out in the Merger Agreement, Subscription
+Agreement and Registration Rights Agreement of even date herewith ("TRANSACTION
+AGREEMENTS"), and (ii) Section 2.6, e-nut hereby pays to Skye a one time fee of
+*** by issuance to Skye of *** shares of Common Stock of e-nut convertible into
+*** shares of Common Stock of Vital Living, on the terms and conditions set out
+in the Transaction Agreements."
+
+1.7      Amendment of Section 10. Section 10.1 is amended and restated in its
+entirety as follows:
+
+"10.1    Term. Unless terminated by the parties pursuant to Sections 10.2 and
+10.3 below, this Agreement shall remain in effect until e-nut ***.
+Notwithstanding the foregoing, the rights granted to e-nut under Sections 2.1,
+2.2, and 2.3 above shall terminate with respect to a particular Product or
+Additional Product upon the Abandonment of such Product or Additional Product;
+provided however, that e-nut may continue to refer to such abandoned Product in
+its promotional or other materials (subject to Section 6)."
+
+1.8      Amendment to Section 11.1. Section 11.1 is amended and restated in its
+entirety as follows:
+
+<PAGE>
+
+                          CONFIDENTIAL TREATMENT REQUESTED BY VITAL LIVING, INC.
+
+11.1     Assignment. This Agreement and the licenses herein granted shall be
+binding upon and shall inure to the benefits of the parties, their Affiliates
+and successors; provided that e-nut and its permitted assignee may not assign
+its rights, duties or obligations under this Agreement without the prior written
+consent of Skye except for the assignment and assumption effected pursuant to
+the Assignment and Assumption Agreement dated as of August 20, 2003.
+
+ARTICLE TWO - REPRESENTATIONS
+
+2.1      Representations of Skye. Skye represents and warrants that as of the
+date hereof (i) the DLA is in full force and effect and (ii) there are no facts
+known to Skye which would reasonably serve as a basis of any claim that Skye
+does not have the right to use or license the Skye Technology to e-nut as
+contemplated by the DLA as amended hereby. Skye has not licensed or otherwise
+transferred, or entered into any agreement, commitment or arrangement (whether
+oral or written) to license or otherwise transfer, to any other person any of
+the Skye Technology or any rights thereto or interests therein, which now, or
+with the passage of time will, conflict with or impair the rights to and
+interest in the Skye Technology transferred to e-nut pursuant to the DLA as
+amended hereby.
+
+2.2      Representations of e-nut with Respect to the Amendment Shares. E-nut
+represents and warrants to Skye that all corporate action on the part of e-nut,
+its officers, directors and stockholders necessary for the authorization,
+execution and delivery of this Amendment, including the issuance of the shares
+of Common Stock of e-nut (the "Amendment Shares") referred to in Section 1.6 of
+this Amendment (containing new Section 2.7 of the DLA) has been taken. Upon
+issuance in accordance with the DLA as amended, the Amendment Shares will be
+validly issued, fully-paid and nonassessable, and free from all preemptive
+rights.
+
+ARTICLE THREE - ASSIGNMENT
+
+3.1      Assignment. Each of Vital Living and e-nut agree to execute the
+Assignment and Assumption Agreement, attached hereto as Exhibit 2, immediately
+upon the execution of this Amendment.
+
+3.2      Acknowledgement. Skye and Vital Living acknowledge and agree that upon
+the execution of such Assignment and Assumption Agreement, Vital Living will
+succeed e-nut as a party to the DLA, as amended hereby, with all the rights,
+remedies, duties and obligations held by e-nut under the DLA, as amended hereby.
+
+ARTICLE FOUR - GENERAL PROVISIONS
+
+4.1      Full Force and Effect. Upon (i) the execution of this Amendment by each
+of the parties hereto and (ii) the consummation of the merger contemplated by
+the Merger Agreement, the terms of the DLA shall be as amended hereby. Except as
+expressly amended hereby, the DLA and all other documents, agreements and
+instruments relating thereto, are and shall remain, unmodified and in full force
+and effect.
+
+<PAGE>
+
+                          CONFIDENTIAL TREATMENT REQUESTED BY VITAL LIVING, INC.
+
+4.2      Choice of Law. The validity, performance, construction, and effect of
+this Amendment shall be governed by the laws of the State of New York.
+
+4.3      Dispute Resolution. In the case of any disputes between the parties
+arising from this Amendment, Section 11.7 of the DLA shall apply.
+
+4.4.     Counterparts. This Amendment may be executed in counterparts, each of
+which shall be deemed an original, but all of which together shall constitute
+one and the same instrument.
+
+4.6      Compliance with Laws. If any provision of this Amendment is found by
+any court or administrative body of competent jurisdiction to be invalid or
+unenforceable, such invalidity or unenforceability shall not affect the other
+provisions of this Amendment which shall remain in full force and effect. If any
+provision of this Amendment is so found to be invalid or unenforceable but would
+be valid or enforceable if some part of the provision were deleted or amended,
+the provision in question shall apply with such modification(s) as may be
+necessary to make it valid and enforceable.
+
+                            [Signature Page Follows]
+
+<PAGE>
+
+                          CONFIDENTIAL TREATMENT REQUESTED BY VITAL LIVING, INC.
+
+         IN WITNESS WHEREOF, the parties have executed this Agreement.
+
+                                    E-NUTRICEUTICALS, INC.
+
+                                    By__________________________________
+                                    Stephen Morris
+                                    Sole Officer and Director
+
+                                    VITAL LIVING, INC.
+
+                                    By__________________________________
+                                    Stuart Benson
+                                    President
+
+                                    By__________________________________
+                                    Brad Edson
+                                    Chief Executive Officer
+
+                                    JAGOTEC AG
+
+                                    By__________________________________
+                                    Name:
+                                    Title:
+
+                                    SKYEPHARMA PLC
+
+                                    By__________________________________
+                                    Name:
+                                    Title:
+
+</TEXT>
+</DOCUMENT>

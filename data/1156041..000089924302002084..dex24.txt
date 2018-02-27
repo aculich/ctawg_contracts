@@ -1,0 +1,548 @@
+<DOCUMENT>
+<TYPE>EX-2.4
+<SEQUENCE>6
+<FILENAME>dex24.txt
+<DESCRIPTION>REGISTRATION RIGHTS AGREEMENT
+<TEXT>
+<PAGE>
+
+
+
+                                                                     Exhibit 2.4
+
+                                                                      APPENDIX A
+
+                         REGISTRATION RIGHTS AGREEMENT
+
+     THIS REGISTRATION RIGHTS AGREEMENT (this "Agreement") is entered into as of
+July 19, 2002, by and between HOUSTON AMERICAN ENERGY CORP., a Delaware
+corporation (the "Company"), and MILLENNIUM SEISMIC, INC., a Texas corporation
+(the "Holder").
+
+     WHEREAS, on even date herewith, as applicable, the parties to this
+Agreement have also executed and delivered (a) that certain Exchange Agreement
+(the "Exchange Agreement") between the Company and the Holder, (b) that certain
+License Agreement (the "License Agreement") between the Company and the Holder,
+and (c) that certain Stock Purchase Warrant (the "Warrant") issued to the Holder
+by the Company; and
+
+     WHEREAS, pursuant to the Exchange Agreement, the License Agreement and the
+Warrant, and in exchange for the Holder's agreement to grant the Company a no
+fee license to utilize certain of the Holder's seismic data, the Company issued
+the Holder 1,000,000 shares (the "Delivered Shares") of the Company's common
+stock, par value $0.001 per share (the "Common Stock"), and agreed to issue to
+the Holder up to an additional 750,000 shares of the Common Stock, upon the
+exercise of the Warrant as described therein (all such shares of the Common
+Stock purchased by the Holder pursuant to the Warrant are collectively referred
+to herein as the "Warrant Shares")
+
+     NOW, THEREFORE, in consideration of the premises and the mutual covenants
+contained herein, and other good and valuable consideration, the receipt and
+sufficiency of which is hereby acknowledged, the parties hereto agree as
+follows:
+
+     1. Registration Rights Available. Pursuant to the terms and conditions
+contained herein, and in the Warrant, the Company agrees to provide the Holder
+or any permitted assignee of the Holder (collectively, the "Holder") with the
+right to "piggyback" (the "Registration Rights") the Delivered Shares and the
+Warrant Shares (collectively, the "Registrable Securities") on any registration
+under the Securities Act of 1933, as amended (the "Securities Act"), of the
+Common Stock (a "Public Offering") or any other shares of the capital stock of
+the Company. For purposes of this Agreement, the parties hereby agree that the
+Holder shall not be entitled to "piggyback" any of the Registrable Securities
+(or any other securities issuable with respect to the Delivered Shares or the
+Warrant Shares as a result of any merger, consolidation, reorganization, stock
+split, stock dividend, recapitalization or other similar event involving the
+Company) with respect to (i) any registration statement filed by the Company on
+Form S-4 or Form S-8, (ii) any registration statement filed by the Company in
+connection with an exchange offer or any other offering of the capital stock of
+the Company solely in connection with an acquisition, or (iii) any registration
+statement filed by the Company in connection with an offering of the Company's
+capital stock made solely to the Company's then existing stockholders (any
+registration statement described in clauses (i)-(iii) above being excluded from
+the term "Public Offering" as used in this Agreement).
+
+                                       1
+
+<PAGE>
+
+
+    2. Registration Rights. With respect to the Registration Rights, the
+parties hereby agree as follows:
+
+          (a) Subject to Section 2(b), the Company will (i) promptly give the
+     Holder written notice of any registration relating to a Public Offering,
+     and (ii) include in such registration (and related qualification under
+     "blue sky" laws or other compliance) such of the Holder's Registrable
+     Securities as are specified in the Holder's written request or requests,
+     mailed in accordance with the terms of this Agreement, within 30 days after
+     the date of such written notice from the Company.
+
+          (b) If the Public Offering identified in the notice delivered by the
+     Company pursuant to Section 2(a) will be an underwritten public offering
+     (in each such instance, an "Underwritten Public Offering"), the right of
+     the Holder to registration pursuant to the Registration Rights shall be
+     conditioned upon the Holder's participation in such underwriting, and the
+     inclusion of the Holder's Registrable Securities in the underwriting shall
+     be limited to the extent provided herein. The Holder shall (together with
+     the Company) enter into an underwriting agreement in customary form with
+     the managing underwriter selected by the Company for the Underwritten
+     Public Offering. Notwithstanding any other provision of this Agreement, if
+     the managing underwriter determines that marketing factors require a
+     limitation of the number of the Registrable Securities to be underwritten,
+     the managing underwriter may limit some or all of the Holder's Registrable
+     Securities that may be included in the Underwritten Public Offering as
+     follows: the number of the Holder's Registrable Securities that may be
+     included in the Underwritten Public Offering shall be determined by
+     multiplying the maximum number of registrable securities (of all selling
+     shareholders of the Company)which the managing underwriter is willing to
+     include in such Underwritten Public Offering times a fraction, the
+     numerator of which is the number of the Registrable Securities the Holder
+     requested to be included in such Underwritten Public Offering, and the
+     denominator of which is the total number of registrable securities which
+     all selling shareholders of the Company have requested to be included in
+     such Underwritten Public Offering. To facilitate the allocation described
+     above, the Company may round the number of registrable securities allocable
+     to any such person (including the Holder) to the nearest 100 shares of the
+     Common Stock. If the Holder disapproves of the terms of any such
+     underwriting, it may elect to withdraw therefrom by written notice to the
+     Company and the managing underwriter, which must be delivered not less than
+     seven days before the effective date of the Underwritten Public Offering.
+     Any of the Registrable Securities the Holder so elects to exclude or
+     withdraw from the Underwritten Public Offering shall be withdrawn from such
+     registration, and shall not be transferred in a public distribution prior
+     to 60 days after the effective date of the Registration Statement relating
+     thereto, or such other shorter period of time as the underwriters may
+     require.
+
+     3. Registration Procedure. With respect to the Registration Rights, the
+following provisions shall apply:
+
+     (a) The Holder shall be obligated to furnish the Company and the
+underwriters all information reasonably related to the Registrable Securities
+and the proposed manner of distribution the Company and the underwriters may
+request in writing and as shall be required in connection with any registration,
+qualification or compliance referred to herein. The Holder
+
+                                       2
+
+
+
+<PAGE>
+
+shall otherwise cooperate with the Company and the underwriters in connection
+with any such registration, qualification or compliance.
+
+     (b) With a view to making available the benefits of certain rules and
+regulations of the Securities and Exchange Commission (the "SEC") which may at
+any time permit the sale of any Restricted Securities (as that term is defined
+in Rule 144 ("Rule 144") promulgated under the Securities Act), to the public
+without registration, the Company agrees to use its best lawful efforts to:
+
+          (i) Make and keep public information available, as those terms are
+     understood and defined in Rule 144 at all times during which the Company is
+     subject to the reporting requirements of the Securities Exchange Act of
+     1934, as amended (the "Exchange Act");
+
+          (ii) File with the SEC in a timely manner all reports and other
+     documents required to be filed by the Company under the Securities Act and
+     the Exchange Act (at all times during which the Company is subject to such
+     reporting requirements); and
+
+          (iii) So long as the Holder owns any Restricted Securities, to furnish
+     to the Holder, upon request, (A) a written statement from the Company as to
+     its compliance with the reporting requirements of Rule 144 and with regard
+     to the Securities Act and the Exchange Act (at all times during which the
+     Company is subject to such reporting requirements), (B) a copy of the most
+     recent annual or quarterly report of the Company, and such other reports
+     and documents of the Company and other information in the possession of or
+     reasonably obtainable by the Company as the Holder may reasonably request
+     in availing itself of any rule or regulation of the SEC allowing the Holder
+     to sell any Restricted Securities without registration.
+
+     (c) The Company agrees that it will furnish the Holder such number of
+prospectuses meeting the requirements of Section 10(a)(3) of the Securities Act,
+offering circulars or other documents incident to any registration,
+qualification or compliance referred to herein as provided or, if not otherwise
+provided, as the Holder from time to time may reasonably request.
+
+     (d) All expenses (except for any underwriting and selling discounts and
+commissions and legal fees for the Holder's attorneys) of any registrations
+permitted pursuant to this Agreement and of all other offerings by the Company
+(including, but not limited to, the expenses of any qualifications under the
+"blue sky" or other state securities laws and compliance with governmental
+requirements of preparing and filing any post-effective amendments required for
+the lawful distribution of the Registrable Securities to the public in
+connection with such registration, of supplying prospectuses, offering circulars
+or other documents) will be paid by the Company.
+
+     (e) In connection with the preparation and filing of any Registration
+Statement under the Securities Act pursuant to this Agreement, the Company will
+give the Holder and the Holder's attorneys and accountants, the opportunity to
+participate in the preparation of any Registration Statement, each prospectus
+included therein or filed with the SEC, and each
+
+                                       3
+
+
+<PAGE>
+
+
+amendment thereof or supplement thereto, and will give each of them such access
+to its books and records and opportunities to discuss the business of the
+Company with its officers and the independent public accountants who have
+certified its financial statements as shall be necessary to conduct a reasonable
+investigation within the meaning of the Securities Act.
+
+     (f) The Company shall notify each holder of Registrable Securities covered
+by a Registration Statement, during the time when a prospectus relating thereto
+is required to be delivered under the Securities Act, of the happening of any
+event as a result of which the prospectus included in the Registration
+Statement, as then in effect, includes an untrue statement of a material fact or
+omits to state a material fact required to be stated therein or necessary to
+make the statements therein not misleading in the light of the circumstances
+then existing.
+
+     (g) In connection with any Registration Statement which becomes effective,
+the Company shall take all actions necessary to maintain the effectiveness
+thereof for a total of no less than 180 days, exclusive of (i) the days during
+any Blackout Period (as defined below) and (ii) any days during a period of time
+in which sales of the securities covered by such Registration Statement are
+legally prohibited.
+
+     4. Blackout Period. At any time after the effective date of the
+Registration Statement, if the Company provides to the Holder a notice pursuant
+to Section 3(f) hereof and stating that the Company requires the suspension by
+the Holder of the distribution of any of the Registrable Securities, then the
+Holder shall cease distributing the Registrable Securities for such period of
+time (the "Blackout Period"), not to exceed 120 days from the time notice is
+sent until the Company informs the Holder that the Blackout Period has been
+terminated. Upon notice to the Holder of such determination, the Holder will:
+(a) keep all facts related to such notice strictly confidential, provided,
+however, the Holder shall be entitled, as necessary, to disclose the existence
+of the Blackout Period and to refer any inquiries regarding the Blackout Period
+to the Company; (b) promptly halt any offer, sale, trading or transfer of any of
+the Registrable Securities for the duration of the Blackout Period; and (c)
+promptly halt any use, publication, dissemination or distribution of each
+prospectus included within the Registration Statement, and any amendment or
+supplement thereto by it and any of its affiliates for the duration of the
+Blackout Period.
+
+     5. Lock-Up. In connection with any Underwritten Public Offering, the Holder
+agrees, if requested, to execute a lock-up letter addressed to the managing
+underwriter in customary form agreeing not to sell or otherwise dispose of the
+Registrable Securities (other than any that may be included in the offering) for
+a period not exceeding 180 days.
+
+     6. Delay of Registration. The Holder shall not have any right to obtain or
+seek an injunction restraining or otherwise delaying any registration of the
+Common Stock (including the Registrable Securities) as the result of any
+controversy that might arise with respect to the interpretation or
+implementation of this Agreement.
+
+     7. Indemnification by the Company. In the event of any registration of the
+Registrable Securities under the Securities Act, pursuant to the terms of this
+Agreement, the Company agrees to indemnity and hold harmless the Holder and each
+of its directors, officers, shareholders, partners, agents and any other
+person(s) who controls the Holder, within the
+
+                                       4
+
+
+<PAGE>
+
+
+meaning of the securities Act (collectively, the "Holder Indemnified Group"),
+against any and all claims, demands, losses, costs, expenses, obligations,
+liabilities, joint or several, damages, recoveries and deficiencies, including
+interest, penalties and attorneys' fees (collectively the "Claims"), to which
+any member of the Holder Indemnified Group may become subject under the
+Securities Act or otherwise, insofar as the Claims or actions or proceedings,
+whether commenced or threatened, in respect thereto arise out of or are based on
+any untrue statement or alleged untrue statement of any material fact contained
+in any Registration Statement under which the Registrable Securities were
+registered under the Securities Act, any preliminary prospectus, final
+prospectus or summary prospectus contained therein, or any amendment or
+supplement thereto, or any omission or alleged omission to state therein a
+material fact required to be stated therein or necessary to make the statements
+therein not misleading, and the Company will reimburse such member of the Holder
+Indemnified Group for any legal or other expenses reasonably incurred by it in
+connection with investigating or defending any Claim or action or proceeding in
+respect thereto; provided that the Company shall not be liable in any such case
+to the extent that any Claim or action or proceeding in respect thereof or
+expense arises out of or is based on an untrue statement or alleged untrue
+statement or omission or alleged omission made in the Registration Statement,
+any such preliminary prospectus, final prospectus, summary prospectus, amendment
+or supplement in reliance on and in conformity with written information
+furnished to the Company through an instrument duly executed by the Holder, or
+the applicable member of the Holder Indemnified Group, specifically stating that
+it is for use in the preparation thereof. Such indemnity shall remain in full
+force and effect regardless of any investigation made by or on behalf of the
+Holder and survive the Holder's transfer of the Registrable Securities.
+
+     8. Indemnification by the Holder. The Company may require, as a condition
+to including the Registrable Securities in any Registration Statement filed
+pursuant to this Agreement, that the Company shall have received an undertaking
+satisfactory to it from the Holder, to indemnify and hold harmless (in the same
+manner and to the same extent as set forth in Section 7 hereof) the Company,
+each director and officer of the Company and each other person, if any, who
+controls the Company within the meaning of the Securities Act (collectively, the
+"Company Indemnified Group" with respect to any statement or alleged statement
+or alleged statement in or omission or alleged omission from the Registration
+Statement, any preliminary prospectus contained therein, or any amendment or
+supplement thereto, if such statement or alleged statement or omission or
+alleged omission was made in reliance on and in conformity with written
+information furnished to the Company through an instrument duly executed by the
+Holder specifically stating that it is for use in the preparation of the
+Registration Statement, preliminary prospectus, final prospectus, summary
+prospectus, amendment or supplement. Notwithstanding the foregoing, the maximum
+liability hereunder which the Holder shall be required to suffer shall be
+limited to the net proceeds to the Holder from the Registrable Securities sold
+by the Holder in any such offering. Such indemnity shall remain in full force
+and effect, regardless of any investigation made by or on behalf of the Company
+or any such director, officer or controlling person and shall survive the
+Holder's transfer of the Registrable Securities.
+
+     9. Notice of Claims. Promptly after receipt by an indemnified party of
+notice of the commencement of any action or proceeding involving a Claim, such
+indemnified party will, if a claim in respect thereof is to be made against an
+indemnifying party, give written notice to the indemnifying party of the
+commencement of such action, provided that the failure of any
+
+                                       5
+
+<PAGE>
+
+
+indemnified party to give notice as provided herein shall not relieve the
+indemnifying party of its obligations under this Agreement except to the extent
+that the indemnifying party is actually prejudiced by such failure to give
+notice. In case any such action is brought against an indemnifying party, unless
+in such indemnified party's reasonable judgment a conflict of interest between
+such indemnified and indemnifying parties may exist in respect of a Claim the
+indemnifying party shall be entitled to participate in and to assume the defense
+thereof, jointly with any other indemnifying party similarly notified to the
+extent that it may wish, with counsel reasonably satisfactory to such
+indemnified party, and after notice from the indemnifying party to such
+indemnified party of its election to so assume the defense thereof, the
+indemnifying party shall not be liable to such indemnified party for any legal
+or other expenses subsequently incurred by the latter in connection with the
+defense thereof other than reasonable costs of investigation. No indemnifying
+party shall, without the consent of the indemnified party, consent to entry of
+any judgment or enter into any settlement that does not include as an
+unconditional term thereof the giving by the claimant or plaintiff to such
+indemnified party of a release from all liability in respect of a Claim.
+
+     10. Indemnification Payments. The indemnification required by this
+Agreement shall be made by periodic payments of the amount thereof during the
+course of the investigation or defense, as and when bills are received or
+expense, loss, damage or liability is incurred.
+
+     11. Assignment of Registration Rights. The rights to cause the Company to
+register the Registrable Securities pursuant to this Agreement may not be
+assigned by the Holder without the prior written consent of the Company.
+Notwithstanding the foregoing the Holder may, subject to compliance with all
+applicable securities laws, if any, assign all or a portion of its rights under
+this Agreement to up to two persons without the requirement of obtaining the
+Company's prior written consent; provided, however, no such assignment of the
+Holders rights shall be permitted unless the assignee thereof is a holder of
+shares of the capital stock of Millennium Seismic, Inc. as of the date of any
+such assignment.
+
+     12. Termination of this Agreement. This Agreement shall terminate with
+respect to the Holder when all of the Registrable Securities have been
+registered as provided herein.
+
+     13. Conflict. Notwithstanding anything herein contained to the contrary, in
+the event of any conflict between the terms of (a) the Exchange Agreement, the
+License Agreement and the Warrant or (b) this Agreement, the terms of this
+Agreement shall control.
+
+     14. Attorneys' Fees. In the event that it should become necessary for any
+party entitled hereunder to bring suit against any other party to this Agreement
+for enforcement of the covenants herein contained, the parties hereby covenant
+and agree that the party who is found to be in violation of said covenants shall
+also be liable for all reasonable attorney's fees and costs of court incurred by
+the other parties hereto.
+
+     15. Governing law; Jurisdiction. THIS AGREEMENT SHALL BE CONSTRUED AND
+GOVERNED BY THE LAWS OF THE STATE OF TEXAS, WITHOUT REGARD TO ANY CONFLICTS OF
+LAWS PROVISIONS THEREOF.
+
+     16. Arbitration. Any controversy or claim arising out of or relating to
+this Agreement, or the breach, termination, or validity hereof, shall be settled
+by final and binding
+
+                                       6
+
+<PAGE>
+
+
+
+arbitration in accordance with the Commercial Arbitration Rules of the American
+Arbitration Association ("AAA Rules") in effect as of the effective date of this
+Agreement. The American Arbitration Association shall be responsible for (a)
+appointing a sole arbitrator, and (b) administering the case in accordance with
+the AAA Rules. The situs of the arbitration shall be Houston, Texas. Upon the
+application of either party to this Agreement, and whether or not an arbitration
+proceeding has yet been initiated, all courts having jurisdiction hereby are
+authorized to (x) issue and enforce in any lawful manner, such temporary
+restraining orders, preliminary injunctions and other interim measures of relief
+as may be necessary to prevent harm to a party's interest or as otherwise may be
+appropriate pending the conclusion of arbitration proceedings pursuant to this
+Agreement, and (y) enter and enforce in any lawful manner such judgments for
+permanent equitable relief as may be necessary to prevent harm to a party's
+interest or as otherwise may be appropriate following the issuance of arbitral
+awards pursuant to this Agreement. Any order or judgment rendered by the
+arbitrator may be entered and enforced by any court having competent
+jurisdiction.
+
+     17. Benefit. All the terms and provisions of this Agreement shall be
+binding upon, inure to the benefit of and be enforceable by the parties hereto,
+and their respective successors and permitted assigns. In particular, should the
+Company be consolidated or merged with and into another company, or sell
+substantially all of its assets to another company in exchange for stock, cash
+or other property, the company formed by such consolidation or merger or the
+company purchasing such assets, as applicable, shall execute and deliver to the
+Holder a supplemental registration rights agreement containing terms
+substantially similar to this Agreement and which provides that the Registration
+Rights granted to the Holder of such supplemental registration rights agreement
+shall thereafter be applicable to the kind and amount of shares of stock and
+other registrable securities received upon such consolidation, merger or sale of
+the Company's assets, as applicable, in exchange for the Delivered Shares and,
+upon exercise thereof, the shares of stock or other registrable securities to be
+issued pursuant to the supplemental warrant issued in replacement of the Warrant
+(in accordance with the terms of the Warrant).
+
+     18. Notices. All notices, requests and other communications hereunder shall
+be in writing and shall be deemed to have been duly given at the time of receipt
+if delivered by hand or communicated by facsimile transmission, or, if mailed,
+three days after deposit in the United States mail, registered or certified,
+return receipt requested, with postage prepaid and addressed to the party to
+receive same, if to the Company, addressed to Mr. John F. Terwilliger, 801
+Travis, Suite 2020, Houston, Texas 77002 and facsimile (713) 222-6440; and if to
+the Holder, addressed to Mr. Jesse R. Marion, 7751 San Felipe, Suite 100,
+Houston, Texas 77063 and facsimile (713) 789-2304; however, that if either party
+shall have designated a different address by notice to the other given as
+provided above, then any subsequent notice shall be addressed to such party at
+the last address so designated.
+
+     19. Construction. Words of any gender used in this Agreement shall be held
+and construed to include any other gender, and words in the singular number
+shall be held to include the plural, and vice versa, unless the context requires
+otherwise. In addition, the pronouns used in this Agreement shall be understood
+and construed to apply whether the party referred to is an individual,
+partnership, joint venture, corporation or an individual or individuals doing
+business
+
+                                       7
+
+<PAGE>
+
+
+under a firm or trade name, and the masculine, feminine and neuter
+pronouns shall each include the other and may be used interchangeably with the
+same meaning.
+
+     20. General Assurances. The parties agree to execute, acknowledge, and
+deliver all such further instruments, and do all such other acts, as may be
+necessary or appropriate in order to carry out the intent and purposes of this
+Agreement.
+
+     21. Construction of Agreement. The parties hereto acknowledge and agree
+that neither this Agreement nor any of the other documents executed in
+connection herewith shall be construed more favorably in favor of one than the
+other based upon which party drafted the same, it being acknowledged that each
+of the parties hereto contributed substantially to the negotiation and
+preparation of this Agreement and the documents executed in connection herewith.
+
+     22. No Third Party Beneficiaries. Except as otherwise expressly forth in
+this Agreement, no person or entity not a party to this Agreement shall have
+rights under this Agreement as a third party beneficiary or otherwise.
+
+     23. Incorporation by Reference. Any agreement referred to herein is hereby
+incorporated into this Agreement by this reference.
+
+     24. Waiver. No course of dealing on the part of any party hereto or its
+agents, or any failure or delay by any such party with respect to exercising any
+right, power or privilege of such party under this Agreement or any instrument
+referred to herein shall operate as a waiver thereof, and any single or partial
+exercise of any such right, power or privilege shall not preclude any later
+exercise thereof or any exercise of any other right, power or privilege
+hereunder or thereunder.
+
+     25. Cumulative Rights. The rights and remedies of any party under this
+Agreement and the instruments executed or to be executed in connection herewith,
+or any of them, shall be cumulative and the exercise or partial exercise of any
+such right or remedy shall not preclude the exercise of any other right or
+remedy.
+
+     26. Invalidity. In the event any one or more of the provisions contained in
+this Agreement or in any instrument referred to herein or executed in connection
+herewith shall, for any reason, be held to be invalid, illegal or unenforceable
+in any respect, such invalidity, illegality, or unenforceability shall not
+affect the other provisions of this Agreement or any such other instrument.
+
+     27. Excusable Delay. None of the parties hereto shall be obligated to
+perform and none shall be deemed to be in default hereunder, if the performance
+of a non-monetary obligation is prevented by the occurrence of any of the
+following, other than as the result of the financial inability of the party
+obligated to perform: acts of God, strikes, lock-outs, other industrial
+disturbances, acts of a public enemy, wars or war-like action (whether actual,
+impending or expected and whether de jure or de facto), arrest or other
+restraint of governmental (civil or military) blockades, insurrections, riots,
+epidemics, landslides, lightning, earthquakes, fires, hurricanes, storms,
+floods, washouts, sink holes, civil disturbances, explosions, breakage or
+accident to equipment or machinery, confiscation or seizure by any government of
+public
+
+                                       8
+
+<PAGE>
+
+authority, nuclear reaction or radiation, radioactive contamination or other
+causes, whether of the kind herein enumerated, or otherwise, that are not
+reasonably within the control of the party claiming the right to delay
+performance on account of such occurrence.
+
+     28. Time of the Essence. Time is of the essence of this Agreement.
+
+     29. Headings. The headings used in this Agreement are for convenience and
+reference only and in no way define, limit, simplify or describe the scope or
+intent of this Agreement, and in no way effect or constitute a part of this
+Agreement.
+
+     30. Multiple Counterparts. This Agreement may be executed in one or more
+counterparts, each of which shall be deemed an original, but all of which
+together shall constitute one and the same instrument.
+
+     31. Entire Agreement. This Agreement, together with the Exchange Agreement,
+the License Agreement and the Warrant, shall comprise the entire agreement among
+the parties hereto regarding the subject matter hereof and thereof, and this
+Agreement supersedes all prior agreements and understandings whether written or
+oral.
+
+     IN WITNESS WHEREOF, the parties have executed this Agreement on the date
+first written above.
+                                HOUSTON AMERICAN ENERGY CORP.
+
+
+                                By:  /s/  John F. Terwilliger
+                                     -------------------------------------------
+                                     John F. Terwilliger, President
+
+
+
+                                MILLENNIUM SEISMIC, INC.
+
+
+                                By:  /s/  Jesse R. Marion
+                                     -------------------------------------------
+                                     Jesse R. Marion, President
+
+                                       9
+
+
+
+</TEXT>
+</DOCUMENT>

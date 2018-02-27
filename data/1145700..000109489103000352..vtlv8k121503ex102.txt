@@ -1,0 +1,315 @@
+<DOCUMENT>
+<TYPE>EX-10.2
+<SEQUENCE>9
+<FILENAME>vtlv8k121503ex102.txt
+<DESCRIPTION>FORM OF ESCROW AGREEMENT
+<TEXT>
+                                ESCROW AGREEMENT
+
+
+     AGREEMENT  made as of December  15, 2003 by and among  Vital  Living,  Inc.
+("Company") and Graubard Miller as escrow agent ("Escrow Agent").
+
+
+                              W I T N E S S E T H:
+                              - - - - - - - - - -
+
+     WHEREAS,  as of the date hereof,  the Company has held the Initial  Closing
+(as such term is defined in the  Securities  Purchase  Agreement  defined below)
+pursuant to which it has sold (the  "Offering")  12% senior secured  convertible
+notes ("Notes") and warrants to purchase  shares of the Company's  common stock,
+$.001 par value ("Common  Stock")  pursuant to a Securities  Purchase  Agreement
+("Securities  Purchase  Agreement")  between the  Company and certain  investors
+("Investors");
+
+     WHEREAS,  the Company  proposes to establish an escrow account,  into which
+the  Company  will  deposit an amount of funds  ("Escrow  Funds") as a source of
+payment  for  certain  interest  obligations  of the  Company  to the  Investors
+pursuant to the Notes; and
+
+     WHEREAS, the Escrow Agent is willing to establish the Escrow Account on the
+terms and subject to the conditions hereinafter set forth.
+
+     NOW,  THEREFORE,  in  consideration  of the premises  and mutual  covenants
+herein contained, the parties hereto hereby agree as follows:
+
+     1. Designation of Escrow Account.  The Company hereby designates the Escrow
+Agent, and the Escrow Agent hereby accepts such designation, to receive and hold
+the Escrow Funds, subject to the provisions of this Agreement.
+
+     2. Establishment of the Bank Account.
+
+          2.1 The Escrow Agent has established an interest-bearing  bank account
+at the branch of Deutsche  Bank  selected by the Escrow Agent ("Bank  Account").
+The purpose of the Bank Account is for (a) the deposit of the Escrow Funds,  (b)
+the holding of the Escrow Funds,  and (c) the  disbursement of Escrow Funds, all
+as described  herein.  The Escrow Agent does not own or have any interest in the
+Bank Account or the Escrow Funds,  but agrees to hold and  administer the Escrow
+Funds in accordance  with the terms and conditions  hereinafter  set forth.  The
+purpose  of the  Escrow  Account  is to provide  for  certain  interest  payment
+obligations of the Company to the Investors under the Notes.
+
+     3. Deposits to the Bank Account.
+
+          3.1 Simultaneously  with the execution of this Agreement,  the Company
+is hereby  wiring to the Escrow  Agent for deposit into the Bank Account the sum
+of $370,528.56 representing 12% of the aggregate principal amount of Notes sold.
+
+<PAGE>
+
+Thereafter,  if an  Interim  Closing  (as  defined  in the  Securities  Purchase
+Agreement)  is held,  the Company  will wire to the Escrow  Agent an  additional
+amount representing 12% of the additional Notes sold.
+
+          3.2 The  Escrow  Agent  shall  have no  liability  for any  investment
+losses,  including any losses on any investment  required to be liquidated prior
+to maturity in order to make a payment required hereunder.
+
+     4. Disbursement from the Bank Account.
+
+          4.1 On each of June 15, 2004 and December  15, 2004,  the Escrow Agent
+shall  deposit  checks in the mail to the  Investors at the address,  and in the
+amounts,  set forth in the  attached  Exhibit A. Such Exhibit A shall be amended
+from  time to time in  order to allow  for the  sale of  additional  Notes at an
+Interim Closing.  The interest payments to be made hereunder on each of June 15,
+2004 and  December 15, 2004 shall either be in the amount set forth next to each
+Investors name under the heading "12% Interest Payment" or "8% Interest Payment"
+(in the event the  Company  determines  to pay, at its sole  option,  4% of such
+interest  obligations  in  shares  of  the  Company's  common  stock  ("Interest
+Shares")). The Company shall notify the Escrow Agent in writing at least 10 days
+prior  to  such  date of its  intention  to pay 4% of the  interest  owed to the
+Investors through the delivery of Interest Shares.
+
+          4.2 Notwithstanding any provision of this Agreement,  the Escrow Agent
+shall not be required to make any disbursement if such disbursement, in the good
+faith  opinion  of the  Escrow  Agent,  would  violate  applicable  law or be in
+contravention of any court order or process affecting the Escrow Funds.
+
+          4.3 Upon full  disbursement  of the Escrow Funds pursuant to the terms
+of this Section 4, the Escrow Agent shall be relieved of all further obligations
+and released from all liability under this Agreement. It is expressly agreed and
+understood  that in no event shall the aggregate  amount of payments made by the
+Escrow Agent exceed the amount of the Escrow Funds on the date of disbursement.
+
+          4.4 Following the final payment called for under this  Agreement,  any
+remaining  balance as a result of the  Company  electing to pay a portion of the
+interest  owed to the Investors  under the Notes in Interest  Shares or interest
+earned on the Escrow Funds shall be returned to the Company.
+
+     5. Certain Additional Agreements.  The Company shall execute and deliver to
+the Escrow Agent such additional written instructions and certificates hereunder
+as may be required to give effect to the provisions of this Agreement.
+
+     6. Rights,  Duties and  Responsibilities  of Escrow Agent. It is understood
+and agreed that the duties of the Escrow Agent are purely ministerial in nature,
+and that:
+
+                                       2
+<PAGE>
+
+          6.1 The Escrow  Agent shall not be  responsible  for or be required to
+enforce any of the terms or conditions of any agreement of the Company,  and the
+Escrow Agent shall not be responsible  for the performance by the Company of its
+obligations under this Agreement or the documents  governing the Offering or any
+other agreement to which any of them is a party.
+
+          6.2 The  Escrow  Agent  shall be under  no duty or  responsibility  to
+enforce collection of any check or other amount delivered to it hereunder.
+
+          6.3 The Escrow Agent shall be entitled to rely upon the accuracy,  act
+in  reliance  upon the  contents,  and assume  the  genuineness  of any  notice,
+instruction, certificate, signature, instrument or other document which is given
+to the Escrow  Agent  pursuant to this  Agreement  without the  necessity of the
+Escrow Agent verifying the truth or accuracy thereof. The Escrow Agent shall not
+be obligated  to make any inquiry as to the  authority,  capacity,  existence or
+identity of any person  purporting to give any such notice or instructions or to
+execute any such certificate, instrument or other document.
+
+          6.4 If the  Escrow  Agent is  uncertain  as to its  duties  or  rights
+hereunder or shall receive  instructions with respect to the Escrow Funds which,
+in its sole  determination,  are in  conflict  either  with  other  instructions
+received by it or with any provision of this Agreement,  it shall be entitled to
+hold the Escrow Funds,  or a portion  thereof,  in the Bank Account  pending the
+resolution of such uncertainty to the Escrow Agent's sole satisfaction, by final
+judgment of a court or courts of competent  jurisdiction  or  otherwise;  or the
+Escrow  Agent,  at its sole  discretion,  may deposit the Escrow  Funds (and any
+other amounts that thereafter become part of the Escrow Funds) with the Clerk of
+a court of  competent  jurisdiction  in a  proceeding  to which all  parties  in
+interest  are joined.  Upon the deposit by the Escrow  Agent of the Escrow Funds
+with the Clerk of any court,  the Escrow  Agent shall be relieved of all further
+obligations and releases from all liability hereunder.
+
+          6.5 The  Escrow  Agent  shall not be liable  for any  action  taken or
+omitted  hereunder,  or for the  misconduct of any  employee,  agent or attorney
+appointed by it, except in the case of willful  misconduct or gross  negligence.
+The Escrow  Agent shall be entitled to consult  with counsel of its own choosing
+and shall not be liable  for any  action  taken,  suffered  or  omitted by it in
+accordance with the advice of such counsel.
+
+          6.6 The  Escrow  Agent  shall  have no  responsibility  at any time to
+ascertain whether or not any security interest exists in the Escrow Funds or any
+part thereof or to file any  financing  statement  under the Uniform  Commercial
+Code with respect to the Escrow Funds or any part thereof.
+
+     7.  Amendment;  Resignation.  This Agreement may be altered or amended only
+with the  written  consent of the  Company,  the Escrow  Agent and  HCFP/Brenner
+Securities,  LLC.  The Escrow  Agent may  resign  for any reason  upon three (3)
+business days' written notice to the Company.  Should the Escrow Agent resign as
+herein  provided,  it shall not be  required  to accept  any  deposit,  make any
+disbursement or otherwise  dispose of the Escrow Funds,  but its only duty shall
+be to hold the Escrow Funds for a period of not more than five (5) business days
+following  the  effective  date of such  resignation,  at  which  time  (a) if a
+successor  escrow  agent  shall have been  appointed  by the Company and written
+notice thereof  (including the name and address of such successor  escrow agent)
+
+                                       3
+<PAGE>
+
+shall have been given to the  resigning  Escrow  Agent by the  Company  and such
+successor  escrow agent,  then the resigning  Escrow Agent shall pay over to the
+successor  escrow agent the Escrow Funds,  less any portion  thereof  previously
+paid out in accordance with this Agreement; or (b) if the resigning Escrow Agent
+shall not have  received  written  notice  signed by the Company and a successor
+escrow  agent,  then the  resigning  Escrow Agent shall  promptly pay the Escrow
+Funds to the  Clerk  of a court of  competent  jurisdiction,  and the  resigning
+Escrow Agent shall  promptly  notify the other parties  hereto in writing of its
+payment to such Clerk;  whereupon,  in either  case,  the Escrow  Agent shall be
+relieved of all further  obligations  and released from all liability under this
+Agreement.  Without  limiting  the  provisions  of Sections 8 and 9 hereof,  the
+resigning Escrow Agent shall be entitled to be reimbursed by the Company for any
+reasonable expenses incurred in connection with its resignation, transfer of the
+Escrow  Funds to a successor  escrow agent or  distribution  of the Escrow Funds
+pursuant to this Section 7.
+
+     8. Fees and  Expenses.  The  Escrow  Agent  shall be  entitled  to a fee of
+$5,000,  payable in advance by the  Company on the date of this  Agreement.  The
+Company  agrees  to  reimburse  the  Escrow  Agent for any  reasonable  expenses
+incurred  in  connection  with this  Agreement,  including,  but not limited to,
+reasonable  counsel fees and  expenses.  The  provisions of this Section 8 shall
+survive any termination of this Agreement, whether by disbursement of the Escrow
+Funds, resignation of the Escrow Agent or otherwise.
+
+     9. Indemnification and Contribution.
+
+          9.1 The Company (referred to as the "Indemnitor")  agrees to indemnify
+the Escrow Agent and its officers, directors, employees and agents (collectively
+referred to as the "Indemnitees")  against,  and hold them harmless of and from,
+any and all  loss,  liability,  cost,  damage  and  expense,  including  without
+limitation,  reasonable  counsel fees, which the Indemnitees may suffer or incur
+by reason of any action,  claim or proceeding  brought  against the  Indemnitees
+arising out of or relating in any way to this  Agreement or any  transaction  to
+which this  Agreement  relates,  unless such action,  claim or proceeding is the
+result of the willful misconduct or gross negligence of the Indemnitees.
+
+          9.2 If the indemnification  provided for in Section 9.1 is applicable,
+but for any reason is held to be unavailable,  the Indemnitor  shall  contribute
+such amounts as are just and equitable to pay, or to reimburse  the  Indemnitees
+for,  the  aggregate  of any and all  losses,  liabilities,  costs,  damages and
+expenses,  including  counsel fees,  actually  incurred by the  Indemnitees as a
+result of or in  connection  with,  and any amount  paid in  settlement  of, any
+action, claim or proceeding arising out of or relating in any way to any actions
+or omissions of the Indemnitor.
+
+          9.3 The provisions of this Section 9 shall survive any  termination of
+this Agreement,  whether by disbursement of the Escrow Funds, resignation of the
+Escrow Agent or otherwise.
+
+     10.  Governing Law and  Assignment.  This  Agreement  shall be construed in
+accordance with and governed by the laws of the State of New York without giving
+effect to  conflicts  of law  principles,  and shall be binding upon the parties
+hereto and their respective successors and assigns; provided,  however, that any
+assignment  or transfer by any party of its rights under this  Agreement or with
+respect to the Escrow Fund shall be void as against the Escrow  Agent unless (a)
+written  notice  thereof shall be given to the Escrow Agent;  and (b) the Escrow
+Agent shall have consented in writing to such assignment or transfer.
+
+                                       4
+<PAGE>
+
+     11.  Notices.  All  notices  required to be given in  connection  with this
+Agreement  shall  be  sent by  registered  or  certified  mail,  return  receipt
+requested, or by hand delivery with receipt acknowledged, or by the Express Mail
+service  offered by the United States Post Office,  and addressed to the persons
+at the address set forth below.
+
+         If to the Company:         Vital Living, Inc.
+                                    5080 North 40th Street
+                                    Suite 105
+                                    Phoenix, Arizona 85018
+                                    Attn: Stuart A. Benson, President
+
+         If to the Escrow Agent:    Graubard Miller
+                                    600 Third Avenue
+                                    32nd Floor
+                                    New York, New York 10016
+                                    Attn: David Alan Miller, Esq.
+
+         In either case with a
+         copy to:
+
+                                    HCFP/Brenner Securities, LLC
+                                    888 Seventh Avenue
+                                    17th Floor
+                                    New York, New York 10106
+                                    Attention: Ira Greenspan
+
+     12.  Severability.  If any provision of this  Agreement or the  application
+thereof  to any  person or  circumstance  shall be  determined  to be invalid or
+unenforceable,  the remaining provisions of this Agreement or the application of
+such provision to persons or circumstances  other than those to which it is held
+invalid or  unenforceable  shall not be affected  thereby and shall be valid and
+enforceable to the fullest extent permitted by law.
+
+     13.  Execution in Several  Counterparts.  This Agreement may be executed in
+several  counterparts or by separate  instruments,  and all of such counterparts
+and instruments  shall  constitute one agreement,  binding on all of the parties
+hereto.
+
+     14. Entire  Agreement.  This  Agreement  constitutes  the entire  agreement
+between  the  parties  hereto  with  respect to the  subject  matter  hereof and
+supersedes  all prior  agreements  and  understandings  (written or oral) of the
+parties in connection therewith.
+
+     15.  Termination.  This  Escrow  Agreement,  except as  otherwise  provided
+herein, shall automatically  terminate upon the final distribution of the Escrow
+Funds in accordance with the terms hereof.
+
+                                       5
+<PAGE>
+
+
+
+
+     IN WITNESS WHEREOF,  the undersigned have executed this Agreement as of the
+day and year first above written.
+
+VITAL LIVING, INC.                             GRAUBARD MILLER, as Escrow Agent
+
+
+By: ____________________                       By:_______________________
+       Name:                                          Name:
+       Title:                                         Title:
+
+
+
+
+
+
+
+
+
+                                       6
+
+<PAGE>
+
+                                    EXHIBIT A
+
+------------------ ----------------------------- -------------------------------
+                        June 15, 2004                    December 15, 2004
+                   ----------------------------- -------------------------------
+                    12% Interest    8% Interest      12% Interest   8% Interest
+Name and Address     Payment          Payment           Payment       Payment
+------------------ ----------------------------- -------------------------------
+
+</TEXT>
+</DOCUMENT>

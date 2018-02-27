@@ -1,0 +1,2298 @@
+<DOCUMENT>
+<TYPE>EX-10.25
+<SEQUENCE>8
+<FILENAME>a84640exv10w25.txt
+<DESCRIPTION>EXHIBIT 10.25
+<TEXT>
+<PAGE>
+                                                                   EXHIBIT 10.25
+
+
+
+                               AGREEMENT OF LEASE
+
+                                     between
+
+                           CHERRY TREE INVESTORS, L.P.
+
+                                    Landlord
+
+                                       and
+
+                        COMMONWEALTH ENERGY CORPORATION
+
+                                     Tenant
+
+<PAGE>
+
+LEASE AGREEMENT DATED AUGUST 9, 2002.
+
+        BETWEEN CHERRY TREE INVESTORS, L.P., a New Jersey limited partnership
+("Landlord"), having an office at GSB Building, Suite 401, One Belmont Avenue,
+Bala Cynwyd, PA 19004 and COMMONWEALTH ENERGY CORPORATION, a California
+corporation ("Tenant"), having an address at Cherry Tree Corporate Center, Suite
+123, Cherry Hill, New Jersey 08002.
+
+                                    PREAMBLE
+
+BASIC LEASE PROVISIONS AND DEFINITIONS.
+
+        In addition to other terms elsewhere defined in this Lease, the
+following terms whenever used in this Lease should have only the meanings set
+forth in this Preamble, unless such meanings are expressly modified, limited or
+expanded elsewhere herein.
+
+        l. Demised Premises: Suite 350 as outlined on the floor plan annexed
+hereto and made a part hereof as EXHIBIT A consisting of approximately 2,265
+square feet of Gross Rentable Area on the 3rd floor, to be delivered on the
+Commencement Date together with all fixtures, equipment, improvements and
+installations attached thereto in the building located at Cherry Tree Corporate
+Center, 535 Route 38, Cherry Hill Township, Camden County, New Jersey and having
+139,044 square feet of Gross Rentable Area, (the "Building").
+
+        2. Term: Three (3) years.
+
+        3. Commencement Date: The date the Demised Premises is delivered to
+Tenant as set forth in Article 4 of this Lease.
+
+        4. Fixed Rent Commencement Date: The Commencement Date.
+
+        5. Expiration Date: Noon on the last day of the calendar month in which
+the day immediately prior to the three (3) year anniversary of the Commencement
+Date occurs.
+
+        6. Permitted Use: General office use.
+
+        7. Fixed Rent:
+
+<TABLE>
+<CAPTION>
+        Year      Rent per RSF      Annual Fixed Rent     Monthly Fixed Rent
+        ----      ------------      -----------------     ------------------
+        <S>       <C>               <C>                   <C>
+          1          $18.00            $40,770.00             $3,397.50
+          2          $18.50            $41,902.50             $3,491.88
+          3          $19.00            $43,035.00             $3,586.25
+</TABLE>
+
+(For the purposes of Rent calculations, Year 1 shall begin on the Fixed Rent
+Commencement Date).
+
+        8. Late Charge: Four percent (4%) of the amount of the payment due.
+
+        9. Tenant's Proportionate Share of Excess Expenses: One and sixty-three
+one-hundredths percent (1.63%) of the amount by which Expenses during any Lease
+Year exceed Base Year Expenses. Such percentage is arrived at by dividing the
+Gross Rentable Area of the Demised Premises by (ii) the Gross Rentable Area of
+the Building (which for the purposes of this Lease is agreed to be 139,044
+square feet).
+
+        10. Base Year: Calendar Year 2002
+
+        ll. Security Deposit: $0.00
+
+        12. Tenant's S.I.C. Code and Address for Environmental Information (as
+per most recent S.I.C. Manual as published by the United States Office of
+Management & Budget):_______________.
+
+<PAGE>
+
+        13. Designated Brokers: Cushman & Wakefield of Pennsylvania.
+
+        14. Landlord's Work: in accordance with EXHIBIT B attached hereto and
+made a part hereof.
+
+The parties hereby agree to the following terms and conditions:
+
+        1. Premises, Term and Purpose.
+
+               (a) Landlord does hereby lease to Tenant, and Tenant does hereby
+lease from Landlord, the Demised Premises located in the Building for the term
+commencing on the "Commencement Date" and ending on the Expiration Date, or such
+earlier date upon which the term may expire or be terminated pursuant to the
+provisions of this Lease or pursuant to Law (as defined below). The parcel of
+land on which the Building is located is hereinafter called the "Land" and is
+more particularly described on Exhibit A-1 annexed hereto and made a part
+hereof.
+
+               (b) The Demised Premises shall be used by Tenant for the
+Permitted Use and for no other use or purpose. Tenant shall not use or occupy
+the Demised Premises or any part thereof, for any purpose deemed unlawful,
+disreputable, or extra-hazardous on account of fire or other casualty, or for
+any purposes which shall impair the character of the Building. Tenant, at its
+sole cost and expense shall obtain any consents, licenses, permits or approvals
+required to conduct its business at the Demised Premises.
+
+               (c) The "Common Areas" of the Building shall be those parts of
+the Building and other improvements designated by Landlord from time to time for
+the common use of all tenants, including among other facilities, halls, lobbies,
+delivery passages, drinking fountains, public toilets, and the like, and all
+garages, parking lots, service buildings or similar improvements operated, owned
+or maintained, in whole or in part, by Landlord, and all parkways, drives,
+greenspaces, parks, fountains or other facilities owned, operated or maintained,
+in whole or in part, by Landlord, or otherwise made available by Landlord for
+use by all tenants of the Building, whether used in conjunction with the use of
+such space by the occupants of other buildings or used exclusively by tenants of
+the Building, all of which facilities shall be subject to Landlord's reasonable
+management and control and shall be operated and maintained for the benefit of
+all tenants in a first class manner. Tenant, and its employees and invitees,
+shall have the non-exclusive right to use the Common Areas, such use to be in
+common with Landlord, other tenants of the Building and other persons entitled
+to use the same.
+
+               (d) Notwithstanding any provision to the contrary contained
+herein, Landlord has the right, either prior to the Commencement Date or at any
+time during the term of this Lease, to relocate Tenant to comparable space
+located in the Building on at least sixty (60) days prior written notice to
+Tenant. In the event that Tenant is so relocated, Landlord will pay all of the
+expenses of preparing and decorating the new premises so that the new premises
+will be substantially similar to the Premises, the expense of moving Tenant's
+furniture and equipment, telephone service and signs to the relocated premises
+and the cost of changing Tenant's letterhead to reflect Tenant's new address. In
+the event of such relocation, Landlord and Tenant shall enter into an agreement
+supplementing this Lease which supplemental agreement shall amend the definition
+of "Demised Premises" as used in this Lease to reflect the space in which Tenant
+is relocated. All other provisions of this Lease shall remain in full force and
+effect.
+
+               (e) If Landlord is unable to perform the Landlord's Work (as
+defined below) or deliver possession of any portion of the Demised Premises
+because of the holding over or retention of possession by the current occupants
+or for any other reason whatsoever, Landlord shall not be subject to any
+liability for failure to perform the Landlord's Work or deliver possession and
+the validity of this Lease shall not be impaired under such circumstances.
+Promptly after the occurrence of the Commencement Date, the parties shall enter
+into a written agreement confirming such date.
+
+
+
+                                      -2-
+<PAGE>
+
+        2. Rent.
+
+        To the extent provided herein the rent payable by Tenant pursuant to
+this Lease is intended to be absolutely net to Landlord, and all other charges
+and expenses imposed upon the Demised Premises incurred in connection with its
+use, occupancy, care, maintenance, operation and control shall be paid by
+Tenant, except as otherwise expressly provided herein.
+
+               (a) The rent reserved under this Lease for the Term hereof shall
+be and consist of (a) the Fixed Rent payable in equal monthly installments in
+advance to be paid on the first day of each and every calendar month during the
+Term (except that Tenant shall pay the first monthly installment upon signing
+this Lease); plus (b) such additional rent ("Additional Rent") in an amount
+equal to Tenant's Proportionate Share of Excess Expenses (as such terms are
+defined in Paragraph 3 of this Lease) and all separate charges for services and
+utilities expressly provided in Paragraph 15 hereof, and any other charges as
+shall become due and payable hereunder, which Additional Rent shall be payable
+as hereinafter provided, all to be paid to Landlord at its office stated above,
+or such other place as Landlord may designate, in lawful money of the United
+States of America; provided, however, that if the Fixed Rent Commencement Date
+shall occur on a date other than the first calendar day of a month, the rent for
+the partial month commencing on the Fixed Rent Commencement Date shall be
+appropriately pro-rated on the basis of the monthly rent payable during the
+first year of the Term.
+
+               (b) Tenant does hereby covenant and agree promptly to pay the
+Fixed Rent, Additional Rent and any other charges herein reserved as and when
+the same shall become due and payable, without demand therefor, and without any
+set-off or deduction whatsoever. All Additional Rent and other charges payable
+hereunder, which are not due and payable on a monthly basis during the Term,
+unless otherwise specified herein, shall be due and payable within twenty (20)
+days of delivery by Landlord to Tenant of notice to pay the same.
+
+               (c) In the event that any payment of Fixed Rent, Additional Rent
+or any other charges shall be paid after the due date for same provided herein,
+Tenant shall pay, together with such payment, the Late Charge. In addition, such
+unpaid amount shall bear interest until paid beginning on the due date at the
+lesser of the prime rate established by First Union National Bank or its
+successors plus five percent (5%) per annum or the maximum rate permitted by
+law.
+
+        3. Operating Expenses.
+
+               (a) For purposes of this Paragraph, the following definitions
+shall apply:
+
+                      "Base Year Expenses" shall mean the actual Expenses (as
+defined in this Paragraph 3) incurred during the Base Year and, if the Building
+is less than ninety-five percent (95%) occupied at any time during the Base
+Year, such expenses shall be adjusted to the extent necessary to reflect
+ninety-five percent (95%) occupancy throughout such twelve (12) month period.
+
+                      "Lease Year" shall mean each calendar year (or portion
+thereof) occurring during the Term.
+
+                      "Real Estate Taxes" shall mean all taxes, assessments,
+general and special, ordinary as well as extraordinary, charges (including, but
+not limited to, water and sewer rents and charges), levies, impositions and
+payments wholly or partly in lieu thereof however denominated, now or hereafter
+in effect, which are or may be imposed upon or made liens upon the Land, the
+Building and other real property included with or located upon the Land. If, due
+to a change in the method of taxation or assessment, any franchise, income,
+profit, gross receipts or other tax, however designated, shall be substituted by
+the applicable taxing authority in whole or in part, for the Real Estate Taxes
+now or hereafter imposed on the Land, the Building or other real property
+included in the Land, such franchise, income, profit, gross receipts or other
+tax shall be deemed to be included in the term "Real Estate Taxes."
+
+
+
+                                      -3-
+<PAGE>
+
+                      "Expenses" shall mean (i) Real Estate Taxes and (ii) the
+total of all the costs and expenses paid or incurred by Landlord with respect to
+the management, operation, maintenance, and repair of the Building and the Land
+and the services provided tenants therein (excepting electrical energy expenses
+paid directly by tenants (including Tenant) pursuant to Paragraph 15 of this
+Lease and equivalent provisions of other leases) including, but not limited to,
+the cost and expenses incurred for and with respect to: all utilities, including
+without limitation, water, electricity, gas, lighting, sewer and waste disposal;
+air conditioning, ventilation and heating (subject to the deduction hereinafter
+described); lobby maintenance and cleaning; elevators; protection and security
+(to the extent provided by Landlord without any obligation to do so); lobby
+decoration and interior and exterior landscape and garden maintenance and
+cleaning; snow removal, parking lot maintenance, boardwalk maintenance and
+cleaning, costs of maintaining easements areas granted to governmental bodies;
+all repairs, replacements and improvements which are appropriate for the
+continued operation of the Building in a first-class manner; maintenance and
+painting or other floor and wall covering of non-tenant areas; fire, all risk
+coverage, boiler and machinery, sprinkler, apparatus, public liability and
+property damages, rental and plate glass insurance and any insurance required by
+a mortgagee; supplies; wages, salaries, disability benefits, pensions,
+hospitalization, retirement plans, group insurance, and other employee benefits
+respecting employees of the Landlord and/or its management company up to and
+including the Building manager; uniforms and working clothes for such employees
+and the cleaning thereof; expenses imposed on the Landlord and/or its management
+company pursuant to law or to any collective bargaining agreement with respect
+to such employees; workmen's compensation insurance, payroll, social security,
+unemployment and other similar taxes with respect to such employees; the cost
+for a bookkeeper and for an accountant; the cost of office management space;
+professional and consulting fees; legal and auditing fees; association fees or
+dues; the expenses, including payments to attorneys and appraisers, incurred by
+Landlord in connection with any application or proceeding wherein Landlord
+obtains or seeks to obtain reduction or refund of the Real Estate Taxes payable
+or paid upon or against the Building; costs incurred by Landlord of compliance
+with any governmental law, rule or regulation enacted after the date of this
+Lease, management fees of the Building and any other expenses of any other kind
+whatsoever reasonably incurred in managing, operating, maintaining and repairing
+the Building and the Land. If the Building is less than ninety-five percent
+(95%) occupied at any time during any Lease Year, such expenses shall be
+adjusted to the extent necessary to reflect ninety-five percent (95%) occupancy
+throughout such twelve (12) month period.
+
+                      It is agreed, however, that the foregoing costs and
+expenses shall exclude or have deducted from them, as the case may be and as
+shall be appropriate:
+
+                      (i) leasing commissions;
+
+                      (ii) salaries for executives above the grade of Building
+manager;
+
+                      (iii) Building start-up or opening expenses;
+
+                      (iv) expenditures for capital improvements except those
+which under generally applied real estate practice are expensed or regarded as
+deferred expenses and except for capital expenditures required by law in any of
+which cases the cost thereof shall be included in Expenses for the calendar year
+in which the costs are incurred and subsequent calendar years, on a straight
+line basis amortized over an appropriate period not exceeding ten years, with an
+interest factor equal to the prime commercial lending rate publicly announced by
+First Union National Bank, Philadelphia, PA or its successor, as its "prime
+rate" (hereinafter referred to as the "Prime Rate") or such higher rate if
+Landlord borrows funds at such higher rate, at the time of Landlord's having
+actually incurred said expenditure;
+
+                      (v) amounts received by Landlord through proceeds of
+insurance to the extent the proceeds are compensation for expenses which were
+previously included in expenses hereunder;
+
+
+
+                                      -4-
+<PAGE>
+
+                      (vi) cost of repairs or replacements incurred by reason of
+fire or other casualty, to the extent which Landlord is compensated therefor
+through proceeds of insurance, or caused by the exercise of the right of eminent
+domain;
+
+                      (vii) advertising, and promotional expenditures;
+
+                      (viii) legal fees for disputes with tenants and legal and
+auditing fees, other than legal and auditing fees reasonably incurred in
+connection with maintenance and operation of the Building or in connection with
+the preparation of statements required pursuant to additional rent or lease
+escalation provisions;
+
+                      If Landlord shall purchase any item of capital equipment
+or make any capital expenditure designed to result in savings or reductions in
+Expenses then the costs for same shall be included in Expenses. The costs of
+such capital equipment or capital expenditures are to be included in Expenses
+for the calendar year in which the costs are incurred and subsequent calendar
+years, on a straight line basis amortized over such period of time as reasonably
+can be estimated as the time in which such savings or reductions in Expenses are
+expected to equal Landlord's costs for such capital equipment or capital
+expenditure, with an interest factor equal to the Prime Rate, or such higher
+rate if Landlord borrows funds at such higher rate, at the time of Landlord's
+having actually incurred said costs. If Landlord shall lease any such item of
+capital equipment designed to result in savings or reductions in Expenses, then
+the rentals and other costs paid pursuant to leasing shall be included in
+Expenses for the calendar year in which they were incurred.
+
+                      If during all or part of any calendar year, Landlord shall
+not furnish any particular item(s) of work or service (which would constitute an
+expense hereunder) to portions of the Building, due to the fact that
+construction of the Building is not completed, or such portions are not occupied
+or leased or because such item of work or service is not required or desired by
+the tenant of such portion, or such tenant is itself obtaining and providing
+such item of work or service, or for other reasons, for the purposes of
+computing the Additional Rent payable hereunder, the amount of the Expenses for
+such item for such period shall be increased by an amount equal to the
+additional operating and maintenance expenses which would reasonably have been
+incurred during such period by Landlord if it had at its own expense furnished
+such item of work or service to such portion of the Building.
+
+                      In the event that any facilities, services or utilities
+used in connection with the Building are provided from another office building
+owned or operated by Landlord, or vice versa, the cost incurred by Landlord in
+connection with such facilities, services or utilities shall be allocated
+between the Buildings on an equitable basis reasonably determined by Landlord.
+
+               (b) In the event (i) that the Commencement Date shall occur on a
+day other than the first day of a calendar year, (ii) that the date of the
+expiration or other termination of this Lease shall be a day other than the last
+day of a calendar year, or (iii) of any increase or decrease (as herein
+provided) in the Area of the Demised Premises or in the Gross Rentable Area of
+the Building, then in each such event in applying the provisions of this Article
+3 with respect to any calendar year in which such event shall have occurred,
+appropriate adjustments shall be made to reflect the occurrence of such event on
+a basis consistent with the principles underlying the provisions of this Article
+3, taking into consideration the portion of such calendar year which shall have
+elapsed prior to the Commencement Date, the date of such expiration or other
+termination or the date of such increase or decrease.
+
+               (c) Tenant shall be responsible for Tenant's Proportionate Share
+of Excess Expenses during the Term as herein provided.
+
+                             (1) For each Lease Year, or part thereof, Landlord
+shall send to Tenant a statement of projected excess expenses, for the
+applicable Lease Year (or portion thereof) over the Base Year Expenses
+("Projected Excess Expenses") and shall indicate what the estimated amount of
+Tenant's Proportionate Share of Excess Expenses shall be, said amounts to be
+paid in equal monthly installments (rounded to the nearest whole dollar) in
+advance on the
+
+
+
+                                      -5-
+<PAGE>
+
+first day of each month by Tenant as Additional Rent, commencing on the first
+anniversary of the Commencement Date.
+
+                             (2) Following the end of each Lease Year, Landlord
+shall send to Tenant a statement of actual Expenses incurred for the prior Lease
+Year showing Tenant's Proportionate Share of Excess Expenses due from Tenant,
+and, in the case of the first Lease Year, a statement showing actual Base Year
+Expenses. In the event the amount prepaid by Tenant exceeds the amount that was
+actually due based upon actual year end cost, then Landlord shall credit an
+amount equal to the overcharge to the payment or payments of Additional Rent
+next coming due hereunder. In the event Landlord has undercharged Tenant then
+Landlord shall provide Tenant with an invoice stating the additional amount due,
+which amount shall be paid in full by Tenant within twenty (20) days of receipt.
+Provided that Tenant shall have paid Tenant's Proportionate Share of Excess
+Expenses, as billed by Landlord, in full for any Lease Year, Tenant shall have
+the right to audit the calculation of Tenant's Proportionate Share of Excess
+Expenses for such Lease Year within sixty (60) days after Tenant's receipt of
+the statement described in this Subparagraph (2) from Landlord with respect to
+such Lease Year. Such audit shall be conducted at Landlord's offices during
+regular business hours and upon at least five (5) business days' notice to
+Landlord. Tenant acknowledges and agrees that upon the termination or sooner
+expiration of this Lease Tenant shall remain liable for Tenant's Proportionate
+Share of Excess Expenses notwithstanding the fact that the statement described
+in this Subparagraph (2) from Landlord with respect to such Lease Year is
+delivered after the termination or sooner expiration of this Lease.
+
+               (d) Each and every of the amounts payable by Tenant pursuant to
+Subparagraphs 3(c)(1) and 3(c)(2) above, whether requiring lump sum payment or
+constituting projected monthly amounts, shall for all purposes be treated and
+considered as Additional Rent and the failure of Tenant to pay the same as and
+when due in advance and without demand shall have the same effect as failure to
+pay any installment of the Fixed Rent and shall afford Landlord all the remedies
+provided in this Lease therefor, including, without limitation, the Late Charge
+as provided in Paragraph 2(c) of this Lease.
+
+               (e) Tenant acknowledges and agrees that Landlord shall have the
+right to change the period of the Lease Year, either before or during the Term,
+to any other fiscal year or twelve month period. In the event Landlord makes
+such change, then the same shall be effective upon written notice to Tenant and,
+in such event, Tenant shall pay Tenant's Proportionate Share of Excess Expenses
+for the period from the end of the initially designated Lease Year, as last
+billed, to the beginning of the newly designated Lease Year, prorated for such
+period, within twenty (20) days of the rendering by Landlord of the bill for
+such interim period.
+
+        4. Completion of Improvements and Commencement of Rent.
+
+               (a) Landlord agrees to construct the improvements and other work
+in and to the Demised Premises in accordance with Exhibit B attached hereto and
+made a part hereof (the "Landlord's Work"). If Tenant requests any changes to
+Exhibit B, Tenant shall bear any additional construction or other expense to
+Landlord caused directly or indirectly by any change requested by Tenant. Tenant
+shall pay Landlord for any such expense within fifteen (15) days after request
+for payment by Landlord.
+
+               (b) The Demised Premises to be delivered on the Commencement Date
+shall be deemed ready for occupancy and the Commencement Date hereunder shall
+occur on such date that (a) the Demised Premises shall be delivered to Tenant in
+tenantable condition, free of violations of any health, safety, fire and other
+statutes and regulations governing the Demised Premises and its use, all of
+which shall be established by issuance of a certificate (temporary or final) by
+appropriate governmental authority, permitting occupancy of the Demised Premises
+for the purposes set forth herein; and (b) Landlord has substantially completed
+the Landlord's Work (and Landlord shall be deemed to have substantially
+completed the Landlord's Work notwithstanding that minor or insubstantial
+details of construction, mechanical adjustment or decoration remain to be
+performed in the Demised Premises or any part thereof, the non-completion of
+which does not materially interfere with Tenant's use of the Demised Premises).
+
+
+
+                                      -6-
+<PAGE>
+
+If the occurrence of any of the conditions listed in the preceding sentence, and
+thereby the making of the Demised Premises ready for occupancy, shall be delayed
+due to: (i) any act by Tenant or any of its employees, agents or contractors,
+which materially interferes with the completion of Tenant's improvements, or
+(ii) any additional time required for the completion of the Landlord's Work
+because of the inclusion therein, at Tenant's request, of any item of work not
+included in Exhibit B; then the Commencement Date shall not be delayed by any
+day of such Tenant delay. In the event any such delay shall be asserted by
+Landlord, Landlord shall notify Tenant of the same, which notice shall include
+the number of delay days.
+
+               (c) Tenant shall occupy the Demised Premises as soon as the same
+are ready for its occupancy and the Commencement Date shall have occurred (but
+not prior to said date except for purpose of installing of Tenant's personal
+property or otherwise with the express consent of Landlord as provided herein).
+If and when Tenant shall take actual possession of the Demised Premises, it
+shall be conclusively presumed that the same are in satisfactory condition,
+except any items of work set forth on a "Punch List" to be submitted to and
+acknowledged by Landlord in writing within thirty (30) days after the
+Commencement Date.
+
+        5. Tenant Covenants As To Condition of Premises, and Compliance with
+Laws.
+
+               (a) In the event that the Building or any of the equipment
+affixed thereto or stored therein should be damaged as a result of any act of
+Tenant, its agents, servants, employees, invitees or contractors, Tenant shall,
+upon demand, pay to Landlord the cost of all required repairs, including
+structural repairs. Tenant shall commit no act of waste and shall take good care
+of the Demised Premises and the equipment affixed thereto and stored therein,
+shall maintain the Demised Premises in good condition and state of repair, and
+at the end or certain expiration of the Term hereof, shall deliver up the
+Demised Premises in good order and condition, wear and tear from a reasonable
+use thereof excepted, and, at Landlord's option, after the removal of those
+alterations, improvements or additions made by Tenant as Landlord shall
+designate in writing to Tenant and the restoration of the Demised Premises to
+its condition prior to the making of such removed alteration, improvement or
+addition. Landlord shall perform, or cause to be performed, all such maintenance
+and repairs and Tenant shall pay to Landlord the costs incurred therefor
+immediately upon demand as Additional Rent.
+
+               (b) Tenant, at Tenant's expense, shall promptly comply with all
+laws, rules, regulations and ordinances, of all governmental authorities or
+agencies having jurisdiction over the Demised Premises, and of all insurance
+bodies (including, without limitation, the Board of Fire Underwriters), at any
+time duly issued or in force, applicable to the Demised Premises or any part
+thereof or to Tenant's use thereof ("Laws").
+
+        6. Tenant Improvements, Alterations and Installations.
+
+               (a) All fixtures, equipment, improvements, alterations, and
+installations which are attached to the Demised Premises, and any additions and
+appurtenances made by Tenant to the Demised Premises shall become the property
+of Landlord upon installation. Not later than the last day of the Term, Tenant
+shall, at its expense, remove from the Demised Premises all of its personal
+property and such improvements as Landlord elects to have removed. Tenant, at
+its sole cost and expense, shall repair injury done by or in connection with the
+installation or removal of such improvements. The foregoing undertaking shall
+survive the termination or sooner expiration of the Lease and surrender of the
+Demised Premises. Any equipment, fixtures, goods or other property of Tenant,
+not removed by Tenant upon the termination of this Lease, or upon any quitting,
+vacating or abandonment of the Demised Premises by Tenant, or upon Tenant's
+eviction, shall be considered as abandoned and Landlord shall have the right,
+without any notice to Tenant, to sell or otherwise dispose of the same, at the
+expense of Tenant, and shall not be accountable to Tenant for any part of the
+proceeds of such sale, if any. Landlord may have any such property stored at
+Tenant's risk and expense.
+
+               (b) No structural alterations, installations, additions or
+improvements or nonstructural alterations that will adversely affect the
+plumbing, HVAC or electrical systems of the Demised Premises or the Building
+("Building Systems") or that are visible to the Common
+
+
+
+                                      -7-
+<PAGE>
+
+Area shall be made by Tenant without Landlord's express prior written approval,
+which Landlord shall grant or deny in its sole and absolute discretion. Tenant
+shall give Landlord prior written notice of any proposed alterations, additions
+or improvements (hereinafter collectively, with the initial construction of the
+Demised Premises, called "Alterations"). Tenant shall deliver to Landlord copies
+of proposed plans and as-built plans upon completion of Alterations. All
+Alterations shall be done at Tenant's sole expense and the making thereof shall
+not interfere with the use of the Building by other tenants or disturb
+harmonious labor relations with Landlord's employees, agents, contractors or
+subcontractors. In the event that Tenant, its employees, agents, contractors or
+subcontractors conflict or interfere with labor employed by Landlord, its
+employees, agents, contractors or subcontractors, or in the event that any work
+stoppage, jurisdictional labor dispute or other interference with Landlord, its
+employees, agents, contractors or subcontractors occurs, of which Landlord shall
+be the sole and absolute judge, Landlord shall have the right to require Tenant,
+upon written demand, to remove or cause the removal forthwith of all Tenant's
+employees, agents, contractors and subcontractors from the Demised Premises, and
+Tenant agrees to comply with such demand immediately. In the event Tenant fails
+to comply with such demand immediately, and thereby causes a delay in the
+general construction program of the Building or the Land or the Landlord's Work,
+Tenant shall be deemed to be in default of this Lease entitling Landlord to all
+of its rights hereunder and at law. Tenant agrees to indemnify, defend and hold
+harmless Landlord from any and all costs, expenses, claims, causes of action,
+damages and liabilities of any type or nature whatsoever (including, but not
+limited to attorneys' fees and costs of litigation) arising out of or relating
+to the making of the Alterations by Tenant. Nothing herein contained shall be
+construed as constituting the permission of Landlord for a mechanic or
+subcontractor to file a lien claim against the Demised Premises and Tenant
+agrees immediately to secure the removal of any such lien which a contractor
+purports to file against said premises by payment or otherwise pursuant to law.
+All such Alterations shall be effected in compliance with all applicable laws,
+ordinances, rules and regulations of governmental bodies having or asserting
+jurisdiction over the Demised Premises.
+
+        7. Various Negative Covenants by Tenant.
+
+        Tenant agrees that it shall not, without Landlord's prior written
+consent:
+
+               (a) Do anything in or near the Demised Premises which will
+increase the rate of fire insurance on the Building;
+
+               (b) Permit the accumulation of waste or refuse matter in or near
+the Demised Premises except in containers provided therefor;
+
+               (c) Mortgage, hypothecate, pledge or encumber this Lease in whole
+or in part;
+
+               (d) Permit any signs, lettering or advertising matter to be
+erected or attached to the Demised Premises; or
+
+               (e) Encumber or obstruct the Common Areas surrounding the Demised
+Premises nor cause same to be encumbered or obstructed, nor encumber or obstruct
+any access ways to the Demised Premises, nor cause same to be encumbered or
+obstructed.
+
+        8. Various Affirmative Covenants of Tenant.
+
+        Tenant covenants and agrees that Tenant will:
+
+               (a) At any time and from time to time, execute, acknowledge and
+deliver to Landlord, or to anyone Landlord shall designate, a tenant estoppel
+certificate in a form reasonably acceptable to Landlord or financial
+institutions requesting the same relating to matters customarily included in
+tenant estoppel certificates within fifteen (15) days of receipt of Landlord's
+request accompanied by such certificate.
+
+
+
+                                      -8-
+<PAGE>
+
+               (b) Faithfully observe and comply with the rules and regulations
+annexed hereto and made a part hereof as Exhibit C and such additional rules and
+regulations as Landlord hereafter at any time or from time to time may
+communicate in writing to Tenant, and which in the reasonable judgment of
+Landlord, shall be necessary or desirable for the reputation, safety, care or
+appearance of the Building, or the preservation of good order therein, or the
+operation or maintenance of the Building, or the equipment thereof, or the
+comfort of tenants or others in the Building; provided, however, that in the
+case of any conflict between the provisions of this Lease and any such rule or
+regulation, the provisions of this Lease shall control. Nothing contained in
+this Lease shall be construed to impose upon Landlord any duty or obligation to
+enforce the rules and regulations or the terms, covenants or conditions in any
+other lease as against any other tenant, and Landlord shall not be liable to
+Tenant for violation of any rule or regulation by any other tenant, its
+employees, agents, visitors, invitees, subtenants or licensees.
+
+        9. Building Directory and Signage.
+
+        Tenant shall not affix any sign to the Building or place any sign so
+that it can be seen from outside of the Building or the Demised Premises, except
+that Tenant shall be entitled to place a sign on its entranceway if such sign
+complies with the sign criteria delivered by Landlord to Tenant or is approved
+by Landlord. Landlord will, at the request of Tenant, maintain listings on the
+directory located within the Building of the names of Tenant and any other firm,
+association or corporation in occupancy of the Demised Premises or any part
+thereof as permitted hereunder. Landlord shall not be required to list the names
+of any individuals on said Building directory.
+
+        10. Casualty and Insurance.
+
+               (a) In the event of partial or total destruction of the Building
+or the Demised Premises by reason of fire or any other cause, Tenant shall
+immediately notify Landlord of same and Landlord shall promptly restore and
+rebuild the Building or the Demised Premises at Landlord's expense (but only to
+the extent of the insurance proceeds covering such damage) unless Landlord
+elects by notice to Tenant within ninety (90) days of said destruction not to
+restore and rebuild the Demised Premises, and, in such case, this Lease shall
+terminate. If Landlord elects to restore and rebuild the Demised Premises, then
+during the period of restoration of any such area, and, if any portion of
+Demised Premises are rendered untenantable by said damage, Tenant shall be
+relieved of the obligation to pay that portion of the rent herein reserved which
+relates to said untenantable area.
+
+               (b) Tenant shall, at Tenant's sole cost and expense, but, except
+to the extent prohibited by law with respect to workmen's compensation
+insurance, for the mutual benefit of Landlord and Tenant and any Additional
+Insured (as hereinafter defined) or any other additional insured as Landlord may
+from time to time determine including the lessors under any ground leases or
+underlying leases and any mortgagees, maintain or cause to be maintained (a)
+commercial general liability insurance, including but not limited to, premises,
+bodily injury, personal injury and contractual liability, coverages for any and
+all injury resulting from any act or omission on the part of Tenant or Tenant's
+contractor's, licensees, agents, visitors or employees, on or about the Demised
+Premises including such claims arising out of the construction of improvements
+on the Demised Premises, such insurance to afford protection to the limit of not
+less than Five Million Dollars ($5,000,000.00) single limit; (b) workmen's
+compensation insurance covering all persons employed in connection with the
+construction of any improvements by Tenant and the operation of its business
+upon the Demised Premises and (c) "all risk" coverage on all of Tenant's
+personal property, including, but not limited to, standard fire and extended
+coverage insurance with vandalism and malicious mischief endorsements on all
+Tenant's improvements and alterations in or about the Demised Premises, to the
+extent of their full replacement value. In the event Landlord, at any time
+during the Term of the Lease, reasonably determines that Tenant's insurance
+coverage is inadequate, based upon the coverages being required by landlords of
+comparable buildings in the general geographic area of the Building, Landlord
+shall have the right to require Tenant to increase its insurance coverage. All
+such insurance shall, to the extent permitted by law, name Landlord, and BR
+Management Corporation, and their successors and assigns as additional insureds
+(the "Additional Insureds")
+
+
+
+                                      -9-
+<PAGE>
+and shall be written by a good and solvent insurance carrier authorized to do
+business in the State of New Jersey. Any of the foregoing Additional Insureds
+may be changed at any time notice is given as provided in Paragraph 18 herein.
+Landlord makes no representation that the limits of liability specified to be
+carried by Tenant pursuant to this Paragraph 10 are adequate to protect Tenant.
+If Tenant believes that any of such insurance coverage is inadequate, Tenant
+will obtain such additional insurance coverage as Tenant deems adequate, at
+Tenant's sole expense.
+
+               (c) Prior to the Commencement Date, and at least thirty (30) days
+prior to the expiration date of any policy, Tenant shall furnish evidence of
+such insurance and payment of premiums thereon to Landlord. Such insurance shall
+be in form satisfactory to Landlord and without limitation, shall provide that
+no cancellation or lapse thereof or change therein shall be effective until
+after thirty (30) days' written notice to Landlord at the address specified in
+Paragraph 18 of this Lease. Tenant waives all rights of recovery against
+Landlord and the Additional Insureds for any loss, damages, or injury of any
+nature whatsoever to property or persons for which the Tenant is insured.
+
+               (d) During the Term of this Lease, Tenant shall maintain in
+effect in each insurance policy required under this Lease that relates to
+property damage a waiver of subrogation in favor of Landlord and the Additional
+Insureds from its then-current insurance carriers, and shall at all times
+furnish evidence of such currently effective waiver to Landlord. Such waiver
+shall be in a form reasonably satisfactory to the Landlord and without
+limitation, shall provide that no cancellation or lapse thereof or change
+therein shall be effective until after thirty (30) days' written notice to
+Landlord at the address, specified in Paragraph 18 of this Lease.
+
+               (e) Each insurance policy required to be maintained under this
+Lease shall state that with respect to the interest of Landlord and the
+Additional Insureds the insurance maintained pursuant to each such policy shall
+not be invalidated by any action or inaction of Tenant and shall insure Landlord
+and the Additional Insureds regardless of any breach or violation of any
+warranties, declarations, conditions or exclusions by Tenant.
+
+               (f) Each insurance policy required to be maintained under this
+Lease shall state that all provisions of each such insurance policy, except for
+the limits of liability, shall operate in the same manner as if a separate
+policy had been issued to each person or entity insured thereunder.
+
+               (g) Each insurance policy required to be maintained under this
+Lease shall state that the insurance provided thereunder is primary insurance
+without any right of contribution from any other insurance which may be carried
+by or for the benefit of Landlord and the Additional Insureds.
+
+               (h) Each insurance policy required to be maintained under this
+Lease shall recognize the indemnification set forth in Paragraph 11 of this
+Lease.
+
+               (i) Failure of Tenant to maintain any of the insurance required
+under this Lease or to cause to be provided in any insurance policy the
+requirements set forth in this Paragraph 10, shall constitute a default under
+this Lease without any notice being required by Landlord.
+
+        11. Indemnification.
+
+        Tenant shall indemnify, defend and hold harmless Landlord, the
+Additional Insureds, any mortgagee, and any lessor under any underlying leases
+or ground leases, from and against any expense (including, without limitation,
+legal and collection fees), loss, liability or consequential damages suffered or
+incurred as a result of or in connection with (i) any breach by Tenant of its
+obligations contained in this Lease or (ii) its acts or the acts of its agents,
+servants, invitees, contractors or employees.
+
+
+
+                                      -10-
+<PAGE>
+
+        12. Non-Liability of Landlord.
+
+        Except to the extent caused by Landlord's negligence or willful
+misconduct, Landlord shall not be liable for (and Tenant shall make no claim
+for) any property damage which may be sustained by Tenant or any other person
+(a) as a consequence of the failure, breakage, leakage, inadequacy, defect or
+obstruction of the water, plumbing, steam, sewer, waste or soil pipes, roof,
+drains, leaders, gutters, valleys, downspouts, or the like or of the electrical,
+gas, power, conveyor, refrigeration, sprinkler, air conditioning or heating
+systems, elevators or hoisting equipment; (b) by reason of the elements; (c)
+resulting from the carelessness, negligence or improper conduct on the part of
+any other tenant of Landlord or any other tenant's agents, employees, guests,
+licensees, invitees, subtenants, assignees or successors; or (d) attributable to
+any interference with, interruption of, or failure of, any services or utilities
+to be furnished or supplied by Landlord. Tenant shall give Landlord prompt
+written notice of the occurrence of any events set forth in this Paragraph 12.
+
+        13. Remedies and Termination Upon Tenant Default.
+
+               (a) In the event that:
+
+                      (1) Tenant shall default in the payment of (i) any Fixed
+Rent or (ii) any Additional Rent or other charge payable monthly hereunder by
+Tenant to Landlord, on any date upon which the same becomes due, and such
+default shall continue for five (5) days after the same becomes due; or
+
+                      (2) Tenant shall default in the payment of any Additional
+Rent or any other charge payable hereunder which is not due and payable
+hereunder on a monthly basis, on any date upon which the same becomes due, and
+such default shall continue for five (5) days after Landlord shall have given to
+Tenant a written notice specifying such default; or
+
+                      (3) Tenant shall default in the due keeping, observing or
+performing of any covenant, agreement, term, provision or condition of Paragraph
+1(b) of this Lease on the part of Tenant to be kept, observed or performed, and
+if such default shall continue and shall not be remedied by Tenant within 24
+hours after Landlord shall have given to Tenant a written notice specifying the
+same; or
+
+                      (4) If during the Term hereof the Demised Premises or any
+part thereof shall be or become abandoned or deserted, vacated or vacant; or
+
+                      (5) Tenant shall default in the due keeping, observing or
+performing of any other covenant, agreement, term, provision or condition of
+this Lease on the part of Tenant to be kept, observed or performed, and if such
+default shall continue and shall not be remedied by Tenant within fifteen (15)
+days after Landlord shall have given to Tenant a written notice specifying the
+same; or
+
+                      (6) Should Tenant be evicted by summary proceedings or
+otherwise;
+
+then, Landlord may, in addition to any other remedies herein contained, as may
+be permitted by law, without being liable for prosecution therefor, or for
+damages, re-enter the Demised Premises and the same have and again possess and
+enjoy; and as agent for Tenant or otherwise, re-let the Demised Premises and
+receive the rents therefor and apply the same, first to the payment of such
+expenses, reasonable attorney fees and costs, as Landlord may have been put to
+in re-entering and repossessing the same and in making such repairs and
+alterations as may be necessary; and second to the payment of the rents due
+hereunder. Tenant shall remain liable for such rents as may be in arrears and
+also the rents as may accrue subsequent to the re-entry by Landlord, to the
+extent of the difference between the rents reserved hereunder and the rents, if
+any, received by Landlord during the remainder of the unexpired Term hereof,
+after deducting the aforementioned expenses, fees and costs; the same to be paid
+as such deficiencies arise and are ascertained each month. Landlord, at its
+option, may require Tenant to pay in a single lump sum payment at the
+
+
+
+                                      -11-
+<PAGE>
+
+time of such expiration or re-entry as the case may be, a sum which represents
+the present value (using a discount rate of 4% per annum) of the excess of the
+aggregate of the Fixed Rent which would have been payable by Tenant for the
+period commencing with such expiration or re-entry, as the case may be, and
+ending on the originally fixed Expiration Date of the Term, over the aggregate
+rental value of the Demised Premises for the same period.
+
+               (b) Upon the occurrence of any of the contingencies set forth in
+the preceding clause, or should Tenant be adjudicated a bankrupt, insolvent or
+placed in receivership, or should proceedings be instituted by or against Tenant
+for bankruptcy, insolvency, receivership, agreement of composition or assignment
+for the benefit of creditors, or if this Lease or the estate of Tenant hereunder
+shall pass to another by virtue of any court proceedings, writ of execution,
+levy, sale, or by operation of law, Landlord may, if Landlord so elects, at any
+time thereafter, terminate this Lease and the Term hereof, upon giving to Tenant
+or to any trustee, receiver, assignee or other person in charge of or acting as
+custodian of the assets or property of Tenant, five (5) days notice in writing,
+of Landlord's intention so to do. Upon the giving of such notice, this Lease and
+the Term hereof shall end on the date fixed in such notice as if the said date
+was the date originally fixed in this Lease for the expiration hereof; and
+Landlord shall have the right to remove all person, goods, fixture and chattels
+therefrom, by force or otherwise without liability for damages.
+
+        14. Remedies Cumulative; Non-Waiver By Landlord.
+
+        The various rights, remedies, options and elections of Landlord,
+expressed herein, are cumulative, and the failure of Landlord to enforce strict
+performance by Tenant of the conditions and covenants of this Agreement to
+exercise any election or option or to resort or have recourse to any remedy
+herein conferred or the acceptance by Landlord of any installment of rent after
+any breach by Tenant, in any one or more instances, shall not be construed or
+deemed to be a waiver or a relinquishment for the future by Landlord of any such
+conditions and covenants, options, elections or remedies, but the same shall
+continue in full force and effect. Tenant waives trial by jury in any action or
+proceeding arising out of this Lease.
+
+        15. Services; Electric Enemy.
+
+               (a) Landlord will: (i) supply heat for the warming of the Demised
+Premises and the public portions of the Building during Business Hours in the
+cold season; (ii) furnish to, and distribute in, the Demised Premises air
+conditioning during Business Hours when it may be required for the comfortable
+occupancy of the Demised Premises by Tenant; (iii) provide snow and ice removal
+or treatment for the parking area, sidewalks and driveways in a reasonably
+expeditious manner; and (iv) provide refuse removal from a dumpster to be
+provided on site to be used for normal paper waste attendant to an office
+building. "Business Hours" as used in this Lease, means 8:00 A.M. to 6:00 P.M.
+on weekdays, 8:00 A.M. to 2:00 P.M. on Saturdays, and not including Sundays and
+those legal holidays listed in Exhibit D annexed hereto and made a part hereof.
+Tenant agrees at all times to cooperate fully with Landlord and to abide by all
+the regulations and requirements which Landlord may prescribe for the proper
+functioning and protection of such air conditioning system. Landlord will clean
+the Demised Premises in accordance with the cleaning schedule annexed hereto as
+Exhibit E. The cost of the services and utilities provided pursuant to this
+Paragraph 15(a) is included in Expenses as defined in Paragraph 3(a).
+
+               (b) Provided Tenant is not then in default of this Lease,
+Landlord will provide to Tenant overtime services and utilities when and to the
+extent reasonably requested by Tenant in accordance with such reasonable
+conditions as shall be determined by Landlord. If Tenant shall utilize Building
+HVAC after Business Hours, Tenant shall pay to Landlord, as Additional Rent, a
+charge that, at the time of the execution of this Lease is $75.00 per hour and
+which may be increased by Landlord from time to time upon written notice to
+Tenant for such additional service and utilities which charge shall cover all
+costs and expenses of Landlord in providing such overtime services, including,
+without limitation, the cost of the utility usage, the cost of maintenance,
+repairs and inspections of such building systems and employee and administrative
+
+
+
+                                      -12-
+<PAGE>
+
+costs related to such services. Such charge shall constitute a direct charge to
+Tenant and not an Expense pursuant to Paragraph 3.
+
+               (c) Landlord reserves the right, without liability to Tenant and
+without constituting any claim of constructive eviction, to stop or interrupt
+any heating, lighting, ventilating, air conditioning, gas, steam, power,
+electricity, water or other service and to stop or interrupt the use of any
+building or Building facilities at such times as may be necessary and for as
+long as may reasonably be required by reason of accidents, strikes, safety
+concerns or the making of repairs, alterations or improvements, or inability to
+secure a proper supply of fuel, gas, steam, water electricity, labor or
+supplies, or by reason of any other similar or dissimilar cause beyond the
+reasonable control of Landlord. No such stoppage or interruption shall entitle
+Tenant to any diminution or abatement of rent or other compensation nor shall
+this Lease or any of the obligations of Tenant be affected or reduced by reason
+of any such stoppage or interruption.
+
+               (d) Landlord shall install transmission facilities in the Demised
+Premises, so that electric energy may be used by Tenant in the Demised Premises
+in such reasonable quantity as shall be sufficient to meet Tenant's ordinary
+business needs for lighting and the operation of its business machines,
+including photocopy equipment and computer and data processing equipment. Tenant
+covenants and agrees that its electrical usage shall not exceed four (4) watts
+per square foot of floor area at any time (including any supplemental HVAC
+serving the Premises, but not including Building HVAC).
+
+               (e) In the event that Tenant shall require electric energy for
+use in the Demised Premises in excess of the quantity initially designed to be
+furnished as herein provided and if, in Landlord's judgment such excess
+requirements cannot be furnished unless additional risers, conduits, feeders,
+switchboards and/or appurtenances are installed in the Building, Landlord, upon
+written request of Tenant, will proceed with reasonable diligence to install
+such additional riser, conduits, feeders, switchboards and/or appurtenances
+provided the same and the use thereof shall be permitted by applicable laws and
+insurance regulations and shall not cause permanent damage or injury to the
+Building or the Demised Premises or cause or create a dangerous or hazardous
+condition or entail excessive or unreasonable alterations or repairs or
+interfere with or disrupt other tenants or occupants of the Building, and Tenant
+agrees to pay all reasonable costs and expenses incurred by Landlord in
+connection with such installation. Landlord reserves the right to separately
+meter or monitor the utility services provided to the Demised Premises and bill
+the charges directly to Tenant.
+
+               (f) In order that Landlord may at all times have all necessary
+information which it requires in order to maintain and protect its equipment,
+Tenant agrees that Tenant will not make any material alteration or material
+addition to the electrical equipment and/or appliances in the Demised Premises
+without the prior written consent of Landlord in each instance and will promptly
+advise Landlord of any other alteration or addition to such electrical equipment
+and/or appliances. Tenant agrees to advise Landlord in writing as to any
+material change in the periods of use of the lighting fixtures and Tenant's
+business machines and equipment. Tenant further acknowledges and agrees that
+Tenant shall not have the right to install additional connections to the
+Building electricity. Any such connections desired by Tenant shall be effected
+by Landlord at Tenant's sole cost and expense, and shall only be permitted to
+the extent such connections will not cause the Premises to exceed its permitted
+electrical capacity, or overload, damage or limit the electrical system of the
+Building.
+
+               (g) Commencing with the Commencement Date, the cost of furnishing
+electricity to Tenant shall be as estimated, subject, however, to all of the
+other provisions of this Paragraph. Initially, an estimate of $235.94 (the
+"Electric Charge") ($1.25 psf per annum X 2,265 square feet l 12) shall be
+charged to Tenant beginning on the Commencement Date as the monthly charge for
+Landlord's service of furnishing electricity to the Premises (such amount, as
+the same may be increased or thereafter adjusted (but in no event decreased
+below $1.25 psf) pursuant to any of the provisions of this Paragraph, being
+hereinafter referred to as the "Electric Factor") for use during Business Hours.
+At any time after the Commencement Date, Landlord may cause a survey to be
+prepared by a reputable, independent electrical consultant to be selected by
+Landlord, the cost of which survey shall be borne by Landlord. The purpose of
+said
+
+
+
+                                      -13-
+<PAGE>
+
+survey shall be to determine the appropriate charge to Tenant for electricity to
+be charged taking into account the full electric service including the estimated
+demand based upon the connected load necessary or useful for Tenant's operation
+of all equipment and lighting, including, without limitation, any additional
+hours in excess of Business Hours during which the Demised Premises are in use.
+Tenant acknowledges that any electrical usage relating to any supplemental air
+conditioning, heating and/or ventilation systems, regardless of when operated by
+Tenant, shall be payable as Additional Rent to Landlord, and as such shall be in
+addition to, and not be deemed part of, the original estimated Electric Charge.
+When the charge for the electricity has been so determined as a result of such
+survey, the Electric Charge shall be increased or thereafter adjusted (but in no
+event decreased below $1.25 psf) by the difference between the charge per annum
+determined by the survey and the estimated Electric Factor, effective as of the
+date of the survey. The Electric Factor shall, from time to time, be determined
+based on a rate equal to Landlord's cost (including any taxes included in or
+applicable to such rates) for supplying all electricity consumed at the Demised
+Premises, as determined by such surveys and/or readings, from time to time
+throughout the Term, of Tenant's check meter(s) (hereinafter "Checkmeter"). In
+the event a Checkmeter is installed (the necessity for which shall be determined
+by Landlord, at its sole discretion), the cost of same is to be borne by Tenant.
+In such event, Tenant shall, at its own cost and expense, be responsible for the
+maintenance, repair and replacement (if necessary) of said Checkmeter.
+
+               (h) If the public utility rate schedule for the supply of
+electric current to the Building shall be increased at any time after the date
+hereof, or if there shall be a change in taxes or if additional taxes shall be
+imposed upon the sale or furnishing of such electric current, or if there shall
+be a change in the space constituting the Demised Premises, or if Tenant's
+failure to maintain its machinery and equipment in good order and repair causes
+a consumption of electrical current in excess of four (4) watts per rentable
+square foot for Tenant's lights and plugs in the Demised Premises, the Electric
+Charge herein reserved shall be equitably adjusted to reflect the resulting
+increase but at no less than Landlord's cost therefor. If Landlord and Tenant
+cannot agree thereon, the amounts of such adjustments shall be determined based
+on standard practices, by an independent electrical engineer, to be selected by
+Landlord and paid equally by Landlord and Tenant. When the amounts of such
+adjustment are so determined, the parties shall execute an agreement
+supplementary hereto to reflect such adjustments in the amount of the annual
+Electric Charge stated in this Lease effective from the date of the increase
+(but not decrease) of such usage as determined by such electrical engineer, or
+as the case may be, from the effective date of such increase (but not decrease)
+in the public utility rate schedule; but such adjustments shall be effective
+from the Commencement Date or the date of the survey, whichever is applicable
+whether or not such a supplementary agreement is executed.
+
+               (i) Landlord reserves the right to discontinue furnishing
+electric energy for light and plugs to Tenant in the Demised Premises pursuant
+to Paragraph 15(d) of this Lease at any time upon ninety (90) days prior written
+notice to Tenant for Tenant to arrange to obtain electric service from a public
+utility company. If Landlord exercises such right of termination, this Lease
+shall continue in full force and effect and shall be unaffected thereby except
+only that, from and after the effective date of such termination, Landlord shall
+not be obligated to furnish electric energy to Tenant and the Electric Charge
+payable under this Paragraph shall be accordingly reduced by such amount then
+payable by Tenant under this Paragraph per annum. If Landlord so discontinues
+furnishing electric energy to Tenant, Tenant shall arrange to obtain electric
+energy directly from the public utility company furnishing electric service to
+the Building. Such electric energy may be furnished to Tenant by means of the
+then existing Building system feeders, risers and wiring to the extent that the
+same are available, suitable and safe for such purposes. All meters and
+additional panel boards, feeders, risers, wiring and other conductors and
+equipment which may be required to obtain electric energy directly from such
+public utility company shall be installed and maintained by Tenant, at its
+expense. At reasonable times during the Term, which times (except in the case of
+emergency) shall be arranged in advance with Landlord, Landlord shall provide
+Tenant with access to those portions of the Building as are necessary to make
+the installations necessary to provide electric energy to the Demised Premises.
+Landlord or its representatives may accompany Tenant whenever Tenant, its
+employees, agents or contractors enter the Building. Upon reasonable notice to
+Landlord and in
+
+
+
+                                      -14-
+<PAGE>
+
+accordance with terms and conditions of this Lease, Tenant may install, in
+locations approved by Landlord, such additional panel boards, feeders, risers,
+wiring and other conductors and equipment necessary to provide electric energy
+to the Demised Premises.
+
+               (j) Landlord shall have the right to procure periodic surveys
+made by an independent utility consultant selected by Landlord and if such
+utility consultant determines that there has been an increase in Tenant's use of
+electrical current in excess of four (4) watts per rentable square foot (in the
+aggregate, as provided for herein), then the provisions of Paragraph 15(h) shall
+be applicable in accordance with the terms thereof. In the event that either a
+survey by Landlord or a reading of the Checkmeter indicates that the Electric
+Charge then being paid by Tenant is not sufficient for Tenant's electrical
+usage, Landlord will forward to Tenant a statement showing that additional
+Electric Charges shall be due as a result of such comparison over the amount
+then payable, and thereafter, the monthly Electric Charge payable by Tenant
+shall be that charge indicated in the aforesaid Landlord's statement.
+
+               (k) If Tenant shall require electricity beyond Business Hours for
+purposes other than as specified in this Paragraph, the Electric Factor shall be
+adjusted to reflect the resulting increases in Landlord's cost in providing
+electricity to the Demised Premises, and the Electric Charge shall also be
+adjusted accordingly. Landlord represents that electricity shall be supplied to
+the Premises twenty-four (24) hours per day, seven (7) days per week in
+accordance with the terms and provisions of this Lease. Tenant has reviewed the
+electrical capacity available to the Demised Premises and represents to and for
+the benefit of Landlord that it is satisfied therewith.
+
+               (l) Landlord shall not in any way be liable or responsible to
+Tenant for any loss, damage or expense which Tenant may sustain or incur if: (i)
+the supply of electricity to the Demised Premises is interrupted; (ii) the
+quantity or character of electricity is changed or is no longer available or
+suitable for Tenant's requirements; or (iii) Tenant objects to, is
+inconvenienced by or otherwise affected by any requirement of the public utility
+company serving the Building. Tenant will comply with the general rules,
+regulations, terms, conditions and requirements of the public utility supplying
+electricity to the Building that may now or hereafter be applicable thereto.
+Tenant shall enter into such modifications of this Lease as Landlord may from
+time to time require in connection with any requirement of any public utility or
+any requirement of Law pertaining to electrical consumption or service, or
+charges therefor. If any equipment or machinery furnished by Landlord breaks
+down or for any cause ceases to function properly, Landlord shall use reasonable
+diligence to repair same promptly, but Tenant shall have no claim for abatement
+of Fixed Rent or Additional Rent or damages for any interruptions in service
+occasioned thereby or resulting therefrom.
+
+               (m) All other electricity charges under this Lease shall be
+included as Expenses.
+
+        16. Subordination; Paramount Lease.
+
+               (a) This Lease shall be subject and subordinate at all times to
+any first mortgage, first deed of trust or other first encumbrance heretofore or
+hereafter placed upon the Demised Premises or the property which includes the
+Demised Premises and of all renewals, modifications, consolidations,
+replacements and extensions thereof (all of which are hereinafter referred to
+as, collectively a "Mortgage") except to the extent that any Mortgage provides
+that this Lease is superior to that Mortgage. This provision shall operate
+automatically and without the necessity of any further act on the part of Tenant
+to effectuate such subordination. Tenant agrees, at the request of any person
+who may acquire Landlord's estate by foreclosure or transfer in lieu of
+foreclosure, to attorn to such person and to execute, acknowledge and deliver,
+upon demand by Landlord, any holder of a Mortgage or such person who may acquire
+Landlord's estate, but in no event later than ten (10) days after such demand,
+such further instruments evidencing and confirming such subordination of this
+Lease and such instruments evidencing such attornment obligation. Tenant hereby
+irrevocably appoints Landlord the attorney-in-fact of Tenant (such power of
+attorney being coupled with an interest), to execute, acknowledge and deliver
+any such instruments for and in the name of Tenant. Notwithstanding the
+foregoing, any
+
+
+
+                                      -15-
+<PAGE>
+
+holder of any Mortgage may at any time subordinate its Mortgage to this Lease,
+without Tenant's consent, by notice in writing to Tenant, and thereupon this
+Lease shall be deemed prior to such Mortgage without regard to their respective
+dates of execution, delivery and recording and in that event such holder shall
+have the same rights with respect to this Lease as though this Lease had been
+executed, delivered and recorded prior to the execution, delivery and recording
+of such Mortgage.
+
+               (b) If Landlord is or becomes lessee of the Building or the Land,
+then Tenant agrees that Tenant's possession shall be that of a subtenant and
+subordinate to the interest of Landlord's lessor, its heirs, personal
+representatives, successors and assigns (such lessor and other persons being
+hereinafter collectively referred to as the "Overlessor") without the necessity
+of any further action on the part of Tenant to effectuate such subordination,
+but notwithstanding the foregoing, if Landlord's tenancy shall terminate either
+by expiration, forfeiture or otherwise, then, if Overlessor shall so request,
+Tenant shall attorn to Overlessor and recognize Overlessor as Tenant's landlord
+upon the terms and conditions of this Lease for the balance of the Term. Tenant
+shall execute, acknowledge and deliver, upon demand by Landlord or any
+Overlessor, such further instruments evidencing such subordination of Tenant's
+right, title and interest under this Lease to the interests of Overlessor, and
+such further instruments of attornment, as shall be desired by such Overlessor.
+
+        17. Landlord's Cure of Tenant's Default.
+
+        If Tenant shall fail or refuse to comply with and perform any conditions
+and covenants of this Lease, Landlord may, if Landlord so elects, carry out and
+perform such conditions and covenants, at the cost and expense of Tenant, and
+the said cost and expense shall be payable on demand, or at the option of
+Landlord shall be added to the installment of rent due immediately thereafter,
+but in no case later than one month after such demand, and shall be due and
+payable as such. This remedy shall be in addition to such other remedies as
+Landlord may have hereunder by reason of the breach of Tenant of any of the
+covenants and conditions in this Lease contained.
+
+        18. Notices.
+
+        Any notice, demand, statement or other communication which under the
+terms of this Lease or under any statute or law must or may be given shall be
+given by hand delivery to the respective parties as follows or by registered or
+certified mail, return receipt requested, or by reputable private overnight
+delivery service addressed to the respective parties as follows:
+
+To Landlord:      at the address set forth in the introductory paragraph to this
+                  Lease, with a copy to:
+
+                  Cherry Tree Investors, L.P.
+                  c/o Bergen of Cherry Hill, Inc.
+                  GSB Building, Suite 401
+                  One Belmont Avenue
+                  Bala Cynwyd, PA 19004
+                  Attn: Asset Manager
+
+To Tenant:        At its address stated above until the Commencement Date; at
+                  the Demised Premises thereafter.
+
+        Any such notice, demand, statement or other communication shall be
+deemed to have been given or made upon hand delivery or when deposited, postage
+paid, in the U.S. Mail, or delivered, charges prepaid or charged to sender by a
+reputable private overnight delivery service, as the case may be. Any of the
+above addresses may be changed at any time notice is given as above provided.
+
+
+
+                                      -16-
+<PAGE>
+
+        19. Quiet Enjoyment.
+
+        Landlord covenants that Tenant upon keeping and performing each and
+every covenant, agreement, term, provision and condition herein contained on the
+part and on behalf of Tenant to be kept and performed, shall quietly enjoy the
+Demised Premises without hindrance or molestation by Landlord or by any other
+person lawfully claiming by, through or under the same subject to the covenants,
+agreements, terms, provisions and conditions of this Lease and the effect of the
+application of same.
+
+        20. Intentionally Omitted.
+
+        21. Access to Premises.
+
+               (a) Tenant agrees to permit Landlord and Landlord's agents,
+employees or other representatives to show the Demised Premises to any lessor
+under any underlying lease or ground lease or any mortgagee or any persons
+wishing to rent or purchase the same, and Tenant agrees that on and after the
+twelfth month next preceding the expiration of the Term hereof, Landlord or
+Landlord's agents, employees or other representatives shall have the right to
+show the Demised Premises to any prospective tenant or to place notices on the
+front of the Building or any part thereof, offering the Demised Premises for
+rent or for sale; and Tenant hereby agrees to permit the same to remain thereon
+without hindrance or molestation.
+
+               (b) Tenant agrees that Landlord and Landlord's agents, employees
+or other representatives, shall have the right to enter into and upon the said
+premises or any part thereof, at all reasonable hours, for the purpose of
+examining the same or reading meters, or performing maintenance or making such
+repairs or alterations therein as may be necessary for the safety and
+preservation thereof. This clause shall not be deemed to be a covenant by
+Landlord nor be construed to create an obligation on the part of Landlord to
+make such inspection or repairs.
+
+        22. Brokerage.
+
+        Tenant and Landlord warrant and represent to each other that neither has
+dealt with any broker or brokers regarding the negotiation of the within Lease
+other than the Designated Brokers. Landlord shall pay the Designated Brokers a
+commission pursuant to a separate agreement. Tenant and Landlord agree to be
+responsible for and to indemnify and save the other harmless from and against
+any claim for a commission or other compensation by any broker other than the
+Designated Brokers claiming to have negotiated with the indemnifying party with
+respect to the Demised Premises or to have called the said Demised Premises to
+Tenant's attention or to have called Tenant to Landlord's attention.
+
+        23. Parking.
+
+        Tenant shall have the right under this Lease to the non-exclusive use of
+a proportionate share of parking spaces in the parking lot of the Building in
+compliance with such reasonable Rules and Regulations as Landlord may promulgate
+from time to time. Landlord shall have the right to assign the location of said
+parking spaces or may designate the location of same from time to time.
+
+        24. Landlord's Inability to Perform.
+
+        This Lease and the obligation of Tenant to pay the rent hereunder and to
+comply with the covenants and conditions hereof, shall not be affected,
+curtailed, impaired or excused because of the Landlord's inability to supply any
+service or material called for herein, by reason of any rule, order, regulation
+or preemption by any governmental entity, authority, department, agency or
+subdivision or for any delay which may arise by reason of negotiations for the
+adjustment of any fire or other casualty loss or because of strikes or other
+labor trouble or for any cause beyond the control of the Landlord.
+
+
+
+                                      -17-
+<PAGE>
+
+        25. Condemnation.
+
+        If the Land, Building and Demised Premises leased herein, or of which
+the Demised Premises is a part, or any portion thereof, shall be taken under
+eminent domain or condemnation proceedings, or if suit or other action shall be
+instituted for the taking or condemnation thereof, or if in lieu of any formal
+condemnation proceedings or actions, Landlord shall grant an option to purchase
+and or shall sell and convey the Land, Building and the Demised Premises or any
+portion thereof, then this Lease, at the option of Landlord shall terminate, and
+the Term hereof shall end as of such date as Landlord shall fix by notice in
+writing; and Tenant shall have no claim or right to claim or be entitled to any
+portion of any amount which may be awarded as damages or paid as the result of
+such condemnation proceedings or paid as the purchase price for such option,
+sale or conveyance in lieu of formal condemnation proceedings; and all rights of
+Tenant to damages, if any, are hereby assigned to Landlord, provided that such
+Tenant shall have the right to make a separate claim for damages as provided
+below. Tenant agrees to execute and deliver any instruments, at the expense of
+Landlord, as may be deemed necessary or required to expedite any condemnation
+proceedings or to effectuate a proper transfer of title to such governmental or
+other public authority, agency, body or public utility seeking to take or
+acquire the Land, Building and Demised Premises or any portion thereof. Tenant
+covenants and agrees to vacate the Demised Premises, remove all Tenant's
+personal property therefrom and deliver up peaceable possession thereof to
+Landlord or to such other party designated by Landlord in the aforementioned
+notice. Failure by Tenant to comply with any provision in this clause shall
+subject Tenant to such costs, expenses, damages and losses as Landlord may incur
+by reason of Tenant's breach hereof.
+
+        Tenant shall have no claim or right to claim or be entitled to any
+portion of any amount which may be awarded as damages or paid as the result of
+such condemnation proceedings or paid as the purchase price for any option, sale
+or conveyance in lieu of formal condemnation proceedings; and all rights of
+Tenant to damages, if any, are hereby assigned to Landlord. Notwithstanding the
+foregoing, Tenant shall have the right to make a separate claim against the
+condemning authority for such independent claim which it may have as may be
+allocated by law, for costs and damages due to any taking of Tenant's trade
+fixtures, relocation, moving and other similar costs and charges directly
+incurred by tenant and resulting from such condemnation, provided same does not
+diminish the Landlord's award. Tenant agrees to execute and deliver any
+instruments, at the expense of Landlord, as may be deemed necessary or required
+to expedite any condemnation proceedings or to effectuate a proper transfer of
+title to such governmental or other public authority, agency, body or public
+utility seeking to take or acquire the Land, Building and Demised Premises or
+any portion thereof. Tenant covenants and agrees to vacate the Demised Premises,
+remove all Tenant's personal property therefrom and deliver up peaceable
+possession thereof to Landlord or to such other party designated by Landlord in
+the aforementioned notice. Failure by Tenant to comply with any provision in
+this clause shall subject Tenant to such costs, expenses, damages and losses as
+Landlord may incur by reason of Tenant's breach hereof.
+
+        26. Assignment and Subletting.
+
+               (a) Tenant shall not (i) assign or otherwise transfer, this Lease
+or any of its rights hereunder, or (ii) sublet the Demised Premises or any part
+thereof, or permit the use of the Demised Premises or any part hereunder by any
+persons other than Tenant or its employees, agents and invitees, without the
+prior written consent of Landlord in each instance. Landlord's consent to a
+proposed sublease or assignment shall not be unreasonably withheld provided the
+proposed assignee/subtenant is of a type and quality reasonably satisfactory to
+Landlord, and Landlord approves such entity's financial condition, and such
+proposed assignee/subtenant is not a current tenant of the Building or an entity
+with whom Landlord, during the six (6) month period prior to such request for
+consent, has been negotiating to lease any space in the Building. The consent by
+Landlord to any assignment, transfer, or subletting to any entity shall not be
+construed as a waiver or release of Tenant from any provision of this Lease,
+unless expressly so stated (it being understood that in all instances, Tenant
+shall remain primarily liable as a principal and not as a guarantor or surety)
+nor shall the collection or acceptance of rent from any such assignee,
+transferee, subtenant or occupant constitute a waiver or release of Tenant from
+
+
+
+                                      -18-
+<PAGE>
+
+any such provision. No consent by Landlord to any such assignment, transfer, or
+subletting, in any one instance shall constitute a waiver of the necessity for
+such consent in a subsequent instance nor shall any consent by a Landlord be
+construed to permit reassignment or resubletting by a permitted assignee or
+sublessee. For purpose of the foregoing, a transfer, conveyance, grant or
+pledge, directly or indirectly, in one or more transactions, of interest in
+Tenant (whether stock, partnership interest or other form of ownership or
+control), or the issuance of new interests by which an aggregate of more than
+fifty percent (50%) of the interest in Tenant shall be vested in a party or
+parties who are not holders of such interest(s) as of the date hereof shall be
+deemed an assignment of this Lease; provided, however, that this limitation
+shall not apply to any corporation, all the outstanding voting stock of which is
+listed on a national securities exchange. Landlord's acceptance of any name for
+listing on the Building Directory will not be deemed, nor will it substitute
+for, Landlord's consent required under this Lease to any sublease, assignment or
+other occupancy of the Demised Premises. In the event of an assignment or
+subletting not in conformance with the terms of this Lease, such assignment
+and/or subletting shall be void ab initio, and Landlord shall have the right to
+terminate this Lease or to require that the Demised Premises be surrendered to
+Landlord for the balance of the Term (in the case of an assignment) or for the
+term of the proposed sublease (in the case of a sublease). Such termination
+shall in no event be construed to limit Landlord's right to damages or any other
+relief for the violation of the terms of this Lease.
+
+               (b) If at any time or from time to time during the Term of this
+Lease Tenant desires to sublet or assign all or any part of the Demised
+Premises, Tenant shall give written notice to Landlord of such intent together
+with such financial information concerning the proposed assignee or sublessee as
+Landlord shall reasonably request.
+
+               (c) If for any assignment or sublease consented to by Landlord
+hereunder Tenant receives rent or other consideration, either initially or over
+the term of the assignment or sublease, in excess of the rent called for
+hereunder, or in case of sublease or part, in excess of such rent fairly
+allocable to the part, after appropriate adjustments to assure that all other
+payments called for hereunder are appropriately taken into account, to pay to
+Landlord as additional rent equal to the excess of each such payment of rent or
+other consideration received by Tenant promptly after its receipt.
+
+               (d) Regardless of Landlord's consent, no subletting or assignment
+shall release Tenant of Tenant's obligations or alter the primary liability of
+Tenant to pay the rental and to perform all other obligations to be performed by
+Tenant hereunder. The acceptance of rental by Landlord from any other person
+shall not be deemed to be a waiver by Landlord of any provision hereof. Consent
+to one assignment or subletting shall not be deemed consent to any subsequent
+assignment or subletting. In the event of default by any assignee of Tenant or
+any successor of Tenant in the performance of any of the terms hereof, Landlord
+may proceed directly against Tenant without the necessity of exhausting remedies
+against such assignee or successor.
+
+               (e) In the event that (i) the Demised Premises or any part
+thereof are sublet and Tenant is in default under this Lease, or (ii) this Lease
+is assigned by Tenant, then, Landlord may collect rent from the assignee or
+subtenant and apply the net amount collected to the rent herein reserved; but no
+such collection shall be deemed a waiver of the provisions of this Article 26
+with respect to assignment and subletting, or the acceptance of such assignee or
+subtenant as Tenant hereunder, or a release of Tenant from further performance
+of the covenants herein contained.
+
+               (f) Tenant shall pay to Landlord all reasonable costs and
+expenses incurred by Landlord in connection with any assignment or sublease
+requested by Tenant, whether or not Landlord's consent is granted, including
+without limitation, fees paid to attorneys, accountants and space planners.
+
+        27. Environmental Laws.
+
+               (a) Tenant, at its own cost and expense, agrees to comply with
+all applicable environmental laws, rules and regulations of the Federal, State,
+County and Municipal
+
+
+
+                                      -19-
+<PAGE>
+
+governments and of all other governmental authorities having or claiming
+jurisdiction over the Demised Premises or appurtenances thereto, or any part
+thereof, which are applicable to the Demised Premises and/or the conduct of
+business thereon, including but not limited to the Industrial Site Recovery Act
+(N.J.S.A. 13:1K-6 et seq.) ("ISRA"). Further, Tenant agrees to make submissions
+to and provide any information required by all governmental authorities
+requesting same pursuant to Tenant's obligations under this Paragraph 27. Tenant
+represents to Landlord that Tenant's Standard Industrial Classification (SIC)
+Number as used on Tenant's Federal Tax Return is as set forth in the Preamble to
+this Lease. Tenant shall not conduct any operations that shall cause the
+Building or the Demised Premises to be deemed an "industrial establishment" as
+defined in ISRA. Notwithstanding the foregoing, in the event Tenant shall become
+an "industrial establishment", Landlord shall have, in addition to any other
+remedies available, the right to immediately terminate this Lease and Landlord
+shall also have the right to direct Tenant to comply with ISRA, at Tenant's sole
+cost and expense, or in Landlord's sole discretion, to comply with ISRA and to
+seek reimbursement of all costs and expenses (including but not limited to,
+attorneys fees, consulting fees, filing fees, and all remedial or investigative
+expenses) as a result of such termination and any amount expended by Landlord
+shall be Additional Rent hereunder.
+
+               (b) Tenant hereby agrees to execute such documents Landlord
+reasonably deems necessary and to make such applications as Landlord reasonably
+requires to assure compliance with ISRA. Tenant shall bear all costs and
+expenses incurred by Landlord associated with any required ISRA compliance
+resulting from Tenant's use of the Demised Premises including but not limited to
+state agency fees, engineering fees, clean-up costs, filing fees and suretyship
+expenses. As used in this Lease, ISRA compliance shall include applications for
+determinations of nonapplicability by the appropriate governmental authority.
+The foregoing undertaking shall survive the termination or sooner expiration of
+the Lease and surrender of the Demised Premises and shall also survive sale, or
+lease or assignment of the Demised Premises by Landlord. Tenant shall
+immediately provide Landlord with copies of all correspondence, reports,
+notices, orders, findings, declarations and other materials pertinent to
+Tenant's compliance and the New Jersey Department of Environmental Protection's
+("NJDEP") requirements under ISRA as they are issued or received by the Tenant.
+
+               (c) Tenant shall not generate, store, manufacture, refine,
+transport, treat, dispose of, or otherwise permit to be present on or about the
+Demised Premises, any Hazardous Substances. As used herein, Hazardous Substances
+shall be defined as any "hazardous chemical," "hazardous substance," "hazardous
+waste" or similar term as defined in the Comprehensive Environmental
+Responsibility Compensation and Liability Act, as amended (42 U.S.C. 9601, et
+seq.), the Industrial Site Recovery Act (N.J.S.A. 13:1K-6 et seq.), the New
+Jersey Spill Compensation and Control Act, as amended, (N.J.S.A. 58:10-23.11b,
+et seq.), any rules or regulations promulgated thereunder, or in any other
+present or future applicable federal, state or local law, rule or regulation
+dealing with environmental protection.
+
+               (d) In the event Tenant receives any notice that a spill or
+discharge of any Hazardous Substance has occurred on or about the Demised
+Premises, Building and/or Land or into the sewer and/or waste treatment system
+operated by Landlord from any person or entity, including NJDEP and the United
+States Environmental Protection Agency ("EPA"), then Tenant shall provide
+immediate written notice of same to Landlord, detailing all relevant facts and
+circumstances.
+
+               (e) Tenant agrees to indemnify and hold harmless the Landlord,
+Additional Insureds and each mortgagee of the Demised Premises from and against
+any and all liabilities, damages, claims, losses, judgments, causes of action,
+costs and expenses (including the reasonable fees and expenses of counsel) which
+may be incurred by the Landlord or any such mortgagee or threatened against the
+Landlord or such mortgagee, relating to or arising out of any breach by Tenant
+of this paragraph, which indemnification shall survive the expiration or sooner
+termination of this Lease.
+
+
+
+                                      -20-
+<PAGE>
+
+        28. Parties Bound.
+
+               (a) The covenants, agreements, terms, provisions and conditions
+of this Lease shall bind and benefit the respective successors, assigns and
+legal representatives of the parties hereto with the same effect as if mentioned
+in each instance where a party hereto is named or referred to except that no
+violation of the provisions of Paragraph 7(c) hereof shall operate to vest any
+rights in any successor, assignee or legal representative of Tenant and that the
+provisions of this Paragraph 28 shall not be construed as modifying the
+conditions contained in Paragraph 13 hereof.
+
+               (b) Tenant acknowledges and agrees that if Landlord shall be an
+individual, joint venture, corporation, limited liability company, tenancy in
+common, firm, or partnership, general or limited, there shall be no personal
+liability on such individual or on the members of such joint venture,
+corporation, limited liability company, tenancy in common, firm or partnership
+in respect of any of the covenants or conditions of this Lease; rather, Tenant
+agrees to look solely to Landlord's estate and property in the Building (or the
+proceeds thereof) for the satisfaction of Tenant's remedies arising out of or
+related to this Lease.
+
+               (c) The term "Landlord" as used in this Lease means only the
+owner, or the mortgagee in possession, for the time being of the Demised
+Premises (or the owner of a lease of the Demised Premises) so that in the event
+of any sale or sales of the Land, Building, or the Demised Premises or of said
+lease, or in the event of a lease of the Land, Building or of the Demised
+Premises, the said Landlord shall be and hereby is entirely freed and relieved
+of all covenants, liabilities and obligations of Landlord hereunder, and it
+shall be deemed and construed without further agreement between the parties or
+their successors in interest, or between the parties and the purchaser, at any
+such sale, or the said lessee of the Land, Building or of the Demised Premises,
+that the purchaser or the lessee of the same has assumed and agreed to carry out
+any and all covenants and obligations of Landlord hereunder.
+
+        29. Miscellaneous.
+
+               (a) This Lease contains the entire contract between the parties.
+No representative, agent or employee of Landlord has been authorized to make any
+representations or promises with reference to the leasing of the Demised
+Premises or to vary, alter or modify the terms hereof. No additions, changes or
+modifications, renewals, or extensions hereof, shall be binding unless reduced
+to writing and signed by Landlord and Tenant.
+
+               (b) The terms, conditions, covenants and provisions of this Lease
+shall be deemed to be severable. If any clause or provision herein contained be
+adjudged to be invalid or unenforceable by a court of competent jurisdiction or
+by operation of any applicable law, it shall not affect the validity of any
+other clause or provision herein, but such other clauses or provisions shall
+remain in full force and effect.
+
+               (c) Tenant shall not be entitled to exercise any option granted
+to it by this Lease at any time when Tenant is in default in the performance or
+observance of any of the covenants, agreement terms, provisions or conditions on
+its part to be performed or observed under this Lease.
+
+               (d) The paragraph headings in this Lease are for convenience only
+and are not to be considered in construing the same.
+
+               (e) If, in connection with obtaining financing for the Project, a
+banking, insurance or other recognized institutional lender shall request
+reasonable modifications in this Lease as a condition to such financing, Tenant
+will not unreasonably withhold, delay or defer its consent thereto, provided
+that such modifications do not increase the obligations of Tenant hereunder or
+materially adversely affect the leasehold interest created or the conduct of
+Tenant's business operations at the Demised Premises.
+
+               (f) All dates and time periods set forth in this Lease are Time
+of the Essence.
+
+
+
+                                      -21-
+<PAGE>
+
+               (g) In the event that Tenant or anyone claiming through or under
+Tenant shall not vacate and redeliver the Demised Premises on or before the
+Expiration Date as required by this Lease. Tenant shall be deemed a holdover
+tenant and Landlord shall have all rights and remedies provided at law relating
+to such holdover. During the period of holdover tenancy, the Tenant shall be
+liable for a holdover rental charge for the Demised Premises which charge shall
+be equal to Two and One Half (2-1/2) times the Fixed Rent and Additional Rent
+payable by Tenant hereunder during the Lease Year immediately preceding the
+Expiration Date. In addition, Tenant further agrees that if it fails to so
+surrender the Demised Premises, Tenant (i) shall be liable to Landlord for any
+and all damages which Landlord shall suffer by reason thereof, and (ii) shall
+indemnify Landlord against all claims and demands made by any succeeding tenants
+against Landlord founded upon delay by Landlord in delivering possession of the
+Demised Premises to such succeeding tenant.
+
+               (h) This Lease shall not be recorded by either party.
+
+               (i) Within fifteen (15) days after Landlord's request, Tenant
+will furnish Tenant's most recent audited financial statements (including any
+notes to them) to Landlord, or, if no such audited statements have been
+prepared, such other financial statements (and notes to them) as may have been
+prepared by an independent certified public accountant, or, failing those,
+Tenant's internally prepared financial statements, certified by Tenant. Tenant
+will discuss its financial statements with Landlord and will give Landlord
+access to Tenant's books and records in order to enable Landlord to verify the
+financial statements. Landlord will not disclose any aspect of Tenant's
+financial statements which Tenant designates to Landlord as confidential except:
+(i) to Landlord's lenders or prospective purchasers of the Project; (ii) in
+litigation between Landlord and tenant; and (iii) if required by court order.
+
+               (j) Whenever Tenant requests Landlord to take any action or give
+any consent required or permitted under this Lease, Tenant will reimburse
+Landlord for all of Landlord's actual costs incurred in reviewing the proposed
+action or consent, including, without limitation, attorneys', engineers' or
+architects' fees, within ten (10) days after Landlord's delivery to Tenant of a
+statement of such costs. Tenant will be obligated to make such reimbursement
+without regard to whether Landlord consents to any such proposed action.
+
+               (k) If Tenant fails or refuses to execute and deliver any
+instrument or certificate required to be delivered by Tenant hereunder
+(including, without limitation, any instrument or certificate required under
+Paragraph 8(a)) within the time periods required herein, then Tenant hereby
+appoints Landlord as its attorney-in-fact with full power and authority to
+execute and deliver such instrument or certificate for and in the name of
+Tenant.
+
+               (1) Any diminution or shutting off of light, air or view by any
+structure which may be erected on lands adjacent to or in the vicinity of the
+Building and Project shall not affect this Lease, abate any payment owed by
+Tenant hereunder or otherwise impose any liability on Landlord.
+
+               (m) Under no circumstances whatsoever shall Landlord ever be
+liable hereunder for consequential damages or special damages.
+
+               (n) The obligation of Tenant to pay all Rent and other sums
+hereunder provided to be paid by Tenant and the obligation of Tenant to perform
+Tenant's other covenants and duties hereunder constitute independent,
+unconditional obligations to be performed at all times provided for hereunder,
+save and except only when an abatement thereof or reduction therein is
+hereinabove expressly provided for and not otherwise. Tenant waives and
+relinquishes all rights which Tenant might have to claim any nature of a
+prejudgment lien against or withhold, or deduct from, or offset against any rent
+and other sums provided hereunder to be paid Landlord by Tenant.
+
+               (o) The furnishing of the form of this Lease shall not constitute
+an offer and this Lease shall become effective upon and only upon its execution
+by and delivery to each party hereto.
+
+
+
+                                      -22-
+<PAGE>
+
+     IN WITNESS WHEREOF, Landlord and Tenant have duly executed this Lease as of
+the day and year first above written.
+
+                                   LANDLORD:
+
+                                   CHERRY TREE INVESTORS, L.P.
+                                   By:  Bergen of Cherry Hill, Inc., its
+                                        general partner
+
+                                        By:  /s/ CHARLES J. DAVIDSON
+                                             -----------------------------------
+                                             Name:  CHARLES J. DAVIDSON
+                                             Title: SENIOR VICE PRESIDENT
+
+
+                                   TENANT:
+
+                                   COMMONWEALTH ENERGY
+                                   CORPORATION
+
+                                   By:    /s/ DICK PAULSEN
+                                          --------------------------------------
+                                   Name:  Dick Paulsen
+                                   Title: C.O.O.
+
+
+
+                                      -23-
+<PAGE>
+
+                                   EXHIBIT "A"
+
+                         FLOOR PLAN OF DEMISED PREMISES
+
+
+                                  [FLOOR PLAN]
+
+
+
+                                     A - 1
+
+<PAGE>
+
+                                 EXHIBIT "A-1"
+
+                          METES AND BOUNDS DESCRIPTION
+
+ALL THAT CERTAIN tract or parcel of land and premises, situate in the Township
+of Cherry Hill, County of Camden and State of New Jersey, bounded and described
+as follows:
+
+        BEGINNING at a concrete monument in the Southerly line of New Jersey
+State Highway Route #38 (100 feet wide), in the centerline of a concrete
+headwall at the end of a pipe beneath New Jersey State Highway Route #38, which
+pipe carries a small stream which is a branch of Cooper Creek, said point being
+a corner to lands now or formerly Shirl-Jim, Inc.; thence, extending along the
+Southerly line of New Jersey State Highway Route #38, South 85 degrees 58
+minutes 06 seconds East, a distance of 347.51 feet to a point; thence, extending
+along a line perpendicular to the centerline of New Jersey State Highway Route
+#38, South 04 degrees 01 minute 54 seconds West, a distance of 1.00 feet to a
+point; thence, extending Southeastwardly along the curved Southerly line of New
+Jersey State Highway Route #38 and along the curved Southwesterly line of Olive
+Street, on the arc of a circle curving to the right, having a radius of 260.00
+feet, an arc distance of 238.26 feet to a point of tangency in the Southwesterly
+line of Olive Street; thence, extending along the Southwesterly line of Olive
+Street, South 33 degrees 27 minutes 48 seconds East, a distance of 166.48 feet
+to a point; thence, leaving the Southwesterly line of Olive Street, extending
+along lands now or formerly of Frank Cerminaro, South 56 degrees 32 minutes 12
+seconds West a distance of 79.34 feet to a point; thence, extending along lands
+now or formerly of John Swyter, North 33 degrees 27 minutes 48 seconds West, a
+distance of 55.19 feet to a point; thence, extending along lands of the same,
+South 59 degrees 13 minutes 43 seconds West, a distance of 104.47 feet to a
+point, said line being the rear line in the plan of Kenilworth Estates; thence,
+extending along lands of the same, South 33 degrees 27 minutes 48 seconds East,
+a distance of 256.48 feet to a point on the Northwesterly line of Longwood
+Avenue; thence, extending along the Northwesterly line of Longwood Avenue, South
+56 degrees 32 minutes 12 seconds West, a distance of 208.71 feet to a point;
+thence, leaving the Northwesterly line of Longwood Avenue, extending along lands
+now or formerly of Pasquale Ludovico, North 33 degrees 27 minutes 48 seconds
+West, a distance of 266.29 feet to a point on the aforementioned rear line of
+Kenilworth Estates; thence, extending along the said rear line of Kenilworth
+Estates, South 59 degrees 13 minutes 43 seconds West, a distance of 891.00 feet
+to a point; thence, extending along lands now or formerly of 3 Executive Campus
+Realty Inc., North 41 degrees 41 minutes 45 seconds West, a distance of 117.74
+feet to a point; thence, extending partly along lands now or formerly of
+Delaware Valley Propane Company and partly along lands of the aforementioned
+Shirl-Jim, Inc. North 35 degrees 51 minutes 13 seconds East, a distance of
+374.49 feet to a point; thence, extending along said lands of Shirl-Jim, Inc.,
+the three (3) following courses and distances; (1) North 32 degrees 44 minutes
+55 seconds East, a distance of 338.00 feet to a point; thence (2) North 41
+degrees 06 minutes 14 seconds East, a distance of 180.22 feet to a point; thence
+(3) North 32 degrees 13 minutes 25 seconds East, a distance of 97.75 feet to a
+point, said point being the place of beginning.
+
+        CONTAINING 11.289 Acres of land.
+
+        BEING shown and designated as Lot 1 G Block 595 Plate 10 on the Tax Map
+of the Township of Cherry Hill.
+
+        TOGETHER WITH THE BENEFICIAL Rights and Interest in and to a certain
+Declaration of Easement and Right-of-Way for Ingress, Egress and Regress, to and
+from New Jersey State Highway Route 70 and Cuthbert Boulevard, as contained in
+Deed Book 3604 page 586 and modified by First Modification of Declaration of
+Easement and Right-of-Way as contained in Deed Book 3640 page 493.
+
+        ALSO TOGETHER WITH THE BENEFICIAL Rights and Interest in and to a
+certain Access Easement on lands now or formerly 3 Executive Campus Realty Inc.,
+as contained in Modification of Declaration as contained in Deed Book 4009 page
+591.
+
+
+
+                                     A - 2
+<PAGE>
+
+                                   EXHIBIT "B"
+
+
+                                 LANDLORD'S WORK
+
+
+1.      Enclose receptionist area into an office as shown on Exhibit "B-l."
+
+2.      Install building standard carpet throughout the Demised Premises.
+
+3.      Either wall paper or paint the walls of the office described in
+        Paragraph 1 above with a wall paper or paint which is reasonably
+        complimentary to the existing wall paper in the remainder of the Demised
+        Premises.
+
+
+
+                                     B - 1
+
+<PAGE>
+
+                                  EXHIBIT B-1
+
+
+
+                                  [FLOOR PLAN]
+
+<PAGE>
+
+                                   EXHIBIT "C"
+
+                              RULES AND REGULATIONS
+
+        1. No sign, placard, picture, advertisement, name or notice shall be
+installed or displayed on any part of the exterior or interior Common Areas of
+the Building without the prior written consent of Landlord. Landlord shall have
+the right to remove, at Tenant's expense and without notice, any sign installed
+or displayed in violation of this rule. All approved signs or lettering on doors
+and walls shall be printed, painted, affixed or inscribed at the expense of
+Tenant by a person chosen by Landlord.
+
+        2. No awning shall be permitted on any part of the Demised Premises.
+Tenant shall not place anything against, near or on any glass partitions, doors,
+windows or window sills which may appear unsightly from outside the Demised
+Premises and Tenant is specifically prohibited from sitting or placing anything
+on the window sills of the Demised Premises. Tenant shall not obstruct any
+windows, doors, partitions or lights within the Demised Premises which admit or
+reflect light into the hallways or other Common Areas of the Building. Tenant
+shall not attach or hang any curtains, blinds, shades or screens used in
+connection with any window or door of the Demised Premises without first
+obtaining the written consent of Landlord. Said curtains, blinds or shades must
+be of a quality, type, design and color and attached in a manner approved by
+Landlord.
+
+        3. Landlord shall retain the right to control and prevent access to the
+Building of all persons whose presence in the judgment of Landlord would be
+prejudicial to the safety, character, reputation and interests of the Building
+and its tenants; provided that nothing herein contained shall be construed to
+prevent such access to persons with whom any tenant normally deals in the
+ordinary course of its business, unless such persons are engaged in illegal
+activities. No tenant and no employee or invitee of any tenant shall go upon the
+roof of the Building.
+
+        4. All cleaning and janitorial services for the Building and the Demised
+Premises shall be provided exclusively through Landlord, and except with the
+written consent of Landlord, no person or persons other than those approved by
+Landlord shall be employed by Tenant or permitted to enter the Building for the
+purpose of cleaning the same. Tenant shall not cause any unnecessary labor by
+carelessness or indifference to the good order and cleanliness of the Demised
+Premises. Landlord shall not in any way be responsible to any Tenant for any
+loss of property on the Demised Premises, however occurring, or for any damage
+to any Tenant's property by the janitor or any other employee or any other
+person.
+
+        5. Landlord will furnish Tenant, free of charge, two (2) keys (plus two
+(2) additional keys upon request) to each door lock in the Demised Premises.
+Landlord may charge an additional amount $2.00 per key for any additional keys
+requested by Tenant. Tenant shall not alter any lock or install a new additional
+lock or bolt on the entrance door of its Demised Premises without written
+consent of Landlord. Tenant, upon the termination of its tenancy, shall deliver
+to Landlord the keys of all doors which have been furnished to Tenant, and in
+the event of loss of any keys so furnished, shall pay Landlord therefor.
+
+        6. If Tenant requires telegraphic, telephonic, burglar alarm or similar
+services, it shall first obtain, and comply with, Landlord's instructions in
+their installation.
+
+        7. Any freight elevator shall be available for use by all tenants in the
+Building, subject to such reasonable scheduling as Landlord in its discretion
+shall deem appropriate. No equipment, materials, furniture, packages, supplies,
+merchandise or other property will be received in the Building or carried in the
+elevators except between such hours and in such elevators as may be designated
+by Landlord.
+
+        8. Tenant shall not place a load upon any floor of the Demised Premises
+which exceeds the load per square foot which such floor was designed to carry
+and which is allowed by law. Landlord shall have the right to prescribe the
+weight, size and position of all equipment, materials, furniture or other
+property brought into the Building. Heavy objects shall, if considered necessary
+by Landlord, stand on such platforms as determined by Landlord to be necessary
+to properly distribute the weight. Business machines and mechanical equipment
+
+
+
+                                     C - 1
+<PAGE>
+
+belonging to Tenant, which cause noise or vibration that may be transmitted to
+the structure of the Building or to any space therein to such a degree as to be
+objectionable to Landlord or to any tenants in the Building, shall be placed and
+maintained by Tenant, at Tenant's expense, on vibration eliminators or other
+devices sufficient to eliminate noise or vibration. The persons employed to move
+such equipment in or out of the Building must be acceptable to Landlord.
+Landlord will not be responsible for loss of, or damage to, any such equipment
+or other property from any cause, and all damage done to the Building by
+maintaining or moving such equipment or other property shall be repaired at the
+expense of Tenant.
+
+        9. Tenant shall not use or keep in the Demised Premises any kerosene,
+gasoline or inflammable or combustible fluid or material other than those
+limited quantities necessary for the operation or maintenance of office
+equipment. Tenant shall not use or permit to be used in the Demised Premises any
+foul or noxious gas or substance, or permit or allow the Demised Premises to be
+occupied or used in a manner offensive or objectionable to Landlord or other
+occupants of the Building by reason of noise, odors or vibrations, nor shall
+Tenant bring into or keep in or about the Demised Premises any birds or animals.
+
+        10. Tenant shall not use any method of heating or air-conditioning other
+than that supplied by Landlord.
+
+        11. Tenant shall cooperate fully with Landlord to assure the most
+effective operation of the Building's heating and air-conditioning and to comply
+with any governmental energy-saving rules, laws or regulations of which Tenant
+has actual notice, and shall refrain from attempting to adjust controls other
+than room thermostats installed for Tenant's use. Tenant shall keep corridor
+doors closed, and shall close window coverings at the end of each business day.
+
+        12. Landlord reserves the right, exercisable without notice and without
+liability to Tenant, to change the name and street address of the Building.
+
+        13. Landlord reserves the right to exclude from the Building between the
+hours of 6 p.m. and 8 a.m. the following day, or such other hours as may be
+established from time to time by Landlord, and on Sundays and legal holidays,
+any person unless that person is known to the person or employee in charge of
+the Building and has a pass or is properly identified. Tenant shall be
+responsible for all persons for whom it requests passes and shall be liable to
+Landlord for all acts of such persons. Landlord shall not be liable for damages
+for any error with regard to the admission to or exclusion from the Building of
+any person. Landlord reserves the right to prevent access to the Building in
+case of invasion, mob, riot, public excitement or other commotion by closing the
+doors or by other appropriate action.
+
+        14. Tenant shall close and lock the doors of the Demised Premises and
+entirely shut off all water faucets or other water apparatus, and electricity,
+gas or air outlets before tenant and its employees leave the Demised Premises.
+Tenant shall be responsible for any damage or injuries sustained by other
+tenants or occupants of the Building or by Landlord for noncompliance with this
+rule.
+
+        15. Tenant shall not obtain for use on the Demised Premises ice,
+drinking water, food, beverage, towel or other similar services or accept
+barbering or bootblacking services upon the Demised Premises, except from such
+contractors as are reasonably approved by Landlord and at such hours and under
+such regulations as may be fixed by Landlord.
+
+        16. The toilet rooms, toilets, urinals, wash bowls and other apparatus
+shall not be used for any purpose other than that for which they were
+constructed and no foreign substance of any kind whatsoever shall be thrown
+thereto. The expense of any breakage, stoppage or damage resulting from the
+violation of this rule shall be borne by the tenant who, or whose employees or
+invitees shall have caused it.
+
+        17. Tenant shall not sell, or permit the sale at retail, of newspapers,
+magazines, periodicals, theater tickets or any other goods or merchandise to the
+general public in or on the Demised Premises. Tenant shall not make any
+room-to-room solicitation of business from other tenants in the Building.
+
+
+
+                                     C - 2
+<PAGE>
+
+        18. Tenant shall not install any radio or television antenna,
+loudspeaker or other device on the roof or exterior walls of the Building.
+Tenant shall not interfere with radio or television broadcasting or reception
+from or in the Building or elsewhere.
+
+        19. Tenant shall not mark, drive nails, screw or drill into the
+partitions, woodwork or plaster or in any way deface the Demised Premises or any
+part thereof. Landlord reserves the right to direct electricians as to where and
+how telephone and telegraph wires are to be introduced to the Demised Premises.
+Tenant shall not cut or bore holes for wires. Tenant shall not affix any floor
+covering to the floor of the Demised Premises in any manner except as approved
+by Landlord. Tenant shall repair any damage resulting from noncompliance with
+this rule.
+
+        20. Tenant shall not install, maintain or operate upon the Demised
+Premises any vending machine without the written consent of Landlord.
+
+        21. Canvassing, soliciting and distribution of handbills or any other
+written material, and peddling in the Building are prohibited, and each tenant
+shall cooperate to prevent same.
+
+        22. Landlord reserves the right to exclude or expel from the Building
+any person who, in Landlord's judgment, is intoxicated or under the influence of
+liquor or drugs or who is in violation of any of the Rules and Regulations of
+the Building.
+
+        23. Tenant shall store all its trash and garbage within the Demised
+Premises. Tenant shall not place in any trash box or receptacle any material
+which cannot be disposed of in the ordinary and customary manner of trash and
+garbage disposal. All garbage and refuse disposal shall be made in accordance
+with directions issued from time to time by Landlord.
+
+        24. The Demised Premises shall not be used for the storage of
+merchandise held for sale to the general public, or for lodging or for
+manufacturing of any kind, nor shall the Demised Premises be used for any
+improper, immoral or objectionable purpose. No cooking shall be done or
+permitted by any tenant on the Demised Premises, except that use by Tenant of
+Underwriters' Laboratory-approved equipment for brewing coffee, tea, hot
+chocolate and similar beverages or use of a microwave oven shall be permitted,
+provided that such equipment and use is in accordance with all applicable
+federal, state, county and city laws, codes, ordinances, rules and regulations.
+
+        25. Tenant shall not use in any space or in the public halls of the
+Building any hand trucks except those equipped with rubber tires and side guards
+or such other material-handling equipment as Landlord may approve. Tenant shall
+not bring any other vehicles of any kind into the Building.
+
+        26. Without the written consent of Landlord, Tenant shall not use the
+name of the Building in connection with or in promoting or advertising the
+business of Tenant except as Tenant's address.
+
+        27. Tenant shall comply with all safety fire protection and evacuation
+procedures and regulations established by Landlord or any governmental agency.
+
+        28. Tenant assumes any and all responsibility for protecting the Demised
+Premises from theft, robbery and pilferage.
+
+        29. The requirements of Tenant will be attended to only upon written
+application to the office of the Building Manager by an authorized individual.
+
+        30. Tenant shall not park its vehicles in any parking areas designated
+by Landlord as areas for parking by visitors to the Building. Tenant shall not
+leave vehicles in the Building parking areas overnight.
+
+        31. Landlord may waive any one or more of these Rules and Regulations
+for the benefit of Tenant or any other tenant, but no such waiver by Landlord
+shall be construed as a waiver of such Rules and Regulations in favor of Tenant
+or any other tenant, nor prevent
+
+
+
+                                     C - 3
+<PAGE>
+
+Landlord from thereafter enforcing any such Rules and Regulations against any or
+all of the tenants of the Building.
+
+        32. These Rules and Regulations are in addition to, and shall not be
+construed to in any way modify or amend, in whole or in part, the terms,
+covenants, agreements and conditions of any lease of premises in the Building.
+In the event of conflict between the provisions contained in this Lease and
+these Rules and Regulations the provisions of this Lease shall prevail.
+
+        33. Landlord reserves the right to make such other and reasonable Rules
+and Regulations as, in its judgment, may from time to time be needed for safety
+and security, for care and cleanliness of the Building and the Complex and for
+the preservation of good order therein. Tenant agrees to abide by all such Rules
+and Regulations hereinabove stated and any additional rules and regulations
+which are adopted.
+
+        34. Tenant shall be responsible for the observance of all of the
+foregoing rules by Tenant's employees, agents, clients, customers, invitees and
+guests.
+
+
+
+                                     C - 4
+<PAGE>
+
+                                   EXHIBIT "D"
+
+                                BUILDING HOLIDAYS
+
+
+New Years Day
+
+President's Day
+
+Memorial Day
+
+Fourth of July
+
+Labor Day
+
+Thanksgiving Day
+
+Christmas
+
+
+
+                                     D - 1
+
+<PAGE>
+
+                                   EXHIBIT "E"
+
+                      JANITORIAL MAINTENANCE SPECIFICATIONS
+
+                              PROVIDED BY LANDLORD
+
+LOBBY AND ENTRANCE AREAS
+
+               Daily Cleaning Services:
+
+        1. Dust and damp mop all lobby and entrance foyers to insure dust free
+floors with specific attention to hard-to-reach areas.
+
+        2. All waste and trash cans will be emptied. All waste and trash cans
+will be washed as needed.
+
+        3. Vacuum all carpeted areas.
+
+        4. Dust and wipe clean all desks and chairs.
+
+        5. Wipe and clean and polish all stainless steel and other metal work.
+
+        6. Clean all entrance doors.
+
+        7. All floors to be swept with chemically treated cloths, spot mopped
+and spray buffed.
+
+        8. Dust and/or wash clean all directory boards and display glass.
+
+        9. All lights will be turned off, and specified doors locked at the
+completion of cleaning.
+
+           Weekly Cleaning Services:
+
+        1. Dust and clean all paneling, door trim and other architectural
+louvers, ornamental work, grills, picture frames, thermostats, baseboards,
+entire doors and woodwork.
+
+        2. Complete high dusting of pictures, frames, etc.
+
+        3. Spot clean all carpeted areas.
+
+        4. Spot clean all wall surfaces.
+
+        5. Wipe clean metal surfaces, kickplates, switch plates, signs and door
+saddles.
+
+        6. Dust and wipe clean all furniture, fixtures, shelving, desk
+equipment, window sills and door frames.
+
+           Monthly Cleaning Services:
+
+        1. All telephones will be sanitized.
+
+        2. Vacuum all upholstered furniture.
+
+           Yearly Cleaning Services:
+
+        1. Strip and refinish all floor areas.
+
+GENERAL OFFICE AREAS
+
+           Daily Cleaning Services:
+
+
+
+                                     E - 1
+
+<PAGE>
+
+        1. All waste and trash cans will be emptied. All waste and trash cans
+will be washed as needed.
+
+        2. All water fountains to be sanitized and polished.
+
+        3. Dust desk tops.
+
+        4. Spot clean all wall surfaces and columns.
+
+        5. Vacuum all carpeted areas; moving light furniture other than desks,
+file cabinets, etc.
+
+        6. Dust and spot mop all resilient tile floor areas. All floor edges
+will be damp mopped.
+
+        7. All glass partitions will be spot cleaned.
+
+           Weekly Cleaning Services:
+
+        1. Dust and clean all paneling, door trim, ornamental work, grills,
+picture frames, ventilating louvers, baseboards and entire doors.
+
+        2. Dust and wipe clean all furniture, fixtures, shelving, cabinets,
+window sills, picture frames, bases of all chairs, and desk tops with clean
+cloths.
+
+        3. Wipe clean metal door knobs, light switch plates, mirrors, kick
+plates, door saddles and directional signs.
+
+           Monthly Cleaning Services:
+
+        1. Complete all high dusting.
+
+        2. All telephones will be cleaned and sanitized.
+
+           Quarterly Cleaning Services:
+
+        1. Dust and wipe clean all diffusers and ventilators.
+
+        2. Damp mop and spray buff all resilient tile floor areas.
+
+           Yearly Cleaning Services:
+
+        1. Strip and refinish all resilient tile floor areas.
+
+        2. Dust blinds.
+
+RESTROOMS
+
+           Daily Cleaning Services:
+
+        1. All toilets and urinals will be sanitized and wiped clean.
+
+        2. All sinks and fixtures will be cleaned with a non-abrasive cleaner,
+sanitized and polished.
+
+        3. All paper towel and toilet tissue dispensers will be wiped clean.
+
+        4. All waste baskets and sanitary disposal units will be emptied.
+
+        5. Clean all mirrors with glass cleaner and chrome with chrome cleaner.
+
+        6. All dispensers will be refilled.
+
+
+
+                                     E - 2
+
+<PAGE>
+
+        7. All restroom floors will be damp mopped nightly using disinfectants.
+
+           Monthly Cleaning Services:
+
+        1. All walls, vertical and horizontal surfaces will be wiped clean and
+           sanitized.
+
+        2. All partitions, tiled walls and vertical surfaces will be wiped
+           clean.
+
+           Quarterly Cleaning Services:
+
+        1. All restroom floors will be machine scrubbed.
+
+CORRIDORS AND COMMON AREAS
+
+           Daily Cleaning Services:
+
+        1. All drinking fountains will be sanitized and polished.
+
+        2. All waste trash cans will be emptied.
+
+        3. Wipe clean all metal door knobs, light switch plates, kick plates,
+mirrors, door saddles and directional signs.
+
+        4. Sweep with chemically treated mops; damp mop to remove spill off.
+
+           Weekly Cleaning Services:
+
+        1. Spray buff all resilient tile floor areas.
+
+        2. All fire extinguishers will be dusted.
+
+        3. Spot clean all wall surfaces and columns; including stainless steel
+work.
+
+        4. Dust and wipe clean all furniture, fixtures, shelving, cabinets,
+window sills and picture frames with clean cloths.
+
+           Monthly Cleaning Services:
+
+        1. Complete all high dusting.
+
+        2. Dust and wipe clean all paneling, door trim, ornamental work, grills,
+picture frames, ventilating louvers, baseboards and entire doors.
+
+           Quarterly Cleaning Services:
+
+        1. Dust and wipe clean all air diffusers and ventilators.
+
+           Yearly Cleaning Services:
+
+        1. Strip and refinish all resilient tile floor areas.
+
+ELEVATORS
+
+           Daily Cleaning Services:
+
+        1. All elevators will be cleaned maintaining all metal work throughout.
+
+        2. All resilient tile floor areas will be swept with a chemically
+treated dust mop and spot mopped. Carpeted surfaces will be vacuumed.
+
+           Weekly Cleaning Services:
+
+        1. All resilient tile floors will be mopped and spray buffed.
+
+
+
+                                     E - 3
+<PAGE>
+
+        2. All walls will be wiped clean.
+
+           Monthly Cleaning Services:
+
+        1. Vacuum elevator door tracks and saddles.
+
+STAIRWELLS AND MISCELLANEOUS
+
+           Weekly Cleaning Services:
+
+        1. All stairs will be swept and mopped.
+
+        2. All metal and framework will be dusted and wiped clean.
+
+        3. All janitorial closets will be kept clean and orderly.
+
+
+
+                                     E - 4
+
+</TEXT>
+</DOCUMENT>

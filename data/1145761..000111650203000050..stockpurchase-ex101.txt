@@ -1,0 +1,547 @@
+<DOCUMENT>
+<TYPE>EX-10.1
+<SEQUENCE>3
+<FILENAME>stockpurchase-ex101.txt
+<DESCRIPTION>STOCK PURCHASE AGREEMENT
+<TEXT>
+
+                                   EXHIBIT 10.1
+                            STOCK PURCHASE AGREEMENT
+
+         This Stock Purchase Agreement (the "AGREEMENT") dated as of the 20th
+day of January 2003, is by and amongst ROHIT PATEL, an individual residing in
+Palm Beach County, Florida (hereinafter referred to as "Buyer" or "Patel") and
+KC Investment Management Inc. (a Kansas Corporation) and Sequoia Corporation (a
+Kansas Corporation) (collectively the " Shareholders").
+
+         WHEREAS, the respective parties deem the purchase and sale of the
+Heritage Companies, Inc. (the "Company" or "Heritage") common stock to be
+desirable generally to the welfare and advantage of each;
+
+         NOW, THEREFORE, in consideration of the premises and the mutual
+agreements and covenants herein contained, and for the purpose of prescribing
+the terms and conditions of such acquisition, the mode of carrying it into
+effect, and such other details and provisions as are necessary or desirable, the
+parties hereto hereby represent, warrant, covenant and agree as follows:
+
+                                    ARTICLE I
+                                PLAN OF AGREEMENT
+
+         1.01     (a) Number of Shares and other Consideration. Subject to the
+further conditions of this Agreement and the truth of the representations and
+warranties provided herein, the Shareholders set forth in Exhibit 1.01(a) agree
+to transfer to Buyer a total of 1,188,088 shares of the common stock of Heritage
+(the "Shares").Said Shares will, at the Closing, represent approximately 52% of
+the issued and outstanding shares of common stock of Heritage.
+
+                  The Purchase Price for the Shares shall be $225,000 to be paid
+pursuant to a promissory note. The note shall be non- interest bearing and
+provide for payment in full 90 days following the closing of this transaction.
+The note will be guaranteed by Traderight Corp. form of the promissory note and
+guarantee is attached hereto as Exhibit 1.01.
+
+                  At Closing, the Shareholders will deliver the Shares to Patel
+with appropriate stock powers and Medallion Signature Guaranteed.
+
+                  (b) Adjustments to the Purchase Price:
+
+                  There shall be a dollar for dollar reduction in the purchase
+price and any amounts due under the promissory note if the total liabilities
+(valid cash liability determined in accordance with Generally Accepted
+Accounting Principles or claims which require cash payments to creditors or
+shareholders) of the Company at closing exceed $5,000. Shareholders will, at
+their cost, deliver to Buyer within 45 days of closing, a certified audit report
+on Heritage Companies, Inc. financial statements as of and for the year ended
+December 31, 2002.
+
+         1.02. Releases. Concurrently with the Closing, the Shareholders shall
+execute a general release as to all promissory notes or other obligations due
+the Shareholders from Heritage.
+
+                                   ARTICLE II
+         REPRESENTATIONS AND WARRANTIES OF COMPANY AND THE SHAREHOLDERS
+
+                  The Shareholders represent and warrants to Buyer that:
+
+         2.01     (a) Incorporation, Common Stock, Etc. Heritage is a
+corporation duly organized and existing in good standing under the laws of
+Nevada. Attached hereto as Schedule 2.01 is a copy of the Company's Articles of
+Incorporation. Company has full corporate power and authority to carry on its
+business as it is now being conducted and to own and operate its assets,
+businesses and properties. Company has authorized capital stock consisting of
+20,000,000 shares of Common Stock, par value $0.001 per share, of which
+2,291,836 are issued and outstanding. There are no preferred shares authorized.
+There are, and at the Closing will be no outstanding subscriptions, options,
+warrants, convertible securities, calls, commitments or agreements calling for
+or requiring issuance or transfer, sale or other disposition of any shares of
+capital stock of the Company or calling for or requiring the issuance of any
+securities or rights convertible into or exchangeable (including on a contingent
+basis) for shares of capital stock. All of the outstanding shares of the Company
+are duly authorized, validly issued, fully paid and non-assessable. There are no
+dividends due, to be paid or in arrears with respect to any of the capital stock
+of Company.
+
+                  (b) The Company's stock and minute books made available to the
+Buyer for review, are correct and complete as of the date provided. The copies
+of the Articles of Incorporation, Bylaws and
+
+
+<PAGE>
+
+
+
+Stock Registrar of the Company provided to Buyer are true and accurate and
+reflect all amendments made thereto through the date of this Agreement.
+
+         2.02 Company Financial Statements. Attached hereto as Schedule 2.02 are
+the year end audited financial statements for the Company dated December 31,
+2001 and the quarterly financial statements dated September 30, 2002. Said
+statements have been prepared using Generally Accepted Accounting Principles.
+These financial statements fairly present in all material respects the financial
+position of the Company. All known liabilities of the Company are set forth in
+the financial statements and there are not undisclosed liabilities of any kind
+or nature. All indicated accounts receivable arose from bona fide transactions
+in the ordinary course of business, and the goods or services involved have been
+sold, delivered and performed to the account. As of the Closing Date, the
+Company's financial position will approximate zero assets and zero liabilities
+as determined by Generally Accepted Accounting Principles.
+
+         Except for the disposition of Blair Consulting Group, LLC, and matters
+related thereto and in connection with the December 17, 2002 meeting of the
+Board of Directors, there has been no material change in the financial
+conditions or operations of the Company.
+
+         2.03 Litigation. There are no actions, proceedings, or investigations
+pending or, to the best of its knowledge, threatened or contemplated against the
+Company or any of its subsidiaries at law or in equity, before any federal,
+state, municipal or other governmental department, commission, board, agency or
+instrumentality, domestic or foreign. The Company is not subject to any
+outstanding judgments or operating under or subject to or in default with
+respect to any order, writ, injunction or decree of any court or federal, state,
+municipal or other governmental department, commission, board, agency or
+instrumentality, domestic or foreign.
+
+         2.04 Compliance with Laws. The Company has complied in all material
+respects with all laws, regulations, orders, domestic and foreign, and neither
+the present uses of its properties nor the conduct of its business violates any
+such laws, regulations, orders or requirements, where such violation would have
+a material adverse effect on the Company, and except as set forth in Schedule
+2.04, the Company has not received any notice of any claim or assertion that it
+is not so in compliance.
+
+         Except as set forth on Schedule 2.04(b), there have never been any
+hazardous materials stored on the property. The Company is currently in
+compliance with all applicable environmental laws, the Company has never
+received any inquiry from any governmental organization and there are no pending
+or contemplated investigations regarding the same.
+
+         2.05 Indebtedness. Except as set forth on Schedule 2.05 or as reflected
+on the financial statements, the Company, has not executed any instruments, or
+entered into any agreements or arrangements pursuant to which the Company has
+borrowed any money, incurred or guaranteed any indebtedness or established any
+line of credit which represents a liability of the Company as of the date
+thereof.
+
+         2.06 No Defaults. Neither the execution nor delivery of this Agreement
+nor the consummation of the contemplated transaction are events which, of
+themselves or with the giving of notice or passage of time or both, could
+constitute a violation of or conflict with or result in any breach of or default
+under the terms, conditions or provisions of any judgment, law, regulation or
+agreement, or the Company's Articles of Incorporation or Bylaws, or of any
+agreement or instrument to which Company or any Shareholder is a party or by
+which it is bound; or could result in the creation or imposition of any lien,
+charge or encumbrance of any nature whatsoever on the property or assets of
+Company; and no consent of any third party except as expressly contemplated
+herein is required for the consummation of this Agreement by the Shareholders.
+
+         2.07 Authority, Approval and Enforceability. This Agreement has been
+duly executed and delivered by the Shareholders. The Shareholders have all
+requisite power and legal capacity to execute this Agreement. This Agreement
+will constitute the legal, valid and binding obligation of such party,
+enforceable in accordance with its terms. This Agreement constitutes a valid,
+legal and binding agreement of Shareholders and is enforceable in accordance
+with its terms. Upon delivery to the Buyer of certificates representing the
+Shares, good and valid title to the Shares will pass to the Buyer free and clear
+of all liens and encumbrances.
+
+<PAGE>
+
+         The Company obtained all required consents in connection with the
+disposition of the membership interests owned in Blair Consulting Group, LLC.
+
+         There are no liabilities of any kind or nature in connection with
+either the operations of Heritage Brick, LLC or the termination of its option to
+purchase a manufacturing facility.
+
+         The issuance or redemption of any of the Company's shares of common
+stock has been in compliance with applicable state and federal securities laws
+and the Company has made all required filings with the SEC and any state
+regulatory authority in connection therewith.
+
+         2.08 Liabilities.. As of the September 30, 2002 Balance Sheet date (see
+attached), the Company has not incurred any other liabilities except those
+incurred in the ordinary course of business. The September 30, 2002 Balance
+Sheet sets forth all liabilities of the Company, contingent or otherwise as of
+that date.
+
+         2.09 Taxes. All federal, state, and local tax returns, reports and
+declarations of estimated tax or estimated tax deposit forms required to be
+filed by Company have been duly filed; the Company has paid or reserved for all
+taxes which have become due pursuant to such returns or pursuant to any
+assessment received by it, and has paid all installments of estimated taxes due;
+and all taxes, levies and other assessments which it is required by law to
+withhold or to collect have been duly withheld and collected and have been paid
+over to the proper governmental authorities. The Company has no knowledge of any
+tax deficiency which has been or might be asserted against it which would
+materially and adversely affect the business or operations of the Company. Prior
+to Closing, the Company shall provide Buyer with copies of all tax returns, of
+any kind or nature, filed by Company, together with all accounting information.
+
+         2.10 Title to Property; Leases. The Company has good and defensible
+title in fee simple to, or valid and enforceable leasehold estates in, all
+properties and assets, which are material to its continued operations, free and
+clear of all liens, encumbrances, charges or restrictions except those which are
+not materially significant or important in relation to its operations and
+business. Except as set forth in Schedule 2.11, all of such leases and subleases
+under which Company is the lessor or sublessor, lessee or sublessee of
+properties or assets or under which Company holds properties or assets as lessee
+or sublessee are in full force and effect. The Company is not in default in any
+material respect of any of the terms or provisions of any of such leases or
+subleases, and no claim has been asserted by anyone adverse to the Company's
+rights as lessor, sublessor, lessee or sublessee under any of the leases or
+subleases mentioned above, or affecting or questioning the Company's rights to
+continued possession of the leased or subleased premises or assets under any
+such lease or sublease; and Company either owns or leases all such properties as
+are necessary to its operations as now conducted.
+
+         2.11 Licenses. The Company has obtained all required licenses, permits
+or other governmental authorization for the conduct of its business as now being
+conducted.
+
+         2.12 Bank Accounts. Attached hereto as Schedule 2.13 is a listing of
+all bank accounts and account numbers which are currently held by the Company.
+Concurrent with the Closing, the Company shall take such steps as necessary in
+order to close any and all such accounts.
+
+         2.13 Contracts and Commitments. Except as set forth in Schedule 2.14,
+there are no contracts nor commitments of the Company requiring any future
+payment to an officer, director, employee, agent or shareholder of Company. Also
+attached and marked as Schedule 2.14(b) is a list of all current employees and
+the salary of each. As of the Closing Date, all salaries due and payable have
+been paid or properly accrued. The Company is not a party to any Agreement,
+which requires the payment of more than $5,000 on any annual basis. Any
+agreements listed on this schedule are valid and binding agreements of the
+Company.
+
+<PAGE>
+
+
+         2.14 Representations True and Correct. This Agreement and the Exhibits
+attached hereto do not contain any untrue statement of a material fact
+concerning Company or omit any material fact concerning Company or the
+Shareholders which is necessary in order to make the statements therein not
+misleading. All of the representations and warranties contained herein(including
+all statements contained in any certificate or other instrument delivered by or
+on behalf of the Shareholders pursuant hereto or in connection with the
+transactions contemplated hereby) shall survive the Closing.
+
+         2.15 Retirement Plans. Neither the Company nor any of its subsidiaries
+are obligated under any pension plan, profit sharing or similar employee benefit
+plan. Any pension liabilities have been satisfied in full and there is no
+obligation on the part of the Company to fund any pension plans.
+
+         2.16 Intellectual Property Rights. Attached hereto as Schedule 2.17 is
+a list of all trademarks, trade names and formulas which are owned by the
+Company, both domestic and foreign, together with copies of any official notices
+from any issuing governing organization. The Company has valid ownership to all
+trademarks identified in Schedule 2.17 and has been granted by the United States
+Patent and Trademark Office valid trademarks. The Company is not aware of any
+claims for trademark or patent infringement in connection with any of its
+products or services. The Company owns or has the right to use any information,
+know-how, trade secrets, patents, copyrights, trademarks, trade names, trade
+secrets, software and other intangible property rights used in its business
+operation.
+
+         2.17 Inventory and Product. The Company as of the date of Closing will
+have no inventory of any kind or nature.
+
+         2.18 Indemnification. The Shareholders shall indemnify and hold Buyer,
+its officers and directors, harmless of and in respect of:
+
+                  (1) Any damage or loss resulting from any breach of a
+representation or warranty, or non-fulfillment of an agreement on the part of
+the Company under this Agreement or from any misrepresentation or omission from
+any certificate or other instrument furnished to Buyer pursuant to this
+Agreement. or from any misrepresentation or omission from any certificates or
+other instrument furnished to Buyer pursuant to this Agreement.
+
+         The foregoing indemnification shall apply to claims for indemnification
+that in the aggregate exceed $5,000 and shall be limited to a term of one year
+following Closing. The Buyer shall promptly after receipt by it of notice of the
+assertion or the commencement of any claim with respect to an issue giving rise
+to indemnification advise the Shareholders and keep them so advised.
+Notwithstanding the foregoing, the Buyer shall be indemnified and held harmless
+from any claims by any shareholder for rescission or similar remedy in
+connection with the sale of the Company's common stock
+
+         Shareholders may defend at own cost and expense with counsel
+satisfactory to the Buyer, any indemnification claim.
+
+         2.19 Ownership of the Shares. The Shares are owned in fee simple by the
+Shareholders. The Shares are owned free and clear of any liens or encumbrances
+of any kind or nature except for any applicable restrictions imposed by Rule
+144.
+
+                                   ARTICLE III
+                     REPRESENTATIONS AND WARRANTIES OF BUYER
+
+         Buyer represents and warrants to the Shareholders that:
+
+         3.01 Authority, Approval and Enforceability. This Agreement has been
+duly executed and delivered by Buyer which has all requisite power and legal
+capacity to execute this Agreement. This Agreement constitutes the legal, valid
+and binding obligation of Buyers, enforceable in accordance with its terms.
+
+
+<PAGE>
+
+
+         3.02 Representations, True and Correct. This Agreement does not contain
+any untrue statement of a material fact concerning the Buyer or omit any
+material fact concerning the Buyer which is necessary in order to make the
+statements therein not misleading. The representations and warranties contained
+herein shall survive the Closing.
+
+         3.03 Indemnification. The Buyer shall indemnify and hold the
+Shareholders harmless of and in respect of:
+
+         (1) Any damages or loss resulting from any breach of a representation
+or warranty, or nonfulfillment of an agreement, on the part of the Buyer under
+this Agreement.
+
+         The Shareholders shall promptly after receipt by them of notice of the
+assertion or the commencement of any claim with respect to any issues giving
+rise to indemnification pursuant to this Section 3.03 advise the Buyer and
+thereafter keep Buyer informed with respect thereto. In the case of any such
+claim, the Buyer shall be entitled to assume the defense thereof with counsel
+reasonably satisfactory to Shareholders and at the Buyer's own expense.
+
+         Buyer may defend at own cost and expense with counsel satisfactory to
+the Shareholders, any indemnification claim.
+
+                                   ARTICLE IV
+                 CONDITIONS TO THE OBLIGATIONS OF BUYER TO CLOSE
+
+         The obligations of Buyer under this Agreement are subject to the
+fulfillment of the following conditions at, or prior to, the Closing Date:
+
+         4.01 Representations, Warranties and Covenants. All representations and
+warranties of the Shareholders contained in this Agreement and in any statement,
+certificate, schedule or other document delivered by Shareholders pursuant
+hereto or in connection herewith shall have been true and accurate in all
+respects as of the date when made and as of the Closing Date.
+
+         4.02 Covenants, Etc. Shareholders shall have substantially performed
+and complied with each and every covenant, agreement and condition required by
+this Agreement to be performed or complied with by them prior to, or at, the
+Closing Date including delivery of all required schedules as set forth in
+Article II.
+
+         4.03 Certificate. Shareholders shall have delivered to Buyer, a
+certificate of the President and Secretary of the Shareholders, dated the
+Closing Date, certifying to the fulfillment of the conditions set forth in
+Schedules 4.01 and 4.02.
+
+         4.04 Proceedings. No action or proceedings shall have been instituted
+or threatened against the Company which could materially adversely affect the
+business of the Company. No action or proceeding shall have been instituted or
+threatened against any of the parties to this Agreement or their directors or
+officers before any court or governmental agency to restrain, prohibit or obtain
+substantial damages in respect of this Agreement or the consummation of the
+transaction contemplated hereby.
+
+         4.05 Corporate Documents. Prior to Closing, the Shareholders shall
+furnish to Buyer copies of the Articles of Incorporation of Company and each
+amendment thereto, if any, which shall be certified by a proper Company
+official; one copy of the By-Laws and minutes of Company by its secretary or an
+assistant secretary as being currently in effect.
+
+         4.06 Document & Production. This Agreement is expressly conditioned on
+Shareholders providing all identified schedules and exhibits at the time of
+Closing.
+
+         4.07 Resignation and Election of Directors. At Closing, the
+Shareholders shall provide Buyers with the signed resignation of all Company
+officers and directors of the Company and provide for the appointment of
+individuals to be designated by the Buyer.
+
+
+<PAGE>
+
+
+                                    ARTICLE V
+                CONDITIONS TO THE OBLIGATIONS OF THE SHAREHOLDERS
+
+         The obligations of the Company and the Shareholders under this
+Agreement are subject to the fulfillment of the following conditions at or prior
+to th Closing Date:
+
+         5.01 Representations, Warranties and Covenants. All representations and
+warranties of Buyer contained in this Agreement and in any statement,
+certificate, schedule or other document delivered pursuant hereto, or in
+connection herewith, shall have been true and accurate in all respects as of the
+date when made and as of the Closing Date:
+
+         5.02 Covenants, Etc. Buyer shall have substantially performed and
+complied with each and every covenant, agreement and condition required by this
+Agreement to be performed or complied with by it prior to, or at, the Closing
+Date.
+
+                                   ARTICLE VI
+                            MISCELLANEOUS PROVISIONS
+
+         6.01 Abandonment of Agreement. This Agreement may be terminated and the
+transaction hereby contemplated abandoned at any time prior to the Closing Date,
+whether before or after the approval and adoption hereof by the Shareholders by
+(a) the mutual consent of the parties, (b) by Buyer, if any condition to its
+obligations provided in this Agreement has not been met at the time such
+condition is to be met and has not been waived by it and (c) by Shareholders, if
+any condition to its obligations provided in this Agreement has not been met at
+the time such condition is to be met and has not been waived by it.
+
+         6.02 Liabilities. In the event this Agreement is terminated pursuant to
+Section 6.01, no party hereto shall have any liability to the other and each
+party shall bear their own costs incurred.
+
+         6.03 Survival of Representations and Warranties.
+Shareholders and Buyers agree all representations and warranties contained
+herein or made hereunder shall survive until the first anniversary of the
+Closing, except that any breach disclosed in writing to either party prior to
+Closing is waived by such party if it elects to close notwithstanding such
+breach.
+
+         6.04 Notices. All notices, demands and other communications, which may
+or are required to be given pursuant to this Agreement shall be given pursuant
+to this Agreement shall be given or made when personally delivered or when sent
+via overnight delivery service, postage pre-paid, addressed as follows:
+
+Sequoia Corporation
+8831 Delmar
+Shawnee Mission, Kansas 66207
+
+KC Investment Management, Inc.
+6490 NW Valley Drive
+Parkville, Mo. 64152
+
+Rohit Patel
+2424 N. Federal Highway
+Suite 350
+Boca Raton, FL 33431.
+
+<PAGE>
+
+With a copy to:
+
+Jeffrey Klein
+Newman, Pollock & Klein
+2101 NW Corporate Blvd.
+Suite 414
+Boca Raton, Florida 33431
+
+         6.05 Closing. The closing date for the contemplated transaction shall
+be on or before January 20, 2003.
+
+         6.06 Entire Agreement. This Agreement constitutes the entire agreement
+between the parties and supersedes and cancels any and all prior agreements
+between the parties relating to its subject matter. The representations,
+warranties, covenants and conditions of the obligations of the parties hereto
+may not be orally amended, modified or altered, but may be amended, modified or
+altered in a writing signed by each of the parties, whether before or after the
+meeting of shareholders of Company contemplated herein.
+
+         6.07 Captions. The captions of Articles and Sections of Articles hereof
+are for convenience only and shall not control or affect the meaning or
+construction of any of the provisions of this Agreement.
+
+         6.08 Governing Law. This Agreement shall be governed by, construed and
+enforced in accordance with the laws of the State of Florida and jurisdiction
+for any dispute shall be in Palm Beach County, Florida. By entering into this
+Agreement, the parties agree to the jurisdiction of the state courts within the
+state of Florida. In the event of any litigation arising out of this Agreement,
+the prevailing party shall be entitled to recover from the other party all costs
+including reasonable attorneys fees.
+
+         6.09 Waivers. Any failure of either party hereto to comply with any of
+its obligations or agreements, or to fulfill conditions herein contained may be
+waived in writing by the other party. No waiver by any party of any condition or
+the breach of any provision, term, covenant, representation or warranty
+contained in this Agreement, whether by conduct or otherwise, shall be deemed to
+be or construed as a further or continuing waiver of any such condition or of
+the breach of any other provision, term, covenant, representation, or warranty
+of this Agreement.
+
+         6.10 Counterparts. This Agreement may be executed in several
+counterparts and all so executed shall constitute one agreement, binding upon
+all of the parties hereto, notwithstanding that not all of the parties are
+signatory to the original or the same counterpart.
+
+         6.11 Successors. The terms covenants and conditions of the Agreement
+shall inure to the benefit of and be binding upon the parties hereto and their
+respective heirs, legal representatives, successors and assigns.
+
+         6.12 Binding Agreement. This Agreement represents the entire agreement
+among the parties hereto with respect to the matters described herein and is
+binding upon and shall inure to the benefit of the parties hereto and their
+legal representatives. This Agreement may not be assigned and, except as stated
+herein, may not be altered or amended except in writing executed by the party to
+be charged.
+
+         6.13 Confidentiality. Each of the parties hereto and their respective
+agents will maintain the confidentiality of all information provided in
+connection with this Agreement which has not been publicly disclosed.
+
+
+<PAGE>
+
+
+         THIS AGREEMENT ENTERED INTO THE DATE SET FORTH ABOVE.
+
+
+THE SHAREHOLDERS:
+
+KC INVESTMENT MANAGEMENT, INC.
+
+/s/Thomas Heckman
+--------------------------------
+BY:
+ITS:
+
+SEQUOIA CORPORATION
+
+/s/Lee Greif
+--------------------------------
+BY:
+ITS:
+
+
+/s/Thomas Heckman
+--------------------------------
+THOMAS HECKMAN, INDIVIDUALLY
+
+
+As to Articles II, IV and VI
+
+/s/Lee Greif
+--------------------------------
+LEE GREIF, INDIVIDUALLY
+As to Articles II, IV and VI
+
+BUYER:
+
+/s/Rohit Patel
+--------------------------------
+ROHIT PATEL
+
+
+</TEXT>
+</DOCUMENT>

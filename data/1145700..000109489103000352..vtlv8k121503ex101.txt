@@ -1,0 +1,608 @@
+<DOCUMENT>
+<TYPE>EX-10.1
+<SEQUENCE>8
+<FILENAME>vtlv8k121503ex101.txt
+<DESCRIPTION>FORM OF REGISTRATION RIGHTS AGREEMENT
+<TEXT>
+                               VITAL LIVING, INC.
+
+                          REGISTRATION RIGHTS AGREEMENT
+
+     This REGISTRATION RIGHTS AGREEMENT (the "Agreement"),  dated as of December
+15, 2003, is made by and between Vital Living,  Inc., a Nevada  corporation (the
+"Company"),  and the  individuals  and entities set forth on the signature  page
+hereto  as such page may be  amended  from  time to time to  include  Additional
+Investors (as defined in Section 12) (each an "Investor" and  collectively,  the
+"Investors").
+
+     WHEREAS,  in connection with that certain Securities  Purchase Agreement by
+and among the Company and the Investors of even date  herewith (the  "Securities
+Purchase  Agreement"),  the Company  desires to sell to the  Investors,  and the
+Investors  desire to  purchase  from the  Company,  (a) certain  senior  secured
+convertible notes (each a "Note" and collectively the "Notes"), and (b) warrants
+(the  "Warrants") to purchase shares of the Company's  common stock,  $0.001 par
+value per share (the "Common Stock"); and
+
+     WHEREAS,  to induce the  Investors to purchase the Notes and the  Warrants,
+the  Company has agreed to  register  the shares of Common  Stock into which the
+Notes may be  convertible  and the shares of Common Stock issuable upon exercise
+of the Warrants pursuant to the terms of this Agreement;
+
+     NOW, THEREFORE,  the Company and the Investors hereby covenant and agree as
+follows:
+
+     1. Certain  Definitions.  As used in this  Agreement,  the following  terms
+shall have the following respective meanings:
+
+     "Commission"  shall mean the  Securities  and Exchange  Commission,  or any
+other federal agency at the time administering the Securities Act.
+
+     "Common Stock" shall mean the common stock,  par value $0.001 per share, of
+the Company.
+
+     "Exchange Act" shall mean the Securities  Exchange Act of 1934, as amended,
+and the rules and  regulations  of the  Commission  thereunder,  all as the same
+shall be in effect at the time.
+
+     "Register,"   "registered"  and  "registration"   each  shall  refer  to  a
+registration  effected  by  preparing  and filing a  Registration  Statement  or
+statements or similar  documents in compliance  with the  Securities Act and the
+declaration  or ordering of  effectiveness  of such  Registration  Statement  or
+document by the Commission.
+
+     "Registrable  Securities"  shall mean (i) the Common  Stock  issuable  upon
+conversion  of the Notes (or that may be  issuable  upon the  conversion  of any
+other equity security  issuable upon  conversion of the Notes),  (ii) the Common
+stock  issuable  upon  exercise of the  Warrants,  and (iii) any other shares of
+Common Stock issued as a dividend,  interest payment or other  distribution with
+
+<PAGE>
+
+respect to or in  exchange  for or in  replacement  of such  Notes,  Warrants or
+Common  Stock,  provided,  however,  that  shares  of  Common  Stock  which  are
+Registrable  Securities  shall cease to be  Registrable  Securities (x) upon any
+sale pursuant to a Registration  Statement or Rule 144 under the Securities Act,
+(y) at such time,  as they may be freely sold by the  Investor  pursuant to Rule
+144(k) under the  Securities  Act or (z) upon any sale in any manner to a person
+or entity which is not entitled, pursuant to Section 9, to the rights under this
+Agreement.
+
+     "Securities Act" shall mean the Securities Act of 1933, as amended, and the
+rules and regulations of the Commission thereunder,  all as the same shall be in
+effect at the applicable time.
+
+     "Capitalized terms" used but not defined herein shall have the meanings set
+forth in the Securities Purchase Agreement or the Notes.
+
+     2. Registration.
+
+     (a) The Company shall file with the Commission a Registration  Statement on
+Form SB-2, S-1 or S-3 or such other appropriate form as may be prescribed by the
+Securities  Act,  covering the  Registrable  Securities on or before January 14,
+2004 (the "Target  Registration  Date"). In the event that (i) such Registration
+Statement is not filed by the Target Registration Date or (ii) the Company fails
+to respond in writing to comments received from the Commission within 30 days of
+receipt of such comments,  the Company will pay to each Investor,  as liquidated
+damages, an amount equal to 2.0% of the principal amount of such Investor's Note
+for each 30-day period (or pro rata for any portion thereof) for so long as such
+circumstance  continues.  The amounts payable as liquidated  damages pursuant to
+this  paragraph  shall be payable in lawful money of the United States and shall
+be paid  monthly  within  ten (10)  business  days of the last day of each month
+following the Target  Registration Date until (i) the Registration  Statement is
+filed  with the SEC or (ii) the  Company  has  responded  to  comments  from the
+Commission, as applicable. Amounts payable as liquidated damages hereunder shall
+cease when a Investor no longer holds Registrable Securities.
+
+     (b) The Company shall use reasonable best efforts to have such Registration
+Statement  declared effective as promptly as practicable and no later than April
+15, 2004 (the "Target  Effective  Date"),  and to maintain the effectiveness and
+use of such  Registration  Statement until no earlier than (i) the date on which
+all  of the  Registrable  Securities  may be  resold  by the  Investors  without
+restriction  pursuant to Rule 144(k) under the Securities  Act, or (ii) the date
+on which all of the Registrable  Securities have been sold. If the  Registration
+Statement  is (i) not  declared  effective  by the SEC on or before  the  Target
+Effective Date or (ii) subject to customary  blackout  periods  described below,
+such  Registration  Statement  does not remain  effective and available for use,
+then the Company  will pay to each  Investor  that is then  holding  Registrable
+Securities,  as  liquidated  damages,  an amount equal to 2.0% of the  principal
+amount  of such  Investor's  Note for each  30-day  period  (or pro rata for any
+portion   thereof)   following  the  Target  Effective  Date  during  which  the
+Registration  Statement is not declared  effective or does not remain  effective
+and available for such use. The amounts payable as liquidated  damages  pursuant
+to this  paragraph  shall be  payable in lawful  money of the United  States and
+shall be paid monthly within ten (10) business days of the last day of each
+
+                                       2
+<PAGE>
+
+month following the Target  Effective Date until the  Registration  Statement is
+declared  effective by the SEC and  available for such use.  Amounts  payable as
+liquidated  damages  hereunder  shall  cease  when a  Investor  no longer  holds
+Registrable Securities.  Notwithstanding the foregoing, in the event the Company
+furnishes to each Investor a certificate  signed by the Chief Executive  Officer
+of the  Company  (each,  a  "Blackout  Notice")  stating  that in the good faith
+judgment  of the  Board of  Directors  of the  Company  it  would be  materially
+detrimental  to the  Company  and its  stockholders  to amend  the  Registration
+Statement because such amendment would require disclosure of material non-public
+information, the disclosure of which would have a material adverse effect on the
+Company  taken as a whole,  the  Company  shall be excused  from  amending  such
+Registration Statement and from paying damages hereunder for a reasonable period
+of time not to exceed forty-five (45) days.
+
+     (c) The  Company  agrees  that it will not enter  into any  acquisition  or
+disposition  agreements which, upon consummation,  would require the filing of a
+Current Report on Form 8-K containing audited financial  statements (a "Material
+Acquisition")   until  the  Registration   Statement  covering  the  Registrable
+Securities is declared  effective.  The Company  further agrees that,  after the
+Registration   Statement   covering  the  Registrable   Securities  is  declared
+effective,  it will not enter into an agreement for any Material Acquisition for
+a period of at least 60 days unless such Registration Statement is on Form S-3.
+
+     3. Registration Procedures.  If and whenever the Company is required by the
+provisions  of Section 2 hereof to effect the  registration  of any  Registrable
+Securities  under the  Securities  Act, the Company  will, as  expeditiously  as
+possible:
+
+     (a) prepare and file with the  Commission the  Registration  Statement with
+respect to such  securities,  which  Registration  Statement shall comply in all
+material  respects  with  the  requirements  of  the  Commission,  and  use  its
+reasonable best efforts to cause such Registration Statement to become effective
+not later than 60 days from the Target Effective Date;
+
+     (b) prepare and file with the Commission such amendments and supplements to
+such Registration  Statement and the prospectus used in connection  therewith as
+may be necessary to keep such  Registration  Statement  effective and up-to-date
+and  comply  with  the  provisions  of the  Securities  Act  and the  rules  and
+regulations  promulgated  thereunder  with  respect  to the  disposition  of all
+Registrable Securities covered by such Registration Statement in accordance with
+the intended method of disposition set forth in such Registration  Statement for
+such period;
+
+     (c) furnish to each Investor  proposing to sell Registrable  Securities and
+to  each  underwriter  such  number  of  copies  of the  Registration  Statement
+(including  amendments and supplements  thereto and, in each case, all exhibits)
+and the  prospectus  included  therein  (including  each  preliminary or summary
+prospectus)  as such persons  reasonably  may request in order to facilitate the
+intended disposition of the Registrable  Securities covered by such Registration
+Statement;
+
+     (d) use its  best  efforts  (i) to  register  or  qualify  the  Registrable
+Securities covered by such Registration  Statement under the securities or "blue
+sky" laws of such  jurisdictions as the Investors  proposing to sell Registrable
+
+                                       3
+<PAGE>
+
+Securities  or, in the case of an  underwritten  public  offering,  the managing
+underwriter,  reasonably  shall  request,  (ii) to  prepare  and  file in  those
+jurisdictions  such  amendments   (including   post-effective   amendments)  and
+supplements,  and take such other actions,  as may be necessary to maintain such
+registration  and  qualification  in  effect  at all  times  for the  period  of
+distribution  contemplated thereby, and (iii) to take such further action as may
+be  necessary  or  advisable  to  enable  the  disposition  of  the  Registrable
+Securities in such jurisdictions,  provided,  that the Company shall not for any
+such purpose be required to qualify  generally to transact business as a foreign
+corporation  in any  jurisdiction  where it is not so qualified or to consent to
+general service of process in any such jurisdiction;
+
+     (e) use its best efforts to list the Registrable Securities covered by such
+Registration Statement with any securities exchange on which the Common Stock of
+the Company is then listed;
+
+     (f)  immediately  notify  each  Investor  and each  underwriter  under such
+Registration  Statement,  at any time  when a  prospectus  relating  thereto  is
+required to be  delivered  under the  Securities  Act, of the  happening  of any
+event, or the discovery thereof as a result of which the prospectus contained in
+such Registration Statement, as then in effect, includes any untrue statement of
+a material fact or omits to state a material fact required to be stated  therein
+or  necessary  to make the  statements  therein not  misleading  in light of the
+circumstances then existing and prepare and furnish to each Investor such number
+of copies of a supplement  to, or an  amendment  of, such  prospectus  as may be
+necessary so that, as thereafter delivered to the purchasers of such securities,
+such, such prospectus  shall not include an untrue  statement of a material fact
+or omit to state a material fact  required to be stated  therein or necessary to
+make the statements  therein not misleading in light of the  circumstances  then
+existing;
+
+     (g) promptly  notify each Investor of the issuance by the Commission of any
+stop order suspending the  effectiveness  of the  Registration  Statement or the
+initiation of any proceedings for that purpose and make every reasonable  effort
+to prevent the  issuance of any stop order and, if any stop order is issued,  to
+obtain the lifting thereof at the earliest possible time;
+
+     (h) in connection with an underwritten offering,
+
+          (i) enter into an  underwriting,  agency,  placement,  subscription or
+other agreement with respect to the offer and sale of the Registrable Securities
+and  perform  its  obligations  thereunder,  in  usual  and  customary  form and
+substance, including, but not limited to,
+
+               (A) usual and customary indemnities;
+
+               (B)  the  provision  by  officers  of the  Company  of  customary
+certificates;
+
+               (C) the  provision  by  independent  counsel  to the  Company  of
+customary  opinions and letters (which counsel and opinions and letters shall be
+reasonably satisfactory to the lead underwriters) addressed to the Investors and
+
+                                       4
+<PAGE>
+
+the underwriters,  covering such matters as are customarily  covered in opinions
+and letters  requested in underwritten  offerings of equity and convertible debt
+securities  and  such  other  matters  as may  be  reasonably  requested  by the
+Investors and the  underwriters  (it being agreed that the matters to be covered
+by  such  opinions  and  letters  shall  include,  without  limitation,  (1) the
+effectiveness  of  the  Registration  Statement,   (2)  the  compliance  of  the
+Registration  Statement and the prospectus,  including any prospectus supplement
+thereto,  with the  requirements of the Securities Act, and (3) the absence from
+the  Registration   Statement  and  the  prospectus,   including  any  documents
+incorporated by reference therein and any prospectus  supplement  thereto, of an
+untrue  statement of a material fact or the omission of a material fact required
+to  be  stated  therein  or  necessary  to  make  the  statements   therein  not
+misleading); and
+
+               (D) the provision by the Company's independent public accountants
+of customary  "comfort letters" addressed to the Investors and the underwriters,
+covering such matters as are customarily  covered in "comfort letters" requested
+in  underwritten  offerings of equity and  convertible  debt securities and such
+other financial matters as may be reasonably  requested by the Investors and the
+underwriters;  and (ii) if requested by the underwriters,  participate,  and use
+its  best  efforts  to cause  its  executive  officers  to  participate,  in any
+"roadshow"  or other  marketing  activities  intended  to aid in the  successful
+disposition of the Registrable Shares;
+
+     (i)  take  all actions  reasonably   necessary  to  facilitate  the  timely
+preparation and delivery of certificates (not bearing any legend restricting the
+sale or transfer of such securities)  representing the Registrable Securities to
+be sold pursuant to the Registration  Statement and to enable such  certificates
+to be in such denominations and registered in such names as the Investors or any
+underwriters may reasonably request; and
+
+     (j) take all other reasonable  actions necessary to expedite and facilitate
+the  registration of the  Registrable  Securities  pursuant to the  Registration
+Statement.
+
+     4. Obligations of Holders.
+
+     Each Investor shall furnish to the Company such information  regarding such
+Investor,  the number of Registrable Securities owned and proposed to be sold by
+it,  the  intended  method  of  disposition  of such  securities  and any  other
+information as shall be required to effect the  registration  of the Registrable
+Securities,  and  cooperate  with the  Company  in  preparing  the  Registration
+Statement and in complying with the requirements of the Securities Act.
+
+     5.  Expenses.  All  expenses  incurred  by the  Company in  complying  with
+Sections 2 and 3 including, without limitation, all registration and filing fees
+(including  fees payable to the  Commission and any other  regulatory  body with
+which  the  Company  is  required  to  file),   printing   expenses,   fees  and
+disbursements  of counsel and  independent  public  accountants for the Company,
+fees and expenses (including counsel fees) incurred in connection with complying
+with  state  securities  or  "blue  sky"  laws,  fees  of  transfer  agents  and
+registrars, and reasonable fees and disbursements of one counsel for the holders
+of  Registrable  Securities,  but  excluding  any Selling  Expenses,  are called
+
+                                       5
+<PAGE>
+
+"Registration  Expenses."  All  underwriting  discounts and selling  commissions
+applicable to the sale of Registrable Securities are called "Selling Expenses."
+
+     The Company will pay all Registration  Expenses and the Selling Expenses in
+connection  with  each  sale  shall  be borne by the  participating  sellers  in
+proportion to the number of Registrable  Securities  sold by each or as they may
+otherwise agree.
+
+     6. Indemnification and Contribution.
+
+     (a) In the event of a  registration  of any of the  Registrable  Securities
+under the  Securities Act pursuant to the terms of this  Agreement,  the Company
+will  indemnify and hold harmless and pay and reimburse,  each Investor  selling
+Registrable Securities thereunder, including its directors, officers, employees,
+agents and  representatives,  each  underwriter of such  Registrable  Securities
+thereunder  and each other  person,  if any, who controls any such person within
+the  meaning of the  Securities  Act,  against any  losses,  claims,  damages or
+liabilities, joint or several, to which such person may become subject under the
+Securities  Act or  otherwise,  insofar  as  such  losses,  claims,  damages  or
+liabilities  (or actions in respect  thereof) arise out of or are based upon any
+untrue  statement or alleged untrue  statement of any material fact contained in
+any  Registration   Statement  under  which  such  Registrable  Securities  were
+registered   under  the  Securities  Act  pursuant  hereto  or  any  preliminary
+prospectus  or final  prospectus  contained  therein,  including  any  amendment
+thereto or supplement thereof or any documents  incorporated  therein,  or arise
+out of or are based upon the  omission or alleged  omission  to state  therein a
+material fact required to be stated  therein or necessary to make the statements
+therein not misleading,  or any violation or alleged violation of the Securities
+Act or any state securities or blue sky laws and will reimburse each such person
+for any legal or other expenses  reasonably  incurred by them in connection with
+investigating or defending any such loss,  claim,  damage,  liability or action;
+provided, that the Company will not be liable vis-a-vis a particular indemnified
+person if and to the extent  such  person's  loss,  claim,  damage or  liability
+arises out of or is based upon the Company's  reliance on an untrue statement or
+alleged untrue  statement or omission or alleged  omission so made in conformity
+with  information  furnished by such person in writing  specifically  for use in
+such Registration Statement or prospectus.
+
+     (b) In the event of a  registration  of any of the  Registrable  Securities
+under the  Securities  Act pursuant  hereto each  Investor  selling  Registrable
+Securities  thereunder,  severally  and not  jointly,  will  indemnify  and hold
+harmless the Company,  each person,  if any, who controls the Company within the
+meaning  of the  Securities  Act,  each  officer  of the  Company  who signs the
+Registration Statement,  each director of the Company, each underwriter and each
+person who controls any  underwriter  within the meaning of the Securities  Act,
+against all losses, claims,  damages or liabilities,  joint or several, to which
+the Company or such officer,  director,  underwriter or  controlling  person may
+become subject under the  Securities  Act or otherwise,  insofar as such losses,
+claims,  damages or liabilities (or actions in respect  thereof) arise out of or
+are based upon reliance on any untrue  statement or alleged untrue  statement of
+any material  fact  contained  in the  Registration  Statement  under which such
+Registrable  Securities were registered under the Securities Act pursuant hereto
+or any preliminary  prospectus or final  prospectus  contained  therein,  or any
+amendment or supplement  thereof, or arise out of or are based upon the omission
+or alleged  omission  to state  therein a material  fact  required  to be stated
+therein or
+
+                                       6
+<PAGE>
+
+necessary to make the statements therein not misleading,  and will reimburse the
+Company and each such officer, director,  underwriter and controlling person for
+any legal or other  expenses  reasonably  incurred  by them in  connection  with
+investigating or defending any such loss,  claim,  damage,  liability or action,
+provided,  that such Investor will be liable  hereunder in any such case only if
+and only to the extent that any such loss, claim, damage or liability arises out
+of or is based upon an untrue  statement or alleged untrue statement or omission
+or alleged  omission made in reliance upon and in  conformity  with  information
+pertaining  to such  Investor,  as such,  furnished in writing to the Company by
+such Investor specifically for use in such Registration Statement or prospectus,
+and provided,  that the liability of each Investor hereunder shall be limited to
+the proceeds  received by such Investor from the sale of Registrable  Securities
+covered by such  Registration  Statement.  Notwithstanding  the  foregoing,  any
+indemnity  provided by any indemnifying  Investor in this Section 6(b) shall not
+apply to amounts  paid by the  Company in  settlement  of any such loss,  claim,
+damage,  liability or expense if such settlement is effected without the consent
+of such  indemnifying  Investor.
+
+     (c) Promptly after receipt by an indemnified  party  hereunder of notice of
+the  commencement  of any action,  such  indemnified  party shall, if a claim in
+respect thereof is to be made against the indemnifying  party hereunder,  notify
+the  indemnifying  party in writing  thereof,  but the omission so to notify the
+indemnifying  party shall not relieve it from any liability which it may have to
+such indemnified party other than under this Section 6 and shall relieve it from
+any liability which it may have to such  indemnified  party under this Section 6
+only if and to the extent the  indemnifying  party is  materially  prejudiced by
+such omission.  In case any such action shall be brought against any indemnified
+party and it shall notify the indemnifying  party of the  commencement  thereof,
+the indemnifying party shall be entitled to participate in and, to the extent it
+shall wish, to assume and undertake the defense thereof with counsel  reasonably
+satisfactory to such indemnified  party, and, after notice from the indemnifying
+party to such  indemnified  party of its election so to assume and undertake the
+defense thereof,  the indemnifying party shall not be liable to such indemnified
+party under this Section 6 for any legal expenses  subsequently incurred by such
+indemnified  party in connection  with the defense thereof other than reasonable
+costs of investigation and of liaison with counsel so selected,  provided,  that
+if the defendants in any such action include both the indemnified  party and the
+indemnifying  party and the indemnified  party shall have  reasonably  concluded
+based upon written  advice of its counsel that there may be reasonable  defenses
+available to it which are different from or additional to those available to the
+indemnifying  party or if the interests of the indemnified  party reasonably may
+be  deemed  to  conflict  with the  interests  of the  indemnifying  party,  the
+indemnified  party  shall  have the right to select a  separate  counsel  and to
+assume such legal  defenses and otherwise to  participate in the defense of such
+action,  with the expenses and fees of such separate  counsel and other expenses
+related to such  participation  to be  reimbursed by the  indemnifying  party as
+incurred.
+
+     (d) If the  indemnification  provided  for in this  Section  6 is held by a
+court of competent  jurisdiction to be unavailable to an indemnified  party with
+respect to any loss, claim, damage, liability or action referred to herein, then
+the  indemnifying   party,  in  lieu  of  indemnifying  such  indemnified  party
+hereunder,  shall  contribute to the amounts paid or payable by such indemnified
+party as a result  of such  loss,  claim,  damage,  liability  or action in such
+proportion as is appropriate  to reflect the relative fault of the  indemnifying
+party on the one hand and of the  indemnified  party on the other in  connection
+
+                                       7
+<PAGE>
+
+with the  statements or omissions  which resulted in such loss,  claim,  damage,
+liability or action as well as any other relevant equitable considerations.  The
+relative fault of the indemnifying  party and of the indemnified  party shall be
+determined by reference  to, among other  things,  whether the untrue or alleged
+untrue statement of a material fact or the omission or alleged omission to state
+a material fact relates to information  supplied by the indemnifying party or by
+the indemnified  party and the parties'  relative intent,  knowledge,  access to
+information and opportunity to correct or prevent such statement or omission.
+
+     7.  Changes in Capital  Stock.  If, and as often as, there is any change in
+the  capital  stock of the  Company  by way of a stock  split,  stock  dividend,
+combination   or   reclassification,   or   through  a  merger,   consolidation,
+reorganization  or  recapitalization,   or  by  any  other  means,   appropriate
+adjustment  shall  be made in the  provisions  hereof  so that  the  rights  and
+privileges granted hereby shall continue as so changed.
+
+     8.  Representations  and Warranties of the Company.  The Company represents
+and warrants to the Investor as follows:
+
+     (a) The  execution,  delivery  and  performance  of this  Agreement  by the
+Company have been duly authorized by all requisite corporate action and will not
+violate  any  provision  of law,  any  order of any  court or  other  agency  of
+government,  the  Charter  or By-laws of the  Company  or any  provision  of any
+indenture, agreement or other instrument to which it or any or its properties or
+assets is bound,  conflict with,  result in a breach of or constitute  (with due
+notice or lapse of time or both) a default under any such  indenture,  agreement
+or other instrument or result in the creation or imposition of any lien,  charge
+or encumbrance of any nature  whatsoever upon any of the properties or assets of
+the Company or its subsidiaries.
+
+     (b) This  Agreement has been duly executed and delivered by the Company and
+constitutes the legal, valid and binding obligation of the Company,  enforceable
+in accordance with its terms, subject to any applicable  bankruptcy,  insolvency
+or other  laws  affecting  the  rights of  creditors  generally  and to  general
+equitable principles and the availability of specific performance.
+
+     9.  Assignment  of  Registration  Rights.  The  rights to have the  Company
+register  Registrable  Securities  pursuant to this Agreement may be assigned by
+the Investor to transferees or assignees of such securities;  provided, that the
+Company is, within a reasonable time after such transfer, furnished with written
+notice of the name and address of such transferee or assignee and the securities
+with  respect to which such  registration  rights are being  assigned.  The term
+"Investor" as used in this Agreement shall include such permitted transferees or
+assignees.
+
+     10. Rule 144 Requirements. The Company agrees to:
+
+     (a) make and keep current public  information about the Company  available,
+as those terms are understood and defined in Rule 144;
+
+                                       8
+<PAGE>
+
+     (b) use its best efforts to file with the Commission in a timely manner all
+reports and other documents required of the Company under the Securities Act and
+the  Exchange  Act (at any time  after it has become  subject to such  reporting
+requirements); and
+
+     (c)  furnish to any holder of  Registrable  Securities  upon  request (i) a
+written  statement  by the  Company  as to its  compliance  with  the  reporting
+requirements  of Rule 144 and of the Securities Act and the Exchange Act (at any
+time after it has become subject to such reporting requirements), (ii) a copy of
+the most recent annual or quarterly report of the Company,  and (iii) such other
+reports and  documents of the Company as such holder may  reasonably  request to
+avail itself of any similar rule or regulation of the Commission  allowing it to
+sell any such  securities  without  registration.  11.  Termination.  All of the
+Company's  obligations  to register  Registrable  Shares under  Sections 2 and 3
+hereto shall  terminate upon the date on which no Investor holds any Registrable
+Securities.
+
+     12. Miscellaneous.
+
+     (a) All  covenants  and  agreements  contained  in this  Agreement by or on
+behalf of any of the parties  hereto  shall bind and inure to the benefit of the
+respective  successors  and assigns of the  parties  hereto  (including  without
+limitation transferees of any Registrable  Securities),  whether so expressed or
+not.
+
+     (b) All  notices,  requests,  consents and other  communications  hereunder
+shall be in writing and shall be  delivered  in person,  mailed by  certified or
+registered mail, return receipt requested, or sent by telecopier,  addressed (i)
+if to the Company,  at Vital Living,  Inc.,  5080 North 40th Street,  Suite 105,
+Phoenix,  AZ 85018,  Telecopier  No.: (602)  952-7129,  Attn:  Stuart A. Benson,
+President (E-mail:  cafestu@aol.com)  or if to the Investor,  at the address set
+forth beneath such  Investor's name on the signature page attached  hereto;  and
+(ii) if to any holder of  Registrable  Securities,  to it at such address as may
+have been  furnished to the Company in writing by such holder;  or, in any case,
+at such other  address or addresses  as shall have been  furnished in writing to
+the  Company  (in the  case of a holder  of  Registrable  Securities)  or to the
+holders of  Registrable  Securities  (in the case of the Company) in  accordance
+with the provisions of this paragraph;  and in either case, to Graubard  Miller,
+600 Third Avenue,  32nd Floor, New York, New York 10016, Attn: David Alan Miller
+(E-Mail: dmiller@graubard.com).
+
+     (c) This Agreement shall be governed by and construed under the laws of the
+State of New York as applied to agreements among New York residents entered into
+and to be performed  entirely  within New York.  The Company (1) agrees that any
+legal suit,  action or proceeding  arising out of or relating to this  Agreement
+shall be instituted  exclusively in New York State Supreme Court,  County of New
+York, or in the United States  District  Court for the Southern  District of New
+York,  (2) waives any  objection  which the Company may have now or hereafter to
+the venue of any such suit, action or proceeding,  and (3) irrevocably  consents
+to the jurisdiction of the New York State Supreme Court, County of New York, and
+the United States  District  Court for the Southern  District of New York in any
+such  suit,  action or  proceeding.  The  Company  further  agrees to accept and
+acknowledge service of any and all process which may be served in any such suit,
+
+                                       9
+<PAGE>
+
+action or proceeding in the New York State Supreme Court, County of New York, or
+in the United States  District  Court for the Southern  District of New York and
+agrees that service of process upon the Company  mailed by certified mail to the
+Company's  address shall be deemed in every respect effective service of process
+upon the Company,  in any such suit,  action or  proceeding.  THE PARTIES HERETO
+AGREE TO WAIVE THEIR RESPECTIVE  RIGHTS TO A JURY TRIAL OF ANY CLAIM OR CAUSE OF
+ACTION BASED UPON OR ARISING OUT OF THIS  AGREEMENT OR ANY DOCUMENT OR AGREEMENT
+CONTEMPLATED HEREBY.
+
+     (d) This  Agreement  may not be amended or  modified  without  the  written
+consent of the Company and the holders of at least a majority of the Registrable
+Securities.
+
+     (e)  Failure  of any  party to  exercise  any right or  remedy  under  this
+Agreement or otherwise,  or delay by a party in exercising such right or remedy,
+shall not operate as a waiver thereof.  No waiver shall be effective  unless and
+until it is in writing and signed by the party granting the waiver.
+
+
+     (f) This  Agreement  may be executed in two or more  counterparts,  each of
+which shall be deemed an original,  but all of which together  shall  constitute
+one and the same  instrument.  This Agreement,  once executed by a party, may be
+delivered to the other party hereto by facsimile  transmission of a copy of this
+Agreement bearing the signature of the party so delivering this Agreement.
+
+     (g) If any provision of this Agreement shall be held to be illegal, invalid
+or unenforceable,  such illegality,  invalidity or unenforceability shall attach
+only to such  provision  and shall not in any manner  affect or render  illegal,
+invalid  or  unenforceable  any  other  provision  of this  Agreement,  and this
+Agreement shall be carried out as if any such illegal,  invalid or unenforceable
+provision were not contained herein.
+
+     (h) This Agreement  constitutes  the entire  contract among the Company and
+the  Investors  relative  to the subject  matter  hereof and  supersedes  in its
+entirety  any and all prior  agreements,  understandings  and  discussions  with
+respect thereto.
+
+     (i) The headings of the Sections of this Agreement are for  convenience and
+shall not by themselves determine the interpretation of this Agreement.
+
+     (j) In the event that, at any time or from time to time,  the Company holds
+a Closing  subsequent  to the Initial  Closing (as such terms are defined in the
+Securities  Purchase  Agreement)  and issues  additional  Notes and  Warrants to
+additional investors  (collectively the "Additional  Investors" and individually
+an "Additional Investor"), as a condition precedent to such Closing, the Company
+shall  countersign a copy of this  Agreement with each  Additional  Investor and
+each such Additional  Investor shall agree to sign a copy of this Agreement (for
+and on behalf of himself or itself, his or its legal  representatives and his or
+its  transferees  and assigns)  thereby  agreeing to be bound by all  applicable
+provisions  of  this  Agreement  as a party  hereto  and in the  capacity  as an
+Investor.  Except  as  provided  herein,  upon any  such  Interim  Closing,  all
+references  to the  Investors or to any Investor  shall  thereafter be deemed to
+include such  Additional  Investor and all  references to the Notes and Warrants
+shall be deemed to include the Notes and Warrants  purchased by such  Additional
+Investors.
+
+                                       10
+
+<PAGE>
+
+
+
+     IN WITNESS WHEREOF,  the undersigned have executed this Agreement as of the
+date first written above.
+
+
+                               VITAL LIVING, INC.
+
+                               By:________________________________
+                                     Name:
+                                     Title:
+
+
+                               INVESTOR NAME
+
+
+
+                               By:________________________________
+                                     Name:
+                                     Title:
+
+                                     Address:
+
+
+
+
+                                       11
+
+</TEXT>
+</DOCUMENT>

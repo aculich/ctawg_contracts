@@ -1,0 +1,89 @@
+<DOCUMENT>
+<TYPE>EX-10.2
+<SEQUENCE>4
+<FILENAME>ex10-2.txt
+<DESCRIPTION>AMENDMENT TO THE REGISTRATION RIGHTS AGREEMENT...
+<TEXT>
+                                                                    EXHIBIT 10.2
+
+                   AMENDMENT TO REGISTRATION RIGHTS AGREEMENT
+
+         THIS AMENDMENT TO REGISTRATION  RIGHTS  AGREEMENT is entered into as of
+December 6, 2004 with reference to the following:
+
+         WHEREAS,  MONARCH POINTE FUND, LTD., (the "FUND") and MERCATOR ADVISORY
+GROUP, LLC ("MERCATOR") (the Fund and Mercator are referred to individually as a
+"Holder"  and   collectively  as  the   "HOLDERS"),   and   INTERNATIONAL   CARD
+ESTABLISHMENT,  INC., a Delaware corporation (the "COMPANY")  previously entered
+into that certain  Registration  Rights  Agreement dated September 13, 2004 (the
+"Agreement"); and
+
+         WHEREAS, the parties desire to amend the Agreement;
+
+         NOW, THEREFORE, for good and valuable consideration,  the parties agree
+as follows:
+
+1.       The second  WHEREAS clause is deleted in its entirety and the following
+         is  inserted:  "WHEREAS,  each  Fund  and MAG  have  acquired  Warrants
+         (together,  the  "WARRANTS")  from the  Company,  pursuant to which the
+         Holders  have the right to purchase in the  aggregate  up to  7,509,387
+         shares of the Common Stock through the exercise of the Warrants;
+
+2.       Paragraph  2(a) of the  Agreement  is deleted in its  entirety  and the
+         following is inserted: On or before January 15, 2005 (the "Registration
+         Date"),   the  Company  shall  file  a   registration   statement  (the
+         "Registration  Statement") on Form SB-2 or S3 with the SEC  registering
+         the  maximum  number  of  shares  of  Common  Stock to be  issued  upon
+         conversion  of the Preferred  Stock and exercise of the  Warrants.  The
+         Company shall use its best efforts to have the  Registration  Statement
+         declared  effective  within 80 days after the  initial  filing with the
+         SEC. Once effective,  the Company shall maintain the  effectiveness  of
+         the  Registration  Statement until the earlier of (i) the date that all
+         of the Registrable Securities have been sold, or (ii) the date that the
+         Company  receives an opinion of counsel to the Company  that all of the
+         Registrable  Securities may be freely traded without registration under
+         the Securities Act, under Rule 144 promulgated under the Securities Act
+         or otherwise.
+
+3.       Paragraph  2(b) of the  Agreement  is deleted in its  entirety  and the
+         following is  inserted:  "The  Company  will  initially  include in the
+         Registration  Statement as Registrable  Securities 15,509,387 shares of
+         Common Stock.
+
+In all other respects,  the Agreement  shall remain  unchanged and in full force
+and effect.
+
+                            Signature Page to Follow
+
+
+
+<PAGE>
+
+         IN WITNESS  WHEREOF,  this Agreement has been executed and delivered by
+the parties hereto as of the date first above written.
+
+                                  INTERNATIONAL CARD ESTABLISHMENT, INC.
+
+                                  By:_________________________________________
+                                  Name: ______________________________________
+                                  Its:  ______________________________________
+
+
+                                  MONARCH POINTE FUND, LTD.
+
+                                  By: _______________________________________
+                                  Name: David Firestone
+                                  Its:  President
+
+                                  MERCATOR ADVISORY GROUP, LLC
+
+                                  By: ________________________________________
+                                  Name: David Firestone
+                                  Its:  Managing Member
+
+
+
+                                      -2-
+
+</TEXT>
+</DOCUMENT>

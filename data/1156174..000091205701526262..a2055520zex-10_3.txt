@@ -1,0 +1,3457 @@
+<DOCUMENT>
+<TYPE>EX-10.3
+<SEQUENCE>8
+<FILENAME>a2055520zex-10_3.txt
+<DESCRIPTION>EXHIBIT 10.3
+<TEXT>
+<Page>
+
+-------------------------------------------------------------------------------
+This document has important legal consequences; consultation with an attorney is
+encouraged with respect to its use or modification. This document should be
+adapted to the particular circumstances of the contemplated Project and the
+applicable laws of the jurisdiction in which the Project is to be performed.
+-------------------------------------------------------------------------------
+
+
+                           STANDARD FORM OF AGREEMENT
+                        BETWEEN OWNER AND DESIGN/BUILDER
+                       ON THE BASIS OF A STIPULATED PRICE
+
+                                   Prepared by
+
+                  ENGINEERS JOINT CONTRACT DOCUMENTS COMMITTEE
+
+                                       and
+
+                         Issued and Published Jointly By
+
+                                 (insert seals)
+
+                   PROFESSIONAL ENGINEERS IN PRIVATE PRACTICE
+                           A PRACTICE DIVISION OF THE
+                   NATIONAL SOCIETY OF PROFESSIONAL ENGINEERS
+
+                                   -----------
+
+                      AMERICAN CONSULTING ENGINEERS COUNCIL
+
+                                   -----------
+
+                       AMERICAN SOCIETY OF CIVIL ENGINEERS
+
+-------------------------------------------------------------------------------
+This Standard Form of Agreement has been prepared for use with the Standard
+General Conditions of the Contract Between Owner and Design/Builder (No.
+1910-40) (1994 Edition). Their provisions are interrelated and a change in one
+may necessitate a change is the other. The suggested language contained in the
+Guide to Use of EJCDC Design/Build Documents (No. 1910-42)(1994 Edition) is also
+carefully interrelated with the language of this Agreement.
+-------------------------------------------------------------------------------
+
+
+<Page>
+
+
+
+                                  NOTE TO USER
+
+         Before entering into this Agreement, it is recommended that the parties
+determine whether applicable Laws and Regulations prohibit or require
+alterations in the contemplated contractual arrangements and the assignments of
+responsibilities for a design/build project. Check competitive bidding,
+contractor licensing, design professional licensing, and professional practice
+Laws and Regulations, among others.
+
+
+
+
+
+
+
+
+               (C)1995 National Society of Professional Engineers
+                   1420 King Street, Alexandria, VA 22314-2715
+
+                      American Consulting Engineers Council
+                  1015 15th Street, N.W., Washington, DC 20005
+
+                       American Society of Civil Engineers
+                    345 East 47th Street, New York, NY 10017
+
+
+<Page>
+
+                                      EJCDC
+                           STANDARD FORM OF AGREEMENT
+                        BETWEEN OWNER AND DESIGN/BUILDER
+                       ON THE BASIS OF A STIPULATED PRICE
+
+         THIS AGREEMENT is dated as of the 15th day of October, 1999 a by and
+between Dakota Ethanol L.L.C. (hereinafter called OWNER) and Broin and
+Associates, Inc. (hereinafter called DESIGN/BUILDER).
+
+OWNER and DESIGN/BUILDER, in consideration of the mutual covenants hereinafter
+set forth, agree as follows:
+
+ARTICLE 1.        WORK.
+
+1.01. DESIGN/BUILDER shall complete all Work as specified or indicated in the
+Contract Documents. The Work is generally described as follows:
+
+To perform or furnish Design Professional Services, Drawings, Specifications and
+Construction for a Corn Processing Facility located in Lake County, South
+Dakota. The completed plant will process corn into 40 million gallons of
+denatured fuel grade ethanol annually.
+
+DESIGN/BUILDER will develop Design Documents, Drawings and Plans and
+Specifications for the OWNER's Project which the DESIGN/BUILDER shall adapt to
+the specific site. DESIGN/BUILDER shall furnish to OWNER from time to time the
+specific Drawings, Plans and Specifications for the OWNER's Project.
+
+ARTICLE 2.        THE PROJECT.
+
+2.01. The Project for which the Work under the Contract Documents may be the
+whole or only a part is generally described as follows:
+
+A forty (40) million gallon per year Corn to Ethanol Processing Facility to be
+located in Lake County, South Dakota.
+
+Exhibit "A" consisting of the Turn-Key Project Contract Description.
+
+Exhibit "B" consisting of the Process Guarantee.
+
+THE FOLLOWING ITEMS ARE NOT INCLUDED IN THE CONTRACT PRICES AND WILL BE PROVIDED
+BY OTHERS:
+
+         1.       Those items excluded in Exhibit A.
+         2.       Land.
+         3.       Inventory necessary to run the plant.
+         4.       Builder's Risk Insurance Cost.
+
+
+<Page>
+
+
+
+ARTICLE 3.        CONTRACT TIMES.
+
+3.01. DALES FOR SUBSTANTIAL COMPLETION AND FINAL PAYMENT
+
+         A. The Work will be substantially completed fourteen (14) months from
+the date that concrete work begins. The anticipated date for construction
+commencement is April 1, 2000. In any case, such work will commence within 30
+days after receipt of notice to proceed.
+
+ARTICLE 4.        CONTRACT PRICE.
+
+4.01. OWNER shall pay DESIGN/BUILDER the following sum(s) for completion of the
+Work in accordance with the Contract Documents.
+
+         A. For all Work other than Unit Price Work, a Lump Sum of $38,086,000.
+
+4.02. The factor used to calculate DESIGN/BUILDER's fee for employees in
+the direct employ of DESIGN/BUILDER performing Design Professional Services in
+accordance with paragraph 10.02.A. l of the General Conditions shall be
+non-applicable.
+
+ARTICLE 5.        PAYMENT PROCEDURES.
+
+5.01. DESIGN/BUILDER shall submit and OWNER will process Applications for
+Payment in accordance with Article 13 of the General Conditions.
+
+         A. PROGRESS PAYMENTS; RETAINAGE. OWNER shall make progress payments on
+account of the Contract Price on the basis of DESIGN/BUILDER's Applications for
+Payment, on or about the 12h day of each month during performance of the Work as
+provided in paragraphs 5.01.A.1 and A.2 below. All such payments will be
+measured by the acceptable Schedule of Values established in paragraph 2.06.A of
+the General Conditions (and in the case of Unit Price Work based on the number
+of units completed).
+
+                  1. Prior to Substantial Completion, progress payments will be
+         made in an amount equal to the percentage indicated below, but, in each
+         case, less the aggregate of payments previously made and less such
+         amounts as OWNER may withhold in accordance with paragraph 13.04.E of
+         the General Conditions.
+
+                           a. 98 percent of Work completed (with the balance
+                  being retainage). If the Work has been 50 percent completed as
+                  determined by OWNER, and if the character and progress of the
+                  Work have been satisfactory to OWNER, OWNER may determine that
+                  as long as the character and progress of the Work remain
+                  satisfactory to OWNER, there will be no additional retainage
+                  on account of Work competed, in which case the remaining
+                  progress payments prior to Substantial Completion will be in
+                  an amount equal to 100 percent of the Work completed.
+
+                           b. 98 percent (with the balance being
+                  retainage) of the cost of materials and equipment not
+                  incorporated in the Work (but delivered, suitably stored and
+
+<Page>
+
+                  accompanied by documentation satisfactory to OWNER as provided
+                  in paragraph 13.02.A of the General Conditions).
+
+                  2. Upon Substantial Completion, payment will be made in an
+         amount sufficient to increase total payments to DESIGN/BUILDER to 98
+         percent of the Contract Price (with the balance being retainage), less
+         such amounts as OWNER may withhold in accordance with paragraph
+         13.04.13 of the General Conditions.
+
+         B. FINAL PAYMENT. Upon final completion and acceptance of the Work in
+accordance with paragraph 13.09 of the General Conditions, OWNER shall pay the
+remainder of the Contract Price.
+
+ARTICLE 6.        INTEREST.
+
+6.01. All moneys not paid when due as provided in Article 13 of the General
+Conditions shall bear interest at the rate of 13 percent per annum.
+
+ARTICLE 7.        DESIGN/BUILDER'S REPRESENTATIONS.
+
+7.01. DESIGN/BUILDER makes the following representations:
+
+         A. DESIGN/BUILDER has examined and carefully studied the Contract
+Documents (including the Addenda) listed in paragraphs 8.01.A through J but
+excluding the documents described in paragraph 8.01 .K and the other related
+data identified in the Request for Proposals.
+
+         B. DESIGN/BUILDER has visited the Site and become familiar with and is
+satisfied as to the general, local and Site conditions that may affect cost,
+progress, performance or furnishing of the Work.
+
+         C. DESIGN/BUILDER is familiar with and is satisfied as to all federal,
+state and local Laws and Regulations that may affect cost, progress, performance
+or furnishing of the Work.
+
+         D. DESIGN/BUILDER has carefully studied all reports of explorations and
+tests of subsurface conditions at or contiguous to the Site and all drawing of
+physical conditions in or relating to existing surface or subsurface structures
+at or contiguous to the Site which have been identified or made available by
+OWNER.
+
+         E. DESIGN/BUILDER is aware of the general nature of work to be
+performed by OWNER and others at the Site that relates to the Work as indicated
+in the Contract Documents.
+
+         F. DESIGN/BUILDER has correlated the information known to
+DESIGN/BUILDER, information and observations obtained from visits to the Site,
+reports and drawings identified in the Contract Documents and all additional
+examinations, investigations, explorations, tests, studies and data with the
+Contract Documents.
+
+<Page>
+
+         G. DESIGN/BUILDER has given OWNER written notice of all
+conflicts, errors, ambiguities or discrepancies that DESIGN/BUILDER has
+discovered in the Contract Documents and the written resolution thereof by OWNER
+is acceptable to DESIGN/BUILDER, and the Contract Documents are generally
+sufficient to indicate and convey understanding of all terms and conditions for
+performance and furnishing of the Work.
+
+ARTICLE 8.        CONTRACT DOCUMENTS.
+
+8.01. The Contract Documents which comprise the entire agreement between
+OWNER and DESIGN/BUILDER concerning the Work consist of the following:
+
+         A.       This Agreement (pages 1 to 6 , inclusive).
+
+         B.       Exhibits to this Agreement.
+
+         C.       Notice to Proceed.
+
+         D.       Standard General Conditions of the Contract Between Owner and
+                  Design/Builder (pages 1 to 34, inclusive) as amended by
+                  Supplementary Conditions.
+
+         E.       Supplementary Conditions (pages 1 to 3 , inclusive).
+
+         F.       Addenda numbers N/A through N/A inclusive.
+
+         G.       Documentation submitted by DESIGN/BUILDER prior to Notice of
+                  Award (pages N/A to N/A , inclusive).
+
+         H.       The following which may be delivered, prepared, or issued
+                  after the Effective Date of this Agreement and are not
+                  attached hereto.
+
+                           1. All Written Amendments and other documents
+                  amending, modifying or supplementing the Contract Documents
+                  pursuant to paragraph 3.03.A of the General Conditions.
+
+                           2. Specifications as defined in Paragraph 1.O1.AA2 of
+                  the General Conditions.
+
+                           3. Drawings as defined in Paragraph 1.01.A.18 of the
+                  General Conditions.
+
+         I.       Evidence of error and omission insurance for the Design in an
+                  amount equal to $1,000,000.
+
+8.02. The documents listed in paragraph 8.01 above are attached to this
+Agreement (except as expressly noted otherwise above).
+
+<Page>
+
+8.03. There are no Contract Documents other than those listed above in this
+Article 8. The Contract Documents may only be amended, modified or supplemented
+as provided in paragraph 3.03.A of the General _Conditions.
+
+ARTICLE 9.        MISCELLANEOUS.
+
+9.01. The Standard General Conditions of the Contract Between Owner and
+Design/Builder are referred to herein as the General Conditions.
+
+9.02. Terms used in this Owner-Design/Builder Agreement which are defined
+in Article I of the General Conditions will have the meanings indicated therein.
+
+9.03. No assignment by a party hereto of any rights under or interests in
+the Contract Documents will be binding on another party hereto without the
+written consent of the party sought to be bound; and, specifically but without
+limitation, moneys that may become due and moneys that are due may not be
+assigned without such consent (except to the extent that the effect of this
+restriction may be limited bylaw), and unless specifically stated to the
+contrary in any written consent to an assignment no assignment will release or
+discharge the assignor from any duty or responsibility under the Contract
+Documents.
+
+9.04. OWNER and DESIGN/BUILDER each binds itself, its partners, successors,
+assigns and legal representatives to the other party hereto, its partners,
+successors, assigns and legal representatives in respect to all covenants,
+agreements and obligations contained in the Contract Documents.
+
+9.05. Any provision or part of the Contract Documents held to be void or
+unenforceable under any Law or Regulation shall be deemed stricken, and all
+remaining provisions shall continue to be valid and binding upon OWNER and
+DESIGN/BUILDER, who agree that the Contract Documents shall be reformed to
+replace such stricken provision or part thereof with a valid and enforceable
+provision that comes as close as possible to expressing the intention of the
+stricken provision.
+
+         IN WITNESS WHEREOF, OWNER and DESIGN/BUILDER have signed this Agreement
+in duplicate. One counterpart each has been delivered to OWNER and
+DESIGN/BUILDER. All portions of the Contract Documents have been signed,
+initialed or identified by OWNER and DESIGN/BUILDER.
+
+
+<Page>
+
+
+This Owner-Design/Builder Agreement will be effective on October 15, 1999.
+
+OWNER:   Dakota Ethanol, L.L.C.       DESIGN/BUILDER: Broin and Associates, Inc.
+      --------------------------                     ---------------------------
+
+--------------------------------      ------------------------------------------
+
+By: /s/ Greg Van Zanten               By:  /s/ Jeff Broin
+   -----------------------------         ---------------------------------------
+
+    [CORPORATE SEAL]                      [CORPORATE SEAL
+
+Attest:  /s/ Ron Alverson             Attest:  /s/ Ron Alverson
+       -------------------------             -----------------------------------
+
+Address for giving notices:           Address for giving notices:
+
+     Dakota Ethanol, L.L.C.                Broin and Associates, Inc.
+---------------------------------     ------------------------------------------
+
+     P.O. BOX 100                          25784 Cottonwood Avenue
+---------------------------------     ------------------------------------------
+
+     Wentworth, SD  57075                   Sioux Falls, SD 57107
+---------------------------------     ------------------------------------------
+
+(If OWNER is a  corporation,
+attach  evidence of  authority
+to sign.  If OWNER is a public
+body,  attach  (a) evidence of
+authority to sign (b) resolution
+or  other  documents authorizing      License No.:    N/A
+execution of Agreement  and (c)                  -------------------------------
+statement of fiscal officer                      (Where applicable)
+regarding availability of funds).
+
+                                      (If DESIGN/BUILDER is a corporation,
+                                      attach evidence of authority to sign.)
+
+Designated Representative:            Designated Representative:
+
+Name:     Steve Sershen               Name:    Jeff Broin
+      ---------------------------          -------------------------------------
+
+Title:                                Title:   Chief Executive Officer
+      ---------------------------           ------------------------------------
+
+Address:  P.O. BOX 100                Address: 25784 Cottonwood Avenue
+        -------------------------             ----------------------------------
+
+          Wentworth, SD  57075                 Sioux Falls, SD  57107
+---------------------------------     ------------------------------------------
+
+Phone:    (605 483-2676               Phone:   (605) 543-5091
+      ---------------------------          -------------------------------------
+
+Facsimile: (605) 483-2677             Facsimile: (605) 543-5093
+          -----------------------               --------------------------------
+
+
+<Page>
+
+                                    EXHIBIT B
+
+                                PROCESS GUARANTEE
+
+         The following Process Guarantee is provided by Broin and Associates,
+Inc. in relation to the Southeastern South Dakota ethanol plant project located
+in Lake County, South Dakota (The Project).
+
+BROIN AND ASSOCIATES GUARANTEES THE FOLLOWING:
+
+1.       PROJECT PERFORMANCE SPECIFICATION
+
+         The Project is guaranteed to produce 4,807 gallons per hour of fuel
+         grade (Williams Pipeline Standard) ethanol including the contained
+         denaturant (gasoline). The Project is guaranteed to have the ability to
+         evaporate all necessary thin stillage and dry all distillers' grains
+         produced at 100% guaranteed capacity. The plant is guaranteed to yield
+         at least 2.7 gallons of ethanol (denatured) and at least 17 pounds of
+         distillers' dried grains with solubles per 56 lb. bushel of com (test
+         weight 54 pounds or greater).
+
+2.       TESTING PERIOD
+
+         The project is guaranteed to reach performance specifications for a
+         period of seven (7) days before the Engineer will leave the site. The
+         testing period will be completed with the Owner's personnel and raw
+         materials.
+
+3.       REMEDIES
+
+         If the Project does not meet the above guarantees during the timeframe
+         described in the Owners Agreement, Broin and Associates, Inc. will
+         perform the following at their expense: 1) use Broin and Associates,
+         Inc.s best effort to correct any problem, 2) repair or replace any
+         failing component(s) or system(s) and 3) obtain any additional
+         resources needed to satisfy guarantees.
+
+This document contains the entire Process Guarantee provided by Broin and
+Associates, Inc. No oral statements, representations or prior written matter not
+contained in this document shall have any effect regarding Process Guarantee.
+
+BROIN AND ASSOCIATES, INC.
+
+/s/ Jeffrey S. Broin                                    October 15, 1999
+-----------------------------                           ------------------------
+Jeffrey S. Broin, C.E.O.                                Date
+
+
+<Page>
+
+--------------------------------------------------------------------------------
+This document has important legal consequences; consultation with an attorney is
+encouraged with respect to its use or modification. This document should be
+adapted to the particular circumstances of the contemplated Project and the
+applicable laws of the jurisdiction in which the Project is to be performed.
+--------------------------------------------------------------------------------
+
+
+                       STANDARD GENERAL CONDITIONS OF THE
+                                CONTRACT BETWEEN
+                            OWNER AND DESIGN/BUILDER
+
+                                   Prepared by
+
+                  ENGINEERS JOINT CONTRACT DOCUMENTS COMMITTEE
+
+                                       and
+
+                         Issued and Published Jointly By
+
+                                 [insert seals]
+
+                    PROFESSIONAL ENGINEERS M PRIVATE PRACTICE
+                           A PRACTICE DIVISION OF THE
+                   NATIONAL SOCIETY OF PROFESSIONAL ENGINEERS
+
+                                  -------------
+
+                      AMERICAN CONSULTING ENGINEERS COUNCIL
+
+                                  -------------
+
+                       AMERICAN SOCIETY OF CIVIL ENGINEERS
+
+--------------------------------------------------------------------------------
+These General Conditions have been prepared for use with the Agreements between
+Owner and Design/Builder (Nos. 1910-40-A and -B) (1995 Edition) of the Engineers
+Joint Contract Documents Committee. Their provisions are interrelated and a
+change in one may necessitate a change in the others. The suggested language and
+instructions contained in the Guide to Use of EJCDC Design/Build Documents (No.
+1910-42) (1995 Edition) is also carefully interrelated with the language of
+these General Conditions. Comments concerning their usage are also contained in
+Document No. 1910-42 (1995 Edition).
+--------------------------------------------------------------------------------
+
+<Page>
+
+
+
+
+
+
+
+
+
+
+
+               (C)1995 NATIONAL SOCIETY OF PROFESSIONAL ENGINEERS
+                     1420 KING STREET, ALEXANDRIA, VA 22314
+
+                      AMERICAN CONSULTING ENGINEERS COUNCIL
+                   1015 15TH STREET N.W., WASHINGTON, DC 20005
+
+                       AMERICAN SOCIETY OF CIVIL ENGINEERS
+                    345 EAST 47TH STREET, NEW YORK, NY 10017
+
+
+<Page>
+
+                               GENERAL CONDITIONS
+
+ARTICLE 1--DEFINITIONS
+
+1.01     DEFINED TERMS
+
+         A. Wherever used in these General Conditions or in the other
+Contract Documents the following terms have the meanings indicated which are
+applicable to both the singular and plural thereof:
+
+                  1. ADDENDA--Written or graphic instruments issued prior to the
+         opening of Proposals which clarify, correct or change the Request for
+         Proposals or the Contract Documents.
+
+                  2. AGREEMENT--The written contract between OWNER and
+         DESIGN/BUILDER covering the Work; other Contract Documents are attached
+         to the Agreement and made a part thereof as provided therein.
+
+                  3. APPLICATION FOR PAYMENT--The form which is to be used by
+         DESIGN/BUILDER in requesting progress or final payments and which is to
+         be accompanied by such supporting documentation as is required by the
+         Contract Documents.
+
+                  4. ASBESTOS--Any material that contains more than one percent
+         asbestos and is friable or is releasing asbestos fibers into the air
+         above current action levels established by the United States
+         Occupational Safety and Health Administration.
+
+                  5. BONDS--Performance and payment bonds and other instruments
+         of security.
+
+                  6. CASH FLOW PROJECTION--A schedule prepared by DESIGN/BUILDER
+         estimating that portion of the Contract Price to be due during each
+         month of performance.
+
+                  7. CHANGE ORDER--A written order which is signed by
+         DESIGN/BUILDER and OWNER which authorizes an addition, deletion or
+         revision in the Work, or an adjustment in the Contract Price or the
+
+Contract Times, issued on or after the Effective Date of the Agreement.
+
+                  8. CONCEPTUAL DOCUMENTS--The drawings and specifications
+         and/or other graphic or written materials, criteria and information
+         concerning OWNER's requirements for the Project, such as design
+         objectives and constraints, space, capacity and performance
+         requirements, flexibility and expandability, including those items
+         enumerated in the Request for Proposals which show or describe the
+         character and scope of, or relate to, the Work to be performed or
+         furnished and which have been prepared by or for OWNER.
+
+<Page>
+
+                  9. CONSTRUCTION--The performing or furnishing of labor, the
+         furnishing and incorporating of materials and equipment into the Work
+         and the furnishing of services (other than Design Professional
+         Services) and documents, all as required by the Contract Documents.
+
+                  10. CONSTRUCTION SUBAGREEMENT--A written agreement between
+         DESIGN/BUILDER and a construction contractor for provision of
+         Construction.
+
+                  11. CONTRACT DOCUMENTS--The Agreement, the Conceptual
+         Documents, Addenda (which pertain to the Contract Documents),
+         DESIGN/BUILDER's Proposal, the Notice to Proceed, the Bonds, these
+         General Conditions, the Supplementary Conditions, the Specifications
+         and the Drawings together with all Work Change Directives, Change
+         Orders. Written Amendments, and Field Orders, issued on or after the
+         Effective Date of the Agreement. The Contract Documents also include
+         those documents specifically identified by the OWNER in the Request for
+         Proposals.
+
+                  12. CONTRACT PRICE--The moneys payable by OWNER to
+         DESIGN/BUILDER for completion of the Work in accordance with the
+         Contract Documents.
+
+                  13. CONTRACT TIMES--The numbers of days or the dates stated in
+         the Agreement (i) to achieve Substantial Completion, and (ii) to
+         complete the Work so that it is ready for final payment in accordance
+         with paragraph I 3.08.A.
+
+                  14. DEFECTIVE--An adjective which when modifying the term
+         Construction refers to Construction that is unsatisfactory, faulty or
+         deficient, in that it does not conform to the Contract Documents, or
+         does not meet the requirements of any inspection, reference standard,
+         test or approval referred to in the Contract Documents, or has been
+         damaged prior to OWNER's final payment (unless responsibility for the
+         protection thereof has been assumed by OWNER at Substantial
+         Completion).
+
+                  15. DESIGN/BUILDER--The individual or entity with whom OWNER
+         has entered into the Agreement.
+
+                  16. DESIGN SUBAGREEMENT--A written agreement between
+         DESIGN/BUILDER and a design professional for provision of Design
+         Professional Services.
+
+                  17. DESIGN PROFESSIONAL SERVICES--Services related to the
+         preparation of Drawings, Specifications, and other design submittals
+         specified by the Contract Documents and required to be performed by
+         licensed design professionals, as well as services provided by or for
+         licensed design professionals during Bidding/Negotiating, Construction,
+         or Operational phases.
+
+                  18. DRAWINGS-Those portions of the Contract Documents prepared
+         by or for DESIGN/BUILDER and approved by OWNER consisting of drawings,
+         diagrams, illustrations, schedules and other data which show the scope,
+         extent, and character of the Work.
+
+<Page>
+
+                  19. EFFECTIVE DATE OF THE AGREEMENT--The date indicated in the
+         Agreement on which it becomes effective, but if no such date is
+         indicated it means the date on which the Agreement is signed and
+         delivered by the last of the two parties to sign and deliver.
+
+                  20. ENGINEER--A duly licensed individual or entity designated
+         by DESIGN/BUILDER to perform. or furnish specified Design Professional
+         Services in connection with the Work.
+
+                  21. FIELD ORDER--A written order issued by OWNER which orders
+         minor changes in the Work but which does not involve a change in the
+         Contract Price or the Contract Times:
+
+                  22. HAZARDOUS CONDITION--The presence at the Site of Asbestos,
+         Hazardous Waste, PCB's, Petroleum Products or Radioactive Materials in
+         such quantities or circumstances that there is a danger to persons or
+         property.
+
+                  23. HAZARDOUS WASTE-The term Hazardous Waste shall have the
+         meaning provided in Section 1004 of the Solid Waste Disposal Act (42
+         USC Section 6903).
+
+                  24. LAWS AND REGULATIONS; LAWS OR REGULATIONS-Any and all
+         applicable laws, rules, regulations, ordinances, codes and orders of
+         any and all governmental bodies, agencies, authorities and courts
+         having jurisdiction.
+
+                  25. LIENS--Charges, security interests or .encumbrances upon
+         real property or personal property.
+
+                  26. MILESTONE--A principal event specified in the Contract
+         Documents relating to an intermediate completion date or time prior to
+         Substantial Completion of all the Work.
+
+                  27. NOTICE OF AWARD--The written notice by OWNER to the
+         successful proposer stating that upon compliance by the successful
+         proposer with the conditions precedent enumerated therein, within the
+         time specified, OWNER will sign and deliver the Agreement.
+
+                  28. NOTICE TO PROCEED--A written notice given by OWNER to
+         DESIGN/BUILDER fixing the date on which the Contract Times will
+         commence to run.
+
+                  29. OWNER--The public body, or authority, individual or entity
+         with whom DESIGN/BUILDER has entered into the Agreement and for whom
+         the Work is to be provided.
+
+                  30. OWNERS CONSULTANT--An individual or entity having a
+         contract with OWNER to furnish services as OWNERs consultant with
+         respect to the Project and who is identified as such in the
+         Supplementary Conditions.
+
+<Page>
+
+                  31. OWNER'S REPRESENTATIVE--A person designated in
+         writing to act as OWNER's representative with respect to
+         DESIGN/BUILDER's performance of the Work. Such person shall have
+         complete authority to transmit instructions, receive information,
+         interpret and define OWNER's policies, make decisions with respect to
+         performance of the Work, and provide such other services as may be
+         agreed upon.
+
+                  32. PARTIAL UTILIZATION--Use by OWNER of a substantially
+         completed part of the Work for the purpose for which it is intended (or
+         a related purpose) prior to Substantial Completion of all the Work.
+
+                  33. PCBS--Polychlorinated biphenyls.
+
+                  34. PETROLEUM--Petroleum, including crude oil or any fraction
+         thereof which is liquid at standard conditions of temperature and
+         pressure (60 degrees Fahrenheit and 14.7 pounds per square inch
+         absolute), such as oil, petroleum, fuel oil, oil sludge, oil refuse,
+         gasoline, kerosene, and oil mixed with other non-hazardous Wastes and
+         crude oils.
+
+                  35. PROJECT--The total construction of which the Construction
+         to be provided under the Contract Documents may be the whole, or a part
+         as indicated elsewhere in the Contract Documents.
+
+                  36. PROPOSAL--The documents submitted by DESIGN/BUILDER in
+         response to the Request for Proposals setting forth the design
+         concepts, proposed prices, and other conditions for the Work to be
+         performed.
+
+                  37. RADIOACTIVE MATERIAl--Source, special nuclear, or
+         byproduct material as defined by the Atomic Energy Act of 1954 (42 USC
+         Section 2011 et seq.) as amended from time to time.
+
+                  38. REQUEST FOR PROPOSALS--The document prepared by or for
+         OWNER specifying and describing OWNER's objectives and the procedure to
+         be followed in preparing and submitting a Proposal and awarding a
+         contract.
+
+                  39. RESIDENT PROJECT REPRESENTATIVE--The authorized
+         representative of OWNER who may be assigned to the Site or any part
+         thereof.
+
+                  40. SCHEDULE OF VALUES--A schedule prepared by DESIGN/BUILDER
+         and acceptable to OWNER indicating that portion of the Contract Price
+         to be paid for each major component of the Work.
+
+                  41. SITE--Lands or other areas designated in the
+         Contract Documents as being furnished by OWNER for the performance of
+         the Construction, storage, or access.
+
+                  42. SPECIFICATIONS--Those portions of the Contract
+         Documents prepared by or for DESIGN/BUILDER and approved by OWNER
+         consisting of written technical descriptions
+
+<Page>
+
+         of materials, equipment, construction systems, standards and
+         workmanship as applied to the Construction and certain administrative
+         details applicable thereto.
+
+                  43. SUBCONTRACTOR--An individual or entity other than a
+         Supplier or Engineer having a direct contract with DESIGN/BUILDER -or
+         with any other Subcontractor for the performance of a part of the Work.
+
+                  44. SUBMITTAL--A written or graphic document prepared by or
+         for DESIGN/BUILDER which is required by the Contract Documents to be
+         submitted to OWNER by DESIGN/BUILDER. Submittals may include Drawings,
+         Specifications, progress schedules, shop drawings, samples, Cash Flow
+         Projections, and Schedules of Values. Submittals other than Drawings
+         and Specifications are not Contract Documents.
+
+                  45. SUBSTANTIAL COMPLETION--The time at which -the
+         Construction (or a specified part) has progressed to the point where it
+         is sufficiently complete, in accordance with the Contract Documents, so
+         that the Construction (or a specified part) can be utilized for the
+         purposes for which it is intended. `Me terms "substantially complete"
+         and "substantially completed" as applied to all or part of the
+         Construction refer to Substantial Completion thereof.
+
+                  46. SUPPLEMENTARY CONDITIONS--The part of the Contract
+         Documents which amends or supplements these General Conditions.
+
+                  47. SUPPLIER--A manufacturer, fabricator, supplier,
+         distributor, material man or vendor having a direct contract with
+         DESIGN/BUILDER or with any Subcontractor to furnish materials or
+         equipment to be incorporated in the Work by DESIGN/BUILDER or any
+         Subcontractor.
+
+                  48. UNIT PRICE WORK--Work to be paid for on the basis of unit
+         prices.
+
+                  49. WORK--The entire completed construction or the various
+         separately identifiable parts thereof required to be performed or
+         furnished under the Contract Documents. Work includes and is the result
+         of performing or furnishing Design Professional Services and
+         Construction required by the Contract Documents.
+
+                  50. WORK CHANGE DIRECTIVE--A written directive to
+         DESIGN/BUILDER, issued on or after the Effective Date of the Agreement
+         and signed by OWNER ordering an addition, deletion or revision in the
+         Work, or responding to differing site conditions under which the Work
+         is to be performed as provided in paragraph 4.02 or to emergencies
+         under paragraph 6.15. A Work Change Directive will not change the
+         Contract Price or the Contract Times, but is evidence that the parties
+         expect that the change directed or documented by a Work Change
+         Directive will be incorporated in a subsequently issued Change Order
+         following negotiations by the parties as to its effect, if any, on the
+         Contract Price or Contract Times.
+
+<Page>
+
+                  51. WRITTEN AMENDMENT--A written amendment of the
+         Contract Documents, signed by OWNER and DESIGN/BUILDER on or after the
+         Effective Date of the Agreement and normally dealing with the
+         non-engineering or non-technical rather than strictly design or
+         construction-related aspects of the Contract Documents.
+
+ARTICLE 2--PRELIMINARY MATTERS
+
+2.01     DELIVERY OF BONDS
+
+         A. When DESIGN/BUILDER delivers the executed Agreements to OWNER,
+DESIGN/BUILDER shall also deliver to OWNER such Bonds as DESIGN/BUILDER may be
+required to furnish in accordance with paragraph 5.01.A.
+
+2.02     COMMENCEMENT OF CONTRACT TIMES; NOTICE TO PROCEED
+
+         A. The Contract Times will commence to run on the thirtieth day
+after the Effective Date of the Agreement, or, if a Notice to Proceed is given,
+on the day indicated in the Notice to Proceed. A Notice to Proceed may be given
+at any time within thirty days after the Effective Date of the Agreement. In no
+event will the Contract Times commence to run later than the ninetieth day after
+the last day for receipt of the Proposal or the thirtieth day after the
+Effective Date of the Agreement, whichever date is earlier.
+
+2.03     STARTING THE WORK
+
+         A. DESIGN/BUILDER shall start to perform the Work on the date when the
+Contract Times commence to run.
+
+2.04     BEFORE STARTING CONSTRUCTION
+
+         A. DESIGN/BUILDER shall submit the following for review within ten days
+after commencement of the Contract Times:
+
+                  1. A preliminary progress schedule indicating the
+times (numbers of days or dates) for starting and completing the various stages
+of the Work including each Milestone specified in the Contract Documents;
+
+                  2. A preliminary schedule of required Submittals and
+         the times for submitting, reviewing and processing each Submittal;
+
+                  3. A preliminary Schedule of Values for all of the
+         Work which will include quantities and prices of items aggregating the
+         Contract Price and will subdivide the Work into component parts in
+         sufficient detail to serve as the basis for progress payments during
+         performance of the Work.. Such prices will include a pro rata amount of
+         overhead and profit applicable to each item of Work; and
+
+                  4. A preliminary Cash Flow Projection.
+
+<Page>
+
+         B. Before any Work is started, DESIGN/BUILDER and OWNER shall
+each deliver to the other, with copies to each additional insured identified in
+the Supplementary Conditions, certificates of insurance (and other evidence of
+insurance which either of them or any additional insured may reasonably request)
+which DESIGN/BUILDER and OWNER respectively are required to purchase and
+maintain in accordance with paragraphs 5.02.A, 5.04.A and 5.04.B.
+
+2.05     INITIAL CONFERENCE
+
+         A. Within twenty days after the Contract Times start to run a
+conference attended by OWNER and DESIGN/BUILDER and others as appropriate will
+be held to establish a working understanding among the parties as to the Work
+and to discuss the design concepts, schedules referred to in paragraph 2.04.A,
+procedures for handling Submittals, processing Applications for Payment,
+maintaining required records, items required pursuant to paragraph 8.01.A.6 and
+other matters.
+
+2.06     INITIALLY ACCEPTABLE SCHEDULES
+
+         A. At least ten days before submission of the first Application
+for Payment a conference attended by DESIGN/BUILDER, OWNER and others as
+appropriate will be held to review for acceptability the schedules submitted in
+accordance with paragraph 2.04A. DESIGN/BUILDER shall have an additional ten
+days to make corrections and adjustments and to complete and resubmit the
+schedules. No progress payment shall be made to DESIGN/BUILDER until the
+schedules are submitted to and acceptable to OWNER as provide below. The
+progress schedule will be acceptable to OWNER as providing an orderly
+progression of the Work to completion within any specified Milestones and the
+Contract Times, but such acceptance will neither impose on OWNER responsibility
+for the sequencing, scheduling or progress of the Work nor interfere with or
+relieve DESIGN/BUILDER from DESIGN/BUILDER's full responsibility therefore. The
+format and structure of the progress schedule will be as set - forth in the
+Contract Documents. OWNER's acceptance shall not be deemed to confirm that the
+schedule is a reasonable plan for performing the Work. DESIGN/BUILDER's schedule
+of Submittals will be acceptable to OWNER as providing a workable arrangement
+for reviewing and processing the require Submittals. DESIGN/BUILDER's Schedule
+of Values and Cash Flow Projection will be acceptable to OWNER as to form and
+substance.
+
+ARTICLE 3--CONTRACT DOCUMENTS: INTENT, AMENDING, REUSE
+
+3.01     INTENT
+
+         A. The Contract Documents comprise the entire agreement between
+OWNER and DESIGN/BUILDER concerning the Work. The Contract Documents are
+complementary; what is called for by one is as binding as if called for by all.
+The Contract Documents will be construed in accordance with the law of the place
+of the Project.
+
+         B. It is the intent of the Contract Documents to describe a
+functionally complete Project (or part thereof) to be designed and constructed
+in accordance with the Contract Documents. Any
+
+<Page>
+
+Work, materials or equipment that may reasonably be inferred from the Contract
+Documents or from prevailing custom or trade usage as being required to. produce
+the intended result will be furnished and performed whether or not specifically
+called for. When words or phrases which have a well-known technical or
+construction industry or trade meaning are used to describe work, materials or
+equipment, such words or phrases shall be interpreted in accordance with that
+meaning.
+
+3.02     REFERENCES
+
+         A. Reference to standards, specifications, manuals or codes of
+any technical society, organization or association, or to the Laws or
+Regulations of any governmental authority, whether such reference be specific or
+by implication, shall mean the latest standard, specification, manual, code or
+Laws or Regulations in effect on the last day for receipt of Proposals except as
+may be otherwise specifically stated in the Contract Documents.
+
+         B. Except as otherwise specifically stated in the Contract
+Documents or as may -be provided by amendment or supplement thereto issued by
+one of the methods indicated in paragraph 3.03.A , the provisions of the
+Contract Documents shall take precedence in resolving any conflict, error,
+ambiguity or discrepancy between the provisions of the Contract Documents and:
+
+                  1. the provisions of any such standard, specification, manual,
+         code or instruction (whether or not specifically incorporated by
+         reference in the Contract Documents); or
+
+                  2. the provisions of any such Laws or Regulations
+         applicable to the performance of the Work (unless such an
+         interpretation of the provisions of the Contract Documents would result
+         in violation of such Law or Regulation).
+
+         C. No provision of any such standard, specification, manual,
+code or instruction shall be effective to change the duties and responsibilities
+of OWNER, DESIGN/BUILDER or any of their subcontractors, consultants, agents, or
+employees from those set forth in the Contract Documents, nor shall it be
+effective to assign to OWNER any duty or authority to supervise or direct the
+furnishing or performance of the Work or any duty or authority to undertake
+responsibility inconsistent with the provisions of paragraph 8.02 or any other
+provision of the Contract Documents.
+
+3.03     AMENDING DOCUMENTS AND SUPPLEMENTING CONTRACT
+
+         A. The Contract Documents may be amended to provide for
+additions, deletions and revisions in the Work or to modify the terms and
+conditions thereof in one or more of the following ways:
+
+                  1.       OWNER's approval of required Submittals (pursuant to
+                           paragraph 6.16.B);
+
+                  2.       A Work Change Directive;
+
+                  3.       A Change Order,
+
+<Page>
+
+                  4.       A formal Written Amendment; or
+
+                  5.       A Field Order.
+
+3.04     REUSE OF DOCUMENTS
+
+         A. All documents including Drawings and Specifications prepared
+or furnished by DESIGN/BUILDER pursuant to this Agreement are instruments of
+service in respect of the Project and DESIGN/BUILDER shall retain an ownership
+and property interest therein whether or not the Project is completed. OWNER may
+make and retain copies for information and reference in connection with the use
+and occupancy of the Project by OWNER and others; however, such documents are
+not intended or represented to be suitable for reuse by OWNER or others on
+extensions of the Project or on any other project. Any reuse without written
+verification or adaptation by DESIGN/BUILDER for the specific purpose intended
+will be at OWNER's sole risk and without liability or legal exposure to
+DESIGN/BUILDER and OWNER shall indemnify and hold harmless DESIGN/BUILDER,
+Subcontractors, and Engineer from all claims, damages, losses and expenses
+including attorneys' fees arising out of or resulting therefrom. Any such
+verification or adaptation will entitle DESIGN/BUILDER to further compensation
+at rates to be agreed upon by OWNER and DESIGN/BUILDER.
+
+ARTICLE 4--AVAILABILITY OF LANDS; DIFFERING SITE CONDITIONS;
+                  REFERENCE POINTS; HAZARDOUS CONDITIONS
+
+4 01     AVAILABILITY OF LANDS
+
+         A. OWNER shall furnish, as indicated in the Contract Documents,
+the lands upon which the Construction is to be performed, rights-of-way and
+easements for' access thereto, and such other lands which are designated for the
+use of DESIGN/BUILDER.
+
+         B. Upon reasonable written request, OWNER shall furnish
+DESIGN/BUILDER with a correct statement of record legal title and legal
+description of the lands upon which the Construction is to be performed and
+OWNER's interest therein as necessary for giving notice of or filing a
+mechanic's lien against such lands in accordance with applicable Laws and
+Regulations. OWNER shall identify any encumbrances or restrictions not of
+general application but specifically related to use of lands so furnished with
+which DESIGN/BUILDER will have to comply in performing the Work. Easements for
+permanent structures or permanent `changes in existing facilities will be
+obtained and paid for by OWNER, unless otherwise provided in the Contract
+Documents. If DESIGN/BUILDER and OWNER are unable to agree on entitlement to or
+the amount or extent of any adjustments in the Contract Price or the Contract
+Times as a result of any delay in OWNER's furnishing these lands, rights-of way
+or easements, DESIGN/BUILDER may make a claim therefor as provided in Article 9.
+
+         C. DESIGN/BUILDER shall provide for all additional lands and
+access thereto that may be required for temporary construction facilities or
+storage of materials and equipment.
+
+<Page>
+
+4.02     DIFFERING SITE CONDITIONS
+
+         A. DESIGN/BUILDER shall promptly, and before the conditions are
+disturbed, give a written notice to OWNER of (i) subsurface or latent physical
+conditions at the Site which differ materially from those indicated in the
+Contract Documents, or (ii) unknown physical conditions at the Site, of an
+unusual nature, which differ materially from those ordinarily encountered and
+generally recognized as inhering in work of the character called for by the
+Contract Documents.
+
+         B. OWNER will investigate the site conditions promptly after
+receiving the notice. If the conditions do materially so differ and cause an
+increase or decrease in the DESIGN/BUILDER's cost of, or the time required for,
+performing any part of the Work, whether or not changed as a result of the
+conditions, an equitable adjustment shall be made under this clause and the
+Contract Price or Times modified in writing by Change Order in accordance with
+Article 9.
+
+         C. No request by DESIGN/BUILDER for an equitable adjustment
+under paragraph 4.02 shall be allowed unless DESIGN/BUILDER has given the
+written notice required; provided that the time prescribed in 9.02.A for giving
+written notice may be extended by OWNER.
+
+4.03     REFERENCE POINTS
+
+         A. DESIGN/BUILDER shall be responsible for laying out the
+construction and shall protect and preserve the reference points established by
+OWNER pursuant to paragraph 8.01.A.6.e and shall make no changes or relocations
+without the prior written approval of OWNER. DESIGN/BUILDER shall report to
+OWNER whenever any reference point or property monument is lost or destroyed or
+requires relocation because of necessary changes in grades or locations, and
+shall be responsible for the accurate replacement or relocation of such
+reference points or property monuments by professionally qualified personnel.
+
+4.04     HAZARDOUS CONDITIONS
+
+         A. OWNER will be responsible for any Hazardous Condition
+encountered at the Site which was not identified in the Contract Documents to be
+within the scope of the Work. OWNER shall not be responsible for materials
+creating a Hazardous Condition brought to the Site by DESIGN/BUILDER,
+Subcontractors, Suppliers or anyone else for whom DESIGN/BUILDER is responsible.
+
+         B. DESIGN/BUILDER and any affected Subcontractor shall
+immediately (i) stop all Construction in connection with such Hazardous
+Condition and in any area affected thereby (except in an emergency as required
+by paragraph 6.15), and (ii) notify OWNER (and thereafter confirm such notice in
+writing). OWNER shall promptly determine the necessity of retaining a qualified
+expert to evaluate such Hazardous Condition or take corrective action, if any.
+DESIGN/BUILDER shall not be required to resume Construction in connection with
+such Hazardous. Condition or in any such affected area until after OWNER has
+obtained any required permits related thereto and delivered to DESIGN/BUILDER
+special written notice (i) specifying that such Hazardous Condition and any
+affected ants is or has been rendered safe for the resumption of Construction,
+or (ii) specifying any special conditions under which such Construction may be
+resumed safely. If
+
+<Page>
+
+OWNER and DESIGN/BUILDER cannot agree as to entitlement to or the amount or
+extent of an adjustment, if any, in Contract Price or Contract Times as a result
+of such Construction stoppage or such special conditions under which
+Construction is agreed by DESIGN/BUILDER to be resumed, either party may make a
+claim therefor as provided in Article 9.
+
+         C. If after receipt of such special written notice
+DESIGN/BUILDER does not agree to resume Construction based on a reasonable
+belief it is unsafe, or does not agree to resume such Construction under such
+special conditions, then OWNER may order such portion of the Work that is
+related to such Hazardous Condition or in such affected area to be deleted from
+the Work. If OWNER and DESIGN/BUILDER cannot agree as to entitlement to or the
+amount or extent of an adjustment, if any, in Contract Price or Contract Times
+as a result of deleting such portion of the Work, then either party may make a
+claim therefor as provided in Article 9. OWNER may have such deleted portion of
+the Work performed by OWNER'S own forces or others in accordance with Article 7.
+
+         D. To the fullest extent permitted by Laws and Regulations,
+OWNER shall indemnify and hold harmless DESIGN/BUILDER, Subcontractors,
+Suppliers, Engineers and the officers, directors, employees, agents, other
+consultants and subcontractors of each and any of them from and against all
+claims, costs, losses and damages (including but not limited to all fees and
+charges of engineers, architects, attorneys and other professionals and all
+court or arbitration or other dispute resolution costs) arising out of or
+resulting from such Hazardous Condition, provided that (i) any such claim, cost,
+loss or damage is attributable to bodily injury, sickness, disease or death, or
+to injury to or destruction of tangible property (other than completed
+Construction Services), including the loss of use resulting therefrom, and (ii)
+nothing in this paragraph 4.04.D shall obligate OWNER to indemnify any
+individual or entity from and against the consequences of that individual's or
+entity's own negligence or willful misconduct.
+
+         E. The provisions of paragraph 4.02 are not intended to apply
+to materials uncovered or revealed at the Site which are or could be a Hazardous
+Condition when such materials are identified in the Supplementary Conditions.
+
+ARTICLE 5--BONDS AND INSURANCE
+
+5.01     PERFORMANCE, PAYMENT AND OTHER BONDS
+
+         A. DESIGN/BUILDER shall furnish performance and payment Bonds,
+each in an amount at least equal to the Contract Price as security for the
+faithful performance and payment of all DESIGN/BUILDER'S obligations to furnish,
+provide and pay for Construction and related materials under the Contract
+Documents. These Bonds shall remain in effect at least until one year after the
+date when final payment becomes due, except as provided otherwise by Laws or
+Regulations or by the Contract Documents. DESIGN/BUILDER shall also furnish such
+other Bonds as are required by the Supplementary Conditions. All Bonds shall be
+in the form prescribed by the Contract Documents except as provided otherwise by
+Laws or Regulations, and shall be executed by such sureties as are named in the
+current list of "Companies Holding Certificates of Authority, as Acceptable
+Sureties on Federal Bonds and as Acceptable Reinsuring Companies" as published
+in Circular 570 (amended) by the Audit Staff, Bureau of Government Financial
+
+<Page>
+
+Operations, U.S. Treasury Department. All Bonds signed by an agent must be
+accompanied by a certified copy of such agent's authority to act.
+
+         B. If the surety on any Bond furnished by DESIGN/BUILDER is
+declared a bankrupt or becomes insolvent or its right to do business is
+terminated in any state where any part of the Project is located or it ceases to
+meet the requirements of paragraph 5.0I.A, DESIGN/BUILDER shall within thirty
+days thereafter substitute another Bond and surety meeting the requirements of
+paragraphs 5.01.A and 5.09.
+
+5.02     DESIGN/BUILDER'S LIABILITY INSURANCE
+
+         A. DESIGN/BUILDER shall purchase and maintain such
+Comprehensive or Commercial General Liability (subject to customary exclusions
+in respect of professional liability), Automobile Liability and Worker's
+Compensation insurance as is appropriate for the Work being performed and
+furnished and as will provide protection from claims set forth below which may
+arise out of or result from DESIGN/BUILDER's performance and furnishing of the
+Work and DESIGN/BUILDER'S other obligations under the Contract Documents,
+whether it is to be performed or furnished by DESIGN/BUILDER, any Subcontractor
+or Supplier, or by anyone directly or indirectly employed by any of them to
+perform or furnish any of the Work, or by anyone for whose acts any of them may
+be liable:
+
+                  1. Claims under workers' compensation, disability benefits and
+         other similar employee benefit acts;
+
+                  2. Claims for damages because of bodily injury,
+         occupational sickness or disease, or death of DESIGN/BUILDER's
+         employees;
+
+                  3. Claims for damages because of bodily injury,
+         sickness or disease, or death of any person other than DESIGN/BUILDER's
+         employees;
+
+                  4. Claims for damages insured by customary personal
+         injury liability coverage which are sustained (i) by any person as a
+         result of an offense directly or indirectly related to the employment
+         of such person by DESIGN/BUILDER, or (ii) by any other person for any
+         other reason;
+
+                  5. Claims for damages, other than to the Work itself,
+         because of injury to or destruction of tangible property wherever
+         located, including loss of use resulting therefrom; and
+
+                  6. Claims for damages because of bodily injury or
+         death of any person or property damage arising out of the ownership,
+         maintenance or use of any motor vehicle.
+
+         B. The policies of insurance required by paragraph 5.02.A
+shall:
+
+                  1. With respect to insurance required by paragraphs
+         5.02.A.3 through 5.02.A.6 inclusive, include as additional insureds
+         OWNER and OWNER'S Consultants and any
+
+<Page>
+
+         other persons or entities indicated in the Supplementary Conditions,
+         all of whom shall be listed as additional insureds, and include
+         coverage for the respective officers and employees of all such
+         additional insureds;
+
+                  2. Include at least the specific coverages and be written for
+         not less than the limits of liability provided in the Supplementary
+         Conditions or required by Laws or Regulations, whichever is greater;
+
+                  3. Include completed operations insurance;
+
+                  4. Include contractual liability insurance covering
+         DESIGN/BUILDER'S indemnity obligations under paragraphs 6.06, 6.10 and
+         6.19;
+
+                  5. Contain a provision or endorsement that the coverage
+         afforded will not be cancelled, materially changed or renewal refused
+         until at least 30 days prior written notice has been given to OWNER and
+         each other additional insured indicated in the Supplementary Conditions
+         to whom a certificate of insurance has been issued (and the
+         certificates of insurance furnished by the DESIGN/BUILDER pursuant to
+         paragraph 5.09.B will so provide);
+
+                  6. Remain in effect at least until final payment and at all
+         times thereafter when DESIGN/BUILDER may be correcting, `removing or
+         replacing defective Construction in accordance with paragraphs 12.06
+         and 12.07; and
+
+                  7. With respect to completed operations insurance, and any
+         other insurance coverage written on a claims-made basis, remain in
+         effect for at least two years after final payment (and DESIGN/BUILDER
+         shall furnish OWNER and each other additional insured indicated in the
+         Supplementary Conditions to whom a certificate of insurance has been
+         issued evidence satisfactory to OWNER and any such additional insured
+         of continuation of such insurance at final payment and one year
+         thereafter).
+
+5.03     OWNER'S LIABILITY INSURANCE
+
+         A. In addition to the insurance required to be provided by
+DESIGN/BUILDER under paragraph 5.02, OWNER, at OWNER'S option, may purchase and
+maintain at OWNER'S expense OWNER'S own liability insurance as will protect
+OWNER against claims which may arise from operations under the Contract
+Documents.
+
+5.04     PROPERLY INSURANCE
+
+         A. Unless otherwise provided in the Supplementary Conditions,
+OWNER shall purchase and maintain property insurance upon the Construction at
+the Site in the amount of the full replacement cost thereof (subject to such
+deductible amounts as may be provided in the Supplementary Conditions or
+required by Laws and Regulations). This insurance will:
+
+<Page>
+
+                  1. Include (lie interests of OWNER, DESIGN/BUILDER,
+         Subcontractors, and any other persons or entities indicated in the
+         Supplementary Conditions, each of whom is deemed to have an insurable
+         interest and shall be listed as an insured or additional insured;
+
+                  2. Be written on a Builder's Risk "all-risk" or open peril or
+         special causes of loss policy form that shall at least include
+         insurance for physical loss and damage to the Construction, temporary
+         buildings, falsework and all materials and equipment in transit, and
+         shall insure against at least the following perils or causes of loss:
+         fire, lightning, extended coverage, theft, vandalism and malicious
+         mischief, earthquake, collapse, debris removal, demolition occasioned
+         by enforcement of Laws and Regulations, water damage, and such other
+         perils or causes of loss as may be specifically required by the
+         Supplementary Conditions;
+
+                  3. Include expenses incurred in the repair or replacement of
+         any insured property (including but not limited. to fees and charges of
+         engineers and architects);
+
+                  4. Cover materials and equipment stored at the Site .or at
+         another location that was agreed to in writing by OWNER prior to being
+         incorporated in the Construction, provided that such materials and
+         equipment have been included in an Application for Payment approved by
+         OWNER;
+
+                  5. Be maintained in effect until final payment is made unless
+         otherwise agreed to in writing by OWNER and DESIGN/BUILDER with thirty
+         days written notice to each other additional insured to whom a
+         certificate of insurance has been issued; and
+
+                  6. Allow partial utilization in accordance with paragraph
+         5.08.
+
+         B. OWNER shall purchase and maintain such boiler and machinery
+insurance or additional property insurance as may be required by the
+Supplementary Conditions or Laws and Regulations which will include the
+interests of OWNER, DESIGN/BUILDER, Subcontractors, and any other individuals or
+entities indicated in the Supplementary Conditions, each of whom is deemed to
+have an insurable interest and shall be listed as an insured or additional
+insured.
+
+         C. All the policies of insurance (and the certificates or other
+evidence thereof) required to be purchased and maintained by OWNER in accordance
+with paragraph 5.04 will contain a provision or endorsement that the coverage
+afforded will not be cancelled or materially changed or renewal refused until at
+least 30 days' prior written notice has been given to DESIGN/BUILDER and to each
+other additional insured to whom a certificate of insurance has been issued and
+will contain waiver provisions in accordance with paragraph 5.05.A.
+
+         D. OWNER shall not be responsible for purchasing and
+maintaining any property insurance to protect the interests of DESIGN/BUILDER,
+Subcontractors, Suppliers, Engineers or others in the Work to the extent of any
+deductible amounts that are identified in the Supplementary Conditions. The risk
+of loss within such identified deductible amount,. will be borne by
+DESIGN/BUILDER, Subcontractor or others suffering any such loss and if any of
+them wishes
+
+<Page>
+
+property insurance coverage within the limits of such amounts, each may purchase
+and maintain it at the purchaser's own expense.
+
+         E. If DESIGN/BUILDER requests in writing that other special
+insurance be included in the property insurance policies provided under
+paragraph 5.04, OWNER shall, if possible, include such insurance, and the cost
+thereof will be charged to DESIGN/BUILDER by appropriate Change Order or Written
+Amendment. Prior to commencement of the Work at the Site, OWNER shall in writing
+advise DESIGN/BUILDER whether or not such other insurance has been procured by
+OWNER
+
+5.05     WAIVER OF RIGHTS
+
+         A. OWNER and DESIGN/BUILDER intend that all policies purchased
+in accordance with paragraph 5.04 will protect OWNER, DESIGN/BUILDER, Engineers,
+Subcontractors, and all other individuals or entities indicated in the
+Supplementary Conditions to be listed as insureds or additional insureds in such
+policies and will provide primary coverage for all losses and damages caused by
+the perils or causes of loss covered thereby. All such policies shall contain
+provisions to the effect that in the event of payment of any loss or damage the
+insurers will have no rights of recovery against any of the insureds or
+additional insureds thereunder. OWNER and DESIGN/BUILDER waive all rights
+against each other and their respective officers, directors, employees and
+agents for all losses and damages caused by, arising out of or resulting from
+any of the perils or causes of loss covered by such policies and any other
+property insurance applicable to the Work; and, in addition, waive all such
+rights against Subcontractors, Suppliers, Engineers and all other individuals or
+entities indicated in the Supplementary Conditions to be listed as insureds or
+additional insureds under such policies for losses and damages so caused. None
+of the above waivers shall extend to the rights that any party making such
+waiver may have to the proceeds of insurance held by OWNER as trustee or
+otherwise payable under any policy so issued. in addition, OWNER waives all
+rights against DESIGN/BUILDER, Subcontractors, .Engineers and Suppliers and the
+officers, directors, employees and agents of any of them for business
+interruption, loss of use of OWNERs property and any other consequential damages
+caused by, arising out of or resulting from any of such insured perils or causes
+of loss or any other peril or cause of loss whether or not insured.
+
+5.06.    RECEIPT AND APPLICATION OF PROCEEDS
+
+         A. Any insured loss under the policies of insurance required by
+paragraph 5.04 will be adjusted with OWNER and made payable to OWNER as
+fiduciary for the insureds, as their interests may appear, subject to the
+requirements of any applicable mortgage clause and of paragraph 5.06.B. OWNER
+shall deposit in a separate account any money so received, and shall distribute
+it in accordance with such agreement as the parties in interest may reach. If no
+other special agreement is reached the damaged Work shall be repaired or
+replaced, the moneys so received applied on account thereof and the Work and the
+cost thereof covered by an appropriate Change Order or Written Amendment.
+
+         B. OWNER as fiduciary shall have power to adjust and settle any
+loss with the insurers unless one of the parties in interest shall object in
+writing within fifteen days after the occurrence of
+
+<Page>
+
+loss to OWNER's exercise of this power. If such objection be made, OWNER as
+fiduciary shall make settlement .with the insurers in accordance with such
+agreement as the parties in interest may reach. If no such agreement among the
+parties in interest is reached, OWNER as fiduciary shall adjust and settle the
+loss with the insurers and, if required in writing by any party in interest,
+OWNER as fiduciary shall give bond for the proper performance of such duties.
+
+5.07     ACCEPTANCE OF BONDS AND INSURANCE; OPTION TO REPLACE
+
+         A. If either party has any objection to the coverage afforded by or
+other provisions of the Bonds or insurance required to be purchased and
+maintained by the other party in accordance with Article 5 on the basis of their
+not complying with the Contract Documents, the objecting party shall so notify
+the other party in writing within ten days after receipt of the certificates (or
+other evidence requested) required by paragraph 2.04.B. OWNER and DESIGN/BUILDER
+shall each provide to the other such additional information in respect of
+insurance provided as the other may reasonably request. If either party does not
+purchase or maintain all of the Bonds and insurance required of such party by
+the Contract Documents, such party shall notify the other party in writing of
+such failure to purchase prior to the start of the Work, or of such failure to
+maintain prior to any change in the required coverage. Without prejudice to any
+other right or remedy, the other party may elect to obtain equivalent Bonds or
+insurance to protect such other party's interests at the expense of the party
+who was supposed to provide such coverage, and a Change Order or Written
+Amendment shall be issued to adjust the Contract Price accordingly.
+
+5.08     PARTIAL UTILIZATION-PROPERTY INSURANCE
+
+         A. If OWNER finds it necessary to occupy or use a portion or portions
+of the Work prior to Substantial Completion of all the Construction, such use or
+occupancy may be accomplished in accordance with paragraph 13.06; provided that
+no such use or occupancy shall commence before the insurers providing the
+property insurance have acknowledged notice thereof and in writing effected any
+changes in coverage necessitated thereby. The insurers providing the property
+insurance shall consent by endorsement on the policy or policies, but the
+property insurance shall not be cancelled or permitted to lapse on account of
+any such partial use or occupancy.
+
+5.09     LICENSED SURETIES AND INSURERS: CERTIFICATES OF INSURANCE
+
+         A. All Bonds and insurance required by the Contract Documents to be
+purchased and maintained by OWNER or DESIGN/BUILDER shall be obtained from
+surety or insurance companies that are duly licensed or authorized in the
+jurisdiction in which the Project is located to issue Bonds or insurance
+policies for the limits and coverages so required. Such surety and insurance
+companies shall also meet such additional requirements and qualifications as may
+be provided in the Supplementary Conditions.
+
+         B. DESIGN/BUILDER shall deliver to OWNER, with copies to each
+additional insured indicated in the Supplementary Conditions, certificates of
+insurance (and other evidence of insurance requested by OWNER or any other
+additional insured) which DESIGN/BUILDER is required to purchase and maintain in
+accordance with paragraph 5.02.A. OWNER shall deliver to
+
+<Page>
+
+DESIGN/BUILDER, with copies to each additional insured indicated iii -the
+Supplementary Conditions, certificates of insurance (and other evidence of
+insurance requested by DESIGN/BUILDER or any other additional insured) which
+OWNER is required to purchase and maintain in accordance with paragraphs 5.04.A
+and 5.04.B.
+
+ARTICLE 6--DESIGN/BUILDER'S RESPONSIBILITIES
+
+6.01     DESIGN PROFESSIONAL SERVICES
+
+         A. Standard of Care: DESIGN/BUILDER shall perform or furnish Design
+Professional Services and related services in all phases of the project. The
+standard of care for all such services performed or furnished under this
+Agreement will be the care and skill ordinarily used by members of the
+engineering profession practicing under similar conditions at the same time and
+locality.
+
+         B. Preliminary Design Phase: After the Contract Times commence to run,
+DESIGN/BUILDER shall:
+
+                  1. Consult with OWNER to understand OWNER's requirements for
+         the Project and review available data.
+
+                  2. Advise OWNER as to the necessity of OWNER's providing or
+         obtaining from others additional reports, data or services of the types
+         provided in paragraph 8:01.A.6.a-f and assist OWNER in obtaining such
+         reports, data, or services.
+
+                  3. Identify and analyze requirements of governmental
+         authorities having jurisdiction to approve the portions of the Project
+         designed or specified by DESIGN/BUILDER with whom consultation is to be
+         undertaken in connection with the Project.
+
+                  4. Obtain such additional geotechnical and related information
+         which it deems necessary for performance of the Work.
+
+                  5. On the basis of the Conceptual Documents and
+         DESIGN/BUILDER's Proposal, prepare preliminary design documents
+         consisting of final design criteria, preliminary drawings, outline
+         specifications, and written descriptions of the Project.
+
+                  6. Furnish the preliminary design documents to and review them
+         with OWNER within the time indicated in the schedules described in
+         paragraph 2.06.A.
+
+         C. FINAL DESIGN PHASE: After written acceptance by OWNER of the
+preliminary design phase documents DESIGN/BUILDER shall:
+
+                  1. On the basis of the accepted Preliminary Design Phase
+         documents, prepare final Drawings showing the scope, extent, and
+         character of the Construction to be performed and furnished by
+         DESIGN/BUILDER and Specifications (which will be
+
+<Page>
+
+         prepared, where appropriate, in general conformance with the sixteen
+         division format of the Construction Specifications Institute).
+
+                  2. Provide technical criteria, written descriptions
+         and design data required for obtaining approvals of such governmental
+         authorities as have jurisdiction to review or approve the final design
+         of the Project, and assist OWNER in consultations with appropriate
+         authorities.
+
+                  3. Furnish the above documents, Drawings and
+         Specifications to and review them with OWNER within the time indicated
+         in the schedules described in paragraphs 2.04.A and 2.06.A.
+
+         D. Operational Phase: During the Operational Phase, DESIGN/BUILDER
+shall:
+
+                  1. Provide assistance in connection with the start-up,
+         testing, refining and adjusting of any equipment or system.
+
+                  2. Assist OWNER in training staff to operate and maintain the
+         Project.
+
+                  3. Assist OWNER in developing systems and procedures
+         for control of the operation and maintenance of and record keeping for
+         the Project.
+
+6.02     SUPERVISION AND SUPERINTENDENCE OF CONSTRUCTION
+
+         A. DESIGN/BUILDER shall supervise, inspect and direct the Construction
+competently and efficiently, devoting such attention thereto and applying such
+skills and expertise as may be necessary to provide the Construction in
+accordance with the Contract Documents. DESIGN/BUILDER shall be solely
+responsible for the means, methods, techniques, sequences. and procedures
+employed for the provision of Construction. DESIGN/BUILDER shall be responsible
+to see that the completed Construction complies accurately with the Contract
+Documents and shall keep OWNER advised as to the quality and progress of the
+Construction.
+
+         B. DESIGN/BUILDER shall keep on the Site at all times during
+construction a competent resident superintendent, who shall not be replaced
+without written notice to OWNER except under extraordinary circumstances. The
+superintendent will be DESIGN/BUILDER's representative at the Site and shall
+have authority to act on behalf of DESIGN/BUILDER. All communications to the
+superintendent shall be as binding as if given to DESIGN/BUILDER.
+
+6.03     LABOR, MATERIALS AND EQUIPMENT
+
+         A. DESIGN/BUILDER shall provide competent, suitably qualified
+personnel to survey and lay out the Construction and perform Construction as
+required by the Contract Documents. DESIGN/BUILDER shall at all times maintain
+good discipline and order at the Site. Except as otherwise required for the
+safety or protection of persons or the Work or property at the Site or adjacent
+thereto, and except as otherwise indicated in the Contract Documents, all
+Construction at the Site shall be performed during regular working hours, and
+DESIGN/BUILDER will not permit
+
+<Page>
+
+overtime work or the performance of Construction on Saturday, Sunday or any
+legal holiday without OWNERs written consent, which will not be unreasonably
+withheld.
+
+         B. Unless otherwise specified in the Contract Documents,
+DESIGN/BUILDER shall furnish or cause to be furnished and assume full
+responsibility for materials, equipment, labor, transportation, construction
+equipment and machinery, toots, appliances, fuel, power, light, heat, telephone,
+water, sanitary facilities, temporary facilities and all other facilities and
+incidentals necessary for the furnishing, performance, testing, start-up and
+completion of the Work. DESIGN/BUILDER, in the presence of OWNER's personnel,
+will direct the checkout of utilities and operations of systems and equipment.
+
+         C. All materials and equipment incorporated into the Work shall
+be of good quality and new, except as otherwise provided in the Contract
+Documents. All warranties and guarantees specifically called for by the Contract
+Documents shall expressly run to the benefit of OWNER. If required by OWNER,
+DESIGN/BUILDER shall furnish satisfactory evidence (including reports of
+required tests) as to the kind and quality of materials and equipment. All
+materials and equipment shall be applied, installed, connected, erected, used,
+cleaned and conditioned in accordance with instructions of the applicable
+Supplier, except as otherwise provided in the Contract Documents.
+
+6.04     PROGRESS SCHEDULE
+
+         A. DESIGN/BUILDER shall adhere to the. progress schedule established in
+accordance with paragraph 2.06.A as it may be adjusted from time to time.
+
+                  1. DESIGN/BUILDER shall submit to OWNER for acceptance
+         proposed adjustments in the progress schedule that will not change the
+         Contract Times (or Milestones). Such adjustments will conform generally
+         to the progress schedule then in effect.
+
+                  2. Proposed adjustments in the progress schedule that will
+         change the Contract Times (or Milestones) shall be submitted in
+         accordance with the requirements of Article 11. Such adjustments may
+         only be made by a Change Order or Written Amendment.
+
+6.05     CONCERNING SUBCONTRACTORS, SUPPLIERS AND OTHERS
+
+         A. DESIGN/BUILDER shall not employ any Subcontractor, Engineer,
+Supplier or other individual or entity- against whom OWNER may have reasonable
+objection. DESIGN/BUILDER shall not be required to employ any Subcontractor,
+Engineer, Supplier or other individual or entity to furnish or perform any of
+the Work against whom DESIGN/BUILDER has reasonable objection.
+
+         B. DESIGN/BUILDER shall be fully responsible to OWNER for all acts and
+omissions of the Subcontractors, Engineers, Suppliers and other individuals or
+entities performing or furnishing any of the Work under a direct or indirect
+contract with DESIGN/BUILDER. Nothing in the Contract Documents shall create for
+the benefit of any such Subcontractor, Engineer, Supplier or other individual or
+entity any contractual relationship between OWNER and any such
+
+<Page>
+
+Subcontractor, Engineer, Supplier or other individual - or entity, nor shall
+it create any obligation on the part of OWNER. to pay or to see to the
+payment of any moneys due any such Subcontractor, Engineer, Supplier or other
+individual or entity except as may otherwise be required by Laws and
+Regulations.
+
+         C. DESIGN/BUILDER shall be solely responsible for scheduling and
+coordinating Subcontractors, Engineers, Suppliers and other individuals and.
+entities performing or furnishing any of the Work under a direct or indirect
+contract with DESIGN/BUILDER. DESIGN/BUILDER shall require all Subcontractors,
+Engineers, Supplier: and such other individuals and entities performing or
+furnishing any of the Work to communicate with the OWNER through DESIGN/BUILDER.
+
+         D. All services performed or provided to and material and equipment
+supplied to DESIGN/BUILDER by a Subcontractor or Supplier will be pursuant to an
+appropriate Design' Subagreement or construction Subagreement between
+DESIGN/BUILDER and the Subcontractor, Engineer or Supplier which specifically
+binds the Subcontractor, Engineer or Supplier to the. applicable terms and
+conditions of the Contract Documents for the benefit of OWNER. Whenever any such
+agreement is with a Subcontractor, Engineer or Supplier who is listed as an
+additional insured on the property insurance provided in paragraph 5.04.A or
+5.04.B, the agreement between the DESIGN/BUILDER and the Subcontractor, Engineer
+or Supplier will contain provisions whereby the Subcontractor, Engineer or
+Supplier waives alt rights against OWNER, DESIGN/BUILDER, OWNER's Consultants
+and all other additional insureds for all losses and damages caused by any of
+the perils or causes of loss covered by such policies and any other property
+insurance applicable to the Work. If the insurers on any such policies require
+separate waiver forms to be signed by any Subcontractor, Engineer or Supplier,
+DESIGN/BUILDER will obtain the same.
+
+6.06     PATENT FEES AND ROYALTIES
+
+         A. DESIGN/BUILDER shall pay all license fees and royalties and assume
+all costs incident to the use in the performance of the Work or the
+incorporation in the Work of any invention, design, process, product or device
+which is the subject of patent rights or copyrights held by others. If a
+particular invention, design, process, product or device is specified in the
+Conceptual Documents for use in the performance of the Construction and if to
+the actual knowledge of OWNER its use is subject to patent rights or copyrights
+calling for the payment of any license fee or royalty to others, the existence
+of such rights shall be disclosed by OWNER in the Conceptual Documents. To the
+fullest extent permitted by Laws and Regulations, DESIGN/BUILDER shall indemnify
+and hold harmless OWNER, from and against all claims, costs, losses and
+damages:(including but not limited to all fees and charges of engineers,
+architects, attorneys and other professionals and all court or arbitration or
+other dispute resolution costs) arising out of or resulting from any
+infringement of patent rights or copyrights incident to the use in the
+performance of the Work. or resulting from the incorporation in the Work of any
+invention, design, process, product or device not specified in the Conceptual
+Documents.
+
+<Page>
+
+6.07     PERMITS
+
+         A. Unless otherwise provided in the Contract Documents, DESIGN/BUILDER
+shall directly or through one or more Subcontractors obtain and pay for all
+necessary permits and licenses. OWNER shall assist DESIGN/BUILDER, when
+necessary, in obtaining such permits and licenses. DESIGN/BUILDER shall pay all
+governmental charges and inspection fees necessary for the prosecution of the
+Construction, which are applicable on the last day for receipt of Proposals.
+DESIGN/BUILDER shall pay alt charges of utility owners for connections to the
+Work, and OWNER shall pay all charges of such utility owners for capital costs
+related thereto.
+
+6.08     LAWS AND REGULATIONS
+
+         A. DESIGN/BUILDER shall give all notices and comply with all Laws and
+Regulations of the place of the Project which are applicable to furnishing and
+performance of the Work. - Except where otherwise expressly required by
+applicable Laws and Regulations, OWNER shall not be responsible for monitoring
+DESIGN/BUILDER's compliance with any Laws or Regulations.
+
+         B. If DESIGN/BUILDER performs any Work knowing or having reason to know
+that it is contrary to Laws or Regulations, DESIGN/BUILDER shall bear all costs
+arising therefrom.
+
+         C. Changes in Laws and Regulations not known or foreseeable on the date
+of receipt of Proposals having an effect on the cost or time of performance may
+be the subject of a claim under Article 9.
+
+6.09     TAXES
+
+         A. DESIGN/BUILDER shall pay all sales, consumer, use, gross receipts
+and other similar taxes required to be paid by DESIGN/BUILDER in accordance with
+the Laws and Regulations of the place of the Project which are applicable during
+the performance of the Work.
+
+6.10     USE OF SITE AND OTHER AREAS
+
+         A. DESIGN/BUILDER shall confine construction equipment, the storage of
+materials and equipment and the operations of construction workers to those
+lands and areas permitted by the OWNER and other land and areas permitted by
+Laws and Regulations, rights-of-way, permits and easements, and shall not
+unreasonably encumber the premises with construction equipment or other
+materials or equipment. DESIGN/BUILDER shall assume full responsibility for any
+damage to any such land or area, or to the owner or occupant thereof or of any
+adjacent land or areas, resulting from the performance of the Construction.
+Should any claim be made by any such owner a occupant because of the performance
+of the Construction, DESIGN/BUILDER shall promptly settle with such other party
+by negotiation or otherwise resolve the claim by arbitration or other dispute
+resolution proceeding or at law. DESIGN/BUILDER shall, to the fullest extent
+permitted by Laws and Regulations, indemnify and hold harmless OWNER, OWNERs
+Consultants and anyone directly or indirectly employed by any of them from and
+against all claims, costs, losses and damages (including, but not limited to,
+fees of engineers, architects, attorneys and other
+
+<Page>
+
+professionals and court and arbitration or other dispute resolution costs)
+arising out of or resulting from any claim or action, legal or equitable;
+brought by any such owner or occupant against OWNER, or any other party
+indemnified hereunder to the extent caused by or based upon DESIGN/BUILDER's
+performance of the Construction.
+
+         B. During the performance of the Construction, DESIGN/BUILDER shall
+keep the premises free from accumulations of waste materials, rubbish and outer
+debris resulting from the Construction. At the completion of the Construction
+DESIGN/BUILDER shall remove all waste materials, rubbish and debris from and
+about the premises as well as all tools, appliances, construction equipment,
+temporary construction and machinery and surplus materials. DESIGN/BUILDER shall
+leave the Site clean and ready for occupancy by OWNER at Substantial Completion.
+DESIGN/BUILDER shall restore to original condition all property not designated
+for alteration by the Contract Documents.
+
+         C. DESIGN/BUILDER shall not load nor permit any part of any
+structure to be loaded in any manner that will endanger the structure, nor shall
+DESIGN BUILDER subject any part of the Work or adjacent property to stresses or
+pressures that will endanger it.
+
+6.11     RECORD DOCUMENTS
+
+         A. DESIGN/BUILDER shall maintain in a safe place at the Site one record
+copy of all Drawings, Specifications, Addenda, Written Amendments, Change
+Orders, Field Orders and Work Change Directives, in good order and annotated to
+show all changes made during construction. These record documents together with
+all approved Submittals will be available to OWNER for reference. Upon
+completion of the Work, these record documents and Submittals, including a
+reproducible set of record drawings, will be delivered to OWNER.
+
+6.12     SAFETY AND PROTECTION
+
+         A. DESIGN/BUILDER shall be solely responsible for initiating,
+maintaining and supervising all safety precautions and programs in connection
+with the Construction. DESIGN/BUILDER shall take all necessary precautions for
+the safety of, and shall provide the necessary protection to prevent damage,
+injury or loss to:
+
+                  1. all persons on the Site or who may be affected by the
+         Construction;
+
+                  2. all Work and materials and equipment to be incorporated
+         therein, whether in storage on or off the Site; and
+
+                  3. other property at the Site or adjacent thereto, including
+         trees, shrubs, lawns, walks, pavements, roadways, structures, utilities
+         and underground facilities not designated for removal, relocation or
+         replacement in the course of construction.
+
+         B. DESIGN/BUILDER shall comply with applicable Laws and Regulations of
+any public body having jurisdiction for safety of persons or property or. to
+protect them from damage, injury or loss; and shall erect and maintain all
+necessary safeguards for such safety and protection.
+
+<Page>
+
+DESIGN/BUILDER shall notify owners of adjacent property and of underground
+facilities and utility owners when prosecution of the Work may affect them, and
+shall cooperate with them in the protection, removal, relocation and replacement
+of their property. All damage, injury or loss to any property caused, directly
+or indirectly, in whole or in part, by DESIGN/BUILDER, any Subcontractor,
+Supplier or any other individual or entity directly or indirectly employed by
+any of them to perform or furnish any of the Work or anyone for whose acts any
+of them may be liable; shall be remedied by DESIGN/BUILDER. DESIGN/BUILDER'S
+duties and responsibilities for safety and for protection of the construction
+shall continue until such time as all the Work is completed and OWNER has issued
+a notice to DESIGN/BUILDER in accordance with paragraph 13.09 that the Work is
+acceptable (except as otherwise expressly provided in connection with
+Substantial Completion).
+
+6.13     SAFETY REPRESENTATIVE
+
+         A. DESIGN/BUILDER shall designate a qualified and experienced safety
+representative at the Site whose duties and responsibilities shall be the
+prevention of accidents and the maintaining and supervising of safety
+precautions and programs.
+
+6.14     HAZARD COMMUNICATION PROGRAMS
+
+         A. DESIGN/BUILDER shall be responsible for coordinating any exchange of
+material safety data sheets or other hazard communication information required
+to be made available to or exchanged between or among employers at the Site in
+accordance with Laws or Regulations.
+
+6.15     EMERGENCIES
+
+         A. In emergencies affecting the safety or protection of persons or the
+construction or property at the Site or adjacent thereto, DESIGN/BUILDER,
+without special instruction or authorization from OWNER, is obligated to act to
+prevent threatened damage, injury or loss. DESIGN/BUILDER shall give OWNER
+prompt written notice if DESIGN/BUILDER believes that any significant changes in
+the Construction or variations from the Contract Documents have been caused
+thereby. If a change in the Contract Documents is required because of the action
+taken by DESIGN/BUILDER in response to such an emergency, a Work Change
+Directive or Change Order will be issued to document the consequences of such
+action.
+
+6.16     SUBMITTALS
+
+         A. OWNER will review and approve Submittals in accordance with the
+schedule of required Submittals accepted by OWNER as required by paragraph
+2.06.A. OWNER'S review and approval will be only to determine if the items
+covered by the Submittals will, after installation or incorporation in the
+construction, conform to the information given in the Contract Documents and be
+compatible with the design concept of the completed Project as a functioning
+whole as indicated by the Contract Documents. OWNER'S review and approval will
+not extend to means, methods, techniques, sequences or procedures of
+construction (except where a particular means, method, technique, sequence or
+procedure of construction is specifically and expressly called for by the
+Contract Documents) or to safety precautions or programs incident thereto. The
+review and
+
+<Page>
+
+approval of a separate item as such will not indicate approval of the assembly
+in which the item functions. DESIGN/BUILDER shall make corrections required by
+OWNER, and shall return the required number of corrected copies of the required
+Submittal for review and approval. DESIGN/BUILDER shall direct specific
+attention in writing to revisions other than the corrections called for by OWNER
+on previous Submittals.
+
+         B. OWNER's review and approval of required Submittals shall not relieve
+DESIGN/BUILDER from responsibility for any variation from the requirements of
+the Contract Documents unless DESIGN/BUILDER has in writing called OWNER'S
+attention to each such variation at the time of submission and OWNER has given
+written approval of each such variation by specific written notation thereof
+incorporated in or accompanying the Submittal. .
+
+         C. Where a Submittal is required by the Contract Documents or the final
+schedule of Submittals accepted by OWNER as required by paragraph 2.06.A, any
+related Construction provided prior to OWNER'S review and approval of the
+pertinent Submittal will be at the sole expense and responsibility of
+DESIGN/BUILDER.
+
+6.17     CONTINUING THE WORK
+
+         A. DESIGN/BUILDER shall carry on the Work and adhere to the progress
+schedule during all disputes or disagreements with OWNER. No Work shall be
+delayed or postponed pending resolution of any disputes or disagreements, except
+as DESIGN/BUILDER and OWNER may otherwise agree in writing.
+
+6.18     DESIGN/BUILDER'S GENERAL WARRANTY AND GUARANTEE
+
+         A. DESIGN/BUILDER warrants and guarantees to OWNER that all
+Construction will be in accordance with the Contract Documents and will not be
+defective. DESIGN/BUILDERs warranty and guarantee hereunder excludes defects or
+damage caused by:
+
+                  1. Abuse, modification or improper maintenance or operation by
+         persons other than DESIGN/BUILDER, Subcontractors or Suppliers; or
+
+                  2. Normal wear and tear under normal usage.
+
+         B. DESIGN/BUILDER's obligation to perform and complete the Work in
+accordance with the Contract Documents shall be absolute. None of the following
+will constitute an acceptance of Work that is not in accordance with the
+Contract Documents or a release of DESIGN/BUILDER's obligation to perform the
+Work in accordance with the Contract Documents:
+
+         1.       Observations by OWNER;
+
+         2.       The making of any progress or final pay-
+
+         3.       The issuance of a certificate of Substantial Completion;
+
+<Page>
+
+         4.       Use or occupancy of the Work or any part thereof by OWNER;
+
+         5.       Any acceptance by OWNER or any failure to do so;
+
+         6.       Any review and approval of a Submittal;
+
+         7.       Any inspection, test or approval by others; or
+
+         8. Any correction of defective Construction by OWNER.
+
+6.19     INDEMNIFICATION
+
+         A. DESIGN/BUILDER shall indemnify and hold harmless OWNER, OWNER's
+officers, directors, employees, agents and consultants from and against all
+claims, costs, losses and damages (including but not limited to all fees and
+charges of engineers, architects, attorneys and other professionals and all
+court or arbitration or other dispute resolution costs) arising out of or
+resulting from the performance of Construction, provided that any such claim,
+cost, loss or damage is attributable to bodily injury, sickness, disease or
+death, or to injury to or destruction of tangible property (other than the Work
+itself), including the loss of use resulting therefrom, but only to the extent
+such claim, cost or damage is caused by any negligent act or omission of
+DESIGN/BUILDER, any Subcontractor, Engineer, any Supplier, any individual or
+entity directly or indirectly employed by any of them to perform or furnish any
+of the Work or anyone for whose acts any of them may be liable.
+
+         B. In any and all claims against OWNER or any of their respective
+consultants, agents, officers, directors or employees by any employee (or the
+survivor or personal representative of such employee) of DESIGN/BUILDER, any
+Subcontractor, any Engineer, any Supplier, any individual or entity directly or
+indirectly employed by any of them to perform or furnish any of the Work or
+anyone for whose acts any of them may be liable, the indemnification obligation
+under paragraph 6.19.A shall not be limited in any way by any limitation on the
+amount or type of damages, compensation or benefits payable by or for
+DESIGN/BUILDER or any such Subcontractor, Engineer, Supplier or other individual
+or entity under workers' compensation acts, disability benefit acts or other
+employee benefit acts.
+
+         C. The indemnification obligations of DESIGN/BUILDER under paragraph
+6.19 shall not extend to the liability of OWNER's Consultants, officers,
+directors, employees or agents arising out of the preparation or approval of
+maps, drawings, opinions, reports, surveys, designs, or specifications.
+
+ARTICLE 7--OTHER CONSTRUCTION
+
+7.01     RELATED CONSTRUCTION AT SITE
+
+         A. OWNER may perform other Work related to the Project at the Site by
+OWNER'S own forces, or let other direct contracts therefor or have other work
+performed by utility owners. If the fact that such other work is to be performed
+was not noted in the Conceptual Documents then
+
+<Page>
+
+(i) written notice thereof will be given to DESIGN/BUILDER prior to starting any
+such other work and (ii) DESIGN/BUILDER may make a claim therefor as provided in
+Article 9 if DESIGN/BUILDER believes that such performance will involve
+additional expense to DESIGN/BUILDER or requires additional time and the parties
+are unable to agree as to the amount or extent thereof.
+
+         B. DESIGN/BUILDER shall afford each other contractor who is a party to
+such a direct contract and each utility owner (and OWNER, if OWNER is performing
+the additional work with OWNER's employees) proper and safe access to the Site
+and a reasonable opportunity for the introduction and storage of materials and
+equipment and the execution of such other work and shall properly connect and
+coordinate the Construction with theirs. Unless otherwise provided in the
+Contract Documents, DESIGN/BUILDER shall do all cutting, fitting and patching of
+the Work that may be required to make its several parts come together properly
+and ate with such other work. DESIGN/BUILDER shall not endanger any work of
+others by cutting, excavating or otherwise altering their work and will only cut
+a alter their work with the written consent of OWNER and the others whose work
+will be affected. The duties and responsibilities of DESIGN/BUILDER under this
+paragraph are for the benefit of such utility owners and other contractors to
+the extent that. there are comparable provisions for the benefit of
+DESIGN/BUILDER in said direct contracts between OWNER and such utility owners
+and other contractors.
+
+         C. If the proper execution or results of any part of DESIGN/BUILDER's
+Work depends upon work perforated or services provided by others under this
+Article 7, DESIGN/BUILDER shall inspect such other work and appropriate
+instruments of service and promptly report to OWNER in writing any delays,
+defects or deficiencies in such other work or services that render it
+unavailable or unsuitable for the proper execution and results of
+DESIGN/BUILDER's Work. DESIGN/BUILDER'S failure so to report will constitute an
+acceptance of such other work as fit and proper for integration with
+DESIGN/BUILDER's Work except for latent or nonapparent defects and deficiencies
+in such other work.
+
+7.02     COORDINATION
+
+         A. If OWNER contracts with others for the performance of other work on
+the Project at the Site, the following will be set forth in Supplementary
+Conditions:
+
+                  1. The individual or entity who will have authority and
+         responsibility for coordination of -the activities among the various
+         prime contractors will be identified;
+
+                  2. The specific matters to be covered by such authority and
+         responsibility will be itemized; and
+
+                  3. The extent of such authority and responsibilities will be
+         provided.
+
+         B. Unless otherwise provided in the Supplementary Conditions, OWNER
+shall have sole authority and responsibility in respect of such coordination.
+
+<Page>
+
+ARTICLE 8--OWNER'S RESPONSIBILITIES
+
+8.01     GENERA!
+
+         A. OWNER shall do the following in a timely manner so as not to delay
+the services of -DESIGN/BUILDER.
+
+                  1. Designate in writing a person to act as OWNER's
+         Representative with respect to the services to be rendered under this
+         Agreement.
+
+                  2. Provide such legal services as OWNER may require with
+         regard to legal issues pertaining to the Project including any that may
+         be raised by DESIGN/BUILDER.
+
+                  3. If requested in writing by DESIGN/BUILDER, furnish
+         reasonable evidence satisfactory to DESIGN/BUILDER, that sufficient
+         funds are-available and committed for the entire cost of the Project.
+         Unless such reasonable evidence is furnished, DESIGN/BUILDER is not
+         required to commence or continue any Work, or may, if such evidence is
+         not presented within a reasonable time, stop Work upon 15 days notice
+         to the Owner.
+
+                  4. Make payments to DESIGN/BUILDER promptly when they are due
+         as provided in paragraph 13.04 and 13.09.
+
+                  5. Furnish lands and easements as set forth in paragraph
+         4.01.A.
+
+                  6. Furnish to DESIGN/BUILDER, as required for performance of
+         DESIGN/BUILDER's Services the following, all of which DESIGN/BUILDER
+         may use and rely upon in performing services under this Agreement:
+
+                  a. Environmental assessment and impact statements;
+
+                  b. Property, boundary, easement, right-of-way, topographic and
+         utility surveys;
+
+                  c. Property descriptions;
+
+                  d. Zoning, deed and other land use restrictions;
+
+                  e. Engineering surveys to establish reference points for
+         design and construction which in OWNER's judgment are necessary to
+         enable DESIGN/BUILDER to proceed with the Work;
+
+                  f. Assistance in filing documents required to obtain necessary
+         approvals of governmental
+         authorities having jurisdiction over the Project;
+
+                  g. Subsurface data used in preparation of the Conceptual
+         Documents.
+
+<Page>
+
+                  7. Review submittals subject to OWNER review pursuant to
+         paragraph 6.16.A.
+
+                  8. Provide information known to or in the possession of OWNER
+         relating to the presence of materials and substances at the site which
+         could create a Hazardous Condition.
+
+         B. OWNER's responsibilities in respect of purchasing and
+maintaining liability and property insurance are set forth in paragraphs 5.03.A
+through 5.04.E.
+
+8.02     SCOPE OF OWNER'S SAFETY AND HAZARDOUS WASTE RESPONSIBILITIES
+
+         A. The OWNER shall not supervise, direct or have control or
+authority over, nor be responsible for, DESIGN/BUILDER's means, methods,
+techniques, sequences or procedures of construction or the safety precautions
+and programs incident thereto, or for any failure of DESIGN/BUILDER to comply
+with Laws and Regulations applicable to the furnishing or performance of the
+Work. OWNER will not be responsible for DESIGN/BUILDER's failure to perform or
+furnish the Work in accordance with the Contract Documents.
+
+         B. OWNER'S responsibility in respect of undisclosed Asbestos,
+PCBs, Petroleum, Hazardous Waste or Radioactive Materials uncovered or revealed
+at the Site is set forth in paragraph 4.04.
+
+8.03     RESIDENT PROJECT REPRESENTATION
+
+         A. OWNER may furnish a Resident Project Representative to
+observe the performance of Construction. The duties, responsibilities and
+limitations of authority of any such Resident Project Representative and
+assistants will be as provided in the Supplementary Conditions.
+
+ARTICLE 9--CHANGES IN THE WORK; CLAIMS
+
+9.01     GENERAL RIGHTS AND OBLIGATIONS
+
+         A. Without invalidating the Agreement and without notice to any
+surety, OWNER may, at any time or from time to time, order additions, deletions
+or revisions in the Work within .the general scope of the contract by a Written
+Amendment, a Change Order, or a Work Change Directive. Upon receipt of any such
+document, DESIGN/BUILDER shall promptly proceed with the Work involved which
+will be performed under the applicable provisions of the Contract Documents
+(except as otherwise specifically provided).
+
+9.01     NOTICE OF INTENT TO MAKE CLAIM
+
+         A. If OWNER and DESIGN/BUILDER are unable to agree as to the
+extent, if any, of an adjustment in the Contract Price or an adjustment of the
+Contract Times that should be allowed as a result of any order of OWNER pursuant
+to paragraph 9.01.A or other occurrence for which the Contract Documents provide
+that such adjustment(s) may be made, a claim may be made therefor. Written
+notice of intent to make such a claim shall be submitted to the other party
+promptly and in no event more than 30 days after the start of the occurrence or
+event giving rise to the claim.
+
+<Page>
+
+9.03     CLAIM DOCUMENTATION
+
+         A. Substantiating documentation shall be submitted by the claiming
+party within 30 days after delivery of the notice required by paragraph 9.02.A.
+
+9.04     DECISION
+
+         A. The other party shall render a decision on the claim no more than 30
+days after the receipt of the substantiating documentation required by paragraph
+9.03.A. This decision will be final and binding unless the claiming party gives
+notice of intention to exercise its fights under Article 15 within 30 days of
+receipt of the decision. and exercises such rights within 30 days of giving the
+notice of intent.
+
+9.05     TIME LIMIT EXTENSION
+
+         A. The time limits of paragraphs 9.03.A and 9.04.A may be extended by
+mutual agreement.
+
+9.06     EXCEPTIONS
+
+         A. DESIGN/BUILDER shall not be entitled to an increase in the Contract
+Price or an extension of the Contract Times with respect to any Work performed
+that is not required by the Contract Documents as amended, modified and
+supplemented -as provided in paragraph 3.03, except in the case of an emergency
+as provided in paragraph 6.15 or in the cast of uncovering Construction as
+provided in paragraph 12.04.
+
+9.07     EXECUTION OF CHANGE ORDERS
+
+         A. OWNER and DESIGN/BUILDER shall execute appropriate Change Orders or
+Written Amendments covering:
+
+                  1. changes in the Work which are (i) ordered by OWNER
+         pursuant to paragraph 9.01, (ii) required because of acceptance of
+         defective Construction under paragraph 12.08 or correcting defective
+         Work under paragraph 12.09 or (iii) agreed to by the parties; and
+
+                  2. changes in the Contract Price or Contract Times which are
+         agreed to by the parties.
+
+9.08     NOTICE TO SURETIES
+
+         A. If notice of any change affecting the general scope of the
+Work or the provisions of the Contract Documents (including, but not limited to,
+Contract Price or Contract Times) is required by the provisions of any Bond to
+be given to a surety, the giving of any such notice will be
+
+<Page>
+
+DESIGN/BUILDER's responsibility, and the amount of each applicable Bond will be
+adjusted accordingly.
+
+ARTICLE 10--CHANGE OF CONTRACT PRICE
+
+10.01    GENERAL
+
+         A. The Contract Price constitutes the total compensation (subject to
+authorized adjustments) payable to DESIGN/BUILDER for performing the Work.
+
+         B. The Contract Price may only be changed by a Change Order or by a
+Written Amendment. Any claim for an adjustment in the Contract Price shall be
+based on written notice delivered by the party making the claim to the other
+party promptly' in accordance with paragraph 9.02.A.
+
+         C. The value of any Work covered by a Change Order or of any
+claim for an adjustment in the Contract Price will be determined as follows:
+
+                  1. Where the Work involved is covered by unit prices contained
+         in the Contract Documents, by application of such unit prices to the
+         quantities of the items involved;
+
+                  2. Where the Work involved is not covered by unit prices
+         contained in the Contract Documents, by a mutually agreed lump sum
+         (which may include an allowance for overhead and `profit not
+         necessarily in accordance with paragraph 10.02) or by mutually agreed
+         unit prices;
+
+                  3. Where the Work involved is not covered by unit prices
+         contained in the Contract Documents and agreement to a lump sum is not
+         reached under paragraph 10.01.C2, on the basis of the Cost of the Work
+         (determined as provided in paragraph 10.02) plus a DESIGN/BUILDER's Fee
+         for overhead and profit (determined as provided in paragraph 10.02.C).
+
+10.02    COST OF THE WORK
+
+         A. Costs Included: The term Cost of the Work means the sum of all costs
+necessarily incurred and paid by DESIGN/BUILDER in the proper performance of the
+Work. Except as otherwise may be agreed to in writing by OWNER, such costs shall
+be in amounts no higher than those prevailing in the locality of the Project,
+shall include only the following items and shall not include any of the costs
+itemized in paragraph 10.02.B:
+
+                  1. Payroll costs for employees in the direct employ of
+         DESIGN/BUILDER in the performance of the Work under schedules of job
+         classifications agreed upon by OWNER and DESIGN/BUILDER equal to salary
+         costs times a factor, both as designated in the Agreement, for all
+         services performed or furnished by such employees engaged on the
+         Project.
+
+<Page>
+
+                  2. Cost of all materials and equipment furnished and
+         incorporated in the Work, including costs of transportation and storage
+         thereof, and Suppliers' field services required in connection
+         therewith. All cash discounts shall accrue to DESIGN/BUILDER unless
+         OWNER deposits funds with DESIGN/BUILDER with which to make payments,
+         in which case the cash discounts shall accrue to OWNER. All trade
+         discounts, rebates and refunds and returns from sale of surplus
+         materials and equipment shall accrue to OWNER, and DESIGN/BUILDER shall
+         make provisions so that they may be obtained.
+
+                  3. Payments made by DESIGN/BUILDER to Subcontractors for Work
+         performed or furnished by Subcontractors.
+
+                  4. Payments made by DESIGN/BUILDER to Engineers for Design
+         Professional Services provided or furnished by Engineers under a Design
+         Subagreement.
+
+                  5. Costs of special consultants (including but not limited to
+         testing laboratories, surveyors, attorneys and accountants) employed
+         for services specifically related to the Work.
+
+                           a. Such employees shall include without limitation
+                  superintendents, foremen and other personnel employed
+                  full-time at the Site. Payroll costs for employees not
+                  employed full time on the Site shall be apportioned on the
+                  basis of their time spent on the Site. Payroll costs shall
+                  include, but not be limited to, salaries and wages plus the
+                  cost of fringe benefits which shall include social security
+                  contributions, unemployment, excise and payroll taxes,
+                  workers' compensation, health and retirement benefits,
+                  bonuses, sick leave, vacation and holiday pay applicable
+                  thereto. The expenses of performing Work after regular working
+                  hour:, on Saturday, Sunday or legal holidays, shall be
+                  included in the above to the extent authorized by OWNER.
+
+                           b. Such employees shall also include engineers and
+                  engineering technicians providing Design Professional
+                  Services. For purposes of this paragraph 10.02A.1,
+                  DESIGN/BUILDER shall be entitled to payment for such employees
+                  an amount items:
+
+                  6. Supplemental costs including the following
+
+                           a. The proportion of necessary transportation, travel
+                  and subsistence expenses of DESIGN/BUILDER's employees
+                  incurred in discharge of duties connected with the Work.
+
+                           b. Cost, including transportation and maintenance, of
+                  all materials, supplies, equipment, machinery, appliances,
+                  office and temporary facilities at the Site and hand tools not
+                  owned by the workers, which are consumed in the performance of
+                  the Work, and cost less market value of such items used but
+                  not consumed which remain the property of DESIGN/BUILDER.
+
+<Page>
+
+                           c. Rentals of all Work equipment and machinery and
+                  the parts thereof whether rented from DESIGN/BUILDER or others
+                  in accordance with rental agreements approved by OWNER, and
+                  the costs of transportation, loading, unloading, installation,
+                  dismantling and removal thereof--all in accordance with the
+                  terms of said rental agreements. The rental of any such
+                  equipment, machinery or parts shall cease when the use thereof
+                  is no longer necessary for the Work.
+
+                           d. Sales, consumer, use or similar taxes related to
+                  the Work, and for which DESIGN/BUILDER is liable, imposed by
+                  Laws and Regulations.
+
+                           e. Deposits lost for causes other than negligence of
+                  DESIGN/BUILDER, any Subcontractor or anyone directly or
+                  indirectly employed by any of them or for whose acts any of
+                  them may be liable, and royalty payments and fees for permits
+                  and licenses.
+
+                           f. Losses, damages and related expenses caused by
+                  damage to the Work not compensated by insurance or otherwise,
+                  sustained by DESIGN/BUILDER in connection with the furnishing
+                  and performance of the Work provided they have resulted from
+                  causes other than the negligence of DESIGN/BUILDER, any
+                  Subcontractor, or anyone directly or indirectly employed by
+                  any of them or for whose acts any of them may be liable. Such
+                  losses shall include settlements . made with the written
+                  consent and approval of OWNER. No such losses- damages and
+                  expenses shall be included in the Cost of the Work for the
+                  purpose of determining DESIGN/BUILDER's fee. If, however, any
+                  such loss or damage requires rework and DESIGN/BUILDER is
+                  placed in charge thereof, DESIGN/BUILDER shall be paid for
+                  services a fee proportionate to that stated in paragraph
+                  10.02.C.
+
+                           g. The cost of utilities, fuel and sanitary
+                  facilities at the Site.
+
+                           h. Minor expenses such as telegrams, long distance
+                  telephone calls, telephone service at the Site, expressage and
+                  similar petty cash items in connection with the Work.
+
+                           i. Cost of premiums for all Bonds and
+                  insurance DESIGN/BUILDER is required by the Contract Documents
+                  to purchase and maintain.
+
+         B. COSTS EXCLUDED. The term Cost of the Work shall not include any of
+the following:
+
+                           1. Payroll costs and other compensation of
+                  DESIGN/BUILDER's officers, executives, principals (of
+                  partnerships and sole proprietorships), general managers,
+                  engineers, architects, estimators, attorneys, auditors,
+                  accountants, purchasing and contracting agents, expediters,
+                  timekeepers, clerks and other personnel employed by
+                  DESIGN/BUILDER whether at the Site or in DESIGN/BUILDERs
+                  principal or a branch office for general administration of the
+                  Work and not specifically included in the agreed upon schedule
+                  of job classifications
+
+<Page>
+
+                  referred to in paragraph 10.02.A.1 -- all of which are to be
+                  considered administrative costs covered by the
+                  DESIGN/BUILDER's fee.
+
+                  2. Expenses of DESIGN/BUILDER's principal and branch offices
+         other than DESIGN/BUILDER's office at the Site.
+
+                  3. Any part of DESIGN/BUILDER's capital expenses, including
+         interest on DESIGN/BUILDER's capital employed for the Work and charges
+         against DESIGN/BUILDER for delinquent payments.
+
+                  4. Costs due to the negligence of DESIGN/BUILDER, any
+         Subcontractor, or anyone directly or indirectly employed by arty of
+         them or for whose acts any of ahem may be liable, including but not
+         limited to, the correction of defective Work, disposal of materials or
+         equipment wrongly supplied and making good any damage to property.
+
+                  5. Other overhead or general expense costs of any kind and the
+         costs of any item not specifically and expressly included in paragraph
+         10.02.
+
+         C. FEE: The DESIGN/BUILDER's fee allowed to DESIGN/BUILDER for overhead
+and profit on Change Orders priced by paragraph 10.01.C.3 shall be determined as
+follows:
+
+                  1. A mutually acceptable fixed fee; or
+
+                  2. If a fixed fee is not agreed upon, then a fee based on the
+         following percentages of the various portions of the Cost of the Work:
+
+                           a. For costs incurred under paragraphs 10.02.A.1,
+                  A.2, A.5 and A.6 the DESIGN/BUILDER'S fee shall be 15 percent;
+
+                           b. For costs incurred under paragraph 10.02.A.3 and
+                  10.02.A.4, the DESIGN/BUILDER's fee shall be five percent;
+
+                           c. Where one or more tiers of subcontracts are on the
+                  basis of Cost of the Work plus a fee and no fixed fee is
+                  agreed upon, the intent of paragraphs 10.02.A.1, 10.02.A.2 and
+                  10.02.A.3 is that the Subcontractor who actually performs or
+                  furnishes Work, at whatever tier, will be paid a fee of 15
+                  percent of the costs incurred by such Subcontractor under
+                  paragraphs 10.02A.1 and 10.02.A.2 and that any higher tier
+                  Subcontractor and DESIGN/BUILDER will each be paid a fee of
+                  five percent of the amount paid to the next lower tier
+                  Subcontractor;
+
+                           d. The amount of credit to be allowed by
+                  DESIGN/BUILDER to OWNER for any change which results in a net
+                  decrease in cost will be the amount of the actual net decrease
+                  in cost plus a deduction in DESIGN/BUILDER's fee by an amount
+                  equal to five percent of such net decrease; and
+
+<Page>
+
+                           e. When both additions and credits. ace involved in
+                  any one change, the adjustment in DESIGN/BUILDER's fee shall
+                  be computed on the basis of the net change in accordance with
+                  paragraphs 10.02.C.2.a through 10.02.C.2.d, inclusive.
+
+         D. DOCUMENTATION: Whenever the cost of any Work is to be determined
+pursuant to paragraph 10.02.A and 10.02.B, DESIGN/BUILDER will establish and
+maintain records thereof in accordance with generally accepted accounting
+practices and submit in a form acceptable to OWNER an itemized cost breakdown
+together with supporting data.
+
+10.03    CASH ALLOWANCES
+
+         A. The Contract Price includes all allowances so named in the Contract
+Documents.
+
+                  1. The allowances include the cost to DESIGN/BUILDER (less any
+         applicable trade discounts) of materials and equipment required by the
+         allowances to be delivered at the Site, and all applicable taxes; and
+
+                  2. Except as set forth in the Contract Documents,
+         DESIGN/BUILDER's costs for unloading and handling on the Site, labor,
+         installation costs, overhead, profit and other expenses .contemplated
+         for the allowances have been included in the Contract Price and not in
+         the allowances and no demand for additional payment on account of any
+         of the foregoing will be valid.
+
+         B. Prior to final payment, an appropriate Change Order will be issued
+to reflect actual amounts due DESIGN/BUILDER on account . of Work covered by
+allowances, and the Contract Price shall be correspondingly adjusted.
+
+10.04    UNIT PRICES
+
+         A. Where the Contract Documents provide that all or part of the Work is
+to be Unit Price Work, initially the Contract Price will be deemed to include
+for all of Unit Price Work an amount equal to the sum of the established unit
+prices for each separately identified item of Unit Price Work times the
+estimated quantity of each item as indicated in the Agreement. The estimated
+quantities of items of Unit Price Work are not guaranteed and are solely for the
+purpose of comparison of Bids and determining an initial Contract Price.
+Determinations of the actual quantities and classifications of Unit Price Work
+performed by DESIGN/BUILDER will be made by OWNER.
+
+         B. Each unit price will be deemed to include an amount considered by
+DESIGN/BUILDER to be adequate to cover DESIGN/BUILDER's overhead and profit for
+each separately identified item.
+
+         C. DESIGN/BUILDER or OWNER may make a claim for an adjustment in the
+Contract Price in accordance with Article 9 if:
+
+<Page>
+
+                  1. The quantity of any item of Unit Price Work performed by
+         DESIGN/BUILDER differs from the estimated quantity of such item
+         indicated in the Contract Documents by more than the percentage
+         indicated in the Supplementary Conditions; and
+
+                  2. there is no corresponding adjustment with respect to any
+         other item of Work; and
+
+                  3. DESIGN/BUILDER believes that DESIGN/BUILDER is entitled to
+         an increase in Contract Price as a result of having incurred additional
+         expense or OWNER believes the OWNER is entitled to a decrease in
+         Contract Price and the parties are unable to agree as to the amount of
+         any such increase or decrease.
+
+ARTICLE 11--CHANGE OF CONTRACT TIMES
+
+11.01    GENERAL
+
+         A. The Contract Times (or Milestones) may only be changed by a Change
+Order or a Written Amendment. Any claim for an adjustment of the Contract Times
+(or Milestones) shall be based on written notice pursuant to paragraph 9.02.
+
+         B. All Contract Times and Milestones are of the essence of the
+Agreement.
+
+11.02    TIME EXTENSIONS
+
+         A. Where DESIGN/BUILDER is prevented from completing any part of the
+Work within the Contract Times (or Milestones) due to delay beyond the control
+of DESIGN/BUILDER, the Contract Times (or Milestones) will be extended in an
+amount equal to the time lost due to such delay if a claim is made therefor as
+provided in Article 9. Delays beyond the control of DESIGN/BUILDER shall
+include, but not be limited to, acts or neglect by OWNER, governmental agencies,
+acts or neglect of utility owners or other contractors performing other
+construction work as contemplated by Article 7, fires, floods, epidemics,
+abnormal weather conditions or acts of God. Delays attributable to and within
+the control of a Subcontractor or Supplier shall be deemed to be delays within
+the control of DESIGN/BUILDER.
+
+         B. Nothing in this paragraph 11.02 bars a change in Contract Price
+pursuant to Article 10 to compensate for the direct costs incurred by
+DESIGN/BUILDER due to delay, interference, or disruption directly attributable
+to actions or inactions of OWNER or OWNER's Consultants. However, OWNER shall
+not be liable to DESIGN/BUILDER for costs or damages arising out of or resulting
+from (i) delays caused by or within the control of DESIGN/BUILDER, or (ii)
+delays beyond the control of both parties including but not limited to fires,
+floods, epidemics, abnormal weather conditions, acts of God or acts or neglect
+by governmental agencies, utility owners, or other contractors performing other
+work as contemplated by Article 7.
+
+<Page>
+
+ARTICLE 12--TESTS AND .INSPECTIONS; CORRECTION, REMOVAL
+            OR ACCEPTANCE OF DEFECTIVE CONSTRUCTION
+
+12.01    NOTICE OF DEFECTS
+
+         A. Prompt written notice of all defective Construction of which OWNER
+has actual knowledge will be given to DESIGN/BUILDER by OWNER. All defective
+Construction may be rejected, corrected or accepted as provided in this Article
+12.
+
+12.02    ACCESS TO CONSTRUCTION
+
+         A. OWNER, OWNER's Consultants, other representatives and personnel of
+OWNER, independent testing laboratories and governmental agencies with
+jurisdictional interests will . have access to the Construction at the Site at
+reasonable times for their observation, inspecting and testing. DESIGN/BUILDER
+shall provide them proper and safe conditions for such access and advise them of
+DESIGN/BUILDER's Site safety procedures and programs so that they may comply
+therewith as applicable.
+
+12.03    TESTS AND INSPECTIONS
+
+         A. If the Contract Documents or Laws or Regulations of any public body
+having jurisdiction require any part of -the Construction specifically to be
+inspected, tested or approved, DESIGN/BUILDER shall assume full responsibility
+for arranging and obtaining such inspections, tests or approvals, pay all costs
+in connection therewith, and furnish OWNER the required certificates of
+inspection or approval. DESIGN/BUILDER shall also be responsible for arranging
+and obtaining and shall pay all costs in connection with any inspections, tests
+or approvals required for OWNER'S acceptance of materials or equipment to be
+incorporated in the Construction or of materials, mix designs, or equipment
+submitted for approval prior to DESIGN/BUILDER's purchase thereof for
+incorporation in the Construction.
+
+         B. DESIGN/BUILDER shall give OWNER reasonable notice of the planned
+schedule for all required inspections, tests or approvals.
+
+         C. If any Construction (or the construction work of others) that is
+required to be inspected, tested or approved is covered by DESIGN/BUILDER
+without written concurrence of OWNER, it must, if requested by OWNER, be
+uncovered for observation at DESIGN/BUILDER's expense unless DESIGN/BUILDER has
+given OWNER timely notice of DESIGN/BUILDER's intention to cover the same and
+OWNER has not acted with reasonable promptness in response to such notice.
+
+12.04    UNCOVERING CONSTRUCTION
+
+         A. If any Construction is covered contrary to the written request of
+OWNER, it must, if requested by OWNER, be uncovered for OWNER's observation and
+recovered at DESIGN/BUILDER's expense.
+
+<Page>
+
+         B. If OWNER considers it necessary or advisable that covered
+Construction be- observed by OWNER or inspected or tested by others,
+DESIGN/BUILDER, at OWNER'S request, shall uncover, expose or otherwise make
+available for observation, inspection or testing as OWNER may require, that
+portion of the Construction in question, furnishing all necessary labor,
+material and equipment. If it is found that such Construction is defective,
+DESIGN/BUILDER shall pay all costs and damages caused by or resulting from such
+uncovering, exposure, observation, inspection and testing and of satisfactory
+replacement or rework, (including but not limited to all fees and charges of
+engineers, architects, attorneys and other professionals, all court or
+arbitration or other dispute resolution costs, and all costs of repair or
+replacement of work of others); and OWNER shall be entitled to an appropriate
+decrease in the Contract Price, and, if the parties are unable to agree as to
+the amount thereof, may make a claim therefor as provided in Article 9: If,
+however, such Construction is not found to be defective, DESIGN/BUILDER shall be
+allowed an increase in the Contract Price or an extension of the Contract Times
+(or Milestones), or both, directly attributable to such uncovering, exposure,
+observation, inspection, testing, replacement and rework; and, if the parties
+are unable to agree as to the amount or extent thereof, DESIGN/BUILDER may make
+a claim therefor as provided in Article 9.
+
+12.05    OWNER MAY STOP THE CONSTRUCTION
+
+         A. If the Construction is defective, or DESIGN/BUILDER fails to supply
+sufficient skilled workers or suitable materials or equipment, or fails to
+furnish or perform the Construction in such a way that the completed
+Construction will conform to the Contract Documents, OWNER may order
+DESIGN/BUILDER to stop Construction or any portion thereof, until the cause for
+such order has been eliminated; however, this right of OWNER to stop
+Construction will not give rise to any duty on the part of OWNER to exercise
+this right for the benefit of DESIGN/BUILDER or any other party.
+
+12.06    CORRECTION OR REMOVAL OF DEFECTIVE CONSTRUCTION
+
+         A. OWNER will have authority to disapprove or reject defective
+Construction and will have authority to require special inspection or testing of
+the Construction whether or not the Construction is fabricated, installed or
+completed. If required by OWNER, DESIGN/BUILDER shall promptly, as directed,
+either correct all defective Construction, whether or not fabricated, installed
+or completed, or, if the Construction has beets rejected. by OWNER, remove it
+from the Site and replace it with nondefective Construction. DESIGN/BUILDER
+shall bear all direct, indirect and consequential costs of such correction or
+removal (including but hot limited to fees and charges of engineers, architects,
+attorneys and other professionals) made necessary thereby.
+
+12.07    CORRECTION PERIOD
+
+         A. If within one year after the date of Substantial Completion or such
+longer period of time as may be prescribed by Laws or Regulations or by the
+terms of any applicable special guarantee required by the Contract Documents or
+by any specific provision of the Contract Documents, any Construction is found
+to be defective, DESIGN/BUILDER shall promptly, without cost to OWNER and in
+accordance with OWNER'S written instructions, (i) correct such defective
+Construction, or, if it has been rejected by OWNER, remove it from the Site and
+replace it with
+
+<Page>
+
+Construction that is not defective, and (ii) satisfactorily correct or remove
+and replace any damage to other Construction or the work of others resulting
+therefrom. If DESIGN/BUILDER does not promptly comply with the terms of such
+instructions, or in an emergency where delay would cause serious risk of loss or
+damage. OWNER may have the defective Construction corrected or the rejected
+Construction removed and replaced, and all costs and damages caused by or
+resulting from such removal and replacement (including but not limited to all
+fees and charges of engineers, architects, attorneys and other professionals,
+all court or arbitration or other dispute resolution costs, and all costs of
+repair or replacement of work of others) will be paid by DESIGN/BUILDER.
+
+         B. In special circumstances where a particular item of equipment is
+placed in continuous service before Substantial Completion of all the
+Construction, the correction period for that item may start to run from an
+earlier date if so provided in the Specifications or by Written Amendment.
+
+         C. Where defective Construction (and damage to other Construction
+resulting therefrom) has been corrected, removed or replaced under this
+paragraph 12.07, the correction period hereunder with respect to such
+Construction will be extended for an additional period of one year after such
+correction or removal and replacement has been satisfactorily completed.
+
+12.08    ACCEPTANCE OF DEFECTIVE CONSTRUCTION
+
+         A. If, instead of requiring correction or removal and replacement of
+defective Construction, OWNER prefers to accept it, OWNER may do so.
+DESIGN/BUILDER shall pay all costs attributable to OWNERs evaluation of and
+determination to accept such defective Construction (such costs to include but
+not be limited to all fees and charges of engineers, architects, attorneys and
+other professionals and all court or-arbitration or other dispute resolution
+costs). If any such acceptance occurs prior to final payment, a Change Order
+will be issued incorporating the necessary. revisions in the Contract Documents
+with respect to the Construction; and OWNER shall be entitled to an appropriate
+decrease in the Contract Price, and, if the parties are unable to agree as to
+the amount thereof, OWNER may make a claim therefor as provided in Article 9. If
+the acceptance occurs after final payment, an appropriate amount will be paid by
+DESIGN/BUILDER to OWNER.
+
+12.09    OWNER MAY CORRECT DEFECTIVE CONSTRUCTION
+
+         A. If DESIGN/BUILDER fails within a reasonable time after written
+notice from OWNER to correct defective Construction or to remove and replace
+rejected Construction as requited by OWNER in accordance with paragraphs 12.06.A
+or 12.07.A, or if DESIGN/BUILDER fails to perform the Construction in accordance
+with the Contract Documents, or if DESIGN/BUILDER fails to comply with any other
+provision of the Contract Documents, OWNER may, after seven days' written notice
+to DESIGN/BUILDER, correct and remedy any such deficiency. In exercising the
+rights and remedies under this paragraph OWNER shall proceed expeditiously. In
+connection with such corrective and remedial action, OWNER may exclude
+DESIGN/BUILDER from all or part of the Site, take possession of all or pact of
+the-Construction, and suspend DESIGN/BUILDER's services related thereto, take
+possession of DESIGN/BUILDER's tools, appliances, construction equipment and
+machinery at the Site and
+
+<Page>
+
+incorporate in the Construction all materials and equipment stored at the Site
+or for which OWNER has paid DESIGN/BUILDER but which are stored elsewhere.
+DESIGN/BUILDER shall allow OWNER, OWNER's representatives, agents and employees,
+OWNER's other contractors and Consultants access to the Site to enable OWNER to
+exercise the rights and remedies under this paragraph. All costs and damages
+incurred or sustained by OWNER in exercising such rights and remedies will be
+charged against DESIGN/BUILDER and a Change Order will be issued incorporating
+the necessary revisions in the Contract Documents and OWNER shall be entitled to
+an appropriate decrease in the Contract Price, and, if the parties are unable to
+agree as to the amount thereof, OWNER may make a claim therefor as provided in
+Article 9. Such costs and damages will include but not be limited to all fees.
+and charges of engineers, architects, attorneys and other professionals, all
+court or arbitration or other dispute resolution costs and all costs of repair
+or replacement of work of others destroyed or damaged by correction, removal or
+replacement of DESIGN/BUILDER's defective Construction. DESIGN/BUILDER shall not
+be allowed an extension of the Contract Times (or Milestones) because of any
+delay in the performance of the Construction attributable to the exercise by
+OWNER of OWNER's rights and remedies hereunder.
+
+13.04    PROGRESS PAYMENTS
+
+ARTICLE 13--PAYMENTS TO DESIGN/BUILDER AND COMPLETION
+
+13.01    SCHEDULE OF VALUES
+
+         A. The Schedule of Values established as provided in paragraph 2.06.A
+will serve as the basis for progress payments and will be incorporated into a
+form of Application for Payment acceptable to OWNER. Progress payments on
+account of Unit Price Work will be based on the number of units completed.
+
+13.01    APPLICATION FOR PROGRESS PAYMENT
+
+A.       At least twenty days before the date established for each progress
+payment (but not more often than once a month), DESIGN/BUILDER shall submit
+to OWNER for review an Application for Payment filled out and signed by-
+DESIGN/BUILDER covering the Work completed as of the date of the Application
+and accompanied by such supporting documentation as is required by the
+Contract Documents. If payment is requested on the basis of materials and
+equipment not incorporated in the Work but delivered and suitably stored at
+the Site or at another location agreed to in writing, , the Application for
+Payment shall also be accompanied by a bill of sale, invoice or other
+documentation warranting that OWNER has received the materials and equipment
+free and clear of all Liens and evidence that the materials and equipment are
+covered by appropriate property insurance and other arrangements to protect
+OWNER's interest therein, all of which will be satisfactory to OWNER. The
+amount of retainage with respect to progress payments will be as stipulated
+in the Agreement.
+
+<Page>
+
+13.03    DESIGN/BUILDER'S WARRANTY OF TITLE
+
+         A. DESIGN/BUILDER warrants and guarantees that title to all
+construction materials and equipment covered by any Application for Payment,
+whether incorporated in the Project or not, will pass to OWNER no later than the
+time of payment free and clear of all Liens. This paragraph 13.03.A does not
+apply to any documents covered by paragraph 3.04.A.
+
+13.04    PROGRESS PAYMENTS
+
+         A. Progress payments shall be made by the OWNER to the DESIGN/BUILDER
+according to the following procedure:
+
+                  1. OWNER will, within ten days of receipt of each Application
+         for Payment, either indicate in writing its acceptance of the
+         Application and state that the Application is being processed for
+         payment, or return the Application to DESIGN/BUILDER indicating in
+         writing its seasons for refusing to accept the Application. Not more
+         than ten days after accepting such Application the amount will become
+         due and when due will be paid by OWNER to DESIGN/BUILDER.
+
+                  2. If the OWNER should fail to pay the DESIGN/BUILDER at the
+         time the payment of any amount becomes due, then DESIGN/BUILDER may, at
+         any time thereafter, upon serving written notice that he will stop the
+         Work within seven days after receipt of the notice by the OWNER, and
+         after such seven day period, stop the Work until payment of the amount
+         owing has been received. Written notice shall be deemed to have been
+         duly served if sent by certified mail to the last known business
+         address of the OWNER.
+
+                  3. Payments due but unpaid shall bear interest at the rate
+         specified in the Agreement.
+
+                  4. No Progress Payment nor any partial or entire use or
+         occupancy of the Project by the OWNER shall constitute an acceptance of
+         any Work not in accordance with the Contract Documents.
+
+         B. OWNER may refuse to make the whole or any part of any such
+payment, or because of subsequently discovered evidence or the results of
+subsequent inspections or tests, nullify any previous payment, to the extent
+that is reasonably necessary to protect OWNER from loss because:
+
+                  1. The Work is defective, or completed Work has been damaged
+         requiring correction or replacement; or
+
+                  2. The Contract Price has been reduced by Written Amendment or
+         Change Order, or
+
+                  3. OWNER has been required to correct defective Work or
+         complete Work in accordance with paragraph 12.09.A, or
+
+<Page>
+
+                  4. OWNER has actual knowledge of the occurrence of any of the
+         events enumerated in paragraphs 14.02.A.1 through A.3 inclusive; or
+
+                  5. Claims have been made against OWNER on account of
+         DESIGN/BUILDER's performance or furnishing of the Work; or
+
+                  6. Liens have been filed in connection with the Work, except
+         where DESIGN/BUILDER has delivered a specific Bond satisfactory to
+         OWNER to secure the satisfaction and discharge of such Liens; or
+
+                  7. There are other items entitling OWNER to a set off against
+         the amount for which application is made.
+
+13.05    SUBSTANTIAL COMPLETION
+
+         A. When DESIGN/BUILDER considers the Construction ready for its
+intended use DESIGN/BUILDER shall notify OWNER in writing that the Construction
+is substantially complete (except for items specifically listed by
+DESIGN/BUILDER as incomplete) and request that OWNER issue a certificate of
+Substantial Completion. Within a reasonable time thereafter, OWNER and
+DESIGN/BUILDER shall make an inspection of the Construction to determine the
+status of completion. If OWNER does not consider the Construction substantially
+complete, OWNER will notify DESIGN/BUILDER in writing giving the reasons
+therefor. If OWNER considers the Construction substantially complete, OWNER will
+prepare and deliver to DESIGN/BUILDER a certificate of Substantial Completion
+which shall fix the date of Substantial Completion. There shall be attached to
+the certificate a list of items to be completed or corrected before final
+payment. At the time of delivery of the certificate of Substantial Completion
+OWNER will deliver to DESIGN/BUILDER a written determination as to division of
+responsibilities pending final, payment between OWNER and DESIGN/BUILDER, with
+respect to security, operation, safety, maintenance, heat, utilities, insurance
+and warranties and guarantees.
+
+         B. OWNER will have the right to exclude DESIGN/BUILDER from the Site
+after the date of Substantial Completion, but OWNER will allow DESIGN/BUILDER
+reasonable access to complete or correct items on the list of items to be
+completed.
+
+13.06    PARTIAL UTILIZATION
+
+         A. Use by OWNER at OWNER's option of any substantially completed part
+of the Construction which (i) has specifically been identified in the Contract
+Documents, or (ii) OWNER and DESIGN/BUILDER agree constitute a separately
+functioning and usable part of the Construction that can be used by OWNER for
+its intended purpose without significant interference with DESIGN/BUILDER's
+performance of the remainder of the Construction, may be accomplished prior to
+Substantial Completion of all the Construction subject to the following:
+
+                  1. OWNER ` at any time may request DESIGN/BUILDER in writing
+         to permit OWNER to use any such part of the Construction which OWNER
+         believes to be ready for, its intended use and substantially complete.
+         If DESIGN/BUILDER agrees that such part of
+
+<Page>
+
+         the Construction is substantially complete, DESIGN/BUILDER will certify
+         to OWNER that such part of the Construction is substantially complete
+         and request OWNER to issue a certificate of Substantial Completion for
+         that part of the Construction DESIGN/BUILDER at any time may notify
+         OWNER in writing that DESIGN/BUILDER considers any such part of the
+         Construction ready for its intended use and substantially complete and
+         request OWNER to issue a certificate of Substantial Completion for that
+         part of the Construction. Within a reasonable time after either such
+         request, OWNER and DESIGN/BUILDER shall make an inspection of that part
+         of the Construction to determine its status of completion. If OWNER
+         does not consider that part of the Construction to be substantially
+         complete, OWNER will notify DESIGN/BUILDER. in writing giving the
+         masons therefor. If OWNER considers that part of the Construction to be
+         substantially complete, the provisions of paragraph 13.05 will apply
+         with respect to certification of Substantial Completion of that part of
+         the Construction and the division of responsibility in respect thereof
+         and access thereto.
+
+                  2. No occupancy or separate operation of part of the
+         Construction will be accomplished prior to compliance with the
+         requirements of paragraph 5.08 in respect of property insurance.
+
+13.07    FINAL INSPECTION
+
+         A. Upon written notice from DESIGN/BUILDER that the entire Construction
+or an agreed portion thereof is complete, OWNER will make a final inspection
+with DESIGN/BUILDER and will notify DESIGN/BUILDER in writing of all particulars
+in which this inspection reveals that the Construction is incomplete or
+defective. DESIGN/BUILDER shall immediately take such measures as are necessary
+to complete such Construction or remedy such deficiencies.
+
+13.08    FINAL APPLICATION FOR PAYMENT
+
+         A. After DESIGN/BUILDER has completed all such corrections to the
+satisfaction of OWNER and delivered in accordance with the Contract Documents
+all maintenance and operating instructions, schedules, guarantees, Bonds,
+certificates or other evidence of insurance required by paragraph 5.09.B,
+certificates of inspection, marked-up record documents (as provided in paragraph
+6.11) and other documents, DESIGN/BUILDER may make application for final payment
+following the procedure for progress payments. The final Application for Payment
+shall be accompanied (unless previously delivered) by: (i) all documentation
+called for in the Contract Documents, including but not limited to the evidence
+of insurance required by subparagraph 5.02.B.7, (ii) consent of the surety, if
+any, to final payment, and (iii) complete and legally effective releases .or
+waivers (satisfactory to OWNER) of all Liens arising out of or filed in
+connection with the Work. In lieu of such releases or waivers of Liens and as
+approved by OWNER, DESIGN/BUILDER may furnish receipts or releases in full. and
+an affidavit of DESIGN/BUILDER that: (i) the releases and receipts include all
+labor, services, material and equipment for which a Lien could be filed, and
+(ii) all payrolls, material and equipment bills and other indebtedness connected
+with the Work for which OWNER or OWNERS property might in any way be responsible
+have been paid or otherwise satisfied. If any Subcontractor or Supplier fails to
+furnish such a release or receipt in full,
+
+<Page>
+
+DESIGN/BUILDER may furnish a Bond or other collateral satisfactory to OWNER to
+indemnify OWNER against arty Lien.
+
+13.09    FINAL PAYMENT AND ACCEPTANCE
+
+         A. If OWNER is satisfied that the Work has been completed and
+DESIGN/BUILDER's other obligations under the Contract Documents have been
+fulfilled, OWNER will, within ten days after receipt of the final Application
+for Payment, give written notice to DESIGN/BUILDER that the Work is acceptable.
+Otherwise, OWNER will return the Application to DESIGN/BUILDER, indicating in
+writing the reasons for refusing to process final payment, in which case
+DESIGN/BUILDER shall make the necessary corrections and resubmit the
+Application. Thirty days after the presentation to OWNER of the acceptable
+Application and accompanying documentation, in appropriate form and substance
+and with OWNER's notice of acceptability, the amount will become due and will be
+paid by OWNER to DESIGN/BUILDER.
+
+         B. If, through no fault of DESIGN/BUILDER, final completion of the Work
+is significantly delayed, OWNER shall, upon receipt of DESIGN/BUILDER's final
+Application for Payment, and without terminating the Agreement, make payment of
+the balance due for that portion of the Work fully completed and accepted. If
+the remaining balance to be held by OWNER for Work not fully completed or
+corrected is less than the retainage stipulated in the Agreement, and if Bonds
+have been furnished as required in paragraph 5.01.A, the written consent of the
+surety to the payment of the balance due for that portion of the Work fully
+completed and accepted shall be submitted by DESIGN/BUILDER to OWNER with the
+Application for such payment. Such payment shall be made under the terms and
+conditions governing final payment, except that it shall not constitute a waiver
+of claims.
+
+13.10    WAIVER OF CLAIMS
+
+         A. The making and acceptance of final payment will constitute:
+
+                  1. A waiver of all claims by OWNER against DESIGN/BUILDER,
+         except claims arising from unsettled Liens, from defective Construction
+         appearing after final inspection pursuant to paragraph 13.07, from
+         failure to comply with the Contract Documents or the terms of any
+         special guarantees specified therein, or from DESIGN/BUILDER's
+         continuing obligations under the Contract Documents; and
+
+                  2. A waiver of all claims by DESIGN/BUILDER against OWNER
+         other than those previously made in writing and still unsettled.
+
+ARTICLE 14--SUSPENSION OF WORK AND TERMINATION
+
+14.01    OWNER MAY SUSPEND WORK
+
+         A. At any time and without cause, OWNER may suspend the Work or any
+portion thereof for a period of not more than 90 days by notice in writing to
+DESIGN/BUILDER, which will fix the date on which Work will be resumed.
+DESIGN/BUILDER shall resume the Work on
+
+<Page>
+
+the date so fixed. DESIGN/BUILDER shall be allowed an adjustment in the Contract
+Price or an extension of the Contract Times, or both, directly attributable to
+any such suspension if DESIGN/BUILDER makes a claim therefor as provided in
+Article 9.
+
+14.02    OWNER MAY TERMINATE FOR CAUSE
+
+         A. The occurrence of any one or more of the following events justifies
+termination for cause:
+
+                  1. DESIGN/BUILDER persistently fails to perform the Work in
+         accordance with the Contract Documents (including, but not limited to,
+         failure to supply sufficient skilled workers or suitable materials or
+         equipment or failure to adhere to the progress schedule established
+         under paragraph 2.06.A as revised from time to time.
+
+                  2. DESIGN/BUILDER disregards Laws or Regulations of any public
+         body having jurisdiction.
+
+                  3. DESIGN/BUILDER otherwise violates in any substantial way
+         any provisions of the Contract Documents.
+
+         B. OWNER may, after giving DESIGN/BUILDER (and the surety, if any)
+seven days' written notice and to the extent permitted by Laws and Regulations,
+terminate the services of DESIGN/BUILDER, exclude DESIGN/BUILDER from the Site
+and take possession of the Work and of all DESIGN/BUILDER's tools, appliances,
+construction equipment and machinery at the Site and use the same to the full
+extent they could be used by DESIGN/BUILDER (without liability to DESIGN/BUILDER
+for trespass or conversion), incorporate in the Work all materials and equipment
+stored at the Site or for which OWNER has paid DESIGN/BUILDER but which are
+stored elsewhere, and finish the Work as OWNER may deem expedient. In such case
+DESIGN/BUILDER shall not be entitled to receive any further payment until the
+Work is finished. If the unpaid balance of the Contract Price exceeds all costs,
+losses and damages sustained by OWNER arising out of or resulting from
+completing the Work (including but not limited to all fees and charges of
+engineers, architects, attorneys and other professionals and all court or
+arbitration or other dispute resolution costs) such excess will be paid to
+DESIGN/BUILDER. If such costs, losses and damages exceed such unpaid balance,
+DESIGN/BUILDER shall pay the difference to OWNER. Such costs, losses and damages
+incurred by OWNER will be incorporated in a Change Order, provided that when
+exercising any rights or remedies under this paragraph OWNER shall not be
+required. to, obtain the lowest price for the Work performed.' .
+
+         C. Where DESIGN/BUILDERs services have been so terminated by OWNER, the
+termination will not affect any rights or remedies of OWNER against
+DESIGN/BUILDER then existing or which may thereafter accrue. Any retention or
+payment of moneys due DESIGN/BUILDER by OWNER will not release DESIGN/BUILDER
+from liability.
+
+<Page>
+
+14.03    OWNER MAY TERMINATE FOR CONVENIENCE
+
+         A. Upon seven days' written notice to DESIGN/BUILDER, OWNER may,
+without cause and without prejudice to any other right or remedy of OWNER, elect
+to terminate the Agreement. In such case, DESIGN/BUILDER shall be paid (without
+duplication of any items) for.
+
+                  1. Completed and acceptable Work executed in accordance with
+         the Contract Documents prior to the effective date of termination,
+         including fair and reasonable sums for overhead and profit on such
+         Work;
+
+                  2. Expenses sustained prior to the effective date of
+         termination in performing services and furnishing labor, materials or
+         equipment as required by the Contract Documents in connection with
+         uncompleted Work, plus fair and reasonable sums for overhead and profit
+         on such expenses;
+
+                  3. Amounts paid in settlement of terminated contracts with
+         Subcontractors, Engineers, Suppliers and others (including but not
+         limited to all fees and charges of engineers, architects, attorneys and
+         other professionals and all court or arbitration or other dispute
+         resolution costs incurred in connection with termination of contracts
+         with Subcontractors, Engineers and Suppliers); and
+
+                  4. Reasonable expenses directly attributable to termination.
+
+         B. DESIGN/BUILDER shall not be paid on account of loss of anticipated
+profits or revenue or other economic loss arising out of or resulting from such
+termination.
+
+14.04    DESIGN/BUILDER MAY STOP WORK OR TERMINATE
+
+         A. If, through no act or fault of DESIGN/BUILDER, the Work is suspended
+for a. period of more than ninety days by OWNER or under an order of court or
+other public authority, or OWNER fails to act on any Application for Payment
+within thirty days after it is submitted or OWNER fails for thirty days to pay
+DESIGN/BUILDER any sum finally determined to be due, then DESIGN/BUILDER may,
+upon seven days' written notice to OWNER, and provided OWNER does not remedy
+such suspension or failure within that time, terminate the Agreement and recover
+from OWNER payment on the same terms as provided in paragraph 14.03A. In lieu of
+terminating the Agreement and without prejudice to any other right or remedy, or
+OWNER has failed for thirty days to pay DESIGN/BUILDER any sum finally
+determined to be due, DESIGN/BUILDER may upon seven day's written notice to
+OWNER stop the Work until payment is made of all such amounts due
+DESIGN/BUILDER, including interest thereon. The provisions of this paragraph
+14.04.A are not intended to preclude DESIGN/BUILDER from making claim under
+Article 9 for an increase in Contract Price or Contract Times or otherwise for
+expenses or damage directly attributable to DESIGN/BUILDER's stopping Work as
+permitted by this paragraph.
+
+<Page>
+
+ARTICLE 15--DISPUTE RESOLUTION
+
+If and to the extent that OWNER and DESIGN/BUILDER have agreed on the method and
+procedure for resolving disputes between them that may arise under this
+Agreement, such dispute resolution method and procedure, if any, shall be as set
+forth in Exhibit GC-A, "Dispute Resolution Agreement", to be attached hereto and
+made a part hereof. If no such agreement on the method and procedure for
+resolving such disputes has been reached, OWNER and DESIGN/BUILDER may exercise
+such rights or remedies as either may otherwise have under the Contract
+Documents or by Laws or Regulations in respect of any dispute.
+
+ARTICLE 16--MISCELLANEOUS
+
+16.01    GIVING NOTICE
+
+         A. Whenever any provision of the Contract Documents requires the giving
+of written notice, it will be deemed to have been validly given.
+
+                  1. If delivered in person to the individual or to a member of
+         the firm or to an officer of the corporation for whom it is intended;
+
+                  2. If delivered at or sent by registered or certified
+         mail, postage prepaid, to the last business address known to the giver
+         of the notice; or
+
+                  3. If transmitted by facsimile, the time at which a machine
+         generated confirmation' states the. notice was received at the
+         facsimile telephone number of the intended recipient last known by the
+         sender.
+
+16.02    COMPUTATION OF TIMES
+
+         A. When any period of time is referred to in the contract Documents by
+days, it will be computed to exclude the first and include the last day of such
+period. If the last day of any such period falls on a Saturday or Sunday or on a
+day made a legal holiday by the law of the applicable jurisdiction, such day
+will be omitted from the computation.
+
+         B. A calendar day of twenty-four hours measured from midnight to the
+next midnight will constitute a day.
+
+16.03    NOTICE OF CLAIM
+
+         A. Should OWNER or DESIGN/BUILDER suffer injury or damage to person or
+property because of any error, omission or act of the other party or of any of
+the other party's employees or agents or others for whose acts the other party
+is legally liable, claim will be made in writing to the other party within a
+reasonable time of the first observance of such injury or damage. The provisions
+of this paragraph 16.03.A shall not be construed as a substitute for or a waiver
+of the provisions of any applicable statute of limitations or repose.
+
+<Page>
+
+16.04    CUMULATIVE REMEDIES
+
+         A. The duties and obligations imposed by these General Conditions and
+the rights and remedies available hereunder to the parties hereto, and, in
+particular but without limitation, any general or specific warranties,
+guarantees and indemnities imposed upon DESIGN/BUILDER and all of the rights and
+remedies available to OWNER thereunder, are in addition to, and are not to be
+construed in any way as a limitation of, any rights and remedies available to
+any or all of ahem which are otherwise imposed or available by Laws or
+Regulations, by special warranty or guarantee or by other provisions of the
+Contract Documents, and the provisions of this paragraph will be as effective as
+if repeated specifically in the Contract Documents in connection with each
+particular duty, obligation, right and remedy to which they apply.
+
+16.05    SURVIVAL OF OBLIGATIONS
+
+         A. All representations, indemnifications, warranties and guarantees
+made in, required by or given in accordance with the Contract Documents, as well
+as all continuing obligations indicated in the Contract Documents, will survive
+final payment, completion and acceptance of the Work and termination or
+completion of the Agreement.
+
+
+<Page>
+
+EXHIBIT GC-A to GENERAL CONDITIONS OF THE AGREEMENT BETWEEN OWNER AND
+DESIGN/BUILDER DATED For use with EJCDC No. 1910-40 (1995 ed.)
+
+15.01    DISPUTE RESOLUTION AGREEMENT
+
+         A. Article 15 of the General Conditions of the Contract between OWNER
+and DESIGN/BUILDER is amended to include paragraphs 15.01.B-15.01.F.
+
+         B. OWNER and DESIGN/BUILDER agree that they will first submit any and
+all unsettled claims, counterclaims, disputes and other matters in question
+between them arising out of or relating to `the Contract Documents or the breach
+thereof ("disputes"), to mediation by The American Arbitration Association prior
+to either of them initiating against the other a demand for arbitration pursuant
+to paragraph 15.01.C through 15.01.F, unless delay in initiating arbitration
+would irrevocably prejudice one of the parties. Any time limits within which to
+file a demand for arbitration shall be suspended with respect to a dispute
+submitted to mediation within those same applicable time limits and shall remain
+suspended until 10 days after the termination of the mediation. The mediator of
+any dispute submitted to mediation under this Agreement shall not serve as
+arbitrator of such dispute unless otherwise agreed.
+
+         C. All claims, disputes and other matters in question between OWNER and
+DESIGN/BUILDER arising out of or relating to the Contract Documents or the
+breach thereof (except for claims which have beets waived by the making or
+acceptance of final payment as provided by paragraph 13.10) will be decided by
+binding arbitration in accordance with The Construction Industry Arbitration
+Rules of the American Arbitration Assn. subject to the limitations of this
+paragraph 15.01. This agreement so to arbitrate and any other agreement or
+consent to arbitrate entered into in accordance herewith as provided in this
+paragraph 15.01 will be specifically enforceable under the prevailing law of any
+court having jurisdiction.
+
+         D. Notice of the demand for arbitration will be filed in writing with
+the other party to the Agreement and with the designated arbitration entity. The
+demand for arbitration will be made within a reasonable time after the claim,
+dispute or other matter in question has arisen, and in no event shall any such
+demand be made after the date when institution of legal or equitable proceedings
+based on such claim, dispute or other matter in question would be barred by the
+applicable statute of limitations.
+
+         E. Except as provided in paragraph 15.01.F below, no arbitration
+arising out of or relating to the Contract Documents shall include by
+consolidation, joinder or in any other manna any other individual or entity who
+is not a party to this contract unless:
+
+                  1. the inclusion of such other individual or entity is
+         necessary if complete relief is to be afforded among those who are
+         already parties to the arbitration, and
+
+                  2. such other individual or entity is substantially involved
+         in a question of law or fact which is common to those who are already
+         parties to the arbitration and which will arise in such proceedings,
+         and
+
+                  3. the written consent of the other individual or entity
+         sought to be included and of OWNER and DESIGN/BUILDER has been obtained
+         for such inclusion, which consent
+
+<Page>
+
+         shall make specific reference to this paragraph; but no such consent
+         shall constitute consent to arbitration of any dispute not specifically
+         described in such consent or to arbitration with any party not
+         specifically identified in such consent.
+
+         F. Notwithstanding paragraph 15.01.E, if a claim, dispute or other
+matter in question between OWNER and DESIGN/BUILDER involves the Work of a
+Subcontractor, Supplier or Engineer either OWNER or DESIGN/BUILDER tray join
+such entity as a patty to the arbitration between OWNER and DESIGN/BUILDER.
+hereunder. DESIGN/BUILDER shall include in all subcontracts required by
+paragraph 6.05.D a specific provision whereby the Subcontractor consents to
+being joined in an arbitration between OWNER and DESIGN/BUILDER involving the
+Work of such Subcontractor. Nothing in this paragraph 15.01.F nor in the.
+provision of such subcontract consenting to joinder shall create any claim,
+right or cause of action in favor of Subcontractor, Supplier or Engineer against
+OWNER.
+
+<Page>
+
+                            SUPPLEMENTARY CONDITIONS
+
+         These Supplementary Conditions amend or supplement the Standard General
+Conditions of the Contract between OWNER and DESIGN/BUILDER (No. 1910-40, 1995
+Edition) and other provisions of the Contract Documents as indicated below. All
+provisions which are not so amended or supplemented remain in full force and
+effect.
+
+SC-1.01.A DEFINITIONS
+
+The terms used in these Supplementary Conditions which are defined in the
+Standard General Conditions of the Contract between OWNER and DESIGN/BUILDER
+(1910-40, 1995 Edition) have the meanings assigned to them in the General
+Conditions.
+
+SC-1.01.A.45 SUBSTANTIAL COMPLETION
+
+Amend the first sentence of Paragraph 1.01.A.45 of the General Conditions by
+striking out the second reference to the following words: (or a specified part);
+and as so amended, Paragraph 1.01.A.45 remains in effect.
+
+Add the following language at the end of Paragraph 1.01.A.45 of the General
+Conditions. Substantial Completion shall be attained at the point in time where
+the Facility is ready to begin processing corn.
+
+SC-2.04 BEFORE STARTING CONSTRUCTION
+
+Delete paragraph A in its entirety and substitute the following:
+
+         A. DESIGN/BUILDER will supply the following upon the earlier of 30 days
+after the execution of this Agreement or 15 days prior to construction
+commencement.
+
+SC-3.04 REUSE OF DOCUMENTS
+
+Add the following at the end of this section: "The DESIGN/BUILDER shall provide
+Owner `as built' Drawings, Plans and Specifications within 120 days after the
+completion of construction."
+
+SC-4.04.D HAZARDOUS CONDITIONS
+
+Delete Paragraph 4.04.D in its entirety and insert the following in its place:
+
+         D. To the fullest extent permitted by Laws and Regulations,
+DESIGN/BUILDER shall indemnify and hold harmless OWNER, Subcontractors,
+Suppliers, Engineers and the officers, directors, employees, agents other
+consultants and subcontractors of each and any of them from and against all
+claims, costs, losses and damages (including but not limited to all fees and
+charges of engineers, architects, attorneys and other professionals and all
+court or arbitration or other dispute resolution costs) arising out of or
+resulting from such Hazardous Condition, provided that (i) any such claim, cost,
+loss or damage is attributable to bodily injury, sickness, disease or death, or
+to injury to or destruction of tangible property (other than completed
+Construction Services), including the loss of use resulting therefrom, and (ii)
+nothing in this paragraph 4.04.D shall obligate
+
+<Page>
+
+DESIGN/BUILDER. to indemnify any individual or entity from and against the
+consequences of that individual's or entity's own negligence or willful
+misconduct.
+
+SC-5.01 PERFORMANCE, PAYMENT AND OTHER BONDS
+
+At the beginning of Paragraph A, add the words "If it is required by the Primary
+Lender,"
+
+Add at the end of Paragraph A: "The cost of the performance and payment bonds
+shall be paid by the OWNER."
+
+SC-5.02.A DESIGN/BUILDER'S LIABILITY INSURANCE
+
+The limits of liability for the insurance required by Paragraph 5.02.A of the
+general conditions shall provide coverage for not less than the following
+amounts or greater where required by Laws and Regulations:
+
+1.       Worker's Compensation under Paragraph 5.02.A.1 of the General
+         Conditions:
+
+         a.       State:                             Statutory
+         b.       Applicable Federal:                Statutory
+         c.       Employer's Liability:              $500,000
+
+2.       DESIGN/BUILDER's General Liability (under paragraphs 5.02.A.2 through 6
+         of the General Conditions) which shall include completed operations and
+         product liability coverages.
+
+         a.       General Aggregate:
+                  (Except Products -
+                  Completed Operations)              $2,000,000
+
+         b.       Products - Completed
+                  Operations Aggregate               $2,000,000
+
+         c.       Personal and Advertising
+                  Injury (Per Person/
+                  Organization)                      $1,000,000
+
+         d.       Each Occurrence
+                  (Bodily Injury and
+                  Property Damages)                  $1,000,000
+
+         e.       Property Damage liability insurance will provide Explosion,
+                  Collapse and Underground coverages where applicable.
+
+         f.       Excess Liability
+
+                  General Aggregate                  $10,000,000
+                  Each Occurrence                    $10,000,000
+
+<Page>
+
+3.       Automobile Liability:
+         Combine Single
+         Limit (Bodily Injury and
+         Property Damage)                            $1,000,000
+
+SC-5.02.B. DESIGN/BUILDER'S LIABILITY INSURANCE
+
+The following individuals or entities are to be included on the indicated
+policies as additional insureds:
+
+1.       Dakota Ethanol, L.L.C.
+
+SC-5.04.A.2 PROPERTY INSURANCE
+
+Add the following language at the end of Paragraph 5.04.A.2 of the General
+Conditions. The Builder's Risk Policy will include Hot Testing Coverage.
+
+SC-5.04.B PROPERTY INSURANCE
+
+Delete Paragraph 5.04.B of the General Conditions in its entirety and insert the
+following in its place:
+
+1.       At the appropriate time during the construction period, the OWNER shall
+         purchase and maintain Broad Coverage Insurance for equipment such as
+         boilers, other pressure vessels, hot water boilers, fired storage water
+         heaters, fired coil water heaters, unfired pressure vessels, machinery,
+         and similar equipment or objects, which are provided under the Contract
+         for this Work and which may not be covered under other insurances. The
+         insurance shall be in accordance with State Laws. Such coverage shall,
+         as a minimum, insure against loss or damages, including death or bodily
+         injury, from explosion, rupture, or bursting of the equipment piping
+         and normally covered appurtenances or other similar hazards peculiar to
+         the particular equipment or object.
+
+2.       The policy shall name the OWNER, the DESIGN/BUILDER, all Subcontractors
+         and lower tier Sub-subcontractors as joint insured.
+
+3.       The insurance shall be placed into effect prior to the testing, use or
+         start up of any equipment or object provided under the Contract. The
+         DESIGN/BUILDER shall notify the OWNER or insurance agent in ample time
+         prior to testing or startup of the object to permit any required
+         inspections.
+
+4.       The policy, shall cover, as a minimum, (1) loss to property of the
+         insured, including extra costs of temporary repair (2) death or bodily
+         injury liability, including defense, settlement and supplementary
+         payments, and (3) property damage liability including defense,
+         settlement and supplementary payments. The minimum limits shall be
+         $1,000,000 per occurrence.
+
+<Page>
+
+5.       After acceptance of the Work, or upon occupancy by the OWNER, the OWNER
+         will provide pressure vessel insurance. OWNER will purchase and
+         maintain boiler, machinery and other property insurance as indicated in
+         GC-5.04.B
+
+         Entities deemed to have an insurable interest shall be listed as an
+         insured or additional insured.
+
+SC-5.04.E PROPERTY INSURANCE
+
+Delete Paragraph 5.04.E of the General Conditions in its entirety.
+
+SC-5.06. RECEIPT AND APPLICATION OF PROCEEDS
+
+         A. Insert the following at the end: "Notwithstanding anything to the
+contrary, the rights contained herein shall be subordinate to the lender or
+lenders financing the Project."
+
+         B. Delete the remaining portion of paragraph B from "any loss"
+in the second line all the way through the end.
+
+SC-6.03.A LABOR, MATERIALS AND EQUIPMENT
+
+DESIGN/BUILDER will determine the appropriate amount of overtime based on an
+assessment of cost and schedule, provided that in no event will such time
+increase the contract price.
+
+SC-6.03.B LABOR, MATERIALS, AND EQUIPMENT
+
+Add the following sentence to Paragraph 6.03.B of the General Conditions: The
+DESIGN/BUILDER will not be responsible for any utility lines and/or connections
+beyond the surveyed boundaries of the Site; and as so amended Paragraph 6.03.B
+remains in effect.
+
+SC-6.03.C LABOR, MATERIALS, AND EQUIPMENT
+
+Delete the following in the first sentence of Paragraph 6.03.C: except as
+otherwise provided in the Contract Documents. Replace with the following: with
+the exception of the centrifuges installed in the plant.
+
+SC-6.07.A PERMITS
+
+Delete the last sentence of Paragraph 6.07.A of the General Conditions, and
+insert the following in its place: The OWNER is responsible for paying any and
+all utility company connection charges and/or capital costs related thereto.
+
+SC-6.09. TAXES
+
+Excise taxes will be paid and any refunds will be applied for by the Owner.
+
+
+<Page>
+
+SC-6.11 .A RECORD DOCUMENTS
+
+Add the following language at the end of paragraph 6.11.A: Record Documents will
+include As-Built Drawings of the Project. DESIGN/BUILDER will have 120 days from
+the date of Substantial Completion to deliver the As-Built Drawings.
+
+SC-6.18.A DESIGN/BUILDER'S GENERAL WARRANTY AND GUARANTEE
+
+Insert the following at the end of the first sentence of Paragraph 6.18.A: and
+will be of watertight construction. This warranty shall be effective for a
+period of twelve months from the date of substantial completion and will cover
+all labor and materials to correct any deficiencies.
+
+SC-7.02.B COORDINATION
+
+The following shall be added at the end of paragraph 7.02.B: DESIGN/BUILDER will
+be responsible for coordination of water line to site, elevated storage tank and
+miscellaneous additional development including construction of road.
+
+SC-8.01.A.6. GENERAL
+
+Delete paragraphs 8.01.A.6.a, 8.01.A.6.b, 8.01.A.6.e and 8.01.A.6.g in their
+entirety.
+
+SC10.02.C COST OF THE WORK
+
+Delete paragraphs 10.02.C.2, 10.02.C.2.a, 10.02.C.2.b, 10.02.C.2.c, 10.02.C.2.d
+and 10.02.C.2.e in their entirety.
+
+SC-13.02.A. APPLICATION FOR PROGRESS PAYMENT
+
+Delete the first sentence of paragraph 13.02.A and replace with the following:
+The DESIGN/BUILDER shall submit to the OWNER an Application for Payment on the
+5th of each month for the construction completed during the previous month. The
+first Application for Payment will be submitted after signing the contract
+documents and prior to mobilization to cover design work to date, equipment
+deposits and mobilization costs.
+
+SC-13.04.A.1 PROGRESS PAYMENTS
+
+Delete paragraph 13.04.A.1 in its entirety and replace with the following:
+
+         1. The OWNER shall, within 15 days of receipt of each
+Application for Payment, approve and make payment to the DESIGN/BUILDER. If for
+any reason an amount less than the total amount due per the request is approved
+by the OWNER, the DESIGN/BUILDER shall be notified immediately.
+
+<Page>
+
+SC-13.04.A.2 PROGRESS PAYMENTS
+
+Delete the last sentence of Paragraph 13.04.A.2 and replace with the following:
+Written notice will be deemed to have been served if sent to the Designated
+Representative at the address defined in the Standard Form of Agreement Between
+Owner and Design/Builder.
+
+SC-13.04.B.6 PROGRESS PAYMENTS
+
+Insert the following after "Liens have been filed": or are threatened to be
+filed.
+
+SC-13.04.B. PROGRESS PAYMENTS
+
+Add the following sections to 13.04.B:
+
+         8. Reasonable evidence that the Work cannot be completed for the
+Contract Price.
+
+         9. Reasonable evidence that the Work will not be completed in the
+Contract Time.
+
+SC-13.05.A SUBSTANTIAL COMPLETION
+
+The following should be inserted at the end:
+
+         A. Notwithstanding anything to the contrary, in no event will
+substantial completion be achieved until such time as the plant is ready to
+begin processing corn.
+
+SC-13.09.B FINAL PAYMENT AND ACCEPTANCE
+
+Insert the following at the end of the first sentence: less 150% of the cost of
+completing the remaining items.
+
+
+</TEXT>
+</DOCUMENT>

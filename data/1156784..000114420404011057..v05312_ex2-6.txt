@@ -1,0 +1,386 @@
+<DOCUMENT>
+<TYPE>EX-2.6
+<SEQUENCE>7
+<FILENAME>v05312_ex2-6.txt
+<TEXT>
+                                                                  EXECUTION COPY
+
+                                                                     EXHIBIT 2.6
+
+                   NONCOMPETITION AND NONDISCLOSURE AGREEMENT
+
+         NONCOMPETITON   AND  NONDISCLOSURE   AGREEMENT  (the   "Non-Competition
+Agreement"), made as of the 23 day of June 2004, by and among HY-Tech Technology
+Group, Inc., a Delaware  corporation  ("Hy-Tech  Technology"),  Hy-Tech Computer
+Systems,  Inc., a Delaware corporation  ("Hy-Tech Computer Systems" and together
+with Hy-Tech  Technology,  "HYTT"),  Gary McNear  ("McNear")  and Craig  Conklin
+("Conklin"  and  collectively  with  McNear and HYTT,  the "HYTT  Parties")  and
+Encompass Group Affiliates, Inc., a Delaware corporation ("Encompass").
+
+                              W I T N E S S E T H:
+                              - - - - - - - - - -
+
+         WHEREAS, pursuant to that certain Agreement,  dated May __, 2004, among
+Encompass  and HYTT  (the  "Agreement"),  HYTT has  agreed to (i)  refrain  from
+pursuing  certain rights it may have (the "Rights") and (ii) license  certain of
+its  assets  to  Encompass,  in  accordance  with the terms of  certain  license
+agreements  (the  "Licenses") to be entered into among Encompass and HYTT on the
+date hereof (the "Closing").
+
+         WHEREAS,  in order to protect the value of the Rights and the  Licenses
+and to protect the business of Encompass and its Affiliates,  the parties hereto
+have agreed that, for the  consideration  contained in the  Agreement,  the HYTT
+Parties  shall not compete  with  Encompass,  in  accordance  with the terms and
+conditions hereof; and
+
+         WHEREAS,  the  agreements  of the  HYTT  Parties  not to  compete  with
+Encompass  as  provided  herein  are  an  integral  part  of  the   transactions
+contemplated by the Agreement, and without such agreements,  Encompass would not
+have entered into the Agreement.
+
+         NOW,  THEREFORE,  in  consideration  of the  covenants  and  agreements
+contained herein, the payment of the consideration  hereunder and for other good
+and  valuable  consideration,  the receipt and  sufficiency  of which are hereby
+acknowledged, the parties hereto, intending to be legally bound hereby, agree as
+follows:
+
+                  1. Certain Definitions.  Capitalized terms used herein and not
+otherwise  defined  shall have the meanings  ascribed to them in the  Agreement;
+provided,  however,  that the following  terms shall have the meanings set forth
+below irrespective of the meanings such terms may have in the Agreement:
+
+                           (a) "Affiliate" of any person means any other person,
+directly or indirectly,  through one or more intermediary persons,  controlling,
+controlled by or under common control with such person.
+
+                           (b)  "Business"   means  (i)  the  marketing,   sale,
+integration,  distribution or repair of computer systems, components,  equipment
+or  peripherals,  and any  related  consulting  work,  and (ii)  conducting  any
+
+                                       1
+<PAGE>
+
+                                                                  EXECUTION COPY
+
+business of a nature (A) now or anytime hereafter engaged in by Encompass or its
+current or future  subsidiaries or (B) engaged in by Hy-Tech Computer Systems or
+its  subsidiaries at the time of Closing,  or (C) engaged in by any of BCD 2000,
+Inc.,  Cyber  Test,  Inc. or Pacific  Magtron  International  Corp.  ("Potential
+Encompass  Subsidiaries")  at the time the stock or assets of which are acquired
+by Encompass.
+
+                           (c) "Confidential  Information" means all information
+(i)  heretofore or hereafter  developed or used by a HYTT Party  relating to the
+Business, or the operations,  employees, customers, suppliers or distributors of
+HYTT relating to the Business  including,  but not limited to,  customer  lists,
+customer orders,  financial data, pricing information and price lists,  business
+plans and market  strategies  and  arrangements,  all books,  records,  manuals,
+advertising materials,  catalogues,  correspondence,  mailing lists,  production
+data, sales materials and records,  purchasing materials and records,  personnel
+records,  quality control records and procedures  included in or relating to the
+Business,  and (ii) all such  information  of Encompass,  its Affiliates and the
+Potential Encompass  Subsidiaries obtained by the HYTT Parties prior to the date
+hereof.
+
+                           (d) The term  "control",  with respect to any person,
+means the power to direct the
+
+management and policies of such person,  directly or  indirectly,  by or through
+stock  ownership,  agency or otherwise,  or pursuant to or in connection with an
+agreement, arrangement or understanding (written or oral) with one or more other
+persons  by or  through  stock  ownership,  agency or  otherwise;  and the terms
+"controlling" and "controlled" have meanings correlative to the foregoing.
+
+                           (e) "Market" means the world.
+
+                           (f)  The   term   "person"   means   an   individual,
+corporation, partnership, joint venture, limited liability company, association,
+trust,  unincorporated  organization or other entity,  including a government or
+political subdivision or an agency or instrumentality thereof.
+
+                           (g) "Restricted  Period" means the period  commencing
+from and  after the date of this  Non-Competition  Agreement  and  ending on the
+fifth anniversary hereof.
+
+                  2. Noncompetition in the Market.
+
+                           (a) At all  times  from  and  after  the date of this
+Non-Competition Agreement and until the expiration of the Restricted Period, (i)
+no HYTT Party will own or control,  throughout  the Market,  any business or any
+person who is engaged in any business,  that  competes,  directly or indirectly,
+with the Business or is otherwise  engaged in  activities  competitive  with the
+Business, (ii) no HYTT Party shall directly,  indirectly, and whether for itself
+or on behalf of any other person  (including any of its Affiliates),  throughout
+the Market,  directly or indirectly,  engage in, own, manage,  operate,  provide
+financing to, control or participate in the ownership, management or control of,
+or otherwise have a financial interest  (whether,  except as provided in Section
+4, as a stockholder, director, officer, representative,  subcontractor, partner,
+consultant,  proprietor, member, agent or otherwise) in, or aid or assist anyone
+else in the  conduct  of,  any  business  or any  person  who is  engaged in any
+business,  that  competes,  directly  or  indirectly,  with the  Business  or is
+otherwise engaged in activities competitive with the Business, and (iii) no HYTT
+
+                                       2
+<PAGE>
+                                                                  EXECUTION COPY
+
+Party  shall,  either  personally  or by its agent or by letters,  circulars  or
+advertisements and whether for itself or on behalf of any other person,  canvass
+or  solicit,  or enter into or effect (or cause or  authorize  to be  solicited,
+entered into or effected), directly or indirectly, for or on behalf of itself or
+any other person,  any business relating to the Business from any person who is,
+or has at any time within five (5) years prior to the date of such action  been,
+a customer or supplier of the Business or Encompass or Encompass' Affiliates.
+
+                           (b) Notwithstanding  the foregoing,  (i) for a period
+of three (3) months  following the Closing,  Hy-Tech  Computer  Systems shall be
+permitted to sell,  in the ordinary  course of its  business,  any inventory not
+sold on or prior to the  Closing  and  (ii)  provided  that  HYTT  acquires  the
+business of Robotic Workspace  Technology,  Inc. ("RWT"),  for so long as RWT is
+engaged  solely in the  business  of  developing  and/or  acquiring  proprietary
+computer technology within the robotics field, Encompass shall not deem the HYTT
+Parties to be competing with the Business.
+
+                  3. Excluded  Investments  and  Activities by the HYTT Parties.
+Each of the parties  hereto  acknowledges  that nothing  contained  herein shall
+prohibit the HYTT Parties from  acquiring  equity  securities of a publicly held
+company  engaged in activities  which are similar to, or  competitive  with, the
+Business,  which in the aggregate do not exceed 1% of the issued and outstanding
+equity securities of such publicly held company.
+
+                  4. Non-Disclosure of Confidential Information. Each HYTT Party
+acknowledges  that it is the  policy of  Encompass  to  maintain  as secret  and
+confidential all Confidential Information.  The parties hereto recognize that by
+reason of HYTT's operation of its business prior to the Closing,  and activities
+in connection  with the Agreement,  the HYTT Parties have acquired  Confidential
+Information.  Each HYTT Party recognizes that,  effective upon the Closing,  all
+such  Confidential  Information  is  and  shall  remain  the  sole  property  of
+Encompass, free of any rights of any HYTT Party, and acknowledges that Encompass
+has a vested interest in assuring that all such Confidential Information remains
+secret and  confidential.  Therefore,  each HYTT Party  agrees that at all times
+from and after the date hereof, it/he will not, directly or indirectly,  without
+the prior written consent of Encompass, disclose to any person, firm, company or
+other entity (other than Encompass or any of its  Affiliates)  any  Confidential
+Information,  except to the extent  that (i) any such  Confidential  Information
+becomes generally  available to the public or trade, other than as a result of a
+breach  by a HYTT  Party  of  this  Section  4, or (ii)  any  such  Confidential
+Information becomes available to a HYTT Party on a non-confidential basis from a
+source other than Encompass;  provided,  that such source is not known by a HYTT
+Party to be bound by a  confidentiality  agreement with, or other  obligation of
+secrecy to, Encompass or another party. In addition, it shall not be a breach of
+the  confidentiality  obligations  hereof if a HYTT Party is  required by law or
+legal process to disclose any Confidential  Information;  provided, that in such
+case,  the HYTT Parties shall (a) give  Encompass the earliest  notice  possible
+that such disclosure is or may be required, and (b) cooperate with Encompass, at
+Encompass' expense, in protecting,  to the maximum extent legally permitted, the
+confidential or proprietary nature of the Confidential Information which must be
+so  disclosed.  The  obligations  of each HYTT Party under this  Section 4 shall
+survive any termination of this Non-Competition Agreement.
+
+                                       3
+<PAGE>
+                                                                  EXECUTION COPY
+
+                  5.  Non-Solicitation.  At all times from and after the date of
+this  Non-Competition  Agreement  and until  the  expiration  of the  Restricted
+Period,  no HYTT Party  shall,  directly,  indirectly  or  otherwise,  either by
+its/his  agent or by  letters,  circulars  or  advertisements,  and  whether for
+itself/himself or on behalf of any other person:
+
+                           (a) seek to persuade any employee of Encompass or any
+of its  Affiliates to discontinue  his or her status or employment  therewith or
+seek to persuade  any  employee or former  employee of  Encompass  or any of its
+Affiliates  to become  employed  or to provide  consulting  services or contract
+services in a business or activities competitive with the Business, or
+
+                           (b)  solicit or employ or,  directly  or  indirectly,
+cause to be  solicited  or  employed,  or engage,  directly or  indirectly,  the
+services  of  any  employee  or  former  employee  of  Encompass  or  any of its
+Affiliates.
+
+                  6. Right to Injunctive  Relief.  Each HYTT Party  acknowledges
+that any breach or threatened breach by it of any of the covenants or provisions
+contained herein will result in irreparable and continuing harm to Encompass and
+its  Affiliates  for which neither  Encompass nor its  Affiliates  would have an
+adequate remedy at law. Therefore, each HYTT Party acknowledges and agrees that,
+in addition to any other remedy which  Encompass or its  Affiliates  may have at
+law or in equity,  Encompass and its Affiliates  shall be entitled to injunctive
+relief,  temporary and permanent  restraining orders or other equitable remedies
+in the event of any such breach or  threatened  breach.  Each HYTT Party further
+acknowledges   and  agrees  that  monetary  damages  would  be  insufficient  to
+compensate  Encompass  and its  Affiliates  in the event of a breach by any HYTT
+Party of any of the covenants or provisions  contained  herein,  and that in the
+event of a breach thereof,  Encompass and/or its Affiliates shall be entitled to
+specific performance of the obligations hereunder without the obligation to post
+a bond or to prove damages or that other remedies are insufficient.
+
+                  7.  Enforceability;  Severability.  If any  provision  of this
+Non-Competition  Agreement shall be adjudicated to be invalid or  unenforceable,
+then such  provision  shall be deemed  modified,  as to  duration,  territory or
+otherwise,  so as to be  enforceable  as similar as possible to the provision at
+issue, in order to render the remainder of this Non-Competition  Agreement valid
+and enforceable  and to the extent found  necessary,  such  provisions  shall be
+revised,  reformed  or  redrafted  or a new  agreement  created  by a  court  of
+competent   jurisdiction   to  accomplish  the  foregoing.   The  invalidity  or
+unenforceability  of any provision of this  Non-Competition  Agreement shall not
+affect the other provisions hereof, and this Non-Competition  Agreement shall be
+construed  in all respects as if such invalid or  unenforceable  provision  were
+omitted.
+
+                  8.  Successors  and Assigns.  This  Non-Competition  Agreement
+shall be binding  upon and shall inure to the  benefit of each party  hereto and
+their respective Affiliates, successors and assigns.
+
+                                       4
+<PAGE>
+                                                                  EXECUTION COPY
+
+                  9. Entire Agreement. This Non-Competition Agreement,  together
+with the  Agreement  and the documents  and  instruments  referenced  herein and
+therein, contains the entire understanding among the parties hereto with respect
+to  the  subject  matter  hereof  and  supersedes  all  prior  negotiations  and
+understandings among Encompass,  Encompass'  Affiliates and each HYTT Party with
+respect hereto.  This  Non-Competition  Agreement may not be amended or modified
+except by a written instrument signed by the parties hereto.
+
+                  10. Applicable Law; Submission to Jurisdiction.
+
+                           (a) This  Non-Competition  Agreement  and the rights,
+obligations  and  relations  of the  parties  hereto  shall be  governed  by and
+construed and enforced in accordance with the laws of the State of Delaware.
+
+                           (b) The parties hereto hereby,  to the fullest extent
+permitted  by law,  (i) agree to  submit  themselves,  and any  legal  action or
+proceeding  relating to this  Non-Competition  Agreement or for  recognition and
+enforcement of any judgment in respect hereof, to the exclusive  jurisdiction of
+the courts of the State of Delaware,  the courts of the United  States  District
+Court for the District of Delaware, and appellate courts from any therefor, (ii)
+consent that any action or proceeding shall be brought in such courts, and waive
+any  objection  that  each may now or  hereafter  have to the  venue of any such
+action or proceeding  in any such court,  (iii) agree that service of process of
+any such action or proceeding may be effected by serving the  appropriate  party
+personally at its address as set forth herein,  and service made shall be deemed
+to be completed upon actual receipt thereof,  and (iv) agree that nothing herein
+shall  affect  the right to  effect  service  of  process  in any  other  manner
+permitted by law.
+
+                  11. Notices.
+
+                           (a) Except as  provided  in Section  10(b)(iii)  with
+respect to service of process which must be delivered personally,  any notice or
+other  communication  required or  permitted  hereunder  shall be in writing and
+shall be delivered  personally  by hand or by  recognized  overnight  courier or
+mailed (by registered or certified  mail,  postage  prepaid) or  telecopied,  as
+follows:
+
+                                (i)  If to Encompass :
+
+                                     420 Lexington Avenue, Ste 2739
+                                     New York, NY 10170
+                                     Attention: Wayne I. Danson, President
+                                     Telecopier: 646-227-1666
+
+with a simultaneous copy to:
+
+                                     Gary A. Miller, Esq.
+                                     Eckert Seamans Cherin & Mellott, LLC
+                                     1515 Market Street, Ninth Floor
+                                     Philadelphia, Pennsylvania 19102
+                                     Telecopier: (215)851-8383
+
+                                       5
+<PAGE>
+                                                                  EXECUTION COPY
+
+                                                              and
+
+                                     Jonathan Lichtman, Esquire
+                                     Levinson & Lichtman LLP
+                                     120 Palmetto Road East
+                                     Boca Raton, Florida 33166
+                                     Telecopier: (561) 869-260
+
+                               (ii)  If to a HYTT Party, one copy to:
+
+                                     c/o of Hy-Tech Technology Group, Inc.
+                                     1840 Boy Scout Dr.
+                                     Ft. Myers, FL
+                                     Attention:  President
+                                     Telecopier:
+                                                 -------------------------------
+ with a simultaneous copy to:
+
+                                     Adam S. Gottbetter, Esquire
+                                     Gottbetter & Partners, LLP
+                                     488 Madison Ave., 12th Fl
+                                     New York, NY 10022-5718
+                                     Telecopier: (212) 400-6901
+
+                           (b) Each such notice or other  communication shall be
+effective (i) if given by  telecopier,  when such telecopy is transmitted to the
+telecopier   number   specified   in  Section   11(a)  (with   confirmation   of
+transmission),  or (ii) if given by other means,  when  delivered at the address
+specified in Section  11(a).  Any party by notice given in accordance  with this
+Section  11 to the other  party may  designate  another  address  or person  for
+receipt of notices hereunder. Notices by a party may be given by counsel to such
+party.
+
+                  12. Headings. The headings of sections and subsections of this
+Non-Competition  Agreement are for convenience only and are not to be considered
+in construing this Non-Competition Agreement.
+
+                  13. Execution in Counterparts.  This Non-Competition Agreement
+may be executed in any number of counterparts,  each of which shall be deemed to
+be an original, but all of which, when taken together,  shall constitute one and
+the same instrument.
+
+                            [SIGNATURE PAGE FOLLOWS]
+
+
+
+
+
+
+
+                                       6
+<PAGE>
+                                                                  EXECUTION COPY
+
+         IN WITNESS WHEREOF, the parties hereto have caused this Non-Competition
+Agreement to be executed as of the day and year first above written.
+
+                                                     HY-TECH TECHNOLOGY, INC.
+
+                                     By:
+                                        ----------------------------------------
+                                         Name:
+                                         Title:
+
+
+
+                                     HY-TECH COMPUTER SYSTEMS, INC.
+
+                                     By:
+                                        ----------------------------------------
+                                         Name:
+                                         Title:
+
+
+                                         ---------------------------------------
+                                         CRAIG CONKLIN
+
+
+                                         ---------------------------------------
+                                         GARY MCNEAR
+
+
+
+                                     ENCOMPASS GROUP AFFILIATES, INC.
+
+                                     By:
+                                        ----------------------------------------
+                                         Name:
+                                         Title:
+
+</TEXT>
+</DOCUMENT>

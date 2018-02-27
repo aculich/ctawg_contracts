@@ -1,0 +1,965 @@
+<DOCUMENT>
+<TYPE>EX-10.1
+<SEQUENCE>8
+<FILENAME>dex101.txt
+<DESCRIPTION>SHAREHOLDERS AGREEMENT
+<TEXT>
+<PAGE>
+
+                                                                    EXHIBIT 10.1
+
+                             SHAREHOLDERS' AGREEMENT
+                             -----------------------
+
+      THIS SHAREHOLDERS' AGREEMENT (this "Agreement"), dated as of October 31,
+                                          ---------
+2001, is by and among Archstone-Smith Trust, a Maryland real estate investment
+trust ("Parent Trust"), Archstone-Smith Operating Trust, a Maryland real estate
+        ------------
+investment trust ("Operating Trust" and, together with Parent Trust, the
+                   ---------------
+"Company"), Robert H. Smith, an individual ("RHS"), and Robert P. Kogod, an
+ -------                                     ---
+individual ("RPK"; and, together with RHS, the "Shareholders").
+             ---                                ------------
+
+                                    RECITALS
+                                    --------
+
+      WHEREAS, Parent Trust, Operating Trust, Charles E. Smith Residential
+Realty, Inc., a Maryland corporation ("Skyline"), and Charles E. Smith
+                                       -------
+Residential Realty, L.P., a Delaware limited partnership (the "Skyline Operating
+                                                               -----------------
+Partnership"), have entered into an Agreement and Plan of Merger, dated as of
+-----------
+May 3, 2001 (the "Merger Agreement");
+                  ----------------
+
+      WHEREAS, the Company has determined that the preservation of a separate
+brand for the Skyline Division (as hereafter defined), will enable the Company
+to realize the benefits of Skyline's management experience and expertise
+regarding the high-rise residential apartment business and better serve the long
+term interests of the Company and its securityholders;
+
+      WHEREAS, pursuant to the Merger Agreement, it is contemplated that, among
+other things, the Shareholders will Beneficially Own (as hereafter defined)
+Common Shares (as hereafter defined);
+
+      WHEREAS, the Shareholders and the Company wish to record their
+understanding regarding certain matters relating to the management of the
+Company and certain other matters.
+
+      WHEREAS, it is a condition to the consummation of the transactions
+contemplated by the Merger Agreement that the parties hereto enter into this
+Agreement; and
+
+      NOW, THEREFORE, in consideration of the foregoing and the mutual
+agreements set forth herein and other good and valuable consideration, the
+receipt and sufficiency of which are hereby acknowledged, and intending to be
+legally bound hereby, the parties hereto agree as follows:
+
+      SECTION 1. Definitions. In addition to the capitalized terms defined
+                 -----------
+elsewhere in this Agreement, the following capitalized terms shall have the
+following meanings when used in this Agreement:
+
+      "Affiliate" means, with respect to any Person, any other Person which,
+       ---------
+directly or indirectly, controls, is controlled by or is under common control
+with such Person. The term "control" has the meaning ascribed to such term in
+Rule 405 of the Securities Act.
+
+      "Beneficial Owner" means any Person deemed to be a "beneficial owner" of a
+       ----------------
+security as defined in Rule 16a-1(a)(2) or Rule 13d-3(d)(1)(i) under the
+Exchange Act. The terms "Beneficially Own" and "Beneficial Ownership" have
+correlative meanings. A Person shall be
+
+<PAGE>
+
+deemed to Beneficially Own Common Shares for which Class A-1 shares of the
+Operating Trust Beneficially Owned by such Person may be exchanged.
+
+      "Board" means the Board of Trustees of Parent Trust.
+       -----
+
+      "Commission" means the Securities and Exchange Commission (or any other
+       ----------
+governmental body succeeding to the functions of the Securities and Exchange
+Commission).
+
+      "Common Shares" means common shares of beneficial interest of Parent
+       -------------
+Trust, $0.01 par value per share, or any voting stock of Parent Trust or any
+other Person that the Common Shares are hereafter converted into or exchanged
+for by reason of a merger, recapitalization or similar transaction.
+
+      "Company High Rise Business" means the high-rise residential apartment
+       --------------------------
+business conducted by the Company or any Subsidiary thereof, including the
+Skyline Business and any existing or future high-rise residential apartment
+business conducted by the Company or any Subsidiary thereof. Such high-rise
+residential apartment business shall include, but not be limited to, the
+acquisition, operation, leasing, development and management of such structures.
+
+      "EAG" has the meaning ascribed to such term in Section 2(c).
+       ---                                           ------------
+
+      "Exchange Act" means the Securities Exchange Act of 1934, as amended.
+       ------------
+
+      "Garden Apartments" means buildings having five (5) or fewer stories and
+       -----------------
+which are used primarily for multifamily for rent housing.
+
+      "High-rise Apartments" means buildings having in excess of eight (8)
+       --------------------
+stories and which are used primarily for multifamily for rent housing.
+
+      "Mental Disability" means, as reasonably determined in writing by Parent
+       -----------------
+Trust, the inability to perform each of the essential duties of such Person's
+position by reason of a medically determinable mental impairment which is
+permanent in character or which reasonably can be expected to last for a
+continuous period of six (6) months.
+
+      "Merger" has the meaning ascribed to such term in the Merger Agreement.
+       ------
+
+      "Merger Agreement" has the meaning ascribed to such term in the Recitals.
+       ----------------
+
+      "Mid-rise Apartments" means buildings having six (6), seven (7), or eight
+       -------------------
+(8) stories and which are used primarily for multifamily for rent housing.
+
+      "Permitted Transferee" means, with respect to any Person, (i) such
+       --------------------
+Person's Affiliates, (ii) such Person's spouse and descendants (whether natural
+or adopted) and any trust for the benefit of such Person and/or such Person's
+spouse and/or descendants or any entity controlled by such Person's spouse
+and/or descendants, and (iii) charitable foundations.
+
+      "Person" means any individual, corporation, proprietorship, firm,
+       ------
+partnership, limited partnership, limited liability company, trust, association
+or other entity.
+
+                                        2
+
+<PAGE>
+
+      "Physical Disability" means, as reasonably determined in writing by Parent
+       -------------------
+Trust, the inability to engage in any substantial gainful activity associated
+with such person's fiduciary or employment responsibilities by reason of a
+medically determinable physical impairment which has lasted or can reasonably be
+expected to last for a continuous period of not less than six (6) months. A
+Physical Disability shall not include a Mental Disability.
+
+      "RHS" has the meaning ascribed to such term in the Preamble.
+       ---
+
+      "RPK" has the meaning ascribed to such term in the Preamble.
+       ---
+
+      "Securities Act" means the Securities Act of 1933, as amended.
+       --------------
+
+      "Shareholder" has the meaning ascribed to such term in the Preamble.
+       -----------
+
+      "Shareholder Representative" shall have the meaning ascribed to such term
+       --------------------------
+in Section 2(b).
+   ------------
+
+      "Skyline Business" means all of the business and operations related to the
+       ----------------
+acquisition, ownership, operation, leasing, development or management of
+"high-rise residential real estate apartment business" conducted by Skyline, the
+Skyline Operating Partnership, or any of their Subsidiaries prior to the
+consummation of the Merger.
+
+      "Skyline Division" has the meaning ascribed to such term in Section 4(a).
+       ----------------                                           ------------
+
+      "Subsidiary" of any Person means any Affiliate controlled by such Person
+       ----------
+directly, or indirectly through one or more intermediaries.
+
+      "Successor Trustee" shall have the meaning ascribed to such term in
+       -----------------
+Section 2(b).
+------------
+
+      SECTION 2. Board of Trustees.
+                 -----------------
+
+      (a)   Nomination of Shareholders to Serve on the Board. Pursuant to the
+            ------------------------------------------------
+Merger Agreement, RHS and RPK will be elected as Class II and Class I trustees
+of the Board, respectively, as of the closing of the Merger. RHS shall serve as
+a Class II trustee until the annual meeting of shareholders of Parent Trust in
+2003 and until his successor is duly elected and qualifies. RPK shall serve as a
+Class I trustee until the annual meeting of shareholders of Parent Trust in 2002
+and until his successor is duly elected and qualifies. Subject to the terms of
+this Agreement, the Company agrees that, (i) for a period of ten (10) years from
+and after the date hereof, RHS shall have the right to nominate himself to serve
+as a trustee on the Board and (ii) for a period of ten (10) years from and after
+the date hereof, RPK shall have the right to nominate himself to serve as a
+trustee on the Board. Parent Trust shall take all actions necessary to cause the
+Board to nominate each such Shareholder and to recommend his election to the
+shareholders of Parent Trust. Parent Trust and each Shareholder agree to take
+all actions necessary so as to cause each such Shareholder to be elected to the
+Board, including, without limitation, the voting of its Common Shares and
+causing the vote of all Common Shares Beneficially Owned by such Shareholder,
+the execution of written consents, the calling of special meetings, the removal
+of trustees, the filling of vacancies on the Board, and the waiving of notice
+and the attending of meetings.
+
+                                        3
+
+<PAGE>
+
+      (b)   Death, Disability, Resignation, Removal, etc. So long as the
+            --------------------------------------------
+nomination right set forth in Section 2(a) remains in effect:
+                              ------------
+
+            (1) in the event of the Physical Disability, removal pursuant to
+                Parent Trust's declaration of trust, resignation or expiration
+                of the term of service on the Board of a Shareholder, such
+                Shareholder shall be entitled to nominate a Successor Trustee
+                instead of nominating himself pursuant to such Section 2(a) by
+                                                               ------------
+                delivering notice of such nomination to Parent Trust within 60
+                days after receipt by such Shareholder of notice of such
+                Physical Disability or removal, or within 60 days after such
+                resignation or the expiration of such Shareholder's term of
+                service;
+
+            (2) in the event of the death or Mental Disability of a Shareholder,
+                such Person's Shareholder Representative shall be entitled to
+                nominate a Successor Trustee pursuant to such Section 2(a) by
+                                                              ------------
+                delivering notice of such nomination to Parent Trust within 60
+                days after such Shareholder Representative receives notice of
+                the death or Mental Disability of such Shareholder;
+
+            (3) in the event of the death, Mental Disability, Physical
+                Disability, removal pursuant to Parent Trust's Declaration of
+                Trust, resignation or expiration of the term of service on the
+                Board of any Successor Trustee, the Shareholder or Shareholder
+                Representative who nominated such Successor Trustee, or if such
+                Shareholder is no longer living or has become subject to a
+                Mental Disability since making such nomination, then such
+                Person's Shareholder Representative shall be entitled to
+                nominate a new Successor Trustee pursuant to such Section 2(b)
+                                                                  ------------
+                by delivering notice of such nomination to Parent Trust within
+                60 days after such Shareholder or Shareholder Representative, as
+                the case may be, receives notice of such death, Mental
+                Disability, Physical Disability, removal, or resignation or
+                within 60 days after the expiration of such Successor Trustee's
+                term of service on the Board.
+
+Notwithstanding anything to the contrary in the foregoing, each Successor
+Trustee nominated by a Shareholder or any Shareholder Representative shall be
+subject to the reasonable approval of the Board.
+
+Any Successor Trustee shall be appointed by the remaining trustees then in
+office to serve any unexpired term of the subject Shareholder or Successor
+Trustee, as the case may be, or if such appointment is not permitted under
+applicable laws, shall be submitted to the shareholders of the Parent Trust for
+election pursuant to the Parent's Trust's declaration of trust and bylaws.
+Parent Trust agrees to take all actions necessary to nominate and to cause any
+such Successor Trustee to be elected in the same manner as provided in Section
+                                                                       -------
+2(a).
+----
+
+As used herein, the term "Shareholder Representative" means, with respect to a
+                          --------------------------
+designated Shareholder, the executor of the estate of such Shareholder, or the
+legal representative of such Shareholder, or such person as may be designated in
+writing by such Shareholder while competent or by such Shareholder's executor or
+legal representative upon such Shareholder's death or Mental Disability.
+"Successor Trustee" means any Person nominated by a Shareholder
+ -----------------
+
+                                        4
+
+<PAGE>
+
+or any Shareholder Representative under Section 2(a) who actually becomes a
+                                        ------------
+trustee on the Board.
+
+      (c)  Nomination of Third Person to Serve on the Board. Pursuant to the
+           ------------------------------------------------
+Merger Agreement, Ernest A. Gerardi, an individual ("EAG"), will be elected as a
+                                                     ---
+Class III trustee of the Board as of the closing of the Merger to serve until
+the annual meeting of shareholders of Parent Trust in 2004 and until his
+successor is duly elected and qualifies. In the event of the death, Mental or
+Physical Disability, resignation or removal pursuant to Parent Trust's
+Declaration of Trust of EAG during the initial term during which he is serving
+as a trustee on the Board, the Shareholders, acting unanimously (or, if either
+or both of the Shareholders are no longer serving as trustees on the Board, any
+then serving Shareholder Representative designated pursuant to Section 2(b)),
+                                                               ------------
+shall be entitled to notify Parent Trust within 60 days after notice of such
+death, Mental or Physical Disability, removal or resignation, of a successor
+nominee as trustee (which Person shall be reasonably acceptable to the Board)
+who shall be appointed by the remaining trustees then in office to serve the
+unexpired term of such trustee or, if such appointment is not permitted under
+applicable laws, be elected by the shareholders of Parent Trust pursuant to
+Parent Trust's declaration of trust and bylaws.
+
+      (d)  Term of Office. A trustee elected pursuant to this Section 2 shall
+           --------------                                     ---------
+serve until (i) his or her term expires as provided in Parent Trust's
+declaration of trust and bylaws, (ii) he or she is removed pursuant to Parent
+Trust's declaration of trust or (iii) his or her then-current term expires as
+provided in Parent Trust's declaration of trust and bylaws and the party who
+nominated such trustee no longer has the right to nominate a trustee pursuant to
+the provisions of this Section 2(a), in which case the Person so elected shall
+                       ------------
+no longer have the right to be nominated as a trustee on the Board, but the
+Board, in its discretion, may continue to nominate such Person as a trustee.
+
+      (e)  Limitation on Nominees. Notwithstanding the foregoing, a Shareholder
+           ----------------------
+or Shareholder Representative shall not have the right to nominate a Person to
+serve as a trustee on the Board (and any such Person shall immediately offer
+their unconditional resignation from the Board) if: (i) such Person is employed
+by, or has equity investment interests, directly or indirectly, in, any material
+competitor of the Company (unless such investment constitutes less than one-half
+of one percent (0.50%) of the equity ownership in a public company); (ii) such
+Person is not reasonably experienced in business, financial, or real estate
+industry matters; (iii) such Person has been convicted of, or has pled nolo
+contendere to, a felony; (iv) the election of such Person would violate any law;
+or (v) any event required to be disclosed pursuant to Item 401(f) of Regulation
+S-K of the Exchange Act (other than Item 401(f)(1)) has occurred with respect to
+such Person.
+
+      (f)  Compensation, Expense and Insurance. Except during a period when such
+           -----------------------------------
+Person is an officer or employee of the Company, RHS, RPK, EAG, and any
+Successor Trustee shall be entitled to fees and other compensation,
+participation in option, share or other benefit plans for which trustees are
+eligible, reimbursement of expenses, and trustees and officers liability
+insurance and indemnities on an equal basis with other members of Parent Trust's
+Board.
+
+      (g)  Size of Board. The current size of the Board is nine (9) members. So
+           -------------
+long as the Shareholders or Shareholder Representatives have the right to
+nominate one or more trustees
+
+                                        5
+
+<PAGE>
+
+pursuant to Section 2(a), Parent Trust's Board of Trustees shall consist of no
+            ------------
+more than ten (10) members; provided that the size of the Board may be increased
+beyond ten (10) members, in the sole discretion of the Board, in connection with
+any future mergers, acquisitions, business combinations or other strategic
+transactions of the Company, and the size of the Board may be increased beyond
+ten (10) members as may be required pursuant to the terms of any class or series
+of preferred shares of the Parent Trust. Additionally, the size of the Board may
+be increased beyond ten (10) members, in the sole discretion of the Board, other
+than in connection with any mergers, acquisitions, business combinations or
+other strategic transactions of the Company and other than as may be required
+pursuant to the terms of any class or series of preferred shares of the Parent
+Trust, only as follows:
+
+            (i)  if the Board desires to increase the size of the Board by one
+      additional member, then, at the time Board adds such additional member,
+      the Shareholders (and any Shareholder Representative), as a group, shall
+      be entitled to nominate one additional member at the same time the Board
+      adds the such additional member; and
+
+            (ii) thereafter, the Shareholders (and any Shareholder
+      Representatives), as a group, shall be entitled to nominate one additional
+      member for every second additional member added by the Board and at the
+      time thereof.
+
+Any additional Board members which the Shareholders (and any Shareholder
+Representatives), as a group, may be entitled to nominate under the foregoing
+provisions shall be subject to the reasonable approval of the Board and shall
+serve in the appropriate class as determined by the Board. In addition, the
+other provisions of Sections 2(a) and 2(b) shall apply to such nominees.
+                    -------------     ----
+
+      SECTION 3. Executive Committee of the Board. Parent Trust shall establish
+                 --------------------------------
+and maintain, in accordance with the bylaws of Parent Trust, an Executive
+Committee of the Board, the members of which shall include, for so long as they
+shall have the right to be nominated as trustees to the Board, the Persons
+originally nominated to the Board pursuant to Section 2(a) and their respective
+                                              ------------
+successors. In the event that the number of members on the Executive Committee
+is more than seven (7), the Shareholders (and any Shareholder Representative),
+as a group, then serving shall be entitled to designate the eighth member (at
+the time the ninth member is designated) and every third member thereafter (at
+the time the second member thereafter is designated) from among the trustees
+then serving on the Board of Trustees.
+
+      SECTION 4. Skyline Division.
+                 ----------------
+
+     (a) Conduct of Company High Rise Business. Effective upon the consummation
+         -------------------------------------
+of the Merger, the Company shall internally organize and establish a new
+administrative operating division (the "Skyline Division") through which the
+                                        ----------------
+Company shall conduct the Company High Rise Business in the same manner and on
+the same basis as the Company operates its "East Region" and "West Region". All
+High-rise Apartments and Mid-rise Apartments owned by Skyline as of the date of
+this Agreement will be operated through the Skyline Division under the name
+"Charles E. Smith Residential." All Garden Apartments owned by Skyline as of the
+date of this Agreement will be operated by such division and under such brand
+name as determined by the Chief Executive Officer of Parent Trust. Unless
+otherwise agreed in writing by the Shareholders (or any Shareholder
+Representative then serving), for a period of fifteen (15) years
+
+                                        6
+
+<PAGE>
+
+from and after the date hereof or until the earlier termination of this
+Agreement: (i) neither the Company nor any Subsidiary thereof shall conduct the
+Company High Rise Business except through the Skyline Division (other than as
+may be determined by the Chief Executive Officer of Parent Trust with respect to
+High Rise Apartments not described in the second sentence of this Section 4(a)),
+                                                                  -------------
+and (ii) the Company shall use the name "Charles E. Smith Residential" in the
+operation of all High-rise Apartments. As to any Mid-rise Apartments which the
+Company may hereafter acquire or develop, the Chief Executive Officer of Parent
+Trust will determine whether such assets should be operated as part of the
+Company's High Rise Business or as part of the Company's garden apartment
+business.
+
+      (b) Division Headquarters. Unless otherwise agreed to in writing by the
+          ---------------------
+Shareholders (and any Shareholder Representative then serving), the Company
+shall maintain the current headquarters of the Skyline Division in its current
+premises at 2345 Crystal Drive, Crystal Park #4, Arlington, Virginia 22202, for
+a period of fifteen (15) years from and after the date hereof or until the
+earlier termination of this Agreement; provided, however, that the Company shall
+not be obligated to use such offices in the event that the lease terms for such
+offices are not consistent with local market terms.
+
+      (c) Management.
+          ----------
+
+          (i)    Chairman. RHS shall serve as Chairman of the Skyline Division
+                 --------
+      commencing upon the consummation of the Merger. RHS shall be considered an
+      employee of the Company. As Chairman of the Skyline Division, RHS shall
+      have such responsibilities as may be determined from time to time by the
+      Board. RHS shall be entitled to receive the compensation set forth on
+      Schedule B attached hereto.
+      ----------
+
+          (ii)   Officers. The Skyline Division shall be operated under the
+                 --------
+      direction of a President--Charles E. Smith Residential Division (or such
+      other title as the Board may determine), in the discretion of the Board.
+      Such officer shall have general responsibility for the management of the
+      business and affairs of the Skyline Division, subject to the supervision
+      and control of the Chief Executive Officer of Parent Trust and the Board.
+      Such officer shall work out of the headquarters described above. The
+      initial Person serving as such officer shall be W.D. Minami. Such officer
+      shall be elected annually by the Board at the first meeting of the Board
+      held after each annual meeting of shareholders of Parent Trust and shall
+      hold office until his or her successor is elected and qualifies or until
+      his or her death, resignation or removal in the manner provided in Parent
+      Trust's declaration of trust and bylaws. The Chief Executive Officer of
+      Parent Trust will consult with the Chairman of the Skyline Division
+      regarding any replacement of such officer. RPK shall be entitled to the
+      compensation and the parties acknowledge that EAG will receive the
+      compensation each as set forth on Schedule B attached hereto.
+                                        ----------
+
+      SECTION 5. Transfer Restrictions. Each of RHS and RPK hereby agree that,
+                 ---------------------
+for a period of three (3) years from and after the date hereof, they shall not,
+and shall cause their Affiliates to not, directly or indirectly, sell, transfer,
+assign, gift, pledge, encumber, hypothecate, mortgage, exchange or otherwise
+dispose of (whether by operation of law or otherwise) ("transfer") any Common
+Shares (or securities convertible into or exchangeable for Common Shares)
+Beneficially Owned by such Person, other than to a Permitted Transferee;
+provided, that
+--------
+
+                                        7
+
+<PAGE>
+
+to exercise any rights or receive any benefits hereunder, any such Permitted
+Transferee must agree in writing to be bound by the terms of this Agreement.
+Notwithstanding the foregoing, (i) during such period commencing on the first
+anniversary of the effectiveness of the Merger and terminating on the second
+anniversary thereof, RHS and RPK and their Affiliates, together shall be
+permitted to transfer an aggregate of 400,000 Common Shares (including
+securities convertible into or exchangeable for Common Shares) and (ii) during
+such period commencing on the first anniversary of the effectiveness of the
+Merger and terminating on the third anniversary thereof, RHS and RPK and their
+Affiliates, together shall be permitted to transfer an aggregate of 800,000
+Common Shares (or securities convertible into or exchangeable for Common Shares)
+including any Common Shares transferred pursuant to clause (i). Notwithstanding
+any provision of this Section 5, RHS and RPK and their Affiliates shall be
+                      ---------
+permitted to transfer any Common Shares (including securities convertible into
+or exchangeable for Common Shares) Beneficially Owned by such Person to (i) any
+existing or future lender to whom Common Shares Beneficially Owned by such
+Person are pledged, hypothecated, mortgaged or encumbered pursuant to a bona
+fide financing incurred for investment or other valid business purposes upon
+customary commercial terms, and (ii) any Person to whom such shares are
+transferred upon foreclosure, or in lieu of foreclosure of any loan contemplated
+by the provisions of the preceding clause (i).
+
+     SECTION 6. Limitation on Sale of Certain Properties. Without the prior
+                ----------------------------------------
+written consent of the Shareholders, including any then serving Shareholder
+Representative, for a period of fifteen (15) years from and after the date
+hereof, the Company shall not, and shall cause its Subsidiaries to not, directly
+or indirectly, transfer any interest (legal, beneficial or other) in any of the
+properties identified on Schedule A hereto other than pursuant to a transaction
+                         ----------
+in which all of the interests of the Company and its Subsidiaries in such
+properties are transferred to a Person not Affiliated with the Company and other
+than pursuant to a bona fide mortgage of any or all of such properties to secure
+a loan or other financing of the Company or its Subsidiaries upon customary
+commercial terms. The obligations of the Company under this Section 6 are
+                                                            ---------
+separate and independent of, and in addition to, the obligations of the Company
+under Exhibit D-1 to Annex A of the declaration of trust of Operating Trust.
+
+     SECTION 7. Representations and Warranties of Company. The Company
+                -----------------------------------------
+represents and warrants to the Shareholders and EAG that:
+
+     (a) The Company has all necessary trust power and authority to execute and
+deliver this Agreement and to perform its obligations hereunder. The execution
+and delivery of this Agreement by the Company and the performance of its
+obligations hereunder have been duly and validly authorized by the Company, and
+no other proceedings on the part of the Company are necessary to authorize the
+execution and delivery of this Agreement or to perform such obligations except
+approval of Parent Trust's Board of a resolution increasing the size of Parent
+Trust Board as provided herein and election of RHS, RPK and EAG as provided
+herein. This Agreement has been duly and validly executed and delivered by the
+Company and, assuming the due authorization, execution and delivery hereof by
+each other party hereto, constitutes a legal, valid and binding obligation of
+the Company enforceable against the Company in accordance with its terms.
+
+                                       8
+
+<PAGE>
+
+     (b) The execution and delivery of this Agreement by the Company do not, and
+the performance of this Agreement by the Company will not, (i) conflict with or
+violate the declaration of trust or bylaws of the Company, (ii) conflict with or
+violate any law, rule, regulation, order, judgment or decree applicable to the
+Company or by which any of the Company's property may be bound or (iii) result
+in any breach of or constitute a default (or an event that with notice or lapse
+of time or both would become a default) under, or give to others any rights of
+termination, amendment, acceleration or cancellation of, or result in the
+creation of a lien on any of the Company's properties pursuant to, any note,
+bond, mortgage, indenture, contract, agreement, lease, license, permit,
+franchise or other instrument or obligation to which the Company is a party or
+by which the Company or the Company's properties are bound or affected, except,
+in the case of clauses (ii) and (iii), for any such conflicts, violations,
+breaches, defaults or other occurrences which would not prevent or materially
+impair or delay the performance by the Company of its obligations under this
+Agreement.
+
+     (c) The execution and delivery of this Agreement by the Company do not, and
+the performance of this Agreement by the Company will not, require any consent,
+approval, authorization or permit of, or filing with or notification to, any
+federal, state, local or foreign regulatory body, except (i) where the failure
+to obtain such consents, approvals, authorizations or permits, or to make such
+filings or notifications, would not prevent or materially impair or delay the
+performance by the Company of the Company's obligations under this Agreement,
+and (ii) filings with the Securities and Exchange Commission under the Exchange
+Act.
+
+     SECTION 8.  Termination. Notwithstanding anything to the contrary contained
+                 -----------
+in this Agreement, this Agreement shall terminate and be of no further force or
+effect (i) with respect to RHS and any RHS Representative, at such time as RHS
+and his Permitted Transferees described in clauses (i) and (ii) of the
+definition thereof, in the aggregate, Beneficially Own less than one million
+(1,000,000) Common Shares (including securities convertible into or exchangeable
+for Common Shares), and (ii) with respect to RPK and any RPK Representative, at
+such time as RPK and his Permitted Transferees described in clauses (i) and (ii)
+of the definition thereof, in the aggregate, Beneficially Own less than one
+million (1,000,000) Common Shares (including securities convertible into or
+exchangeable for Common Shares). For purposes of this Section 8, the minimum
+ownership amounts contained above in order for this Agreement to remain valid
+shall be adjusted appropriately to reflect any subdivision or combination of
+Common Shares (including securities convertible into or exchangeable for Common
+Shares) and any adjustments arising as a result of any reorganization,
+reclassification or similar Company events occurring during the term of this
+Agreement,
+
+     SECTION 9.  Acknowledgments. Each of the parties hereto acknowledges that
+                 ---------------
+the rights, restrictions, prohibitions and other provisions hereof are
+reasonable, fair and equitable in scope, terms and duration, are necessary to
+protect the legitimate business interests of each of the other parties hereto,
+and are a material inducement to such party to enter into the transactions
+contemplated by this Agreement and the Merger Agreement.
+
+     SECTION 10. Remedies. The obligations of the parties hereto are unique. The
+                 --------
+parties agree that irreparable damage would occur in the event that any of the
+provisions of this Agreement were not performed in accordance with their
+specific terms or were otherwise breached. The parties acknowledge that it would
+be extremely difficult or impracticable to
+
+                                        9
+
+<PAGE>
+
+measure the resulting damages caused by any breach of this Agreement and that no
+adequate remedy at law exists for a breach of such covenants. It is accordingly
+agreed that the parties shall be entitled to an injunction or injunctions
+(including preliminary and permanent relief) to prevent breaches of this
+Agreement and to enforce specifically the terms and provisions of this
+Agreement. Each of the parties hereto (a) consents to submit itself (without
+making such submission exclusive) to the personal jurisdiction of any federal
+court located in Maryland or any state court located in Maryland in the event
+any dispute arises out of this Agreement or any of the transactions contemplated
+by this Agreement and (b) agrees that it will not attempt to deny or defeat such
+personal jurisdiction by motion or other request for leave from any such court.
+The remedies provided in this Agreement shall be cumulative and shall not
+preclude the assertion or exercise of any other rights or remedies available by
+law, in equity or otherwise.
+
+     SECTION 11. Attorneys' Fees. In any action to enforce the terms of this
+                 ---------------
+Agreement, the prevailing party shall be entitled to recover its attorneys' fees
+and court costs and other nonreimbursable litigation expenses, such as expert
+witness fees and investigation expenses.
+
+     SECTION 12. Notices. Any notice, request, instruction or other document to
+                 -------
+be given hereunder shall be in writing and shall be deemed to have been given
+(a) when received if given in person or by courier or a courier service, (b) on
+the date of transmission if sent by facsimile or other wire transmission or (c)
+three business days after being deposited in the U.S. mail, certified or
+registered mail, postage prepaid, addressed as specified as specified below or
+to such other individual or address as a party hereto may designate for itself
+by notice given as herein provided:
+
+                  If to the Company:
+
+                  Archstone Communities Trust
+                  7670 South Chester Street
+                  Suite 100
+                  Englewood, Colorado  80112
+                  Attention:    General Counsel
+                  Telephone:    (303) 708-5949
+                  Facsimile:    (303) 858-0021
+
+                  With a copy to:
+
+                  Mayer, Brown & Platt
+                  190 S. LaSalle Street
+                  Chicago, Illinois 60603
+                  Attention:    Edward J. Schneidman
+                                Michael T.  Blair
+                  Telephone:    (312)701-7832
+                  Facsimile:    (312) 701-7711
+
+                                       10
+
+<PAGE>
+
+            If to RHS:
+
+            Robert H. Smith
+            Waterford House
+            1200 Crystal Drive
+            Arlington, VA 22102
+            Telephone:   (703) 416-2453
+
+            With a copy to:
+
+            Hogan & Hartson, LLP
+            555 Thirteenth Street, NW
+            Washington, DC 20004
+            Attention:   J. Warren Gorrell, Jr.
+                         Bruce W. Gilchrist
+            Telephone:   (202) 637-5600
+            Facsimile:   (202) 637-5910
+
+            If to RPK:
+
+            Robert P. Kogod
+            2929 Massachusetts Avenue
+            Washington, D.C. 20008
+            Telephone:   (202) 462-2929
+            Facsimile:   (202) 232-3162
+
+            With a copy to:
+
+            Hogan & Hartson LLP
+            555 Thirteenth Street, NW
+            Washington, DC 20004
+            Attention:   J. Warren Gorrell, Jr.
+                         Bruce W. Gilchrist
+            Telephone:   (202) 637-5686
+            Facsimile:   (202) 637-5910
+
+     SECTION 13. Amendments and Waivers. The provisions of this Agreement may be
+                 ----------------------
+amended or waived only upon the written agreement of Parent Trust, the Operating
+Trust and each of the Shareholders (or any Shareholder Representative then
+serving). Any waiver, permit, consent or approval of any kind or character of
+any provision or condition of this Agreement must be made in writing and shall
+be effective only to the extent specifically set forth in writing. Any amendment
+or waiver effected in accordance with this Section 13 shall be binding upon the
+                                           ----------
+Company and each Shareholder, including any then serving Shareholder
+Representative. Any determination by the Company pursuant to this Section 13
+                                                                  ----------
+shall be made by Parent Trust acting by the vote of a majority of the members of
+the Board, not including EAG or any member of the Board that was nominated by
+the Shareholders or any Shareholder Representative.
+
+                                       11
+
+<PAGE>
+
+     SECTION 14. Successors and Assigns. All covenants and agreements in this
+                 ----------------------
+Agreement by or on behalf of any of the parties hereto shall bind and inure to
+the benefit of the respective successors of the parties hereto (including any
+Shareholder Representative then serving), whether so expressed or not. Except as
+may arise hereunder in connection with the exercise of any rights hereunder by
+any Shareholder Representative, the rights of RHS and RPK hereunder shall not be
+assignable.
+
+     SECTION 15. Severability. Whenever possible, each provision of this
+                 ------------
+Agreement shall be interpreted in such manner as to be effective and valid under
+applicable law, but if any provision of this Agreement is held to be prohibited
+by or invalid under applicable law, such provision shall be ineffective only to
+the extent of such prohibition or invalidity, and the remainder of this
+Agreement shall remain operative and in full force and effect. The parties shall
+negotiate in good faith a replacement clause or provision as consistent with the
+ineffective clause or provision as is practicable under law.
+
+     SECTION 16. Governing Law. THIS AGREEMENT SHALL BE GOVERNED BY AND
+                 -------------
+CONSTRUED IN ACCORDANCE WITH THE LAWS OF THE STATE OF MARYLAND, WITHOUT REGARD
+TO THE PRINCIPLES OF CONFLICTS OF LAWS.
+
+     SECTION 17. Entire Understanding. This Agreement sets forth the entire
+                 --------------------
+agreement and understanding of the parties hereto with respect to the matters
+set forth herein and supersedes any and all prior agreements, arrangements and
+understandings among the parties.
+
+     SECTION 18. Execution in Counterparts. This Agreement may be executed in
+                 -------------------------
+any number of counterparts, each of which when so executed and delivered shall
+be deemed an original, and such counterparts together shall constitute one
+instrument. Transmission by facsimile of an executed counterpart of this
+Agreement shall constitute due and sufficient delivery of this Agreement.
+
+     SECTION 19. Interpretation. The headings preceding the Sections included in
+                 --------------
+this Agreement and the headings to Exhibits and Schedules attached to this
+Agreement are for convenience only and shall not be deemed part of this
+Agreement or be given any effect in interpreting this Agreement. The use of the
+masculine, feminine or neuter gender herein shall not limit any provision of
+this Agreement. The use of the terms "including" or "include" shall in all cases
+herein mean "including, without limitation" or "include, without limitation",
+respectively. Underscored references to Sections or Schedules shall refer to
+those portions of this Agreement.
+
+     SECTION 20. No Third Party Beneficiaries. Except as otherwise expressly set
+                 ----------------------------
+forth herein, this Agreement is solely for the benefit of the parties hereto
+(including any Shareholder Representative then serving) and no provision of this
+Agreement shall be deemed to confer upon other third parties any remedy, claim,
+liability, reimbursement, cause of action or other right.
+
+     SECTION 21. Waiver of Jury Trial. TO THE EXTENT PERMITTED BY APPLICABLE
+                 --------------------
+LAW, THE PARTIES HEREBY IRREVOCABLY WAIVE ANY AND ALL RIGHT TO TRIAL BY JURY IN
+ANY LEGAL PROCEEDING ARISING OUT OF OR RELATING TO THIS AGREEMENT OR THE
+TRANSACTIONS CONTEMPLATED HEREBY.
+
+                                       12
+
+<PAGE>
+
+     SECTION 22. No Presumption Against Drafter. Each of the parties hereto has
+                 ------------------------------
+jointly participated in the negotiation and drafting of this Agreement. In the
+event of any ambiguity or a question of intent or interpretation arises, this
+Agreement shall be construed as if drafted jointly by each of the parties hereto
+and no presumptions or burdens of proof shall arise favoring any party by virtue
+of the authorship of any of the provisions of this Agreement.
+
+     SECTION 23. Limitation of Liability. Any obligation or liability whatsoever
+                 -----------------------
+of the Company which may arise at any time under this Agreement or any
+obligation or liability which may be incurred by it pursuant to any other
+instrument, transaction or undertaking contemplated hereby shall be satisfied,
+if at all, out of the Company's assets only. No such obligation or liability
+shall be personally binding upon, nor shall resort for the enforcement thereof
+be had to, the property of any of its shareholders, trustees, officers,
+employees or agents, regardless of whether such obligation or liability is in
+the nature of contract, tort or otherwise.
+
+     SECTION 24. Joint and Several Obligations. The obligations of the Company
+                 -----------------------------
+hereunder shall be joint and several obligations of Parent Trust and Operating
+Trust.
+
+                  [Remainder of page intentionally left blank]
+
+                                       13
+
+<PAGE>
+
+
+     IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be
+executed and delivered as of the date first above written.
+
+                                        ARCHSTONE-SMITH TRUST
+
+
+                                        By: /s/ Caroline Brower
+                                            -------------------
+                                        Name: Caroline Brower
+                                        Title:  Senior Vice President
+
+                                        ARCHSTONE-SMITH OPERATING TRUST
+
+                                        By: /s/ Caroline Brower
+                                            -------------------
+                                        Name: Caroline Brower
+                                        Title:  Senior Vice President
+
+                                        /s/ Robert H. Smith
+                                        -------------------
+                                        Robert H. Smith
+
+                                        /s/ Robert P. Kogod
+                                        -------------------
+                                        Robert P. Kogod
+
+<PAGE>
+
+                                   SCHEDULE A
+                                   ----------
+
+                               LIST OF PROPERTIES
+
+The Bennington
+Crystal House I
+Crystal House II
+Crystal Square
+Crystal Place
+Gateway Place
+Water Park Towers
+Crystal Plaza
+Crystal Towers
+Parc Vista
+
+
+<PAGE>
+
+                                   SCHEDULE B
+                                   ----------
+
+                     COMPENSATION TERMS FOR RHS, RPK AND EAG
+
+RHS:
+----
+
+Salary
+
+         Base salary of a minimum of $300,000 for each year during employment,
+         with the amount for each year after the first year to be determined by
+         the Board.
+
+Bonus
+
+         Annual bonus of a minimum of $150,000 for each year during employment,
+         with the amount of bonus payable for each year after the first year to
+         be determined by the Board.
+
+Options
+
+         Base option level of 100,000 Common Shares for each year during the
+         term of employment. The number of option shares to be awarded in each
+         of December 2002, 2003 and 2004, whether or not RHS is then employed,
+         will equal the product of 100,000 Common Shares times a percentage
+         (which may be greater or less than 100%) equal to the number of options
+         actually granted to the Chief Executive Officer of Parent Trust for
+         such year divided by the base option level applicable to the Chief
+         Executive Officer for that year. For example, if the base option level
+         of the Chief Executive Officer for a year is 125,000 and he is actually
+         awarded 250,000 option shares, then RHS will receive an award of
+         100,000 times 200% or 200,000 option shares. The terms of the options
+         will be generally the same as those granted to other executive officers
+         of Parent Trust.
+
+Other Benefits
+
+         Participation in other benefit programs generally made available to
+         officers of Parent Trust.
+
+
+RPK:
+----
+
+Salary
+
+         Base salary of a minimum of $150,000 for each year during employment,
+         with the amount for each year after the first year to be determined by
+         the Board.
+
+Other Benefits
+
+         Participation in other benefit programs generally made available to
+         officers of Parent Trust.
+
+<PAGE>
+
+EAG:
+----
+
+Salary
+
+         Base salary from CESI of a minimum of $200,000 for each year during
+         employment, with the amount for each year after the first year to be
+         determined by the Board of CESI.
+
+Bonus
+
+         Annual bonus each year during employment to be determined by the Board
+         of CESI.
+
+Other Benefits
+
+         Participation in other benefit programs generally made available to
+         officers of CESI. Continuation of existing company-provided apartment
+         and whole life policy.
+
+                                       17
+
+</TEXT>
+</DOCUMENT>

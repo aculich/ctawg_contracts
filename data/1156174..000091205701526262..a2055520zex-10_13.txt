@@ -1,0 +1,101 @@
+<DOCUMENT>
+<TYPE>EX-10.13
+<SEQUENCE>18
+<FILENAME>a2055520zex-10_13.txt
+<DESCRIPTION>EXHIBIT 10.13
+<TEXT>
+<Page>
+
+
+        Gas Management Agreement for Purchase and Delivery of Natural Gas
+
+1.    This Agreement is made and entered this ____ day of August, 2000, to be
+effective on the Wentworth ethanol plant site start-up assumed to be mid-year
+2001, by and between NorthWestem Energy, a division of NorthWestem Services
+Group ("Northwestern") and Dakota Ethanol - LLC ("Customer") for the purchase
+and delivery of natural gas at the existing interconnection between the
+facilities of NorthWestem Public Service, a division of Northwestern Corporation
+("NPS") and Northern Natural Gas Company ("NNG"), located near Madison, South
+Dakota, or a future alternate delivery point.
+
+2.    Maximum Daily Quantity       (estimated) (1)       45,000 therms per day
+
+3.    Average Daily Quantity       (estimated) (1)       42,000 therms per day
+
+4.    Twelve Month Quantity        (estimated) (1)       11,150,000 therms
+
+      (1) ______ Northwestern and Customer agree that the above stated
+      volumes are estimates. Plant volumes may change from time to time and
+      future expansion may occur prior to the end of this contract term.
+      Nonetheless, Northwestern agrees to offer the same prices as stated in
+      Section 6. below.
+
+5.    Service: Firm TBS Gas Supply and Management.
+
+6.    Price:  (Indexed Pace Option)
+      COMMODITY CHARGES:
+      Gas supply charge (2)             Per therm equivalent price as reported
+                                        in the first of the month issue of
+                                        INSIDE  F.E.R.C. GAS MARKET  REPORT for
+                                        NNG - Ventura  published  for the month
+                                        of use,  plus the  following related
+                                        services:
+
+      (a) Pipeline firm capacity        Per therm equivalent charge at 30% of
+                                        NNG's maximum TFX reservation rate
+                                        applicable for the month, inclusive of
+                                        all reservation charge surcharges
+                                        imposed by NNG. The above rate will be
+                                        converted to a 100% load factor
+                                        commodity charge.
+
+      (b) Pipeline firm commodity       Per therm equivalent charge in NNG's
+                                        tariff.
+
+      (c) Carlton surcharge             Per therm equivalent charge in NNG's
+                                        tariff.
+
+      (d) Pipeline fuel retention
+                                        Gross-up for pipeline fuel based on the
+                                        percentage for mainline fuel in NNG's
+                                        tariff.
+
+      Distribution delivery service     Service is provided directly to
+                                        Customer by NPS.
+
+<Page>
+
+      Balancing service                 Customer will provide nominations to
+                                        Northwestern and obtain own balancing
+                                        service.
+
+      PLUS APPLICABLE SALES TAXES
+
+      (2) ______ Gas supply charge can be converted to a fixed price for any
+      month, at desired quantity of therms, at any time during the contract
+      term.
+
+7. ___Term: ______ Date of initial plant start-up through October 31, 2003.
+
+8. ___Billing and Payment: _______ NorthWestern shall use reasonable
+efforts to render invoices on or before the tenth (10th) day of each month for
+all gas commodity and monthly customer charges applicable to gas deliveries to
+the Customer in the preceding month. Customer shall pay NorthWestern on or
+before the twenty-fifth (25th) day of each month for all charges reflected on
+the invoice rendered by NorthWestern in the current month.
+
+DAKOTA ETHANOL - LLC                     NORTHWESTERN ENERGY, A DIVISION OF
+                                         NORTHWESTERN SERVICES GROUP
+
+By /s/ Jeff Broin                        By /s/ Thomas P. Hitchcock
+  -------------------------                ------------------------------------
+
+Title Vice Chairman                      Title Vice President
+     ----------------------                   ---------------------------------
+
+
+         GAS MANAGEMENT: Initial Plant Start-up through October 31, 2003
+                            SUPPLY ID # S.D. 2000-08
+
+</TEXT>
+</DOCUMENT>

@@ -1,0 +1,1535 @@
+<DOCUMENT>
+<TYPE>EX-2.1
+<SEQUENCE>3
+<FILENAME>doc2.txt
+<TEXT>
+<PAGE>
+
+EXHIBIT 2.1
+
+                                MERGER AGREEMENT
+
+
+===============================================================================
+
+
+
+
+
+
+                          AGREEMENT AND PLAN OF MERGER
+
+                                     BETWEEN
+
+
+                         HY-TECH TECHNOLOGY GROUP, INC.
+                             A DELAWARE CORPORATION
+
+
+                                       AND
+
+
+                                 SANJAY HARYAMA
+                              A WYOMING CORPORATION
+
+
+
+
+
+
+
+
+
+
+
+===============================================================================
+
+<PAGE>
+
+                         LIST OF SCHEDULES AND EXHIBITS
+                                       TO
+                          AGREEMENT AND PLAN OF MERGER
+
+
+         SCHEDULES
+
+         Schedule 2.1      List of SH Shareholders and Debenture Holders and
+                           Company Common Stock and Company Debenture to be
+                           Received
+
+         Schedule 4.1(a)   Company Subsidiaries
+
+         Schedule 4.1(b)   Company Conflicts
+
+         Schedule 4.1(c)   Company Capitalization
+
+         Schedule 4.1(g)   Issuance of Company Securities
+
+         Schedule 4.1(i)   Company Taxes
+
+         Schedule 4.1(l)   Company Legal Proceedings
+
+         Schedule 4.1(m)   Company Changes or Events
+
+         Schedule 4.2(d)   SH Financial Statements
+
+         Schedule 4.2(i)   SH Legal Proceedings
+
+         Schedule 4.2(g)   SH Liabilities
+
+
+
+         EXHIBITS
+
+         Exhibit 2.1(c)    Company Debenture
+
+         Exhibit 2.2(a)    Escrow Agreement
+
+         Exhibit 2.2(b)    Conversion Procedures
+
+         Exhibit 6.1(a)    Company Certified Resolutions
+
+         Exhibit 6.1(b)    Opinion of Counsel to Hy-Tech Technology Group, Inc.
+
+         Exhibit 6.1(c)    Opinion of Hand & Hand re Rule 504
+
+         Exhibit 6.1(d)    Hy-Tech Technology Group, Inc. `s Counsel's
+                           Instruction Letter to Transfer Agent
+
+         Exhibit 6.1(f)    Company Officer's Certificate
+
+         Exhibit 6.2(a)    SH Certified Resolutions
+
+         Exhibit 6.2(b)    Opinion of Hand & Hand
+
+         Exhibit 6.2(c)    Opinion of Hand & Hand re Rule 504
+
+         Exhibit 6.2(e)    SH Officer's Certificate
+
+
+                                       2
+<PAGE>
+
+
+
+                  AGREEMENT AND PLAN OF MERGER (this  "Agreement"),  dated as of
+April 21,  2003,  by and between  HY-Tech  Technology  Group,  Inc.,  a Delaware
+corporation (the "Company"), and Sanjay Haryama, a Wyoming corporation ("SH").
+
+                                    RECITALS
+
+                  WHEREAS,  the  Company and SH desire to merge SH with and into
+the Company  whereby the Company shall be the surviving  entity  pursuant to the
+terms and conditions set forth herein and whereby the transaction  shall qualify
+as a tax free exchange pursuant to Section 351 of the Internal Revenue Code (the
+"IRC");
+
+                  WHEREAS,  in  furtherance of such  combination,  the Boards of
+Directors  of the  Company and SH have each  approved  the merger of SH with and
+into the Company (the  "Merger"),  upon the terms and subject to the  conditions
+set forth herein,  in accordance with the applicable  provisions of the Delaware
+General  Corporation  Law  (the  "DGCL"),  in the case of the  Company,  and the
+Wyoming Business Corporation Act (the "WBCA"), in the case of SH;
+
+                  WHEREAS,  the  shareholder of SH desire to exchange all of its
+shares of the  capital  stock of SH (the "SH  Capital  Stock") for shares of the
+capital  stock of the  Company  (the  "Company  Capital  Stock") as set forth in
+Schedule 2.1 hereto as a tax free  exchange  pursuant to Section 351 of the IRC;
+and
+
+                  WHERAS, the holder of SH's 1% Convertible  Debenture Due April
+20, 2008 in the principal  amount of One Million Dollars  ($1,000,000)  (the "SH
+Debenture") desires to exchange the SH Debenture for the Company's 1%Convertible
+Debenture in the principal  amount of One Million Dollars  ($1,000,000)  annexed
+hereto as Exhibit 2.1(c) (the "Company  Debenture"),  which company Debenture is
+convertible into shares of the Company's common stock, par value $.001 per share
+(the "Company Common Stock") (the "Company Underlying Shares"), and as set forth
+in  Schedule  2.1 hereto as a tax free  exchange  pursuant to Section 351 of the
+IRC; and
+
+                  WHEREAS,  all defined terms used herein not otherwise  defined
+herein  shall  have the  meanings  ascribed  to such  terms  in the  Convertible
+Debenture  Purchase Agreement dated even date herewith between SH and HEM Mutual
+Assurance LLC (the "Purchase Agreement").
+
+                  NOW,  THEREFORE,  in  consideration  of the  foregoing and the
+mutual covenants and agreements  herein  contained,  and intending to be legally
+bound hereby, the parties agree as follows:
+
+                                    ARTICLE I
+
+                                   THE MERGER
+
+                  1.1 THE MERGER. At the Effective Time (as hereinafter defined)
+and subject to and upon the terms and conditions of this Agreement, the DGCL and
+the WBCA,  SH shall be merged with and into the Company  pursuant to the Merger.
+
+                                       3
+<PAGE>
+
+Following the Merger,  the Company shall  continue as the surviving  corporation
+(the "Surviving  Corporation") and the separate corporate  existence of SH shall
+cease. As part of the Merger and as more fully described in Section 2.1, (i) the
+One Thousand  (1,000) issued and  outstanding  shares of the SH common stock, no
+par value (the "SH Common  Stock") shall be exchanged  for One Thousand  (1,000)
+shares of the  Company  Common  Stock and (ii) the  issued  and  outstanding  SH
+Debenture shall be exchanged for the Company Debenture.
+
+                  1.2  EFFECTIVE  TIME.  The  Merger  shall  be  consummated  as
+promptly as practicable  after  satisfaction of all conditions to the Merger set
+forth  herein,  by filing with the  Secretary of State of the States of Delaware
+and Wyoming a certificate  of merger and articles of merger  (collectively,  the
+"Articles  of  Merger"),  respectively,  and all  other  appropriate  documents,
+executed in  accordance  with the relevant  provisions of the DGCL and the WBCA.
+The Merger shall become effective upon the filing of the Articles of Merger. The
+time of such filing shall be referred to herein as the "Effective Time."
+
+                  1.3  EFFECTS OF THE MERGER.  At the  Effective  Time,  all the
+rights, privileges,  immunities, powers and franchises of the Company and SH and
+all  property,  real,  personal  and  mixed,  and every  other  interest  of, or
+belonging  to or due to each of the Company  and SH shall vest in the  Surviving
+Corporation,  and all debts, liabilities,  obligations and duties of the Company
+and SH, including,  without  limitation,  the performance of all obligations and
+duties of SH pursuant to the Purchase Agreement and the exhibits,  schedules and
+all documents executed in connection therewith or any other Transaction Document
+(as defined in the Purchase  Agreement),  shall  become the debts,  liabilities,
+obligations and duties of the Surviving Corporation without further act or deed,
+all in the  manner  and to the full  extent  provided  by the DGCL and the WBCA.
+Whenever a conveyance,  assignment, transfer, deed or other instrument or act is
+necessary  to vest  any  property  or right in the  Surviving  Corporation,  the
+directors and officers of the respective constituent corporations shall execute,
+acknowledge  and  deliver  such  instruments  and perform  such acts,  for which
+purpose the separate existence of the constituent corporations and the authority
+of their respective  directors and officers shall continue,  notwithstanding the
+Merger.
+
+                  1.4   CERTIFICATE  OF   INCORPORATION.   The   Certificate  of
+Incorporation of the Company,  as in effect  immediately  prior to the Effective
+Time, shall be the Certificate of Incorporation of the Surviving Corporation and
+thereafter  may be  amended  or  repealed  in  accordance  with  its  terms  and
+applicable law.
+
+                  1.5  BY-LAWS.  At the  Effective  Time and without any further
+action on the part of the Company  and SH, the  By-laws of the Company  shall be
+the  By-laws  of the  Surviving  Corporation  and  thereafter  may be amended or
+repealed in accordance with their terms or the Certificate of  Incorporation  of
+the Surviving Corporation and as provided by law.
+
+                  1.6  DIRECTORS.  The directors of the Company at the Effective
+Time shall be the directors of the Surviving  Corporation,  until the earlier of
+their  resignation  or removal or until  their  respective  successors  are duly
+elected and qualified, as the case may be.
+
+                                       4
+<PAGE>
+
+                  1.7  OFFICERS.  The  officers of the Company at the  Effective
+Time shall be the officers of the  Surviving  Corporation,  until the earlier of
+their  resignation  or removal or until  their  respective  successors  are duly
+appointed and qualified, as the case may be.
+
+                  1.8  TAX-FREE  REORGANIZATION.  The  parties  intend  that the
+Merger  shall be treated as a tax-free  exchange  pursuant to Section 351 of the
+Internal Revenue Code of 1986, as amended (the "Code").  No party shall take any
+action or fail to take any action that would  adversely  affect the treatment of
+the Merger as a tax-free exchange.
+
+                                   ARTICLE II
+
+                       CONVERSION OF SHARES AND DEBENTURES
+
+                  2.1      EXCHANGE AND CANCELLATION OF SH COMMON STOCK AND SH
+DEBENTURE.
+
+                  (a) All One Thousand (1,000) issued and outstanding  shares of
+the SH Common Stock (the "SH Common Stock Shares") outstanding immediately prior
+to the Effective Time shall, by virtue of the Merger, be exchanged, on a one for
+one basis, in accordance with Schedule 2.1 hereof, for One Thousand (1,000) duly
+issued,  fully paid and  nonassessable,  shares of the Company Common Stock (the
+"Company  Common Stock  Shares"),  whereupon the SH Common Stock Shares shall be
+cancelled.
+
+                  (c) The SH  Debenture  outstanding  immediately  prior  to the
+Effective  Time shall,  by virtue of the Merger,  be  exchanged  for the Company
+Debenture,  whereupon the SH Debenture shall be cancelled. The Company Debenture
+shall be identical in all material  respects to the SH  Debenture.  By virtue of
+operation  of law,  this  Agreement  and the  Articles of Merger,  the  Company,
+through  the  Company  Debenture,  will  assume  and be  responsible  for all SH
+obligations under the SH Debenture and the Purchase Agreement.
+
+                  2.2 ESCROW  MATERIALS.  (a) At the Closing,  the Company shall
+deposit into escrow with Kaplan Gottbetter & Levenson, LLP, or its successors or
+assigns,  as  escrow  agent  (the  "Escrow  Agent")  the  following,  which  are
+hereinafter  collectively  referred to as the "Escrow Materials," (i) the escrow
+agreement  annexed  hereto and made a part hereof as EXHIBIT 2.2(A) (the "Escrow
+Agreement"),  (ii) the Company Common Stock Shares, (iii) the Company Debenture,
+(iv) certificates  representing Ten Million  (10,000,000)  shares of duly issued
+Company  Common  Stock,  without  restriction  and freely  tradable  upon resale
+pursuant to Rule 504 of Regulation D of the Securities Act (the "Company  Escrow
+Shares"), in share denominations  specified by the Purchaser,  registered in the
+name of the Purchaser  and/or its assigns;  which shares shall be held in escrow
+for the Company  Underlying  Shares, and (v) a power of attorney with respect to
+the Company  Debenture,  the Company Common Stock, the Company Underlying Shares
+
+                                       5
+<PAGE>
+
+and the Company  Escrow Shares,  in the form annexed to the Escrow  Agreement as
+Appendix I. The Escrow  Materials shall be held in escrow in accordance with the
+Escrow  Agreement.  The Escrow  Materials  shall be released from escrow only in
+accordance with this Section 2.2 and the Escrow Agreement.
+
+                  (b) Upon conversion of the Company  Debenture by the holder or
+holders  thereof,  in accordance  with the terms of the Company  Debenture,  the
+Escrow Agent shall  release the Company  Escrow Shares to such holder or holders
+in accordance with the Conversion Procedures annexed hereto as EXHIBIT 2.2(B).
+
+                  2.3 RULE 504 SECURITIES.  The SH Debenture (which includes the
+Escrow  Shares)  was sold in  accordance  with Rule 504 of  Regulation  D of the
+Securities Act of 1933, as amended (the  "Securities  Act"),  and Article 51 and
+related  regulations of the Colorado  Securities Act, to an accredited  investor
+residing  in the State of  Colorado.  Accordingly,  pursuant  to Rule  504,  the
+applicable Colorado statutes,  and Section 3(a)(9) of the Securities Act, the SH
+Debenture  (which  include  the Escrow  Shares)  and  subsequently  the  Company
+Debenture  (which  includes the Company  Escrow  Shares) shall be issued without
+restriction  and shall be freely  tradable upon resale in  accordance  with Rule
+504.
+
+                                   ARTICLE III
+
+                                     CLOSING
+
+                  Subject to satisfaction of the conditions to closing set forth
+in  this  Agreement  and  unless  this  Agreement  is  otherwise  terminated  in
+accordance with the provisions  contained herein,  the closing of the Merger and
+the Contemplated Transactions (the "Closing") shall take place at the offices of
+Kaplan  Gottbetter  & Levenson,  LLP, or its  successors  or assigns,  630 Third
+Avenue,  New York, New York as promptly as practicable after satisfaction of the
+conditions set forth in this Agreement, which in no event shall be more than ten
+days after the  Effective  Time (except if such 10th day is not a Business  Day,
+then the next Business Day) (the "Closing Date").
+
+                                   ARTICLE IV
+
+                         REPRESENTATIONS AND WARRANTIES
+
+                  4.1 REPRESENTATIONS AND WARRANTIES OF THE COMPANY. The Company
+hereby makes the following  representations  and  warranties to SH, all of which
+shall survive the Closing:
+
+                   (a)  ORGANIZATION  AND  GOOD  STANDING.   The  Company  is  a
+corporation duly organized, validly existing and in good standing under the laws
+of the State of Delaware, with full corporate power and authority to conduct its
+business as it is now being  conducted,  to own or use the properties and assets
+that it owns or uses,  and to perform all its  obligations  under this Agreement
+and the Applicable Contracts.  The Company has no subsidiaries other than as set
+forth on Schedule  4.1(a)  attached  hereto  (individually,  a "SUBSIDIARY"  and
+
+                                       6
+<PAGE>
+
+collectively,  the  "SUBSIDIARIES").  Each of the Subsidiaries is a corporation,
+duly  incorporated,  validly existing and in good standing under the laws of the
+jurisdiction of its  incorporation,  with the full corporate power and authority
+to own and use its  properties  and  assets  and to  carry  on its  business  as
+currently conducted.  Each of the Company and the Subsidiaries is duly qualified
+to do  business  and is in  good  standing  as a  foreign  corporation  in  each
+jurisdiction  in which either the  ownership or use of the  properties  owned or
+used by it, or the  nature of the  activities  conducted  by it,  requires  such
+qualification.
+
+                  (b) AUTHORITY; NO CONFLICT.
+
+                           i.  This  Agreement  and any  agreement  executed  in
+connection herewith
+constitute the legal, valid and binding obligations of the Company,  enforceable
+against the Company in accordance with their  respective  terms. The Company has
+the absolute and unrestricted  right,  power,  authority and capacity to execute
+and deliver this Agreement and any agreement executed in connection herewith and
+to perform its obligations hereunder and thereunder.
+
+                           ii. Except as set forth in Schedule  4.1(b),  neither
+the execution and
+delivery of this Agreement by the Company,  nor the  consummation or performance
+of  any  of  the  obligations   contained  in  this  Agreement  or  Contemplated
+Transactions by the Company will, directly or indirectly (with or without notice
+or lapse of time):
+
+                                    a. contravene,  conflict with or result in a
+violation of (x) any provision of the Organizational Documents of the Company or
+(y) any resolution  adopted by the board of directors or the shareholders of the
+Company;
+
+                                    b. contravene,  conflict with or result in a
+violation  of,  or give any  governmental  body or  other  Person  the  right to
+challenge  any of the  Contemplated  Transactions  or to exercise  any remedy or
+obtain any relief under, any Legal Requirement or any Order to which the Company
+or any of the assets owned or used by the Company may be subject;
+
+                                    c. contravene,  conflict with or result in a
+violation or breach of any provision of, or give any Person the right to declare
+a default or  exercise  any remedy  under,  or to  accelerate  the  maturity  or
+performance  of, or to  cancel,  terminate  or  modify,  this  Agreement  or any
+Applicable Contract;
+
+                                    d. result in the  imposition  or creation of
+any material encumbrance upon or with respect to any of the assets owned or used
+by the Company;
+
+                                    e. cause the  Company to become  subject to,
+or to become liable for the payment of, any tax; or
+
+                                    f.  cause  any of the  assets  owned  by the
+Company  to  be  reassessed  or  revalued  by  any  taxing  authority  or  other
+governmental  body,  except  in  connection  with the  transfer  of real  estate
+pursuant to this Agreement or the Contemplated Transactions.
+
+                                       7
+<PAGE>
+
+                  (c)  CAPITALIZATION.  The entire  authorized  Company  Capital
+Stock consists of 50,000,000 shares of Company Common Stock, of which 37,916,390
+shares are issued and outstanding and 32,000,000  shares of preferred stock, par
+value $.001 per share, of which no shares are issued and outstanding.  There are
+no other  outstanding  equity  securities  of the  Company.  No  legend or other
+reference to any purported encumbrance appears upon any certificate representing
+the Company  Capital Stock other than a standard  Securities Act legend.  All of
+the issued and  outstanding  shares of the Company  Capital Stock have been duly
+authorized and validly issued and are fully paid and non-assessable.  Except for
+this  Agreement and as disclosed in Schedule  4.1(c),  there are no  outstanding
+options, warrants, script, rights to subscribe to, registration rights, calls or
+commitments of any character  whatsoever relating to, or, securities,  rights or
+obligations convertible into or exchangeable for, or giving any Person any right
+to  subscribe  for or  acquire,  any  shares of the  Company  Common  Stock,  or
+contracts, commitments,  understandings, or arrangements by which the Company or
+any Subsidiary is or may become bound to issue additional  shares of the Company
+Common Stock, or securities or rights convertible or exchangeable into shares of
+the Company Common Stock.  None of the  outstanding  Company  Capital Stock were
+issued in violation of the Securities Act or any other legal requirement.
+
+                  (d)  FINANCIAL  STATEMENTS.  The Company has delivered to SH a
+copy of its Form 10-KSB  Annual  Report for the fiscal year ended  December  31,
+2001 and December 31, 2002 as filed with the SEC (the "Reports").  The financial
+statements  contained in the Reports are in all material  respects in accordance
+with the books and records of the Company and have been  prepared in  accordance
+with GAAP applied on a consistent basis throughout the periods indicated, all as
+more  particularly set forth in the notes to such  statements.  The consolidated
+balance sheets (the "Company  Balance  Sheets") present fairly as of their dates
+the consolidated financial condition of the Company and its subsidiaries. Except
+as and to the extent reflected or reserved against in the Company Balance Sheets
+(including the notes  thereto),  the Company did not have, as of the date of any
+such Company Balance Sheet, any material liabilities or obligations (absolute or
+contingent)  of a nature  customarily  reflected in a balance sheet or the notes
+thereto. The Consolidated  Statements of Operations,  Consolidated Statements of
+Shareholders'  Equity  and  changes  in  Consolidated  Statements  of Cash Flows
+present  fairly the results of operations  and changes in financial  position of
+the Company and its subsidiaries for the periods indicated.
+
+                  (e) SEC  FILINGS.  The  Company  has timely  filed all reports
+required to be filed with the SEC under the rules and regulations of the SEC and
+all such reports have complied in all material respects,  as of their respective
+filing dates and effective  dates,  as the case may be, with all the  applicable
+requirements  of the  Securities  Exchange  Act of 1934,  as amended.  As of the
+respective filing and effective dates, none of such reports  (including  without
+limitation,  the Reports)  contained any untrue  statement of a material fact or
+omitted to state a material fact  required to be stated  therein or necessary in
+order to make the statements  therein, in light of the circumstances under which
+they were made, not misleading.
+
+
+                                       8
+<PAGE>
+
+                  (f) ABSENCE OF MATERIAL ADVERSE CHANGE.  Since the date of the
+Company Balance Sheets, there have been no events,  changes or occurrences which
+have had or are reasonably likely to have,  individually or in the aggregate,  a
+material adverse effect on the Company's business or financial condition.
+
+                  (g) ISSUANCE OF COMPANY  SECURITIES.  The Company Common Stock
+Shares,  the Company  Debenture,  the Company Underlying Shares, and the Company
+Escrow  Shares,  when issued in accordance  with this  Agreement,  shall be duly
+authorized, validly issued, fully-paid and nonassessable. The Company has and at
+all times while the Company  Debenture is outstanding  will continue to maintain
+an  adequate  reserve  of shares  of the  Company  Common  Stock to enable it to
+perform its  obligations  under this  Agreement  and the Company.  Except as set
+forth  in  Schedule  4.1(g)  hereto,  there  is no  equity  line  of  credit  or
+convertible  security  or  instrument  outstanding  of  the  Company;  PROVIDED,
+HOWEVER, that nothing contained in this Section 4.1(g) shall be deemed to permit
+any equity line of credit or convertible  security or instrument of the Company,
+other  than that is or may be issued to HEM Mutual  Assurance  LLC or any of its
+Affiliates or assigns.
+
+                  (h)  UNDISCLOSED  LIABILITIES  Neither  the  Company  nor  its
+Subsidiaries has any obligations or liabilities (contingent or otherwise) except
+obligations  and  liabilities  (i) that are fully accrued or provided for in all
+material  respects in the Company  Balance  Sheets in  accordance  with GAAP, or
+disclosed  in the  notes  therein  in  accordance  with  GAAP or (ii)  that were
+incurred after the date of the Company  Balance Sheets in the Ordinary Course of
+Business  (none of which  results  from,  arises out of,  relates  to, is in the
+nature of, or was caused by any breach of contract,  breach of  warranty,  tort,
+infringement,  or violation of law) or that would not  reasonably be expected to
+have a material  adverse  effect on the business or  financial  condition of the
+Company.
+
+                  (i) TAXES.
+
+                           i. The  Company  has filed or caused to be filed on a
+timely  basis  all tax  returns  that  are or were  required  to be  filed by it
+pursuant  to  applicable  Legal  Requirements.  The  Company  has paid,  or made
+provision  for the  payment  of,  all  taxes  that have or may have  become  due
+pursuant  to those tax  returns or  otherwise,  or  pursuant  to any  assessment
+received by the  Company,  except such taxes,  if any, as are listed in Schedule
+4.1(i) and are being contested in good faith as to which adequate  reserves have
+been provided in the Company Balance Sheets.
+
+                           ii. All tax  returns  filed by the  Company are true,
+correct and complete in all material respects.
+
+                  (j)  EMPLOYEE  BENEFITS.  The  Company  does  not  sponsor  or
+otherwise  maintain a "pension plan" within the meaning of Section 3(2) of ERISA
+or any other  retirement  plan other than the Company  Profit Sharing and 401(k)
+Plan and Trust that is intended to qualify under Section 401 of the Code, nor do
+any unfunded  liabilities  exist with respect to any employee benefit plan, past
+or present.  No employee  benefit  plan,  any trust  created  thereunder  or any
+trustee or administrator  thereof has engaged in a "prohibited  transaction," as
+defined in Section 4975 of the Code, which may have a material adverse effect on
+the condition, financial or otherwise, of the Company.
+
+
+                                       9
+<PAGE>
+
+                  (k)   GOVERNMENTAL   AUTHORIZATIONS.   The   Company  and  the
+Subsidiaries  have all  permits  that are or will be legally  required to enable
+them to conduct their business in all material respects as now conducted.
+
+                  (l) LEGAL PROCEEDINGS; ORDERS.
+
+                           i. Except as set forth in Schedule  4.1(l),  there is
+no material pending Proceeding:
+
+                                    a. that has been commenced by or against the
+Company  or the  Subsidiaries  or that  otherwise  relates  to or may affect the
+business  of,  or any of the  assets  owned  or  used  by,  the  Company  or the
+Subsidiaries; or
+
+                                    b.  that  challenges,  or that  may have the
+effect of preventing,  delaying,  making illegal, or otherwise interfering with,
+any Contemplated Transaction.
+
+                           ii. Except as set forth in Schedule 4.1(l):
+
+                                    a. there is no  material  Order to which the
+Company or the  Subsidiaries,  or any of the assets owned or used by the Company
+or the Subsidiaries, is subject; and
+
+                                    b. no officer,  director, agent, or employee
+of the  Company is subject to any  material  Order that  prohibits  such  offer,
+director, agent or employee from engaging in or continuing any conduct, activity
+or practice relating to the business of the Company.
+
+                  (m) ABSENCE OF CERTAIN CHANGES AND EVENTS. Except as set forth
+in Schedule  4.1(m),  since the date of the Company Balance Sheets,  the Company
+and the  Subsidiaries  have conducted their business only in the Ordinary Course
+of Business,  there has not been any material adverse effect on the Company's or
+the Subsidiaries business or operations, and there has not been any:
+
+                           i. change in the authorized or issued Company Capital
+Stock or the  authorized or issued capital stock of the  Subsidiaries;  grant of
+any stock  option or right to purchase  shares of capital  stock of the Company;
+issuance of any equity lines of credit,  security  convertible into such capital
+stock; grant of any registration rights; purchase,  redemption,  retirement,  or
+other acquisition or payment of any dividend or other distribution or payment in
+respect of shares of capital stock;
+
+                           ii. amendment to the Organizational  Documents of the
+Company or the Subsidiaries;
+
+
+                                       10
+<PAGE>
+
+                           iii. damage to or destruction or loss of any asset or
+property  of the  Company  or  the  Subsidiaries,  whether  or  not  covered  by
+insurance,  materially and adversely affecting the properties, assets, business,
+financial condition, or prospects of the Company or the Subsidiaries;
+
+                           iv.  receipt of notice that any of their  substantial
+customers  have  terminated or intends to terminate  their  relationship,  which
+termination  would have a material adverse effect on their financial  condition,
+results or operations, business assets or properties;
+
+                           v.  entry  into  any  transaction  other  than in the
+Ordinary Course of Business;
+
+                           vi. entry into, termination of, or receipt of written
+notice of  termination  of any material (i)  license,  distributorship,  dealer,
+sales  representative,  joint venture,  credit,  or similar  agreement,  or (ii)
+contract or transaction;
+
+                           vii.  sale  (other  than  sales of  inventory  in the
+Ordinary  Course  of  Business),  lease,  or other  disposition  of any asset or
+property of the Company or the Subsidiaries or mortgage,  pledge,  or imposition
+of any lien or other  encumbrance  on any  material  asset  or  property  of the
+Company or the Subsidiaries;
+
+                           viii.  cancellation or waiver of any claims or rights
+with a value to the Company in excess of $10,000;
+
+                           ix. material change in the accounting methods used by
+the Company or the Subsidiaries; or
+
+                           x. agreement, whether oral or written, by the Company
+or the Subsidiaries to
+do any of the foregoing.
+
+                  (n) NO DEFAULT OR VIOLATION.  The Company and the Subsidiaries
+(i) are in material  compliance  with all applicable  terms and  requirements of
+each  contract  under which they have or had any  obligation  or liability or by
+which they or any of the  assets  owned or used by them is or was bound and (ii)
+is not in violation of any Legal Requirement.
+
+                  (o) CERTAIN  PAYMENTS.  Since the date of the Company  Balance
+Sheets,  neither the Company or the  Subsidiaries,  nor any  director,  officer,
+agent or employee of the Company or the  Subsidiaries has directly or indirectly
+(a) made any  contribution,  gift, bribe,  rebate,  payoff,  influence  payment,
+kickback or other payment to any Person, private or public,  regardless of form,
+whether in money,  property or services  (i) to obtain  favorable  treatment  in
+securing  business,  (ii) to pay for favorable  treatment for business  secured,
+(iii) to obtain special concessions or for special concessions already obtained,
+for or in respect of the Company or the Subsidiaries or (iv) in violation of any
+Legal  Requirement,  or (b) established or maintained any fund or asset that has
+not been recorded in the books and records of the Company or the Subsidiaries.
+
+
+                                       11
+<PAGE>
+
+                  (p) BROKERS OR  FINDERS.  The  Company  has not  incurred  any
+obligation or liability, contingent or otherwise, for brokerage or finders' fees
+or  agents'  commissions  or other  similar  payment  in  connection  with  this
+Agreement.
+
+                  4.2  REPRESENTATIONS AND WARRANTIES OF SH. SH hereby makes the
+following  representations  and  warranties  to the Company,  all of which shall
+survive the Closing:
+
+                  (a) ORGANIZATION  AND GOOD STANDING.  SH is a corporation duly
+organized,  validly existing and in good standing under the laws of the State of
+Wyoming  with full power and  authority to conduct its  businesses  as it is now
+being  conducted,  to own or use the properties and assets that it owns or uses,
+and to perform all of its  obligations  under this  Agreement.  SH was formed to
+engage in the business of importing pharmaceuticals, but to date has not engaged
+in any significant business operations.
+
+                  (b) AUTHORITY; NO CONFLICT.
+
+                           i.  This  Agreement  and any  agreement  executed  in
+connection  herewith  constitute the legal, valid and binding obligations of SH,
+enforceable  against SH in accordance  with their  respective  terms. SH has the
+absolute and unrestricted right, power and authority to execute and deliver this
+Agreement and to perform its obligations hereunder.
+
+                           ii.  Neither  the  execution  and  delivery  of  this
+Agreement by SH nor the consummation or performance of any obligations contained
+in this  Agreement  by SH will give any Person the right to prevent,  delay,  or
+otherwise   interfere   with  this   Agreement  and  any  of  the   Contemplated
+Transactions.
+
+                           iii. SH is not  required  to obtain any consent  from
+any Person in connection  with the  execution and delivery of this  Agreement or
+the consummation or performance of any of the Contemplated Transactions.
+
+                  (c)  CAPITALIZATION.  The entire  authorized  SH Capital Stock
+consists of an  unlimited  number of shares of SH Common  Stock,  of which 1,000
+shares are  issued  and  outstanding,  and an  unlimited  number of shares of SH
+Preferred  Stock,  of which no  shares  are  issued  and  outstanding.  With the
+exception of the SH Common Stock Shares,  there are no other outstanding  equity
+securities  of the  Company.  No  legend  or other  reference  to any  purported
+encumbrance  appears  upon any  certificate  representing  the SH  Common  Stock
+Shares.  The SH Common Stock Shares have been duly authorized and validly issued
+and are fully  paid and  non-assessable.  Except  as set  forth in the  Purchase
+Agreement,  there  are no  outstanding  options,  warrants,  script,  rights  to
+subscribe  to,  registration  rights,  calls  or  commitments  of any  character
+whatsoever relating to, or, securities,  rights or obligations  convertible into
+or exchangeable for, or giving any Person any right to subscribe for or acquire,
+any shares of SH Common Stock,  or contracts,  commitments,  understandings,  or
+
+                                       12
+<PAGE>
+
+arrangements by which SH is or may become bound to issue additional shares of SH
+Common Stock, or securities or rights convertible or exchangeable into shares of
+SH Common Stock.  None of the  outstanding SH Common Stock Shares were issued in
+violation of the Securities Act or any other legal requirement. SH does not own,
+and has no contract to acquire, any equity securities or other securities of any
+Person or any  direct or  indirect  equity or  ownership  interest  in any other
+business.
+
+                  (d)  FINANCIAL  STATEMENTS.  SH has delivered to the Company a
+balance  sheet of SH as at  March  31,  2003  (the "SH  Balance  Sheet"),  and a
+statement  of  operations  for the year ended  March 31,  2003.  Such  financial
+statements  are set forth in  Schedule  4.2(d)  hereto  and fairly  present  the
+financial  condition and the results of  operations  of SH as at the  respective
+dates of and for the periods referred to in such financial statements.
+
+                  (e) ABSENCE OF MATERIAL ADVERSE CHANGE.  Since the date of the
+most recent SH Balance Sheet provided  under Section  4.2(d) hereof,  there have
+been no events,  changes or occurrences  which have had or are reasonably likely
+to have,  individually  or in the  aggregate,  a material  adverse effect on the
+Company.
+
+                  (f) BOOKS AND  RECORDS.  The books of account,  minute  books,
+stock  record  books,  and  other  records  of SH,  all of which  have been made
+available to the Company,  are complete and correct and have been  maintained in
+accordance  with sound  business  practices,  including  the  maintenance  of an
+adequate system of internal  controls.  The minute books of SH contain  accurate
+and complete records of all meetings held of, and corporate action taken by, the
+shareholders,  the  Board  of  Directors,  and any  committees  of the  Board of
+Directors of SH.
+
+                  (g)  NO  UNDISCLOSED   LIABILITIES.   There  are  no  material
+liabilities of SH other than:
+
+                           i.  Liabilities  set forth on,  reserved  against  or
+reflected in the SH Balance Sheet;
+
+                           ii.  Liabilities  disclosed  in this  Agreement,  the
+Exhibits  attached  hereto,  and in Schedule 4.2(g) or lists furnished  pursuant
+hereto; or
+
+                           iii.  Liabilities  incurred in the Ordinary Course of
+Business since the SH Balance Sheet date,  none of which had a material  adverse
+effect on the business,  financial condition or results of operations of SH, and
+none of which is  required  to be  recorded  under GAAP in respect of any period
+prior to the SH  Balance  Sheet  date,  and none of  which  is in  respect  of a
+material claim for damages, fines or other legal relief.
+
+                  (h)  TITLE  TO  PROPERTIES;  ENCUMBRANCES.  SH  has  good  and
+marketable title to all the properties,  interest in such properties and assets,
+real and personal,  reflected in the SH Balance Sheet or acquired after the date
+of such balance sheet (except properties, interests and assets sold or otherwise
+disposed of since such date, in the Ordinary Course of Business), free and clear
+of all mortgages,  liens, pledges,  charges or encumbrances except (i) mortgages
+and other  encumbrances  referred to in the notes to such  balance  sheet,  (ii)
+liens for current taxes not yet due and payable and (iii) such  imperfections of
+
+                                       13
+<PAGE>
+
+title and  easements as do not  materially  detract  from or interfere  with the
+present use of the properties subject thereto or affected thereby,  or otherwise
+materially impair present business operations at such properties.
+
+                  (i) LEGAL PROCEEDINGS; ORDERS.
+
+                           i. Except as set forth in Schedule  4.2(i),  there is
+no material pending Proceeding:
+
+                                    a. that has been  commenced by or against SH
+or that otherwise relates to or may affect the business of, or any of the assets
+owned or used by, SH; or
+
+                                    b.  that  challenges,  or that  may have the
+effect of preventing,  delaying,  making illegal, or otherwise interfering with,
+any Contemplated Transaction.
+
+                           ii. Except as set forth in Schedule 4.2(i):
+
+                                    a. there is no  material  Order to which SH,
+or any of the assets owned or used by SH, is subject; and
+
+                                    b. no officer,  director, agent, or employee
+of SH is subject to any  material  Order that  prohibits  such offer,  director,
+agent or  employee  from  engaging in or  continuing  any  conduct,  activity or
+practice relating to the business of SH.
+
+                  (j)  BROKERS  OR  FINDERS.   SH  has  incurred  no  liability,
+contingent or otherwise,  for brokerage or finders' fees or agents'  commissions
+or other similar payment in connection with this Agreement.
+
+                  (k) NO DEFAULT OR VIOLATION.  SH (i) is in material compliance
+with all applicable  terms and  requirements of each contract under which SH has
+or had any  obligation or liability or by which SH or any of the assets owned or
+used  by SH is or  was  bound  and  (ii)  is  not  in  violation  of  any  Legal
+Requirement.
+
+                  (l) TAXES.
+
+                           i. SH has  filed  or  caused  to be filed on a timely
+basis all tax returns that
+are  or  were  required  to  be  filed  by  it  pursuant  to  applicable   Legal
+Requirements.  SH has paid, or made provision for the payment of, all taxes that
+have or may have  become due  pursuant  to those tax  returns or  otherwise,  or
+pursuant to any  assessment  received by SH,  except such taxes,  if any, as are
+listed in  Schedule  4.2(l)  and are being  contested  in good faith as to which
+adequate reserves have been provided in the SH Balance Sheets.
+
+                  ii. All tax returns filed by SH are true, correct and complete
+in all material respects.
+
+
+                                       14
+<PAGE>
+                  (m) ABSENCE OF CERTAIN CHANGES AND EVENTS. Except as set forth
+in Schedule 4.2(m), since the date of the SH Balance Sheet, SH has conducted its
+business  only in the  Ordinary  Course  of  Business,  there  has not  been any
+material  adverse effect on SH's business or operations,  and there has not been
+any:
+
+                           i. change in the  authorized or issued  capital stock
+of SH; grant of any stock option or right to purchase shares of capital stock of
+SH; issuance of any security  convertible into such capital stock;  grant of any
+registration rights; purchase,  redemption,  retirement, or other acquisition or
+payment of any dividend or other distribution or payment in respect of shares of
+capital stock;
+
+                           ii. amendment to the Organizational Documents of SH;
+
+                           iii. damage to or destruction or loss of any asset or
+property of SH,  whether or not covered by insurance,  materially  and adversely
+affecting the properties, assets, business, financial condition, or prospects of
+SH;
+
+                           iv.  receipt  of notice  that any of its  substantial
+customers  have  terminated or intends to terminate  their  relationship,  which
+termination  would have a material  adverse  effect on its financial  condition,
+results or operations, business assets or properties;
+
+                           v.  entry  into  any  transaction  other  than in the
+Ordinary Course of Business;
+
+                           vi. entry into, termination of, or receipt of written
+notice of  termination  of any material (i)  license,  distributorship,  dealer,
+sales  representative,  joint venture,  credit,  or similar  agreement,  or (ii)
+contract or transaction;
+
+                           vii.  sale  (other  than  sales of  inventory  in the
+Ordinary  Course  of  Business),  lease,  or other  disposition  of any asset or
+property  of SH or  mortgage,  pledge,  or  imposition  of  any  lien  or  other
+encumbrance on any material asset or property of SH;
+
+                           viii.  cancellation or waiver of any claims or rights
+with a value to SH in excess of $10,000;
+
+                           ix. material change in the accounting methods used by
+SH; or
+
+                           x.  agreement,  whether oral or written,  by SH to do
+any of the foregoing.
+
+
+                                       15
+<PAGE>
+
+                                    ARTICLE V
+
+                                    COVENANTS
+
+                  5.1      COVENANTS OF THE COMPANY.
+
+                  (a)  CONDUCT OF  BUSINESS.  Prior to and  through  the Closing
+Date, the Company shall:
+
+                           i. conduct its business  only in the Ordinary  Course
+of Business;
+
+                           ii.  use  its  commercially   reasonable  efforts  to
+preserve intact the current business organization of the Company, keep available
+the services of the current officers,  employees and agents of the Company,  and
+maintain  the  relations  and good will with  suppliers,  customers,  landlords,
+creditors,  employees,  agents and others having business relationships with the
+Company;
+
+                           iii.  not pay,  incur or  declare  any  dividends  or
+distributions  with  respect to its  shareholders  or amend its  Certificate  of
+Incorporation or By-Laws,  without the prior written consent of the SH Debenture
+Holder;
+
+                           iv. not authorize,  issue,  sell,  purchase or redeem
+any  shares of its  capital  stock or any  options  or other  rights to  acquire
+ownerships  interests  without  the prior  written  consent of the SH  Debenture
+Holder;
+
+                           v. not incur any  indebtedness  for money borrowed or
+issue and debt  securities,  or incur or suffer to be incurred any  liability or
+obligation of any nature whatsoever, or cause or permit any lien, encumbrance or
+security  interest  to be  created  or  arise  on or in  respect  of  any of its
+properties or assets;
+
+                           vi.  not  make any  investment  of a  capital  nature
+either by  purchased  stock or  securities,  contribution  to capital,  property
+transfer or otherwise, or by the purchase of any property or assets of any other
+Person;
+
+                           vii.   not  do  any  other  act  which   would  cause
+representation  or  warranty of the  Company in this  Agreement  to be or become
+untrue in any material respect or that is not in the ordinary course of business
+consistent with past practice;
+
+                           viii. report  periodically to the SH Debenture Holder
+concerning the status of the business and operations of the Company; and
+
+                           ix.  confer with the SH Debenture  Holder  concerning
+operational matters of a material nature.
+
+                  (b)  PROPOSALS;  OTHER  OFFERS.  Commencing  on  the  date  of
+execution of this  Agreement  through the Closing  Date,  the Company shall not,
+directly or indirectly (whether through an employee, a representative,  an agent
+or  otherwise)  solicit or  encourage  any  inquiries  or  proposals,  engage in
+
+                                       16
+<PAGE>
+
+negotiations  for or consent to or enter into any  agreement  providing  for the
+acquisition  of its  business.  The Company  shall not,  directly or  indirectly
+(whether through an employee, a representative,  an agent or otherwise) disclose
+any nonpublic information relating to the Company or afford access to any of the
+books,  records or other  properties of the Company to any person or entity that
+is  considering,  has  considered or is making any such  acquisition  inquiry or
+proposal relating to the Company's business.
+
+                  (c) FURTHER  ASSURANCES.  Prior to the Closing Date,  with the
+cooperation  of  SH  where  appropriate,  the  Company  shall  use  commercially
+reasonable efforts to:
+
+                           i. promptly comply with all filing requirements which
+federal,  state or local  law may  impose on the  Company  with  respect  to the
+Contemplated Transactions by this Agreement; and
+
+                           ii. take all actions  necessary to be taken, make any
+filing and obtain any consent,  authorization or approval of or exemption by any
+governmental  authority,  regulatory  agency or any other third party (including
+without limitation,  any landlord or lessor of the Company and any party to whom
+notification  is  required to be  delivered  or from whom any form of consent is
+required) which is required to be filed or obtained by the Company in connection
+with the Contemplated Transactions by this Agreement.
+
+                  (d) ACCESS TO ADDITIONAL AGREEMENTS AND INFORMATION.  Prior to
+the Closing Date,  the Company shall make  available to the SH Debenture  Holder
+(as well as its shareholders,  counsel,  accountants and other  representatives)
+any and all agreements,  contracts,  documents,  other instruments and personnel
+material  of  the  Company's  business,   including  without  limitation,  those
+contracts to which the Company is a party and those by which its business or any
+of the Company's assets are bound.
+
+                  5.2      COVENANTS OF SH.
+
+                  (a) THIRD PARTY CONSENTS.  SH shall use all reasonable efforts
+to obtain any  consent,  authorization  or  approval  of, or  exemption  by, any
+governmental authority or agency or other third party required to be obtained or
+made  by it in  connection  with  this  Agreement  or  the  consummation  of the
+Contemplated Transactions.
+
+                  (b) FURTHER  ASSURANCES.  Prior to the Closing Date,  with the
+cooperation of the Company where appropriate, SH shall:
+
+                           i. promptly comply with all filing requirements which
+federal,  state or local law may impose on SH with  respect to the  Contemplated
+Transactions by this Agreement; and
+
+                           ii. take all actions  necessary to be taken, make any
+filing and obtain any consent,  authorization or approval of or exemption by any
+governmental  authority,  regulatory  agency or any other third party (including
+
+                                       17
+<PAGE>
+
+without limitation,  any landlord or lessor of the Company and any party to whom
+notification  is  required to be  delivered  or from whom any form of consent is
+required) which is required to be filed or obtained by SH in connection with the
+Contemplated Transactions by this Agreement.
+
+                  (c)  ACTIONS  BY SH. SH shall take no action or enter into any
+agreements or arrangements except as may be required by this Agreement.
+
+                  (d) NO CHANGE IN CAPITAL STOCK.  Prior to the Effective  Time,
+no change will be made in the authorized, issued or outstanding capital stock of
+SH, and no  subscriptions,  options,  rights,  warrants,  calls,  commitments or
+agreements relating to the authorized, issued or outstanding capital stock of SH
+will be entered into, issued, granted or created,  except in the Ordinary Course
+of Business or with the prior written approval of the SH Debenture Holder.
+
+                  5.3  GOVERNMENTAL  FILINGS  AND  CONSENTS.  The Company and SH
+shall cooperate with one another in filing any necessary  applications,  reports
+or other  documents  with any federal or state  agencies,  authorities or bodies
+having  jurisdiction  with respect to the business of the Company or the by this
+Agreement  and  in  seeking  any  necessary  approval,  consultation  or  prompt
+favorable action of, with or by any of such agencies, authorities or bodies.
+
+                  5.4  PUBLICITY.  Any  public  announcement  or  press  release
+relating to this Agreement or the Contemplated  Transactions must be approved by
+the SH Debenture  Holder in writing  before being made or released.  The Company
+shall have the right to issue a press release without the SH Debenture  Holder's
+written  approval if in the opinion of the  Company's  counsel such a release is
+necessary  to comply  with SEC  Rules and  Regulations;  PROVIDED  THAT,  the SH
+Debenture  Holder receives a copy of such prepared press release for purposes of
+review  at  least 24 hours  before  it is  issued.  This 24 hour  period  may be
+shortened  if in the  opinion of the  Company's  counsel it is  required by law;
+PROVIDED THAT, the SH Debenture  Holder  receives a copy of such release as long
+as reasonably practical before it is issued.
+
+                  5.5 TAX  RETURNS.  The current  officers of the Company  shall
+have the right to prepare  any tax returns of the  Company  with  respect to any
+period  that ends on or before the  Closing  Date,  which tax  returns  shall be
+prepared in a manner  consistent with prior tax returns.  Such tax returns shall
+be timely filed by the Company.  SH and the Company  shall  cooperate  with said
+officers in the  preparation of such tax returns.  The Company may not amend any
+Company tax return  relating to a period  through or including  the Closing Date
+without the prior written consent of the SH Debenture Holder  immediately  prior
+to the Closing Date.
+
+
+                                       18
+<PAGE>
+
+                                   ARTICLE VI
+
+                                   CONDITIONS
+
+                  6.1  CONDITIONS TO  OBLIGATIONS OF SH. The obligation of SH to
+consummate the  Contemplated  Transactions is subject to the fulfillment of each
+of the following conditions:
+
+                  (a) COPIES OF RESOLUTIONS.  At the Closing,  the Company shall
+have  furnished SH with a certificate  of its CEO, in the form of EXHIBIT 6.1(A)
+annexed hereto,  certifying that attached thereto are copies of resolutions duly
+adopted by the board of  directors  of the Company  authorizing  the  execution,
+delivery and  performance  of this  Agreement and all other  necessary or proper
+corporate  action  to  enable  the  Company  to  comply  with the  terms of this
+Agreement.
+
+                  (b)  OPINION OF  COMPANY'S  COUNSEL.  The  Company  shall have
+furnished to SH, at the Closing, with an opinion of its legal counsel,  dated as
+of the Closing Date, substantially in the form of EXHIBIT 6.1(B) annexed hereto.
+
+                  (c)  OPINION OF  COMPANY'S  COUNSEL.  The  Company  shall have
+furnished to SH, at the Closing,  with an opinion of Hand & Hand, counsel to the
+Company,  dated as of the  Closing  Date,  substantially  in the form of EXHIBIT
+6.1(C) annexed hereto.
+
+                  (d) INSTRUCTION  LETTER TO TRANSFER  AGENT.  The Company shall
+have  furnished to SH, at the Closing,  with a letter from its legal  counsel to
+its transfer  agent,  to accept the legal  opinion set forth in Section  6.1(c),
+dated  as of the  Closing  Date,  substantially  in the form of  EXHIBIT  6.1(D)
+annexed hereto.
+
+                  (e) ACCURACY OF REPRESENTATIONS AND WARRANTIES; PERFORMANCE OF
+COVENANTS.  Each of the  representations and warranties of the Company set forth
+in this Agreement was true,  correct and complete in all material  respects when
+made and shall also be true,  correct and complete in all  material  respects at
+and as of the Closing Date,  with the same force and effect as if made at and as
+of the  Closing  Date.  The Company  shall have  performed  and  complied in all
+material  respects with all agreements and covenants  required by this Agreement
+to be performed by the Company at or prior to the Closing Date.
+
+                  (f) DELIVERY OF CERTIFICATE.  The Company shall have delivered
+to SH a certificate,  in the form of EXHIBIT 6.1(F)  annexed  hereto,  dated the
+Closing  Date,  and  signed  by the  CEO  of  the  Company  affirming  that  the
+representations  and  warranties  as set forth in Section 4.1 were and are true,
+correct and complete as required by Section 6.1(e).
+
+                  (g)  CONSENTS  AND  WAIVERS.  At  the  Closing,  any  and  all
+necessary  consents,  authorizations,   orders  or  approvals  shall  have  been
+obtained, except as the same shall have been waived by the SH Debenture Holder.
+
+
+                                       19
+<PAGE>
+
+                  (h)  LITIGATION.  On  the  Closing  Date,  there  shall  be no
+effective injunction,  writ or preliminary restraining order or any order of any
+kind  whatsoever  with respect to the Company issued by a court or  governmental
+agency (or other governmental or regulatory authority) of competent jurisdiction
+restraining or prohibiting the consummation of the Contemplated  Transactions or
+making  consummation  thereof  unduly  burdensome to SH. On the Closing Date and
+immediately  prior  to  consummation  of  the  Contemplated   Transactions,   no
+proceeding  or  lawsuit  shall  have been  commenced,  be  pending  or have been
+threatened by any  governmental  or regulatory  agency or authority or any other
+Person with respect to the Contemplated Transactions.
+
+                  (i) DELIVERY OF DOCUMENTS AND OTHER INFORMATION.  Prior to the
+Closing Date,  the Company  shall have made  available or delivered to SH all of
+the  agreements,  contracts,  documents  and other  instruments  required  to be
+delivered pursuant to the provisions of this Agreement.
+
+                  6.2 CONDITIONS TO OBLIGATIONS OF THE COMPANY.  The obligations
+of the Company to consummate the  Contemplated  Transactions  are subject to the
+fulfillment of each of the following conditions:
+
+                  (a)  COPIES OF  RESOLUTIONS.  At the  Closing,  SH shall  have
+furnished  the  Company  with a  certificate  of its  President,  in the form of
+EXHIBIT 6.2(A) annexed hereto,  certifying  that attached  thereto are copies of
+resolutions  duly  adopted  by the  board of  directors  of SH  authorizing  the
+execution, delivery and performance of the terms of this Agreement and all other
+necessary  or proper  corporate  action to enable SH to comply with the terms of
+this Agreement.
+
+                  (b) OPINION OF SH'S  COUNSEL.  SH shall have  furnished to the
+Company, at the Closing, with an opinion of Hand & Hand, counsel to SH, dated as
+of the Closing Date, substantially in the form of EXHIBIT 6.2(B) annexed hereto.
+
+                  (c) OPINION OF SH'S  COUNSEL.  SH shall have  furnished to the
+Company, at the Closing, with an opinion of Hand & Hand, dated as of the Closing
+Date, substantially in the form of EXHIBIT 6.2(C) annexed hereto.
+
+                  (d) ACCURACY OF REPRESENTATIONS AND WARRANTIES; PERFORMANCE OF
+COVENANTS.  Each of the  representations  and warranties of SH was true, correct
+and complete in all material respects when made and shall also be true,  correct
+and complete in all material  respects at and as of the Closing  Date,  with the
+same force and effect as if made at and as of the  Closing  Date.  SH shall have
+performed  and  complied  in all  material  respects  with  all  agreements  and
+covenants  required by this  Agreement  to be performed by SH at or prior to the
+Closing Date.
+
+                  (e) DELIVERY OF  CERTIFICATE.  SH shall have  delivered to the
+Company a certificate,  in the form of EXHIBIT 6.2(E) annexed hereto,  dated the
+Closing  Date  and  signed  by  the   President  of  SH,   affirming   that  the
+representations  and  warranties  of SH as set forth in Section 4.2 were and are
+true, correct and complete as required by Section 6.2(d).
+
+
+                                       20
+<PAGE>
+
+                  (f) COMPLIANCE  WITH RULE 504. In connection with the issuance
+of the Securities by SH under the Purchase Agreement, on or prior to the Closing
+Date SH  shall  be in full  compliance  with  Rule  504 of  Regulation  D of the
+Securities  Act of 1933, as amended,  and SH shall have delivered to the Company
+at the  Closing a filed copy of the Form D required  to be filed with the SEC in
+connection therewith.
+
+                  (f) CONSENTS AND WAIVERS. On or prior to the Closing Date, any
+and all necessary consents, authorizations,  orders or approvals shall have been
+obtained, except as the same shall have been waived by the Company.
+
+                  (g)  LITIGATION.  On  the  Closing  Date,  there  shall  be no
+effective injunction,  writ or preliminary restraining order or any order of any
+kind whatsoever with respect to SH issued by a court or governmental  agency (or
+other   governmental   or  regulatory   authority)  of  competent   jurisdiction
+restraining or prohibiting the consummation of the Contemplated  Transactions or
+making the consummation thereof unduly burdensome to the Company. On the Closing
+Date,  no  proceeding  or lawsuit  shall have been  commenced,  threatened or be
+pending or by any  governmental  or regulatory  agency or authority or any other
+person with respect to the Contemplated Transactions.
+
+                  (h) DELIVERY OF DOCUMENTS AND OTHER INFORMATION.  Prior to the
+Closing  Date,  SH shall have made  available or delivered to the Company all of
+the  agreements,  contracts,  documents  and other  instruments  required  to be
+delivered pursuant to the provisions of this Agreement.
+
+                                   ARTICLE VII
+
+                                   TERMINATION
+
+                  7.1  TERMINATION  BY MUTUAL  AGREEMENT.  This Agreement may be
+terminated at any time by mutual  consent of the parties  hereto,  provided that
+such  consent to  terminate  is in writing  and is signed by each of the parties
+hereto.
+
+                  7.2 TERMINATION FOR FAILURE TO CLOSE.  This Agreement shall be
+automatically  terminated if the Closing shall not have occurred within ten (10)
+days of the date hereof (except if such 10th day is not a Business Day, then the
+next Business Day).
+
+                  7.3  TERMINATION  BY OPERATION OF LAW.  This  Agreement may be
+terminated by any party hereto if there shall be any statute, rule or regulation
+that renders consummation of the Contemplated  Transactions illegal or otherwise
+prohibited,  or  a  court  of  competent  jurisdiction  or  any  government  (or
+governmental  authority)  shall have issued an order,  decree or ruling,  or has
+taken any other  action  restraining,  enjoining or  otherwise  prohibiting  the
+consummation of such transactions and such order, decree, ruling or other action
+shall have become final and nonappealable.
+
+                  7.4   TERMINATION   FOR  FAILURE  TO  PERFORM   COVENANTS   OR
+CONDITIONS. This Agreement may be terminated prior to the Closing Date:
+
+                                       21
+<PAGE>
+
+                  (a) by SH if: (i) any of the  representations  and  warranties
+made in this Agreement by the Company shall not be materially  true and correct,
+when made or at any time prior to consummation of the Contemplated  Transactions
+as if made at and as of such  time;  (ii)  any of the  conditions  set  forth in
+Section  6.1 hereof  have not been  fulfilled  by the  Closing  Date;  (iii) the
+Company shall have failed to observe or perform any of its material  obligations
+under this Agreement; or (iv) as otherwise set forth herein; or
+
+                  (b) by the  Company  if:  (i) any of the  representations  and
+warranties  of SH shall not be  materially  true and correct when made or at any
+time prior to consummation of the Contemplated Transactions as if made at and as
+of such time;  (ii) any of the  conditions  set forth in Section 6.2 hereof have
+not been fulfilled by the Closing Date; (iii) SH shall have failed to observe or
+perform any of their material  respective  obligations under this Agreement;  or
+(iv) as otherwise set forth herein.
+
+                  7.5 EFFECT OF TERMINATION OR DEFAULT;  REMEDIES.  In the event
+of  termination  of this  Agreement as set forth  above,  this  Agreement  shall
+forthwith  become void and there shall be no  liability on the part of any party
+hereto,  provided that such party is a Non-Defaulting  Party (as defined below).
+The foregoing  shall not relieve any party from  liability for damages  actually
+incurred as a result of such  party's  breach of any term or  provision  of this
+Agreement.
+
+                  7.6  REMEDIES;  SPECIFIC  PERFORMANCE.  In the event  that any
+party shall fail or refuse to consummate the Contemplated Transactions or if any
+default under or beach of any representation, warranty, covenant or condition of
+this  Agreement  on the part of any party (the  "Defaulting  Party")  shall have
+occurred   that  results  in  the  failure  to   consummate   the   Contemplated
+Transactions,  then in  addition  to the other  remedies  provided  herein,  the
+non-defaulting party (the "Non-Defaulting  Party") shall be entitled to seek and
+obtain money damages from the Defaulting  Party,  or may seek to obtain an order
+of specific  performance  thereof  against the Defaulting  Party from a court of
+competent  jurisdiction,  provided  that the  Non-Defaulting  Party seeking such
+protection  must file its request  with such court within  forty-five  (45) days
+after it becomes aware of the Defaulting  Party's failure,  refusal,  default or
+breach. In addition,  the Non-Defaulting  Party shall be entitled to obtain from
+the  Defaulting  Party court costs and  reasonable  attorneys'  fees incurred in
+connection  with or in pursuit of  enforcing  the rights and  remedies  provided
+hereunder.
+
+                                  ARTICLE VIII
+
+                            SURVIVAL; INDEMNIFICATION
+
+                  8.1 SURVIVAL OF REPRESENTATIONS AND WARRANTIES OF THE COMPANY.
+All  representations  and  warranties of the Company shall survive the execution
+and delivery of this  Agreement and the Closing  hereunder and shall  thereafter
+continue  in full force and effect  until the fifth  anniversary  of the Closing
+Date and shall  thereafter  terminate  except to the extent  that  notice of the
+Company's   liability  in  respect  of  any  inaccuracy  in  or  breach  of  any
+representation  or  warranty  shall  have been  given on or prior to such  fifth
+anniversary.
+
+                                       22
+<PAGE>
+
+                  8.2  SURVIVAL OF  REPRESENTATIONS  AND  WARRANTIES  OF SH. All
+representations  and warranties of SH shall terminate upon the Closing except to
+the extent  that notice of SH's  liability  in respect of any  inaccuracy  in or
+breach of any  representation  or warranty  shall have been given on or prior to
+Closing.
+
+                  8.3 OBLIGATION OF THE COMPANY TO INDEMNIFY. The Company agrees
+to  indemnify,  defend  and  hold  harmless  SH (and  its  directors,  officers,
+employees,  affiliates,  shareholders,  debenture  holders,  agents,  attorneys,
+successors  and  assigns)  from and against all  losses,  liabilities,  damages,
+deficiencies,  costs or expenses (including  interest,  penalties and reasonable
+attorneys' and consultants'  fees and  disbursements)  (collectively,  "Losses")
+based upon,  arising out of or otherwise in respect of any (i) inaccuracy in any
+representation  or warranty of the Company contained in this Agreement or in the
+Schedules  and  Exhibits  hereto or (ii)  breach of any  covenant  or  agreement
+contained in this Agreement or the Contemplated Transactions.
+
+                  8.4 OBLIGATION OF AND SH TO INDEMNIFY. SH agrees to indemnify,
+defend and hold harmless the Company (and its  directors,  officers,  employees,
+affiliates,  shareholders,  agents, attorneys,  successors and assigns) from and
+against any Losses based upon, arising out of or otherwise in respect of any (i)
+inaccuracy in any  representation  or warranty of SH contained in this Agreement
+or (ii) breach of any covenant or agreement  contained in this  Agreement or the
+Contemplated Transactions.
+
+                  8.5  NOTICE AND  OPPORTUNITY  TO DEFEND.  (a)  Promptly  after
+receipt  by  any  Person   entitled  to  indemnity   under  this  Agreement  (an
+"Indemnitee") of notice of any demand,  claim or circumstances  which,  with the
+lapse of  time,  would or might  give  rise to a claim or the  commencement  (or
+threatened  commencement)  of  any  action,   proceeding  or  investigation  (an
+"Asserted  Liability")  that may  result in a Loss,  the  Indemnitee  shall give
+notice  thereof (the "Claims  Notice") to any other party (or parties) who is or
+may be obligated to provide indemnification  pursuant to Section 8.3 or 8.4 (the
+"Indemnifying  Party").  The Claims Notice shall describe the Asserted Liability
+in reasonable detail and shall indicate the amount (estimated,  if necessary and
+to the  extent  feasible)  of the Loss that has been or may be  suffered  by the
+Indemnitee.
+
+                  (b) The Indemnifying  Party may elect to compromise or defend,
+at its own  expense  and by its own  counsel,  any  Asserted  Liability.  If the
+Indemnifying  Party elects to compromise or defend such Asserted  Liability,  it
+shall  within 30 days after the date the Claims  Notice is given (or sooner,  if
+the nature of the Asserted  Liability so requires)  notify the Indemnitee of its
+intent to do so,  and the  Indemnitee  shall  cooperate,  at the  expense of the
+Indemnifying  Party,  in the  compromise of, or defense  against,  such Asserted
+Liability.  If the  Indemnifying  Party elects not to  compromise  or defend the
+Asserted  Liability,  fails to notify the  Indemnitee  of its election as herein
+provided or contests its  obligation  to  indemnify  under this  Agreement,  the
+Indemnitee  may pay,  compromise  or  defend  such  Asserted  Liability  and all
+reasonable expenses incurred by the Indemnitee in defending or compromising such
+Asserted Liability,  all amounts required to be paid in connection with any such
+Asserted Liability  pursuant to the determination of any court,  governmental or
+regulatory  body or  arbitrator,  and amounts  required to be paid in connection
+with any compromise or settlement consented to by the Indemnitee, shall be borne
+
+                                       23
+<PAGE>
+
+by the  Indemnifying  Party.  Except as  otherwise  provided in the  immediately
+preceding sentence, neither the Indemnifying Party nor the Indemnitee may settle
+or compromise any claim over the objection of the other, provided, however, that
+consent to settlement or compromise shall not be unreasonably  withheld.  In any
+event, the Indemnitee and the Indemnifying  Party may participate,  at their own
+expense,  in the defense of such Asserted  Liability.  If the Indemnifying Party
+chooses  to defend  any  claim,  the  Indemnitee  shall  make  available  to the
+Indemnifying Party any books, records or other documents within its control that
+are necessary or appropriate for such defense.
+
+                                   ARTICLE IX
+
+                                   DEFINITIONS
+
+                  The following terms,  which are capitalized in this Agreement,
+shall have the meanings set forth below for the purpose of this Agreement.
+
+                  "APPLICABLE  CONTRACT"  means any Contract (a) under which the
+Company has or may  acquire  any rights,  (b) under which the Company has or may
+become subject to any obligation or liability or (c) by which the Company or any
+of the assets owned or used by it is or may become bound.
+
+                  "CONTEMPLATED  TRANSACTIONS"  means  all of  the  transactions
+contemplated by this Agreement, including, without limitation:
+
+                  (1)      the Merger; and
+
+                  (2)      the performance by the parties  of  their respective
+covenants and obligations  under this Agreement.
+
+                  "ERISA" means the Employee  Retirement  Income Security Act of
+1974 or any successor law, and regulations and rules issued pursuant to such law
+or any successor law.
+
+                  "GAAP" means generally accepted  accounting  principles in the
+United States, applied on a consistent basis.
+
+                  "KNOWLEDGE"  means  actual  awareness by a Person of a fact or
+other matter after all due inquiry; references to "Company's Knowledge" shall be
+deemed to include  the  actual  awareness  after all due  inquiry of each of the
+directors, executive officers and principal shareholders of the Company.
+
+                  "LEGAL   REQUIREMENT"   means  any  federal,   state,   local,
+municipal,  foreign,  international,  multinational or other administrative law,
+ordinance,  principle  of common  law,  regulation,  statute,  treaty,  court or
+arbitrator.
+
+
+                                       24
+<PAGE>
+
+                  "ORDER"  means  any  award,  decision,  injunction,  judgment,
+order,  ruling,  subpoena or verdict  entered,  issued,  made or rendered by any
+court, administrative agency or other governmental body or by any arbitrator.
+
+                  "ORDINARY  COURSE  OF  BUSINESS"  means an  action  taken by a
+Person where:
+
+                  (1) such action is consistent  with the past practices of such
+Person and is taken in the ordinary course of the normal  day-to-day  operations
+of such Person;
+
+                  (2) such action is not required to be  authorized by the board
+of  directors  of such  Person (or by any Person or group of Persons  exercising
+similar authority); and
+
+                  (3) such action is similar in nature and  magnitude to actions
+customarily  taken,  without any  authorization by the board of directors (or by
+any Person or group of Persons  exercising similar  authority),  in the ordinary
+course of the normal day-to-day operations of other Persons that are in the same
+line of business as such Person.
+
+                  "ORGANIZATIONAL  DOCUMENTS"  means the articles or certificate
+of incorporation and the by-laws of a corporation and any amendment thereto.
+
+                  "PERSON"  means any  individual,  corporation  (including  any
+non-profit  corporation),  general or  limited  partnership,  limited  liability
+company, joint venture, estate, trust, association, organization, labor union or
+other entity or governmental body.
+
+                  "PROCEEDING" means any action,  arbitration,  audit,  hearing,
+investigation,  litigation or suit  (whether  civil,  criminal,  administrative,
+investigative or informal) commenced,  brought, conducted or heard by or before,
+or otherwise involving, any governmental body or arbitrator.
+
+                  "SEC" means the U.S. Securities and Exchange Commission.
+
+                  "SECURITIES ACT" means the Securities Act of 1933, as amended.
+
+                                    ARTICLE X
+
+                                  MISCELLANEOUS
+
+                  10.1 FEES AND EXPENSES.  Except as otherwise  provided in this
+Agreement,  each party hereto will bear its own legal, accounting and other fees
+and expenses  incident to the  Contemplated  Transactions  herein.  Any fees and
+expenses  required  to be  paid by any  party  hereunder  shall  be  limited  to
+reasonable and necessary fees and expenses
+
+                  10.2  MODIFICATION,  AMENDMENTS AND WAIVER. The parties hereto
+may amend,  modify or otherwise  waive any provision of this Agreement by mutual
+consent, provided that such consent and any amendment, modification or waiver is
+in writing and is signed by each of the parties hereto.
+
+
+                                       25
+<PAGE>
+
+                  10.3  ASSIGNMENT.  Neither  the  Company nor SH shall have the
+authority to assign its respective  rights or  obligations  under this Agreement
+without the prior written consent of the SH Debenture Holder.
+
+                  10.4 SUCCESSORS.  This Agreement shall be binding upon and, to
+the  extent  permitted  in this  Agreement,  shall  inure to the  benefit of the
+parties and their respective successors and permitted assigns.
+
+                  10.5  ENTIRE  AGREEMENT.  This  Agreement  and  the  exhibits,
+schedules and other  documents  referred to herein contain the entire  agreement
+among the  parties  hereto with  respect to the  Contemplated  Transactions  and
+supersede all prior agreements with respect thereto, whether written or oral.
+
+                  10.6  GOVERNING  LAW. This  Agreement and the exhibits  hereto
+shall be governed by and construed in  accordance  with the laws of the State of
+New York,  without  giving  effect to  principles of conflicts or choice of laws
+thereof.  Any  action  to  enforce  the  terms of this  Agreement  or any of its
+exhibits shall be brought exclusively in the state and/or federal courts situate
+in the County and State of New York.  Service of process in any action by either
+party to enforce  the terms of this  Agreement  may be made by serving a copy of
+the summons and  complaint,  in addition  to any other  relevant  documents,  by
+commercial  overnight  courier to the other party at its  principal  address set
+forth in this Agreement.
+
+                  10.7  NOTICES.  Any  notice,  request,  instruction  or  other
+document  to be given  hereunder  by any party  hereto  shall be in writing  and
+delivered  personally or sent by registered  or certified  mail (return  receipt
+requested),  postage prepaid, or by recognized  overnight carrier,  addressed as
+follows:
+
+
+
+                  If to SH:              Sanjay Haryama
+                                         24351 Pasto Road, Suite B
+                                         Dana Point, California 92629
+                                         Attn:    Jay Hand
+                                         Tel:     (949) 489-2400
+                                         Fax:     (949) 489-0034
+
+                  with copies to:        Kaplan Gottbetter & Levenson, LLP, or
+                                         its successors or assigns
+                                         630 Third Avenue
+                                         New York, New York 10017
+                                         Attn.:   Adam S. Gottbetter, Esq.
+                                         Tel: (212) 983-6900
+                                         Fax: (212) 983-9210
+
+
+                                       26
+<PAGE>
+
+                  If to the Company:     HY-Tech Technology Group, Inc.
+                                         1840 Boy Scott Drive
+                                         Fort Meyers, Florida 33907
+
+                                         Attn:      Gary F. McNear, CEO
+
+                                         Tel:       (239) 278-4111
+                                         Fax:       (239) 278-4691
+
+                  with copies to:        David Loev, Esq.
+                                         2777 Allen Parkway, Suite 1000
+                                         Houston, Texas 77019
+                                         Telephone:        (713) 524-4110
+                                         Facsimile:        (713) 524-4122
+
+                                         Kaplan Gottbetter & Levenson, LLP, or
+                                         its successors or assigns
+                                         630 Third Avenue
+                                         New York, New York 10017
+                                         Attn.:   Adam S. Gottbetter, Esq.
+                                         Tel:     (212) 983-6900
+                                         Fax:     (212) 983-9210
+
+or to such other  persons or  addresses as may be  designated  in writing by the
+party to receive  such  notice.  If mailed as  aforesaid,  the day of mailing or
+transmission  shall be the date any such  notice  shall be  deemed  to have been
+delivered.
+
+                  10.8  COUNTERPARTS.  This  Agreement may be executed in two or
+more  counterparts,  each of which shall be an original,  but all of which shall
+constitute  but one  agreement.  In the event that any signature is delivered by
+facsimile  transmission,  such  signature  shall  create  a  valid  and  binding
+obligation  of the  party  executing  (or on  whose  behalf  such  signature  is
+executed) the same with the same force and effect as if such facsimile signature
+page were an original thereof.
+
+                  10.9  RIGHTS  CUMULATIVE.  All rights,  powers and  privileges
+conferred  hereunder  upon the  parties,  unless  otherwise  provided,  shall be
+cumulative  and  shall  not be  restricted  to those  given by law.  Failure  to
+exercise any power given any party hereunder or to insist upon strict compliance
+by any other party shall not  constitute a waiver of any party's right to demand
+exact compliance with any of the terms or provisions hereof.
+
+                  10.10  SEVERABILITY  OF  PROVISIONS.  The  provisions  of this
+Agreement shall be considered severable in the event that any of such provisions
+are held by a court of competent  jurisdiction to be invalid,  void or otherwise
+unenforceable. Such invalid, void or otherwise unenforceable provisions shall be
+automatically  replaced by other  provisions which are valid and enforceable and
+which are as similar as possible in term and intent to those  provisions  deemed
+to be invalid, void or otherwise  unenforceable.  Notwithstanding the foregoing,
+the remaining  provisions hereof shall remain  enforceable to the fullest extent
+permitted by law.
+
+                                       27
+
+<PAGE>
+
+                  10.11  HEADINGS.  The  headings  set forth in the articles and
+sections  of  this  Agreement  and in the  exhibits  and the  schedules  to this
+Agreement are inserted for convenience of reference only and shall not be deemed
+to constitute a part hereof.
+
+
+
+                            [SIGNATURE PAGE FOLLOWS]
+
+
+
+                                       28
+<PAGE>
+
+
+
+         IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be
+executed and delivered on the date and year first above written.
+
+
+                                            HY-TECH TECHNOLOGY GROUP, INC.
+
+
+                                            By:
+                                                 ------------------------------
+                                                 Gary F. McNear, CEO
+
+
+                                            SANJAY HARYAMA
+
+
+                                            By:
+                                                 ------------------------------
+                                                 Jay Hand, President
+
+The undersigned,  Secretary of Hy-Tech  Technology Group, Inc., hereby certifies
+on the date and year first above written that this  Agreement and Plan of Merger
+has been adopted pursuant to Section 251(c) of the Delaware General  Corporation
+Law and that the conditions specified in the first sentence of said section have
+been satisfied.
+
+                                            HY-TECH TECHNOLOGY GROUP, INC.
+
+
+                                            By:
+                                                 ------------------------------
+                                                 Name:  Gary F. McNear
+                                                    Title:   Secretary
+
+                                       29
+
+<PAGE>
+
+</TEXT>
+</DOCUMENT>

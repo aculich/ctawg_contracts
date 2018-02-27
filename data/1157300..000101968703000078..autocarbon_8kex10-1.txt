@@ -1,0 +1,1412 @@
+<DOCUMENT>
+<TYPE>EX-10.1
+<SEQUENCE>3
+<FILENAME>autocarbon_8kex10-1.txt
+<TEXT>
+<PAGE>
+
+EXHIBIT 10.1
+
+                            SHARE EXCHANGE AGREEMENT
+
+         AGREEMENT made as of the 3rd day of January, 2003, by and between
+Autocarbon, Inc., a Delaware corporation with an office at 136-M Tenth Street,
+Ramona, California 92063 ("AutoC"), and Autocarbon Limited, a UK registered
+company with an office at 26 Nailsworth Mills, Nailsworth, Gloucestershire,
+England GL6 0BS ("Autocarbon LTD") and James Millichap-Merrick, Gavin Hartland,
+Denis Potter, OSTS, S.A., J. Miller, Presco, Inc., Rennel Trading, Ron Murphy,
+Sebastian Reidl, Seth Scally, Kim Tate, Terry Hunt, Teo Montoya, Peter Moseley,
+Sir Jack Brabham, Robert Miller, M2 Education Fund, 3LP Assets and Advanced
+Resource Technologies (Millichap-Merrick, Hartland, Potter, OSTS, S.A., Miller,
+Presco, Inc., Rennel Trading, Murphy, Reidl, Scally, Tate, Hunt, Montoya,
+Moseley, Brabham, R. Miller, M2 Education Fund, 3LP Assets and Advanced Resource
+Technologies are hereinafter collectively referred to as the "Shareholders").
+
+                                   WITNESSETH:
+
+         WHEREAS, AutoC is authorized to issue 100,000,000 ordinary shares of
+$0.0001 par value, of which, 9,679,754 shares will be issued and outstanding on
+the Closing Date (as hereinafter defined);
+
+         WHEREAS, the issued and authorized ordinary shares of Autocarbon LTD on
+the Closing Date (the "Autocarbon LTD Shares") will be owned beneficially and of
+record by the persons (the "Shareholders"), and in the amounts set forth on
+EXHIBIT 4.19 hereto;
+
+         WHEREAS, AutoC desires to acquire the Autocarbon LTD Shares in exchange
+for shares of AutoC common stock; and the Shareholders and Autocarbon LTD desire
+to exchange the Autocarbon LTD Shares for shares of AutoC common stock, in a
+transaction qualifying as a "tax free reorganization" as that term is used in
+the Internal Revenue Code of 1986; as amended, and otherwise meeting the
+requirements of Section 252 of the General Corporation Code of the State of
+Delaware and the laws of England & Wales (the "Exchange"); and
+
+         WHEREAS, the Board of Directors of AutoC and Autocarbon LTD deem it
+advisable and in the best interests of each of AutoC and Autocarbon LTD and
+their respective shareholders to consummate the Exchange upon the terms and
+conditions hereinafter set forth.
+
+         NOW THEREFORE, in consideration of the mutual covenants and promises
+herein contained and upon the terms and conditions hereinafter set forth, the
+parties hereto, intending to be legally bound, agree as follows:
+
+1.       THE EXCHANGE
+
+1.1 Agreement to Exchange. Upon the terms and conditions herein set forth, at
+the Closing (as hereinafter defined), Autocarbon LTD and the Shareholders agree
+to deliver all of their right, title and interest in and to the Autocarbon LTD
+Shares to AutoC, free and clear of all liens, claims, pledges, restrictions,
+obligations, security interests and encumbrances of any kind, nature and
+description (collectively "Liens"), save and except only for Liens in favor of
+AutoC.
+
+
+<PAGE>
+
+1.2 Agreement to Acquire. Upon the terms and conditions herein set forth, at the
+Closing, AutoC agrees to accept the Autocarbon LTD Shares and to issue to the
+Shareholders, in exchange for the Autocarbon LTD Shares, solely shares of AutoC
+common stock, $.0001 par value per share ("AutoC Common Stock").
+
+2.       TERMS OF EXCHANGE
+
+2.1 Rate of Exchange. The Autocarbon LTD Shares delivered at Closing shall be
+exchanged for an aggregate of 9,447,160 shares of AutoC Common Stock (the "AutoC
+Shares"), at the rate of 10 AutoC Shares for each of the Autocarbon LTD Shares
+(the "Exchange Ratio").
+
+2.2 Registration of the AutoC Shares. The AutoC Shares issuable in the Exchange
+shall be registered in the name(s) of the Shareholder(s) and in the amounts set
+forth on EXHIBIT 4.19 hereto.
+
+2.3 Status of AutoC Shares. The AutoC Shares will not be registered under the
+Securities Act of 1933, as amended (the "1933 Act") and may not be sold,
+transferred or otherwise disposed of except in compliance with the 1933 Act and
+the Securities Exchange Act of 1934, as amended (the "1934 Act").
+
+2.4 Restrictive Legends. Each Certificate evidencing any of the AutoC Shares
+shall bear the following or substantially similar legend:
+
+         "The Shares represented by this Certificate have not been registered
+         under the Securities Act of 1933, as amended. These Shares have been
+         acquired for investment purposes and not with a view to distribution or
+         resale, and may not be sold, assigned, pledged, hypothecated or
+         otherwise transferred without an effective Registration Statement for
+         such Shares under the Securities Act of 1933, as amended, or an opinion
+         of counsel to the effect that registration is not required under such
+         Act."
+
+2.6 Effective Date of the Exchange. The Exchange shall become effective when the
+Secretary of State of Delaware and the Registrar of Companies for England
+&Wales, respectively, file duly executed Certificates of Exchange pursuant to
+the provisions of their respective laws. AutoC and Autocarbon LTD agree to use
+their best efforts to cause such filings to occur as promptly as practicable
+following the Closing Date. As used herein, the term "Effective Date" shall mean
+the date upon which the Certificate of Exchange is filed by the Secretary of
+State of Delaware or theregistrar of Companies of England & Wales, whichever is
+the later to occur.
+
+2.7 Effect of Exchange. From and after the Effective Date of the Exchange,
+ownership of the Autocarbon LTD Shares shall vest in AutoC, whether or not
+certificates evidencing the Autocarbon LTD Shares are surrendered for exchange,
+and AutoC shall be entitled to have new certificates evidencing the Autocarbon
+LTD Shares registered in its name or at its direction. From and after the
+Effective Date, certificates theretofore evidencing the Autocarbon LTD Shares
+shall evidence only the right to receive the AutoC Shares issuable upon exchange
+thereof.
+
+
+<PAGE>
+
+2.8 Directors and Officers. On the Effective Date and thereafter (until
+otherwise determined in accordance with the provisions of applicable law and the
+By-Laws of AutoC), the Board of Directors of AutoC shall consist of four
+directors, each of whom shall hold office until the next annual meeting of the
+shareholders of AutoC and until his or her successor shall have been duly
+elected or appointed and shall have qualified, or until his or her earlier
+death, resignation, or removal. The respective names and residence addresses of
+such four directors are as follows:
+
+James Miller
+28 Nailsworth Mills
+Nailsworth Glos GL6 08S
+United Kingdom
+
+Kimberly Tate
+14573 Rios Canyon Road
+El Cajon, California 92021
+
+Seth Scally
+3969 Charles Street
+La Mesa, California 91941
+
+Terry Hunt
+The Greenhouse
+Church Road, Thurston
+Bury St., Edmond Suffolk IP31 3RT
+United Kingdom
+
+On the Effective Date, the principal officers of AutoC, each of whom shall hold
+office until the next annual meeting of the Board of Directors of AutoC and
+until his or her successor shall have been duly elected or appointed and shall
+have qualified, or until his or her earlier death, resignation, or removal. The
+respective names, residence addresses, and offices shall be as follows:
+
+James Miller
+Chief Executive Officer and Chairman of the Board
+28 Nailsworth Mills
+Nailsworth Glos GL6 08S
+United Kingdom
+
+Kimberly Tate
+Chief Financial Officer and Secretary
+14573 Rios Canyon Road
+El Cajon, California 92021
+
+
+
+<PAGE>
+
+Seth Scally
+Vice-President
+3969 Charles Street
+La Mesa, California 91941
+
+AutoC may have such other officers as shall be provided for in its By-Laws. If,
+on the Effective Date, a vacancy shall exist on the Board of Directors or in any
+of the offices above specified, by reason of the inability or failure of any of
+the above persons to accept the office to which he or she is designated, such
+vacancy may thereafter be filled in the manner provided by law or in the By-Laws
+of AutoC.
+
+3.       CLOSING
+
+3.1 Time and Place of Closing. The closing of the transactions contemplated by
+this Agreement (the "Closing") shall take place on January 20, 2003, at 10:00
+a.m., local time, at the offices of Sichenzia Ross Friedman Ference LLP in New
+York City, or, at such other date, hour or place as AutoC and Autocarbon LTD
+shall hereafter agree in writing, but in, no event later than November 30th,
+2002 (the date the Closing occurs is herein referred to as the "Closing Date").
+The Closing shall be effective as of 11:59 p.m. E.D.T. on the day immediately
+preceding the Closing Date, with all occurrences and transactions after that
+time being for the account of AutoC.
+
+3.2 Deliveries by Autocarbon LTD. At the Closing, Autocarbon LTD shall use its
+best efforts to deliver to AutoC, certificates evidencing all of the Autocarbon
+LTD Shares, and, in addition, Autocarbon LTD shall deliver to AutoC the
+following:
+
+         (a) the letters described in Section 8.1(j) hereof (or, in lieu
+thereof, such other information as shall be deemed necessary by AutoC in order
+to enable AutoC to comply with its obligations under Federal and state
+securities laws with respect to the Exchange and the transactions contemplated
+hereby), and all of the issued and outstanding shares of capital stock of each
+of the subsidiaries of Autocarbon LTD identified on EXHIBIT 4.1 hereto (each a
+"Subsidiary" or, collectively, the "Subsidiaries");
+
+         (b) the Certificate described in Sections 8.1(a) and 8.1(b) hereof;
+
+         (c) the legal opinion of counsel to Autocarbon Ltd which opinion shall
+be in form and substance which is acceptable to counsel for AutoC;
+
+         (d) "Long Form" Good Standing Certificates of Autocarbon Ltd and each
+of the Subsidiaries, certified by the Company Secretary of Autocarbon Ltd and
+Good Standing Certificates certified by the Secretary of Autocarbon Ltd of each
+other jurisdiction in which Autocarbon LTD or any of the Subsidiaries transacts
+business; such Certificates to be of a date not more than 10 days prior to the
+Closing Date;
+
+
+<PAGE>
+
+         (e) copies of the Certificate of Incorporation of Autocarbon Ltd and
+each of the Subsidiaries, including all amendments thereto, certified by the
+Registrar of companies, as of a date not more than 10 days prior to the Closing
+Date;
+
+         (f) resolutions of Autocarbon LTD's Board of Directors, certified by
+the Secretary of Autocarbon Ltd as of the Closing Date, authorizing this
+Agreement and the transactions contemplated hereby;
+
+         (g) copies of the By-Laws of Autocarbon LTD and each of the
+Subsidiaries, as amended, certified by the Secretary of Autocarbon LTD or each
+of the subsidiaries, as applicable, as of the Closing Date; and
+
+         (h) Certificate of Incumbency of Autocarbon LTD as to each officer
+authorized to execute this Agreement and the documents to be delivered pursuant
+hereto.
+
+3.3 Deliveries by AutoC. At the Closing, AutoC shall deliver the following:
+
+         (a) the AutoC Shares, registered in the name(s) of the persons and in
+the amounts set forth on EXHIBIT 4.19 hereto, or in lieu thereof, instructions
+to AutoC's transfer agent, duly executed on behalf of AutoC, directing the
+issuance of the AutoC Shares, as aforesaid;
+
+         (b) the Certificate described in Sections 8.2(a) and 8.2(b) hereof;
+
+         (c) the legal opinion of counsel to AutoC, which opinion shall be in
+form and substance which is acceptable to counsel for Autocarbon LTD;
+
+         (d) "Long Form" Good Standing Certificate of AutoC, certified by the
+Secretary of State of Arizona as of a date not more than 10 days prior to the
+Closing Date; and
+
+         (e) Certificate of Incumbency of AutoC as to each officer authorized to
+execute this Agreement and the documents to be delivered pursuant hereto.
+
+3.4 Additional Deliveries. At the Closing, AutoC and Autocarbon LTD shall
+execute and/or deliver the following:
+
+         (a) a Delaware Certificate of Exchange, substantially in the form of
+EXHIBIT 3.4(A) hereto; and
+
+         (b) such other documents as may reasonably be deemed necessary in order
+to consummate the transactions contemplated hereby.
+
+4.       REPRESENTATIONS AND WARRANTIES OF AUTOCARBON LTD Autocarbon Ltd
+including each of the Subsidiaries, hereby represents and warrants to AutoC as
+follows:
+
+4.1 Status. Autocarbon LTD and each of its Subsidiaries is, and at the Closing
+will be, a corporation duly organized, validly existing and in good standing
+under the laws of England & Wales, and qualified to transact business in each
+jurisdiction in which it is required to be qualified to do business in order to
+conduct its business operations. Autocarbon LTD is the record and beneficial
+
+
+<PAGE>
+
+owner of 100% of the issued and outstanding capital shares or membership
+interest of each of the Subsidiaries and, subject to security interests in favor
+of AutoC, owns such shares free and clear of all liens, claims, pledges,
+restrictions, obligations, security interests and encumbrances of any kind.
+Unless the context otherwise requires, Autocarbon LTD and its Subsidiaries are
+herein collectively referred to as "Autocarbon LTD". On the Closing Date,
+Autocarbon LTD will have no subsidiaries other than those identified on EXHIBIT
+4.1 hereto.
+
+4.2 Authority. Autocarbon LTD has, and at the Closing will have, all necessary
+corporate power and authority to enter into this Agreement and to perform the
+obligations to be performed by it hereunder. This Agreement is, and at the
+Closing will be, valid and legally binding upon Autocarbon LTD, enforceable in
+accordance with its terms, except only as may be affected by bankruptcy,
+insolvency, reorganization, moratorium or similar laws affecting creditors'
+rights generally; and the execution and delivery of this Agreement and the
+consummation of the transactions contemplated hereby do not, and at the Closing
+will not, violate any law, or any rule or regulation of any administrative
+agency or any governmental body, or any order, writ, injunction or decree of any
+court, administrative agency or governmental body applicable to Autocarbon LTD,
+or the Certificate of Incorporation or By-Laws of Autocarbon LTD, as amended, or
+any indenture, loan agreement, contract or other instrument to which Autocarbon
+LTD is a party or by which Autocarbon LTD or any of its assets is bound.
+
+4.3 Third Party Consents. No consent, authorization, order or approval of, or
+filing or registration with, any governmental authority or other person is
+required for the execution and delivery of this Agreement or the consummation by
+Autocarbon LTD of any of the transactions contemplated hereby.
+
+4.4 Title to Assets. Autocarbon LTD has, and at the Closing will have, good and
+marketable title to all of its assets, and except as set forth on EXHIBIT 4.4
+hereto, at the Closing such assets will be free and clear of all liens, charges,
+security interests or other encumbrances except liens for current taxes not yet
+due.
+
+4.5 Trade Names. Autocarbon LTD has no knowledge of facts which would adversely
+affect the validity enforceability and scope of any of the trade names used in
+conjunction with its business, each of which trade names is identified on
+EXHIBIT 4.5 hereto (collectively, the "Trade Names"). None of the Trade Names,
+as presently used by Autocarbon LTD, infringes upon or otherwise violates any
+rights of any third party. Autocarbon LTD has not granted any licenses of the
+Trade Names. None of the Trade Names have been registered with the United States
+Patent and Trademark Office.
+
+4.6 Condition of Assets. Autocarbon LTD's assets have been maintained for their
+respective intended purposes in the ordinary course of business and are in good
+condition and repair except for ordinary wear and tear; and the facilities
+leased in connection with Autocarbon LTD's business operations have been
+maintained in the ordinary course and no material expenditures are presently
+required for the repair and maintenance thereof.
+
+
+
+<PAGE>
+
+4.7 Change in Assets. Since the date of the most recent of the Autocarbon LTD
+Financial Statements (as hereinafter defined) included in EXHIBIT 4.8 hereto,
+Autocarbon LTD has not disposed of any material portion of its assets, except in
+the usual and ordinary course of business as conducted prior to such date.
+
+4.8 Financial Statements. EXHIBIT 4.8 contains the consolidated financial
+statements of Autocarbon LTD as at 22nd November 2002, (collectively; the
+"Autocarbon LTD Financial Statements"). The Autocarbon LTD Financial Statements
+include the assets, liabilities and results of operations of Autocarbon LTD for
+the periods indicated; are consistent with the books and records of Autocarbon
+LTD; were prepared in accordance with generally accepted accounting principles,
+prepared on a consistent basis throughout the periods indicated; and present
+fairly the consolidated financial position of Autocarbon LTD as of the dates
+thereof and the results of operations for the periods indicated.
+
+4.9 Collectibility of Accounts. The accounts, notes and other receivables which
+are reflected on the Autocarbon LTD Financial Statements were acquired in the
+ordinary and regular course of business of Autocarbon LTD and are collectible in
+the ordinary course of business subject to the allowance for doubtful accounts
+on such financial statements.
+
+4.10 Books and Records. Except with respect to taxes not yet assessed, the
+underlying books and records of Autocarbon LTD reflect all of the debts,
+liabilities and obligations of any nature (whether absolute, accrued or
+otherwise, and whether due or to become due) of Autocarbon LTD at the dates
+thereof. Autocarbon LTD has not given any guarantees of the obligations of any
+other person or entity except as specifically reflected in the Autocarbon LTD
+Financial Statements included in EXHIBIT 4.8 hereto.
+
+4.11 Undisclosed Liabilities. As of the date of the latest Autocarbon LTD
+Financial Statements included in EXHIBIT 4.8 hereto, Autocarbon LTD had no
+liabilities of any nature, whether accrued, absolute, contingent, or otherwise;
+including without limitation, tax liabilities due or to become due, and whether
+incurred in respect of or measured by the income of Autocarbon LTD for any
+period prior to such date, or arising out of transactions entered into, or any
+state of facts existing, prior thereto, except as reflected in the Autocarbon
+LTD Financial Statements included in EXHIBIT 4.8 hereto. Autocarbon LTD does not
+know or have reasonable grounds to know of any basis for the assertion against
+Autocarbon LTD of any liability of any nature or in any amount not fully
+reflected or reserved against, except to the extent reflected in the Autocarbon
+LTD Financial Statements.
+
+4.12 Litigation. Except as set forth on EXHIBIT 4.12, there is no litigation,
+action, suit or other proceeding pending or, to the best of Autocarbon LTD's
+knowledge, any material litigation, action, suit or other proceeding threatened
+against Autocarbon LTD relating to the business or the assets of Autocarbon LTD,
+or which could adversely affect the transactions contemplated by this Agreement.
+
+
+
+<PAGE>
+
+4.13 Taxes. Autocarbon LTD and each of the Subsidiaries has duly filed all tax
+reports and returns (federal, state and local income, corporate, franchise and
+other) required by it to be filed. These returns and reports are true and
+correct in all material respects and all taxes due pursuant thereto have been
+paid. Copies of all such tax returns have been provided to AutoC. The provision
+for taxes shown in the Autocarbon LTD Financial Statements is adequate for taxes
+due or accrued as of the dates thereof. Autocarbon LTD has not received notice
+of any tax deficiency outstanding, proposed or assessed against it, nor has it
+executed any waiver of any statute of limitations on the assessment or
+collection of any tax. There are no tax liens upon, pending against, or to the
+best knowledge of Autocarbon LTD, threatened against any of the assets of
+Autocarbon LTD. Autocarbon LTD is current in its payment obligations for workers
+compensation and disability insurance, withholding and payroll taxes and other
+required payments in respect of its employees.
+
+4.14 Compliance with Laws. The business of Autocarbon LTD is, and at the Closing
+will be, in compliance in all material respects with all laws, federal, state or
+local, and all provisions of all rules, and regulations of any federal agency,
+authority, board, commission, or the like, or any state or local government, or
+any authority, agency, board, commission, or the like having jurisdiction over
+such business; including those relating to environmental laws and regulations.
+Autocarbon LTD possesses all material licenses, permits and governmental
+approvals and authorizations, which are required to own its assets and conduct
+its business as heretofore conducted.
+
+4.15 Material Agreements. Attached hereto as EXHIBIT 4.15 is a schedule of all
+written and oral contracts, leases and other agreements which are material to
+the business conducted by Autocarbon LTD. Copies of all such written contracts;
+leases and agreements have been. provided to AutoC. Except as indicated on
+EXHIBIT 4.15, all such material contracts, leases and agreements permit the
+transactions contemplated by this Agreement without the consent of any other
+party, or, if such consent is required, the consent has been obtained or will be
+obtained prior to Closing. Except as set forth on EXHIBIT 4:15, all such
+material contracts, leases and agreements are in full force and binding upon the
+parties thereto, and no party thereto is in material default of any such
+agreements.
+
+4.16 Environmental Matters. To the best of Autocarbon LTD's knowledge, there has
+not been, and is not occurring, any "release" of any "hazardous substance" at
+any premises owned, leased, and/or used by Autocarbon LTD. For purposes of this
+Agreement the terms "release" and "hazardous substance" shall have the same
+meaning as those terms are given in the Comprehensive Environmental Response
+Compensation and Liability Act of 1980, 42 U.S.C. 9601, et. seq. ("CERCLA"),
+except that for purposes of this Agreement, "petroleum" (including crude oil or
+any fraction thereo shall be deemed a "hazardous substance." Autocarbon LTD has
+never sent hazardous substances from any such premises to a site (a) which
+pursuant to CERCLA or any similar state law has been placed, or is proposed to
+be placed, on the "National Priorities List" of hazardous waste sites, or (b)
+which is subject to a claim, an administrative order or other request to take
+"removal" or "remedial" action (as defined under CERCLA) or to pay for any costs
+relating to such site. To the best of Autocarbon LTD's knowledge, no asbestos is
+contained in the buildings, fixtures or appurtenances at any premises owned,
+leased or used by Autocarbon LTD.
+
+
+<PAGE>
+
+4.17 Employees.
+
+         (a) Attached hereto as EXHIBIT 4.17 is a list of the hourly and
+salaried employees of Autocarbon LTD (the "List of Employees"). Except as
+described on EXHIBIT 4.17; there are no employment, severance or termination
+agreements or similar arrangements with any of Autocarbon LTD's management or
+other employees which would subject either AutoC or Autocarbon LTD to any
+payment or other obligation as a result of the consummation of the transactions
+contemplated by this Agreement. The List of Employees shows (i) each employee's
+gross compensation from Autocarbon LTD for the year ended December 31, 2001, and
+each such employee's gross annual salary or hourly rate, as applicable, as of
+the date hereof. Except in the ordinary course of business, since December 31,
+2001, Autocarbon LTD has not increased the salary or other compensation of any
+of its employees. .
+
+         (b) Since the date of its incorporation (and dates of incorporation of
+each of its Subsidiaries), Autocarbon LTD has not maintained, sponsored or
+contributed to any employee pension benefit plan within the meaning of Section
+3(3) of the Employee Retirement Income Security Act of 1974, as amended,
+("ERISA"). Autocarbon LTD; has no employee welfare benefit plan (within the
+meaning of Section 3( 1 ) of ERISA), stock option, stock purchase, incentive,
+severance, bonus, deferred compensation, or similar benefit plans and
+amendments, in which any employee of Autocarbon LTD participates.
+
+         (c) Except as asset forth on EXHIBIT 4.17, Autocarbon LTD has complied
+with the Immigration Reform and Control Act of 1986, as amended, with respect to
+its employees including, but not limited to, Immigration and Naturalization
+Service Form I-9 requirements.
+
+4.18 Labor Matters. Autocarbon LTD is not a party to any collective bargaining
+agreement affecting its business, nor are there any pending efforts by any union
+to organize employees utilized in its business. Within the past five years there
+have been no work stoppages or strikes or any significant labor troubles
+affecting Autocarbon LTD. There are not pending complaints before the National
+Labor Relations Board, nor, to the best of Autocarbon LTD's knowledge has
+Autocarbon LTD engaged in any activity relating to its business which would
+constitute an unfair labor practice. There are no pending OSHA investigations
+involving the business of Autocarbon LTD, nor, to the best of Autocarbon LTD's
+knowledge, will any condition exist on the Closing Date which condition would
+constitute a violation of any applicable state or federal safety_ laws or
+regulations.
+
+4.19 Shareholders List. The list of Autocarbon LTD's shareholders annexed hereto
+as EXHIBIT 4.L9 is a true, correct and complete list of the shareholders of
+Autocarbon LTD as of the date hereof and, to the-best of Autocarbon LTD's
+knowledge, no person, not identified on EXHIBIT 4.19 has any beneficial interest
+in any of the Autocarbon LTD Shares.
+
+4.20 Capital Shares. Autocarbon LTD is authorized to issue only one class of
+capital stock, i.e: Common Stock, 1.00 UK pound par value, of which there are
+10,000,000 shares authorized and 944,716 shares to be issued and outstanding
+(the "Autocarbon LTD Shares") as of the Closing Date. All of the Autocarbon LTD
+Shares have been duly authorized and, on the Closing Date will be, validly
+issued, fully paid and non-assessable, and offered and sold in accordance with
+
+
+<PAGE>
+
+applicable corporate and securities laws or applicable exemptions thereunder,
+and there are and will be no preemptive rights in respect thereof. Except as
+described on EXHIBIT 4.20, there are no outstanding options, warrants, rights,
+calls, puts, commitments, plans or other, agreements of any character providing
+for the purchase or issuance of any authorized but unissued shares of the
+capital stock of Autocarbon LTD or any of its Subsidiaries.
+
+4.21 Officers and Directors. EXHIBIT 4.21 hereto sets forth a true and complete
+list, as of the date of this Agreement, showing the names of all of the
+directors and officers of Autocarbon LTD and each of its Subsidiaries.
+
+4.22 Bank Accounts. EXHIBIT 4.22 hereto sets forth a true and complete list as
+of the date hereof, certified by the Secretary of Autocarbon LTD, showing the
+name of each bank in which Autocarbon LTD has an account or safety deposit box,
+and the names of all persons authorized to draw thereon, or to have access
+thereto.
+
+4.23 Charter. EXHIBIT 4.23 hereto contains true and complete copies of the
+Certificate of Incorporation of Autocarbon LTD and all amendments thereto, and
+its By-Laws and all amendments thereto. True and correct copies of all of its
+minute and stock record books have been delivered to Autocarbon.
+
+4.24 Insurance. EXHIBIT 4.24 hereto sets forth a complete and correct list and
+summary description of all policies of fire, liability and other forms of
+insurance held by Autocarbon LTD: Such policies are in amounts deemed by
+Autocarbon LTD to be sufficient, and valid policies, in such amounts; will be
+outstanding and duly in force on the Closing Date.
+
+4.25 Guarantees. Neither Autocarbon LTD nor any of its Subsidiaries is liable
+for and/or has guaranteed the obligations of any person or entity other than the
+obligations of a Subsidiary, which obligation is disclosed in the latest
+Autocarbon LTD Financial Statements included in EXHIBIT 4.8 hereto, nor is
+Autocarbon LTD or any such Subsidiary a party to any agreement to do so.
+
+4.26 Accuracy; Survival. The representations, warranties and statements of
+Autocarbon LTD contained in this Agreement or any Exhibit hereto, or in any
+Certificate delivered by Autocarbon LTD pursuant to this Agreement, are true and
+correct in all material respects and do not omit to state a material fact
+necessary in order to make the representations, warranties or statements
+contained herein or therein not misleading. All such representations, warranties
+and statements shall survive the Closing (and none shall merge into any
+instrument of conveyance), regardless of any investigation or lack of
+investigation by either of the parries to this Agreement.
+
+
+<PAGE>
+
+5.       COVENANTS BY AUTOCARBON LTD
+
+5.1 Nature of Covenants. Since the date of the latest Autocarbon LTD Financial
+Statements, included in EXHIBIT 4.8 hereto, Autocarbon LTD has not, and prior to
+the Closing Date, will not have:
+
+       (a) incurred any material adverse change in its liabilities;
+capitalization and/or condition (financial or otherwise), other than changes in
+the ordinary course of business, none of which will have been materially
+adverse;
+
+       (b) experienced any event or condition, or threat thereof, which does; or
+reasonably. might, materially adversely affect its condition (financial or
+otherwise);
+
+       (c) made any loan or advance to any person;
+
+       (d) declared or paid any dividends on its capital stock or redeemed,
+purchased or otherwise acquired any shares of its capital stock (including
+without limitation; by the payment or obligation to pay dissenter's or appraisal
+right);
+
+       (e) subjected any of its assets to any mortgage, deed of trust, lien,
+pledge, conditional sales contract, lease, encumbrance or charge, sold, leased,
+or otherwise transferred any of its assets;
+
+       (g) entered into any agreement other than those described or referred to
+in this Agreement or any Exhibit hereto, other than in the ordinary course of
+business;
+
+       (h) incurred any obligation or liability for borrowed money, or incurred
+any other obligations or liability, other than those incurred to AutoC and those
+incurred in the ordinary course of business;
+
+       (i) issued or sold any of its equity or debt securities;
+
+       (j) except as set forth on EXHIBIT 5.1 (J), increased the salary, fringe
+benefits or other compensation of, or paid any bonus or similar compensation to,
+any of their employees, officers or directors of Autocarbon LTD; or
+
+       (k) agreed to do any of the things described in the preceding clauses (a)
+through (j).
+
+5.2 Access to Information. Commencing on the date hereof and continuing to the
+Closing Date, Autocarbon LTD, upon reasonable notice, shall give to AutoC and
+its officers, employees, attorneys, consultants, accountants and other
+representatives, access during normal business hours, to the, employees of
+Autocarbon LTD, its business locations, and all books, contracts, documents and
+records relating to the business and the assets of Autocarbon LTD, and shall
+furnish to AutoC such information as AutoC may at any time and from time to time
+reasonably request with respect to Autocarbon LTD, its business and assets.
+
+
+<PAGE>
+
+6.       REPRESENTATIONS AND WARRANTIES OF AUTOC. AutoC hereby represents and
+warrants to Autocarbon LTD as follows:
+
+6.1 Status. AutoC is, and at the Closing will be, a corporation duly organized,
+validly existing and in good standing under the laws of the State of Arizona,
+and qualified to transact business in each jurisdiction in which it is required
+to be qualified to do business in order to conduct its business operations.
+AutoC is the record and beneficial owner of 100% of the issued and outstanding
+capital shares of each of the Subsidiaries and owns such shares free and clear
+of all liens, claims, pledges, restrictions, obligations, security interests and
+encumbrances of any kind. Unless the context otherwise requires, AutoC and its
+Subsidiaries are herein collectively referred to as "AutoC". On the Closing
+Date, AutoC will have no subsidiaries other than those identified on EXHIBIT 6.1
+hereto.
+
+6.2 Authority. AutoC has, and at the Closing will have, all necessary corporate
+power and authority to enter into this Agreement and to perform the obligations
+to be performed by it hereunder. This Agreement is, and at the Closing will be,
+valid and legally binding upon AutoC, enforceable in accordance with its terms,
+except only as may be affected by bankruptcy, insolvency, reorganization,
+moratorium or similar laws affecting creditors' rights generally; and the
+execution and delivery of this Agreement and the consummation of the
+transactions contemplated hereby do not, and at the Closing will not, violate
+any law, or any rule or regulation of any administrative agency or any
+governmental body, or any order, writ, injunction or decree of any court,
+administrative agency or governmental body applicable to AutoC, or the
+Certificate of Incorporation or By-Laws of AutoC, as amended, or any indenture,
+loan agreement, contract or other instrument to which AutoC is a party or by
+which AutoC or any of its assets is bound.
+
+6.3 Third Party Consents. No consent, authorization, order or approval of, or
+filing or registration with, any governmental authority or other person is
+required for the execution and delivery of this Agreement or the consummation by
+AutoC of any of the transactions contemplated hereby.
+
+6.4 Title to Assets. AutoC has, and at the Closing will have, good and
+marketable title to all of its assets, and except as set forth on EXHIBIT 6.4
+hereto, at the Closing such assets will be free and clear of all liens, charges,
+security interests or other encumbrances except liens for current taxes not yet
+due.
+
+6.5 Trade Names. AutoC has no knowledge of facts which would adversely affect
+the validity enforceability and scope of any of the trade names used in
+conjunction with its business, each of which trade names is identified on
+EXHIBIT 6.5 hereto (collectively, the "Trade Names"). None of the Trade Names,
+as presently used by AutoC, infringes upon or otherwise violates any rights of
+any third party. AutoC has not granted any licenses of the Trade Names. None of
+the Trade Names have been registered with the United States Patent and Trademark
+Office.
+
+6.6 Condition of Assets. AutoC's assets have been maintained for their
+respective intended purposes in the ordinary course of business and are in good
+condition and repair except for ordinary wear and tear; and the facilities
+leased in connection with AutoC's business operations have been maintained in
+the ordinary course and no material expenditures are presently required for the
+repair and maintenance thereof.
+
+
+<PAGE>
+
+6.7 Change in Assets. Since the date of the most recent of the AutoC Financial
+Statements (as hereinafter defined) included in EXHIBIT 6.8 hereto, AutoC has
+not disposed of any material portion of its assets, except in the usual and
+ordinary course of business as conducted prior to such date.
+
+6.8 Financial Statements. EXHIBIT 6.8 contains the audited consolidated
+financial statements of AutoC for the last two fiscal years (collectively; the
+"AutoC Financial Statements"). The AutoC Financial Statements include the
+assets, liabilities and results of operations of AutoC for the periods
+indicated; are consistent with the books and records of AutoC; were prepared in
+accordance with generally accepted accounting principles, prepared on a
+consistent basis throughout the periods indicated; and present fairly the
+consolidated financial position of AutoC as of the dates thereof and the results
+of operations for the periods indicated.
+
+6.9 Collectibility of Accounts. The accounts, notes and other receivables which
+are reflected on the AutoC Financial Statements were acquired in the ordinary
+and regular course of business of AutoC and are collectible in the ordinary
+course of business subject to the allowance for doubtful accounts on such
+financial statements.
+
+6.10 Books and Records. Except with respect to taxes not yet assessed, the
+underlying books and records of AutoC reflect all of the debts, liabilities and
+obligations of any nature (whether absolute, accrued or otherwise, and whether
+due or to become due) of AutoC at the dates thereof. AutoC has not given any
+guarantees of the obligations of any other person or entity except as
+specifically reflected in the AutoC Financial Statements included in EXHIBIT 6.8
+hereto.
+
+6.11 Undisclosed Liabilities. As of the date of the latest AutoC Financial
+Statements included in EXHIBIT 6.8 hereto, AutoC had no liabilities of any
+nature, whether accrued, absolute, contingent, or otherwise; including without
+limitation, tax liabilities due or to become due, and whether incurred in
+respect of or measured by the income of AutoC for any period prior to such date,
+or arising out of transactions entered into, or any state of facts existing,
+prior thereto, except as reflected in the AutoC Financial Statements included in
+EXHIBIT 6.8 hereto. AutoC does not know or have reasonable grounds to know of
+any basis for the assertion against AutoC of any liability of any nature or in
+any amount not fully reflected or reserved against, except to the extent
+reflected in the AutoC Financial Statements.
+
+6.12 Litigation. Except as set forth on EXHIBIT 6.12, there is no litigation,
+action, suit or other proceeding pending or, to the best of AutoC 's knowledge,
+any material litigation, action, suit or other proceeding threatened against
+AutoC relating to the business or the assets of AutoC, or which could adversely
+affect the transactions contemplated by this Agreement.
+
+6.13 Taxes. AutoC and each of the Subsidiaries has duly filed all tax reports
+and returns (federal, state and local income, corporate, franchise and other)
+required by it to be filed. These returns and reports are true and correct in
+all material respects and all taxes due pursuant thereto have been paid. Copies
+of all such tax returns have been provided to AutoC. The provision for taxes
+shown in the AutoC Financial Statements is adequate for taxes due or accrued as
+
+
+<PAGE>
+
+of the dates thereof. AutoC has not received notice of any tax deficiency
+outstanding, proposed or assessed against it, nor has it executed any waiver of
+any statute of limitations on the assessment or collection of any tax. There are
+no tax liens upon, pending against, or to the best knowledge of AutoC,
+threatened against any of the assets of AutoC. AutoC is current in its payment
+obligations for workers compensation and disability insurance, withholding and
+payroll taxes and other required payments in respect of its employees.
+
+6.14 Compliance with Laws. The business of AutoC is, and at the Closing will be,
+in compliance in all material respects with all laws, federal, state or local,
+and all provisions of all rules, and regulations of any federal agency,
+authority, board, commission, or the like, or any state or local government, or
+any authority, agency, board, commission, or the like having jurisdiction over
+such business; including those relating to environmental laws and regulations.
+AutoC possesses all material licenses, permits and governmental approvals and
+authorizations which are required to own its assets and conduct its business as
+heretofore conducted.
+
+6.15 Material Agreements. Attached hereto as EXHIBIT 6.15 is a schedule of all
+written and oral contracts, leases and other agreements which are material to
+the business conducted by AutoC. Copies of all such written contracts; leases
+and agreements have been. provided to AutoC. Except as indicated on EXHIBIT
+6.15, all such material contracts, leases and agreements permit the transactions
+contemplated by this Agreement without the consent of any other party, or, if
+such consent is required, the consent has been obtained or will be obtained
+prior to Closing. Except as set forth on EXHIBIT 6.15, all such material
+contracts, leases and agreements are in full force and binding upon the parties
+thereto, and no party thereto is in material default of any such agreements.
+
+6.16 Environmental Matters. To the best of AutoC's knowledge, there has not
+been, and is not occurring, any "release" of any "hazardous substance" at any
+premises owned, leased, and/or used by AutoC. For purposes of this Agreement the
+terms "release" and "hazardous substance" shall have the same meaning as those
+terms are given in the Comprehensive Environmental Response Compensation and
+Liability Act of 1980, 42 U.S.C. 9601, et. seq. ("CERCLA"), except that for
+purposes of this Agreement, "petroleum" (including crude oil or any fraction
+thereo shall be deemed a "hazardous substance." AutoC has never sent hazardous
+substances from any such premises to a site (a) which pursuant to CERCLA or any
+similar state law has been placed, or is proposed to be placed, on the "National
+Priorities List" of hazardous waste sites, or (b) which is subject to a claim,
+an administrative order or other request to take "removal" or "remedial" action
+(as defined under CERCLA) or to pay for any costs relating to such site. To the
+best of AutoC's knowledge, no asbestos is contained in the buildings, fixtures
+or appurtenances at any premises owned, leased or used by AutoC.
+
+6.17 Employees.
+
+         (a) Attached hereto as EXHIBIT 6.17 is a list of the hourly and
+salaried employees of AutoC (the "List of Employees"). Except as described on
+EXHIBIT 6.17; there are no employment, severance or termination agreements or
+similar arrangements with any of AutoC's management or other employees which
+would subject either AutoC or Autocarbon LTD to any payment or other obligation
+
+
+<PAGE>
+
+as a result of the consummation of the transactions contemplated by this
+Agreement. The List of Employees shows (i) each employee's gross compensation
+from AutoC for the year ended December 31, 2001, and each such employee's gross
+annual salary or hourly rate, as applicable, as of the date hereof. Except in
+the ordinary course of business, since December 31, 2001, AutoC has not
+increased the salary or other compensation of any of its employees. .
+
+         (b) Since the date of its incorporation (and dates of incorporation of
+each of its Subsidiaries), AutoC has not maintained, sponsored or contributed to
+any employee pension benefit plan within the meaning of Section 3(3) of the
+Employee Retirement Income Security Act of 1974, as amended, ("ERISA"). AutoC
+has no employee welfare benefit plan (within the meaning of Section 3(1) of
+ERISA), stock option, stock purchase, incentive, severance, bonus, deferred
+compensation, or similar benefit plans and amendments, in which any employee of
+AutoC participates.
+
+         (c) Except as asset forth on EXHIBIT 6.17, AutoC has complied with the
+Immigration Reform and Control Act of 1986, as amended, with respect to its
+employees including, but not limited to, Immigration and Naturalization Service
+Form I-9 requirements.
+
+6.18 Labor Matters. AutoC is not a party to any collective bargaining agreement
+affecting its business, nor are there any pending efforts by any union to
+organize employees utilized in its business. Within the past five years there
+have been no work stoppages or strikes or any significant labor troubles
+affecting AutoC. There are not pending complaints before the National Labor
+Relations Board, nor, to the best of AutoC 's knowledge has AutoC engaged in any
+activity relating to its business, which would constitute an unfair labor
+practice. There are no pending OSHA investigations involving the business of
+AutoC, nor, to the best of AutoC 's knowledge, will any condition exist on the
+Closing Date which condition would constitute a violation of any applicable
+state or federal safety laws or regulations.
+
+6.19 Capital Stock. AutoC is authorized to issue only one class of capital
+stock, i.e.: Common Stock, $.0001 par value, of which there are 100, 000,000
+shares authorized and 9,679,754 shares to be issued and outstanding (the "AutoC
+Shares") as of the Closing Date. All of the AutoC Shares have been duly
+authorized and, on the Closing Date will be, validly issued, fully paid and
+non-assessable, and offered and sold in accordance with applicable federal and
+state securities laws or applicable exemptions thereunder, and there are and
+will be no preemptive rights in respect thereof. Except as described on EXHIBIT
+6.19, there are no outstanding options, warrants, rights, calls, puts,
+commitments, plans or other, agreements of any character providing for the
+purchase or issuance of any authorized but unissued shares of the capital stock
+of AutoC or any of its Subsidiaries.
+
+6.20 Officers and Directors. EXHIBIT 6.20 hereto sets forth a true and complete
+list, as of the date of this Agreement, showing the names of all of the
+directors and officers of AutoC and each of its Subsidiaries.
+
+
+<PAGE>
+
+6.21 Bank Accounts. EXHIBIT 6.21 hereto sets forth a true and complete list as
+of the date hereof, certified by the Treasurer of AutoC, showing the name of
+each bank in which AutoC has an account or safety deposit box, and the names of
+all persons authorized to draw thereon, or to have access thereto.
+
+6.22 Charter. EXHIBIT 6.22 hereto contains true and complete copies of the
+Certificate of Incorporation of AutoC and all amendments thereto, and its
+By-Laws and all amendments thereto. True and correct copies of all of its minute
+and stock record books have been delivered to AutoC.
+
+6.23 Insurance. EXHIBIT 6.23 hereto sets forth a complete and correct list and
+summary description of all policies of fire, liability and other forms of
+insurance held by AutoC. Such policies are in amounts deemed by AutoC to be
+sufficient, and valid policies, in such amounts will be outstanding and duly in
+force on the Closing Date.
+
+6.24 Guarantees. Neither AutoC nor any of its Subsidiaries is liable for and/or
+has guaranteed the obligations of any person or entity other than the
+obligations of a Subsidiary, which obligation is disclosed in the latest AutoC
+Financial Statements included in EXHIBIT 6.8 hereto, nor is AutoC or any such
+Subsidiary a party to any agreement to do so.
+
+6.25 Accuracy; Survival. The representations, warranties and statements of AutoC
+contained in this Agreement or any Exhibit hereto, or in any Certificate
+delivered by AutoC pursuant to this Agreement, are true and correct in all
+material respects and do not omit to state a material fact necessary in order to
+make the representations, warranties or statements contained herein or therein
+not misleading. All such representations, warranties and statements shall
+survive the Closing (and none shall merge into any instrument of conveyance),
+regardless of any investigation or lack of investigation by either of the
+parries to this Agreement.
+
+7.       COVENANT BY AUTOC
+
+7.1 Nature of Covenants. Since the date of the latest AutoC's Financial
+Statements included in EXHIBIT 6.8 hereto, AutoC has not, and prior to the
+Closing Date, will not have:.
+
+         (a) incurred any material adverse change in its liabilities,
+capitalization and/or condition (financial or otherwise), other than changes in
+the ordinary course of business, none of which will have been materially
+adverse;
+
+         (b) experienced any event or condition, or threat thereof, which does,
+or reasonably might, materially adversely affect its condition (financially or
+otherwise);
+
+         (c) made any loan or advance to any person other than in the ordinary
+course of business;
+
+         (d) declared or paid any dividends on its capital stock or redeemed,
+purchased or otherwise acquired any shares of its capital stock;
+
+
+<PAGE>
+
+         (e) subjected any of its assets to any mortgage, deed of trust, lien,
+pledge, conditional sales contract, lease, encumbrance or charge;
+
+         (f) sold, leased, or otherwise transferred any of its assets;
+
+         (g) entered into any agreement other than those described or referred
+to in this Agreement or any Exhibit hereto, other than in the ordinary course of
+business;
+
+             (h) incurred any obligation or liability for borrowed money, or
+incurred any other obligations or liability, other than those incurred in the
+ordinary course of business;
+
+         (i) issued or sold any of its equity or debt securities, except
+securities reserved for issuance as of the date hereof;
+
+         (j) increased the salary, fringe benefits or other compensation of, or
+paid any bonus or similar compensation to, any of their employees, officers or
+directors of AutoC; or
+
+         (k) agreed to do any of the things described in the preceding clauses
+(a) through (j).
+
+7.2 Access to Information. Commencing on the date hereof and continuing to the
+Closing Date, AutoC upon reasonable notice, shall give to Autocarbon LTD and its
+officers, employees, attorneys, consultants, accountants and other
+representatives, access during normal business hours, to the employees of AutoC,
+its business locations, and all books, contracts, documents and records relating
+to the business and the assets of AutoC, and shall furnish to Autocarbon LTD
+such information as Autocarbon LTD may at any time and from time to time
+reasonably request with respect to AutoC, its business and assets.
+
+8.       CONDITIONS PRECEDENT
+
+8.1 Conditions Precedent to AutoC's Obligations. The obligations of AutoC under
+this Agreement, including without limitation, AutoC's obligation to consummate
+the transactions contemplated hereby, are subject to the satisfaction, at or
+prior to the Closing Date, of the following conditions:
+
+         (a) Representations and Warranties. The representations and warranties
+of Autocarbon LTD set forth in this Agreement shall be true and correct in all
+material respects as of the date of this Agreement and as of the Closing Date as
+though made on and as of the Closing Date, and AutoC shall have received a
+Certificate signed by an officer of Autocarbon LTD to such effect.
+
+         (b) Performance of Obligations of Autocarbon LTD. Autocarbon LTD shall
+have performed all obligations required to be performed by it under this
+Agreement at or prior to the Closing Date, and AutoC shall have received a
+Certificate signed by an officer of Autocarbon LTD to such effect.
+
+
+<PAGE>
+
+         (c) No Adverse Change. The assets of Autocarbon LTD shall not have been
+adversely affected in any material way, including, without limitation, as a
+result of any fire, accident or other casualty or act of God or the public
+enemy, whether insured against or not.
+
+         (d) Instruments. All actions, proceedings, instruments or other legal
+matters required to carry out this Agreement shall have been delivered to AutoC.
+
+         (e) Litigation. No preliminary or permanent injunction or other order
+by any federal or state court in the United States which prevents the
+consummation of the transactions contemplated by this Agreement shall be in
+effect nor shall any person have brought suit to seek such an injunction or
+order to prevent the consummation of the transactions contemplated by this
+Agreement.
+
+         (f) Closing Documents. AutoC shall have received all documents to be
+delivered pursuant to Section 3.2 hereof.
+
+         (g) Consents. All consents and approvals that AutoC reasonably deems
+necessary to have obtained prior to the Closing Date in order to consummate the
+transactions contemplated by this Agreement shall have been obtained, including
+authorization of this Agreement by a majority of the outstanding Autocarbon LTD
+Common Stock.
+
+         (h) Resignations. Each current officer and/or director of Autocarbon
+LTD and each of its Subsidiaries shall have resigned as such, unless authorised
+to remain as such by AutoC.
+
+         (i) Outstanding Securities. Except as otherwise set forth in this
+Agreement or on Exhibit hereto, there shall be no outstanding options, warrants
+or other securities of Autocarbon LTD convertible into any securities of
+Autocarbon LTD; and Autocarbon LTD shall have no outstanding securities other
+than the Autocarbon LTD Shares.
+
+         (j) Subscription and Investment Letters. AutoC shall have received
+letters in the form of EXHIBIT 8.1 (J) hereto, duly executed by each record and
+beneficial owner of the Autocarbon LTD Shares, or in lieu thereof, AutoC shall
+have received such information as deemed necessary by AutoC in order to enable
+AutoC to comply with its obligations under Federal and state securities laws
+with respect to the Exchange and the transactions contemplated hereby.
+
+         (k) Dissenting Shareholders. The holders of five percent (5%) or more
+of the outstanding AutoC Shares shall not have exercised their dissenter's
+rights of appraisal under the Arizona Business Corporation Act.
+
+8.2 Conditions Precedent to Autocarbon LTD's Obligations. The obligations of
+Autocarbon LTD under this Agreement, including without limitation, Autocarbon
+LTD's obligation to consummate the transactions contemplated hereby, are subject
+to the satisfaction, at or prior to the Closing Date, of the following
+conditions:
+
+         (a) Representations and Warranties. The representations and warranties
+of AutoC set forth in this Agreement shall be true and correct in all material
+respects as of the date of this Agreement and as of the Closing Date as though
+made on and as of the Closing Date, and Autocarbon LTD shall have received a
+Certificate signed by an officer of AutoC to such effect.
+
+
+<PAGE>
+
+         (b) Performance of Obligations of AutoC. AutoC shall have performed all
+obligations required to be performed by it under this Agreement at or prior to
+the Closing Date and Autocarbon LTD shall have received a Certificate signed by
+an officer of AutoC to such effect.
+
+         (c) No Adverse Change. The assets of AutoC shall not have been
+adversely affected in any material way, including, without limitation, as a
+result of any fire, accident or other casualty or act of God or the public
+enemy, whether insured against or not;
+
+         (d) Instruments. All actions, proceedings, instruments or other legal
+matters required to carry out this Agreement shall have been delivered to
+Autocarbon LTD
+
+         (e) Litigation. No preliminary or permanent injunction or other order
+by any federal or state court in the United States which prevents the
+consummation of the transactions contemplated by this Agreement shall be in
+effect nor shall any person have brought suit to seek such an injunction or
+order to prevent the consummation of the transactions contemplated by this
+Agreement.
+
+         (f) Closing Documents. Autocarbon LTD shall have received all documents
+to be delivered pursuant to Section 3.3 hereof.
+
+         (g) Consents. All consents and approvals that Autocarbon LTD reasonably
+deems necessary to have obtained prior to the Closing Date in, order to
+consummate the transactions contemplated by this Stock Exchange Agreement shall
+have been obtained, including authorization of this Agreement by a majority of
+the Autocarbon LTD Shares.
+
+         (h) Dissenting Shareholders. The holders of five percent (5%) or more
+of the outstanding Autocarbon LTD Shares shall not have exercised their
+dissenter's rights of appraisal under the laws of England & Wales.
+
+9.       INDEMNIFICATION
+
+9.1 "Losses" Defined. As used in this Agreement, "Losses" shall mean all
+damages, losses, liabilities, costs and expenses of a party seeking
+indemnification pursuant to this Agreement (including, without limitation,
+reasonable attorneys' fees and disbursements charged to or paid by the party
+seeking indemnification) but excluding any punitive damages awarded against such
+party seeking indemnification as a result of its own acts or omissions.
+
+9.2 Indemnification by Autocarbon LTD. Autocarbon LTD hereby agrees to indemnify
+and hold harmless AutoC its directors, officers, employees, agents, successors
+and assigns, and any person who controls AutoC and any affiliate of AutoC
+(within the meaning of the Securities Act of 1933), from and against any and all
+Losses arising our of or resulting from (i) any and all liabilities and
+obligations of Autocarbon LTD, other than those reflected on the latest
+Autocarbon LTD Financial Statements delivered pursuant to Section 4.8 hereto or
+otherwise disclosed to AutoC in this Agreement or an Exhibit hereto; (ii) the
+material breach of any representation or warranty or other agreement of
+
+
+<PAGE>
+
+Autocarbon LTD or any Shareholder contained in this Agreement or any Exhibit
+hereto or in any Certificate by Autocarbon LTD or any Shareholder pursuant to
+this Agreement; and (iii) claims by any or all of the Shareholders of Autocarbon
+LTD in connection with the manner in which the transactions contemplated by this
+Agreement are disclosed to or approved by Autocarbon LTD's Shareholders, any
+agreements among the Shareholders of Autocarbon LTD, and/or any information
+furnished to Autocarbon LTD's Shareholders that is not provided in writing, by
+or on behalf of AutoC.
+
+9.3 Indemnification by AutoC. AutoC hereby indemnifies and holds harmless
+Autocarbon LTD, its directors, officers, employees, agents, successors and
+assigns, and any person who controls Autocarbon LTD and any affiliate of
+Autocarbon LTD (within the meaning of the Securities Act of 1933), from and
+against all Losses arising out of or resulting from the material breach of any
+representation or warranty or other agreement of AutoC contained in this
+Agreement or in any Exhibit hereto or in any Certificate delivered by AutoC
+pursuant to this Agreement.
+
+9.4 Claims. For the purposes of this Section 9.4 the party from whom
+indemnification is sought under this Agreement shall be referred to as the
+"Indemnitor" and the party who is seeking such indemnification shall be referred
+to as the "Indemnitee". Should any claim be made by a person not a party to this
+Agreement with respect to any matter to which the foregoing indemnification
+provisions relate or should any claim for indemnification otherwise come to the
+attention of the Indemnitee, the Indemnitee shall promptly give the Indemnitor
+written notice of such claim, and the Indemnitor shall thereafter defend or
+settle any such claim, at its sole expense, on its behalf and with counsel of
+its choosing; provided, however, that the, Indemnitee's written consent to any
+settlement or disposition shall be a requirement thereto, which consent shall
+not be unreasonably withheld. In such defense or settlement, the Indemnitee
+shall cooperate and assist the Indemnitor to the maximum extent reasonably
+possible and the Indemnitee may participate therein at its own expense and with
+counsel of its own choosing.
+
+
+10.      INTENTIONALLY LEFT BLANK.
+
+11.      GENERAL
+
+11.1 Termination.
+
+         (a) This Agreement may be terminated:,
+
+                  (i) by the mutual written consent of AutoC and Autocarbon LTD;
+
+                  (ii) by AutoC, in the event that any of the conditions
+precedent enumerated in Section 8.1 to be performed by Autocarbon LTD have not
+been satisfied by Autocarbon LTD or waived by AutoC at or prior to the Closing,
+or cured by Autocarbon LTD within seven days following written notice thereof;
+
+
+<PAGE>
+
+                  (iii) by Autocarbon LTD, in the event that any of the
+conditions precedent enumerated in Section 8.2 to be performed by AutoC have not
+been satisfied by AutoC or waived by Autocarbon LTD at or prior to the Closing,
+or cured by AutoC within seven days following written notice thereof;
+
+                  (iv) INTENTIONALLY LEFT BLANK;
+
+                  (v) automatically, as provided in Section 11.4(b);
+
+                  (vi) by AutoC, if AutoC is a Receiving Party (as defined in
+Article 11 hereto), as provided in Section 11.4(c);
+
+                  (vii) by Autocarbon LTD, if Autocarbon LTD is a Receiving
+Party, as provided in Section 11.4(c); or
+
+                  (viii) by either party, in the event the Closing has not
+occurred by February 28th, 2003. In the event of termination of this Agreement
+in accordance with the provisions of this Section 11.1, this Agreement shall
+forthwith become null and void and there shall be no liability or obligation on
+the part of AutoC or Autocarbon LTD, or their respective officers and directors,
+except as set forth in or pursuant to Article 9 and Sections 11.1 (b),11.2 and
+11.3 hereof. In addition to the foregoing, in the event the transactions
+contemplated by this Agreement are not consummated for any reason, Autocarbon
+LTD shall remain obligated to repay advances heretofore made by AutoC, including
+those advances evidenced by the promissory notes attached hereto as EXHIBIT
+11.1. AutoC acknowledges that in the event of a Closing of the transactions
+contemplated by this Agreement, all prior loans and advances made by AutoC to
+Autocarbon LTD shall be consolidated in the financial statements of AutoC and
+none of the Shareholders, in their capacities as such, shall have any obligation
+for the repayment of any such loans and/or advance's.
+
+         (b) Notwithstanding any provision of this Agreement to the contrary, in
+the event this Agreement is terminated for any reason other than pursuant to
+Sections 11.1(a)(i), 11.1(a)(ii), 11.1(a)(iv), 11.1(a)(v) if AutoC is a
+Delivering Party, or 11(a)(vi), AutoC, in addition to all rights it may
+otherwise have hereunder or under applicable law, shall receive capital stock of
+Autocarbon LTD representing 10% of the their issued and outstanding Common Stock
+of Autocarbon LTD on a fully diluted basis.
+
+11.2 Brokers. AutoC and Autocarbon LTD agree to indemnify, defend and hold
+harmless each other from and against any liability or expense arising out of any
+claim asserted by any third party for brokerage or finder's fees or agent's
+commissions, based on an allegation that the other impliedly or expressly
+engaged such claimant as a finder, broker or agent, or brought such claimant
+into the negotiations between Autocarbon LTD and AutoC.
+
+
+<PAGE>
+
+11.3 Fees and Expenses. Except as otherwise expressly provided in this Agreement
+or assumed by AutoC in writing; attorneys' fees, accounting fees and all other
+fees for professional services incurred by each party in effectuating the
+transactions contemplated by this Agreement shall be paid by the party which
+incurred such fees. Except as otherwise expressly provided in this Agreement,
+AutoC and Autocarbon LTD shall each bear its own expenses incurred in connection
+with this Agreement and the transactions contemplated by this Agreement whether
+or not such transactions shall be consummated.
+
+11.4 Exhibits and Schedules to be Provided.
+
+         (a) In the event that any Exhibit or Schedule hereto is not available
+for delivery on the date hereof (an "Unavailable Exhibit"), then the party
+charged with the obligation to deliver such Unavailable Exhibit (the "Delivering
+Party") shall have until February 28th, 2003 to deliver such Unavailable Exhibit
+to the other party hereto (the "Receiving Party").
+
+         (b) In the event that a Delivering Party fails to deliver an
+Unavailable Exhibit to the Receiving Party on or prior to February 28th, 2003,
+then this Agreement shall automatically terminate and cease to be of any further
+force or effect, except as set forth in Section 11.1 hereof.
+
+         (c) In the event that a Delivering Party delivers an Unavailable
+Exhibit to the Receiving Party on or prior to February 28th, 2003, and the
+disclosure contained in such Unavailable Exhibit makes any of the
+representations, warranties, covenants or other provisions of this Agreement
+materially false or incorrect, or contains material, adverse information not
+previously disclosed to the Receiving Party, then the Receiving Party, at its
+option, may terminate this Agreement. Upon any such termination, this Agreement
+shall cease to be of further force or effect, except as set forth in Section
+11.1 hereof. Notwithstanding the foregoing; a Receiving Party may not terminate
+this Agreement pursuant to this Section 11.4(c) prior to the expiration of ten
+(10) days following written notice to the Delivering Party of the Receiving
+Party's intention to terminate this Agreement and the failure of the Delivering
+Party to cure the deficiency claimed by the Receiving Party to the reasonable
+satisfaction of the Receiving Party prior to the expiration of such ten (10) day
+period.
+
+11.5 Counterparts. This Agreement may be executed in two or more counterparts,
+each of which shall be deemed to be an original and all such counterparts shall
+constitute but one instrument.
+
+11.6 Notices. All notices, requests and other communications which any party may
+give pursuant to this Agreement shall be in writing and shall be either hand
+delivered, sent by certified or registered mail with postage fully prepaid, or
+sent by facsimile transmission and confirmed by certified or registered mail,
+addressed as specified herein. Any such notice, request or other communication
+shall be effective upon receipt. All notices shall be addressed as follows:
+
+
+<PAGE>
+
+              (a) If to AutoC, to:
+
+                  Autocarbon, Inc.
+                  136-M Tenth Street
+                  Ramona, California 92063
+                  Facsimile: (619) 722-6637
+                  Attention: James Miller, Chief Executive Officer
+
+                  with a copy to:
+
+                  Sichenzia Ross Friedman Ference LLP
+                  1065 Avenue of the Americas
+                  New York, New York 10018
+                  Facsimile: 212-930-9725
+                  Attention: Richard A. Friedman, Esq.
+
+                  (b) If to Autocarbon LTD, to:
+
+                  Autocarbon, LTD
+                  26 Nailsworth Mills, Nailsworth, Gloucester, GL6 0BS
+                  Facsimile:__+44 1453 835701
+                  Attention: James Miller
+
+
+provided; however, that if either party shall have designated (in the manner
+provided above) a different address by notice to the other, then notice shall be
+directed to the last address so designated.
+
+11.7 Assignment. This Agreement shall not be assigned by either party without
+the express written consent of the other, and if such assignment is consented to
+and made it shall be binding upon, and inure to the benefit of, such assignee;
+provided, however, that this Agreement may be assigned by AutoC to any wholly
+owned subsidiary of AutoC without Autocarbon LTD's consent.
+
+11.8 Exhibits; Complete Agreement.
+
+         (a) All Exhibits referred to in and attached to this Agreement are
+intended to be and are specifically made a part of this Agreement.
+
+         (b) This Agreement sets forth the entire understanding of the parties
+and supersedes all prior agreements, covenants, arrangements, communications,
+representations or warranties, whether oral or written by any officer, employee
+or representative of either party.
+
+11.9 Interpretation, Severability and Construction. The headings of the Articles
+and Sections of this Agreement are inserted for convenience only and shall not
+be deemed to constitute a part hereof. In the event that any provision of this
+Agreement shall finally be determined to be unlawful by a court or regulatory
+authority having competent jurisdiction, such provision shall be deemed to be
+severed from this Agreement but every other provision of this Agreement shall
+remain in full force and affect. This Agreement shall be construed in
+accordance, with, and governed by, the laws of the State of Delaware, without
+regard to the conflicts of laws provisions thereof.
+
+
+<PAGE>
+
+11.10 Third Parties; Amendment. Nothing herein expressed or implied is intended
+or shall be construed to confer upon or give to any person, firm or corporation,
+other than the parties and their respective successors and permitted assigns,
+any rights or remedies under or by reason of this Agreement. Only an instrument
+in writing duly executed by the parties may amend this Agreement.
+
+11.11 Public Announcement. Prior to Closing, neither AutoC nor Autocarbon LTD
+shall, make a public announcement of this Agreement, its contents or the
+consummation of the transactions contemplated herein without the written consent
+of the other, which consent shall not be unreasonably withheld, except to the
+extent required by law (including pursuant to the requirements of the 1933 Act
+and the 1934 Act) and in such case will give the other party as much notice and
+as much opportunity to comment as time may reasonably allow.
+
+11.12 Post-Closing Information. After the Closing, each party shall provide to
+the, other, upon request and without charge, such information as either requires
+(a) to prepare its financial statements, (b) to prepare its tax returns, (c) to
+perform any other acts reasonably related to consummation of the transactions
+contemplated by this Agreement, and (d) for litigation or other legitimate
+purposes.
+
+11.13 Arbitration. Any dispute or controversy arising out of or relating to this
+Agreement or any actual or alleged breach of this Agreement shall be settled by
+arbitration to be held in the City of New York in accordance with the rules then
+in effect of the American Arbitration Association or any successor thereto. The
+arbitrator may grant injunctions or other relief in such dispute or controversy.
+The decision of the arbitrator shall be final, conclusive, and binding on the
+parties to the arbitration. Judgment may be entered on the arbitrator's decision
+in any court having jurisdiction, and the parties irrevocably consent to the
+jurisdiction of the New York State courts for this purpose. Each party shall pay
+one-half of the costs and expenses of such arbitration, and each shall
+separately pay its own attorneys' fees and expenses.
+
+
+
+         IN WITNESS WHEREOF, the parties have executed this Agreement as of the
+         first date set forth above.
+
+
+         AUTOCARBON, INC.
+
+
+         By: /s/ James Miller
+             --------------------------
+         Name: James Miller
+         Title: Chief Executive Officer
+                                                             Witness
+         By: /s/ Terry Hunt                          By:
+             --------------------------                  -----------------------
+         Name: Terry Hunt                            Name:
+         Title:   Director                           Address:
+
+
+
+
+<PAGE>
+
+         AUTOCARBON, LTD
+
+         By:
+             --------------------------
+         Name:
+         Title: Director
+
+
+         AUTOCARBON, LTD
+                                                              Witness
+         By:                                         By:
+             --------------------------                   ----------------------
+         Name: Emma Sims                             Name:
+         Title: Company Secretary                    Address:
+
+
+         /s/ James Millichap-Merrick                 /s/ Gavin Hartland
+         --------------------------                  ---------------------------
+         James Millichap-Merrick                     Gavin Hartland
+
+
+                                                     OSTS, S.A.
+
+         /s/ Denis Potter
+         --------------------------                  ---------------------------
+         Denis Potter                                Name:
+                                                     Title:
+
+                                                     Rennel Trading
+
+
+         /s/ James Miller
+         --------------------------                  ---------------------------
+         James Miller                                Name:
+                                                     Title:
+
+
+         Presco, Inc.
+
+         ------------------------------
+         Name:
+         Title:
+
+
+
+<PAGE>
+
+
+         /s/ Ron Murphy                              /s/ Sebastian Reidl
+         --------------------------                  ---------------------------
+         Ron Murphy                                  Sebastian Reidl
+
+
+         /s/ Seth Scally                             /s/ Kim Tate
+         --------------------------                  ---------------------------
+         Seth Scally                                 Kim Tate
+
+
+         /s/ Terry Hunt                              /s/ Teo Montoya
+         --------------------------                  ---------------------------
+         Terry Hunt                                  Teo Montoya
+
+
+         /s/ Peter Moseley                           /s/ Sir Jack Brabham
+         --------------------------                  ---------------------------
+         Peter Moseley                               Sir Jack Brabham
+
+
+                                                     M2 Education Fund
+
+
+         /s/ Robert Miller                           /s/ James Miler
+         --------------------------                  ---------------------------
+         Robert Miller                               Name: James Miler
+                                                     Title: Trustee
+
+
+         3LP Assets                               Advanced Resource Technologies
+
+
+
+         --------------------------                  ---------------------------
+         Name:                                       Name:
+         Title:                                      Title:
+
+
+
+
+</TEXT>
+</DOCUMENT>

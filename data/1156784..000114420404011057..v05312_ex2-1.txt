@@ -1,0 +1,1889 @@
+<DOCUMENT>
+<TYPE>EX-2.1
+<SEQUENCE>2
+<FILENAME>v05312_ex2-1.txt
+<TEXT>
+                                                                     EXHIBIT 2.1
+
+                                MERGER AGREEMENT
+
+                          AGREEMENT AND PLAN OF MERGER
+                                     BY AND
+                                      AMONG
+
+
+                         HY-TECH TECHNOLOGY GROUP, INC.
+                             A DELAWARE CORPORATION,
+
+                             RWT ACQUISITION, INC.,
+                             A MARYLAND CORPORATION
+
+                                       AND
+
+                      ROBOTIC WORKSPACE TECHNOLOGIES, INC.
+                             A MARYLAND CORPORATION
+
+
+<PAGE>
+
+                         LIST OF SCHEDULES AND EXHIBITS
+                                       TO
+                          AGREEMENT AND PLAN OF MERGER
+
+
+         SCHEDULES
+
+         Company Disclosure Schedule
+
+         RWT Disclosure Schedule
+
+
+         EXHIBITS
+
+         Exhibit 6.1(a)(1)          Company Certified Resolutions
+
+         Exhibit 6.1(a)(2)          Acquisition Certified Resolutions
+
+         Exhibit 6.1(f)(1)          Company Officer's Certificate
+
+         Exhibit 6.1(f)(2)          Acquisition Officer's Certificate
+
+         Exhibit 6.2(a)             RWT Certified Resolutions
+
+         Exhibit 6.2(e)             RWT Officer's Certificate
+
+         Exhibit A                  Certificate of Designation of Series A
+                                    Preferred
+
+         Exhibit J                  Registration Rights Agreement
+
+         Exhibit K                  Lock Up Agreement
+
+         Exhibits L-1 and L-2       Employment Agreements of Walter Weisel and
+                                    Sheri Aws
+
+
+                                       2
+<PAGE>
+
+      AGREEMENT  AND PLAN OF  MERGER  (this  "Agreement"),  dated as of July 21,
+2004, by and among Hy-Tech Technology Group,  Inc., a Delaware  corporation (the
+"Company"),  RWT Acquisition,  Inc., a Maryland corporation  ("Acquisition") and
+Robotic Workspace Technologies, Inc., a Maryland corporation ("RWT").
+
+                                    RECITALS
+
+      WHEREAS, the Company and RWT desire to merge Acquisition with and into RWT
+whereby RWT shall be the surviving  entity  pursuant to the terms and conditions
+set forth  herein and  whereby the  transaction  is intended to qualify as a tax
+free  reorganization  pursuant to Section 368(a) of the Internal Revenue Code of
+1986, as amended (the "IRC"), to the extent permitted by applicable law;
+
+      WHEREAS,  in furtherance of such  combination,  the Boards of Directors of
+the Company,  Acquisition  and RWT have each approved the merger of  Acquisition
+with and into RWT (the  "Merger"),  upon the terms and subject to the conditions
+set forth herein,  in accordance with the applicable  provisions of the Delaware
+General  Corporation Law (the "DGCL") and the Maryland Business  Corporation Act
+(the "MBCA").
+
+      WHEREAS, the stockholders of RWT desire to approve the Merger and exchange
+all of their  shares of the capital  stock of RWT (the "RWT  Common  Stock") for
+shares of the capital  stock of the Company (the "Company  Capital  Stock") as a
+tax free  reorganization  pursuant  to Section  368(a) of the IRC, to the extent
+permitted by applicable law;
+
+      WHEREAS, RWT has issued and outstanding Two Hundred,  Forty-eight Thousand
+Seven Hundred  Thirty  (248,730)  options to acquire  shares of RWT Common Stock
+(the "RWT Options"),  and the Company and RWT desire that upon the effectiveness
+of the Merger that the RWT Options be converted into options to acquire  Company
+Common Stock (the "Company Options"); and
+
+      WHEREAS,  the  Company  has  changed  or will  change  its name to  Innova
+Holdings,  Inc. on or after the Effective Date, references to Hy-Tech Technology
+Group, Inc., the Company and/or Innova Holdings, Inc. shall all be references to
+the parent of RWT Acquisitions, Inc.;
+
+      NOW, THEREFORE, in consideration of the foregoing and the mutual covenants
+and agreements herein contained,  and intending to be legally bound hereby,  the
+parties agree as follows:
+
+                                    ARTICLE I
+
+                                   THE MERGER
+
+      1.1 The Merger. At the Effective Time (as hereinafter defined) and subject
+to and upon the terms and  conditions  of this  Agreement and the DGCL and MBCA,
+Acquisition shall be merged with and into RWT pursuant to the Merger.  Following
+the Merger,  RWT shall  continue as the surviving  corporation  (the  "Surviving
+Corporation") and the separate  corporate  existence of Acquisition shall cease.
+As part of the Merger and as more fully  described  in Section 2.1, (i) the Four
+Million,   Five  Hundred  Sixty  Seven  Thousand,   Seven  Hundred   Ninety-nine
+(4,567,799) issued and outstanding shares of RWT Common Stock shall be exchanged
+for Company Capital Stock at the Exchange Ratio (as defined below), (ii) the RWT
+Options shall be exchanged  for Company  Options as provided in section 2.8, and
+(ii) each share of Acquisition's  issued and outstanding common stock, par value
+$.001 per share (the  "Acquisition  Common Stock"),  shall be converted into one
+
+
+                                       3
+<PAGE>
+
+validly issued,  fully paid and non-assessable  share of common stock, par value
+of $.001 per share, of the Surviving  Corporation  (the  "Surviving  Corporation
+Common Stock"). For all purposes of this Agreement,  the Exchange Ratio shall be
+determined by dividing Two Hundred and Eighty Million (280,000,000)by the number
+of issued and  outstanding  shares of RWT on the Closing  Date and the number so
+determined shall equal the number of shares of Company Stock to be exchanged for
+one share of outstanding RWT Common Stock.
+
+      1.2  Effective  Time.  The Merger  shall be  consummated  as  promptly  as
+practicable after satisfaction of all conditions to the Merger set forth herein,
+by filing with the  Secretary  of State of the States of Delaware and Maryland a
+certificate of merger (the  "Certificate of Merger"),  and all other appropriate
+documents,  executed in accordance with the relevant  provisions of the DGCL and
+MBCA. The Merger shall become  effective  upon the filing of the  Certificate of
+Merger.  The time of such filing  shall be referred to herein as the  "Effective
+Time."
+
+      1.3  Effects  of the  Merger.  At the  Effective  Time,  all  the  rights,
+privileges,  immunities,  powers and franchises of  Acquisition  and RWT and all
+property, real, personal and mixed, and every other interest of, or belonging to
+or due to each of Acquisition  and RWT shall vest in the Surviving  Corporation,
+and all  debts,  liabilities,  obligations  and duties of  Acquisition  and RWT,
+including,  without limitation, the performance of all obligations and duties of
+RWT pursuant to this Agreement,  the RWT Debentures and the exhibits,  schedules
+and all  documents  executed in  connection  therewith or any other  Transaction
+Document (as defined in this  Agreement),  shall become the debts,  liabilities,
+obligations and duties of the Surviving Corporation without further act or deed,
+all in the manner and to the full extent provided by the DGCL and MBCA. Whenever
+a conveyance, assignment, transfer, deed or other instrument or act is necessary
+to vest any property or right in the  Surviving  Corporation,  the directors and
+officers of the respective constituent  corporations shall execute,  acknowledge
+and deliver  such  instruments  and  perform  such acts,  for which  purpose the
+separate  existence of the constituent  corporations  and the authority of their
+respective directors and officers shall continue, notwithstanding the Merger.
+
+      1.4 Certificate of Incorporation. The Certificate of Incorporation of RWT,
+as in effect  immediately  prior to the Effective Time, shall be the Certificate
+of Incorporation  of the Surviving  Corporation and thereafter may be amended or
+repealed in accordance with its terms and applicable law.
+
+      1.5 By-Laws.  At the Effective  Time and without any further action on the
+part of  Acquisition  and RWT,  the  By-laws of RWT shall be the  By-laws of the
+Surviving  Corporation  and  thereafter may be amended or repealed in accordance
+with  their  terms  or  the  Certificate  of   Incorporation  of  the  Surviving
+Corporation and as provided by law.
+
+
+                                       4
+<PAGE>
+
+      1.6  Directors.  The directors of the Company at the Effective  Time shall
+consist of Martin  Nielson,  Gary McNear,  Craig Conklin,  Walter Weisel and one
+other  nominee  selected by RWT.  Walter  Weisel  shall serve as Chairman of the
+Board of Directors. The directors of RWT as of the Closing Date shall select the
+persons who shall serve as chairman of any committee of the Board of Directors.
+
+      1.7  Officers.  The  officers  of RWT at the  Effective  Time shall be the
+officers of the Surviving Corporation, until the earlier of their resignation or
+removal or until their  respective  successors are duly appointed and qualified,
+as the case may be.  Walter  Weisel will continue to serve as Chairman and Chief
+Executive Officer of the Surviving Corporation.  Walter Weisel will be appointed
+as a Senior Executive of the Company.  The employment of Walter Weisel and Sheri
+Aws by the Company and the Surviving  Corporation shall be pursuant to the terms
+of their existing Employment Agreements with RWT, as the Surviving  Corporation,
+copies of which  Employment  Agreements  are annexed  hereto as EXHIBITS L-1 AND
+L-2.  Said  Employment  Agreements  will be  assumed  by the  Company  as of the
+Effective Date and amended as necessary to include bonus incentives  approved by
+the Board of Directors of the Company as well as duties specific to the Company.
+
+      1.8 Tax-Free  Reorganization.  The parties intend that the Merger shall be
+treated as a tax-free  reorganization  pursuant to Section 368(a) of the IRC, to
+the extent permitted by applicable law.
+
+                                   ARTICLE II
+
+                            CONVERSION OF RWT SHARES
+
+      2.1 Conversion and Cancellation of RWT Common Stock and RWT Options. As of
+the  Effective  Time, by virtue of the Merger and without any action on the part
+of the Company,  Acquisition  or RWT or the holders of any shares of the capital
+stock of Acquisition or RWT:
+
+      (a) Subject to the  provisions  of Sections 2.4 and 2.5, each share of RWT
+Common Stock (the "RWT Common Stock Shares") issued and outstanding  immediately
+prior to the  Effective  Time  (other than shares  canceled in  accordance  with
+Section  2.1(b)),  shall be converted  into an  aggregate of Two Hundred  Eighty
+million  (280,0000,000)  shares of validly issued,  fully paid and nonassessable
+shares (of which  7,500,000  shares have been  delivered to RWT  previously)  of
+Company Common Stock (the "Company" Common Stock Shares);  provided further that
+immediately prior to the Effective Date, the Stock Certificate  representing the
+aforementioned  7,500,000  Company shares will be surrendered to the Company and
+cancelled. As of the Effective Time, each RWT Common Stock Share shall no longer
+be outstanding and shall  automatically be canceled and cease to exist, and each
+holder of a certificate  representing  any RWT Common Stock Share shall cease to
+have any rights with  respect  thereto  other than the right to receive  Company
+Common Stock to be issued in consideration  therefore upon the surrender of such
+certificate,   properly   endorsed  to  the  Company's   stock  transfer  agent,
+Continental  Stock Transfer and Trust Company (the "Transfer  Agent").  Promptly
+after the Effective  Time,  RWT shall  deliver to the Transfer  Agent a complete
+list of the names, addresses and holdings of each holder of RWT Common Stock and
+RWT Options.  The Company shall thereafter instruct the Transfer Agent to send a
+letter of  transmittal  to all of such  holders  that will  instruct all of such
+holders how to surrender  their  holdings in exchange  for Company  Common Stock
+Shares and how to receive Company Common Stock upon the exercise of RWT Options.
+
+
+                                       5
+<PAGE>
+
+All of such holders shall execute an agreement setting forth the same covenants,
+representations  and  warranties  that were made by such holder when such holder
+acquired  the RWT Common  Stock and RWT  Options to confirm  that such  holder's
+receipt of Company  Common  Stock and  Company  Options,  as the case may be, is
+exempt from the  registration  requirements  of the  Securities  Act of 1933, as
+amended.  Each holder of a certificate  representing  any RWT Common Stock Share
+shall  cease to have any rights  with  respect  thereto  other than the right to
+receive Company Common Stock Shares to be issued in consideration therefore.
+
+      (b) Each share of RWT Capital  Stock held in the  treasury of RWT and each
+share of RWT Capital  Stock owned by  Acquisition  or Company  shall be canceled
+without  any  conversion   thereof  and  no  payment,   distribution   or  other
+consideration shall be made with respect thereto.
+
+      (c) Each issued and outstanding share of Acquisition Common Stock shall be
+converted  into  one  validly  issued,  fully  paid and  nonassessable  share of
+Surviving Corporation Common Stock.
+
+      2.2  Adjustment  of the Exchange  Ratio.  In the event that,  prior to the
+Effective Time, any stock split, combination, reclassification or stock dividend
+with  respect to the Company  Common  Stock or RWT Common  Stock,  any change or
+conversion  of  Company  Common  Stock or RWT  Common  Stock  with or into other
+securities  or any other  dividend or  distribution  with respect to the Company
+Common Stock or RWT Common Stock (other than regular quarterly dividends) should
+occur or, if a record date with respect to any of the  foregoing  should  occur,
+appropriate and  proportionate  adjustments shall be made to the Exchange Ratio,
+and thereafter all references to an Exchange Ratio shall be deemed to be to such
+Exchange Ratio as so adjusted.
+
+      2.3 No Fractional Shares. No certificates or scrip representing fractional
+shares of Company  Common Stock shall be issued upon the  surrender for exchange
+of  certificates  and such  fractional  share  shall not  entitle  the record or
+beneficial  owner thereof to vote or to any other rights as a stockholder of the
+Company.  The number of shares of  Company  Common  Stock to be issued  shall be
+rounded up to the nearest whole share.
+
+      2.4  Further  Assurances.  If at any time  after  the  Effective  Time the
+Surviving  Corporation  shall  consider or be advised  that any deeds,  bills of
+sale,  assignments  or  assurances  or any other acts or things  are  necessary,
+desirable or proper (a) to vest, perfect or confirm, of record or otherwise,  in
+the Surviving  Corporation,  its right, title or interest in, to or under any of
+the rights, privileges,  powers, franchises,  properties or assets of either RWT
+or Acquisition or (b) otherwise to carry out the purposes of this Agreement, the
+Surviving  Corporation  and its proper officers and directors or their designees
+shall be authorized  (to the fullest  extent  allowed under  applicable  law) to
+execute and deliver,  in the name and on behalf of either RWT or  Acquisition  ,
+all such deeds,  bills of sale,  assignments  and assurances and do, in the name
+and on behalf of RWT or Acquisition,  all such other acts and things  necessary,
+desirable or proper to vest, perfect or confirm its right, title or interest in,
+to or under any of the rights,  privileges,  powers,  franchises,  properties or
+assets of RWT or  Acquisition,  as  applicable,  and  otherwise to carry out the
+purposes of this Agreement.
+
+
+                                       6
+<PAGE>
+
+      2.5 RWT Options. At the Effective Time, the RWT Options shall be converted
+into Company  Options as  hereinafter  provided.  At the  Effective  Time,  each
+unexercised  RWT Option  shall be  converted  into a Company  Option on the same
+terms and  conditions as the RWT Options,  and all references in the RWT Options
+to RWT Common  Stock  shall be deemed  thereafter  to be  references  to Company
+Common  Stock.  The Exchange  Ratio shall apply to the shares of Company  Common
+Stock  issuable  upon the exercise of the RWT Options  that have been  converted
+into Company Options.
+
+      2.6 Dissenters' Rights. Any shareholder of RWT who does not consent to the
+Merger shall be entitled to assert the  dissenters'  rights if and to the extent
+provided under the MBCA;  provided,  however,  that if RWT shareholders  holding
+more than one third  (1/3) of the  outstanding  shares of RWT elect to  exercise
+dissenters'  rights,  the  Company  shall  have  the  right  to  terminate  this
+Agreement.
+
+      2.7 Right to Acquire Preferred Stock.  Company shall create a new class of
+redeemable  convertible  Preferred Stock in addition to its outstanding  Class A
+Preferred  Stock  consisting of 125,000  shares,  which shares were purchased by
+five investors who previously owned  debentures  issued by the Company for $1.00
+per  share  for  total  consideration  of  $125,000.  Such  new  class  shall be
+designated as Class B Preferred Stock and shall consist of 525,000  shares.  The
+purchase  price  for one  share of Class B  Preferred  Stock  shall be $1.00 per
+share.  RWT  shall  offer  all of the  Class B  Preferred  Stock  to  accredited
+investors  with the  first  priority  to those  persons  who  hold  expired  RWT
+warrants.  All proceeds of the sale of the Class B Preferred Stock shall be used
+by RWT.
+
+                                   ARTICLE III
+
+                                     CLOSING
+
+      Subject to  satisfaction  of the  conditions  to closing set forth in this
+Agreement and unless this Agreement is otherwise  terminated in accordance  with
+the provisions  contained herein,  the closing of the Merger shall take place at
+the offices of Gottbetter & Partners,  LLP, 488 Madison  Avenue,  New York,  New
+York as promptly as practicable  after  satisfaction of the conditions set forth
+in this Agreement.
+
+                                   ARTICLE IV
+
+                         REPRESENTATIONS AND WARRANTIES
+
+      4.1 Representations and Warranties of the Company and Acquisition.  Except
+as  disclosed  in the Reports  (as defined  below) or in a document of even date
+herewith referring to the  representations  and warranties in this Agreement and
+delivered  by  Company  to RWT  prior  to the  execution  and  delivery  of this
+Agreement  (the  "Company  Disclosure  Schedule"),  Acquisition  and the Company
+hereby make the following  representations  and  warranties to RWT, all of which
+shall survive the Closing,  subject to the  limitations set forth in Section 8.1
+hereof:
+
+
+                                       7
+<PAGE>
+
+      (a)  Organization  and Good Standing.  Acquisition  is a corporation  duly
+organized,  validly existing and in good standing under the laws of the State of
+Maryland,  with full corporate power and authority to conduct its business as it
+is now being conducted,  to own or use the properties and assets that it owns or
+uses, and to perform all its obligations under this Agreement.  The Company is a
+corporation duly organized, validly existing and in good standing under the laws
+of the State of Delaware, with full corporate power and authority to conduct its
+business as it is now being  conducted,  to own or use the properties and assets
+that it owns or uses, and to perform all its  obligations  under this Agreement.
+Company has no subsidiaries  other than  Acquisition and other than as set forth
+on the Company  Disclosure  Schedule 4.1(a)  (individually,  a "Subsidiary"  and
+collectively, the "Subsidiaries").  Acquisition has no subsidiaries. Each of the
+Company and Acquisition is duly qualified to do business and is in good standing
+as a foreign  corporation in each  jurisdiction in which either the ownership or
+use of the  properties  owned or used by it,  or the  nature  of the  activities
+conducted by it, requires such qualification,  except for such failures to be so
+qualified  or in good  standing  would  not have a  Material  Adverse  Effect as
+defined in Article IX.
+
+      (b) Authority; No Conflict.
+
+            i. This Agreement and any agreement executed in connection  herewith
+by Company or Acquisition constitute the legal, valid and binding obligations of
+the Company and Acquisition, as the case may be, enforceable against the Company
+and Acquisition,  as the case may be, in accordance with their respective terms,
+except as such  enforceability  is limited by  bankruptcy,  insolvency and other
+laws affecting the rights of creditors and by general equitable principles.  The
+Company has the absolute and unrestricted right,  power,  authority and capacity
+to execute  and  deliver  this  Agreement  and any  agreement  executed by it in
+connection herewith and to perform its obligations hereunder and there under.
+
+            ii.  Neither the execution and delivery of this Agreement by each of
+the Company and Acquisition,  nor the consummation or performance by each of any
+of its respective  obligations contained in this Agreement or in connection with
+the Merger  will,  directly or  indirectly  (with or without  notice or lapse of
+time):
+
+                  a.  contravene,  conflict with or result in a violation of (x)
+any   provision   of  the   certificate   of   incorporation   or  by-laws  (the
+"Organizational  Documents") of the Company or Acquisition,  as the case may be,
+or (y) any resolution  adopted by the board of directors or the  stockholders of
+the Company or Acquisition, as the case may be;
+
+                  b.  contravene,  conflict with or result in a violation of, or
+give any  governmental  body or other Person the right to  challenge  any of the
+Merger  or to  exercise  any  remedy  or  obtain  any  relief  under,  any legal
+requirement  or any  order to which the  Company  or  Acquisition  or any of the
+assets owned or used by the Company or Acquisition may be subject;
+
+
+                                       8
+<PAGE>
+
+                  c.  contravene,  conflict  with or  result in a  violation  or
+breach of any provision of, or give any person the right to declare a default or
+exercise any remedy under,  or to accelerate the maturity or performance  of, or
+to cancel,  terminate or modify, this Agreement, or any contract or agreement to
+which Company and Acquisition are bound;
+
+                  d.  result  in the  imposition  or  creation  of any  material
+encumbrance  upon or with respect to any of the material assets owned or used by
+the Company or Acquisition;
+
+                  e. cause the Company or  Acquisition  to become subject to, or
+to become liable for the payment of, any tax; or
+
+                  f. cause any of the assets owned by the Company or Acquisition
+to be reassessed or revalued by any taxing authority or other governmental body,
+except in connection with the transfer of real estate pursuant to this Agreement
+or the Merger, if any.
+
+      (c) Capitalization. As of July 15, 2004, the Company had 98,677,406 shares
+of Common  Stock  and  125,000  shares of Class A  Preferred  Stock  issued  and
+outstanding.  The Company has not issued any capital stock since that date other
+than pursuant to (i) employee benefit plans disclosed in the Reports (as defined
+in Section  4.1(d)),  (ii)  outstanding  warrants,  options or other  securities
+disclosed  in the  Reports.  All of the  issued  and  outstanding  shares of the
+Company Capital Stock have been duly authorized and validly issued and are fully
+paid and non-assessable.  Except for this Agreement, the 525,000 shares of Class
+B Preferred Stock  referenced in Section 2.7, and an additional  37,885,033 that
+will issue upon  effectiveness  of the  amendment to the  Company's  Articles of
+Incorporation by which it will increase its authorized shares of Common Stock as
+referenced in Section 4.1(m), there are no outstanding options, warrants, scrip,
+rights  to  subscribe  to,  registration  rights,  calls or  commitments  of any
+character   whatsoever  relating  to,  or  securities,   rights  or  obligations
+convertible  into or  exchangeable  for,  or  giving  any  Person  any  right to
+subscribe for or acquire,  any shares of the Company Common Stock, or contracts,
+commitments,  understandings,  or  arrangements  by  which  the  Company  or any
+Subsidiary  is or may become  bound to issue  additional  shares of the  Company
+Common Stock, or securities or rights convertible or exchangeable into shares of
+the Company  Common Stock.  None of the  outstanding  Company  Capital Stock was
+issued in violation of the Securities Act of 1933 as amended, or any other legal
+requirement.
+
+      (d) Financial  Statements.  The Company has delivered or made available to
+RWT copies of its Form 10-KSB Annual Report for the fiscal years ended  February
+28,  2003 and 2004 and copies of its  quarterly  reports on Form  10-QSB for the
+quarters  ended May 31, 2003,  August 31, 2003 and  November  30, 2003,  each as
+filed  with  the SEC  and  including,  in  each  case,  any  amendments  thereto
+(collectively, the "Reports"). The financial statements contained in the Reports
+are in all  material  respects in  accordance  with the books and records of the
+Company and have been prepared in  accordance  with GAAP applied on a consistent
+basis throughout the periods  indicated,  all as more  particularly set forth in
+the notes to such statements.  The consolidated balance sheets contained in such
+Reports (the "Company Balance  Sheets") present fairly in all material  respects
+as of their dates the  consolidated  financial  condition of the Company and its
+subsidiaries.  Except as and to the extent  reflected or reserved against in the
+Company Balance Sheets (including the notes thereto),  the Company did not have,
+as of the date of any such Company  Balance Sheet,  any material  liabilities or
+obligations  (absolute or  contingent)  of a nature  customarily  reflected in a
+balance sheet or the notes thereto.  The consolidated  statements of operations,
+consolidated  statements  of  stockholders'  equity and changes in  consolidated
+statements of cash flows present fairly in all material  respects the results of
+operations and changes in financial position of the Company and its subsidiaries
+for the periods indicated.
+
+
+                                       9
+<PAGE>
+
+      (e) SEC  Filings.  The Company has filed all reports  required to be filed
+with the  Securities  and  Exchange  Commission  (the "SEC") under the rules and
+regulations  of the SEC and all  such  reports  have  complied  in all  material
+respects,  as of their respective  filing dates and effective dates, as the case
+may be, with all the applicable  requirements of the Securities  Exchange Act of
+1934, as amended, except for the current 10-KSB which will be filed late and has
+resulted in a temporary E symbol  attached to HYTT. As of the respective  filing
+and effective dates, none of such reports  (including  without  limitation,  the
+Reports) contained any untrue statement of a material fact or omitted to state a
+material  fact  required to be stated  therein or necessary in order to make the
+statements  therein,  in light of the circumstances  under which they were made,
+not misleading.
+
+      (f)  Absence  of  Material  Adverse  Effect.  Since the date of the latest
+Company Balance Sheets, there have been no events,  changes or occurrences which
+have had or are reasonably  likely to have, a Material Adverse Effect on Company
+or Acquisition.
+
+      (g) Issuance of Company  Securities.  The Company  Common Stock Shares and
+Company  Preferred  Stock Shares when issued in accordance  with this Agreement,
+and when issued the Company  Common Stock Shares  issuable on  conversion of the
+Company Preferred Stock,  shall be duly authorized,  validly issued,  fully-paid
+and nonassessable. The Company currently has, and at all times while the Company
+Preferred Stock Shares are  outstanding  will maintain,  an adequate  reserve of
+shares of the Company Common Stock to enable it to perform its obligations under
+this Agreement.  Except as set forth in the Reports,  there is no equity line of
+credit or convertible security or instrument outstanding of the Company.
+
+      (h) Undisclosed  Liabilities.  Except as disclosed in any Schedule to this
+Agreement, none of the Company, Acquisition or the Subsidiaries has any material
+obligations and liabilities  (contingent or otherwise)  except those liabilities
+(i) that are reflected in the Company Balance Sheets or in the notes thereto, or
+disclosed in the notes therein in accordance with Generally Accepted  Accounting
+Principles  ("GAAP")  or, in  accordance  with GAAP,  are not  required to be so
+reflected or disclosed, or (ii) that were incurred after the date of the Company
+Balance Sheets in the ordinary  course of business,  none of which results from,
+arises out of,  relates  to, is in the nature of, or was caused by any breach of
+contract,  breach of warranty, tort, infringement,  or violation of law or could
+reasonably be expected to have a Material Adverse Effect.
+
+      (i) Taxes.
+
+            i. The Company has filed or caused to be filed on a timely basis all
+tax returns that are or were  required to be filed by it pursuant to  applicable
+legal requirements.  The Company has paid, or made provision for the payment of,
+all taxes that have or may have  become  due  pursuant  to those tax  returns or
+otherwise,  or pursuant to any assessment  received by the Company,  except such
+taxes,  if any, as are listed in the Company  Disclosure  Schedule and are being
+contested in good faith as to which adequate  reserves have been provided in the
+Company Balance Sheets.
+
+
+                                       10
+<PAGE>
+
+            ii. All tax  returns  filed by the  Company  are true,  correct  and
+complete in all material respects.
+
+      (j) Employee  Benefits.  Except as  disclosed in the Reports,  the Company
+does not sponsor or  otherwise  maintain a "pension  plan" within the meaning of
+Section 3(2) of ERISA or any other retirement plan other than the Company Profit
+Sharing and 401(k) Plan and Trust that is intended to qualify  under Section 401
+of the IRC, nor do any unfunded  liabilities  exist with respect to any employee
+benefit  plan,  past or present.  No employee  benefit  plan,  any trust created
+thereunder or any trustee or administrator  thereof has engaged in a "prohibited
+transaction,"  as defined in Section 4975 of the IRC,  which may have a Material
+Adverse Effect.
+
+      (k)  Governmental  Authorizations.  The Company and  Acquisition  have all
+permits that are legally  required to enable them to conduct  their  business in
+all material respects as now conducted.
+
+      (l) Legal Proceedings; Orders.
+
+            i. Except as set forth in the Reports,  there is no material pending
+legal or administrative proceeding:
+
+                  a.  that  has  been  commenced  by  or  against  the  Company,
+Acquisition  or the  Subsidiaries,  or any of the  assets  owned or used by, the
+Company, Acquisition or the Subsidiaries; or
+
+                  b. that challenges, or that may have the effect of preventing,
+delaying, making illegal, or otherwise interfering with the Merger.
+
+            ii. Except as set forth in the Reports:
+
+            a.  there  is  no  material  order  to  which  the  Company  or  the
+Subsidiaries,  or any of the assets owned or used by the Company, Acquisition or
+the Subsidiaries, is subject; and
+
+            b. no  officer,  director,  agent,  or  employee  of the  Company or
+Acquisition  is  subject to any  material  order that  prohibits  such  officer,
+director, agent or employee from engaging in or continuing any conduct, activity
+or practice relating to the business of the Company or Acquisition,  as the case
+may be.
+
+      (m)  Absence of Certain  Changes  and  Events.  Except as set forth in the
+Reports and section 4.1(c) of this Agreement,  since the date of the most recent
+Company Balance Sheets, the Company and the Subsidiaries and Acquisition,  since
+the date of its inception,  have  conducted  their business only in the ordinary
+course of  business,  and other than as  contemplated  by this  Agreement or the
+Merger there has not been any:
+
+
+                                       11
+<PAGE>
+
+            i. change in the authorized or issued  Company  Capital Stock except
+as set forth in the Form 14C filed with the SEC on or about June 30, 2004, which
+authorizes an additional eight hundred million  (800,000,000)  shares of Company
+Common Stock, bringing the total authorized Company Common Stock to nine hundred
+million (900,000,000) shares, and nine million (9,000,000)  additional shares of
+Preferred Stock,  bringing the total  authorized  Preferred Stock to ten million
+(10,000,000)  shares,  or the  authorized or issued capital stock of Acquisition
+and the  Subsidiaries;  grant of any stock option or right to purchase shares of
+capital stock of the Company;  issuance of any equity lines of credit,  security
+convertible into such capital stock; grant of any registration rights; purchase,
+redemption, retirement, or other acquisition or payment of any dividend or other
+distribution or payment in respect of shares of capital stock;
+
+            ii.  amendment  to the  Organizational  Documents  of  the  Company,
+Acquisition or the Subsidiaries;
+
+            iii.  damage  to or  destruction  or loss of any  material  asset or
+property of the Company, Acquisition or the Subsidiaries, whether or not covered
+by insurance, causing a Material Adverse Effect;
+
+            iv. receipt of notice that any of their  substantial  customers have
+terminated or intends to terminate their  relationship,  which termination would
+have a Material Adverse Effect;
+
+            v. entry into any  transaction  other than in the ordinary course of
+business;
+
+            vi.  entry  into,  termination  of, or receipt of written  notice of
+termination  of  any  material  (i)  license,  distributorship,   dealer,  sales
+representative, joint venture, credit, or similar agreement, or (ii) contract or
+transaction  except the licensing of Hy-Tech Computer System's customer list and
+website use to Encompass Group, Inc.;
+
+            vii.  sale (other than sales of inventory in the ordinary  course of
+business),  lease, or other disposition of any asset or property of the Company,
+Acquisition or the Subsidiaries or mortgage,  pledge,  or imposition of any lien
+or  other  encumbrance  on any  material  asset  or  property  of  the  Company,
+Acquisition or the Subsidiaries;
+
+            viii. cancellation or waiver of any claims or rights with a value to
+the Company in excess of $10,000;
+
+            ix. material  change in the accounting  methods used by the Company,
+Acquisition or the Subsidiaries; or
+
+            x. agreement,  whether oral or written, by the Company,  Acquisition
+or the Subsidiaries to do any of the foregoing.
+
+
+                                       12
+<PAGE>
+
+      (n) No Default or Violation. The Company, Acquisition and the Subsidiaries
+(i)  are  in  material   compliance  with  all  applicable  material  terms  and
+requirements  of  each  material  contract  under  which  they  have  or had any
+obligation  or  liability or by which they or any of the assets owned or used by
+them  is or was  bound  and  (ii)  is not in  material  violation  of any  legal
+requirement.
+
+      (o) Certain  Payments.  Since the most recent date of the Company  Balance
+Sheets, neither the Company, Acquisition or the Subsidiaries,  nor any director,
+officer,  agent or employee of the Company or the  Subsidiaries  has directly or
+indirectly (a) made any contribution,  gift, bribe,  rebate,  payoff,  influence
+payment,  kickback or other payment to any Person, private or public, regardless
+of form,  whether  in  money,  property  or  services  (i) to  obtain  favorable
+treatment in securing business, (ii) to pay for favorable treatment for business
+secured,  (iii) to obtain special concessions or for special concessions already
+obtained,  for or in respect of the Company,  Acquisition or the Subsidiaries or
+(iv) in violation of any legal requirement, or (b) established or maintained any
+fund or  asset  that has not been  recorded  in the  books  and  records  of the
+Company, Acquisition or the Subsidiaries.
+
+      (p) Brokers or Finders.  The Company and Acquisition have not incurred any
+obligation or liability, contingent or otherwise, for brokerage or finders' fees
+or  agents'  commissions  or other  similar  payment  in  connection  with  this
+Agreement.
+
+      4.2  Representations and Warranties of RWT. RWT hereby makes the following
+representations  and  warranties to the Company,  all of which shall survive the
+Closing, subject to the limitations set forth in Section 8.2 hereof:
+
+      (a)  Organization,  Good Standing and Purpose.  RWT is a corporation  duly
+organized,  validly existing and in good standing under the laws of the State of
+Maryland  with full power and  authority to conduct its  businesses as it is now
+being  conducted,  to own or use the properties and assets that it owns or uses,
+and  to  perform  all  of its  obligations  under  this  Agreement.  RWT  has no
+subsidiary other than listed in Schedule 4.2(a)(1).  RWT is duly qualified to do
+business and is in good standing as a foreign  corporation in each  jurisdiction
+in which either the ownership or use of the  properties  owned or used by it, or
+the nature of the  activities  conducted  by it,  requires  such  qualification,
+except for such failures to be so qualified or in good standing would not have a
+Material Adverse Effect.
+
+      (b) Authority; No Conflict.
+
+            i. This Agreement and any agreement executed in connection  herewith
+have been duly  authorized  by all  required  action of RWT and  constitute  the
+legal,  valid  and  binding  obligations  of  RWT,  enforceable  against  RWT in
+accordance with their  respective  terms.  RWT has the absolute and unrestricted
+right,  power and  authority  to execute  and  deliver  this  Agreement  and any
+agreements  executed  in  connection  herewith  and to perform  its  obligations
+hereunder and there under.
+
+            ii Neither the execution and delivery of this  Agreement by RWT, nor
+the  consummation  or performance by it of any of its  obligations  contained in
+this Agreement or in connection with the Merger by the Company will, directly or
+indirectly (with or without notice or lapse of time):
+
+
+                                       13
+<PAGE>
+
+                  a.  contravene,  conflict with or result in a violation of (x)
+any  provision  of the  Organizational  Documents  of RWT or (y) any  resolution
+adopted by the board of directors or the stockholders of RWT;
+
+                  b.  contravene,  conflict with or result in a violation of, or
+give any  governmental  body or other Person the right to  challenge  any of the
+Merger  or to  exercise  any  remedy  or  obtain  any  relief  under,  any Legal
+Requirement  or any Order to which RWT or any of the assets owned or used by RWT
+may be subject;
+
+                  c.  contravene,  conflict  with or  result in a  violation  or
+breach of any provision of, or give any Person the right to declare a default or
+exercise any remedy under,  or to accelerate the maturity or performance  of, or
+to cancel,  terminate  or modify,  this  Agreement,  the RWT  Debentures  or any
+Applicable Contract;
+
+                  d.  result  in the  imposition  or  creation  of any  material
+encumbrance  upon or with respect to any of the material assets owned or used by
+RWT;
+
+                  e. cause RWT to become subject to, or to become liable for the
+payment of, any tax; or
+
+                  f. cause any of the assets  owned by RWT to be  reassessed  or
+revalued  by  any  taxing  authority  or  other  governmental  body,  except  in
+connection  with the transfer of real estate  pursuant to this  Agreement or the
+Merger.
+
+            iii.  RWT is not  required to obtain any consent  from any Person in
+connection with the execution and delivery of this Agreement or the consummation
+or  performance of any of the Merger,  other than the requisite  approval of its
+stockholders  (the  "RWT  Stockholders"),  which  approval  is  a  condition  to
+completion of the Merger pursuant to Section 6.2(g).
+
+      (c)  Capitalization.  The entire  authorized RWT Capital Stock consists of
+fifty million (50,000,000) shares of RWT Common Stock, of which 4,567,799 shares
+are issued and  outstanding  and held by the RWT  Stockholders  and ten  million
+(10,000,000)  shares of  Preferred  Stock,  of which no shares  are  issued  and
+outstanding. RWT has outstanding Two Hundred, Forty-eight Thousand Seven Hundred
+Thirty (248,730) RWT Options to acquire RWT Common Stock.  With the exception of
+the RWT Common Stock Shares and the RWT Options,  there are no other outstanding
+equity or debt  securities of the Company.  No legend or other  reference to any
+purported  encumbrance appears upon any certificate  representing the RWT Common
+Stock  outstanding  shares,  other than applicable  Securities Act legends.  The
+outstanding RWT Common Stock Shares have been duly authorized and validly issued
+and are fully paid and non-assessable.  Except for the RWT Options, there are no
+outstanding options, voting agreements or arrangements,  warrants, scrip, rights
+to subscribe to,  registration  rights,  calls or  commitments  of any character
+whatsoever relating to, or, securities,  rights or obligations  convertible into
+or exchangeable for, or giving any Person any right to subscribe for or acquire,
+any shares of RWT Capital Stock or other securities, or contracts,  commitments,
+understandings,  or  arrangements  by which RWT is or may become  bound to issue
+
+
+                                       14
+<PAGE>
+
+additional  shares of RWT Capital  Stock or other  securities,  or securities or
+rights  convertible  or  exchangeable  into shares of RWT Capital Stock or other
+securities.  Except as set  forth in the RWT  Financial  Statements,  RWT has no
+outstanding equity, debt, debt or equity equivalent security,  or debt or equity
+lines of credit.  None of the outstanding RWT Common Stock Shares were issued in
+violation of the  Securities  Act or any other legal  requirement.  RWT does not
+own,  and,  except for this  Agreement,  has no contract to acquire,  any equity
+securities or other securities of any Person or any direct or indirect equity or
+ownership  interest in any other  business.  The  outstanding  RWT Common  Stock
+Shares have been duly authorized, and are fully paid and nonassessable.
+
+      (d) Financial Statements. RWT has delivered its financial statements as of
+and for the fiscal year ended  December  31, 2004 and the five months  ended May
+31,  2004  (the "RWT  Financial  Statements"),  copies  of which  RWT  Financial
+Statements are included in Schedule  4.2(d).  The RWT Financial  Statements were
+prepared in  accordance  with GAAP and present the  financial  condition and the
+results of  operations  of RWT as of and for the fiscal year ended  December 31,
+2004 and the five  months  ended  May 31,  2004.  A  review  of RWT's  financial
+statements  as of and for the fiscal year ended  December  31, 2004 and the five
+months ended May 31, 2004, is also being  prepared by RWT's auditors and will be
+delivered to the Company once it is available to RWT.
+
+      (e) Absence of Material Adverse Effect.  Since the date of the most recent
+RWT Balance Sheet  provided  under  Section  4.2(d)  hereof,  there have been no
+events, changes or occurrences which have had or are reasonably likely to have a
+Material Adverse Effect on RWT.
+
+      (f) Books and Records.  The books of account,  minute books,  stock record
+books,  and other  records of RWT, all of which have been made  available to the
+Company and  original  copies of which will be  delivered  to the Company at the
+Closing,  are  complete  and  correct  in all  material  respects  and have been
+maintained  in  accordance   with  sound  business   practices,   including  the
+maintenance of an adequate system of internal controls.  The minute books of RWT
+contain  accurate and complete  records of all meetings  held of, and  corporate
+action taken by, the stockholders, the Board of Directors, and any committees of
+the Board of Directors of RWT.
+
+      (g) No Undisclosed Liabilities.  There are no material liabilities of RWT,
+whether absolute,  accrued,  contingent, or otherwise, other than those that are
+set forth in the RWT Balance Sheet.
+
+      (h) Title to Properties;  Encumbrances.  RWT has good and marketable title
+to all the  properties,  interest  in  such  properties  and  assets,  real  and
+personal,  reflected in the RWT Balance Sheet or acquired after the date of such
+balance  sheet,  free and clear of all  mortgages,  liens,  pledges,  charges or
+encumbrances  except (i)  mortgages  and other  encumbrances  referred to in the
+notes to the RWT  Balance  Sheet.  RWT owns no real  property.  RWT  leases  two
+offices in Ft. Myers, Florida.
+
+
+                                       15
+<PAGE>
+
+      (i) Legal Proceedings; Orders.
+
+            i.  Except  as set  forth in  Schedule  4.2(i)  hereto,  there is no
+pending legal or administrative proceeding:
+
+                  a. that has been  commenced or threatened by or against RWT or
+any of its officers,  directors,  agents or employees as such or that  otherwise
+relates to or may affect the business of, or any of the assets owned or used by,
+RWT; or
+
+                  b. that challenges, or that may have the effect of preventing,
+delaying, making illegal, or otherwise interfering with, any Merger.
+
+            ii. Except as set forth in Schedule 4.2(i) hereto:
+
+                  a. there is no order to which RWT, or any of the assets  owned
+or used by RWT, is subject; and
+
+                  b. no officer,  director, agent, or employee of RWT is subject
+to any order that  prohibits  such  officer,  director,  agent or employee  from
+engaging in or  continuing  any  conduct,  activity or practice  relating to the
+business of RWT.
+
+      (j) [Intentionally omitted]
+
+      (k) [Intentionally omitted]
+
+      (l) Taxes.
+
+            i. RWT has  filed or  caused  to be filed on a timely  basis all tax
+returns that are or were required to be filed by it pursuant to applicable Legal
+Requirements. RWT has paid, or made provision for the payment of, all taxes that
+have or may have  become due  pursuant  to those tax  returns or  otherwise,  or
+pursuant to any assessment  received by RWT,  except such taxes,  if any, as are
+listed in Schedule  4.2(l)  hereto and are being  contested  in good faith as to
+which adequate reserves have been provided in the RWT Balance Sheets.
+
+            ii. All tax returns  filed by RWT are true,  correct and complete in
+all material  respects and no taxes are currently  owed or tax returns due by or
+on behalf of RWT.
+
+      (m) Absence of Certain Changes and Events. Except as set forth in Schedule
+4.2(m) hereto,  since the date of the RWT Balance  Sheet,  RWT has conducted its
+business  only in the  Ordinary  Course  of  Business,  there  has not  been any
+Material Adverse Effect on RWT, and there has not been any:
+
+            i. change in the authorized or issued capital stock of RWT; grant of
+any stock option or right to purchase  shares of capital stock of RWT;  issuance
+of any security  convertible into such capital stock;  grant of any registration
+rights; purchase, redemption, retirement, or other acquisition or payment of any
+dividend or other distribution or payment in respect of shares of capital stock;
+
+
+                                       16
+<PAGE>
+
+            ii. amendment to the Organizational Documents of RWT;
+
+            iii.  damage to or  destruction  or loss of any asset or property of
+RWT,  whether or not covered by  insurance  or any other event or  circumstance,
+materially and adversely affecting the properties,  assets, business,  financial
+condition, or prospects of RWT;
+
+            iv.  receipt of notice that any of its  substantial  customers  have
+terminated or intends to terminate their  relationship,  which termination would
+have a Material Adverse Effect on RWT;
+
+            v. entry into any  transaction  other than in the ordinary course of
+business;
+
+            vi.  entry  into,  termination  of, or receipt of written  notice of
+termination of any (i) license,  distributorship,  dealer, sales representative,
+joint venture, credit, or similar agreement, or (ii) contract or transaction;
+
+                  vii.  sale  (other  than sales of  inventory  in the  ordinary
+course of business), lease, or other disposition of any asset or property of RWT
+or mortgage, pledge, or imposition of any lien or other encumbrance on any asset
+or property of RWT;
+
+            viii. cancellation or waiver of any claims or rights with a value to
+RWT in excess of $10,000;
+
+            ix. material change in the accounting methods used by RWT;
+
+            x.  accrual  or  payment  of any  salaries  or  other  compensation,
+increase in  salaries,  compensation  or bonuses or  retention or hiring of, any
+consultant or employee;
+
+            xi. debt or other liability incurred, other than the RWT Debentures;
+or
+
+            xii.  agreement,  whether  oral or written,  by RWT to do any of the
+foregoing.
+
+      (n) Compliance with Law. Except as set forth in Schedule 4.2(n) hereto:
+
+            i. RWT has complied in all  material  respects  with,  and is not in
+violation  of, in any material  respect,  any Law to which it or its business is
+subject; and
+
+            ii. RWT has obtained all licenses,  permits,  certificates  or other
+governmental  authorizations  (collectively  "Authorizations") necessary for the
+ownership or use of its assets and  properties  or the conduct of its  business;
+and
+
+            (iii) RWT has not received  written notice of violation of, or knows
+of any material violation of, any Laws to which it or its business is subject or
+any  Authorization  necessary  for  the  ownership  or  use of  its  assets  and
+properties or the conduct of its business.
+
+                                       17
+<PAGE>
+
+      (o)  Environmental  Laws. RWT has not received any notice or claim (and is
+not aware of any facts that would form a  reasonable  basis for any  claim),  or
+entered into any  negotiations or agreements with any other person,  and, to the
+best  knowledge  of RWT,  RWT is not the  subject  of any  investigation  by any
+governmental  or  regulatory  authority,  domestic or  foreign,  relating to any
+material  or  potentially  material  liability  or  remedial  action  under  any
+environmental  laws.  There  are  no  pending  or,  to  the  knowledge  of  RWT,
+threatened,  actions, suits or proceedings against RWT or any of its properties,
+assets or  operations  asserting  any such  material  liability  or seeking  any
+material remedial action in connection with any environmental laws.
+
+      (p)  Intellectual  Property.  (i) RWT  owns,  or is  validly  licensed  or
+otherwise has the right to use, all patents,  and patent rights  ("Patents") and
+all trademarks, trade secrets, trademark rights, trade names, trade name rights,
+service  marks,   service  mark  rights,   copyrights   and  other   proprietary
+intellectual  property rights and computer programs (the "Intellectual  Property
+Rights"),  in each case,  which are  material to the conduct of the  business of
+RWT.
+
+            (i) To the  best  knowledge  of RWT,  RWT has not  interfered  with,
+infringed upon (without license to infringe),  misappropriated or otherwise come
+into conflict with any Patent of any other Person.  RWT has not interfered with,
+infringed  upon,  misappropriated  or  otherwise  come  into  conflict  with any
+Intellectual  Property  Rights of any other  Person.  RWT has not  received  any
+written  charge,   complaint,   claim,   demand  or  notice  alleging  any  such
+interference, infringement, appropriation or violation (including any claim that
+RWT must  license or refrain  from using any  Patents or  Intellectual  Property
+Rights of any  other  Person)  which has not been  settled  or  otherwise  fully
+resolved.  Except as set forth on Schedule  4.2(p) to the best knowledge of RWT,
+no other  Person  has  interfered  with,  infringed  upon  (without  license  to
+infringe),  misappropriated  or otherwise come into conflict with any Patents or
+Intellectual Property Rights of RWT.
+
+                  (q)  Employees.  (a) RWT has complied in all respects with all
+applicable  Laws  respecting  employment  and  employment  practices,  terms and
+conditions of employment, wages and hours, and RWT is not liable for any arrears
+of wages or any taxes or penalties for failure to comply with any such Laws; (b)
+RWT believes that RWT's relations with its employees is satisfactory;  (c) there
+are no  controversies  pending  or,  to the best  knowledge  of RWT,  threatened
+between RWT and any of its employees or former employees; (d) RWT is not a party
+to any collective  bargaining agreement or other labor union contract applicable
+to persons  employed by RWT,  nor, to the best  knowledge  of RWT, are there any
+activities or proceedings of any labor union to organize any such employees; (e)
+there are no unfair labor  practice  complaints  pending  against RWT before the
+National Labor  Relations  Board or any current union  representation  questions
+involving employees of RWT; (f) there is no strike,  slowdown,  work stoppage or
+lockout  existing,  or, to the best  knowledge  of RWT,  threatened,  by or with
+respect to any  employees  of RWT;  (g) no charges are pending  before the Equal
+Employment  Opportunity  Commission  or  any  state,  local  or  foreign  agency
+responsible for the prevention of unlawful employment  practices with respect to
+RWT;  (h)  there  are  no  claims  pending   against  RWT  before  any  workers'
+compensation  board;  (i) RWT has not received  notice that any Federal,  state,
+local or foreign agency  responsible  for the enforcement of labor or employment
+laws intends to conduct an  investigation of or relating to RWT and, to the best
+knowledge  of RWT,  no such  investigation  is in  progress;  and (j) RWT has no
+consultants or independent contractors.
+
+                                       18
+<PAGE>
+
+      (r) Employee Benefit Plans.  There are no "employee pension benefit plans"
+(as defined in Section 3(2) of the Employee  Retirement  Income  Security Act of
+1974, as amended  ("ERISA")) or "employee  welfare benefit plans" (as defined in
+Section 3(1) of ERISA) maintained,  or contributed to, by RWT for the benefit of
+any current or any former employees, officers or directors of RWT.
+
+      (s)  Governmental  Authorizations.  RWT has all  permits  that are legally
+required to enable it to conduct their business in all material  respects as now
+conducted.
+
+      (t) No Default or Violation.  Except as set forth on Schedule 4.2(t),  RWT
+(i)  is  in  material   compliance  with  all  applicable   material  terms  and
+requirements of each material  contract under which it has or had any obligation
+or  liability  or by which it or any of the assets owned or used by it is or was
+bound and (ii) is not in material violation of any legal requirement.
+
+      (u) Certain  Payments.  Since the most recent date of RWT Balance  Sheets,
+neither RWT, nor any director, officer, agent or employee of RWT has directly or
+indirectly (a) made any contribution,  gift, bribe,  rebate,  payoff,  influence
+payment,  kickback or other payment to any Person, private or public, regardless
+of form,  whether  in  money,  property  or  services  (i) to  obtain  favorable
+treatment in securing business, (ii) to pay for favorable treatment for business
+secured,  (iii) to obtain special concessions or for special concessions already
+obtained,  for  or in  respect  of  RWT  or  (iv)  in  violation  of  any  legal
+requirement,  or (b)  established  or maintained  any fund or asset that has not
+been recorded in the books and records of RWT.
+
+      (v) Brokers or Finders.  RWT has not incurred any obligation or liability,
+contingent or otherwise,  for brokerage or finders' fees or agents'  commissions
+or other similar payment in connection with this Agreement.
+
+                                    ARTICLE V
+
+                                    COVENANTS
+
+      5.1 Covenants of the Company and Acquisition.
+
+      (a) Conduct of Business.  Between the date hereof and up to and  including
+the Closing Date, each of the Company and Acquisition shall:
+
+            i. conduct its business only in the ordinary course of business;
+
+            ii. use its commercially  reasonable  efforts to preserve intact the
+current business  organization of the Company and  Acquisition,  as the case may
+be, keep available the services of the current officers, employees and agents of
+the Company and Acquisition,  as the case may be, and maintain the relations and
+good will with suppliers, customers, landlords, creditors, employees, agents and
+others having business  relationships  with the Company and Acquisition,  as the
+case may be;
+
+                                       19
+<PAGE>
+
+            iii. not pay, incur or declare any dividends or  distributions  with
+respect  to its  stockholders  or amend  its  Certificate  of  Incorporation  or
+By-Laws;
+
+            iv. not  authorize  [except as  described in the Form 14C filed with
+the SEC  and  delivered  to  shareholders  on or  about  June  30,  2004,  which
+authorizes an additional eight hundred million  (800,000,000)  shares of Company
+Common Stock (bringing the total authorized Company Common Stock to nine hundred
+million  (900,000,000) shares, and an additional nine million (9,000,000) shares
+of Preferred Stock (bringing the total authorized Preferred Stock to ten million
+(10,000,000) shares],  issue, sell, purchase or redeem any shares of its capital
+stock or any options or other rights to acquire ownerships interests, except for
+37,885,033 shares that are issuable to Company employees if and when the Company
+amends its  Organizational  Documents as described in said Form 14C or elsewhere
+in this Agreement;
+
+            v. not incur any  indebtedness  for money borrowed or issue any debt
+securities, or incur or suffer to be incurred any liability or obligation of any
+nature whatsoever,  except those incurred in the ordinary course of business, or
+cause or permit any  material  lien,  encumbrance  or  security  interest  to be
+created or arise on or in respect of any material  portion of its  properties or
+assets;
+
+            vi. not make any  investment of a capital nature either by purchased
+stock or securities, contribution to capital, property transfer or otherwise, or
+by the purchase of any property or assets of any other Person;
+
+            vii.  not do any other act which would cause any  representation  or
+warranty of the Company in this Agreement to be or become untrue in any material
+respect or that is not in the Ordinary Course of Business;
+
+      (b) Proposals;  Other Offers.  Commencing on the date of execution of this
+Agreement  up to and  including  the  Closing  Date,  each  of the  Company  and
+Acquisition  shall not, directly or indirectly  (whether through an employee,  a
+representative,  an agent or  otherwise),  solicit or encourage any inquiries or
+proposals,  engage in negotiations for or consent to or enter into any agreement
+providing  for the  acquisition  of its  business,  except for the  divesture of
+Company's  subsidiary,  Hy-Tech  Computer  Systems,  Inc. to Aegis.  Each of the
+Company and Acquisition  shall not,  directly or indirectly  (whether through an
+employee,  a  representative,  an agent or  otherwise)  disclose  any  nonpublic
+information  relating to the Company and  Acquisition or afford access to any of
+the books,  records or other  properties of the Company and  Acquisition  to any
+person or entity  that is  considering,  has  considered  or is making  any such
+acquisition  inquiry or proposal  relating to the  Company's  and  Acquisition's
+business.
+
+      (c) Further Assurances. Prior to the Closing Date, with the cooperation of
+RWT  where   appropriate,   each  of  the  Company  and  Acquisition  shall  use
+commercially reasonable efforts to:
+
+            i. promptly comply with all filing requirements which federal, state
+or local law may impose on the Company or Acquisition,  as the case may be, with
+respect to the Merger and this Agreement; and
+
+                                       20
+<PAGE>
+
+            ii.  take all  actions  necessary  to be taken,  make any filing and
+obtain  any  consent,   authorization   or  approval  of  or  exemption  by  any
+governmental  authority,  regulatory  agency or any other third party (including
+without limitation,  any landlord or lessor of the Company and any party to whom
+notification  is  required to be  delivered  or from whom any form of consent is
+required)  which  is  required  to be  filed  or  obtained  by  the  Company  or
+Acquisition in connection with the Merger by this Agreement.
+
+      (d) Post Closing  Covenants.  From and after the Closing Date, the Company
+agrees that it shall:
+
+            i. in the event  that the  Company  issues  any shares of its Common
+Stock in settlement of any debt or obligation that existed at Closing, excluding
+Allowable Debt as defined in Section  6.1(c),  (the "Debt  Settlement  Shares"),
+then as promptly as  practical,  the Company  shall,  in addition to the Company
+Common Stock Shares issued pursuant to Section 2.1(a), issue in the aggregate to
+all of the holders of RWT Common Stock at Closing, an amount of shares of Common
+Stock  equal to the Debt  Settlement  Shares,  such  issuance  to be pro rata in
+proportion to such holders' holdings of RWT Common Stock at Closing.
+
+            ii. in the event that the Company is unable to pay its  attorneys or
+if RWT is unable to pay its  attorneys in cash for services  rendered,  then the
+Company shall issue to all such attorneys  shares of its Common Stock in payment
+for such  services  and file a  registration  statement  on Form S-8  under  the
+Securities  Act of 1933, as amended,  in order to allow the resale of the common
+stock so  issued,  provided  further  that the  parties  hereto  agree that this
+Section  4(d)ii is being relied upon by said  attorneys and that they shall have
+an absolute right to sue under this Section 4(d)ii as third party  beneficiaries
+hereof.
+
+            iii. in the event that prior to the Closing Date the Company  issues
+any  shares  of its  Common  Stock  in  excess  of  one  hundred  forty  million
+(140,000,000) of such shares (such amount the "Excess Pre-closing Shares"), then
+at the Closing the Company shall, in addition to the Company Common Stock Shares
+to be issued  pursuant to Section  2.1(a),  issue in the aggregate to all of the
+holders  of RWT Common  Stock at  Closing,  an amount of shares of Common  Stock
+equal  to the  Excess  Pre-closing  Shares,  such  issuance  to be pro  rata  in
+proportion to such holders' holdings of RWT Common Stock.
+
+      5.2 Covenants of RWT.
+
+      (a) Conduct of Business.  Between the date hereof and up to and  including
+the Closing Date, RWT shall:
+
+            i. conduct its business only in the Ordinary Course of Business;
+
+            ii. use its commercially  reasonable  efforts to preserve intact the
+current business organization of RWT, keep available the services of the current
+officers,  employees and agents of RWT, and maintain the relations and good will
+with suppliers,  customers,  landlords,  creditors, employees, agents and others
+having business relationships with RWT;
+
+                                       21
+<PAGE>
+
+            iii. not pay, incur or declare any dividends or  distributions  with
+respect  to its  stockholders  or amend  its  Certificate  of  Incorporation  or
+By-Laws;
+
+            iv. not authorize, issue, sell, purchase or redeem any shares of its
+capital stock or any options or other rights to acquire ownerships interests;
+
+            v. not incur any  indebtedness  for money borrowed or issue and debt
+securities, or incur or suffer to be incurred any liability or obligation of any
+nature whatsoever, or cause or permit any material lien, encumbrance or security
+interest to be created or arise on or in respect of any material  portion of its
+properties or assets;
+
+            vi. not make any  investment of a capital nature either by purchased
+stock or securities, contribution to capital, property transfer or otherwise, or
+by the purchase of any property or assets of any other person;
+
+            vii.  not do any other  act  which  would  cause  representation  or
+warranty of RWT in this Agreement to be or become untrue in any material respect
+or that is not in the ordinary course of business consistent with past practice;
+
+      (b) Proposals;  Other Offers.  Commencing on the date of execution of this
+Agreement  through  the Closing  Date,  RWT shall not,  directly  or  indirectly
+(whether through an employee, a representative,  an agent or otherwise), solicit
+or encourage any inquiries or proposals,  engage in negotiations  for or consent
+to or enter into any agreement  providing for the  acquisition  of its business.
+RWT  shall  not,  directly  or  indirectly  (whether  through  an  employee,   a
+representative,  an agent  or  otherwise)  disclose  any  nonpublic  information
+relating  to RWT  or  afford  access  to any of  the  books,  records  or  other
+properties of RWT to any person or entity that is considering, has considered or
+is  making  any such  acquisition  inquiry  or  proposal  relating  to the RWT's
+business.
+
+      (c) Further Assurances. Prior to the Closing Date, with the cooperation of
+the Company where appropriate, RWT shall:
+
+            i. promptly comply with all filing requirements which federal, state
+or local law may impose on RWT with respect to the Merger and this Agreement and
+cooperate with the Company regarding the same; and
+
+            ii.  take all  actions  necessary  to be taken,  make any filing and
+obtain  any  consent,   authorization   or  approval  of  or  exemption  by  any
+governmental  authority,  regulatory  agency or any other third party (including
+without  limitation,  any  landlord  or  lessor  of RWT  and any  party  to whom
+notification  is  required to be  delivered  or from whom any form of consent is
+required)  which is required to be filed or obtained by RWT in  connection  with
+the Merger and this Agreement.
+
+      (d) Actions by RWT. RWT shall take no action or enter into any  agreements
+or arrangements except as may be required by this Agreement.
+
+      (e) No Change in Capital  Stock.  Prior to the  Effective  Time, no change
+will be made in the authorized,  issued or outstanding capital stock of RWT, and
+no subscriptions,  options, rights,  warrants,  calls, commitments or agreements
+relating to the authorized,  issued or outstanding  capital stock of RWT will be
+entered into, issued, granted or created.
+
+                                       22
+<PAGE>
+
+      (f) Access to Additional Agreements and Information.  Prior to the Closing
+Date,  RWT  shall  make  available  to the  Company  (as  well  as its  counsel,
+accountants  and  other  representatives)  any  and all  agreements,  contracts,
+documents, other instruments and personnel material of RWT's business, including
+without  limitation,  those contracts to which RWT is a party and those by which
+its business or any of RWT's assets are bound.
+
+      (g) Name Change of the  Company.  If the Company has not effected a change
+of its name to Innova  Holdings,  Inc.,  prior to the Effective  Date,  RWT will
+assist  the  Company  in  its   solicitation  of  RWT  stockholders  who  became
+stockholders  of the Company by virtue of this  Agreement,  it being  understood
+however,  that such  stockholders  may not so approve  the name  change,  and no
+representation to that effect is being made by RWT hereby.
+
+      5.3 Governmental  Filings and Consents.  The Company,  Acquisition and RWT
+shall cooperate with one another in filing any necessary  applications,  reports
+or other  documents  with any federal or state  agencies,  authorities or bodies
+having jurisdiction with respect to the business of the Company,  Acquisition or
+RWT and in seeking any  necessary  approval,  consultation  or prompt  favorable
+action of, with or by any of such agencies,  authorities or bodies. In addition,
+the Company and RWT shall  cooperate with one another in taking steps  necessary
+to cause the  financial  statements of RWT for its fiscal years 2002 and 2003 to
+be audited within 60 days of the Effective Time.
+
+      5.4 Publicity.  Any public  announcement or press release relating to this
+Agreement  or the  Merger  must be  approved  by RWT and the  Company in writing
+before being made or released. The Company shall have the right to issue a press
+release  or make other  disclosure  without  RWT's  written  approval  if in the
+opinion of the Company's  counsel such a release is necessary to comply with SEC
+Rules and  Regulations or other Law;  provided that, RWT receives a copy of such
+prepared press release or other  disclosures  for purposes of review at least 24
+hours  before it is  issued.  This 24 hour  period  may be  shortened  if in the
+opinion of the  Company's  counsel it is required  by Law;  provided  that,  RWT
+receives a copy of such  release as long as  reasonably  practical  before it is
+issued.
+
+      5.5 Tax Returns.  The current officers of the Company shall have the right
+to prepare any tax returns of the Company  with  respect to any period that ends
+on or before the Closing  Date.  Such tax returns  shall be timely  filed by the
+Company.  RWT shall  cooperate with said officers in the preparation of such tax
+returns.
+
+                                   CONDITIONS
+
+      6.1  Conditions to Obligations of RWT. The obligation of RWT to consummate
+the Merger is subject to the  fulfillment  of each of the following  conditions,
+any of which may be waived by RWT in its sole discretion:
+
+      (a) Copies of  Resolutions.  At the  Closing  (i) the  Company  shall have
+furnished RWT with a certificate of its CEO or President, as the case may be, in
+the form of EXHIBIT 6.1(a)(1)  annexed hereto,  certifying that attached thereto
+are copies of resolutions  duly adopted by the board of directors of the Company
+
+                                       23
+<PAGE>
+
+authorizing  the execution,  delivery and  performance of this Agreement and all
+other necessary or proper  corporate action to enable the Company to comply with
+the terms of this Agreement and (ii) Acquisition shall have furnished RWT with a
+certificate of its CEO or President,  as the case may be, in the form of EXHIBIT
+6.1(A)(2)  annexed  hereto,  certifying  that  attached  thereto  are  copies of
+resolutions  duly adopted by the board of directors of  Acquisition  authorizing
+the  execution,  delivery  and  performance  of this  Agreement  and  all  other
+necessary or proper  corporate  action to enable  Acquisition to comply with the
+terms of this Agreement.
+
+      (b) [Intentionally omitted].
+
+      (c) Matters  Concerning  the Company.  On the Closing Date (i) the Company
+shall have no more than one  hundred  forty  million  (140,000,000)  outstanding
+shares of Company  Common  Stock;  (ii) the Company  shall have  negotiated  the
+divesture of its subsidiary,  Hy-Tech Computer Systems,  Inc., which divestiture
+shall (A) include payment to the purchaser of shares of Company Common Stock and
+not more than one hundred fifty thousand  dollars  ($150,000) cash and (B) close
+as  soon  as  practicable  following  the  Effective  Time;  and  (iii)  and all
+outstanding  debt of the  Company  shall  have  been paid or  provided  for with
+arrangements satisfactory to RWT, in its discretion,  except for an aggregate of
+not more than two hundred thirty thousand dollars ($230,000) of Convertible Debt
+(the  "Allowable  Debt").  On the Closing  Date,  the  Company  shall have total
+authorized  Company Common Stock of nine hundred million  (900,000,000)  shares,
+and total authorized Preferred Stock of ten million (10,000,000) shares. [On the
+Closing  Date,  the  Company's  Common  Stock shall be trading  under the symbol
+HYTT.OB]
+
+      (d) Employment Agreements. At Closing,  documentation necessary to reflect
+the  assumption by the Company of the Employment  Agreements  with Walter Weisel
+and Sheri Aws,  annexed hereto as EXHIBITS L-1 AND L-2, shall have been executed
+and delivered.
+
+      (e) Accrued Salaries Due Personnel and/or  Consultants of Company and RWT.
+The Company shall offer to pay all  consultants and personnel of Company and RWT
+all accrued salaries and consulting fees by issuance of Company shares of common
+stock valued at $.01 per share (the  "Compensation  Shares"),  said Compensation
+Shares to comprise  16,133,333 Shares to be issued to Altos Bancorp;  13,951,700
+Shares to be issued to  Martin  Nielson;  3,900,000  Shares to be issued to Gary
+McNear;  and  3,900,000  Shares  to be  issued  to  Craig  Conklin.  All  of the
+Compensation  Shares shall be registered on a Form S-8 (to the extent  permitted
+under the rules for use of Form  S-8) and the  holders  shall  have the right to
+sell up to 1/4th of the Compensation Shares each quarter subject only to a right
+of the Board of  Directors  to limit the  amount and  timing if  believed  to be
+reasonably  necessary.  If any limitation is imposed,  such limitation  shall be
+applied  prorate to the holders of  Compensation  Shares  based on the number of
+Compensation  Shares held by a holder to the total Compensation  Shares proposed
+to be sold.  All of the Company  personnel and  consultants  will be required to
+agree  to  accept  the  Compensation  Shares  in  full  payment  of the  Company
+obligation to them before the issuance of such shares.
+
+      (f) Accuracy of Representations and Warranties;  Performance of Covenants.
+Each of the  representations  and warranties of the Company and  Acquisition set
+forth in this Agreement was true,  correct and complete in all material respects
+
+                                       24
+<PAGE>
+
+when made (except for representations and warranties that speak as of a specific
+date, which  representations  and warranties shall be true, correct and complete
+in all  material  respects as of such date) and shall also be true,  correct and
+complete in all  material  respects at and as of the  Closing  Date  (except for
+representations  and  warranties  that  speak  as  of  a  specific  date,  which
+representations  and  warranties  shall be true,  correct  and  complete  in all
+material respects as of such date), with the same force and effect as if made at
+and as of the Closing Date. The Company shall have performed and complied in all
+material  respects with all agreements and covenants  required by this Agreement
+to be performed by the Company and Acquisition at or prior to the Closing Date.
+
+      (g) Delivery of Certificate. (A) The Company shall have delivered to RWT a
+certificate,  in the form of EXHIBIT 6.1(F)(1) annexed hereto, dated the Closing
+Date,  and signed by the CEO or  President  of the  Company  affirming  that the
+representations  and  warranties  as set forth in Section 4.1 were and are true,
+correct and  complete as required by Section  6.1(e) and (B)  Acquisition  shall
+have delivered to RWT a certificate,  in the form of EXHIBIT  6.1(F)(2)  annexed
+hereto,  dated  the  Closing  Date,  and  signed  by  the  CEO or  President  of
+Acquisition  affirming that the  representations  and warranties as set forth in
+Section  4.1 were and are true,  correct  and  complete  as  required by Section
+6.1(e).
+
+      (h) Consents and Waivers. At the Closing,  any and all necessary consents,
+authorizations, orders or approvals shall have been obtained, except as the same
+shall have been waived by RWT.
+
+            (i)  Litigation.  On the Closing  Date,  there shall be no effective
+injunction,  writ or  preliminary  restraining  order  or any  order of any kind
+whatsoever with respect to the Company issued by a court or governmental  agency
+(or other  governmental  or  regulatory  authority)  of  competent  jurisdiction
+restraining or prohibiting the consummation of the Merger or making consummation
+thereof unduly  burdensome to RWT. On the Closing Date and immediately  prior to
+consummation of the Merger,  no proceeding or lawsuit shall have been commenced,
+be pending or have been threatened by any  governmental or regulatory  agency or
+authority or any other Person restraining or prohibiting the consummation of the
+Merger.
+
+      (j)  Delivery of  Documents  and Other  Information.  Prior to the Closing
+Date, the Company and Acquisition  shall have made available or delivered to RWT
+all of the agreements,  contracts,  documents and other instruments requested by
+RWT.
+
+      (k)  Registration  Rights  Agreement.  The Company shall have executed and
+delivered the Registration Rights Agreement annexed hereto as EXHIBIT J.
+
+      (l) Lock Up Agreement.  Each of Martin Nielson, Gary McNear, Craig Conklin
+and Altos BanCorp,  Inc. shall have entered into a Lock Up Agreement in the form
+of EXHIBIT K hereto.
+
+      (m) Indemnification. Company shall indemnify Walter Weisel (1) against any
+personal  liability  he may have as a result of his  personal  guarantee  of the
+indebtedness  and  liabilities  of RWT  and  its  subsidiaries  incurred  in the
+Ordinary  Course of Business (2) for actions  taken as an officer or director of
+RWT or its subsidiaries to the fullest extent allowed by Delaware law.
+
+                                       25
+<PAGE>
+
+      6.2  Conditions  to  Obligations  of  the  Company  and  Acquisition.  The
+obligation of the Company and Acquisition to consummate the Merger is subject to
+the fulfillment of each of the following conditions,  any of which may be waived
+by the Company and Acquisition, in their sole discretion:
+
+      (a) Copies of  Resolutions.  At the Closing,  RWT shall have furnished the
+Company  with a  certificate  of its  President,  in the form of EXHIBIT  6.2(A)
+annexed hereto,  certifying that attached thereto are copies of resolutions duly
+adopted by the board of directors of RWT authorizing the execution, delivery and
+performance  of the terms of this  Agreement  and all other  necessary or proper
+corporate action to enable RWT to comply with the terms of this Agreement.
+
+      (b) [Intentionally omitted]
+
+      (c) RWT Debt. At the Closing,  RWT's outstanding debt shall consist of not
+more than (i) an SBA loan of one million dollars ($1,000,000); (ii) bank debt of
+Two Hundred Fifty Thousand Dollars ($250,000); and (iii) accounts payable not to
+exceed Two Hundred Fifty Thousand Dollars ($250,000).
+
+      (d) Accuracy of Representations and Warranties;  Performance of Covenants.
+Each of the representations and warranties of RWT was true, correct and complete
+in all material  respects when made (except for  representations  and warranties
+that speak as of a specific date, which  representations and warranties shall be
+true,  correct and complete in all material  respects as of such date) and shall
+also be true,  correct and  complete in all  material  respects at and as of the
+Closing  Date  (except for  representations  and  warranties  that speak as of a
+specific date, which  representations  and warranties shall be true, correct and
+complete in all  material  respects  as of such  date),  with the same force and
+effect as if made at and as of the Closing  Date.  RWT shall have  performed and
+complied in all material respects with all agreements and covenants  required by
+this Agreement to be performed by RWT at or prior to the Closing Date.
+
+      (e)  Delivery of  Certificate.  RWT shall have  delivered to the Company a
+certificate,  in the form of EXHIBIT  6.2(E) annexed  hereto,  dated the Closing
+Date  and  signed  by  the  CEO  or  President  of  RWT,   affirming   that  the
+representations  and  warranties of RWT as set forth in Section 4.2 were and are
+true,  correct  and  complete  and  RWT's  agreements  and  covenants  have been
+performed as required by Section 6.2(d).
+
+      (f) [Intentionally omitted].
+
+      (g)  Consents and Waivers.  On or prior to the Closing  Date,  any and all
+necessary consents,  authorizations,  orders or approvals, including approval by
+not less than two thirds (2/3) of the outstanding RWT Common Stock Shares, shall
+have been  obtained,  except as the same shall have been waived by the  Company,
+provided  however,  that in no event may the requirement of approval by not less
+than two thirds (2/3) of the outstanding RWT Common Stock Shares be waived.
+
+                                       26
+<PAGE>
+
+      (h)  Litigation.  On  the  Closing  Date,  there  shall  be  no  effective
+injunction,  writ or  preliminary  restraining  order  or any  order of any kind
+whatsoever  with  respect  to RWT issued by a court or  governmental  agency (or
+other   governmental   or  regulatory   authority)  of  competent   jurisdiction
+restraining  or  prohibiting  the  consummation  of the  Merger  or  making  the
+consummation  thereof  unduly  burdensome  to the Company or RWT. On the Closing
+Date,  no  proceeding  or lawsuit  shall have been  commenced,  threatened or be
+pending or by any  governmental  or regulatory  agency or authority or any other
+person with respect to the Merger.
+
+      (i)  Delivery of  Documents  and Other  Information.  Prior to the Closing
+Date,  RWT shall have made  available  or  delivered  to the  Company all of the
+agreements,  contracts, documents and other instruments required to be delivered
+pursuant to the provisions of this Agreement.
+
+      (j) Accrued Salaries Due Personnel and/or  Consultants of Company and RWT.
+The Company shall offer to pay all  consultants and personnel of Company and RWT
+all accrued salaries and consulting fees by issuance of Company shares of common
+stock  valued  at  $.01  per  share  (the  "Compensation  Shares").  All  of the
+Compensation  Shares shall be registered on a Form S-8 (to the extent  permitted
+under the rules for use of Form  S-8) and the  holders  shall  have the right to
+sell up to 1/4th of the Compensation Shares each quarter subject only to a right
+of the Board of  Directors  to limit the  amount and  timing if  believed  to be
+reasonably  necessary.  If any limitation is imposed,  such limitation  shall be
+applied  prorate to the holders of  Compensation  Shares  based on the number of
+Compensation  Shares held by a holder to the total Compensation  Shares proposed
+to be sold. All of the RWT personnel and  consultants  will be required to agree
+to accept the Compensation  Shares in full payment of the RWT obligation to them
+before the issuance of such shares.
+
+      (k) Indemnification.  Company shall indemnify Martin Nielson,  Gary McNear
+and Craig Conklin  against any personal  liability  they may have as a result of
+(1) their personal  guarantees of the indebtedness  and liabilities  incurred of
+Company and its subsidiaries incurred in the Ordinary Course of Business (2) for
+actions  taken as an  officer or  director  of HYTT or its  subsidiaries  to the
+fullest extent allowed by Delaware law.
+
+                                   ARTICLE VII
+
+                                   TERMINATION
+
+      7.1 Termination by Mutual  Agreement.  This Agreement may be terminated at
+any time by mutual consent of the parties hereto,  provided that such consent to
+terminate is in writing and is signed by each of the parties hereto.
+
+      7.2   Termination   for  Failure  to  Close.   This  Agreement   shall  be
+automatically   terminated  if  the  Closing  shall  not  have  occurred  within
+forty-five  (45)  days of the  date  hereof  (except  if such  45th day is not a
+Business Day, then the next Business Day).
+
+      7.3  Termination  by Operation of Law. This Agreement may be terminated by
+any party hereto if there shall be any statute,  rule or regulation that renders
+consummation  of the  Merger  illegal  or  otherwise  prohibited,  or a court of
+competent jurisdiction or any government (or governmental  authority) shall have
+
+                                       27
+<PAGE>
+
+issued an order,  decree or ruling,  or has taken any other action  restraining,
+enjoining or otherwise  prohibiting the  consummation of such  transactions  and
+such  order,  decree,  ruling  or other  action  shall  have  become  final  and
+nonappealable.
+
+      7.4  Termination  for Failure to Perform  Covenants  or  Conditions.  This
+Agreement may be terminated prior to the Closing Date:
+
+                  (a) By RWT if: (i) any of the  representations  and warranties
+made in this  Agreement by the Company or  Acquisition  shall not be  materially
+true and correct,  when made or at any time prior to  consummation of the Merger
+as if made at and as of such  time;  (ii)  any of the  conditions  set  forth in
+Section  6.1 hereof  have not been  fulfilled  in all  material  respects by the
+Closing Date;  (iii) the Company or Acquisition  shall have failed to observe or
+perform  any of its  material  obligations  under  this  Agreement;  or  (iv) as
+otherwise set forth herein; or
+
+                  (b)  by  the  Company  or  Acquisition  if:  (i)  any  of  the
+representations  and  warranties  of RWT or the  RWT  Stockholder  shall  not be
+materially  true and correct when made or at any time prior to  consummation  of
+the Merger as if made at and as of such  time;  (ii) any of the  conditions  set
+forth in Section 6.2 hereof have not been fulfilled in all material  respects by
+the Closing Date; (iii) RWT shall have failed to observe or perform any of their
+material respective  obligations under this Agreement;  or (iv) as otherwise set
+forth herein.
+
+      7.5  Effect  of  Termination  or  Default;   Remedies.  In  the  event  of
+termination of this Agreement as set forth above, this Agreement shall forthwith
+become void and there  shall be no  liability  on the part of any party  hereto,
+provided  that such party is a  Non-Defaulting  Party (as  defined  below).  The
+foregoing  shall not  relieve  any party from  liability  for  damages  actually
+incurred as a result of such  party's  breach of any term or  provision  of this
+Agreement.
+
+      7.6 Remedies; Specific Performance. In the event that any party shall fail
+or refuse to  consummate  the  Merger  or if any  default  under or beach of any
+representation, warranty, covenant or condition of this Agreement on the part of
+any party (the  "Defaulting  Party")  shall have  occurred  that  results in the
+failure  to  consummate  the  Merger,  then in  addition  to the other  remedies
+provided herein, the non-defaulting party (the "Non-Defaulting  Party") shall be
+entitled to seek and obtain money damages from the Defaulting Party, or may seek
+to obtain an order of specific  performance thereof against the Defaulting Party
+from a court of competent  jurisdiction,  provided that the Non-Defaulting Party
+seeking such protection must file its request with such court within  forty-five
+(45) days after it becomes aware of the  Defaulting  Party's  failure,  refusal,
+default or breach. In addition,  the  Non-Defaulting  Party shall be entitled to
+obtain from the  Defaulting  Party court costs and  reasonable  attorneys'  fees
+incurred in  connection  with or in pursuit of enforcing the rights and remedies
+provided hereunder.
+
+                                  ARTICLE VIII
+
+                            SURVIVAL; INDEMNIFICATION
+
+      8.1  Survival  of  Representations  and  Warranties  of the  Company.  All
+representations  and  warranties  of the Company shall survive the execution and
+delivery  of this  Agreement  and the  Closing  hereunder  and shall  thereafter
+
+                                       28
+<PAGE>
+
+survive until the first anniversary of the Closing Date and shall then terminate
+except to the extent that notice of the  Company's or  Acquisition  liability in
+respect of any inaccuracy in or breach of any  representation  or warranty shall
+have been given on or prior to such date.
+
+      8.2 Survival of Representations and Warranties of RWT. All representations
+and warranties of RWT shall survive the execution and delivery of this Agreement
+and  the  Closing  hereunder  and  shall  thereafter  survive  until  the  first
+anniversary  of the Closing Date and shall then  terminate  except to the extent
+that notice of RWT's  liability in respect of any inaccuracy in or breach of any
+representation or warranty shall have been given on or prior to such date.
+
+      8.3  Obligation  of the  Company  to  Indemnify.  The  Company  agrees  to
+indemnify, defend and hold harmless RWT (and its directors, officers, employees,
+affiliates,  stockholders,  debenture holders, agents, attorneys, successors and
+assigns) from and against all losses, liabilities,  damages, deficiencies, costs
+or  expenses  (including  interest,  penalties  and  reasonable  attorneys'  and
+consultants'  fees  and  disbursements)  (collectively,  "Losses")  based  upon,
+arising  out  of  or  otherwise  in  respect  of  any  (i)   inaccuracy  in  any
+representation  or warranty of the Company contained in this Agreement or in the
+Schedules  and Exhibits  hereto or (ii) breach by the Company of any covenant or
+agreement contained in this Agreement.
+
+      8.4  Obligation of and RWT to Indemnify.  RWT agrees to indemnify,  defend
+and  hold  harmless  the  Company  (and  its  directors,   officers,  employees,
+affiliates,  stockholders,  agents, attorneys,  successors and assigns) from and
+against any Losses based upon, arising out of or otherwise in respect of any (i)
+inaccuracy in any  representation or warranty of RWT contained in this Agreement
+or in the Schedules and Exhibits hereto or (ii) breach by RWT of any covenant or
+agreement contained in this Agreement.
+
+      8.5 Notice and  Opportunity  to Defend.  (a) Promptly after receipt by any
+Person entitled to indemnity under this Agreement (an "Indemnitee") of notice of
+any demand, claim or circumstances which, with the lapse of time, would or might
+give rise to a claim or the  commencement  (or threatened  commencement)  of any
+action, proceeding or investigation (an "Asserted Liability") that may result in
+a Loss,  the Indemnitee  shall give notice thereof (the "Claims  Notice") to any
+other party (or parties)  who is or may be obligated to provide  indemnification
+pursuant to Section 8.3 or 8.4 (the  "Indemnifying  Party").  The Claims  Notice
+shall  describe the Asserted  Liability in reasonable  detail and shall indicate
+the amount (estimated, if necessary and to the extent feasible) of the Loss that
+has been or may be suffered by the Indemnitee.
+
+                  (a) The Indemnifying  Party may elect to compromise or defend,
+at its own  expense  and by its own  counsel,  any  Asserted  Liability.  If the
+Indemnifying  Party elects to compromise or defend such Asserted  Liability,  it
+shall  within 30 days after the date the Claims  Notice is given (or sooner,  if
+the nature of the Asserted  Liability so requires)  notify the Indemnitee of its
+intent to do so,  and the  Indemnitee  shall  cooperate,  at the  expense of the
+Indemnifying  Party,  in the  compromise of, or defense  against,  such Asserted
+Liability.  If the  Indemnifying  Party elects not to  compromise  or defend the
+Asserted  Liability,  fails to notify the  Indemnitee  of its election as herein
+provided or contests its  obligation  to  indemnify  under this  Agreement,  the
+
+                                       29
+<PAGE>
+
+Indemnitee  may pay,  compromise  or  defend  such  Asserted  Liability  and all
+reasonable expenses incurred by the Indemnitee in defending or compromising such
+Asserted Liability,  all amounts required to be paid in connection with any such
+Asserted Liability  pursuant to the determination of any court,  governmental or
+regulatory  body or  arbitrator,  and amounts  required to be paid in connection
+with any compromise or settlement consented to by the Indemnitee, shall be borne
+by the  Indemnifying  Party.  Except as  otherwise  provided in the  immediately
+preceding  sentence,  the Indemnitee may not settle or compromise any claim over
+the objection of the  Indemnifying  Party. In any event,  the Indemnitee and the
+Indemnifying Party may participate, at their own expense, in (but the Indemnitee
+may not control) the defense of such  Asserted  Liability.  If the  Indemnifying
+Party chooses to defend any claim,  the  Indemnitee  shall make available to the
+Indemnifying Party any books, records or other documents within its control that
+are necessary or appropriate for such defense.
+
+                                   ARTICLE IX
+
+                                   DEFINITIONS
+
+      The following terms,  which are capitalized in this Agreement,  shall have
+the meanings set forth below for the purpose of this Agreement.
+
+      "Contract"  means any Contract (a) to which the  Company,  Acquisition  or
+RWT,  is a party and under which the  Company,  Acquisition  or RWT,  has or may
+acquire any material rights, (b) under which the Company, Acquisition or RWT, as
+the  case may be,  is a party  and has or may  become  subject  to any  material
+obligation  or material  liability or (c) by which the Company,  Acquisition  or
+RWT, as the case may be, or any of the material assets owned or used by it is or
+may become bound.
+
+      "Environmental Laws" means all applicable federal, state, local or foreign
+laws, rules and regulations,  orders, decrees,  judgments,  permits, filings and
+licenses  relating  (i)  to  protection  and  clean-up  of the  environment  and
+activities  or  conditions  related  thereto,  including  those  relating to the
+generation,   handling,   disposal,   transportation  or  release  of  hazardous
+substances  and  (ii)  the  health  or  safety  of  employees  in the  workplace
+environment, all as amended from time to time, and shall also include any common
+law theory based on nuisance, trespass, negligence or other tortuous conduct.
+
+      "ERISA" means the Employee  Retirement  Income Security Act of 1974 or any
+successor  law, and  regulations  and rules  issued  pursuant to such law or any
+successor law.
+
+      "GAAP"  means  generally  accepted  accounting  principles  in the  United
+States, applied on a consistent basis.
+
+      "Law" means all applicable laws, statutes, ordinances, rules, regulations,
+orders, writs, injunctions,  judgments or decrees entered, enacted, promulgated,
+enforced or issued by any court or other  governmental or regulatory  authority,
+domestic or foreign.
+
+      "Legal Requirement" means any federal, state, local,  municipal,  foreign,
+international,  multinational or other administrative law, ordinance,  principle
+of common law, regulation, statute, treaty, court or arbitrator.
+
+                                       30
+<PAGE>
+
+      "Material  Adverse  Effect"  means a  material  adverse  effect  upon  the
+business or financial condition of the Company (when used in Section 4.1) or RWT
+(when used in Section 4.2), taken as a whole with any subsidiaries.
+
+      "Order" means any award, decision,  injunction,  judgment,  order, ruling,
+subpoena  or  verdict   entered,   issued,   made  or  rendered  by  any  court,
+administrative agency or other governmental body or by any arbitrator.
+
+      "Ordinary Course of Business" means an action taken by a Person where:
+
+      (1) such action is consistent  with the past  practices of such Person and
+is taken in the  ordinary  course of the normal  day-to-day  operations  of such
+Person;
+
+      (2) such action is not required to be authorized by the board of directors
+of such  Person  (or by any  Person  or  group  of  Persons  exercising  similar
+authority); and
+
+      (3) such action is similar in nature and magnitude to actions  customarily
+taken,  without any authorization by the board of directors (or by any Person or
+group of Persons  exercising similar  authority),  in the ordinary course of the
+normal  day-to-day  operations  of other  Persons  that are in the same  line of
+business as such Person.
+
+      "Organizational   Documents"   means  the  articles  or   certificate   of
+incorporation and the by-laws of a corporation and any amendment thereto.
+
+      "Person"  means any  individual,  corporation  (including  any  non-profit
+corporation),  general or limited partnership,  limited liability company, joint
+venture, estate, trust, association,  organization,  labor union or other entity
+or governmental body.
+
+      "Proceeding" means any action, arbitration, audit, hearing, investigation,
+litigation or suit (whether civil,  criminal,  administrative,  investigative or
+informal)  commenced,  brought,  conducted  or heard by or before,  or otherwise
+involving, any governmental body or arbitrator.
+
+      "SEC" means the United States Securities and Exchange Commission.
+
+      "Securities Act" means the Securities Act of 1933, as amended.
+
+                                    ARTICLE X
+
+                                  MISCELLANEOUS
+
+      10.1 Fees and Expenses.  Except as otherwise  provided in this  Agreement,
+each  party  hereto  will bear its own  legal,  accounting  and  other  fees and
+expenses  incident to the Merger  herein.  Any fees and expenses  required to be
+paid by any party  hereunder  shall be limited to reasonable  and necessary fees
+and expenses.
+
+      10.2  Modification,  Amendments and Waiver.  The parties hereto may amend,
+modify or otherwise  waive any  provision of this  Agreement by mutual  consent,
+provided  that such  consent  and any  amendment,  modification  or waiver is in
+writing and is signed by each of the parties hereto.
+
+                                       31
+<PAGE>
+
+      10.3 Assignment.  Neither the Company,  Acquisition nor RWT shall have the
+authority to assign its respective rights or obligations under this Agreement.
+
+      10.4  Successors.  This Agreement shall be binding upon and, to the extent
+permitted in this Agreement, shall inure to the benefit of the parties and their
+respective successors and permitted assigns.
+
+      10.5 Entire  Agreement.  This  Agreement and the  exhibits,  schedules and
+other  documents  referred  to herein  contain  the entire  agreement  among the
+parties  hereto with respect to the Merger and  supersede  all prior  agreements
+with respect thereto, whether written or oral.
+
+      10.6  Governing  Law.  This  Agreement  and the  exhibits  hereto shall be
+governed by and construed in  accordance  with the laws of the State of Florida,
+without giving effect to principles of conflicts or choice of laws thereof.  Any
+action to enforce the terms of this  Agreement or any of its  exhibits  shall be
+brought  exclusively in the state and/or  federal courts  situated in the County
+and State of  Florida.  Service  of  process  in any  action by either  party to
+enforce the terms of this Agreement may be made by serving a copy of the summons
+and  complaint,  in  addition to any other  relevant  documents,  by  commercial
+overnight  courier to the other party at its principal address set forth in this
+Agreement.
+
+      10.7 Notices. Any notice, request,  demand, waiver, consent,  approval, or
+other  communication  which is  required or  permitted  to be given to any party
+hereunder shall be in writing and shall be deemed given only if delivered to the
+party personally or sent to the party by facsimile upon electronic  confirmation
+of receipt (promptly  followed by a hard-copy  delivered in accordance with this
+Section 10.7) or three days after being mailed by  registered or certified  mail
+(return receipt requested),  with postage and registration or certification fees
+thereon prepaid, or if sent by nationally  recognized overnight courier, one day
+after being mailed, addressed to the party at its address set forth below:
+
+
+              If to RWT:              Robotic Workspace Technologies, Inc.
+                                      17105 San Carlos Blvd., Suite A6151
+                                      Fort Myers Beach, FL 33931
+                                      Attn: Walter Weisel, CEO
+                                      Tel: (239) 466-0488
+                                      Fax:  (239) 466-7270
+
+              with copies to:         Linda Robison
+                                      2659 W. Gulf Drive, Unit B-102
+                                      Sanibel, FL 33957
+                                      Tel: (239) 472-8199
+                                      Fax: (239) 472-0083
+
+                                       32
+<PAGE>
+
+                                      Dykema Gossett Rooks Pitts PLLC
+                                      10 South Wacker Drive, Suite 2300
+                                      Chicago, IL 60606
+                                      Attention: Misty S. Gruber
+                                      Tel: (312) 627-2122
+                                      Fax: (866) 643-7257
+
+              If to Acquisition:      RWT Acquisition, Inc.
+                                      c/o Robotic Workspace Technologies, Inc.
+                                      17105 San Carlos Blvd., Suite A6151
+                                      Fort Myers Beach, FL 33931
+                                      Attn: Gary McNear
+                                      Tel: (239) 466-0488
+                                      Fax:  (239) 466-7270
+
+
+              with copies to:         Gottbetter & Partners, LLP
+                                      488 Madison Avenue
+                                      New York, NY 10022
+                                      Attn: Adam S. Gottbetter, Esq.
+                                      Tel: 212-400-6900
+                                      Fax: 212- 400-6901
+
+              If to Company:          Hy-Tech Technology Group, Inc.
+                                      17105 San Carlos Blvd., Suite A6151
+                                      Fort Myers Beach, FL 33931
+                                      Tel: (239) 851-0111
+                                      Fax: (239) 267-7718
+
+              with copies to:         Gottbetter & Partners, LLP
+                                      488 Madison Avenue
+                                      New York, NY 10022
+                                      Attn: Adam S. Gottbetter, Esq.
+                                      Tel: 212- 400-6900
+                                      Fax: 212- 400-6901
+
+or to such other  persons or  addresses as may be  designated  in writing by the
+party to receive  such  notice.  If mailed as  aforesaid,  the day of mailing or
+transmission  shall be the date any such  notice  shall be  deemed  to have been
+delivered.
+
+      10.8  Counterparts.  This  Agreement  may  be  executed  in  two  or  more
+counterparts,  each of  which  shall  be an  original,  but all of  which  shall
+constitute  but one  agreement.  In the event that any signature is delivered by
+facsimile  transmission,  such  signature  shall  create  a  valid  and  binding
+obligation  of the  party  executing  (or on  whose  behalf  such  signature  is
+executed) the same with the same force and effect as if such facsimile signature
+page were an original thereof.
+
+                                       33
+<PAGE>
+
+      10.9  Rights  Cumulative.  All  rights,  powers and  privileges  conferred
+hereunder upon the parties,  unless otherwise provided,  shall be cumulative and
+shall not be  restricted  to those given by law.  Failure to exercise  any power
+given any party hereunder or to insist upon strict compliance by any other party
+shall not  constitute a waiver of any party's  right to demand exact  compliance
+with any of the terms or provisions hereof.
+
+      10.10  Severability of Provisions.  The provisions of this Agreement shall
+be considered  severable in the event that any of such  provisions are held by a
+court of competent jurisdiction to be invalid, void or otherwise  unenforceable.
+Such invalid, void or otherwise unenforceable  provisions shall be automatically
+replaced by other  provisions  which are valid and  enforceable and which are as
+similar as possible in term and intent to those provisions deemed to be invalid,
+void or otherwise unenforceable and the remaining provisions hereof shall remain
+enforceable to the fullest extent permitted by law.
+
+      10.11  Headings.  The  headings  set forth in the articles and sections of
+this  Agreement  and in the exhibits and the  schedules  to this  Agreement  are
+inserted for convenience of reference only and shall not be deemed to constitute
+a part hereof.
+
+                            [SIGNATURE PAGE FOLLOWS]
+
+
+
+
+                                       34
+<PAGE>
+
+      IN WITNESS  WHEREOF,  the parties  hereto have executed this  Agreement or
+have caused this  Agreement  to be executed  and  delivered on the date and year
+first above written.
+
+
+                                      HY-TECH TECHNOLOGY GROUP, INC.
+
+
+                                      By:  /s/ Gary McNear
+                                           -------------------------------------
+                                           Gary McNear,
+                                           CFO
+
+
+                                      ROBOTIC WORKSPACE TECHNOLOGIES, INC.
+
+
+
+                                      By:  /s/ Walter Weisel
+                                           -------------------------------------
+                                           Walter Weisel,
+                                           CEO
+
+
+
+                                      RWT ACQUISITION, INC.
+
+
+                                      By:  /s/ Gary F. McNear
+                                           -------------------------------------
+                                      Name: /s/ Gary F. McNear
+                                           -------------------------------------
+                                      Title:  Director
+                                            ------------------------------------
+
+
+
+
+
+                                       35
+
+</TEXT>
+</DOCUMENT>

@@ -1,0 +1,2782 @@
+<DOCUMENT>
+<TYPE>EX-10.14
+<SEQUENCE>3
+<FILENAME>a2074465zex-10_14.txt
+<DESCRIPTION>(800) 688 - 1933
+<TEXT>
+<Page>
+
+                                                                 Exhibit 10.14
+
+
+                      [CHICAGO MERCANTILE EXCHANGE LOGO]
+
+
+                 CHICAGO MERCANTILE EXCHANGE INC. FIRST AMENDED
+                          AND RESTATED CREDIT AGREEMENT
+
+                          DATED AS OF OCTOBER 19, 2001
+
+                                    AMONG THE
+
+                        CHICAGO MERCANTILE EXCHANGE INC.
+
+                                       AND
+
+                              BANK OF AMERICA, N.A.
+
+                              THE BANK OF NEW YORK
+
+                        THE BANK OF TOKYO-MITSUBISHI, LTD
+
+                                  BANK ONE, NA
+
+                          BROWN BROTHERS HARRIMAN & CO.
+
+                            THE CHASE MANHATTAN BANK
+
+                                 CITIBANK, N.A.
+
+                          HARRIS TRUST AND SAVINGS BANK
+
+                                  HSBC BANK USA
+
+                           THE NORTHERN TRUST COMPANY
+
+                         SVENSKA HANDELSBANKEN AB (PUBL)
+
+                         U.S. BANK NATIONAL ASSOCIATION
+
+                             UBS, AG STAMFORD BRANCH
+
+
+<Page>
+
+
+                                TABLE OF CONTENTS
+<Table>
+                                                                                                 PAGE
+<S>                                                                                              <C>
+ARTICLE I DEFINITIONS..............................................................................1
+
+
+ARTICLE II THE CREDIT.............................................................................10
+
+   2.1      REVOLVING CREDIT LOANS................................................................10
+   2.2      RATABLE LOANS.........................................................................11
+   2.3      PAYMENT ON LAST DAY OF INTEREST PERIOD................................................11
+   2.4      REBORROWING OF ADVANCES...............................................................11
+   2.5      OPTIONAL PRINCIPAL PAYMENTS...........................................................11
+   2.6      MANDATORY PRINCIPAL PAYMENTS..........................................................11
+   2.7      ADJUSTMENTS OF COMMITMENTS............................................................11
+   2.8      COMMITMENT FEE........................................................................12
+   2.9      COLLATERAL............................................................................12
+
+ARTICLE III FUNDING THE CREDITS...................................................................13
+
+   3.1      METHOD OF BORROWING...................................................................13
+   3.2      MINIMUM AMOUNT OF EACH ADVANCE........................................................14
+   3.3      RATE BEFORE AND AFTER MATURITY........................................................14
+   3.4      METHOD OF PAYMENT.....................................................................14
+   3.5      NOTES; TELEPHONIC NOTICES.............................................................14
+   3.6      INTEREST PAYMENT DATES; INTEREST BASIS................................................15
+
+ARTICLE IV BANKS' SERVICING ARRANGEMENT...........................................................15
+
+   4.1      NOTICE TO AND PAYMENT BY THE BANKS....................................................15
+   4.2      PAYMENT BY BANKS TO SERVICING BANKS...................................................16
+   4.3      DISTRIBUTION OF PAYMENTS..............................................................16
+   4.4      RESCISSION OF PAYMENTS BY THE COMPANY.................................................17
+   4.5      POWERS GRANTED TO THE SERVICING BANKS.................................................17
+   4.6      RESIGNATION OR TERMINATION OF SERVICING BANK..........................................18
+   4.7      NON-RELIANCE REPRESENTATION...........................................................18
+   4.8      EXCULPATION...........................................................................18
+
+ARTICLE V CONDITIONS PRECEDENT....................................................................19
+
+   5.1      CONDITIONS PRECEDENT..................................................................19
+   5.2      EACH ADVANCE..........................................................................20
+   5.3      RETURN OF EXISTING NOTES..............................................................21
+
+                                       ii
+<Page>
+
+                                                CHICAGO MERCANTILE EXCHANGE INC.
+                                     FIRST AMENDED AND RESTATED CREDIT AGREEMENT
+
+
+ARTICLE VI REPRESENTATIONS AND WARRANTIES.........................................................21
+
+   6.1      CORPORATE EXISTENCE AND STANDING......................................................21
+   6.2      AUTHORIZATION AND VALIDITY............................................................21
+   6.3      COMPLIANCE WITH LAWS AND CONTRACTS....................................................22
+   6.4      FINANCIAL STATEMENTS..................................................................22
+   6.5      MATERIAL ADVERSE CHANGE...............................................................22
+   6.6      SUBSIDIARIES..........................................................................23
+   6.7      ACCURACY OF INFORMATION...............................................................23
+   6.8      MARGIN REGULATIONS....................................................................23
+   6.9      TAXES.................................................................................23
+   6.10     LITIGATION............................................................................23
+   6.11     ERISA.................................................................................24
+
+ARTICLE VII COVENANTS.............................................................................24
+
+   7.1      FINANCIAL REPORTING...................................................................24
+   7.2      USE OF PROCEEDS.......................................................................25
+   7.3      NOTICE OF DEFAULT.....................................................................25
+   7.4      CONDUCT OF BUSINESS...................................................................26
+   7.5      COMPLIANCE WITH LAWS..................................................................26
+   7.6      INSPECTION............................................................................26
+   7.7      TANGIBLE NET WORTH....................................................................26
+   7.8      LIENS.................................................................................26
+   7.9      ADDITIONAL CLEARING MEMBERS...........................................................27
+   7.10     CME RULE CHANGES......................................................................27
+   7.11     TAXES.................................................................................27
+   7.12     INSURANCE.............................................................................27
+
+ARTICLE VIII DEFAULTS.............................................................................27
+
+
+
+ARTICLE IX ACCELERATION, WAIVERS, AMENDMENTS AND REMEDIES.........................................29
+
+   9.1      ACCELERATION..........................................................................29
+   9.2      AMENDMENTS............................................................................30
+   9.3      PRESERVATION OF RIGHTS................................................................30
+
+ARTICLE X COLLATERAL AGENT........................................................................31
+
+   10.1     DECLARATION AND ACCEPTANCE OF APPOINTMENT; NO FIDUCIARY DUTIES........................31
+   10.2     RELIANCE BY COLLATERAL AGENT..........................................................31
+
+
+                                        iii
+<Page>
+
+                                                CHICAGO MERCANTILE EXCHANGE INC.
+                                     FIRST AMENDED AND RESTATED CREDIT AGREEMENT
+
+
+   10.3     REIMBURSEMENT AND INDEMNIFICATION.....................................................32
+   10.4     COLLATERAL AGENT IN ITS INDIVIDUAL CAPACITY...........................................32
+   10.5     RESIGNATION OR TERMINATION OF COLLATERAL AGENT........................................32
+   10.6     NON-RELIANCE REPRESENTATION...........................................................33
+   10.7     EXCULPATION...........................................................................33
+   10.8     COLLATERAL VALUATION..................................................................34
+
+ARTICLE XI GENERAL PROVISIONS.....................................................................34
+
+   11.1     SUCCESSORS AND ASSIGNS................................................................34
+   11.2     SURVIVAL OF REPRESENTATIONS...........................................................36
+   11.3     GOVERNMENTAL REGULATION...............................................................36
+   11.4     TAXES.................................................................................36
+   11.5     CHOICE OF LAW; JURISDICTION...........................................................40
+   11.6     HEADINGS..............................................................................40
+   11.7     ENTIRE AGREEMENT......................................................................41
+   11.8     SEVERAL OBLIGATIONS...................................................................41
+   11.9     EXPENSES; INDEMNIFICATION.............................................................41
+   11.10       ACCOUNTING.........................................................................43
+   11.11       SEVERABILITY OF PROVISIONS.........................................................43
+   11.12       PARENT HOLDING COMPANY.............................................................43
+   11.13       AMENDMENT AND RESTATEMENT..........................................................43
+   11.14       CONFIDENTIALITY....................................................................43
+   11.15       WAIVER OF TRIAL BY JURY............................................................44
+
+ARTICLE XII SETOFF; RATABLE PAYMENTS..............................................................44
+
+   12.1     SETOFF; RATABLE PAYMENTS..............................................................44
+
+ARTICLE XIII NOTICES..............................................................................45
+
+   13.1     GIVING NOTICE.........................................................................45
+   13.2     CHANGE OF ADDRESS.....................................................................46
+
+ARTICLE XIV COUNTERPARTS..........................................................................46
+
+
+ARTICLE XV SUBORDINATION..........................................................................46
+</Table>
+
+
+
+                                       iv
+<Page>
+
+
+                        CHICAGO MERCANTILE EXCHANGE INC.
+                   FIRST AMENDED AND RESTATED CREDIT AGREEMENT
+
+
+          This First Amended and Restated Credit Agreement, dated as of October
+19, 2001 is among Chicago Mercantile Exchange Inc., a Delaware corporation
+(together with its successors and assigns, "CME" or the "COMPANY"), the Banks
+and The Bank of New York, as Collateral Agent.
+
+                                    RECITALS
+
+          The Company and the Banks entered into that certain Credit Agreement,
+dated as of November 1, 1992, (as heretofore amended, restated or otherwise
+modified, the "EXISTING AGREEMENT").
+
+          The Company and the Banks now desire to amend and restate the Existing
+Agreement in its entirety, subject to the terms and conditions hereof.
+
+                                    AGREEMENT
+
+          NOW, THEREFORE, in consideration of the premises and the mutual
+agreements herein contained, the Existing Agreement is hereby amended and
+restated in its entirety to read as follows:
+
+                                   ARTICLE I
+
+                                   DEFINITIONS
+
+          The parties hereto agree as follows:
+
+          As used in this Agreement:
+
+          "ACCELERATED TERMINATION DATE" has the meaning set forth in SECTION
+ 11.9(d).
+
+          "ACCELERATED TERMINATION NOTICE" has the meaning set forth in SECTION
+2.7.2.
+
+          "ADDITIONAL AMOUNTS" has the meaning set forth in SECTION 11.4.
+
+          "ADVANCE" means a borrowing hereunder consisting of the aggregate
+amount of the several Loans made to the Company by the Banks at the same time
+and having the same maturity date.
+
+<Page>
+
+          "AGGREGATE COMMITMENT" means the aggregate of the Commitments of all
+the Banks hereunder.
+
+          "AGREEMENT" means this First Amended and Restated Credit Agreement, as
+it may be amended, restated, supplemented or otherwise modified from time to
+time.
+
+          "AGREEMENT ACCOUNTING PRINCIPLES" means generally accepted principles
+of accounting in effect at the time of the preparation of the financial
+statements referred to in SECTION 6.4, applied in a manner consistent with that
+used in preparing such statements.
+
+          "ARTICLE" means an article of this Agreement unless another document
+is specifically referenced.
+
+          "BANKS" means the banks and other financial institutions listed on the
+signature pages of this Agreement and their respective successors and assigns.
+
+          "BORROWING BASE" means, at any time, the amount equal to the sum of:
+
+          (a) 99.25% of the aggregate market value at such time of all Security
+Deposits in the form of United States Treasury Bills, plus
+
+          (b) 98% of the aggregate market value at such time of all Security
+Deposits in the form of United States Treasury Notes with maturities of 2 years
+or less, plus
+
+          (c) 97% of the aggregate market value at such time of all Security
+Deposits that are United States Treasury Notes with maturities greater than 2
+years and all Security Deposits in the form of United States Treasury Bonds,
+plus
+
+          (d) 96% of the aggregate market value at such time of all Security
+Deposits that are United States Agency obligations, plus
+
+          (e) 98% of the aggregate market value at such time of all Security
+Deposits that are Money Fund Shares,
+
+excluding, however, in each case, any Security Deposits that are not subject to
+a first priority perfected Lien in favor of the Collateral Agent, for the
+ratable benefit of the Banks, pursuant to the Collateral Documents, free and
+clear of any other Lien other than Liens permitted by subsection (a), (b) or (c)
+of SECTION 7.8. It is understood and agreed that the market value of all
+Security Deposits as of any date shall be determined by the Collateral Agent in
+accordance with its usual and customary practices.
+
+                                       2
+<Page>
+
+          "BORROWING DATE" means a date on which an Advance is made hereunder.
+
+          "BUSINESS DAY" means a day on which banks are open for business in
+Chicago and New York.
+
+          "CLEARING HOUSE" means the department of the Company through which all
+futures and options on futures trades on or subject to the rules of the exchange
+are reconciled, settled, adjusted and cleared.
+
+          "CLEARING MEMBER" means a firm qualified to clear trades through the
+Clearing House.
+
+          "CME" has the meaning set forth in the preamble hereto.
+
+          "CME RULES" means the rules of the Company as amended and in effect
+from time to time and includes any interpretations thereof. "CME RULE" shall
+refer to any specifically designated rule.
+
+          "COLLATERAL" means any and all rights and interests in or to the
+Security Deposits, in which a Lien is created or purported to be created
+pursuant to the Collateral Documents, all as more particularly described in the
+Security and Pledge Agreement.
+
+          "COLLATERAL AGENT" means The Bank of New York, in its capacity as
+collateral agent for the Banks pursuant to Article X or any successor collateral
+agent hereunder, together with their respective successors and assigns.
+
+          "COLLATERAL DOCUMENTS" means the Security and Pledge Agreement, the
+Control Agreement and each document executed in connection therewith.
+
+          "COLLATERAL NOTICE" has the meaning set forth in SECTION 10.8.
+
+          "COMMITMENT" means, for each Bank, the obligation of such Bank to make
+Loans to the Company in an aggregate amount not exceeding the amount set forth
+opposite its signature below, as such amount may be modified from time to time
+as provided herein.
+
+          "COMPANY" has the meaning set forth in the preamble hereto.
+
+          "CONSOLIDATED TANGIBLE NET WORTH" means at any date the consolidated
+shareholders' equity of the Company and its consolidated Subsidiaries
+
+                                       3
+<Page>
+
+determined in accordance with Agreement Accounting Principles, less their
+consolidated Intangible Assets, all determined as of such date. For purposes of
+this definition "Intangible Assets" means the amount (to the extent reflected in
+determining such consolidated shareholders' equity) of (i) all write-ups (other
+than write-ups resulting from foreign currency translations and write-ups of
+assets of a going concern business made within twelve months after the
+acquisition of such business) subsequent to December 31, 2000 in the book value
+of any asset owned by the Company or a consolidated Subsidiary, (ii) all
+investments in unconsolidated Subsidiaries and all equity investments in Persons
+which are not Subsidiaries and (iii) all unamortized debt discount and expense,
+unamortized deferred charges, goodwill, patents, trademarks, service marks,
+trade names, copyrights, organization or developmental expenses and other
+intangible items.
+
+          "CONTROL AGREEMENT" means that certain Securities Account Control
+Agreement, dated as of October 19, 2001, by and among the Clearing Members party
+thereto, the Company, The Bank of New York, as Securities Intermediary (as
+defined therein) and the Collateral Agent, substantially in the form of EXHIBIT
+H, as the same may be amended, restated, supplemented or otherwise modified from
+time to time.
+
+          "CONTROLLED GROUP" means all members of a controlled group of
+corporations and all trades or businesses (whether or not incorporated) under
+common control which, together with the Company, are treated as a single
+employer under Section 414(b) or 414(c) of the Internal Revenue Code.
+
+          "DEFAULT" means an event described in Article VIII.
+
+          "ERISA" means the Employee Retirement Income Security Act of 1974, as
+amended FROM time to time.
+
+          "EXCLUDED TAXES" means, with respect to any and all payments to the
+Collateral Agent, any Bank or any recipient of any payment to be made by or on
+account of any obligation of the Company under the Loan Documents, net income
+taxes, branch profits taxes, franchise and excise taxes (to the extent imposed
+in lieu of net income taxes), and all interest, penalties and liabilities with
+respect thereto, imposed on the Collateral Agent or any Bank.
+
+          "EXCESS AVAILABILITY" means, as of any date, the lesser of (a) the
+excess, if any, of the Aggregate Commitment minus the aggregate principal of all
+Loans outstanding and (b) the excess, if any, of the Borrowing Base minus the
+aggregate principal of all Loans outstanding.
+
+          "FED FUNDS RATE" means for any period, a fluctuating interest rate per
+annum for each day during such period equal to (a) the weighted average of the
+
+
+                                       4
+<Page>
+
+rates on overnight federal funds transactions with members of the Federal
+Reserve System arranged by federal funds brokers, as published for such day (or,
+if such day is not a Business Day, for the preceding Business Day) by the
+Federal Reserve Bank of New York in the Composite Closing Quotations for U.S.
+Government Securities; or (b) if such rate is not so published for any day which
+is a Business Day, the average of the quotations at approximately 10:30 a.m.
+(Chicago time) for such day on such transactions received by the Collateral
+Agent from three federal funds brokers of recognized standing selected by it.
+
+          "FOREIGN BANK" has the meaning set forth in SECTION 11.4.
+
+          "GFX(TM)" means that Wholly-Owned Subsidiary of the Company known as
+the GFX(TM) Corporation.
+
+          "GFX(TM) GUARANTY" means certain Guaranties by the Company issued to
+counterparties of GFX(TM) related to over-the-counter foreign exchange
+transactions entered into by GFX(TM), or certain Guaranties by the Company
+issued to a banking institution that has provided performance bond collateral,
+or met performance bond or variation margin obligations on behalf of GFX(TM),
+related to transactions in futures.
+
+          "GUARANTY" of a Person means any agreement by which such Person
+assumes, guarantees, endorses, contingently agrees to purchase or provide funds
+for the payment of, or otherwise becomes liable upon, the obligation of any
+other Person, or agrees to maintain the net worth or working capital or other
+financial condition of any other Person or otherwise assures any creditor of
+such other Person against loss, including, without limitation, any comfort
+letter, operating agreement or take-or-pay contract and shall include, without
+limitation, the contingent liability of such Person in connection with any
+application for a letter of credit.
+
+          "IEF(TM) GUARANTY" means the guaranty by the Company that a Clearing
+Member participating in the IEF(TM) Program shall receive upon redemption one
+($1) U.S. dollar for each IEF(TM) unit invested in the IEF(TM) Program. An
+IEF(TM) unit (or fraction thereof) represents an equity interest in the CME
+Interest Earning Facility for Customer-Segregated Funds, L.L.C. or the CME
+Interest Earning Facility for Proprietary Funds, L.L.C. credited to a Clearing
+Member for each $1.00 (or fraction thereof) invested by that Clearing Member.
+
+          "IEF(TM) PROGRAM" means a program in which performance bond cash
+deposited with the CME's Clearing House by Clearing Members participating in the
+IEF(TM) Program is pooled and invested in U.S. Government securities and under
+repurchase and reverse repurchase agreements. The IEF(TM) Program consists of
+two limited liability companies (CME Interest Earning Facility for
+Customer-
+
+                                       5
+<Page>
+
+Segregated Funds, L.L.C. and CME Interest Earning Facility for
+Proprietary Funds, L.L.C.) of which the CME is the manager.
+
+          "INDEBTEDNESS" of a Person means such Person's (i) obligations for
+borrowed money (other than a daylight overdraft incurred by the Company in the
+course of effecting daily settlements with Clearing Members), (ii) obligations
+representing the deferred purchase price of property other than accounts payable
+arising in the ordinary course of such Person's business on terms customary in
+the trade, (iii) obligations, whether or not assumed, secured by Liens or
+payable out of the proceeds or production from property (other than futures and
+options contracts held in a cross-margin account at the Company) now or
+hereafter owned or acquired by such Person, (iv) obligations which are evidenced
+by notes, acceptances, or other instruments, (v) capitalized lease obligations,
+(vi) obligations for which such Person is obligated pursuant to a Guaranty
+(other than the guarantee provided by the Clearing House to Clearing Members in
+the ordinary course of business for their obligations to one another, or the
+GFX(TM) and IEF(TM) Guaranties) and (vii) reimbursement obligations with respect
+to letters of credit; PROVIDED, HOWEVER, that "Indebtedness" shall not include
+(a) obligations of the Company to a Cross-Margining Clearing Organization (as
+such term is defined in the CME Rules) arising out of the liquidation of one or
+more pairs of cross-margin accounts held at the Clearing House and at such
+Cross-Margining Clearing Organization and (b) obligations of the Company to a
+pledgee arising out of the liquidation of one or more pairs of cross-margin
+pledge accounts held at the Clearing House and at a Cross-Margining Clearing
+Organization.
+
+          "INDEMNIFIED AMOUNTS" has the meaning set forth in SECTION 11.9(a).
+
+          "INDEMNIFIED TAXES" means Taxes other than Excluded Taxes.
+
+          "INDEMNIFIED PARTY" has the meaning set forth in SECTION 11.9(a).
+
+          "LIEN" of a Person means any security interest, mortgage, pledge,
+lien, claim, charge, encumbrance, title retention agreement, lessor's
+interest under a capitalized lease or analogous instrument, in, of or on any
+property of such Person.
+
+          "LOAN" means, with respect to a Bank, such Bank's portion of any
+ Advance.
+
+          "LOAN DOCUMENTS" means this Agreement, the Notes and the Collateral
+Documents.
+
+          "MATERIAL ADVERSE EFFECT" means a material adverse effect on the
+Company's financial position or the Company's ability to perform its obligations
+in the ordinary course of business as they become due.
+
+                                       6
+<Page>
+
+          "MEMBER ATTORNEY-IN-FACT" means CME in its capacity as attorney-in-
+fact for the Clearing Members pursuant to the power of attorney authorized in
+CME Rule 816.
+
+          "MONEY GRIDLOCK SITUATION" means (1) a disruption in the clearing and
+settlement operations of the Clearing House due to temporary problems or delays
+in obtaining or making settlement payments due to delays, overuse or other
+similar problems with the Fed Wire or similar money transfer systems, (2) the
+failure of a Cross-Margining Clearing Organization to approve one or more
+withdrawals by the Clearing House from a cross-margining bank account held
+either by the Company and such Cross-Margining Clearing Organization jointly, or
+by a Clearing Member cross-margining its positions at the Clearing House with
+its own or an affiliate's positions at such Cross-Margining Clearing
+Organization, or (3) the failure of a Common Banking and Settlement Clearing
+Organization (as such term is defined in the CME Rules) to approve one or more
+withdrawals by the Clearing House from a common banking and settlement bank
+account held either by the Company and such Common Banking and Settlement
+Clearing Organization jointly or by a Clearing Member participating in common
+banking and settlement with such Common Banking and Settlement Clearing
+Organization.
+
+          "MONEY FUND SHARES" has the meaning set forth in the Security and
+Pledge Agreement.
+
+          "MULTIEMPLOYER PLAN" means a Plan maintained pursuant to a collective
+bargaining agreement or any other arrangement to which the Company or any member
+of the Controlled Group is a party to which more than one employer is obligated
+to make contributions.
+
+          "NEW LENDING OFFICE" has the meaning set forth in SECTION 11.4.
+
+          "NON-TERMINATING BANK" has the meaning set forth in SECTION 2.7.2.
+
+          "NOTE" means a promissory note in substantially the form of EXHIBIT A
+hereto, duly executed and delivered to each of the Banks by the Company and
+payable to the order of each Bank in the amount of such Bank's Commitment,
+including any amendment, modification, renewal or replacement of such promissory
+note.
+
+          "OBLIGATIONS" means all unpaid principal of, and accrued and unpaid
+interest on, the Notes, all accrued and unpaid commitment fees and all other
+obligations of the Company to the Collateral Agent or any Bank arising under the
+Loan Documents.
+
+
+                                       7
+<Page>
+
+          "OTHER TAXES" means any and all present or future stamp or documentary
+taxes or any other excise or property taxes, charges or similar levies arising
+from any payment made under any Loan Document or from the execution, delivery or
+enforcement of, or otherwise with respect to, any Loan Document.
+
+          "PBGC" means the Pension Benefit Guaranty Corporation and its
+successors and assigns.
+
+          "PERSON" means any corporation, natural person, firm, joint venture,
+partnership, limited liability company, trust, unincorporated organization,
+enterprise, government or any department or agency of any government.
+
+          "PLAN" means an employee pension benefit plan which is covered by
+Title IV of ERISA or subject to the minimum funding standards under Section 412
+of the Internal Revenue Code as to which the Company or any Subsidiary may have
+any liability.
+
+          "PRINCIPAL BANK" has the meaning set forth in SECTION 4.5.
+
+          "REGULATION U" means Regulation U of the Board of Governors of the
+Federal Reserve System from time to time in effect and shall include any
+successor or other regulation or official interpretation of said Board of
+Governors relating to the extension of credit by banks for the purpose of
+purchasing or carrying margin stocks applicable to member banks of the Federal
+Reserve System.
+
+          "REPORTABLE EVENT" means a reportable event as defined in Section 4043
+of ERISA and the regulations issued under such Section, with respect to a Plan,
+excluding, however, such events as to which the PBGC by regulation waived the
+requirement of Section 4043(a) of ERISA that it be notified within 30 days of
+the occurrence of such event (provided that a failure to meet the minimum
+funding standard of Section 412 of the Internal Revenue Code and of Section 302
+of ERISA shall be a reportable event regardless of the issuance of any such
+waivers in accordance with Section 412(d) of the Internal Revenue Code).
+
+          "REQUIRED BANKS" means the Banks holding at least 75% of the aggregate
+unpaid principal amount of the outstanding Advance(s), or, if no Advance(s) are
+outstanding, Banks having at least 75% of the Aggregate Commitment.
+
+          "REVOLVING CREDIT TERMINATION DATE" means, October 18, 2002 or any
+earlier date on which the Aggregate Commitment is terminated pursuant to this
+Agreement.
+
+                                       8
+<Page>
+
+          "SECTION" means a numbered section of this Agreement, unless another
+document is specifically referenced.
+
+          "SECURITIES ACCOUNT" has the meaning set forth in the Security and
+Pledge Agreement.
+
+          "SECURITY AND PLEDGE AGREEMENT" means that certain Security and Pledge
+Agreement, dated as of October 19, 2001, by and among the Clearing Members party
+thereto, the Company and the Collateral Agent, substantially in the form of
+EXHIBIT I, as the same may be amended, restated, supplemented or otherwise
+modified from time to time.
+
+          "SECURITY DEPOSITS" means the amount required to be deposited with the
+Clearing House by each Clearing Member as security for its obligations to the
+Clearing House pursuant to CME Rule 816.
+
+          "SERVICING BANK" means each Bank designated as a Servicing Bank in
+accordance with SECTION 4.5.
+
+          "SINGLE EMPLOYER PLAN" means a Plan maintained by the Company or any
+member of the Controlled Group for employees of the Company or any member of the
+Controlled Group.
+
+          "SUBSIDIARY" means any corporation more than 50% of the outstanding
+voting securities of which shall at the time be owned or controlled, directly or
+indirectly, by the Company or by one or more Subsidiaries or by the Company and
+one or more Subsidiaries, or any similar business organization which is so owned
+or controlled.
+
+          "SURPLUS FUNDS" means funds in excess of those needed for normal
+operations in the Clearing House Accounts and the General Accounts as referenced
+in CME Rule 802.B.
+
+          "TAXES" means any and all present or future taxes, levies, imposts,
+duties, fees, deductions, charges or withholdings imposed by any governmental
+authority.
+
+          "TERMINATED COMMITMENT" has the meaning set forth in SECTION 2.7.2.
+
+          "2.7.2 EFFECTIVE DATE" has the meaning set forth in SECTION 2.7.2.
+
+          "2.7.2 NOTICE" has the meaning set forth in SECTION 2.7.2.
+
+
+                                       9
+<Page>
+
+          "UNFUNDED LIABILITIES" means, (i) in the case of Single Employer
+Plans, the amount (if any) by which the present value of all vested
+nonforfeitable benefits under such Plan exceeds the fair market value of all
+Plan assets allocable to such benefits, all determined as of the then most
+recent valuation date for such Plan, and (ii) in the case of Multiemployer
+Plans, the withdrawal liability of the Company and Subsidiaries.
+
+          "UNMATURED DEFAULT" means an event which but for the lapse of time or
+the giving of notice, or both, would constitute a Default.
+
+          "WHOLLY-OWNED SUBSIDIARY" means any Subsidiary all of the outstanding
+voting securities of which shall at the time be owned or controlled, directly or
+indirectly, by the Company or one or more Wholly-Owned Subsidiaries, or by the
+Company and one or more Wholly-Owned Subsidiaries, or any similar business
+organization which is so owned or controlled.
+
+          The foregoing definitions shall be equally applicable to both the
+singular and plural forms of the defined terms.
+
+                                   ARTICLE II
+
+                                   THE CREDIT
+
+           2.1   REVOLVING CREDIT LOANS. Through and including the Revolving
+Credit Termination Date, each Bank severally agrees, on the terms and conditions
+set forth in this Agreement and in its Note, to make Loans to the Company from
+time to time in amounts not to exceed in the aggregate at any one time
+outstanding the amount of its Commitment; provided, however, that if any
+unmatured Advances are outstanding at the effective date of a change in any
+Bank's Commitment pursuant to SECTION 2.7, each Bank instead severally agrees,
+on the terms and conditions set forth in this Agreement, to make Loans from time
+to time prior to the maturity of such unmatured Advances in amounts not to
+exceed in the aggregate for all such Loans of such Bank the amount of such
+Bank's ratable share (determined in proportion to its respective Commitment, as
+so changed) of the excess of (i) the amount of the Aggregate Commitment, over
+(ii) the aggregate principal outstanding amount of all such unmatured Advances
+of the Banks (assuming for purposes of this clause (ii) that all other such
+Banks' shares of such unmatured Advances were made and have not been
+disproportionately prepaid); and provided, further that no Loan shall be made
+if, after giving effect thereto, the aggregate outstanding principal of all
+Loans would exceed the lesser of (A) the Aggregate Commitment or (B) the
+Borrowing Base. Subject to the terms of this Agreement, the Company may borrow,
+repay and reborrow at any time through the Revolving Credit
+
+
+                                   10
+
+<Page>
+
+Termination Date. The obligations of any Bank to make Loans hereunder shall
+cease at 4:01 p.m. (Chicago time) on the Revolving Credit Termination Date.
+
+          2.2   RATABLE LOANS. Each Advance hereunder shall consist of Loans
+made from the several Banks, ratably in proportion to the amounts of their
+respective Commitments on the date of such Advance.
+
+          2.3   PAYMENT ON LAST DAY OF INTEREST PERIOD. Each Advance and accrued
+and unpaid interest thereon shall be due and payable 30 days after such Advance
+is made.
+
+          2.4   REBORROWING OF ADVANCES. No Loans may be made hereunder to repay
+Advances without the consent of all of the Banks.
+
+          2.5   OPTIONAL PRINCIPAL PAYMENTS. The Company may from time to time
+prepay, without premium or penalty, all or a portion of any outstanding Advance,
+pro rata among the Banks, in accordance with their respective shares of such
+Advance by giving notice of such prepayment by 10:00 a.m. (Chicago time) on the
+date of such payment to each Bank. Repayment of principal pursuant to this
+SECTION 2.5 shall be applied to prepay the outstanding Loans, pro rata, and
+shall be accompanied by accrued and unpaid interest thereon.
+
+          2.6   MANDATORY PRINCIPAL PAYMENTS. On any day on which the aggregate
+outstanding principal of the Loans exceeds the Borrowing Base or the Aggregate
+Commitment, such excess shall be immediately due and payable without the
+necessity of any notice or demand. Repayment of such excess amounts shall be
+applied to prepay the outstanding Loans, pro rata, and shall be accompanied by
+accrued and unpaid interest thereon.
+
+          2.7   ADJUSTMENTS OF COMMITMENTS.
+
+          2.7.1   ADJUSTMENTS BY THE COMPANY. The Company may permanently reduce
+the Aggregate Commitment, in whole or in part ratably among the Banks, in
+proportion to the amounts of their respective Commitments in integral multiples
+of $1,000,000, upon at least ten Business Days' written notice to the Banks,
+which shall specify the amount of any such reduction; PROVIDED, HOWEVER, that,
+subject to SECTIONS 2.7.2, 11.9(b) and 11.9(c), the amount of the Aggregate
+Commitment may not be reduced below the outstanding principal amount of the
+Advance(s), and provided further that a reduction by the Company of the
+Aggregate Commitment to zero shall terminate this Agreement as of the effective
+date of such reduction. All accrued and unpaid commitment fees shall be payable
+on the effective date of such termination.
+
+          2.7.2   ADJUSTMENTS BY BANKS FOR ACCELERATED TERMINATION. If the
+
+                                       11
+<Page>
+
+Commitment of a Bank hereunder is terminated pursuant to SECTION 11.9(b) or
+11.9(c), the Company shall immediately notify each remaining Bank
+("NON-TERMINATING BANK"), in writing of such termination ("ACCELERATED
+TERMINATION NOTICE") and shall state the amount of such terminating Bank's
+Commitment ("TERMINATED COMMITMENT") in the Accelerated Termination Notice. Each
+Non-Terminating Bank shall notify the Company, in writing, on or before the 5th
+Business Day after the date of the Accelerated Termination Notice, if and by
+what amount such Bank is willing to increase its Commitment, which amount shall
+be equal to all or some portion of the Terminated Commitment (each, a "2.7.2
+NOTICE"). Any Non-Terminating Bank that fails to so notify the Company on or
+before such 5th Business Day, shall be deemed to have declined to increase its
+Commitment. If offers to increase Commitments are made by two or more
+Non-Terminating Banks in an aggregate amount greater than the aggregate amount
+of the Terminated Commitment, such Non-Terminating Banks and the Company hereby
+agree that such offers shall be allocated as nearly as possible in proportion to
+the aggregate amount of such offers, so that the aggregate amount thereof will
+not exceed the amount of the Terminated Commitment. On or before the 6th
+Business Day after the date of the Accelerated Termination Notice, the Company
+shall notify each Non-Terminating Bank of the amount by which each such
+Non-Terminating Bank's Commitment has been increased, which amount shall not
+exceed the amount of such Non-Terminating Bank's offer to increase its
+Commitment in such Bank's 2.7.2 Notice. All increases of Commitments by the
+Banks, under this SECTION 2.7.2 shall become effective on the terminating Bank's
+Accelerated Termination Date ("2.7.2 EFFECTIVE DATE"). The Company shall
+promptly, and in no event later than the 2.7.2 Effective Date, deliver to each
+Bank whose Commitment has been increased pursuant to this SECTION 2.7.2 a new
+Note reflecting such Bank's new Commitment amount and each such Bank shall
+promptly, after repayment of all Advances outstanding on the 2.7.2 Effective
+Date, return to the Company the Company's superseded Note. On the 2.7.2
+Effective Date, the Commitments shall be adjusted to reflect any such increases.
+
+           2.8   COMMITMENT FEE. From the date hereof to and including the
+Revolving Credit Termination Date, the Company agrees to pay to each Bank a
+commitment fee of 8/100 of 1% per annum (on the basis of a year consisting of
+360 days) on the daily amount of such Bank's ratable share (determined in
+proportion to its respective Commitment) of the excess of (i) the amount of the
+Aggregate Commitment over (ii) the aggregate principal amount of all outstanding
+Advances of the Banks, payable on the last day of each November, February, May
+and August hereafter and on the Revolving Credit Termination Date, commencing on
+the first of such dates to occur after the date hereof.
+
+          2.9   COLLATERAL.
+
+
+                                       12
+<Page>
+
+          (a) All Obligations of the Company under this Agreement, the Notes
+and all other Loan Documents shall be secured by the Collateral in accordance
+with the Collateral Documents.
+
+          (b) So long as no Default shall have occurred and be continuing, the
+Company may from time to time replace any security credited to the Securities
+Account or any Money Fund Shares subject to the Lien of the Security and Pledge
+Agreement with another security of a type described in CME Rule 816 that has a
+market value equal to or greater than the market value of the replaced security,
+determined as of the date of replacement by the Collateral Agent in accordance
+with its usual and customary practices.
+
+          (c) So long as no Default shall have occurred and be continuing, the
+Company may from time to time direct the Collateral Agent to (and the Collateral
+Agent shall upon the request of the Company) liquidate any securities credited
+to the Securities Account and any Money Fund Shares and apply the proceeds
+thereof and any other amounts credited to the Securities Account to repay any
+outstanding Loans, provided that after giving effect to such liquidation and the
+repayment of such Loans, the aggregate principal amount of all remaining Loans
+outstanding as of the date of such removal shall not exceed the Borrowing Base
+as of the date of such removal.
+
+          (d) Upon any replacement or liquidation of Collateral pursuant to
+subsection (b) or (c) above, the Lien of the Collateral Agent on the replaced or
+liquidated Collateral, as applicable, shall be deemed released without further
+consent of the Collateral Agent or any Bank.
+
+                                  ARTICLE III
+
+                               FUNDING THE CREDITS
+
+          3.1 METHOD OF BORROWING. The Company shall give the Collateral Agent,
+each Bank and each Servicing Bank notice not later than 3:15 p.m. (Chicago time)
+on the Borrowing Date of each Advance, specifying the amount of such Advance,
+each Bank's pro rata share thereof and the bank and the account to which the
+proceeds are to be disbursed. Following such notice from the Company, the
+Collateral Agent shall determine the aggregate value of the Collateral and the
+Borrowing Base in accordance with the terms hereof and promptly, but in any
+event, not later than 3:45 p.m. (Chicago time), provide each Bank with a
+Collateral Notice. Subject to satisfaction of the applicable conditions
+precedent set forth in Article V, not later than 4:45 p.m. (Chicago time) on
+each Borrowing Date, each Bank
+
+                                       13
+<Page>
+
+severally shall make available to the Company, its pro rata share of the full
+amount of each Advance in immediately available funds, at such Bank's address
+specified pursuant to Article XIII. Further, if applicable, not later than 4:45
+p.m. (Chicago time) on each Borrowing Date, each Servicing Bank shall make
+available to the Company, on behalf of the Bank or Banks that it services, such
+serviced Bank's or Banks' pro rata share of the full amount of each Advance in
+immediately available funds, at such Servicing Bank's address specified pursuant
+to Article XIII.
+
+          3.2 MINIMUM AMOUNT OF EACH ADVANCE. Each Advance shall be in the
+minimum amount of $10,000,000 (and in integral multiples of $250,000 if in
+excess thereof), PROVIDED, HOWEVER, that any Advance may be in the aggregate
+amount of the Excess Availability.
+
+          3.3 RATE BEFORE AND AFTER MATURITY. Prior to maturity, Advances shall
+bear interest at the Fed Funds Rate plus 45/100 of 1% per annum. Any Advance not
+paid at maturity, whether by acceleration or otherwise, shall bear interest
+until paid in full at a rate per annum equal to the Fed Funds Rate plus 2.4% per
+annum. In the event that a change in the Fed Funds Rate is announced or
+published at the time a Loan is outstanding, such change shall become effective
+at the time it is announced or published.
+
+          3.4 METHOD OF PAYMENT. All payments (including prepayments) of
+principal, interest, commitment fees and other amounts payable hereunder by the
+Company shall be made in immediately available funds to the Banks (or, if
+applicable, the related Servicing Banks) at the addresses specified pursuant to
+Article XIII. All such payments shall be applied to principal, interest, fees,
+expenses and other amounts due and payable hereunder in the following order:
+FIRST, to amounts payable hereunder other than principal, interest and
+commitment fees; SECOND, to commitment fees (in chronological order in
+accordance with the dates such fees became due and payable); and THIRD, to
+principal of, and interest on, the Advances (in chronological order in
+accordance with the dates such Advances were made; and as to any single Advance,
+first to interest thereon and second to principal thereof). Subject to the
+provisions of SECTION 4.4, (a) all payments of principal of, and interest on,
+the Advances shall be made to the Banks (or, if applicable, the related
+Servicing Banks) ratably among the Banks, in proportion to the outstanding
+principal amount of their respective Loans constituting part of such Advance and
+(b) all payments of commitment fees and other amounts payable hereunder to the
+Banks shall be made to the Banks (or, if applicable, the related Servicing Banks
+on behalf of the applicable Banks, if applicable) ratably among the Banks, in
+proportion to the amounts of their respective Commitments on the date such
+payment is made.
+
+          3.5  NOTES; TELEPHONIC NOTICES. Each Bank shall maintain in accordance
+with its usual and customary practices an account or accounts evidencing
+
+                                       14
+<Page>
+
+the Loans made by such Bank from time to time, including the amounts of
+principal and interest payable and paid to such Bank from time to time under
+this Agreement and the Notes; and each Bank is hereby authorized to record the
+principal amount of each of its Loans and each repayment on the schedule
+attached to its Note or in its books and records; PROVIDED, HOWEVER, that the
+failure to so record shall not affect the Company's obligations under such Note.
+The records kept by each Bank shall be presumed to be accurate and shall be
+binding upon the Company absent manifest error. The Company hereby authorizes
+the Banks and the Servicing Banks to extend Advances based on telephonic notices
+made by any Persons any such Bank or Servicing Bank in good faith believes to be
+acting on behalf of the Company. The Company agrees to deliver promptly to each
+Bank and Servicing Bank a written confirmation of each telephonic notice signed
+by an authorized signatory. If the written confirmation differs in any material
+respect from the action taken by a Bank or Servicing Bank, as applicable, the
+records of such Bank or Servicing Bank, as applicable, shall govern absent
+manifest error.
+
+          3.6   INTEREST PAYMENT DATES; INTEREST BASIS. Interest accrued on each
+Advance prior to maturity shall be payable to Banks (or, if applicable, the
+related Servicing Banks) on the date on which the Advance is paid or prepaid,
+whether due to acceleration or otherwise. Interest accrued on each Advance after
+maturity shall be payable on demand. Interest and commitment fees shall be
+calculated for actual days elapsed on the basis of a 360-day year. Interest
+shall be payable for the day an Advance is made but not for the day of any
+payment on the amount paid if payment is received prior to noon (local time at
+the place of payment). If any payment of principal of, or interest on, an
+Advance shall become due on a day which is not a Business Day, such payment
+shall be made on the next succeeding Business Day and, in the case of a
+principal payment, such extension of time shall be included in computing
+interest in connection with such payment.
+
+                                   ARTICLE IV
+
+                          BANKS' SERVICING ARRANGEMENT
+
+          4.1 NOTICE TO AND PAYMENT BY THE BANKS. Promptly after receiving
+notice from the Company of each Advance requested pursuant to SECTION 3.1, the
+Servicing Banks shall notify each of the applicable Banks by telephone (which
+may, at the option of the Servicing Banks, be accompanied by facsimile
+transmission), of each Advance, which notice shall state: (a) the dollar amount
+of such Advance; (b) each Bank's ratable share of such Advance; (c) the date and
+time when such Advance is to be made; and (d) the Servicing Bank to which the
+Bank's ratable share of such Advance shall be sent. Except as hereinafter
+provided, promptly after receipt of such notice from the Servicing Banks and, in
+any event, before the time specified in such
+
+                                       15
+<Page>
+
+notice as the time when such Advance is to be made to the Company, each
+applicable Bank shall transfer its ratable share of such Advance to the
+appropriate Servicing Bank by Federal Reserve wire transfer or, in the event of
+a failure of the Federal Reserve wire transfer system, in other immediately
+available funds.
+
+          4.2 PAYMENT BY BANKS TO SERVICING BANKS. If a Servicing Bank fails to
+receive a transfer from any of the applicable Banks by the time required
+pursuant to SECTION 4.1, such Servicing Bank shall advance such amount for and
+on behalf of such Bank, provided that, notwithstanding the foregoing, such Bank
+shall, in any event, transfer to the Servicing Bank, by the means set forth in
+SECTION 4.1, its ratable share of the relevant Advance not later than 10:00 a.m.
+(Chicago time) the next Business Day after the Servicing Bank provides such Bank
+with the notice specified in SECTION 4.1. In the event a Servicing Bank advances
+funds overnight to the Company pursuant to the immediately preceding sentence,
+the Bank on whose behalf such funds are advanced shall reimburse the Servicing
+Bank for the Servicing Bank's cost of overnight funds, for the period from the
+time the Servicing Bank advances such funds to the Company for and on behalf of
+such Bank to the time of the Servicing Bank's receipt of such Bank's transfer of
+its ratable share of the relevant Advance. Such Servicing Bank shall promptly
+provide such Bank with notice of the amount of its cost of overnight funds for
+such period and such amount shall thereupon become immediately due and payable
+from such Bank to such Servicing Bank, and shall be paid by such Bank to such
+Servicing Bank upon receipt of such notice without further notice from or demand
+by such Servicing Bank.
+
+          4.3 DISTRIBUTION OF PAYMENTS. Whenever a Servicing Bank receives from,
+or on behalf of the Company, or any other person or party, a payment of
+principal, interest or commitment fees in connection with the Loans with respect
+to any of which the applicable Banks are entitled to receive a share, such
+Servicing Bank shall promptly pay to such Banks, in lawful money of the United
+States of America and in the kind of funds so received by such Servicing Bank,
+the amount due each of such Banks as determined pursuant to this Agreement;
+PROVIDED, HOWEVER, that the amount of such distribution shall be adjusted to the
+extent that amounts are owed by any Bank to such Servicing Bank pursuant to
+SECTION 4.2. or are required to be returned to such Servicing Bank pursuant to
+SECTION 4.4. If any payment of principal, interest or commitment fees is
+received from or on behalf of the Company by a Servicing Bank before 10:00 a.m.
+(Chicago time) on any Business Day, that Servicing Bank shall use reasonable
+efforts to wire transfer the appropriate portion of the same to the applicable
+Banks that same Business Day, but in any event shall wire the same to each of
+such Banks before the end of the next Business Day. In the event that a
+Servicing Bank receives any such payment from or on behalf of the Company before
+10:00 a.m. (Chicago time) on any Business Day and does not transfer to one or
+more of the applicable Banks the appropriate portion of such payment on that
+day, the Company shall, promptly upon receipt of notice from any
+
+                                       16
+
+<Page>
+
+such Bank, pay directly to such Bank an amount equal to the interest on such
+portion, at the Fed Funds Rate or, with respect to any payment of principal on a
+Loan, at the rate set forth in SECTION 3.3, for the period commencing on the day
+such Servicing Bank receives such payment up to but not including the following
+Business Day.
+
+          4.4   RESCISSION OF PAYMENTS BY THE COMPANY. If all or part of any
+payment made by the Company to a Servicing Bank of principal, interest or
+commitment fees in connection with the Loans is rescinded or must otherwise be
+returned for any reason and if a Servicing Bank has paid to any of the Banks
+such Bank's ratable share therein, such Bank shall, upon telephone notice from
+such Servicing Bank, forthwith pay to such Servicing Bank, on the date of such
+telephone notice (if notice is received by such Servicing Bank at or prior to
+10:00 a.m. Chicago time) or on the next Business Day (if notice is received by
+such Servicing Bank after 10:00 a.m. Chicago time), an amount equal to such
+Bank's ratable interest in the amount that was rescinded or that must be so
+returned by the Servicing Bank. A Servicing Bank shall promptly return to the
+Company each such amount (or any lesser amount) that is received from each Bank.
+A Servicing Bank shall have no obligation to the Company for any amount that the
+Servicing Bank paid to any Bank and that is not repaid by such Bank, provided
+that the Servicing Bank did in fact provide such Bank with the notice described
+above to the effect that such payment was rescinded or must be returned.
+
+          4.5   POWERS GRANTED TO THE SERVICING BANKS. The Company and one or
+more Banks (each a "PRINCIPAL BANK") may, upon mutual agreement, from time to
+time request another Bank to act as a Servicing Bank for the purpose of
+administering and servicing the Loans of the Principal Banks. Upon the
+acceptance of the offer to service by the proposed Servicing Bank (which shall
+be in the sole discretion of such Bank), such Servicing Bank as administrator of
+the Loans of the Principal Banks for which it acts (and not as an agent,
+employee or fiduciary), shall be entitled to exercise all such powers as are
+incidental to the powers to receive and collect funds from the Principal Banks
+and the Company provided for in this Agreement, and to take such other actions
+with respect to such Loans as are provided hereby or as may be from time to time
+agreed by such Servicing Bank and the Principal Banks. In acting under this
+Agreement, each Servicing Bank agrees to exercise the same degree of care in
+administering such Loans as it would use in managing its own loans; PROVIDED,
+HOWEVER, that this sentence shall not make any Servicing Bank a fiduciary to any
+Principal Bank. The Principal Banks and the Company hereby agree and acknowledge
+that (i) in performing the duties provided for in this Agreement, the Servicing
+Banks are acting solely for the benefit of the Principal Banks and are in no way
+to be construed to be acting as agent for the Company; and (ii) the servicing
+arrangement provided for herein is not intended to constitute, and shall not be
+construed to establish, a partnership or joint venture
+
+                                       17
+<Page>
+
+between the Servicing Banks and the Principal Banks, or between the Servicing
+Banks and the Company.
+
+          4.6   RESIGNATION OR TERMINATION OF SERVICING BANK. A Servicing Bank
+may resign its position as such at any time upon thirty (30) day's prior notice
+to the Company and the Principal Banks for which it acts, and the Company and
+the applicable Principal Banks acting together may terminate a Servicing Bank's
+role as such at any time upon thirty (30) day's prior notice to such Servicing
+Bank. Subsequent to the effective date of such resignation or termination, the
+resigned or terminated (as applicable) Servicing Bank shall have no further
+obligations in that capacity under this Agreement, and unless and until a
+successor servicing bank is appointed by the Company and the applicable
+Principal Banks acting together, (i) the services performed by such Servicing
+Bank hereunder shall be performed by the individual Principal Banks, and the
+Company, each on its own behalf, and (ii) any payments or communications made by
+the Company to such Servicing Bank hereunder shall be made directly to the
+applicable individual Principal Banks.
+
+          4.7   NON-RELIANCE REPRESENTATION. Each of the Banks acknowledges and
+represents that it has, independently of and without reliance upon the Servicing
+Banks, and based solely upon its own expertise (and the expertise of its agents
+and independent advisors) and upon financial statements and other information
+deemed appropriate by it, made its own credit analysis of the Company and made
+its own decision to enter into this Agreement. Each of the Banks further
+acknowledges and represents that it will, independently of and without reliance
+upon the Servicing Banks, and based solely upon its own expertise (and the
+expertise of its agents and independent advisors, if any) and upon such
+documents and information as it shall deem appropriate at the time, continue to
+make its own credit analysis of the Company and its own decisions with respect
+to this Agreement.
+
+          4.8   EXCULPATION. No Servicing Bank nor any of its shareholders,
+directors, officers, employees or agents shall be liable to the Banks, or any of
+them individually, for any obligation, undertaking, act or judgment of the
+Company or any other Person, or for any error of judgment or any action taken or
+omitted to be taken by such Servicing Banks or any other Servicing Bank (except
+and to the extent that the same arises from gross negligence or willful
+misconduct on the part of such Servicing Bank), or be bound to ascertain or
+inquire as to the performance or observance of any term of any of the Loan
+Documents. Without limiting the generality of the foregoing, the Servicing
+Banks: (a) may consult with legal counsel selected by the Servicing Banks and
+shall not be liable for any action taken or omitted to be taken in good faith by
+the Servicing Banks in accordance with the advice of such counsel; (b) makes no
+warranty or representation and shall not be responsible for any warranty or
+representation made in or in connection with any of the Loan Documents, or for
+the financial condition of the Company or any other
+
+                                       18
+<Page>
+
+Person, or for the observance or performance of any obligations of the Company
+or any other Person, or for the truth or accuracy of any document provided to
+the Banks that the Servicing Banks have initially received from, or that the
+Servicing Banks have prepared based upon information received from, the Company
+or any other Person; (c) make no warranty or representation and shall not be
+responsible for the due execution, validity, enforceability, sufficiency or
+collectibility of any of the Loan Documents; (d) shall incur no liability under
+or in respect of any such agreement or document by acting upon any notice (by
+telephone or otherwise), or writing (including telex and telegraphic
+communication) believed by the Servicing Banks in good faith to be genuine and
+to be signed or sent by the proper party or Person; and (e) make no warranty or
+guarantee as to: (i) future payments by the Company or any other obligor or
+guarantor of the Loans, (ii) the Company's future compliance with or performance
+of any of the terms and conditions contained in the Loan Documents, or (iii) the
+collectibility of the Loans.
+
+                                   ARTICLE V
+
+                              CONDITIONS PRECEDENT
+
+          5.1 CONDITIONS PRECEDENT.
+
+          (a) CONDITIONS TO CLOSING. This Agreement shall become effective as of
+the date hereof upon the execution and delivery of a counterpart hereto by each
+party hereto.
+
+          (b) CONDITIONS TO INITIAL ADVANCE. The Banks shall not be required to
+make the initial Advance hereunder unless the Company has furnished to each such
+Bank:
+
+               (i)   A certificate of good standing with respect to the Company,
+     certified by the Secretary of State of Delaware.
+
+               (ii)  A copy, certified by the Secretary or Assistant Secretary
+     of the Company, of CME's Board of Directors' resolutions (and resolutions
+     of other bodies, if any are deemed necessary by counsel for any Bank)
+     authorizing the execution of the Loan Documents.
+
+               (iii) An incumbency certificate, in substantially the form of
+     EXHIBIT G hereto, executed by the Secretary or Assistant Secretary of the
+     Company, which shall identify by name
+
+
+                                       19
+<Page>
+
+     and title and bear the signature of the officers of the Company authorized
+     to sign the Loan Documents and to make borrowings hereunder, including
+     telephonic borrowings, upon which certificate the Banks shall be entitled
+     to rely until informed of any change in writing by the Company.
+
+               (iv)   A certificate, signed by the president & CEO, managing
+     director & president of the Clearing House division, managing director and
+     chief administrative officer, or managing director & chief financial
+     officer of the Company or his delegate, in substantially the form of
+     EXHIBIT B hereto. Such certificate may be furnished by the Company by any
+     means set forth in SECTION 13.1 hereof, and shall be deemed given to such
+     Bank as provided therein.
+
+               (v)    A written opinion of the Company's counsel, addressed to
+     the Banks, covering the matters set forth in EXHIBIT C hereto.
+
+               (vi)   A Note, duly executed and delivered by the Company and
+     payable to the order of such Bank.
+
+               (vii)  A copy of the Security and Pledge Agreement, duly executed
+     and delivered by the Company, for itself and as Member Attorney-in-Fact on
+     behalf of each grantor named therein.
+
+               (viii) A copy of the Control Agreement, duly executed and
+     delivered by the Company, for itself and as Member Attorney-in-Fact on
+     behalf of each grantor named therein, The Bank of New York, as Securities
+     Intermediary and the Collateral Agent.
+
+          5.2 EACH ADVANCE. No Bank shall be required to make any Advance
+(including the initial Advance), unless on the applicable Borrowing Date:
+
+            (a) There exists no Default or Unmatured Default.
+
+            (b) The representations and warranties contained in Article VI are
+true and correct in all material respects as of such Borrowing Date except for
+changes in the Schedules hereto reflecting transactions permitted by this
+Agreement.
+
+          (c) The Company has furnished to such Bank a certificate which sets
+forth in reasonable detail the intended use of the proceeds of such Advance
+
+                                       20
+<Page>
+
+(which shall comply with SECTION 7.2 hereof) and confirms that such proceeds
+will not be used to repay maturing Advances except as permitted pursuant to
+SECTION 2.4 hereof, in substantially the form of EXHIBIT D hereto. Such
+certificate may be furnished by Company by any means set forth in SECTION 13.1
+hereof, and shall be deemed delivered to such Bank as provided therein.
+
+          (d) The Collateral Agent has furnished to such Bank a Collateral
+Notice in accordance with SECTION 3.1 indicating the aggregate market value of
+the Collateral on such date.
+
+          (e) The aggregate outstanding principal of all Loans, after giving
+effect to the Loans to be made on such Borrowing Date, does not exceed the
+lesser of (i) the Aggregate Commitment and (ii) the Borrowing Base as of such
+date.
+
+Each request by the Company for a Loan hereunder shall constitute a
+representation and warranty by the Company that the conditions contained in
+SECTIONS 5.2(a) and (b) have been satisfied.
+
+          5.3 RETURN OF EXISTING NOTES. Upon its receipt of a Note issued
+pursuant to this Agreement, each Bank holding a promissory note of the Company
+issued pursuant to the Existing Agreement, shall return the original of each
+such promissory note to the Company, marked "Cancelled."
+
+                                   ARTICLE VI
+
+                         REPRESENTATIONS AND WARRANTIES
+
+           The Company represents and warrants to the Banks, as of the date of
+each Advance, that:
+
+          6.1 CORPORATE EXISTENCE AND STANDING. Each of the Company and the
+Subsidiaries is a corporation duly incorporated, validly existing and in good
+standing under the laws of its jurisdiction of incorporation and has all
+requisite authority to conduct its business in each jurisdiction in which its
+business is conducted and where the failure to have such authority would
+reasonably be expected to have a Material Adverse Effect.
+
+          6.2 AUTHORIZATION AND VALIDITY.
+
+            (a) The Company has the corporate power and authority and legal
+right to execute and deliver the Loan Documents and to perform its obligations
+thereunder. The execution and delivery by the Company of the Loan
+
+                                       21
+<Page>
+
+Documents and the performance of its obligations thereunder have been duly
+authorized by proper corporate proceedings. The Company has duly executed and
+delivered the Loan Documents, and the Loan Documents constitute legal, valid and
+binding obligations of the Company enforceable against the Company in accordance
+with their terms, except as enforceability may be limited by bankruptcy,
+insolvency or similar laws affecting the enforcement of creditors' rights
+generally and by general principles of equity (whether enforcement is considered
+in a proceeding at law or in equity).
+
+            (b) The Company has the authority pursuant to CME Rule 816 to
+execute and deliver, as Member Attorney-in-Fact on behalf of the applicable
+Clearing Members, the Collateral Documents and to cause the Security Deposits to
+be subject to the Lien of the Collateral Documents to secure the Obligations.
+CME Rules 816 and 913.B have been duly adopted and are in full force and effect.
+
+          6.3 COMPLIANCE WITH LAWS AND CONTRACTS. Neither the execution and
+delivery by the Company of the Loan Documents, nor the consummation of the
+transactions therein contemplated, nor compliance with the provisions thereof
+will violate any law, rule, regulation, order, writ, judgment, injunction,
+decree or award binding on the Company or any Subsidiary or the Company's or any
+Subsidiary's articles of incorporation or by-laws or the provisions of any
+material indenture, instrument or agreement to which the Company or any
+Subsidiary is a party or is subject, or by which it, or its property, is bound,
+or conflict with or constitute a default thereunder. No order, consent,
+approval, license, authorization, or validation of, or filing, recording or
+registration with, or exemption by, any governmental or public body or
+authority, or any subdivision thereof, that has not been obtained is required to
+authorize, or is required in connection with the execution, delivery and
+performance of, or the legality, validity, binding effect or enforceability of,
+any of the Loan Documents.
+
+          6.4 FINANCIAL STATEMENTS. The most recent annual, audited consolidated
+financial statements of the Company and the Subsidiaries heretofore delivered to
+the Banks were prepared in accordance with generally accepted accounting
+principles in effect on the date such statements were prepared and fairly
+present the consolidated financial condition and operations of the Company and
+the Subsidiaries at such date and the consolidated results of their operations
+for the period then ended.
+
+          6.5 MATERIAL ADVERSE CHANGE. No material adverse change in the
+business, financial condition, or results of operations of the Company and the
+Subsidiaries has occurred since the date of the financial statements referred to
+in SECTION 6.4; PROVIDED, HOWEVER, that in the event the Company utilizes its
+own funds
+
+                                       22
+<Page>
+
+to repay all or any portion of an Advance, and such repayment results in such a
+material adverse change, then such material adverse change shall not be deemed
+to have occurred until the thirty-first consecutive day that such material
+adverse change continues.
+
+          6.6 SUBSIDIARIES. SCHEDULE I contains an accurate list of all of the
+presently existing Subsidiaries of the Company, setting forth their respective
+jurisdictions of incorporation and the percentage of their respective capital
+stock owned by the Company or other Subsidiaries. All of the issued and
+outstanding shares of capital stock of such Subsidiaries have been duly
+authorized and issued and are fully paid and non-assessable.
+
+          6.7 ACCURACY OF INFORMATION. No written information, exhibit or report
+furnished by the Company or any Subsidiary to any Bank in connection with the
+negotiation of the Loan Documents contained any material misstatement of fact or
+omitted to state a material fact or any fact necessary to make the statements
+contained therein not materially misleading in light of the circumstances
+existing at the time furnished.
+
+          6.8 MARGIN REGULATIONS. Margin stock (as defined in Regulation U)
+constitutes less than 25% of those assets of the Company and its Subsidiaries
+which are subject to any limitation on sale, pledge, or other restriction
+hereunder. No proceeds of any Loans will be used to "purchase" or "carry" any
+"margin stock" (each as defined in Regulation U), or for any purpose that
+violates the provisions of Regulation T, U or X of the Board of Governors of the
+Federal Reserve System as now and from time to time hereafter in effect.
+
+          6.9 TAXES. The Company and its Subsidiaries have filed all United
+States federal tax returns and all other tax returns which are required to be
+filed by any of them and have paid all taxes due pursuant to said returns or
+pursuant to any assessment received by the Company or any such Subsidiary,
+except such taxes, if any, as are being contested in good faith. To the best of
+the Company's knowledge, no tax liens have been filed and no claims are being
+asserted with respect to any such taxes other than those taxes that are being
+contested in good faith. The charges, accruals and reserves on the books of the
+Company and its Subsidiaries in respect of any taxes or other governmental
+charges are adequate.
+
+          6.10 LITIGATION. Except as set forth in SCHEDULE II attached hereto,
+there is no litigation or proceeding pending or, to the knowledge of any of
+their officers, threatened against or affecting the Company or any Subsidiary of
+the Company which might materially adversely affect the business, financial
+condition or results of operations of the Company or the ability of the Company
+to perform its obligations under the Loan Documents.
+
+                                       23
+<Page>
+
+          6.11 ERISA. No Plan has Unfunded Liabilities in excess of $1,000,000.
+Each Plan complies in all material respects with all applicable requirements of
+law and regulations, no Reportable Event has occurred with respect to any Plan,
+neither the Company nor any of its Subsidiaries has withdrawn from any Plan or
+initiated steps to do so, and no steps have been taken to terminate any Plan.
+
+                                  ARTICLE VII
+
+                                    COVENANTS
+
+          During the term of this Agreement and thereafter as long as any
+Advances remain outstanding hereunder, unless the Required Banks shall otherwise
+consent in writing:
+
+          7.1 FINANCIAL REPORTING. The Company will maintain, for itself and
+each Subsidiary, a system of accounting established and administered in
+accordance with generally accepted accounting principles, and furnish to the
+Banks:
+
+            (a) Within 120 days after the close of each of its fiscal years, an
+unqualified audit report certified by independent certified public accountants,
+acceptable to the Required Banks, prepared in accordance with Agreement
+Accounting Principles on a consolidated basis for itself and the Subsidiaries,
+including balance sheets as of the end of such period, and statements of income,
+changes in shareholders' equity and a statement of cash flows for the year then
+ended, accompanied by any management letter prepared by said accountants and by
+a certificate of said accountants in substantially the form of EXHIBIT E hereto,
+or if, in the opinion of such accountants, such certificate is not applicable, a
+description of any Default or Unmatured Default relating to accounting matters
+that in their opinion exists, stating the nature and status thereof.
+
+            (b) Within 45 days after the close of the first three quarterly
+periods of each of its fiscal years, for itself and the Subsidiaries, an
+unaudited consolidated balance sheet as at the close of each such period and
+unaudited consolidated statements of income, changes in shareholder's equity and
+cash flows from the beginning of such fiscal year to the end of such quarter,
+each prepared in a manner consistent with the preparation of the Company's
+year-end statements and in accordance with Agreement Accounting Principles.
+
+            (c) Within 45 days after the close of each quarterly period, a
+report of (i) current Surplus Funds and (ii) the aggregate amount of Security
+Deposits being held by the Company including a breakdown of the manner in which
+Security
+
+                                       24
+<Page>
+
+Deposits are held (cash, money market mutual funds or treasury securities) and
+the location thereof.
+
+            (d) Within the time periods set forth herein for the furnishing of
+the financial statements required hereunder, a certificate signed by its
+managing director & chief financial officer or another managing director (i) in
+substantially the form of EXHIBIT F hereto, or (ii) if any Default or Unmatured
+Default exists, showing the calculations set forth in EXHIBIT F as well as a
+description of the nature and status of such Default or Unmatured Default.
+
+            (e) Within 120 days after the close of each fiscal year, a statement
+of the Unfunded Liabilities of each Plan, signed by the managing director &
+chief financial officer of the Company or another managing director, or, in the
+event there are no Unfunded Liabilities, a certificate signed by its managing
+director & chief financial officer or another managing director to that effect.
+
+            (f) As soon as possible and in any event within 10 days after the
+Company knows that any Reportable Event has occurred with respect to any Plan, a
+statement, signed by the managing director & chief financial officer of the
+Company or another managing director, describing said Reportable Event and the
+action which the Company proposes to take with respect thereto.
+
+            (g) Such other information (including non-financial information) as
+any Bank may from time to time reasonably request.
+
+          7.2 USE OF PROCEEDS. The Company will only use the proceeds of the
+Advances to provide temporary liquidity in circumstances where CME is entitled
+to use the Security Deposits of its Clearing Members as provided in the CME
+Rules and in circumstances where a Money Gridlock Situation exists.
+Additionally, the Company may use the proceeds of the Advances to fulfill its
+obligations under the GFX(TM) Guaranty, PROVIDED, HOWEVER, that the Company may
+use the proceeds for such purposes only up to the amount of Surplus Funds on any
+given day. The Company will not, nor will it permit any Subsidiary to, use any
+of the proceeds of the Loans to "purchase" or "carry" any "margin stock" (each
+as defined in Regulation U) or for any purpose that violates the provisions of
+Regulation T, U or X of the Board of the Federal Reserve System as now and from
+time to time hereafter in effect.
+
+          7.3 NOTICE OF DEFAULT. The Company will, and will cause each
+Subsidiary to, give prompt notice in writing to the Banks of the occurrence of
+any Default or Unmatured Default and of any other development, financial or
+otherwise, which would reasonably be expected to materially adversely affect its
+business, properties or affairs or the ability of the Company to repay the
+Obligations.
+
+                                       25
+<Page>
+
+          7.4 CONDUCT OF BUSINESS. The Company will, and will cause each
+Subsidiary to, carry on and conduct its business in substantially the same
+manner and in substantially the same fields of enterprise as it is presently
+conducted and to do all things necessary to remain duly incorporated, validly
+existing and in good standing as a domestic corporation in its jurisdiction of
+incorporation and maintain all requisite authority to conduct its business in
+each jurisdiction in which its business is conducted and where the failure to
+have such authority would reasonably be expected to have a Material Adverse
+Effect.
+
+          7.5 COMPLIANCE WITH LAWS. The Company will, and will cause each
+Subsidiary to, comply with all laws, rules, regulations, orders, writs,
+judgments, injunctions, decrees or awards to which it may be subject, except
+where the failure to so comply would not reasonably be expected to have a
+Material Adverse Effect.
+
+          7.6 INSPECTION. The Company will, and will cause each Subsidiary to,
+permit the Collateral Agent or its representatives and agents, to inspect any of
+the properties, corporate books and financial records of the Company and each
+Subsidiary, to examine and make copies of the books of accounts and other
+financial records of the Company and each Subsidiary, and to discuss the
+affairs, finances and accounts of the Company and each Subsidiary (the foregoing
+activities, an "AUDIT") with, and to be advised as to the same by, their
+respective officers at such reasonable times and intervals as the Collateral
+Agent may designate; provided that so long as no Default has occurred and is
+continuing the Company shall only be responsible for the costs and expenses of
+one Audit per 12-month period.
+
+          7.7 TANGIBLE NET WORTH. The Company will maintain at all times a
+Consolidated Tangible Net Worth of not less than $90,000,000.
+
+          7.8 LIENS. The Company will not, nor will it permit any Subsidiary to,
+create or incur any Lien in, of or on the Collateral, except:
+
+            (a) Liens in favor of the Collateral Agent.
+
+            (b) Liens in favor of the Company, which Liens are subordinated to
+the Liens in favor of the Collateral Agent in accordance with ARTICLE XV hereof.
+
+            (c) Liens arising out of repurchase agreements or reverse repurchase
+agreements entered into by the Company or any Subsidiary thereof.
+
+            (d) Liens arising out of judgments or awards against the Company or
+any Subsidiary, in an amount of not more than $5,000,000 in the aggregate, which
+judgment or award is vacated, discharged, satisfied or stayed or bonded pending
+appeal within 60 days from the entry thereof.
+
+                                       26
+<Page>
+
+          7.9 ADDITIONAL CLEARING MEMBERS. Promptly upon any Person becoming a
+Clearing Member of CME, the Company will execute and deliver, as Member
+Attorney-in-Fact, a supplement to the Security and Pledge Agreement,
+substantially in the form of Exhibit A thereto, joining such Clearing Member as
+a party to the Security and Pledge Agreement and a supplement to the Control
+Agreement, substantially in the form of Exhibit B thereto, joining such Clearing
+Member as a party to the Control Agreement.
+
+          7.10 CME RULE CHANGES. The Company will not, without the prior written
+consent of the Banks, amend, revoke, or rescind any CME Rule in any manner that
+would have a materially adverse effect on the Lien granted to the Collateral
+Agent in the Collateral or the ability of the Collateral Agent to enforce any of
+its rights under the Collateral Documents.
+
+          7.11 TAXES. The Company will, and will cause each Subsidiary to, pay
+when due all taxes, assessments and governmental charges and levies upon it or
+its income, profits or property, except those which are being contested in good
+faith by appropriate proceedings and with respect to which adequate reserves
+have been set aside.
+
+          7.12 INSURANCE. The Company will, and will cause each Subsidiary to,
+maintain with financially sound and reputable insurance companies insurance on
+all their property in such amounts and covering such risks as is consistent with
+sound business practice in the industry, and the Company will furnish to any
+Bank upon request full information as to the insurance carried.
+
+                                  ARTICLE VIII
+
+                                    DEFAULTS
+
+          The occurrence of any one or more of the following events shall
+constitute a Default:
+
+          8.1 Any representation or warranty made or deemed made by or on
+behalf of the Company or any Subsidiary to the Banks under or in connection
+with this Agreement, any Loan, or any certificate or written information
+delivered in connection with this Agreement or any other Loan Document shall
+be materially false as of the date on which made or deemed to have been made.
+
+          8.2 Nonpayment of principal of any Note when due, nonpayment of
+interest upon any Note within five days after the same becomes due or
+nonpayment of any commitment fee or other obligation under any of the Loan
+Documents within 10 days after the same becomes due.
+
+          8.3 (i) Any breach by the Company of any of the terms required to be
+observed by it under Section 7.1, which continues unremedied for 10 days after
+the Company receives notice of such breach from any Bank; (ii) any breach by the
+
+                                       27
+<Page>
+
+Company of any of the terms required to be observed by it under SECTION 7.2,
+7.7, 7.8 or 7.10; or (iii) any material breach by the Company of any of the
+other terms or provisions required to be observed by it under Article VII.
+
+          8.4 The breach by the Company (other than a breach which constitutes a
+Default under SECTION 8.1, 8.2 or 8.3) of any of the terms or provisions of this
+Agreement which is not remedied within five days after written notice from any
+Bank.
+
+          8.5 Failure of the Company or any Subsidiary to pay any Indebtedness
+in an aggregate amount in excess of $5,000,000 when due; or the default by the
+Company or any Subsidiary in the performance of any term, provision or condition
+contained in any agreement under which any such Indebtedness was created or is
+governed, which results in such Indebtedness being accelerated or declared to be
+due and payable or required to be prepaid (other than by a regularly scheduled
+payment) prior to its stated maturity.
+
+          8.6 The Company or any Subsidiary shall (a) have an order for relief
+entered with respect to it under the Federal Bankruptcy Code, (b) not pay, or
+admit in writing its inability to pay, its debts generally as they become due,
+(c) make an assignment for the benefit of creditors, (d) apply for, seek,
+consent to, or acquiesce in, the appointment of a receiver, custodian, trustee,
+examiner, liquidator or similar official for it or any substantial part of its
+property, (e) institute any proceeding seeking an order for relief under the
+Federal Bankruptcy Code or seeking to adjudicate it a bankrupt or insolvent, or
+seeking dissolution, winding up, liquidation, reorganization, arrangement,
+adjustment or composition of it or its debts under any law relating to
+bankruptcy, insolvency or reorganization or relief of debtors or fail to file an
+answer or other pleading denying the material allegations of any such proceeding
+filed against it, (f) take any corporate action to authorize or effect any of
+the foregoing actions set forth in this SECTION 8.6 or (g) fail to contest in
+good faith any appointment or proceeding described in SECTION 8.7.
+
+          8.7 Without the application, approval or consent of the Company or any
+Subsidiary, a receiver, trustee, examiner, liquidator or similar official shall
+be appointed for the Company or any Subsidiary or any substantial part of its
+property, or a proceeding described in SECTION 8.6(e) shall be instituted
+against the Company or any Subsidiary and such appointment continues
+undischarged or such proceeding continues undismissed or unstayed for a period
+of 45 consecutive days.
+
+          8.8 Any court, government or governmental agency shall condemn, seize
+or otherwise appropriate, or take custody or control of all or any substantial
+portion of the property of the Company or any Subsidiary.
+
+                                       28
+<Page>
+
+          8.9 The Company or any Subsidiary shall fail within 30 days to pay,
+bond or otherwise discharge any judgment or order for the payment of money in
+excess of $250,000, which is not stayed on appeal or otherwise being
+appropriately contested in good faith.
+
+          8.10 The Collateral Agent, for the ratable benefit of the Banks, shall
+cease to have a valid and perfected first priority security interest in the
+Collateral other than any Money Fund Shares that have not been included in the
+Borrowing Base and other than in connection with any release of Collateral
+contemplated hereby or by any other Loan Document; or the Company shall assert
+the invalidity of any such security interest or the invalidity or
+unenforceability of any Collateral Document; or any Collateral Document shall be
+terminated without the Collateral Agent's written consent.
+
+          8.11 The Commodity Futures Trading Commission (or its successor) shall
+revoke or suspend the designation of the Company as a contract market under the
+Commodity Exchange Act for any futures contract other than for reasons of
+dormancy or low volume in such contract or for reasons of disruptions in the
+underlying market for such contract.
+
+                                   ARTICLE IX
+
+                 ACCELERATION, WAIVERS, AMENDMENTS AND REMEDIES
+
+          9.1 ACCELERATION. If any Default described in SECTION 8.6 or 8.7
+occurs, the obligations of the Banks to make Loans hereunder shall automatically
+terminate and the Obligations shall immediately become due and payable without
+any election or action on the part of any Bank. If any other Default occurs, the
+Required Banks may terminate or suspend the Commitments of the Banks to make
+Loans hereunder, or declare the Obligations to be due and payable, or both,
+whereupon such Obligations shall become immediately due and payable, without
+presentment, demand, protest or notice of any kind, all of which the Company
+hereby expressly waives. In addition, at any time after which the Obligations
+have become due and payable and the obligations of the Banks to make Loans
+hereunder have terminated in accordance with this Section 9.1, the Collateral
+Agent may, with the consent of the Required Banks (or shall, upon the direction
+of the Required Banks), enforce any and all rights and interest created under
+the Collateral Documents or the UCC, including, without limitation, foreclosing
+the security interests created pursuant to the Collateral Documents by any
+available judicial procedure, and exercise all other rights and remedies of the
+Collateral Agent otherwise available under any other provision of this
+Agreement, by operation of
+
+                                       29
+<Page>
+
+law, at equity or otherwise, all of which are hereby expressly preserved and all
+of which rights shall be cumulative.
+
+          9.2 AMENDMENTS. Subject to the provisions of this Section, the
+Required Banks and the Company may enter into agreements supplemental hereto for
+the purpose of adding or modifying any provisions to the Loan Documents or
+changing in any manner the rights of the Banks or the Company hereunder or
+waiving any Default hereunder; PROVIDED, HOWEVER, that:
+
+          (a) the consent of the Company and all of the Banks shall be required
+to (i) reduce the percentage specified in the definition of Required Banks, (ii)
+reduce the principal amount of or extend the maturity date for any Advance or
+reduce the rate or change the time of payment of interest thereon, (iii) reduce
+the rate or change the time of payment of any commitment fee, (iv) adjust the
+amount of the Commitment of any Bank except as otherwise permitted herein, (v)
+amend SECTION 2.7, 2.8, 5.2 or this SECTION 9.2, (vi) extend the Revolving
+Credit Termination Date, (vii) permit the Company to assign its rights under
+this Agreement, (viii) amend the definition of "Borrowing Base" or (ix) release
+any of the Collateral from the Lien granted pursuant to the Collateral Documents
+other than as permitted by this Agreement or any other Loan Document; and
+
+          (b) the Company may add a new Bank(s) under the terms of this
+Agreement, PROVIDED, HOWEVER, the Aggregate Commitment shall not exceed the
+Borrowing Base at such time and each such new Bank shall agree in writing to be
+bound by the terms of this Agreement.
+
+          9.3 PRESERVATION OF RIGHTS. No delay or omission of the Banks to
+exercise any right under the Loan Documents shall impair such right or be
+construed to be a waiver of any Default or an acquiescence therein, and the
+making of a Loan notwithstanding the existence of a Default or the inability of
+the Company to satisfy the conditions precedent to such Loan shall not
+constitute any waiver or acquiescence. Any single or partial exercise of any
+such right shall not preclude other or further exercise thereof or the exercise
+of any other right, and no waiver, amendment or other variation of the terms,
+conditions or provisions of the Loan Documents whatsoever shall be valid unless
+in writing signed by the Banks required pursuant to SECTION 9.2, and then only
+to the extent in such writing specifically set forth. All remedies contained in
+the Loan Documents or by law afforded shall be cumulative and all shall be
+available to the Banks until the Obligations have been paid in full and the
+Commitments have been terminated.
+
+
+                                       30
+<Page>
+
+                                   ARTICLE X
+
+                                COLLATERAL AGENT
+
+          10.1 DECLARATION AND ACCEPTANCE OF APPOINTMENT; NO FIDUCIARY DUTIES.
+Subject to the terms and conditions hereof, each Bank hereby appoints and
+authorizes The Bank of New York to act as its collateral agent hereunder and
+under each of the Collateral Documents and other Loan Documents, with such
+powers as are expressly delegated to the Collateral Agent by the terms of this
+Agreement, the Collateral Documents, and the other Loan Documents, together with
+such other powers as are reasonably incidental thereto. The Bank of New York, by
+its execution hereof, hereby accepts the appointment made under this SECTION
+10.1. The Collateral Agent shall not have any duties or responsibilities except
+those expressly set forth in this Agreement, the Collateral Documents and the
+other Loan Documents, or be a trustee for, or have any fiduciary obligation to,
+any Bank, and no implied covenants, functions, responsibilities, duties,
+obligations or liabilities on the part of the Collateral Agent shall be read
+into this Agreement or any other Loan Document or otherwise exist for the
+Collateral Agent. In performing its functions and duties hereunder and under the
+other Loan Documents, the Collateral Agent shall act solely as agent for the
+Banks and does not assume nor shall be deemed to have assumed any obligation or
+relationship of trust or agency with or for the Company or any of its successors
+or assigns. The Collateral Agent shall not be required to take any action that
+exposes the Collateral Agent to personal liability or that is contrary to this
+Agreement, any other Loan Document or applicable law. The appointment and
+authority of the Collateral Agent hereunder shall terminate upon the
+indefeasible payment in full of all Obligations and the termination of the
+Commitments. Each Bank hereby authorizes the Collateral Agent to execute each of
+the Collateral Documents on behalf of such Bank (the terms of which shall be
+binding on such Bank).
+
+          10.2 RELIANCE BY COLLATERAL AGENT. The Collateral Agent shall in all
+cases be entitled to rely, and shall be fully protected in relying, upon any
+document or conversation believed by it in good faith to be genuine and correct
+and to have been signed, sent or made by the proper Person or Persons and upon
+advice and statements of legal counsel (including, without limitation, counsel
+to the Company), independent accountants and other experts selected by the
+Collateral Agent and acceptable to the Required Banks. The Collateral Agent
+shall in all cases be fully justified in failing or refusing to take any action
+under this Agreement or any other Loan Document unless it shall first receive
+such advice or concurrence of the Company or the Required Banks (or, if
+required, all of the Banks), as applicable, as it deems appropriate and it shall
+first be indemnified to its satisfaction by the Banks, provided that unless and
+until the Collateral Agent shall have received such advice, the Collateral Agent
+may take or refrain from taking any action, as the Collateral
+
+
+                                       31
+<Page>
+
+Agent shall deem advisable and in the best interests of the Banks. The
+Collateral Agent shall in all cases be fully protected in acting, or in
+refraining from acting, in accordance with a request of the Company or the
+Required Banks or all of the Banks, as applicable, and such request and any
+action taken or failure to act pursuant thereto shall be binding upon all the
+Banks.
+
+          10.3 REIMBURSEMENT AND INDEMNIFICATION. The Banks severally agree to
+reimburse and indemnify the Collateral Agent and its officers, directors,
+employees, representatives and agents ratably in proportion to the amounts of
+their respective Commitments, to the extent not paid or reimbursed by the
+Company (i) for any amounts for which the Collateral Agent, acting in its
+capacity as Collateral Agent, is entitled to reimbursement by the Company
+hereunder or under any other Loan Document and (ii) for any other actual
+out-of-pocket expenses incurred by the Collateral Agent, in its capacity as
+Collateral Agent and acting on behalf of the Banks, in connection with the
+administration and enforcement of this Agreement and the other Loan Documents,
+except in each case, for any amounts or expenses that arise as a result of the
+gross negligence or willful misconduct of the Collateral Agent.
+
+          10.4 COLLATERAL AGENT IN ITS INDIVIDUAL CAPACITY. The Collateral Agent
+and its affiliates may make loans to, accept deposits from and generally engage
+in any kind of business with the Company or any affiliate of the Company as
+though the Collateral Agent were not the Collateral Agent hereunder. With
+respect to the making of Loans pursuant to this Agreement, the Collateral Agent
+shall have the same rights and powers under this Agreement in its individual
+capacity as any Bank and may exercise the same as though it were not the
+Collateral Agent, and the terms "Bank," and "Banks" shall include the Collateral
+Agent in its individual capacity.
+
+          10.5 RESIGNATION OR TERMINATION OF COLLATERAL AGENT. The Collateral
+Agent may resign its position as such at any time upon ninety (90) days' prior
+notice to the Company and the Banks. The Collateral Agent may be terminated by
+100% of the Banks (excluding any Bank then acting as Collateral Agent) at any
+time upon thirty (30) days' prior notice to the Company, the Collateral Agent
+and the other Banks. The Required Banks, with the consent of the Company (such
+consent not to be unreasonably withheld), shall appoint a successor Collateral
+Agent to succeed any Collateral Agent that resigns or its terminated pursuant to
+this SECTION 10.5. Subsequent to the effective date of such resignation or
+termination, the resigning or terminated (as applicable) Collateral Agent shall
+have no further obligations in that capacity under this Agreement. If no
+successor Collateral Agent shall have been appointed by the Company and the
+Required Banks and shall have accepted such appointment prior to the effective
+date of the resignation or termination of the then acting Collateral Agent, the
+resigning or terminated Collateral Agent may appoint a successor Collateral
+Agent, which shall be a bank or
+
+                                       32
+<Page>
+
+trust company organized under the laws of the United States of America or any
+State thereof, having a combined capital and surplus of at least $500,000,000.
+
+          10.6 NON-RELIANCE REPRESENTATION. Each of the Banks acknowledges and
+represents that it has, independently of and without reliance upon the
+Collateral Agent, and based solely upon its own expertise (and the expertise of
+its agents and independent advisors) and upon financial statements and other
+information deemed appropriate by it, made its own credit analysis of the
+Company and made its own decision to enter into this Agreement. Each of the
+Banks further acknowledges and represents that it will, independently of and
+without reliance upon the Collateral Agent, and based solely upon its own
+expertise (and the expertise of its agents and independent advisors, if any) and
+upon such documents and information as it shall deem appropriate at the time,
+continue to make its own credit analysis of the Company and its own decisions
+with respect to this Agreement.
+
+          10.7 EXCULPATION. Neither the Collateral Agent nor any of its
+shareholders, directors, officers, employees or agents shall be liable to the
+Banks, or any of them individually, for any obligation, undertaking, act or
+judgment of the Company or any other Person, or for any error of judgment or any
+action taken or omitted to be taken by the Collateral Agent (except and to the
+extent that the same arises from gross negligence or willful misconduct on the
+part of the Collateral Agent), or be bound to ascertain or inquire as to the
+performance or observance of any term of any of the Loan Documents. Without
+limiting the generality of the foregoing, the Collateral Agent: (a) may consult
+with legal counsel selected by it and shall not be liable for any action taken
+or omitted to be taken in good faith by it in accordance with the advice of such
+counsel; (b) makes no warranty or representation and shall not be responsible
+for any warranty or representation made in or in connection with any of the Loan
+Documents by any Person other than the Collateral Agent, or for the financial
+condition of the Company or any other Person, or for the observance or
+performance of any obligations of the Company or any other Person other than the
+Collateral Agent, or for the truth or accuracy of any document provided to the
+Collateral Agent that the Collateral Agent has initially received from, or that
+the Collateral Agent has prepared based upon information received from, the
+Company or any other Person, except for the Collateral Agent's responsibility
+under SECTION 10.8; (c) makes no warranty or representation and shall not be
+responsible for the due execution, validity, enforceability, sufficiency or
+collectibility of any of the Loan Documents; (d) shall incur no liability under
+or in respect of any such agreement or document by acting upon any notice (by
+telephone or otherwise), or writing (including telex and telegraphic
+communication) believed by it in good faith to be genuine and to be signed or
+sent by the proper party or Person; and (e) makes no warranty or guarantee as
+to: (i) future payments by the Company or any other obligor or guarantor of the
+Loans, (ii) the Company's future compliance with or
+
+                                       33
+<Page>
+
+performance of any of the terms and conditions contained in the Loan Documents,
+or (iii) the collectibility of the Loans.
+
+          10.8 COLLATERAL VALUATION. The Collateral Agent shall monitor the
+market value of the Collateral. On each Borrowing Date, promptly after receiving
+notice from the Company of a proposed borrowing, and on the last day of each
+calendar month (or, if such day is not a Business Day, the next succeeding
+Business Day), commencing with the first such date to occur after the date
+hereof, the Collateral Agent shall determine the aggregate market value of all
+Collateral on and as of such date in accordance with its usual and customary
+practices and shall advise and notify (which may be by telephone) each Bank
+thereof (each a, "COLLATERAL NOTICE").
+
+                                   ARTICLE XI
+
+                               GENERAL PROVISIONS
+
+          11.1 SUCCESSORS AND ASSIGNS.
+
+            (a) The provisions of this Agreement shall be binding upon and inure
+to the benefit of the parties hereto and their respective successors and
+assigns, except that the Company may not assign or otherwise transfer any of its
+rights under this Agreement.
+
+            (b) Any Bank may, in accordance with applicable law, at any time
+sell to one or more banks, financial institutions or other entities
+("PARTICIPANTS") participating interests in any Loan owing to such Bank, any
+Note held by such Bank, any Commitment of such Bank or any other interest of
+such Bank hereunder. In the event of any such sale by a Bank of participating
+interests to a Participant, such Bank's obligations under this Agreement to the
+other parties to this Agreement shall remain unchanged, such Bank shall remain
+solely responsible for the performance thereof and the Company and the
+Collateral Agent shall continue to deal solely and directly with such Bank in
+connection with such Bank's rights and obligations under this Agreement and the
+other Loan Documents. In no event shall a Bank that sells a participating
+interest be obligated to the Participant to take or refrain from taking any
+action hereunder or under any of the other Loan Documents except that such Bank
+may agree that it will not, without the consent of such Participant, agree to
+(A) reduce the principal of, or interest payable on (or reduce the rate of
+interest applicable to), the Loans of such Bank or any fees or other amounts
+payable to such Bank hereunder which, in each case, are related to the
+participation sold to such Participant or, (B) postpone the date fixed for any
+
+                                       34
+<Page>
+
+payment of the principal of, or interest on, the Loans of such Bank or other
+amounts payable to such Bank hereunder which, in each case, are related to the
+participation sold to such Participant.
+
+          (c) Any Bank may (or in accordance with SECTION 11.4(h) shall), in
+accordance with applicable law, and with the consent of the Company (such
+consent not to be unreasonably withheld), at any time sell to any financial
+institution (all such purchasers, collectively, "PURCHASERS") all or any part of
+its rights and obligations under this Agreement and the Note held by it pursuant
+to an assignment agreement (an "ASSIGNMENT AGREEMENT"), executed by such
+Purchaser and such Bank and delivered to the Company and the Collateral Agent;
+provided that the consent of the Company to any such assignment shall not be
+required if (A) an Event of Default has occurred and is continuing, (B) the
+assignment is by a Bank to an Affiliate of such Bank or another existing Bank or
+(C) the assignment (including any pledge) is by any Bank of its Notes and its
+rights hereunder with respect thereto to any Federal Reserve Bank. Upon such
+execution and delivery of an Assignment Agreement, from and after the effective
+date as specified therein, (x) the Purchaser thereunder shall be a party hereto
+and shall be bound by the provisions hereto and, to the extent provided in such
+Assignment Agreement, shall have the rights and obligations of a Bank hereunder,
+with its Commitment as set forth in such Assignment Agreement, and (y) the
+transferor Bank thereunder shall, to the extent provided in such Assignment
+Agreement, be released from its obligations under this Agreement (and, in the
+case of an Assignment Agreement covering all or the remaining portion of a
+transferor Bank's rights and obligations under this Agreement, such transferor
+Bank shall cease to be a party hereto). Upon delivery of the Assignment
+Agreement to the Company and the Collateral Agent, the Company, the Collateral
+Agent and the Banks may treat the Purchaser as the owner of the Loans recorded
+therein for all purposes of this Agreement.
+
+          (d) On the effective date specified in any Assignment Agreement, or as
+soon as possible thereafter, the Company shall execute and deliver to the
+transferor Bank in exchange for the Note held by the transferor Bank (which
+existing Note shall be surrendered to the Company), a new Note to the order of
+such Purchaser reflecting the Commitment and outstanding Loans obtained by it
+pursuant to such Assignment Agreement and, if the transferor Bank has retained a
+Commitment and Loans hereunder, a new Note to the order of the transferor Bank
+reflecting the Commitment and outstanding Loans retained by it hereunder. Such
+new Notes shall be dated the Transfer Effective Date and shall otherwise be in
+the form of the Note replaced thereby. The Note surrendered by the transferor
+Bank shall be returned by the transferor Bank to the Company marked "canceled".
+
+                                       35
+<Page>
+
+          (e) The Company authorizes each Bank to disclose to any Participant or
+Purchaser and any prospective Participant or Purchaser any and all financial and
+other information in such Bank's possession concerning the Company which has
+been delivered to such Bank by or on behalf of the Company pursuant to this
+Agreement; PROVIDED that such Participant or Purchaser or prospective
+Participant or Purchaser agrees to be bound by the confidentiality provisions
+contained in SECTION 11.14.
+
+          (f) If, pursuant to this SECTION 11.1, any interest in this Agreement
+or any Note is transferred to any Purchaser which is organized under the laws of
+any jurisdiction other than the United States or any state thereof, such
+Purchaser, concurrently with the effectiveness of such transfer and becoming a
+party to this Agreement pursuant to the applicable Assignment Agreement shall,
+(i) represent to the transferor Bank (for the benefit of the transferor Bank,
+the Collateral Agent and the Company) that under applicable law and treaties
+then in effect no United States federal taxes will be required to be withheld by
+the Collateral Agent, the Company or the transferor Bank with respect to any
+payments to be made to such Purchaser hereunder, (ii) furnish to the Company the
+documentation described in SECTION 11.4(f), (wherein such Purchaser claims
+entitlement to complete exemption from U.S. federal withholding tax on all
+payments hereunder) and (iii) agree to otherwise comply with the terms of
+SECTION 11.4(f).
+
+          11.2 SURVIVAL OF REPRESENTATIONS. All representations and warranties
+of the Company contained in this Agreement shall survive delivery of the Notes
+and the making of the Loans herein contemplated.
+
+          11.3 GOVERNMENTAL REGULATION. Anything contained in this Agreement to
+the contrary notwithstanding, no Bank shall be obligated to extend credit to the
+Company in violation of any limitation or prohibition provided by any applicable
+statute or regulation.
+
+          11.4 TAXES.
+
+            (a) All payments to any Bank with respect to the Loans shall be made
+free and clear of, and without deduction for any Indemnified Taxes or Other
+Taxes; PROVIDED that if the Company shall be required to deduct any Indemnified
+Taxes or Other Taxes from such payments, then (i) the sum payable shall be
+increased by the amount (the "ADDITIONAL AMOUNT") necessary so that after making
+all required deductions (including deductions applicable to additional sums
+described in this paragraph) such Bank receives an amount equal to the sum it
+would have received had no such deductions been made, (ii) the Company shall
+
+                                       36
+
+
+<Page>
+
+make such deductions and (iii) the Company shall pay the full amount deducted to
+the relevant governmental authority in accordance with applicable law. In
+addition, to the extent not paid in accordance with the preceding sentence, the
+Company shall pay any Other Taxes to the relevant governmental authority in
+accordance with applicable law.
+
+            (b) Subject to subsection (h) below, the Company shall indemnify
+each Bank for Indemnified Taxes and Other Taxes paid by such Bank, PROVIDED,
+HOWEVER, that the Company shall not be obligated to make payment to any Bank in
+respect of penalties, interest and other similar liabilities attributable to
+such Indemnified Taxes or Other Taxes if such penalties, interest or other
+similar liabilities are attributable to the gross negligence or willful
+misconduct of such Bank.
+
+            (c) If a Bank shall become aware that it is entitled to claim a
+refund from a governmental authority in respect of Indemnified Taxes or Other
+Taxes paid by the Company pursuant to this SECTION 11.4, including Indemnified
+Taxes or Other Taxes as to which it has been indemnified by the Company, or with
+respect to which the Company has paid Additional Amounts pursuant hereto, it
+shall promptly notify the Company of the availability of such refund claim and,
+if such Bank determines in good faith that making a claim for refund will not
+have a material adverse effect on its taxes or business operations, shall,
+within 30 days after receipt of a request by the Company, make a claim to such
+governmental authority for such refund at the Company's expense. If a Bank
+receives a refund in respect of any Indemnified Taxes or Other Taxes paid by the
+Company pursuant hereto, it shall within 30 days from the date of such receipt
+pay over such refund to the Company (but only to the extent of Indemnified Taxes
+or Other Taxes paid pursuant to hereto), including indemnity payments made or
+Additional Amounts paid, by the Company under this SECTION 11.4 with respect to
+the Indemnified Taxes or Other Taxes giving rise to such refund), net of all out
+of pocket expenses of such Bank and without interest (other than interest paid
+by the relevant governmental authority with respect to such refund).
+
+          (d) If any Bank is or becomes eligible under any applicable law,
+regulation, treaty or other rule to a reduced rate of taxation, or a complete
+exemption from withholding, with respect to Indemnified Taxes or Other Taxes on
+payments made to it by the Company, such Bank shall, upon the request, and at
+the cost and expense, of the Company, complete and deliver from time to time any
+certificate, form or other document requested by the Company, the completion and
+delivery of which are a precondition to obtaining the benefit of such reduced
+rate or exemption, provided that the taking of such action by such Bank, would
+not, in
+
+                                       37
+<Page>
+
+the reasonable judgment of such Bank be disadvantageous or prejudicial to such
+Bank or inconsistent with its internal policies or legal or regulatory
+restrictions. For any period with respect to which a Bank has failed to provide
+any such certificate, form or other document requested by the Company, such Bank
+shall not be entitled to any payment under this SECTION 11.4 in respect of any
+Indemnified Taxes or Other Taxes that would not have been imposed but for such
+failure.
+
+          (e) Each Bank organized under the laws of a jurisdiction in the United
+States, any State thereof or the District of Columbia (other than Banks that are
+corporations or otherwise exempt from United States backup withholding Tax)
+shall (i) deliver to the Company, upon execution hereof (or, with respect to
+Persons becoming Banks hereunder by assignment, upon execution of the relevant
+assignment agreement), two original copies of United States Internal Revenue
+Form W-9 or any successor form, properly completed and duly executed by such
+Bank, certifying that such Bank is exempt from United States backup withholding
+Tax on payments of interest made under the Loan Documents and (ii) thereafter,
+at each time it is so reasonably requested in writing by the Company, deliver
+within a reasonable time two original copies of an updated Form W-9 or any
+successor form thereto.
+
+            (f) Each Bank that is organized under the laws of a jurisdiction
+other than the United States, any State thereof or the District of Columbia
+(each such Bank, a "FOREIGN BANK") that is entitled to an exemption from or
+reduction of withholding Tax under the laws of the jurisdiction in which the
+Company is located, or any treaty to which such jurisdiction is a party, with
+respect to payments under the Loan Documents shall deliver to the Company, upon
+execution hereof (or, with respect to Persons becoming Banks hereunder by
+assignment, upon execution of the relevant assignment agreement), such properly
+completed and duly executed documentation prescribed by applicable law or
+reasonably requested by the Company as will permit such payments to be made
+without withholding or at a reduced rate, unless in the good faith opinion of
+the Foreign Bank such documentation would expose the Foreign Bank to any
+material adverse consequences or risk. Such documentation shall be delivered by
+each Foreign Bank on or before the date it becomes a Bank and on or before the
+date, if any, such Foreign Bank changes its applicable lending office by
+designating a different lending office with respect to its Loans (a "NEW LENDING
+OFFICE"). In addition, each Foreign Bank shall deliver such forms promptly upon
+the obsolescence or invalidity of any form previously delivered by such Foreign
+Bank. Each Bank (and, in the case of a Foreign Bank, its lending office),
+represents that on the date hereof, payments made hereunder by the Company to it
+would not be subject to United States Federal withholding tax.
+
+                                       38
+<Page>
+
+            (g) Notwithstanding the provisions of subsection (a) and (b) above,
+the Company shall not be required to indemnify any Foreign Bank, or to pay any
+Additional Amounts to any Foreign Bank, in respect of United States Federal
+withholding tax pursuant to subsection (a) or (b) above, (A) to the extent that
+the obligation to withhold amounts with respect to United States Federal
+withholding tax existed on the date such Foreign Bank became a Bank; (B) with
+respect to payments to a New Lending Office with respect to a Loan, but only to
+the extent that such withholding tax exceeds any withholding tax that would have
+been imposed on such Bank had it not designated such New Lending Office; (C)
+with respect to a change by such Foreign Bank of the jurisdiction in which it is
+organized, incorporated, controlled or managed, or in which it is doing
+business, from the date such Foreign Bank changed such jurisdiction, but only to
+the extent that such withholding tax exceeds any withholding tax that would have
+been imposed on such Bank had it not changed the jurisdiction in which it is
+organized, incorporated, controlled or managed, or in which it is doing
+business; or (D) to the extent that the obligation to pay such indemnity payment
+or Additional Amounts would not have arisen but for a failure by such Foreign
+Bank to comply with the provisions of SECTION 11.4(f).
+
+            (h) If any Bank requests compensation under this SECTION 11.4, or if
+the Company is required to pay any additional amount to any governmental
+authority for the account of any Bank pursuant to this SECTION 11.4, then such
+Bank shall use reasonable efforts to designate a different lending office for
+funding or booking its Loans hereunder or to assign its rights and obligations
+hereunder to another of its offices, branches or affiliates with the object of
+avoiding or eliminating the amounts payable pursuant to this SECTION 11.4,
+provided that such designation or assignment shall be on such terms that such
+Bank and its lending office, in such Bank's sole judgment, suffer no economic,
+legal, regulatory or other disadvantage and would not otherwise be
+disadvantageous to such Bank. The Company hereby agrees to pay all reasonable
+costs and expenses incurred by any Bank in connection with any such designation
+or assignment.
+
+If Bank requests compensation under this SECTION 11.4, or if the Company is
+required to pay any additional amount to any governmental authority for the
+account of any Bank pursuant to this SECTION 11.4, then the Company may, at its
+sole expense and effort, upon notice to such Bank, require such Bank to assign
+and delegate, without recourse, in accordance with and subject to the
+restrictions contained in SECTION 11.1, all of such Bank's interests, rights and
+obligations under this Agreement to one or more assignees that shall assume such
+obligations (which assignee or assignees may be one or more other Banks);
+PROVIDED, that (i) such Bank shall have received payment of an amount equal to
+the outstanding principal of its Loans, accrued and unpaid interest thereon,
+accrued and unpaid fees and all other
+
+                                       39
+<Page>
+
+amounts payable to it hereunder from the assignee (to the extent of such
+outstanding principal and accrued interest and fees) or the Company (in the case
+of all other amounts) and (ii) such assignment will result in a reduction in
+such compensation or payments. A Bank shall not be required to make any such
+assignment and delegation if, prior thereto, as a result of a waiver by such
+Bank or otherwise, the circumstances entitling the Company to require such
+assignment and delegation cease to apply.
+
+A certificate of the relevant Bank setting forth the basis for any amounts (and
+the calculation thereof and methodology in calculating, each in reasonable
+detail) claimed under this SECTION 11.4 shall be delivered to the Company and
+shall be conclusive absent manifest error. Failure or delay on the part of a
+Bank to demand compensation of any amount under this Section shall not
+constitute a waiver of such Bank's right to demand such compensation; PROVIDED
+that the Company shall not be required to compensate any such Bank for any
+amounts claimed under this Section that are incurred more than 90 days prior to
+the date that such Bank notifies the Company of the circumstances giving rise to
+such amounts and such Bank's intention to claim compensation therefor; provided,
+further, that if the circumstances giving rise to such amounts have retroactive
+effect, then the 90-day period referred to above shall be extended to include
+the period of retroactive effect thereof.
+
+            (i) Any payment required to be made by the Company to any Bank under
+this SECTION 11.4 shall be deemed an Obligation and be secured by the
+Collateral.
+
+
+          11.5 CHOICE OF LAW; JURISDICTION. The Loan Documents (other than those
+containing a contrary express choice of law provision) shall be construed in
+accordance with the laws of the State of Illinois (excluding choice-of-law
+principles of the law of such State that would require the application of the
+laws of a jurisdiction other than such State), but giving effect to federal laws
+applicable to national banks. The Company and the Banks hereby irrevocably
+submit to the non-exclusive jurisdiction of any United States federal or
+Illinois state court sitting in Chicago in any action or proceedings arising out
+of or relating to any Loan Documents and the Company and the Banks hereby
+irrevocably agree that all claims in respect of such action or proceeding may be
+heard and determined in any such court.
+
+          11.6 HEADINGS. Section headings in the Loan Documents are for
+convenience of reference only, and shall not govern the interpretation of any of
+the provisions of the Loan Documents.
+
+                                       40
+<Page>
+
+          11.7 ENTIRE AGREEMENT. The Loan Documents embody the entire agreement
+and understanding among the Company and the Banks and supersede all prior
+agreements and understandings among the Company and the Banks relating to the
+subject matter thereof, including the Existing Agreement.
+
+          11.8 SEVERAL OBLIGATIONS. The respective obligations of the Banks
+hereunder are several and not joint and no Bank shall be the partner or agent of
+any other. The failure of any Bank to perform any of its obligations hereunder
+shall not relieve any other Bank from any of its obligations hereunder.
+
+          11.9 EXPENSES; INDEMNIFICATION.
+
+            (a) The Company shall reimburse the Collateral Agent and each Bank
+for any reasonable costs, internal charges and out-of-pocket expenses (including
+attorneys' fees and time charges of attorneys, which attorneys may be employees
+of the Collateral Agent or such Bank, as applicable) paid or incurred by the
+Collateral Agent or such Bank, as applicable, in connection with the collection,
+liquidation and enforcement of the Loan Documents and/or the Collateral. The
+Company further agrees to indemnify the Collateral Agent, each Bank and their
+respective directors, officers and employees (each an "INDEMNIFIED PARTY")
+against all losses, claims, damages, penalties, judgments, liabilities and
+expenses (including, without limitation, all expenses of litigation or
+preparation therefor) which any of them may pay or incur arising out of or
+relating to this Agreement, the other Loan Documents, the transactions
+contemplated hereby or the direct or indirect application or proposed
+application of the proceeds of any Loan hereunder (all of the foregoing being
+collectively referred to as "INDEMNIFIED AMOUNTS"), excluding, however, in all
+of the foregoing instances, Indemnified Amounts arising from the gross
+negligence or willful misconduct on the part of the Indemnified Party seeking
+indemnification and Indemnified Amounts consisting of taxes imposed on or
+measured by the overall net income of the Indemnified Party seeking
+indemnification.
+
+            (b) If, after the date hereof, any law or any governmental rule,
+regulation, policy, guideline or directive (whether or not having the force of
+law) is adopted, or there is any change in the interpretation thereof, or the
+compliance of any Bank with such, which, in any case, affects the amount of
+capital required or expected to be maintained by the Bank or any corporation
+controlling any Bank and any Bank reasonably determines the amount of capital
+required is increased by or based upon the existence of this Agreement or its
+Commitment hereunder, then, the Bank shall notify the Company of such fact and
+shall provide a reasonably detailed description of such increased costs in the
+notice ("INCREASED COST NOTICE"), together with documentation from the relevant
+regulatory body setting forth such increased capital requirement, and within 15
+days of the Company's receipt of such Increased
+
+                                       41
+<Page>
+
+Cost Notice, the Company shall, in its sole discretion, determine whether to
+terminate such Bank's Commitment and obligation to make Loans hereunder, or to
+attempt to negotiate with such Bank a revised commitment fee (which revision
+shall not constitute an amendment to SECTION 2.8 hereof for the purposes of
+SECTION 9.2) and any other reimbursements provided for hereunder which reflect
+the Bank's increased costs. In the event that the Company determines to
+terminate such Bank's Commitment and obligation to make Loans hereunder, the
+Company shall send written notice to the Bank within 15 days of the Company's
+receipt of the Increased Cost Notice specifying a date at least 30 days
+thereafter on which the Bank's Commitment and obligation to make Loans hereunder
+shall be terminated. In the event that the Company determines to attempt to
+negotiate with such Bank a revised commitment fee and other reimbursements, and
+the Company and the Bank are unable to agree, within 30 days of the date of the
+Increased Cost Notice, upon such revised fees and other reimbursements, the Bank
+may send written notice to the Company, or the Company may send written notice
+to the Bank specifying a date at least 30 days thereafter on which the Bank's
+Commitment and obligation to make Loans hereunder shall be terminated. Any
+payment required to be made by the Company under this SECTION 11.9(b) shall be
+deemed an Obligation and be secured by the Collateral.
+
+            (c) At least 45 days prior to the proposed consummation date of any
+merger or consolidation of the Company with or into any other Person in which
+the Company shall not be the surviving entity (such transaction, a
+"RESTRUCTURING"), the Company will give written notice thereof to each Bank (a
+"RESTRUCTURING NOTICE"), which notice shall set forth the material terms and
+conditions of such Restructuring, including the identity of the surviving entity
+of such Restructuring (the "SURVIVOR"). Upon receipt of a Restructuring Notice,
+a Bank may elect, in its sole discretion, to terminate its Commitment hereunder
+by notifying the Company thereof, which may be by telephone (a "TERMINATION
+NOTICE") within 15 days of such Bank's receipt of the Restructuring Notice,
+which termination shall become effective no sooner than 30 days after the
+Company's receipt of the Termination Notice. Any Bank that fails to deliver a
+Termination Notice within 15 days after its receipt of a Restructuring Notice
+shall be deemed to have elected to terminate its Commitment.
+
+            (d) The effective date of any termination of a Bank's Commitment
+hereunder pursuant to subsection (b) or (c) above is referred to herein as the
+"ACCELERATED TERMINATION DATE". Any such termination shall not accelerate the
+maturity of any Loans outstanding to such Bank; commitment fees to such Bank
+shall cease to accrue as of the Accelerated Termination Date; and the Company
+shall be responsible for any and all Obligations and accrued and unpaid costs
+(including increased costs), fees and expenses incurred with respect to such
+Bank prior to the
+
+                                       42
+<Page>
+
+Accelerated Termination Date. The obligations of the Company under this SECTION
+11.9 shall survive the termination of this Agreement.
+
+          11.10 ACCOUNTING. Except as provided to the contrary herein, all
+accounting terms used herein shall be interpreted and all accounting
+determinations hereunder shall be made in accordance with Agreement Accounting
+Principles.
+
+          11.11 SEVERABILITY OF PROVISIONS. Any provision in any Loan Document
+that is held to be inoperative, unenforceable, or invalid in any jurisdiction
+shall, as to that jurisdiction, be inoperative, unenforceable, or invalid
+without affecting the remaining provisions in that jurisdiction or the
+operation, enforceability, or validity of that provision in any other
+jurisdiction, and to this end the provisions of all Loan Documents are declared
+to be severable.
+
+          11.12 PARENT HOLDING COMPANY. The Banks acknowledge that: (i) a
+corporation, CME Holdings, Inc. ("HOLDINGS"), is currently being organized under
+the laws of the State of Delaware, (ii) upon consummation of such organization
+all of the capital stock of the Company currently held by its shareholders will
+be transferred to Holdings in exchange for share of the capital stock of
+Holdings and (iii) upon consummation of such exchange, the Company will be a
+wholly-owned subsidiary of Holdings.
+
+          11.13 AMENDMENT AND RESTATEMENT.
+
+            (a) The effect of this Agreement is to amend and restate the
+Existing Agreement, and to the extent that any rights, benefits or provisions in
+favor of any of the parties to the Existing Agreement existed in the Existing
+Agreement and continue to exist in this Agreement without any written waiver of
+any such rights, benefits or provisions prior to the date hereof, then such
+rights, benefits or provisions are acknowledged to be and to continue to be
+effective from and after the date of the Existing Agreement. This Agreement is
+not a novation.
+
+            (b) The parties hereto agree and acknowledge that any and all rights
+and provisions under the Existing Agreement, which expressly survive any
+termination of the Existing Agreement shall continue and survive the execution
+and delivery of this Agreement.
+
+          11.14 CONFIDENTIALITY. Each of the Banks and the Collateral Agent
+agrees to maintain the confidentiality of the Company Information, except that
+Company Information may be disclosed (a) to its Affiliates, directors, officers,
+employees and agents, including accountants, legal counsel and other advisors
+who have a need to know such information (it being understood that the Persons
+to whom such disclosure is made will be informed of the confidential nature of
+such Company
+
+                                       43
+<Page>
+
+Information and agree to keep such Company Information confidential on terms
+substantially similar to this SECTION 11.14), (b) to any governmental agency or
+representative thereof, provided that prior to such disclosure, the disclosing
+party shall, to the extent practicable, promptly inform the Company of such
+potential disclosure, (c) to the extent required by applicable laws or
+regulations or by any subpoena or similar legal process or to the extent
+reasonably required in connection with any litigation relating to this Agreement
+or the Collateral to which such Bank or the Collateral Agent, as applicable, is
+a party, (d) subject to an agreement containing provisions substantially the
+same as those described in this SECTION 11.14, to any Purchaser or Participant
+or any prospective Purchaser or Participant, (e) with the consent of the Company
+or (f) to the extent such Company Information becomes publicly available other
+than as a result of a breach of its confidentiality obligations as described in
+this SECTION 11.14.
+
+          As used in this Section, "COMPANY INFORMATION" means all information
+received from the Company or any of its Subsidiaries or Affiliates relating to
+the Company, any of its Subsidiaries or Affiliates, or their businesses, other
+than any such information that is available to the Collateral Agent or any Bank,
+as applicable, on a non-confidential basis prior to disclosure by the Company.
+
+          11.15 WAIVER OF TRIAL BY JURY. TO THE EXTENT PERMITTED BY APPLICABLE
+LAW, EACH OF THE PARTIES HERETO HEREBY IRREVOCABLY WAIVES ALL RIGHT OF TRIAL BY
+JURY IN ANY ACTION, PROCEEDING OR COUNTERCLAIM ARISING OUT OF OR IN CONNECTION
+WITH THIS AGREEMENT OR ANY MATTER ARISING HEREUNDER OR THEREUNDER.
+
+
+                                  ARTICLE XII
+
+                            SETOFF; RATABLE PAYMENTS
+
+          12.1 SETOFF; RATABLE PAYMENTS.
+
+            (a) In addition to, and without limitation of, any rights of the
+Banks under applicable law, if the Company becomes insolvent, however evidenced,
+or any Default occurs and is continuing, any indebtedness from any Bank to the
+Company (including all account balances, whether provisional or final and
+whether or not collected or available but excluding any accounts designated as
+or representing "customer segregated funds" accounts and any accounts pledged to
+such Bank to secure an overdraft facility to ensure the settlement of foreign
+currency futures and options contracts traded on the Company) may be offset and
+applied
+
+
+                                       44
+<Page>
+
+toward the payment of the Obligations owing to such Bank, whether or not the
+Obligations, or any part thereof, shall then be due.
+
+          (b) If any Bank, whether by setoff or otherwise, has payment made to
+it upon any Loan in a greater proportion than that received by any other Bank
+upon any Loan constituting a portion of the same Advance, such Bank (or, if
+applicable, such Bank's Servicing Bank) shall distribute to all the other Banks
+(of, if applicable, such other Banks' Servicing Banks) an amount equal to their
+pro rata share of such payment. Such payment shall be distributed ratably
+between the Banks in proportion to each Bank's respective share of the total
+Obligations outstanding under this Agreement. Any payment distributed pursuant
+to this subsection (b) to a Servicing Bank shall be distributed by the Servicing
+Banks to the applicable Banks in accordance with the provisions of this
+Agreement.
+
+          (c) If any Bank, whether in connection with setoff or amounts which
+might be subject to setoff or otherwise, receives collateral or other protection
+for any category of its Obligations or such amounts which may be subject to
+setoff, in any case, in excess of its pro rata share thereof, such Bank agrees,
+promptly upon demand, to take such action necessary such that all Banks share in
+the benefits of such collateral ratably in proportion to their Obligations of
+the same category. In case any such payment is disturbed by legal process, or
+otherwise, appropriate further adjustments shall be made.
+
+          (d) The Company agrees that any holder of a participation in a Loan
+may, to the fullest extent permitted by law, exercise all its rights of payment
+with respect to such participation as if such holder were the direct creditor of
+the Company in the amount of the participation.
+
+                                  ARTICLE XIII
+
+                                     NOTICES
+
+          13.1 GIVING NOTICE. Except as otherwise herein provided, any notice
+required or permitted to be given under this Agreement shall be in writing and
+shall be deemed, given (i) when delivered if sent by an overnight courier
+service, or (ii) when sent by facsimile, telex or SWIFT message, in each case,
+addressed to the Company and the Banks at the addresses or transmission numbers
+indicated below their signatures to the Agreement or otherwise notified to the
+Company or the Banks, as applicable.
+
+                                       45
+<Page>
+
+          13.2 CHANGE OF ADDRESS. The Company and any Bank may each change the
+address for service of notice upon it by a notice in writing to the other
+parties hereto.
+
+                                  ARTICLE XIV
+
+                                  COUNTERPARTS
+
+          This Agreement may be executed in any number of counterparts, all of
+which taken together shall constitute one agreement, and any of the parties
+hereto may execute this Agreement by signing any such counterpart. This
+Agreement shall be effective when it has been executed by the Company and the
+Banks.
+
+                                   ARTICLE XV
+
+                                  SUBORDINATION
+
+
+          The Company hereby subordinates its Lien on the Collateral to the Lien
+therein granted to the Collateral Agent pursuant to the Collateral Documents,
+and, except as permitted by SECTION 2.9, the Company shall not take any action
+of any nature whatsoever to enforce its Lien until all of the Obligations have
+been paid in full and the Commitments have been terminated.
+
+
+                                       46
+<Page>
+
+
+          IN WITNESS WHEREOF, the Company and the Banks have executed this
+Agreement as of the date first above written.
+
+                                    CHICAGO MERCANTILE EXCHANGE INC.
+                                            (A Delaware  Corporation)
+
+
+                                    By: /s/ James J. McNulty
+                                        ------------------------------------
+
+
+                                    Title:  President and CEO
+
+
+                                    Date: October 19, 2001
+                                          ----------------------------------
+
+                                    30 South Wacker Drive
+                                    Chicago, Illinois 60606
+                                    Fax: (312) 930-3187
+                                    S.W.I.F.T.: XCMEUS4C
+
+                                    Attention: Managing Director & President,
+                                    Clearing House Division
+
+
+                                      S-1
+<Page>
+
+COMMITMENTS
+
+
+$50,000,000                         THE BANK OF NEW YORK,
+                                    individually and as Collateral Agent
+
+
+                                    By: _____________________________
+
+
+                                    Title:___________________________
+
+
+
+
+                                    One Wall Street, 42nd Floor
+                                    New York, New York 10286
+                                    Fax: (212) 809-9575
+
+                                    Attention: John Carbaugh/Heerawan Singh
+                                    References: Chicago Mercantile Exchange
+                                    Inc., Borrowings, Payments Etc.
+
+
+                                      S-2
+<Page>
+
+
+$ 50,000,000                        BANK OF AMERICA, N.A.
+
+
+
+                                    By: ____________________________
+
+
+                                    Title:__________________________
+
+
+
+                                    231 South LaSalle Street
+                                    Chicago, Illinois 60697
+                                    Fax: (312) 828-3359
+
+                                    Attention: Edna Reganess
+                                    Reference: Loan Payment - Chicago Mercantile
+                                    Exchange Inc.
+
+
+
+                                      S-3
+<Page>
+
+
+$ 25,000,000                        BROWN BROTHERS HARRIMAN & CO.
+
+
+
+                                    By: _____________________________
+
+
+                                    Title:___________________________
+
+
+
+                                    59 Wall Street
+                                    New York, New York 10005
+                                    Fax: (212) 493-7997
+                                    S.W.I.F.T.:  BBHCUS33
+
+                                    Attention: Senior Credit Officer
+
+
+
+                                      S-4
+<Page>
+
+
+         $ 50,000,000               THE CHASE MANHATTAN BANK
+
+
+
+                                    By: ____________________________
+
+
+                                    Title:__________________________
+
+
+
+                                    52 Broadway, 6th Floor
+                                    New York, New York  10004
+                                    Fax: (212) 701-4081
+                                    S.W.I.F.T.:  CHASU33
+                                    Attention:  Downtown Region
+
+
+
+                                      S-5
+<Page>
+
+
+$ 50,000,000                        BANK ONE, NA
+
+
+
+                                    By: ______________________________
+
+
+                                    Title:____________________________
+
+
+
+                                    1 Bank One Plaza
+                                    Suite IL1-0162
+                                    Chicago, Illinois  60670-0162
+                                    Telex:  6732667
+                                    Fax:  (312) 732-6222
+                                    S.W.I.F.T.:  FNBCUS44
+                                    Attention:  Financial Institutions Division
+
+
+
+
+                                      S-6
+<Page>
+
+
+$ 50,000,000                        HARRIS TRUST AND SAVINGS BANK
+
+
+
+                                    By: _____________________________
+
+
+                                    Title:___________________________
+
+
+                                    111 West Monroe Street
+                                    Chicago, Illinois 60603
+                                    Fax:  (312) 765-8201
+                                    S.W.I.F.T.:  HATRUS44
+
+
+
+
+
+
+                                      S-7
+<Page>
+
+
+
+$ 50,000,000                        THE BANK OF TOKYO-MITSUBISHI, LTD
+
+
+
+                                    By:______________________________
+
+
+                                    Title:____________________________
+
+
+                                    Chicago Branch
+                                    227 West Monroe Street, Suite 2300
+                                    Chicago, Illinois 60606
+                                    Fax: (312) 696-4535
+                                    S.W.I.F.T.: BOTKUS4C
+
+                                    Reference: Chicago Mercantile Exchange
+
+
+
+                                      S-8
+<Page>
+
+
+$ 35,000,000                   CITIBANK, N.A.
+
+
+
+                                    By: ______________________________
+
+
+                                    Title:____________________________
+
+
+                                    399 Park Avenue
+                                    New York, New York 10043
+                                    Fax: (302) 894-6120
+
+                                    Reference: Chicago Mercantile
+                                    Attention: Lee Ocasio
+
+
+                                      S-9
+<Page>
+
+
+$ 25,000,000                        HSBC BANK USA
+
+
+
+                                    By:______________________________
+
+
+                                    Title:____________________________
+
+
+
+                                    1 HSBC Center, 26th Floor
+                                    Buffalo, New York  14203
+                                    Fax: (716) 841-0269
+
+                                    Attention: Maria Mendez-Tadak
+                                    Re: Chicago Mercantile Exchange Inc.
+
+
+
+
+                                      S-10
+
+<Page>
+
+
+$ 15,000,000                        THE NORTHERN TRUST COMPANY
+
+
+                                    By:______________________________
+
+
+                                    Title:____________________________
+
+
+                                    50 South LaSalle Street
+                                    11th Floor
+                                    Chicago, Illinois 60675
+                                    Fax: (312) 630-6062
+
+                                    Reference: Chicago Mercantile Exchange Inc.
+
+
+
+                                      S-11
+<Page>
+
+
+$ 25,000,000                            U.S. BANK NATIONAL ASSOCIATION
+
+
+                                       By:______________________________
+
+
+                                       Title:____________________________
+
+
+
+                                       777 E. Wisconsin Avenue
+                                       Milwaukee, Wisconsin  53201
+                                       Fax: (414) 765-4632
+                                       MK-FC-GLCB
+
+                                       Attention: Patrick Pfersch
+
+
+
+
+                                      S-12
+<Page>
+
+
+$ 50,000,000                        UBS, AG STAMFORD BRANCH
+
+
+                                    By:______________________________
+
+
+                                    Title:____________________________
+
+
+
+
+
+
+                                    By:______________________________
+
+
+                                    Title:____________________________
+
+
+
+                                    677 Washington Boulevard
+                                    Stamford, Connecticut  06901
+                                    Fax: (203) 719-3888
+
+                                    Attention: Marie Haddad
+                                    Reference: Chicago Mercantile Exchange Inc.
+
+
+
+                                      S-13
+<Page>
+
+
+$ 25,000,000                        SVENSKA HANDELSBANKEN AB (PUBL)
+
+
+                                    By:______________________________
+
+
+                                    Title:____________________________
+
+
+                                    153 East 53rd Street - 37th Floor
+                                    New York, New York  10022
+                                    Fax: (212) 326-5151
+                                    S.W.I.F.T.: HAND US33
+
+
+
+
+                                      S-14
+<Page>
+
+                                    EXHIBIT A
+
+                                      NOTE
+$[AMOUNT]
+[MONTH] [DAY], [YEAR]
+
+     Chicago Mercantile Exchange Inc., a Delaware corporation (the "COMPANY"),
+promises to pay to the order of ____________ (the "BANK") the lesser of the
+principal sum of _____________________ and 00/100 Dollars or the aggregate
+unpaid principal amount of all Loans made by the Bank to the Company pursuant to
+SECTION 2.1 of the First Amended and Restated Credit Agreement, dated as of
+October 19, 2001, among the Company, the Banks party thereto and The Bank of New
+York, as Collateral Agent (as amended, restated, supplemented or otherwise
+modified from time to time, the "AGREEMENT"), whichever is less, in immediately
+available funds at the office of _______________ in [CITY], [STATE], together
+with interest on the unpaid principal amount hereof until maturity at a rate per
+annum equal to the sum of the Fed Funds Rate, plus 45/100 of 1% per annum from
+time to time in effect. After maturity and until paid in full, the Loans shall
+bear interest at a rate per annum equal to the sum of the Fed Funds Rate, plus
+2.4% per annum. Interest shall be calculated on the basis of a 360 day year for
+actual number of days elapsed. The Company shall pay each Loan in full thirty
+days after such Loan is made. Interest prior to maturity shall be payable on the
+date on which the relevant Loan is paid or prepaid, whether due to acceleration
+or otherwise. Interest after maturity shall be payable on demand.
+
+     The Bank shall, and is hereby authorized to, record on the schedule
+attached hereto, or to otherwise record in accordance with its usual practice,
+the date and amount of each Loan and the date and amount of each principal
+payment hereunder. The records of the Bank shall be presumed to be accurate and
+shall be binding upon the Company absent manifest error.
+
+     This Note is one of the Notes issued pursuant to, and is entitled to the
+benefits of, the Agreement and the other Loan Documents, to which Agreement and
+Loan Documents reference is hereby made for a statement of the terms and
+conditions under which this Note may be prepaid or its maturity date
+accelerated. Capitalized terms used herein and not otherwise defined herein are
+used with the meanings attributed to them in the Agreement.
+
+                  CHICAGO MERCANTILE EXCHANGE INC.
+                  (A Delaware  corporation)
+
+                  By______________________________
+                  Title:____________________________
+
+
+
+</TEXT>
+</DOCUMENT>

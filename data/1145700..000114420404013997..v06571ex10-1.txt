@@ -1,0 +1,1179 @@
+<DOCUMENT>
+<TYPE>EX-10.1
+<SEQUENCE>2
+<FILENAME>v06571ex10-1.txt
+<TEXT>
+--------------------------------------------------------------------------------
+                            STOCK PURCHASE AGREEMENT
+
+                                     Between
+
+                      VITAL LIVING, INC. ("TARGET COMPANY")
+                                       and
+
+                          LANGLEY PARK INVESTMENTS PLC
+
+--------------------------------------------------------------------------------
+
+                               __________ __, 2004
+
+--------------------------------------------------------------------------------
+
+<PAGE>
+
+                                TABLE OF CONTENTS
+<TABLE>
+<CAPTION>
+<S>                 <C>                                                                                           <C>
+ARTICLE I           CERTAIN DEFINITIONS...........................................................................4
+         1.1      Certain Definitions.............................................................................4
+
+ARTICLE II          PURCHASE AND SALE OF SHARES...................................................................4
+         2.1      Purchase and Sale; Purchase Price...............................................................4
+         2.2      Execution and Delivery of Documents; The Closing................................................4
+
+ARTICLE III          REPRESENTATIONS AND WARRANTIES...............................................................5
+         3.1      Representations, Warranties and Agreements of the Target Company................................5
+         3.2      Representations and Warranties of Langley.......................................................8
+
+ARTICLE IV          OTHER AGREEMENTS OF THE PARTIES..............................................................13
+         4.1      Manner of Offering.............................................................................13
+         4.2      Notice of Certain Events.......................................................................13
+         4.3      Blue Sky Laws..................................................................................13
+         4.4      Integration....................................................................................13
+         4.5      Furnishing of Rule 144(c) Materials............................................................13
+         4.6      Solicitation Materials.........................................................................14
+         4.7      Listing of Common Stock........................................................................14
+         4.8      Indemnification................................................................................14
+         4.9      Sale of Langley Shares.........................................................................16
+         4.10     Lock Up by Langley.............................................................................16
+         4.11     Additional Stock Purchase Agreements...........................................................16
+
+ARTICLE V         MISCELLANEOUS..................................................................................16
+         5.1      Fees and Expenses..............................................................................16
+         5.2      Entire Agreement...............................................................................17
+         5.3      Notices........................................................................................17
+         5.4      Amendments; Waivers............................................................................18
+         5.5      Headings.......................................................................................18
+         5.6      Successors and Assigns.........................................................................18
+         5.7      No Third Party Beneficiaries...................................................................18
+         5.8      Governing Law; Venue; Service of Process.......................................................18
+         5.9      Survival.......................................................................................18
+         5.10     Counterpart Signatures.........................................................................18
+         5.11     Publicity......................................................................................19
+         5.12     Severability...................................................................................19
+         5.13     Limitation of Remedies.........................................................................19
+</TABLE>
+
+
+                                       2
+<PAGE>
+
+
+LIST OF SCHEDULES:
+
+Schedule 3.1(a)      Subsidiaries
+Schedule 3.1(c)      Capitalization and Registration Rights
+Schedule 3.1(d)      Equity and Equity Equivalent Securities
+Schedule 3.1(e)      Conflicts
+Schedule 3.1(f)      Consents and Approvals
+Schedule 3.1(g)      Litigation
+Schedule 3.1(h)      Defaults and Violations
+
+
+LIST OF EXHIBITS:
+
+Exhibit A         Escrow Agreement
+Exhibit B         Officer's Certificate
+
+
+
+                                       3
+<PAGE>
+
+
+      THIS STOCK PURCHASE AGREEMENT (this "Agreement") is made and entered into
+as of __, 2004, between Vital Living, Inc., a corporation organized and existing
+under the laws of the State of Nevada (the "Target Company"), and Langley Park
+Investments PLC, a corporation organized under the laws of England and Wales
+with its offices at 30 Farringdon Street, London EC4A 4HJ ( "Langley").
+
+      WHEREAS, subject to the terms and conditions set forth in this Agreement,
+the Target Company desires to issue and sell to Langley and Langley desires to
+acquire from the Target Company the shares of the Target Company's common stock,
+par value $.001 (the "Common Stock") for the Total Purchase Price set forth in
+Section 2.1(b) below. The consideration to be paid by Langley for the Common
+Stock shall be subject to certain downside price protection (the "Downside Price
+Protection") provided in Section 2 of the Escrow Agreement.
+
+      IN CONSIDERATION of the mutual covenants contained in this Agreement, the
+Target Company and Langley agree as follows:
+
+                                   ARTICLE I
+                               CERTAIN DEFINITIONS
+
+
+      1.1 Certain Definitions. As used in this Agreement, and unless the context
+requires a different meaning, the following terms have the meanings indicated:
+
+      "Affiliate" means, with respect to any Person, any Person, partner,
+officer or director of such Person that, directly or indirectly, controls, is
+controlled by or is under common control with such Person. For the purposes of
+this definition, "control" (including, with correlative meanings, the terms
+"controlled by" and "under common control with") shall mean the possession,
+directly or indirectly, of the power to direct or cause the direction of the
+management and policies of such Person, whether through the ownership of voting
+securities or by contract or otherwise.
+
+      "Agreement" shall have the meaning set forth in the introductory paragraph
+of this Agreement.
+
+      "Business Day" means any day except Saturday, Sunday, any day which shall
+be a legal holiday or a day on which banking institutions in the State of New
+York are authorized or required by law or other government actions to close.
+
+      "Closing" shall have the meaning set forth in Section 2.2(a) hereof.
+
+      "Closing Bid Price" shall mean the closing bid price for a share of Common
+Stock on such date on the Nasdaq, OTCBB or Pink Sheets, LLC, as the case may be
+(or such other exchange, market, or other system that the Common Stock is then
+traded on), as reported on Bloomberg, L.P. (or similar organization or agency
+succeeding to its functions of reporting prices) or if the Common Stock is no
+longer publicly traded, the fair market value of a share of the Common Stock as
+determined by an appraiser selected in good faith by Langley and the Target
+Company.
+
+
+                                       4
+<PAGE>
+
+      "Closing Date" shall have the meaning set forth in Section 2.2(a) hereof.
+
+      "Closing Price" shall be the Closing Bid Price on the day of Closing.
+
+      "Common Stock" shall have the meaning in the recital.
+
+      "Consideration Stock" shall have the meaning set forth in Section 2.1(a)
+hereof.
+
+      "Control Person" shall have the meaning set forth in Section 4.8(a)
+hereof.
+
+      "Disclosure Documents" means the Target Company's reports filed under the
+Exchange Act with the SEC since July 1, 2003.
+
+      "Downside Price Protection" shall have the meaning in the recital.
+
+      "Escrow Agent" means Gottbetter & Partners, LLP, 488 Madison Avenue, 12
+Floor, New York, NY 10022; Tel: 212-400-6900; Fax: 212-400-6901.
+
+      "Escrow Agreement" means the escrow agreement, dated the date hereof, by
+and among the Target Company, Langley and the Escrow Agent annexed hereto as
+Exhibit A.
+
+      "Exchange Act" means the Securities Exchange Act of 1934, as amended.
+
+      "G&P" means Gottbetter & Partners, LLP, counsel for Langley.
+
+      "Indemnified Party" shall have the meaning set forth in Section 4.8(b)
+hereof.
+
+      "Indemnifying Party" shall have the meaning set forth in Section 4.8(b)
+hereof.
+
+      "Langley" shall have the meaning in the introductory paragraph.
+
+      "Langley Consideration Shares" shall have the meaning in Section 2.1(c)
+hereof.
+
+      "Langley Escrow Shares" means the Langley Consideration Shares deposited
+into escrow by the Target Company under the terms of the Escrow Agreement in
+Exhibit A.
+
+      "Langley Protection Shares" means the Langley Escrow Shares that the
+Target Company is required to sell to Langley under the terms of the Escrow
+Agreement in Exhibit A.
+
+      "Langley Shares" shall mean ordinary shares of 1.0p each in Langley.
+
+      "Losses" shall have the meaning set forth in Section 4.8(a) hereof.
+
+
+                                       5
+<PAGE>
+
+      "Material" shall mean having a financial consequence in excess of $25,000.
+
+      "Material Adverse Effect" shall have the meaning set forth in Section
+3.1(a).
+
+      "NASD" means the National Association of Securities Dealers, Inc.
+
+      "Nasdaq" shall mean the Nasdaq Stock Market, Inc.
+
+      "OTCBB" shall mean the NASD over-the counter Bulletin Board.
+
+      "Person" means an individual or a corporation, partnership, trust,
+incorporated or unincorporated association, joint venture, limited liability
+company, joint stock company, government (or an agency or political subdivision
+thereof) or other entity of any kind.
+
+      "Proceeding" means an action, claim, suit, investigation or proceeding
+(including, without limitation, an investigation or partial proceeding, such as
+a deposition), whether commenced or, to the Person's knowledge, threatened.
+
+      "Private Placement Memorandum" shall have the meaning set forth in Section
+3.1(l) hereof.
+
+      "Securities" means the Common Stock and stock of any other class into
+which such shares may hereafter have been reclassified or changed.
+
+      "SEC" means the Securities and Exchange Commission.
+
+      "Securities Act" means the Securities Act of 1933, as amended.
+
+      "Subsidiaries" shall have the meaning set forth in Section 3.1(a).
+
+      "Target Company" shall have the meaning set forth in the introductory
+paragraph.
+
+      "Total Purchase Price" shall have the meaning set forth in Section 2.1(b).
+
+      "Trading Day" means (a) a day on which the Common Stock is quoted on
+Nasdaq, the OTCBB or the principal stock exchange on which the Common Stock has
+been listed, or (b) if the Common Stock is not quoted on Nasdaq, the OTCBB or
+any stock exchange, a day on which the Common Stock is quoted in the
+over-the-counter market, as reported by the Pinksheets LLC (or any similar
+organization or agency succeeding its functions of reporting prices).
+
+      "Transaction Documents" means this Agreement and all exhibits and
+schedules hereto and all other documents, instruments and writings required
+pursuant to this Agreement.
+
+      "U.S." means the United States.
+
+
+
+                                       6
+<PAGE>
+
+                                   ARTICLE II
+
+                           PURCHASE AND SALE OF SHARES
+
+2.1   Purchase and Sale; Purchase Price.
+
+            (a) Subject to the terms and conditions set forth herein, the Target
+Company shall issue and sell and Langley shall purchase Five Million (5,000,000)
+shares of the Target Company's Common Stock (the "Consideration Stock").
+
+            (b) The total purchase price (the "Total Purchase Price") shall be
+the number of shares of Consideration Stock multiplied by the average of the
+Closing Bid Price per share of Common Stock during the ten (10) Trading Days
+immediately preceding July 30, 2004.
+
+            (c) The Total Purchase Price shall be paid by delivery to the Target
+Company of the number of Langley Shares (the "Langley Consideration Shares")
+equal to the Total Purchase Price divided by the conversion rate of the British
+Pound Sterling to purchase US Dollars as determined below on the July 30, 2004.
+The Langley Shares shall have a value of (pound)1 per share. The number of
+Langley Shares to be issued will be based on the conversion rate of the British
+Pound Sterling to the US Dollar in effect as of the close of business on the day
+preceding the Closing Date, as quoted by Coutts & Co. as the commercial rate it
+gives to purchase US Dollars. For example, if the effective conversion rate is
+$1.80/(pound) 1 and the Total Purchase Price is $8,000,000, then the number of
+Langley Shares the Target Company will receive shall equal the $8,000,000/$1.80,
+or 4,444,444 Langley Shares. The Langley Consideration Shares shall be subject
+to the "Downside Price Protection" provided in Section 2 of the Escrow
+Agreement.
+
+
+2.2   Execution and Delivery of Documents; The Closing.
+
+            (a) The Closing of the purchase and sale of the shares of
+Consideration Stock (the "Closing") shall take place by August 20, 2004 (the
+"Closing Date"). On the Closing Date,
+
+            (i) the Target Company shall execute and deliver to the Escrow Agent
+a certificate in the name of Langley representing the shares of Consideration
+Stock;
+
+            (ii) the Target Company shall execute and deliver to Langley a
+certificate of its President, in the form of Exhibit B annexed hereto,
+certifying that attached thereto is a copy of resolutions duly adopted by the
+Board of Directors of the Target Company authorizing the Target Company to
+execute and deliver the Transaction Documents and to enter into the transactions
+contemplated thereby, provided that the Target Company may execute such
+certificate upon the execution of this Agreement, in which case it will be held
+in escrow by the Escrow Agent to be delivered at Closing;
+
+            (iii) the Target Company, Langley and the Escrow Agent shall execute
+and deliver to each other the Escrow Agreement, provided that the Target
+Company, Langley and Escrow Agent may execute the Escrow Agreement upon the
+execution of this Agreement, in which case it will to be held in escrow by the
+Escrow Agent to be delivered at Closing;
+
+
+                                       7
+<PAGE>
+
+            (iv) Langley shall execute and deliver to the Escrow Agent a
+certificate in the name of the Target Company or a provisional letter of
+allotment for a trading account in the name of the Escrow Agent representing the
+Langley Escrow Shares and a certificate in the name of the Target Company or a
+provisional letter of allotment for a trading account in the name of the Escrow
+Agent for the benefit of the Target Company representing the balance of the
+Langley Consideration Shares
+
+            (v) Langley shall execute and deliver to the Escrow Agent a stock
+power endorsed in blank relating to the Consideration Stock;
+
+            (vi) if Langley delivers certificates for the Langley Consideration
+Shares, the Target Company shall execute and deliver to the Escrow Agent stock
+powers endorsed in blank relating to the Langley Consideration Shares; and
+
+            (vii) the Target Company shall wire the monies owed to G&P pursuant
+to Section 5.1 hereof for legal fees with the following wire instructions:
+
+                                    Citibank, N.A.
+                                    488 Madison Avenue
+                                    New York, NY
+                                    ABA Routing No.: 021000089
+                                    Account Name: Gottbetter & Partners, LLP
+                                    Account No. 49061322
+                                    Reference:  Vital Living, Inc.
+
+
+                                  ARTICLE III
+
+                         REPRESENTATIONS AND WARRANTIES
+
+      3.1 Representations, Warranties and Agreements of the Target Company. The
+Target Company hereby makes the following representations and warranties to
+Langley, all of which shall survive the Closing:
+
+            (a) Organization and Qualification. The Target Company is a
+corporation, duly incorporated, validly existing and in good standing under the
+laws of the jurisdiction of its formation, with the requisite corporate power
+and authority to own and use its properties and assets and to carry on its
+business as currently conducted. The Target Company has no subsidiaries other
+than as set forth on Schedule 3.1(a) attached hereto (collectively, the
+"Subsidiaries"). Each of the Subsidiaries is a corporation, duly incorporated,
+validly existing and in good standing under the laws of the jurisdiction of its
+incorporation, with the full corporate power and authority to own and use its
+properties and assets and to carry on its business as currently conducted. Each
+of the Target Company and the Subsidiaries is duly qualified to do business and
+is in good standing as a foreign corporation in each jurisdiction in which the
+nature of the business conducted or property owned by it makes such
+qualification necessary, except where the failure to be so qualified or in good
+standing, as the case may be, would not, individually or in the aggregate, have
+a material adverse effect on the results of operations, assets, prospects, or
+financial condition of the Target Company and the Subsidiaries, taken as a whole
+(a "Material Adverse Effect").
+
+
+                                       8
+<PAGE>
+
+            (b) Authorization, Enforcement. The Target Company has the requisite
+corporate power and authority to enter into and to consummate the transactions
+contemplated hereby and by each other Transaction Document and to otherwise to
+carry out its obligations hereunder and thereunder. The execution and delivery
+of this Agreement and each of the other Transaction Documents by the Target
+Company and the consummation by it of the transactions contemplated hereby and
+thereby has been duly authorized by all necessary action on the part of the
+Target Company. Each of this Agreement and each of the other Transaction
+Documents has been or will be duly executed by the Target Company and when
+delivered in accordance with the terms hereof or thereof will constitute the
+valid and binding obligation of the Target Company enforceable against the
+Target Company in accordance with its terms, except as such enforceability may
+be limited by (i) applicable bankruptcy, insolvency, reorganization, moratorium,
+liquidation or similar laws relating to, or affecting generally the enforcement
+of, creditors' rights and remedies or by other equitable principles of general
+application, (ii) as limited by laws relating to the availability of specific
+performance, injunctive relief, or other equitable remedies, and (iii) to the
+extent the indemnification provisions contained in the Transaction Documents may
+be limited by applicable federal or state laws.
+
+            (c) Capitalization. The authorized, issued and outstanding capital
+stock of the Company is set forth on Schedule 3.1(c). No shares of Common Stock
+are entitled to preemptive or similar rights under any law or statute, nor is
+any holder of the Common Stock entitled to preemptive or similar rights arising
+out of any agreement or understanding with the Target Company by virtue of this
+Agreement. Except as disclosed in Schedule 3.1(c), there are no outstanding
+options, warrants, script, rights to subscribe to, registration rights, calls or
+commitments of any character whatsoever relating to securities, rights or
+obligations convertible into or exchangeable for, or giving any person any right
+to subscribe for or acquire, any shares of Common Stock, or contracts,
+commitments, understandings, or arrangements by which the Target Company or any
+Subsidiary is or may become bound to issue additional shares of Common Stock, or
+securities or rights convertible or exchangeable into shares of Common Stock.
+Neither the Target Company nor any Subsidiary is in violation of any of the
+provisions of its Certificate of Incorporation, bylaws or other charter
+documents.
+
+            (d) Issuance of Securities. The shares of Consideration Stock have
+been duly and validly authorized for issuance, offer and sale pursuant to this
+Agreement and, when issued and delivered as provided hereunder against payment
+in accordance with the terms hereof, shall be valid and binding obligations of
+the Target Company enforceable in accordance with their respective terms.
+
+
+                                       9
+<PAGE>
+
+            (e) No Conflicts. The execution, delivery and performance of this
+Agreement and the other Transaction Documents by the Target Company and the
+consummation by the Target Company of the transactions contemplated hereby and
+thereby do not and will not (i) conflict with or violate any provision of its
+Certificate of Incorporation or bylaws (each as amended through the date hereof)
+or (ii) be subject to obtaining any consents except those referred to in Section
+3.1(f), conflict with, or constitute a default (or an event which with notice or
+lapse of time or both would become a default) under, or give to others any
+rights of termination, amendment, acceleration or cancellation of, any
+agreement, indenture or instrument to which the Target Company is a party, or
+(iii) result in a violation of any law, rule, regulation, order, judgment,
+injunction, decree or other restriction of any court or governmental authority
+to which the Target Company or its Subsidiaries is subject (including, but not
+limited to, those of other countries and the federal and state securities laws
+and regulations), or by which any property or asset of the Target Company or its
+Subsidiaries is bound or affected, except in the case of clause (ii), such
+conflicts, defaults, terminations, amendments, accelerations, cancellations and
+violations as would not, individually or in the aggregate, have a Material
+Adverse Effect. The business of the Target Company and its Subsidiaries is not
+being conducted in violation of any law, ordinance or regulation of any
+governmental authority except as could not reasonably be expected to have a
+Material Adverse Effect.
+
+            (f) Consents and Approvals. Except as specifically set forth in
+Schedule 3.1(f), neither the Target Company nor any Subsidiary is required to
+obtain any consent, waiver, authorization or order of, or make any filing or
+registration with, any court or other federal, state, local or other
+governmental authority or other Person in connection with the execution,
+delivery and performance by the Target Company of this Agreement and each of the
+other Transaction Documents.
+
+            (g) Litigation; Proceedings. Except as specifically disclosed in
+Schedule 3.1(g), there is no Proceeding pending or threatened against or
+affecting the Target Company or any of its Subsidiaries or any of their
+respective properties before or by any court, governmental or administrative
+agency or regulatory authority (federal, state, county, local or foreign) which
+(i) relates to or challenges the legality, validity or enforceability of any of
+the Transaction Documents or the shares of Consideration Stock, (ii) could,
+individually or in the aggregate, have a Material Adverse Effect or (iii) could,
+individually or in the aggregate, materially impair the ability of the Target
+Company to perform fully on a timely basis its obligations under the Transaction
+Documents.
+
+            (h) No Default or Violation. Except as set forth in Schedule 3.1(h)
+hereto, neither the Target Company nor any Subsidiary (i) is in default under or
+in violation of any indenture, loan or credit agreement or any other agreement
+or instrument to which it is a party or by which it or any of its properties is
+bound, except such conflicts or defaults as do not have a Material Adverse
+Effect, (ii) is in violation of any order of any court, arbitrator or
+governmental body, except for such violations as do not have a Material Adverse
+Effect, or (iii) is in violation of any statute, rule or regulation of any
+governmental authority which could (individually or in the aggregate) (a)
+adversely affect the legality, validity or enforceability of this Agreement, (b)
+have a Material Adverse Effect or (c) adversely impair the Target Company's
+ability or obligation to perform fully on a timely basis its obligations under
+this Agreement.
+
+
+                                       10
+<PAGE>
+
+            (i) Disclosure Documents. As of their respective dates, the
+Disclosure Documents were accurate in all material respects and did not contain
+any untrue statement of material fact or omit to state any material fact
+necessary in order to make the statements made therein, in light of the
+circumstances under which they were made, not misleading.
+
+            (j) Non-Registered Offering. Neither the Target Company nor any
+Person acting on its behalf has taken or will take any action (including,
+without limitation, any offering of any securities of the Target Company under
+circumstances which would require the integration of such offering with the
+offering of the Consideration Stock under the Securities Act) which might
+subject the offering, issuance or sale of the Consideration Stock to the
+registration requirements of Section 5 of the Securities Act.
+
+            (k) Placing Agent. The Target Company accepts and agrees that
+Dungarvon Associates, Inc. ("Dungarvon") is acting for Langley and does not
+regard any person other than Langley as its customer in relation to this
+Agreement, and that it has not made any recommendation to the Target Company, in
+relation to this Agreement and is not advising the Target Company, with regard
+to the suitability or merits of the Langley Shares and in particular Dungarvon
+has no duties or responsibilities to the Target Company for the best execution
+of the transaction contemplated by this Agreement.
+
+            (l) Private Placement Representations. The Target Company (i) has
+received and carefully reviewed such information and documentation relating to
+Langley that the Target Company has requested, including, without limitation,
+Langley's Confidential Private Offering Memorandum dated June 17, 2004 ("Private
+Placement Memorandum"); (ii) has had a reasonable opportunity to ask questions
+of and receive answers from Langley concerning the Langley Shares, and all such
+questions, if any, have been answered to the full satisfaction of the Target
+Company; (iii) has such knowledge and expertise in financial and business
+matters that it is capable of evaluating the merits and risks involved in an
+investment in the Langley Shares; (iii) understands that Langley has determined
+that the exemption from the registration provisions of the Securities Act,
+provided by Section 4(2) of the Securities Act is applicable to the offer and
+sale of the Langley Shares, based, in part, upon the representations, warranties
+and agreements made by the Target Company herein; and (iv) except as provided
+herein and in the Private Placement Memorandum, no representations or warranties
+have been made to the Target Company by Langley or any agent, employee or
+affiliate of Langley and in entering into this transaction the Target Company is
+not relying upon any information, other than the results of independent
+investigation by the Target Company.
+
+
+                                       11
+<PAGE>
+
+            (m) The Target Company acknowledges and agrees that Langley makes no
+representations or warranties with respect to the transactions contemplated
+hereby other than those specifically set forth in Section 3.2.
+
+
+      3.2 Representations and Warranties of Langley. Langley hereby makes the
+following representations and warranties to the Target Company, all of which
+shall survive the Closing:
+
+            (a) Organization; Authority. Langley is a corporation, duly
+organized, validly existing and in good standing under the laws of the
+jurisdiction of its formation with the requisite power and authority to own and
+use its properties and assets and to carry on its business as currently
+conducted.
+
+            (b) Authorization, Enforcement. Langley has the requisite corporate
+power and authority to enter into and to consummate the transactions
+contemplated hereby and by each other Transaction Document and to otherwise to
+carry out its obligations hereunder and thereunder. The execution and delivery
+of this Agreement and each of the other Transaction Documents by Langley and the
+consummation by it of the transactions contemplated hereby and thereby has been
+duly authorized by all necessary action on the part of Langley. Each of this
+Agreement and each of the other Transaction Documents has been or will be duly
+executed by Langley (or Dungarvon on its behalf) and when delivered in
+accordance with the terms hereof or thereof will constitute the valid and
+binding obligation of Langley enforceable against Langley in accordance with its
+terms, except as such enforceability may be limited by (i) applicable
+bankruptcy, insolvency, reorganization, moratorium, liquidation or similar laws
+relating to, or affecting generally the enforcement of, creditors' rights and
+remedies or by other equitable principles of general application, (ii) as
+limited by laws relating to the availability of specific performance, injunctive
+relief, or other equitable remedies, and (iii) to the extent the indemnification
+provisions contained in the Transaction Documents may be limited by applicable
+federal or state laws.
+
+            (c) Issuance of Securities. The Langley Consideration Shares have
+been duly and validly authorized for issuance, offer and sale pursuant to this
+Agreement and, when issued and delivered as provided hereunder against payment
+in accordance with the terms hereof, shall be valid and binding obligations of
+Langley enforceable in accordance with their respective terms.
+
+            (d) No Conflicts. The execution, delivery and performance of this
+Agreement and the other Transaction Documents by Langley and the consummation by
+Langley of the transactions contemplated hereby and thereby do not and will not
+(i) conflict with or violate any provision of its formation documents (as
+amended through the date hereof) or (ii) be subject to obtaining any consents
+except those referred to in Section 3.2(e), conflict with, or constitute a
+default (or an event which with notice or lapse of time or both would become a
+default) under, or give to others any rights of termination, amendment,
+acceleration or cancellation of, any agreement, indenture or instrument to which
+Langley is a party, or (iii) result in a violation of any law, rule, regulation,
+order, judgment, injunction, decree or other restriction of any court or
+governmental authority to which Langley is subject, or by which any property or
+asset of Langley is bound or affected, except in the case of clause (ii), such
+conflicts, defaults, terminations, amendments, accelerations, cancellations and
+violations as would not, individually or in the aggregate, have a Material
+Adverse Effect. The business of Langley is not being conducted in violation of
+any law, ordinance or regulation of any governmental authority except as could
+not reasonably be expected to have a Material Adverse Effect.
+
+
+                                       12
+<PAGE>
+
+            (e) Consents and Approvals. Except for the admission for trading of
+the Langley Shares on the London Stock Exchange plc, Langley is not required to
+obtain any consent, waiver, authorization or order of, or make any filing or
+registration with, any court or other governmental authority or other Person in
+connection with the execution, delivery and performance by Langley of this
+Agreement and each of the other Transaction Documents.
+
+            (f) Private Placement Memorandum. The Private Placement Memorandum
+is accurate in all material respects and did not contain any untrue statement of
+material fact or omit to state any material fact necessary in order to make the
+statements made therein, in light of the circumstances under which they were
+made, not misleading.
+
+            (g) Investment Intent. Langley is acquiring the shares of
+Consideration Stock to be purchased by it hereunder, for its own account for
+investment purposes only and not with a view to or for distributing or reselling
+such shares of Consideration Stock, or any part thereof or interest therein,
+without prejudice, however, to Langley's right, subject to the provisions of
+this Agreement, at all times to sell or otherwise dispose of all or any part of
+such shares of Consideration Stock in compliance with applicable federal and
+state securities laws.
+
+            (h) Experience of Langley. Langley, either alone or together with
+its representatives, has such knowledge, sophistication and experience in
+business and financial matters so as to be capable of evaluating the merits and
+risks of an investment in the shares of Consideration Stock to be acquired by it
+hereunder, and has so evaluated the merits and risks of such investment.
+
+            (i) Ability of Langley to Bear Risk of Investment. Langley is able
+to bear the economic risk of an investment in the Consideration Stock to be
+acquired by it hereunder and, at the present time, is able to afford a complete
+loss of such investment.
+
+            (j) Access to Information. Langley acknowledges that it has been
+afforded (i) the opportunity to ask such questions as it has deemed necessary
+of, and to receive answers from, representatives of the Target Company
+concerning the terms and conditions of the Consideration Stock offered hereunder
+and the merits and risks of investing in such securities; (ii) access to
+information about the Target Company and the Target Company's financial
+condition, results of operations, business, properties, management and prospects
+sufficient to enable it to evaluate its investment in the Consideration Stock;
+and (iii) the opportunity to obtain such additional information which the Target
+Company possesses or can acquire without unreasonable effort or expense that is
+necessary to make an informed investment decision with respect to the investment
+and to verify the accuracy and completeness of the information that it has
+received about the Target Company.
+
+
+                                       13
+<PAGE>
+
+            (k) Reliance. Langley understands and acknowledges that (i) the
+shares of Consideration Stock being offered and sold to it hereunder are being
+offered and sold without registration under the Securities Act in a private
+placement that is exempt from the registration provisions of the Securities Act
+under Section 4(2) of the Securities Act and (ii) the availability of such
+exemption depends in part on, and that the Target Company will rely upon the
+accuracy and truthfulness of, the foregoing representations and Langley hereby
+consents to such reliance.
+
+            (l) Regulation S. Langley understands and acknowledges that (A) the
+shares of Consideration Stock have not been registered under the Securities Act,
+are being sold in reliance upon an exemption from registration afforded by
+Regulation S and Section 4(2) under the Securities Act; and that such shares of
+Consideration Stock have not been registered with any state securities
+commission or authority; (B) pursuant to the requirements of Regulation S, the
+shares of Consideration Stock may not be transferred, sold or otherwise
+exchanged unless in compliance with the provisions of Regulation S and/or
+pursuant to registration under the Securities Act, or pursuant to an available
+exemption hereunder; and (C) the Target Company is under no obligation to
+register the shares of Consideration Stock under the Securities Act or any state
+securities law, or to take any action to make any exemption from any such
+registration provisions available.
+
+      Langley is not a U.S. Person and is not acquiring the shares of
+Consideration Stock for the account of any U.S. Person; (B) no director or
+executive officer of Langley is a national or citizen of the United States; and
+(C) it is not otherwise deemed to be a "U.S. Person" within the meaning of
+Regulation S.
+
+      Langley was not formed specifically for the purpose of acquiring the
+shares of Consideration Stock purchased pursuant to this Agreement.
+
+      Langley is purchasing the shares of Consideration Stock for its own
+account and risk and not for the account or benefit of a U.S. Person as defined
+in Regulation S and no other person has any interest in or participation in the
+shares of Consideration Stock or any right, option, security interest, pledge or
+other interest in or to the shares of Consideration Stock. Langley understands,
+acknowledges and agrees that it must bear the economic risk of its investment in
+the shares of Consideration Stock for an indefinite period of time and that
+prior to any such offer or sale, the Target Company may require, as a condition
+to effecting a transfer of the shares of Consideration Stock, an opinion of
+counsel, acceptable to the Target Company, as to the registration or exemption
+therefrom under the Securities Act and any state securities acts, if applicable.
+
+      Langley will, after the expiration of the Restricted Period, as set forth
+under Regulation S Rule 903(b)(3)(iii)(A), offer, sell, pledge or otherwise
+transfer the shares of Consideration Stock only in accordance with Regulation S,
+or pursuant to an available exemption under the Securities Act and, in any case,
+in accordance with applicable state securities laws and Langley understands and
+acknowledges that the Target Company may refuse to register any transfer of the
+Consideration Stock not made in accordance with the provisions of Regulation S,
+pursuant to registration under the Securities Act or pursuant to an available
+exemption from registration. Langley further acknowledges and agrees that it
+will not engage in hedging transactions with regard to the Consideration Stock
+unless in compliance with the Securities Act. The transactions contemplated by
+this Agreement have neither been pre-arranged with a purchaser who is in the
+U.S. or who is a U.S. Person, nor are they part of a plan or scheme to evade the
+registration provisions of the United States federal securities laws.
+
+
+                                       14
+<PAGE>
+
+      The offer leading to the sale evidenced hereby was made in an "offshore
+transaction." For purposes of Regulation S, Langley understands that an
+"offshore transaction" as defined under Regulation S is any offer or sale not
+made to a person in the United States and either (A) at the time the buy order
+is originated, the purchaser is outside the United States, or the seller or any
+person acting on his behalf reasonably believes that the purchaser is outside
+the United States; or (B) for purposes of (1) Rule 903 of Regulation S, the
+transaction is executed in, or on or through a physical trading floor of an
+established foreign exchange that is located outside the United States or (2)
+Rule 904 of Regulation S, the transaction is executed in, on or through the
+facilities of a designated offshore securities market, and neither the seller
+nor any person acting on its behalf knows that the transaction has been
+prearranged with a buyer in the U.S.
+
+      Neither Langley nor any Affiliate or any Person acting on Langley's
+behalf, has made or is aware of any "directed selling efforts" in the United
+States, which is defined in Regulation S to be any activity undertaken for the
+purpose of, or that could reasonably be expected to have the effect of,
+conditioning the market in the United States for any of the shares of
+Consideration Stock being purchased hereby.
+
+      Langley understands that the Target Company is the seller of the shares of
+Consideration Stock which are the subject of this Agreement, and that, for
+purpose of Regulation S, a "distributor" is any underwriter, dealer or other
+person who participates, pursuant to a contractual arrangement, in the
+distribution of securities offered or sold in reliance on Regulation S. Langley
+agrees that Langley will not, during the Restricted Period set forth under Rule
+903(b)(iii)(A), act as a distributor, either directly or though any Affiliate,
+nor shall it sell, transfer, hypothecate or otherwise convey the shares of
+Consideration Stock other than to a non-U.S. Person.
+
+      Langley acknowledges that the shares of Consideration Stock will bear a
+legend in substantially the following form:
+
+
+THE SECURITIES REPRESENTED BY THIS CERTIFICATE HAVE BEEN OFFERED AND SOLD IN AN
+"OFFSHORE TRANSACTION" IN RELIANCE UPON REGULATION S AS PROMULGATED BY THE
+SECURITIES AND EXCHANGE COMMISSION. ACCORDINGLY, THE SECURITIES REPRESENTED BY
+THIS CERTIFICATE HAVE NOT BEEN REGISTERED UNDER THE SECURITIES ACT OF 1933 (THE
+"SECURITIES ACT") AND MAY NOT BE TRANSFERRED OTHER THAN IN ACCORDANCE WITH
+REGULATION S, PURSUANT TO REGISTRATION UNDER THE SECURITIES ACT, OR PURSUANT TO
+AN AVAILABLE EXEMPTION FROM REGISTRATION UNDER THE SECURITIES ACT, THE
+AVAILABILITY OF WHICH IS TO BE ESTABLISHED TO THE SATISFACTION OF THE COMPANY.
+THE SECURITIES REPRESENTED BY THIS CERTIFICATE CANNOT BE THE SUBJECT OF HEDGING
+TRANSACTIONS UNLESS SUCH TRANSACTIONS ARE CONDUCTED IN COMPLIANCE WITH THE
+SECURITIES ACT.
+
+
+                                       15
+<PAGE>
+
+            (m) Langley acknowledges that it may not sell, transfer or assign
+all or any of the shares of Consideration Stock for a period of two (2) years
+following the Closing and that the certificates representing the Consideration
+Stock will bear a legend in substantially the following form:
+
+THE SALE OF THE SHARES REPRESENTED BY THIS CERTIFICATE IS RESTRICTED PURSUANT TO
+THE TERMS OF A STOCK PURCHASE AGREEMENT, DATED JULY __, 2004, BETWEEN THE
+COMPANY AND LANGLEY PARK INVESTMENTS PLC, A COPY OF WHICH IS AVAILABLE UPON
+REQUEST.
+
+
+            (n) Langley acknowledges and agrees that the Target Company makes no
+representations or warranties with respect to the transactions contemplated
+hereby other than those specifically set forth in Section 3.1.
+
+                                   ARTICLE IV
+
+                         OTHER AGREEMENTS OF THE PARTIES
+
+
+      4.1 Manner of Offering. The Consideration Stock is being issued pursuant
+to section 4(2) of the Securities Act and Regulation S thereunder. The Langley
+Consideration Shares are being issued pursuant to section 4(2) of the Securities
+Act.
+
+      4.2 Notice of Certain Events. The Target Company shall, on a continuing
+basis, (i) advise Langley promptly after obtaining knowledge of, and, if
+requested by Langley, confirm such advice in writing, of (A) the issuance by any
+state securities commission of any stop order suspending the qualification or
+exemption from qualification of the shares of Consideration Stock, for offering
+or sale in any jurisdiction, or the initiation of any Proceeding for such
+purpose by any state securities commission or other regulatory authority, or (B)
+up until the Closing Date, any event that makes any statement of a material fact
+made by the Target Company in Section 3.1 or in the Disclosure Documents untrue
+or that requires the making of any additions to or changes in Section 3.1 or in
+the Disclosure Documents in order to make the statements therein, in the light
+of the circumstances under which they are made, not misleading, (ii) use its
+best efforts to prevent the issuance of any stop order or order suspending the
+qualification or exemption from qualification of the Consideration Stock under
+any state securities or Blue Sky laws, and (iii) if at any time any state
+securities commission or other regulatory authority shall issue an order
+suspending the qualification or exemption from qualification of the
+Consideration Stock under any such laws, and use its best efforts to obtain the
+withdrawal or lifting of such order at the earliest possible time.
+
+
+                                       16
+<PAGE>
+
+      4.3 [Intentionally Omitted]
+
+      4.4 Integration. The Target Company shall not and shall use its best
+efforts to ensure that no Affiliate shall sell, offer for sale or solicit offers
+to buy or otherwise negotiate in respect of any security (as defined in Section
+2 of the Securities Act) that would be integrated with the offer or sale of the
+Consideration Stock in a manner that would require the registration under the
+Securities Act of the sale of the Consideration Stock to Langley.
+
+      4.5 Furnishing of Rule 144(c) Materials. The Target Company shall, for so
+long as any of the Consideration Stock remain outstanding and during any period
+in which the Target Company is not subject to Section 13 or 15(d) of the
+Exchange Act, make available to any registered holder of the Securities in
+connection with any sale thereof and any prospective purchaser of such
+Securities from such Person, such information in accordance with Rule 144(c)
+promulgated under the Securities Act as is required to sell the Consideration
+Stock under Rule 144 promulgated under the Securities Act.
+
+      4.6 Solicitation Materials. The Target Company shall not (i) distribute
+any offering materials in connection with the offering and sale of the shares of
+Consideration Stock other than the Disclosure Documents and any amendments and
+supplements thereto prepared in compliance herewith or (ii) solicit any offer to
+buy or sell the shares of Consideration Stock by means of any form of general
+solicitation or advertising.
+
+      4.7 Listing of Common Stock. If the Common Stock is or shall become listed
+on the OTCBB or on another exchange, the Target Company shall (a) use its best
+efforts to maintain the listing of its Common Stock on the OTCBB or such other
+exchange on which the Common Stock is then listed until two years from the date
+hereof, and (b) shall provide to Langley evidence of such listing.
+
+      4.8 Indemnification.
+
+            (a) Indemnification.
+
+            (i) The Target Company shall, notwithstanding termination of this
+Agreement and without limitation as to time, indemnify and hold harmless Langley
+and its officers, directors, agents, employees and Affiliates, each Person who
+controls or Langley (within the meaning of Section 15 of the Securities Act or
+Section 20 of the Exchange Act) (each such Person, a "Control Person") and the
+officers, directors, agents, employees and Affiliates of each such Control
+Person, to the fullest extent permitted by applicable law, from and against any
+and all losses, claims, damages, liabilities, costs (including, without
+limitation, costs of preparation and attorneys' fees) and expenses
+(collectively, "Losses"), as incurred, arising out of, or relating to, a breach
+or breaches of any representation, warranty, covenant or agreement by the Target
+Company under this Agreement or any other Transaction Document.
+
+
+                                       17
+<PAGE>
+
+            (ii) Langley shall, notwithstanding termination of this Agreement
+and without limitation as to time, indemnify and hold harmless the Target
+Company, its officers, directors, agents and employees, each Control Person and
+the officers, directors, agents and employees of each Control Person, to the
+fullest extent permitted by applicable law, from and against any and all Losses,
+as incurred, arising out of, or relating to, a breach or breaches of any
+representation, warranty, covenant or agreement by Langley under this Agreement
+or the other Transaction Documents.
+
+            (iii) The Target Company and Langley acknowledge that in the SEC's
+opinion, directors, officers and persons controlling a company subject to the
+Securities Act can not be indemnified for liabilities arising under the
+Securities Act by such company.
+
+            (b) Conduct of Indemnification Proceedings. If any Proceeding shall
+be brought or asserted against any Person entitled to indemnity hereunder (an
+"Indemnified Party"), such Indemnified Party promptly shall notify the Person
+from whom indemnity is sought (the "Indemnifying Party") in writing, and the
+Indemnifying Party shall assume the defense thereof, including the employment of
+counsel reasonably satisfactory to the Indemnified Party and the payment of all
+fees and expenses incurred in connection with defense thereof; provided, that
+the failure of any Indemnified Party to give such notice shall not relieve the
+Indemnifying Party of its obligations or liabilities pursuant to this Agreement,
+except (and only) to the extent that it shall be finally determined by a court
+of competent jurisdiction (which determination is not subject to appeal or
+further review) that such failure shall have proximately and materially
+adversely prejudiced the Indemnifying Party.
+
+      An Indemnified Party shall have the right to employ separate counsel in
+any such Proceeding and to participate in the defense thereof, but the fees and
+expenses of such counsel shall be at the expense of such Indemnified Party or
+Parties unless: (1) the Indemnifying Party has agreed to pay such fees and
+expenses; or (2) the Indemnifying Party shall have failed promptly to assume the
+defense of such Proceeding and to employ counsel reasonably satisfactory to such
+Indemnified Party in any such Proceeding; or (3) the named parties to any such
+Proceeding (including any impleaded parties) include both such Indemnified Party
+and the Indemnifying Party, and such Indemnified Party shall have been advised
+by counsel that a conflict of interest is likely to exist if the same counsel
+were to represent such Indemnified Party and the Indemnifying Party (in which
+case, if such Indemnified Party notifies the Indemnifying Party in writing that
+it elects to employ separate counsel at the expense of the Indemnifying Party,
+the Indemnifying Party shall not have the right to assume the defense of the
+claim against the Indemnified Party but will retain the right to control the
+overall Proceedings out of which the claim arose and such counsel employed by
+the Indemnified Party shall be at the expense of the Indemnifying Party). The
+Indemnifying Party shall not be liable for any settlement of any such Proceeding
+effected without its written consent, which consent shall not be unreasonably
+withheld. No Indemnifying Party shall, without the prior written consent of the
+Indemnified Party, effect any settlement of any pending Proceeding in respect of
+which any Indemnified Party is a party, unless such settlement includes an
+unconditional release of such Indemnified Party from all liability on claims
+that are the subject matter of such Proceeding.
+
+
+                                       18
+<PAGE>
+
+      All fees and expenses of the Indemnified Party to which the Indemnified
+Party is entitled hereunder (including reasonable fees and expenses to the
+extent incurred in connection with investigating or preparing to defend such
+Proceeding in a manner not inconsistent with this Section) shall be paid to the
+Indemnified Party, as incurred, within ten (10) Business Days of written notice
+thereof to the Indemnifying Party.
+
+      No right of indemnification under this Section shall be available as to a
+particular Indemnified Party if the Indemnifying Party obtains a non-appealable
+final judicial determination that such Losses arise solely out of the negligence
+or bad faith of such Indemnified Party in performing the obligations of such
+Indemnified Party under this Agreement or a breach by such Indemnified Party of
+its obligations under this Agreement.
+
+            (c) Contribution. If a claim for indemnification under this Section
+is unavailable to an Indemnified Party or is insufficient to hold such
+Indemnified Party harmless for any Losses in respect of which this Section would
+apply by its terms (other than by reason of exceptions provided in this
+Section), then each Indemnifying Party, in lieu of indemnifying such Indemnified
+Party, shall contribute to the amount paid or payable by such Indemnified Party
+as a result of such Losses in such proportion as is appropriate to reflect the
+relative benefits received by the Indemnifying Party on the one hand and the
+Indemnified Party on the other and the relative fault of the Indemnifying Party
+and Indemnified Party in connection with the actions or omissions that resulted
+in such Losses as well as any other relevant equitable considerations. The
+relative fault of such Indemnifying Party and Indemnified Party shall be
+determined by reference to, among other things, whether there was a judicial
+determination that such Losses arise in part out of the negligence or bad faith
+of the Indemnified Party in performing the obligations of such Indemnified Party
+under this Agreement or the Indemnified Party's breach of its obligations under
+this Agreement. The amount paid or payable by a party as a result of any Losses
+shall be deemed to include any attorneys' or other fees or expenses incurred by
+such party in connection with any Proceeding to the extent such party would have
+been indemnified for such fees or expenses if the indemnification provided for
+in this Section was available to such party.
+
+            (d) Non-Exclusivity. The indemnity and contribution agreements
+contained in this Section are in addition to any obligation or liability that
+the Indemnifying Parties may have to the Indemnified Parties.
+
+      4.9 Sale of Langley Consideration Shares. Langley shall assist the Target
+Company in setting up and maintaining a trading account at a registered broker
+in the United Kingdom to facilitate the sale of the Langley Consideration
+Shares. Broker's commissions in the trading account shall not exceed one half
+percent (0.5%).
+
+      4.10 Lock Up by Langley. Langley shall not sell, transfer or assign all or
+any of the shares of Consideration Stock for a period of two (2) years following
+the Closing, without the written consent of the Target Company, which consent
+may be withheld in the Target Company's sole discretion.
+
+
+                                       19
+<PAGE>
+
+      4.11 Additional Stock Purchase Agreements. This Agreement is one of a
+series of Stock Purchase Agreements ("Additional Purchase Agreements") between
+Langley and at least seventeen (17) other companies containing substantially
+identical terms and conditions obligating Langley to issue shares with a value
+of at least $100,000,000 in the aggregate. The Closing of this Agreement is
+conditioned upon the Closing of the Additional Purchase Agreements.
+
+                                   ARTICLE V
+                                  MISCELLANEOUS
+
+      5.1 Fees and Expenses. Except as set forth in this Agreement, each party
+shall pay the fees and expenses of its advisers, counsel, accountants and other
+experts, if any, and all other expenses incurred by such party incident to the
+negotiation, preparation, execution, delivery and performance of this Agreement.
+The Target Company shall pay all stamp and other taxes and duties levied in
+connection with the issuance of the shares of Consideration Stock pursuant
+hereto. Langley shall be responsible for any taxes payable by Langley that may
+arise as a result of the investment hereunder or the transactions contemplated
+by this Agreement or any other Transaction Document. The Target Company agrees
+to pay $7,500 to G&P for legal fees associated with the transactions
+contemplated by this Agreement at Closing. The Target Company shall pay all
+costs, expenses, fees and all taxes incident to and in connection with: (A) the
+issuance and delivery of the Consideration Stock, (B) the exemption from
+registration of the Consideration Stock for offer and sale to Langley under the
+securities or Blue Sky laws of the applicable jurisdictions, and (C) the
+preparation of certificates for the Consideration Stock (including, without
+limitation, printing and engraving thereof), and (D) all fees and expenses of
+counsel and accountants of the Target Company.
+
+      5.2 Entire Agreement This Agreement, together with all of the Exhibits and
+Schedules annexed hereto, and any other Transaction Document contains the entire
+understanding of the parties with respect to the subject matter hereof and
+supersede all prior agreements and understandings, oral or written, with respect
+to such matters. This Agreement shall be deemed to have been drafted and
+negotiated by both parties hereto and no presumptions as to interpretation,
+construction or enforceability shall be made by or against either party in such
+regard.
+
+      5.3 Notices. Any notice or other communication required or permitted to be
+given hereunder shall be in writing and shall be deemed to have been duly given
+upon facsimile transmission (with written transmission confirmation report) at
+the number designated below (if delivered on a Business Day during normal
+business hours where such notice is to be received), or the first Business Day
+following such delivery (if delivered other than on a Business Day during normal
+business hours where such notice is to be received) whichever shall first occur.
+The addresses for such communications shall be:
+
+
+                                       20
+<PAGE>
+
+                  If to the Target Company:    Vital Living, Inc.
+                                               5080 North 40th Street
+                                               Suite 105
+                                               Phoenix, Arizona 85018
+                                               Attn:  President and CEO
+                                               Tel:   (602) 952-9909
+                                               Fax:   (602) 952-6907
+
+                  With copies to:
+
+
+                                               Tel:  (      )
+                                               Fax:  (     )
+
+                  If to Langley:               Langley Park Investments PLC
+                                               30 Farringdon Street
+                                               London EC4A 4HJ
+                                               Attn: Harry Pearl
+                                               Tel: 44.207.569.0044
+                                               Fax: 44.207.724.0090
+
+                  With copies to:              Gottbetter & Partners, LLP
+                                               488 Madison Avenue, 12th Floor
+                                               New York, NY 10022
+                                               Attn:  Adam S. Gottbetter, Esq.
+                                               Tel:  (212) 400-6900
+                                               Fax:  (212) 400-6901
+
+or such other address as may be designated hereafter by notice given pursuant to
+the terms of this Section 5.3.
+
+      5.4 Amendments; Waivers. No provision of this Agreement may be waived or
+amended except in a written instrument signed, in the case of an amendment, by
+both the Target Company and Langley, or, in the case of a waiver, by the party
+against whom enforcement of any such waiver is sought. No waiver of any default
+with respect to any provision, condition or requirement of this Agreement shall
+be deemed to be a continuing waiver in the future or a waiver of any other
+provision, condition or requirement hereof, nor shall any delay or omission of
+either party to exercise any right hereunder in any manner impair the exercise
+of any such right accruing to it thereafter.
+
+      5.5 Headings. The headings herein are for convenience only, do not
+constitute a part of this Agreement and shall not be deemed to limit or affect
+any of the provisions hereof.
+
+      5.6 Successors and Assigns. This Agreement shall be binding upon and inure
+to the benefit of the parties and their respective successors and permitted
+assigns. The assignment by a party of this Agreement or any rights hereunder
+shall not affect the obligations of such party under this Agreement.
+
+
+                                       21
+<PAGE>
+
+      5.7 No Third Party Beneficiaries. This Agreement is intended for the
+benefit of the parties hereto and their respective permitted successors and
+assigns and is not for the benefit of, nor may any provision hereof be enforced
+by, any other person.
+
+      5.8 Governing Law; Venue; Service of Process. The parties hereto
+acknowledge that the transactions contemplated by this Agreement and the
+exhibits hereto bear a reasonable relation to the State of New York. The parties
+hereto agree that the internal laws of the State of New York shall govern this
+Agreement and the exhibits hereto, including, but not limited to, all issues
+related to usury. Any action to enforce the terms of this Agreement or any of
+its exhibits, or any other Transaction Document shall be brought exclusively in
+the state and/or federal courts situated in the County and State of New York. If
+and only if New York declines jurisdiction within the State of New York, such
+action shall be brought in the State and County where the Target Company's
+principle place of business is situated. Service of process in any action by
+Langley or the Target Company to enforce the terms of this Agreement may be made
+by serving a copy of the summons and complaint, in addition to any other
+relevant documents, by commercial overnight courier to the other party at its
+principal address set forth in this Agreement.
+
+      5.9 Survival. The representations and warranties of the Target Company and
+Langley contained in Article III and the agreements and covenants of the parties
+contained in Article IV and this Article V shall survive the Closing.
+
+      5.10 Counterpart Signatures. This Agreement may be executed in two or more
+counterparts, all of which when taken together shall be considered one and the
+same agreement and shall become effective when counterparts have been signed by
+each party and delivered to the other party, it being understood that both
+parties need not sign the same counterpart. In the event that any signature is
+delivered by facsimile transmission, such signature shall create a valid and
+binding obligation of the party executing (or on whose behalf such signature is
+executed) the same with the same force and effect as if such facsimile signature
+page were an original thereof.
+
+      5.11 Publicity. The Target Company and Langley shall consult with each
+other in issuing any press releases or otherwise making public statements with
+respect to the transactions contemplated hereby and neither party shall issue
+any such press release or otherwise make any such public statement without the
+prior written consent of the other, which consent shall not be unreasonably
+withheld or delayed, unless counsel for the disclosing party deems such public
+statement to be required by applicable federal and/or state securities laws, in
+which case, they will provide each other with a reasonable opportunity to
+comment thereon. Except as otherwise required by applicable law or regulation,
+the Target Company will not disclose to any third party (excluding its legal
+counsel, accountants and representatives) the name of Langley.
+
+      5.12 Severability. In case any one or more of the provisions of this
+Agreement shall be invalid or unenforceable in any respect, the validity and
+enforceability of the remaining terms and provisions of this Agreement shall not
+in any way be affected or impaired thereby and the parties will attempt to agree
+upon a valid and enforceable provision which shall be a reasonable substitute
+therefore, and upon so agreeing, shall incorporate such substitute provision in
+this Agreement.
+
+
+                                       22
+<PAGE>
+
+      5.13 Limitation of Remedies. With respect to claims by the Target Company
+or any person acting by or through the Target Company, or by Langley or any
+person acting through Langley, for remedies at law or at equity relating to or
+arising out of a breach of this Agreement, liability, if any, shall, in no
+event, include loss of profits or incidental, indirect, exemplary, punitive,
+special or consequential damages of any kind.
+
+
+                           [ SIGNATURE PAGE FOLLOWS ]
+
+
+                                       23
+<PAGE>
+
+      IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be
+duly executed as of the date first indicated above.
+
+                                         Target Company:
+
+                                         Vital Living, Inc.
+
+
+                                         By:  _________________________
+                                         Name:  _______________________
+                                         Title:  _______________________
+
+
+
+                                         Langley:
+
+                                         Dungarvon Associates, Inc. on behalf of
+                                         Langley Park Investments Plc.
+                                         By: __________________________
+                                         Name: ________________________
+                                         Title: _________________________
+
+                                       24
+
+
+</TEXT>
+</DOCUMENT>

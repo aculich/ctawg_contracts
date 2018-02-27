@@ -1,0 +1,625 @@
+<DOCUMENT>
+<TYPE>EX-10.62
+<SEQUENCE>3
+<FILENAME>doc3.txt
+<DESCRIPTION>ESCROW AGREEMENT
+<TEXT>
+
+                                                                   EXHIBIT 10.62
+
+
+
+
+                                       15
+
+
+
+
+
+
+                                ESCROW AGREEMENT
+                                ----------------
+
+     THIS  ESCROW  AGREEMENT  (this  "Agreement") is made and entered into as of
+February  7,  2006  by  and  among  NS8 CORPORATION, a Delaware corporation (the
+"Company");  the  Buyer(s)  listed  on  the Securities Purchase Agreement, dated
+November  14,  2005,  as  amended  on the  date  hereof (also referred to as the
+"Investor(s)"),  and  GALLAGHER, BRIODY & BUTLER, as Escrow Agent hereunder (the
+"Escrow  Agent").
+
+                                   BACKGROUND
+                                   ----------
+
+     WHEREAS, the Company and the Investor(s) entered into a Securities Purchase
+Agreement  (the  "Securities  Purchase  Agreement"), dated November 14, 2005, as
+                  -------------------------------
+amended  on the date hereof, pursuant to which the Company has sold and proposes
+to sell additional secured convertible debentures (the "Convertible Debentures")
+                                                        ----------------------
+which  shall  be  convertible into the Company's Common Stock, par value $0.0001
+per  share  (the  "Common  Stock"),  for  a  total purchase price of up to Three
+                   -------------
+Million  One  Hundred  Sixty  Three  Thousand  Four  Hundred  Thirty  Dollars
+($3,163,430).  Pursuant  to  the  Securities Purchase Agreement, the Investor(s)
+have  deposited the purchase amount in a segregated escrow account to be held by
+Escrow  Agent  in order to effectuate a disbursement to the Company at a closing
+to  be  held  as set forth in the Securities Purchase Agreement (the "Closing").
+                                                                      -------
+
+     WHEREAS,  the  Company  intends  to  sell  Convertible  Securities  (the
+"Offering").
+--------
+
+     WHEREAS,  the  Company,  the  Investors and David Gonzalez, Esq. (the"Prior
+Escrow  Agent")  did  enter  into  an  Escrow Agreement, dated November 14, 2005
+(the"Original  Escrow Agreement"), and the Company and the Investors delivered a
+joint written direction to the Prior Escrow Agent on January 25, 2006 to deliver
+all  amounts  subject  to  the  Original  Escrow  Agreement to the Escrow Agent.
+
+     WHEREAS, Escrow Agent hereby agrees to accept, hold, and disburse the funds
+deposited  with  it  in  accordance  with  the  terms  of  this  Agreement.
+
+     WHEREAS,  in  order  to  establish  the  escrow  of funds and to effect the
+provisions of the Securities Purchase Agreement, the parties hereto have entered
+into  this  Agreement.
+
+     NOW  THEREFORE,  in  consideration of the foregoing, it is hereby agreed as
+follows:
+
+     1.     Definitions.  The  following terms shall have the following meanings
+            -----------
+when  used  herein:
+
+     a.     "Escrow  Funds"  shall  mean  the  funds deposited with Escrow Agent
+             -------------
+pursuant  to  this  Agreement.
+
+
+<PAGE>
+
+     b.     "Joint Written Direction" shall mean a written direction executed by
+             -----------------------
+the  Investor(s)  and  the  Company  directing Escrow Agent to disburse all or a
+portion  of  the  Escrow  Funds  or  to  take  or refrain from taking any action
+pursuant  to  this  Agreement.
+
+     c.     "Escrow  Period"  shall  begin with the commencement of the Offering
+            --------------
+and shall  terminate  upon  the  earlier  to  occur  of  the  following  dates:
+
+     (i)     The  date  upon which Escrow Agent confirms that it has received in
+the  Escrow  Account  all  of  the  proceeds  of  the  sale  of  the Convertible
+Debentures;
+
+     (ii)     The date upon which a determination is made by the Company and the
+Investor(s)  to  terminate the Offering prior to the sale of all the Convertible
+Debentures.
+
+     During  the  Escrow  Period, the Company and the Investor(s) are aware that
+they are not entitled to any funds received into escrow and no amounts deposited
+in  the  Escrow  Account  shall  become  the  property  of  the  Company  or the
+Investor(s)  or  any  other entity, or be subject to the debts of the Company or
+the  Investor(s)  or  any  other  entity.
+
+     2.     Appointment  of  and Acceptance by Escrow Agent.  a. The Investor(s)
+            -----------------------------------------------
+and  the Company hereby appoint Escrow Agent to serve as Escrow Agent hereunder.
+Escrow  Agent hereby accepts such appointment and, upon receipt by wire transfer
+of  the  Escrow Funds in accordance with Section 3 below, agrees to hold, invest
+and  disburse  the  Escrow  Funds  in  accordance  with  this  Agreement.
+
+     b     The Company hereby acknowledges that the Escrow Agent is special
+counsel  to  the  Investor  in  certain matters.  The Company agrees that in the
+event  of  any  dispute  arising  in  connection  with  this Escrow Agreement or
+otherwise  in  connection  with  any  transaction  or agreement contemplated and
+referenced  herein, the Escrow Agent shall be permitted to continue to represent
+the  Investor  and  the  Company  will not seek to disqualify such counsel.  The
+Company  and  the  Investor hereby waive any conflict of interest arising out of
+the  Escrow Agent's representation of the Investor and the escrow services to be
+provided by the Escrow Agent under this Agreement.  The Investor and the Company
+acknowledge  and  confirm  that  the  Escrow Agent is not serving in a fiduciary
+capacity  under this Agreement but rather is providing the services at set forth
+herein.
+
+     3.     Creation  of  Escrow  Account.  On  or  prior  to  the  date  of the
+            -----------------------------
+commencement of the Offering, the parties shall establish an escrow account with
+the Escrow Agent, which escrow account shall be entitled as follows:  Gallagher,
+Briody  &  Butler  Attorney  Trust  Account,  NS8  Corporation/Cornell  Capital
+Partners,  LP  Sub-Account for the deposit of the Escrow Funds.  The Investor(s)
+will  instruct  subscribers  to wire funds to the account of the Escrow Agent as
+follows:
+
+
+<PAGE>
+
+Bank:
+Routing  #:
+Account  #:
+Name on Account:
+Name  on  Sub-Account:
+
+     4.     Deposits  into  the Escrow Account.  The Investor(s) and the Company
+            ----------------------------------
+agree  that  they  shall promptly deliver a joint written direction to the Prior
+Escrow  Agent  instructing the Prior Escrow Agent to deliver all funds remaining
+in  Account  #  2000014931134 subject to the Original Escrow Agreement to Escrow
+Agent  for  deposit  in  the  Escrow  Account.
+
+     5.     Disbursements  from  the  Escrow  Account.
+            -----------------------------------------
+
+     a.     The  Escrow  Agent  will  continue  to hold such funds until Cornell
+Capital  Partners,  LP  on behalf of the Investor(s) and Company execute a Joint
+Written  Direction  directing  the  Escrow  Agent  to  disburse the Escrow Funds
+pursuant  to  Joint Written Direction signed by the Company and the Investor(s).
+In  disbursing  such  funds,  Escrow Agent is authorized to rely upon such Joint
+Written  Direction  from  the  Company  and  the  Investor(s) and may accept the
+signature of any signatory from the Company listed on the signature page to this
+Agreement  and the signature of any signatory from the Investor(s) listed on the
+signature  page  to  this  Agreement.
+
+     b.     Reserved.
+
+     c.     In  the  event  Escrow  Agent does receive the amount of the Escrow
+Funds  prior  to  expiration  of  the Escrow Period, in no event will the Escrow
+Funds  be  released to the Company until such amount is received by Escrow Agent
+in  collected  funds. For purposes of this Agreement, the term "collected funds"
+shall  mean all funds received by Escrow Agent which have cleared normal banking
+channels  and  are  in  the  form  of  cash.
+
+     6.     Collection  Procedure.  Escrow Agent is hereby authorized to deposit
+            ---------------------
+the  proceeds  of  each  wire  in  the  Escrow  Account.
+
+     7.     Suspension  of  Performance:  Disbursement  Into  Court.  If at any
+            -------------------------------------------------------
+time, there shall exist any dispute between the Company and the Investor(s) with
+respect  to  holding  or  disposition  of any portion of the Escrow Funds or any
+other  obligations  of Escrow Agent hereunder, or if at any time Escrow Agent is
+unable to determine, to Escrow Agent's sole satisfaction, the proper disposition
+of any portion of the Escrow Funds or Escrow Agent's proper actions with respect
+to its obligations hereunder, or if the parties have not within thirty (30) days
+of the furnishing by Escrow Agent of a notice of resignation pursuant to Section
+9 hereof, appointed a successor Escrow Agent to act hereunder, then Escrow Agent
+may,  in  its  sole  discretion,  take  either or both of the following actions:
+
+
+<PAGE>
+
+     a.     suspend the performance of any of its obligations (including without
+limitation  any disbursement obligations) under this Escrow Agreement until such
+dispute  or  uncertainty  shall  be  resolved to the sole satisfaction of Escrow
+Agent or until a successor Escrow Agent shall be appointed (as the case may be);
+provided  however,  Escrow  Agent  shall  continue to invest the Escrow Funds in
+accordance  with  Section  8  hereof;  and/or
+
+     b.     petition  (by  means  of  an  interpleader  action  or  any  other
+appropriate  method) any court of competent jurisdiction in any venue convenient
+to  Escrow  Agent, for instructions with respect to such dispute or uncertainty,
+and  to  the  extent  required  by  law,  pay  into  such court, for holding and
+disposition in accordance with the instructions of such court, all funds held by
+it  in the Escrow Funds, after deduction and payment to Escrow Agent of all fees
+and  expenses  (including  court costs and attorneys' fees) payable to, incurred
+by, or expected to be incurred by Escrow Agent in connection with performance of
+its  duties  and  the  exercise  of  its  rights  hereunder.
+
+     c.     Escrow  Agent  shall  have  no  liability  to  the  Company,  the
+Investor(s), or any person with respect to any such suspension of performance or
+disbursement  into  court,  specifically  including  any  liability  or  claimed
+liability that may arise, or be alleged to have arisen, out of or as a result of
+any  delay in the disbursement of funds held in the Escrow Funds or any delay in
+with  respect  to  any  other  action  required  or  requested  of Escrow Agent.
+
+     8.     Investment  of  Escrow Funds.  Escrow Agent shall deposit the Escrow
+            ----------------------------
+Funds  in  a non-interest bearing sub-account within the Escrow Agent's attorney
+trust  account.
+
+     If Escrow Agent has not received a Joint Written Direction at any time that
+an  investment  decision  must  be  made, Escrow Agent shall maintain the Escrow
+Funds,  or such portion thereof, as to which no Joint Written Direction has been
+received,  in  a  non-interest  bearing  sub-account  within  the Escrow Agent's
+attorney  trust  account.
+
+     9.     Resignation  and  Removal  of Escrow Agent.  Escrow Agent may resign
+            ------------------------------------------
+from  the  performance of its duties hereunder at any time by giving thirty (30)
+days'  prior  written  notice  to the parties or may be removed, with or without
+cause,  by  the parties, acting jointly, by furnishing a Joint Written Direction
+to  Escrow  Agent,  at  any  time  by the giving of ten (10) days' prior written
+notice  to  Escrow  Agent  as  provided  herein  below.  Upon any such notice of
+resignation  or  removal, the representatives of the Investor(s) and the Company
+identified  in  Sections  13a.(iv)  and 13b.(iv), below, jointly shall appoint a
+successor  Escrow  Agent  hereunder,  which  shall  be  a commercial bank, trust
+company  or  other  financial institution with a combined capital and surplus in
+excess  of $10,000,000.00.  Upon the acceptance in writing of any appointment of
+Escrow  Agent hereunder by a successor Escrow Agent, such successor Escrow Agent
+shall  thereupon  succeed  to  and  become  vested  with all the rights, powers,
+privileges  and  duties  of  the  retiring Escrow Agent, and the retiring Escrow
+Agent  shall  be  discharged  from  its duties and obligations under this Escrow
+Agreement,  but  shall not be discharged from any liability for actions taken as
+Escrow  Agent  hereunder  prior  to  such succession.  After any retiring Escrow
+Agent's  resignation  or  removal, the provisions of this Escrow Agreement shall
+inure  to its benefit as to any actions taken or omitted to be taken by it while
+it  was  Escrow  Agent  under  this Escrow Agreement.  The retiring Escrow Agent
+
+
+<PAGE>
+
+shall  transmit  all  records  pertaining  to the Escrow Funds and shall pay all
+funds held by it in the Escrow Funds to the successor Escrow Agent, after making
+copies  of  such  records as the retiring Escrow Agent deems advisable and after
+deduction  and  payment  to  the  retiring Escrow Agent of all fees and expenses
+(including court costs and attorneys' fees) payable to, incurred by, or expected
+to  be  incurred by the retiring Escrow Agent in connection with the performance
+of  its  duties  and  the  exercise  of  its  rights  hereunder.
+
+10.     Liability  of  Escrow  Agent.
+        ----------------------------
+
+     a.     Escrow  Agent  shall have no liability or obligation with respect to
+the  Escrow  Funds  except  for  Escrow  Agent's  willful  misconduct  or  gross
+negligence.  Escrow  Agent's  sole  responsibility shall be for the safekeeping,
+investment, and disbursement of the Escrow Funds in accordance with the terms of
+this  Agreement.  Escrow  Agent  shall have no implied duties or obligations and
+shall  not  be  charged with knowledge or notice or any fact or circumstance not
+specifically  set  forth herein.  Escrow Agent may rely upon any instrument, not
+only  as  to  its  due execution, validity and effectiveness, but also as to the
+truth and accuracy of any information contained herein, which Escrow Agent shall
+in  good  faith  believe  to be genuine, to have been signed or presented by the
+person  or  parties purporting to sign the same and conform to the provisions of
+this  Agreement.  In  no  event  shall  Escrow  Agent  be liable for incidental,
+indirect,  special,  and  consequential or punitive damages.  Escrow Agent shall
+not  be  obligated  to  take  any  legal  action  or  commence any proceeding in
+connection  with  the  Escrow  Funds,  any  account  in  which  Escrow Funds are
+deposited,  this Agreement or the Purchase Agreement, or to appear in, prosecute
+or  defend  any such legal action or proceeding.  Escrow Agent may consult legal
+counsel  selected  by  it  in  any  event  of  any  dispute  or  question  as to
+construction  of  any  of the provisions hereof or of any other agreement or its
+duties  hereunder,  or  relating  to any dispute involving any party hereto, and
+shall  incur  no  liability  and  shall  be fully indemnified from any liability
+whatsoever  in  acting  in  accordance  with the opinion or instructions of such
+counsel.  The  Company  and the Investor(s) jointly and severally shall promptly
+pay,  upon  demand,  the  reasonable  fees  and expenses of any such counsel and
+Escrow  Agent is hereby authorized to pay such fees and expenses from funds held
+in  escrow.
+
+     b.     Escrow Agent is hereby authorized, in its sole discretion, to comply
+with  orders  issued  or process entered by any court with respect to the Escrow
+Funds, without determination by Escrow Agent of such court's jurisdiction in the
+matter. If any portion of the Escrow Funds is at any time attached, garnished or
+levied upon under any court order, or in case the payment, assignment, transfer,
+conveyance  or  delivery of any such property shall be stayed or enjoined by any
+court  order,  or  in  any  case  any  order judgment or decree shall be made or
+entered  by  any  court affecting such property or any part thereof, then and in
+any such event, Escrow Agent is authorized, in its sole discretion, to rely upon
+and  comply  with any such order, writ judgment or decree which it is advised by
+legal  counsel  selected  by it, binding upon it, without the need for appeal or
+other  action;  and if Escrow Agent complies with any such order, writ, judgment
+or  decree,  it shall not be liable to any of the parties hereto or to any other
+person  or  entity  by  reason  of  such compliance even though such order, writ
+judgment  or  decree may be subsequently reversed, modified, annulled, set aside
+or  vacated.
+
+     11.     Indemnification  of  Escrow Agent.  From and at all times after the
+             ---------------------------------
+date of this Agreement, the parties jointly and severally, shall, to the fullest
+extent  permitted  by  law and to the extent provided herein, indemnify and hold
+
+
+<PAGE>
+
+harmless  Escrow  Agent and each partner, director, officer, employee, attorney,
+agent  and  affiliate  of Escrow Agent (collectively, the "Indemnified Parties")
+                                                           -------------------
+against  any  and  all  actions, claims (whether or not valid), losses, damages,
+liabilities,  costs  and  expenses  of  any kind or nature whatsoever (including
+without  limitation  reasonable attorney's fees, costs and expenses) incurred by
+or  asserted  against  any  of  the  Indemnified Parties from and after the date
+hereof,  whether  direct,  indirect  or consequential, as a result of or arising
+from  or  in  any way relating to any claim, demand, suit, action, or proceeding
+(including  any  inquiry  or  investigation)  by  any  person, including without
+limitation  the  parties  to  this  Agreement,  whether threatened or initiated,
+asserting a claim for any legal or equitable remedy against any person under any
+statute  or  regulation,  including,  but  not  limited to, any federal or state
+securities  laws,  or  under  any  common  law  or equitable cause or otherwise,
+arising  from  or  in  connection  with the negotiation, preparation, execution,
+performance  or  failure  of  performance  of  this Agreement or any transaction
+contemplated herein, whether or not any such Indemnified Party is a party to any
+such  action  or  proceeding,  suit  or  the  target  of  any  such  inquiry  or
+investigation; provided, however, that no Indemnified Party shall have the right
+to  be  indemnified  hereunder  for  liability  finally determined by a court of
+competent  jurisdiction, subject to no further appeal, to have resulted from the
+gross  negligence  or willful misconduct of such Indemnified Party.  If any such
+action or claim shall be brought or asserted against any Indemnified Party, such
+Indemnified  Party  shall  promptly  notify  the  Company  and  the  Investor(s)
+hereunder  in  writing,  and  the  Investor(s)  and the Company shall assume the
+defense  thereof,  including  the  employment  of counsel and the payment of all
+expenses.  Such  Indemnified Party shall, in its sole discretion, have the right
+to employ separate counsel (who may be selected by such Indemnified Party in its
+sole discretion) in any such action and to participate and to participate in the
+defense thereof, and the fees and expenses of such counsel shall be paid by such
+Indemnified  Party,  except  that  the  Investor(s)  and/or the Company shall be
+required  to  pay  such  fees  and expense if (a) the Investor(s) or the Company
+agree  to  pay such fees and expenses, or (b) the Investor(s) and/or the Company
+shall  fail to assume the defense of such action or proceeding or shall fail, in
+the  sole  discretion  of  such  Indemnified Party, to employ counsel reasonably
+satisfactory  to the Indemnified Party in any such action or proceeding, (c) the
+Investor(s)  and the Company are  the plaintiff in any such action or proceeding
+or  (d)  the  named  or  potential  parties  to  any  such  action or proceeding
+(including  any  potentially  impleaded  parties)  include  both the Indemnified
+Party,  the  Company and/or the Investor(s) and the Indemnified Party shall have
+been  advised  by counsel that there may be one or more legal defenses available
+to  it  which are different from or additional to those available to the Company
+or  the  Investor(s).  The  Investor(s)  and  the  Company  shall be jointly and
+severally  liable  to pay fees and expenses of counsel pursuant to the preceding
+sentence, except that any obligation to pay under clause (a) shall apply only to
+the party so agreeing.  All such fees and expenses payable by the Company and/or
+the  Investor(s)  pursuant  to the foregoing sentence shall be paid from time to
+time  as  incurred,  both  in advance of and after the final disposition of such
+action  or  claim.  The  obligations  of  the  parties  under this section shall
+survive  any  termination  of  this Agreement, and resignation or removal of the
+Escrow  Agent  shall  be  independent  of  any  obligation  of  Escrow  Agent.
+
+     The parties agree that neither payment by the Company or the Investor(s) of
+any  claim  by  Escrow  Agent for indemnification hereunder shall impair, limit,
+modify,  or  affect,  as between the Investor(s) and the Company, the respective
+rights  and obligations of Investor(s), on the one hand, and the Company, on the
+other  hand.
+
+
+<PAGE>
+
+     12.     Expenses  of  Escrow  Agent.  (a) Except as set forth in Section 11
+             ---------------------------
+the Company shall reimburse Escrow Agent for all of its reasonable out-of-pocket
+expenses,  including  attorneys'  fees, travel expenses, telephone and facsimile
+transmission  costs,  postage  (including  express  mail  and overnight delivery
+charges),  copying  charges  and  the  like.  All  of  the  compensation  and
+reimbursement  obligations  set  forth  in  this Section shall be payable by the
+Company, upon demand by Escrow Agent.  The obligations of the Company under this
+Section  shall  survive any termination of this Agreement and the resignation or
+removal  of  Escrow  Agent.
+
+     (b)     The  Company shall pay the Escrow Agent's fees as follows: (i) $750
+initial fee due upon receipt by the Escrow Agent of the Escrow Funds and (ii) as
+billed  thereafter  (payment due within 30 days of receipt of invoice) at Escrow
+Agent's  then  current  hourly  rates  plus  out-of-pocket  expenses.
+
+     13.     Warranties.
+             ----------
+
+     a.     The  Investor(s)  makes the following representations and warranties
+to  Escrow  Agent:
+
+     (i)     The Investor(s) has full power and authority to execute and deliver
+this  Agreement  and  to  perform  its  obligations  hereunder.
+
+     (ii)     This  Agreement  has been duly approved by all necessary action of
+the  Investor(s), including any necessary approval of the limited partner of the
+Investor(s) or necessary corporate approval, as applicable, has been executed by
+duly  authorized officers of the Investor(s), enforceable in accordance with its
+terms.
+
+     (iii)     The  execution,  delivery,  and performance of the Investor(s) of
+this  Agreement  will  not  violate, conflict with, or cause a default under any
+agreement of limited partnership of Investor(s) or the articles of incorporation
+or  bylaws of the Investor(s) (as applicable), any applicable law or regulation,
+any court order or administrative ruling or degree to which the Investor(s) is a
+party  or any of its property is subject, or any agreement, contract, indenture,
+or  other  binding  arrangement.
+
+     (iv)     Mark  Angelo  has been duly appointed to act as the representative
+of  the  Investor(s)  hereunder  and  has  full  power and authority to execute,
+deliver,  and  perform  this  Escrow Agreement, to execute and deliver any Joint
+Written  Direction,  to amend, modify, or waive any provision of this Agreement,
+and  to take any and all other actions as the Investor(s)'s representative under
+this Agreement, all without further consent or direction form, or notice to, the
+Investor(s)  or  any  other  party.
+
+     (v)     No  party other than  the parties hereto and the Investor(s)s have,
+or  shall  have, any lien, claim or security interest in the Escrow Funds or any
+part  thereof.  No  financing  statement under the Uniform Commercial Code is on
+file  in any jurisdiction claiming a security interest in or describing (whether
+specifically  or  generally)  the  Escrow  Funds  or  any  part  thereof.
+
+     (vi)     All  of  the  representations  and  warranties  of the Investor(s)
+contained  herein  are  true and complete as of the date hereof and will be true
+and  complete  at  the  time  of  any  disbursement  from  the  Escrow  Funds.
+
+
+<PAGE>
+
+     b.     The  Company  makes  the following representations and warranties to
+the  Escrow  Agent:
+
+     (i)     The  Company is a corporation duly organized, validly existing, and
+in  good standing under the laws of the State of Delaware and has full power and
+authority  to  execute and deliver this Agreement and to perform its obligations
+hereunder.
+
+     (ii)     This  Agreement  has been duly approved by all necessary corporate
+action  of  the  Company, including any necessary shareholder approval, has been
+executed  by  duly authorized officers of the Company, enforceable in accordance
+with  its  terms.
+
+     (iii)     The  execution,  delivery,  and  performance  by  the  Company of
+this  Agreement is in accordance with the Securities Purchase Agreement and will
+not  violate,  conflict  with,  or  cause  a  default  under  the certificate of
+incorporation  or  bylaws  of the Company, any applicable law or regulation, any
+court  order  or administrative ruling or decree to which the Company is a party
+or  any  of  its  property is subject, or any agreement, contract, indenture, or
+other  binding  arrangement,  including  without  limitation  to  the Securities
+Purchase  Agreement,  to  which  the  Company  is  a  party.
+
+     (iv)     Anthony  Alda has been duly appointed to act as the representative
+of  the  Company hereunder and has full power and authority to execute, deliver,
+and  perform this Agreement, to execute and deliver any Joint Written Direction,
+to  amend, modify or waive any provision of this Agreement and to take all other
+actions  as  the  Company's  Representative  under  this  Agreement, all without
+further consent or direction from, or notice to, the Company or any other party.
+
+     (v)     No  party  other than the parties hereto and the Investor(s)s have,
+or  shall  have, any lien, claim or security interest in the Escrow Funds or any
+part  thereof.  No  financing  statement under the Uniform Commercial Code is on
+file  in any jurisdiction claiming a security interest in or describing (whether
+specifically  or  generally)  the  Escrow  Funds  or  any  part  thereof.
+
+     (vi)     All of the representations and warranties of the Company contained
+herein are true and complete as of the date hereof and will be true and complete
+at  the  time  of  any  disbursement  from  the  Escrow  Funds.
+
+     14.     Consent  to  Jurisdiction  and  Venue.  In the event that any party
+             -------------------------------------
+hereto  commences a lawsuit or other proceeding relating to or arising from this
+Agreement,  the  parties  hereto agree that the United States District Court for
+the  District  of New Jersey shall have the sole and exclusive jurisdiction over
+any  such  proceeding.  If  all  such  courts  lack  federal  subject  matter
+jurisdiction,  the parties agree that the Superior Court Division of New Jersey,
+Chancery  Division  of Hudson County shall have sole and exclusive jurisdiction.
+Any  of  these  courts  shall  be  proper venue for any such lawsuit or judicial
+proceeding  and  the  parties  hereto  waive  any  objection to such venue.  The
+parties  hereto consent to and agree to submit to the jurisdiction of any of the
+
+
+<PAGE>
+
+courts  specified  herein  and  agree  to  accept the service of process to vest
+personal  jurisdiction  over  them  in  any  of  these  courts.
+
+     15.     Notice.  All notices and other communications hereunder shall be in
+             ------
+writing and shall be deemed to have been validly served, given or delivered five
+(5) days after deposit in the United States mails, by certified mail with return
+receipt  requested  and  postage prepaid, when delivered personally, one (1) day
+delivered  to  any  overnight  courier,  or  when  transmitted  by  facsimile
+transmission  and  upon confirmation of receipt and addressed to the party to be
+notified  as  follows:
+If  to  Investor(s),  to:     Cornell  Capital  Partners,  LP
+                              101  Hudson  Street  -  Suite  3700
+                              Jersey  City,  NJ  07302
+                              Attention:  Mark  Angelo
+                              Portfolio  Manager
+                              Telephone:  (201)  985-8300
+                              Facsimile:   (201)  985-8266
+
+If  to  Escrow  Agent,  to:   Gallagher,  Briody  Butler
+                              Forrestal  Village,  155  Village  Boulevard
+                              Suite  201
+                              Princeton,  NJ  08540
+                              Attention:       John  Butler
+                              Telephone:  (609)  452-6000
+                              Facsimile:  (609)  452-0090
+
+If  to  the  Company,  to:    NS8  Corporation
+                              600  University  Street  -  Suite  1525
+                              Seattle,  WA  98101
+                              Attention:  Anthony  Alda
+                              Telephone:  (604)  677-6994
+                              Facsimile:  (604)  677-7011
+
+With  a  copy  to:            McGuireWoods,  LLP
+                              1345  Avenue  of  the  Americas
+                              New  York,  NY  10105
+                              Attention:  Louis  W.  Zehil,  Esq.
+                              Telephone:  (212)  548-2138
+                              Facsimile:  (212)  680-2175
+
+Or  to such other address as each party may designate for itself by like notice.
+
+     16.     Amendments  or  Waiver.  This  Agreement  may  be  changed, waived,
+             ----------------------
+discharged  or  terminated  only  by a writing signed by the parties hereto.  No
+delay or omission by any party in exercising any right with respect hereto shall
+operate as waiver.  A waiver on any one occasion shall not be construed as a bar
+to,  or  waiver  of,  any  right  or  remedy  on  any  future  occasion.
+
+
+<PAGE>
+
+     17.     Severability.  To  the  extent  any  provision of this Agreement is
+             ------------
+prohibited  by  or  invalid  under  applicable  law,  such  provision  shall  be
+ineffective  to  the  extent  of  such  prohibition,  or  invalidity,  without
+invalidating the remainder of such provision or the remaining provisions of this
+Agreement.
+
+     18.     Governing  Law.  This  Agreement shall be construed and interpreted
+             --------------
+in  accordance  with the internal laws of the State of New Jersey without giving
+effect  to  the  conflict  of  laws  principles  thereof.
+
+     19.     Entire  Agreement.  This Agreement constitutes the entire Agreement
+             -----------------
+between the parties relating to the holding, investment, and disbursement of the
+Escrow  Funds and sets forth in their entirety the obligations and duties of the
+Escrow  Agent  with  respect  to  the  Escrow  Funds.
+
+     20.     Binding  Effect.  All  of  the  terms of this Agreement, as amended
+             ---------------
+from  time  to  time,  shall  be  binding  upon,  inure to the benefit of and be
+enforceable  by the respective heirs, successors and assigns of the Investor(s),
+the  Company,  or  the  Escrow  Agent.
+
+     21.     Execution  of  Counterparts.  This  Agreement and any Joint Written
+             ---------------------------
+Direction  may  be  executed  in  counter  parts,  which  when so executed shall
+constitute  one  and  same  agreement  or  direction.
+
+     22.     Termination.  Upon  the  first  to occur of the disbursement of all
+             -----------
+amounts  in  the  Escrow  Account  pursuant  to  Joint Written Directions or the
+disbursement of all amounts in the Escrow Account into court pursuant to Section
+7  hereof, this Agreement shall terminate and Escrow Agent shall have no further
+obligation  or liability whatsoever with respect to this Agreement or the Escrow
+Funds.
+
+                  [REMAINDER OF PAGE INTENTIONALLY LEFT BLANK]
+
+
+<PAGE>
+
+     IN  WITNESS WHEREOF the parties have hereunto set their hands and seals the
+day  and  year  above  set  forth.
+
+                                       NS8  Corporation
+
+                                       By: /s/ Ricardo Rosado
+                                       Name:  Ricardo Rosado
+                                       Title:  CFO
+
+
+
+                                       Cornell  Capital  Partners,  LP
+
+                                       By:  Yorkville  Advisors,  LLC
+                                       Its:  General  Partner
+
+                                       By: /s/ Mark Angelo
+                                       Name:  Mark  Angelo
+                                       Title:  Portfolio  Manager
+
+
+                                       Gallagher,  Briody  &  Butler
+
+                                       By: /s/ John Butler
+                                       Name:  John  Butler
+                                       Title: Partner
+
+
+                              AUTHORIZED SIGNATURES
+                            FOR THE ISSUANCE OF JOINT
+                               WRITTEN DIRECTIONS
+
+Company           Investors
+-------           ---------
+
+Anthony  Alda     Mark  Angelo
+-------------     ------------
+
+
+<PAGE>
+
+</TEXT>
+</DOCUMENT>

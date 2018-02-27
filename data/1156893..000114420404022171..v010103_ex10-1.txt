@@ -1,0 +1,295 @@
+<DOCUMENT>
+<TYPE>EX-10.1
+<SEQUENCE>2
+<FILENAME>v010103_ex10-1.txt
+<TEXT>
+                                                                    EXHIBIT 10.1
+                                 PROMISSORY NOTE
+
+DECEMBER 10, 2004
+
+JERSEY CITY, NEW JERSEY                                               $2,500,000
+
+FOR VALUE RECEIVED, the undersigned, NS8 CORPORATION a Delaware corporation (the
+"Company"),  promises to pay CORNELL CAPITAL PARTNERS,  LP (the "Holder") at 101
+Hudson Street, Suite 3700, Jersey City, New Jersey 07302 or other address as the
+Holder shall  specify in writing,  the principal sum of TWO MILLION FIVE HUNDRED
+THOUSAND (U.S.) DOLLARS AND 00/100  ($2,500,000.00) and will be payable pursuant
+to the following terms:
+
+1. AMOUNT OF NOTE.  The face amount of this  Promissory  Note (this  "Note") and
+interest at the rate of twelve  percent (12%) per annum shall be payable  either
+out of the net proceeds to be received by the Company under that certain Standby
+Equity  Distribution  Agreement (the "Standby  Equity  Distribution  Agreement")
+dated as May 19, 2004 between the Company and the Holder,  or the Company  shall
+pay all  amounts  due under this Note shall be paid in full  within two  hundred
+three (203) calendar days of the date hereof,  regardless of the availability of
+proceeds under the Standby Equity Distribution  Agreement unless an extension is
+mutually  agreed to by the  parties in  writing.  The  Company  agrees to escrow
+twenty-four  (24) requests for advances  under the Standby  Equity  Distribution
+Agreement in an amount not less than ONE HUNDRED  THOUSAND  DOLLARS  ($100,000),
+and one (1) request for advance under the Standby Equity Distribution  Agreement
+in an amount not less than ONE HUNDRED NINETY-SEVEN THOUSAND EIGHT HUNDRED EIGHT
+DOLLARS AND TWENTY-TWO CENTS ($197,808.22) (individually referred to as "Advance
+Notice"  collectively  referred to "Advance  Notices")  as well as FIVE  MILLION
+(5,000,000)  shares of the  Company's  Common  Stock as required  under  Section
+2.2(c) of the Standby Equity Distribution Agreement (the "Escrowed Shares"). The
+Escrowed  Shares are only an estimation  of the shares of the  Company's  common
+stock necessary to repay the principal amount and interest due hereunder. In the
+event  that  during  the life of this  Note the  proceeds  from the sales of the
+Escrowed Shares are  insufficient to repay all amounts due hereunder the Company
+shall   immediately   escrow,   pursuant  to  the  irrevocable   transfer  agent
+instructions   dated  the  date  hereof   (the   "Irrevocable   Transfer   Agent
+Instructions")  such number of shares of the Company's common stock of which the
+proceeds of the sale of such shares shall be sufficient to repay all amounts due
+hereunder. The Advance Notices and the shares of the Company's Common Stock will
+be held in escrow by David Gonzalez,  Esq., which shall release such requests to
+the Holder every seven (7) calendar  days  commencing  on January 10, 2004.  The
+Holder  may at its sole  discretion  retain and apply the net  proceeds  of each
+advance  (after  deducting  any fees owed to the  Holder  under the terms of the
+Standby Equity  Distribution  Agreement) to the outstanding balance of this Note
+as existing  from time to time.  Interest  shall be payable upon the due date of
+this Note. If this Note is not paid in full when due, the outstanding  principal
+owed hereunder  shall be due and payable in full together with interest  thereon
+at the rate of twenty-four  percent (24%) per annum or the highest  permitted by
+applicable  law, if lower.  During the term of this Note the Company  shall have
+the option to repay the amounts due hereunder in immediately available funds and
+withdraw any Advance Notices yet to be effected.
+
+
+<PAGE>
+
+THE COMPANY HEREBY ACKNOWLEDGES THAT DAVID GONZALEZ,  ESQ. IS GENERAL COUNSEL TO
+THE HOLDER,  A PARTNER IN THE  GENERAL  PARTNER OF THE HOLDER AND COUNSEL TO THE
+HOLDER IN CONNECTION WITH THE TRANSACTIONS  CONTEMPLATED  AND REFERENCED  HEREIN
+AND WILL BE ACTING AS THE ESCROW  AGENT FOR  ADVANCE  NOTICES  AND SHARES OF THE
+COMPANY'S COMMON STOCK AS OUTLINED HEREIN AND IN THE IRREVOCABLE  TRANSFER AGENT
+INSTRUCTIONS  DATED THE DATE HEREOF. THE COMPANY AGREES THAT IN THE EVENT OF ANY
+DISPUTE ARISING IN CONNECTION  WITH THIS  TRANSACTION OR OTHERWISE IN CONNECTION
+WITH ANY TRANSACTION OR AGREEMENT  CONTEMPLATED AND REFERENCED HEREIN, THE DAVID
+GONZALEZ,  ESQ. SHALL BE PERMITTED TO CONTINUE TO REPRESENT THE INVESTOR AND THE
+COMPANY WILL NOT SEEK TO DISQUALIFY SUCH COUNSEL.
+
+2. WAIVER AND  CONSENT.  To the fullest  extent  permitted  by law and except as
+otherwise  provided  herein,  the Company waives demand,  presentment,  protest,
+notice of dishonor,  suit against or joinder of any other person,  and all other
+requirements necessary to charge or hold the Company liable with respect to this
+Note.
+
+3. COSTS, INDEMNITIES AND EXPENSES. In the event of default as described herein,
+the Company agrees to pay all  reasonable  fees and costs incurred by the Holder
+in  collecting  or  securing  or  attempting  to  collect  or secure  this Note,
+including  reasonable  attorneys'  fees and  expenses,  whether or not involving
+litigation,  collecting  upon  any  judgments  and/or  appellate  or  bankruptcy
+proceedings.  The Company agrees to pay any documentary stamp taxes,  intangible
+taxes  or other  taxes  which  may now or  hereafter  apply to this  Note or any
+payment made in respect of this Note,  and the Company  agrees to indemnify  and
+hold the Holder harmless from and against any liability, costs, attorneys' fees,
+penalties, interest or expenses relating to any such taxes, as and when the same
+may be incurred.
+
+4. EVENT OF DEFAULT.  Upon an Event of Default (as  defined  below),  the entire
+principal  balance and accrued  interest  outstanding  under this Note,  and all
+other  obligations of the Company under this Note,  shall be immediately due and
+payable  without any action on the part of the Holder,  and the Holder  shall be
+entitled to seek and institute  any and all remedies  available to it. No remedy
+conferred  under this Note upon the Holder is  intended to be  exclusive  of any
+other  remedy  available  to the  Holder,  pursuant to the terms of this Note or
+otherwise.  No single or partial  exercise by the Holder of any right,  power or
+remedy  hereunder  shall  preclude any other or further  exercise  thereof.  The
+failure  of the  Holder  to  exercise  any right or  remedy  under  this Note or
+otherwise,  or delay in exercising such right or remedy,  shall not operate as a
+waiver thereof.  An "Event of Default" shall be deemed to have occurred upon the
+occurrence of any of the  following:  (i) the Company should fail for any reason
+or for no reason to make  payment  of the  outstanding  principal  balance  plus
+accrued interest  pursuant to this Note within the time prescribed herein or the
+Company  fails to satisfy any other  obligation  or  requirement  of the Company
+under this Note and/or the Irrevocable Transfer Agent Instructions;  or (ii) any
+proceedings  under any bankruptcy  laws of the United States of America or under
+any  insolvency,  not  disclosed  to the Holder,  reorganization,  receivership,
+readjustment of debt, dissolution,  liquidation or any similar law or statute of
+any  jurisdiction  now or hereinafter in effect (whether in law or at equity) is
+filed by or against the Company or for all or any part of its property.
+
+<PAGE>
+
+5. MAXIMUM  INTEREST  RATE.  In no event shall any agreed to or actual  interest
+charged,  reserved or taken by the Holder as consideration  for this Note exceed
+the limits imposed by New Jersey law. In the event that the interest  provisions
+of this Note shall result at any time or for any reason in an effective  rate of
+interest  that exceeds the maximum  interest rate  permitted by applicable  law,
+then without further agreement or notice the obligation to be fulfilled shall be
+automatically  reduced  to such  limit and all sums  received  by the  Holder in
+excess of those lawfully  collectible  as interest shall be applied  against the
+principal of this Note immediately  upon the Holder's receipt thereof,  with the
+same force and effect as though the Company  had  specifically  designated  such
+extra  sums to be so applied  to  principal  and the Holder had agreed to accept
+such extra payment(s) as a premium-free prepayment or prepayments.
+
+6.  CANCELLATION  OF  NOTE.  Upon the  repayment  by the  Company  of all of its
+obligations  hereunder to the Holder,  including,  without limitation,  the face
+amount  of this  Note,  plus  accrued  but  unpaid  interest,  the  indebtedness
+evidenced hereby shall be deemed canceled and paid in full.  Except as otherwise
+required  by law or by the  provisions  of this Note,  payments  received by the
+Holder hereunder shall be applied first against  expenses and indemnities,  next
+against  interest accrued on this Note, and next in reduction of the outstanding
+principal balance of this Note.
+
+7.  SEVERABILITY.  If any provision of this Note is, for any reason,  invalid or
+unenforceable,  the remaining provisions of this Note will nevertheless be valid
+and enforceable and will remain in full force and effect.  Any provision of this
+Note that is held invalid or unenforceable by a court of competent  jurisdiction
+will be deemed modified to the extent necessary to make it valid and enforceable
+and as so modified will remain in full force and effect.
+
+8. AMENDMENT AND WAIVER. This Note may be amended, or any provision of this Note
+may be waived,  provided that any such  amendment or waiver will be binding on a
+party hereto only if such amendment or waiver is set forth in a writing executed
+by the parties  hereto.  The waiver by any such party  hereto of a breach of any
+provision  of this Note  shall not  operate or be  construed  as a waiver of any
+other breach.
+
+<PAGE>
+
+9. SUCCESSORS.  Except as otherwise  provided  herein,  this Note shall bind and
+inure to the  benefit  of and be  enforceable  by the  parties  hereto and their
+permitted successors and assigns.
+
+10.  ASSIGNMENT.  This Note shall not be directly or  indirectly  assignable  or
+delegable  by the  Company.  The  Holder  may  assign  this Note as long as such
+assignment complies with the Securities Act of 1933, as amended.
+
+11. NO STRICT CONSTRUCTION.  The language used in this Note will be deemed to be
+the language chosen by the parties hereto to express their mutual intent, and no
+rule of strict construction will be applied against any party.
+
+12.  FURTHER  ASSURANCES.  Each party hereto will execute all documents and take
+such  other  actions  as the other  party  may  reasonably  request  in order to
+consummate the  transactions  provided for herein and to accomplish the purposes
+of this Note.
+
+13.  NOTICES,   CONSENTS,   ETC.  Any  notices,   consents,   waivers  or  other
+communications  required or permitted to be given under the terms hereof must be
+in writing and will be deemed to have been  delivered:  (i) upon  receipt,  when
+delivered  personally;  (ii)  upon  receipt,  when sent by  facsimile  (provided
+confirmation of transmission  is  mechanically or  electronically  generated and
+kept on file by the sending  party);  or (iii) one (1) trading day after deposit
+with a nationally  recognized  overnight delivery service, in each case properly
+addressed to the party to receive the same. The addresses and facsimile  numbers
+for such communications shall be:
+
+If to Company:                       NS8 Corporation
+                                     Two Union Square
+                                     601 Union Street, Suite 2400
+                                     Seattle, WA  98101
+                                     Attention:        Anthony Alda, CEO
+                                     Telephone:        (206) 652-3338
+                                     Facsimile:       (206) 652-3205
+
+With Copy to:                        Gottbetter & Partners LLP
+                                     448 Madison Avenue
+                                     New York, NY  10016
+                                     Attention:         Adam S. Gottbetter, Esq.
+                                     Telephone:     (212) 400-6900
+                                     Facsimile:        (212) 400-6901
+
+If to the Company:                   Cornell Capital Partners, L.P.
+                                     101 Hudson Street, Suite 3700
+                                     Jersey City, NJ 07302
+                                     Attention:     Mark A. Angelo
+                                     Telephone:   (201) 985-8300
+                                     Facsimile:    (201) 985-8266
+
+<PAGE>
+
+or at such other address and/or facsimile number and/or to the attention of such
+other person as the  recipient  party has  specified by written  notice given to
+each other  party  three (3)  trading  days prior to the  effectiveness  of such
+change.  Written  confirmation  of receipt  (A) given by the  recipient  of such
+notice,   consent,   waiver  or  other   communication,   (B)   mechanically  or
+electronically  generated by the sender's facsimile machine containing the time,
+date,  recipient  facsimile  number  and an  image  of the  first  page  of such
+transmission  or (C)  provided by a  nationally  recognized  overnight  delivery
+service, shall be rebuttable evidence of personal service,  receipt by facsimile
+or receipt from a nationally recognized overnight delivery service in accordance
+with clause (i), (ii) or (iii) above, respectively.
+
+14. REMEDIES,  OTHER  OBLIGATIONS,  BREACHES AND INJUNCTIVE RELIEF. The Holder's
+remedies  provided in this Note shall be cumulative and in addition to all other
+remedies available to the Holder under this Note, at law or in equity (including
+a decree of specific  performance and/or other injunctive  relief), no remedy of
+the Holder  contained  herein  shall be deemed a waiver of  compliance  with the
+provisions  giving  rise to such  remedy  and  nothing  herein  shall  limit the
+Holder's right to pursue actual damages for any failure by the Company to comply
+with the terms of this Note.  Every  right and  remedy of the  Holder  under any
+document executed in connection with this transaction may be exercised from time
+to time and as often as may be  deemed  expedient  by the  Holder.  The  Company
+acknowledges  that  a  breach  by it of its  obligations  hereunder  will  cause
+irreparable  harm to the Holder  and that the remedy at law for any such  breach
+may be inadequate.  The Company  therefore agrees that, in the event of any such
+breach or threatened  breach,  the Holder shall be entitled,  in addition to all
+other available remedies, to an injunction  restraining any breach, and specific
+performance  without the necessity of showing economic loss and without any bond
+or other security being required.
+
+15.  GOVERNING LAW;  JURISDICTION.  All questions  concerning the  construction,
+validity,  enforcement and interpretation of this Agreement shall be governed by
+the  internal  laws of the State of New  Jersey,  without  giving  effect to any
+choice of law or conflict of law  provision or rule (whether of the State of New
+Jersey or any other  jurisdictions) that would cause the application of the laws
+of any  jurisdictions  other than the State of New  Jersey.  Each  party  hereby
+irrevocably  submits to the exclusive  jurisdiction of the Superior Court of the
+State of New Jersey sitting in Hudson  County,  New Jersey and the United States
+Federal  District  Court for the District of New Jersey  sitting in Newark,  New
+Jersey, for the adjudication of any dispute hereunder or in connection  herewith
+or therewith,  or with any transaction  contemplated hereby or discussed herein,
+and hereby  irrevocably  waives, and agrees not to assert in any suit, action or
+proceeding,  any claim that it is not personally  subject to the jurisdiction of
+any  such  court,  that  such  suit,  action  or  proceeding  is  brought  in an
+inconvenient  forum or that the  venue of such  suit,  action or  proceeding  is
+improper.  Each party hereby  irrevocably waives personal service of process and
+consents  to process  being  served in any such suit,  action or  proceeding  by
+mailing a copy thereof to such party at the address for such notices to it under
+this Agreement and agrees that such service shall constitute good and sufficient
+service of process and notice thereof.  Nothing contained herein shall be deemed
+to limit in any way any right to serve process in any manner permitted by law.
+
+<PAGE>
+
+16. NO INCONSISTENT AGREEMENTS.  None of the parties hereto will hereafter enter
+into any agreement, which is inconsistent with the rights granted to the parties
+in this Note.
+
+17. THIRD PARTIES.  Nothing herein  expressed or implied is intended or shall be
+construed to confer upon or give to any person or entity, other than the parties
+to this Note and their respective permitted successor and assigns, any rights or
+remedies under or by reason of this Note.
+
+18. WAIVER OF JURY TRIAL. AS A MATERIAL INDUCEMENT FOR THE HOLDER TO LOAN TO THE
+COMPANY THE MONIES  HEREUNDER,  THE COMPANY  HEREBY WAIVES ANY RIGHT TO TRIAL BY
+JURY IN ANY LEGAL PROCEEDING RELATED IN ANY WAY TO THIS AGREEMENT AND/OR ANY AND
+ALL OF THE OTHER DOCUMENTS ASSOCIATED WITH THIS TRANSACTION.
+
+19.  ENTIRE  AGREEMENT.  This  Note  (including  the  recitals  hereto)  and the
+Irrevocable  Transfer Agent  Instructions set forth the entire  understanding of
+the parties with respect to the subject matter hereof, and shall not be modified
+or  affected  by any  offer,  proposal,  statement  or  representation,  oral or
+written,  made by or for any party in  connection  with the  negotiation  of the
+terms  hereof,  and may be  modified  only by  instruments  signed by all of the
+parties hereto.
+
+IN WITNESS  WHEREOF,  this Note is  executed by the  undersigned  as of the date
+hereof.
+
+                                       NS8 CORPORATION
+
+                                       By: /s/ Anthony Alda
+                                       -----------------------------------------
+
+                                       Name:  Anthony Alda
+
+                                       Title: CEO
+
+
+</TEXT>
+</DOCUMENT>

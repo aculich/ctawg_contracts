@@ -1,0 +1,54 @@
+<DOCUMENT>
+<TYPE>EX-10.3
+<SEQUENCE>4
+<FILENAME>hldgs2q05ex103.txt
+<DESCRIPTION>200 LONG TERM INCENTIVE PLAN AGREEMENT
+<TEXT>
+                                                                EXHIBIT 10.3
+
+                     INTERNATIONAL SPECIALTY PRODUCTS INC.
+
+                   2000 LONG TERM INCENTIVE PLAN AGREEMENT
+
+                                   "O" PLAN
+
+-----------------------------------------------------------------------------
+
+[Name]
+[Address]
+
+[ID]
+
+Pursuant to the ISP 2000 Long Term Incentive Plan (the "Plan"), you are hereby
+awarded Incentive Units as follows:
+
+         Award No.                             [Number]
+
+         Award Date                            [Date]
+
+         Vesting Schedule                      20%   [Award Date +1 year]
+                                               40%   [Award Date +2 years]
+                                               60%   [Award Date +3 years]
+                                               80%   [Award Date +4 years]
+                                               100%  [Award Date +5 years]
+
+         Expiration Date                       [Award Date +6 years]
+
+         Total Number of Units Awarded         [Number]
+
+         Book Value                            [$  .  ]
+                                                 -- --
+
+Enclosed please find the ISP 2000 Long Term Incentive Plan Document, and an
+Exercise Form, which you may use to exercise the units when they become
+exercisable.
+
+If you have any questions regarding this award, please call Richard Irwin in
+Corporate Human Resources.
+
+
+-----------------------------------------                    ---------------
+For International Specialty Products Inc.                          Date
+
+</TEXT>
+</DOCUMENT>

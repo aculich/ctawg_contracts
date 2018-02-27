@@ -1,0 +1,967 @@
+<DOCUMENT>
+<TYPE>EX-10.1
+<SEQUENCE>5
+<FILENAME>ex10_1.txt
+<DESCRIPTION>EXHIBIT 10.1
+<TEXT>
+                          HOUSTON AMERICAN ENERGY CORP.
+
+                   8% SUBORDINATED CONVERTIBLE NOTES DUE 2010
+
+                               PURCHASE AGREEMENT
+                               ------------------
+
+
+     THIS PURCHASE AGREEMENT (the "Agreement") is made the date set forth on the
+signature page by and among HOUSTON AMERICAN ENERGY CORP. (the "Company"), a
+Delaware corporation, and the purchaser whose name appears on the signature page
+hereof (the "Purchaser").  The Company proposes, subject to the terms and
+conditions stated herein, to issue and sell and the Purchaser desires to
+purchase 8% Subordinated Convertible Notes due 2010, in the form attached hereto
+as Exhibit A (the "Notes"), in the principal amount set forth on the signature
+   ---------
+page hereof.
+
+     The Notes will be convertible into duly and validly issued, fully paid and
+non-assessable shares of common stock, par value $0.001 per share (the "Common
+Stock"), of the Company (such shares, the "Shares" and, together with the Notes,
+the "Securities") on the terms, and subject to the conditions, set forth herein.
+
+     The Notes will be offered and sold to the Purchaser without being
+registered under the Securities Act of 1933, as amended, and the rules and
+regulations of the Securities and Exchange Commission (the "Commission")
+thereunder (collectively, the "Securities Act"), in reliance upon Section 4(2)
+("Section 4(2)") thereof and/or Regulation D ("Regulation D") thereunder.
+
+     The Purchaser will be entitled to the benefits of a Registration Rights
+Agreement (the "Registration Rights Agreement") to be entered into among the
+Company and the Purchaser pursuant to which the Company will agree, among other
+things, with respect to the Notes and the Shares, to file with the Commission a
+shelf registration statement pursuant to Rule 415 under the Securities Act (the
+"Resale Registration Statement") covering the resale of the Notes and the
+Shares, and to use its reasonable best efforts to cause the Registration
+Statement to be declared effective within the time periods specified therein.
+
+     This Agreement, the Registration Rights Agreement, and the form of Note
+between the Company and the Purchaser, are referred to herein collectively as
+the "Transaction Documents," and the transactions contemplated hereby and
+thereby are referred to herein collectively as the "Transactions."
+
+          1.     PURCHASE AND SALE OF NOTES.
+
+               (a)     On the basis of the representations, warranties and
+     covenants contained in this Agreement, and subject to its terms and
+     conditions, the Company agrees to issue and sell to the Purchaser and the
+     Purchaser agrees to purchase from the Company an aggregate principal amount
+     of Notes shown on the signature page hereof.
+
+               (b)     The purchase price for the Notes will be equal to 100% of
+     the principal amount thereof.
+
+
+<PAGE>
+               (c)     Delivery of, and payment for, the Notes (the "Closing")
+     shall be made at 10:00 a.m., New York City time, on May 2, 2005, at the
+     offices of Northeast Securities, Inc. ("NES"), or such other time or place
+     as the Company and NES shall designate.
+
+               (d)     The Purchaser (including subsequent transferees) of the
+     Notes will have the registration rights set forth in the Registration
+     Rights Agreement, in substantially the form of Exhibit B hereto.
+                                                    ---------
+
+          2.     REPRESENTATIONS, WARRANTIES AND AGREEMENTS OF THE COMPANY.  In
+addition to the other representations, warranties and agreements contained in
+this Agreement, the Company represents and warrants to, and agrees with, the
+Purchaser as follows:
+
+               (a)     The Company has prepared a private placement memorandum
+     dated April 20, 2005 (the "Private Placement Memorandum") and setting forth
+     information concerning the Company, the Securities, the Transaction
+     Documents, the Transactions and certain other matters. A copy of the
+     Private Placement Memorandum has been delivered by the Company to the
+     Purchaser. As used in this Agreement, "Private Placement Memorandum" means
+     the Private Placement Memorandum including the documents incorporated by
+     reference therein, as amended or supplemented. The Private Placement
+     Memorandum did not as of its date, and will not as of the Closing Date,
+     contain any untrue statement of a material fact or omit to state a material
+     fact necessary in order to make the statements therein, in the light of the
+     circumstances under which they were made, not misleading.
+
+               The documents incorporated by reference in the Preliminary
+     Private Placement Memorandum (the "Incorporated Documents"), when they
+     became effective or were filed with the Commission, as the case may be,
+     conformed in all material respects to the requirements of the Securities
+     Exchange Act of 1934, as amended, and the rules and regulations of the
+     Commission thereunder (collectively, the "Exchange Act"); and none of such
+     documents contained any untrue statement of a material fact or omitted to
+     state any material fact required to be stated therein or necessary to make
+     the statements therein, in the light of the circumstances under which they
+     were made, not misleading; and any further documents so filed and
+     incorporated by reference in the Private Placement Memorandum will conform
+     in all material respects to the requirements of the Exchange Act and will
+     not contain any untrue statement of a material fact or omit to state any
+     material fact required to be stated therein or necessary to make the
+     statements therein, in the light of the circumstances in which they were
+     made, not misleading.
+
+               (b)     The Company has been duly incorporated or formed and is
+     validly existing and in good standing as a corporation or a limited
+     liability company under the laws of its respective jurisdiction of
+     incorporation or formation, is duly qualified to do business and is in good
+     standing as a foreign corporation or limited liability company in each
+     jurisdiction in which its ownership or lease of property or the conduct of
+     its businesses requires such qualification, and has all power and authority
+     necessary to own, lease or hold its properties and to conduct the
+     businesses in which it is engaged. Except as set forth in the Private
+     Placement Memorandum, the Company does not own, directly or indirectly, any
+     shares of common stock or any other equity or long-term debt securities
+
+
+                                        2
+<PAGE>
+     or have any equity interest in any firm, partnership, joint venture or
+     other entity. The Company does not have any subsidiaries.
+
+               (c)     The Company has an authorized capitalization as set forth
+     in the Private Placement Memorandum, and all of the issued shares of common
+     stock of the Company have been duly and validly authorized and issued, are
+     fully paid and non-assessable and conform to the description thereof
+     contained in the Private Placement Memorandum; and, except for directors'
+     qualifying shares, are owned directly or indirectly by the Company, free
+     and clear of all liens, encumbrances, equities, claims or adverse interests
+     (collectively, "Liens") of any nature. Except as disclosed in the Private
+     Placement Memorandum, (i) there are no outstanding securities convertible
+     into or exchangeable for, or warrants, options or rights issued by the
+     Company to purchase, any shares of the Common Stock, (ii) there are no
+     statutory, contractual, preemptive or other rights to subscribe for or to
+     purchase any Common Stock and (iii) there are no restrictions upon transfer
+     of the Common Stock pursuant to the Company's charter or bylaws.
+
+               (d)     Except as set forth in the Private Placement Memorandum
+     and except with respect to the rights contained in the Registration Rights
+     Agreement, there are no contracts, agreements or other documents between
+     the Company and any person granting such person the right to require the
+     Company to file a registration statement under the Securities Act with
+     respect to any securities of the Company owned or to be owned, directly or
+     indirectly, by such person.
+
+               (e)     There has been no change in the authorized capitalization
+     of the Company since the date indicated in the Private Placement Memorandum
+     except with respect to (i) changes occurring in the ordinary course of
+     business and (ii) changes in outstanding common stock resulting from
+     transactions relating to an employee benefit plan, qualified stock option
+     plans or other employee compensation plans existing on the date hereof.
+
+               (f)     Since the date as of which information is given in the
+     Private Placement Memorandum through the date hereof, the Company has not
+     (i) issued or granted any securities, (ii) incurred any liability or
+     obligation, direct or contingent, other than liabilities and obligations
+     which were incurred in the ordinary course of business, (iii) entered into
+     any transaction not in the ordinary course of business or (iv) declared or
+     paid any dividend on any of its common stock.
+
+               (g)     Except as set forth in the Private Placement Memorandum,
+     there are no legal or governmental proceedings pending to which the Company
+     is a party or of which any property or assets of any of the Company is
+     subject which, if determined adversely to such companies, individually or
+     in the aggregate, might have a material adverse effect on the business,
+     condition (financial or other) or prospects of such companies taken as a
+     whole (a "Material Adverse Effect"), and, to the best of the Company's
+     knowledge, no such proceedings are threatened or contemplated by
+     governmental authorities or threatened by others. There is no pending or,
+     to the best of the Company's knowledge, threatened legal or governmental
+     proceeding that seeks to restrain, enjoin, prevent the consummation of, or
+     otherwise challenge the issuance of the Securities to be sold pursuant to
+     this Agreement or the consummation of the other
+
+
+                                        3
+<PAGE>
+     Transactions. The aggregate of all pending legal or governmental
+     proceedings to which the Company is a party or of which any of their
+     respective property or assets is the subject which are not described in the
+     Private Placement Memorandum, including ordinary routine litigation
+     incidental to the business, could not reasonably be expected to result in a
+     Material Adverse Effect.
+
+               (h)     The Company is not (i) in violation of its charter, by
+     laws or formation documents or (ii) in default in any material respect, and
+     no event has occurred which, with notice or lapse of time or both, would
+     constitute such a default, in the due performance or observance of any
+     term, covenant or condition contained in any indenture, mortgage, deed of
+     trust, loan agreement, note, lease, license, franchise agreement, permit,
+     certificate, contract or other agreement or instrument to which it is a
+     party or by which it is bound or to which any of its properties or assets
+     is subject.
+
+               (i)     The Company has not sustained, since the date of the
+     latest audited financial statements included or incorporated by reference
+     in the Private Placement Memorandum, any material loss or interference with
+     its business from fire, explosion, flood or other calamity, whether or not
+     covered by insurance, or from any strike, job action, slowdown, work
+     stoppage, labor dispute or court or governmental action, order or decree (a
+     "Material Loss"); and, since such date, there has not been any change in
+     the common stock, equity interests, short-term debt or long-term debt of
+     the Company or any material adverse change, or any development involving a
+     prospective material adverse change, in or affecting the business, general
+     affairs, management, position (financial or otherwise), stockholders'
+     equity, results of operations, cash flow or earnings of the Company taken
+     as a whole, otherwise than as set forth or contemplated in the Private
+     Placement Memorandum (a "Material Adverse Change").
+
+               (j)     The financial statements, including the related notes and
+     supporting schedules, included or incorporated by reference in the
+     Preliminary Private Placement Memorandum and the Private Placement
+     Memorandum present fairly the financial condition, results of operations
+     and changes in financial position of the Company on the basis stated
+     therein at the respective dates or for the respective periods to which they
+     apply; such statements and related schedules and notes have been prepared
+     in accordance with generally accepted accounting principles in the United
+     States ("GAAP") consistently applied throughout the periods involved; the
+     supporting schedules, if any, included or incorporated by reference in the
+     Private Placement Memorandum present fairly, in accordance with GAAP, the
+     information required to be stated therein; and the other financial and
+     statistical information and data set forth in the Private Placement
+     Memorandum are or will be, in all material respects, accurately presented
+     and prepared on a basis consistent with such financial statements
+     (including the related notes and supporting schedules) and the books and
+     records of the Company.
+
+               (k)     The statistical, industry and market-related data
+     included in the Private Placement Memorandum are based on or derived from
+     sources that the Company believes to be reliable and accurate.
+
+
+                                        4
+<PAGE>
+               (l)     Thomas Leger & Co., L.L.P. (the "Accountants"), who have
+     certified the financial statements of the Company and whose report is
+     contained or incorporated by reference in the Private Placement Memorandum
+     is a registered public accounting firm, and the Accountants were
+     independent accountants as required by the Exchange Act during the periods
+     covered by the financial statements on which they reported.
+
+               (m)     The Company employ disclosure controls and procedures
+     that are designed to ensure that information required to be disclosed by
+     the Company in the reports that they file or submit under the Exchange Act
+     is recorded, processed, summarized and reported, within the time periods
+     specified in the Commission's rules and forms, and is accumulated and
+     communicated to the management of the Company, including its principal
+     executive officer or officers and principal financial officer or officers,
+     as appropriate to allow timely decisions regarding disclosure.
+
+               (n)     The Company has established and maintains disclosure
+     controls and procedures (as such term is defined in Rule 13a-15 and 15d-15
+     under the Exchange Act) as required by and in material compliance with the
+     Exchange Act; the principal executive officers (or their equivalents) and
+     principal financial officers (or their equivalents) of the Company have
+     made all certifications required by the Sarbanes-Oxley Act of 2002 (the
+     "Sarbanes-Oxley Act") and any related rules and regulations of the
+     Commission, and the statements contained in any such certification are
+     complete and correct in all material respects; and the Company is otherwise
+     in compliance in all material respects with all applicable, effective
+     provisions of the Sarbanes-Oxley Act.
+
+               (o)     The Company has all necessary power and authority to
+     execute and deliver this Agreement and each of the other Transaction
+     Documents to which it is a party, and to perform its obligations hereunder
+     and thereunder to issue the Securities and to consummate the other
+     Transactions; each of the Transaction Documents and the Transactions have
+     been duly authorized by the Company; this Agreement has been duly executed
+     and delivered by the Company and each of the other Transaction Documents,
+     when executed and delivered by the Company assuming that such Transaction
+     Documents are or will be the valid and binding agreements of the other
+     parties thereto, will constitute a valid and binding obligation of the
+     Company, enforceable against the Company in accordance with its respective
+     terms, subject to (i) the effects of bankruptcy, insolvency, fraudulent
+     conveyance, reorganization, moratorium and other similar laws relating to
+     or affecting creditors' rights generally and (ii) general equitable
+     principles (whether considered in a proceeding in equity or at law).
+
+               (p)     The Company has all necessary power and authority to
+     execute, issue and deliver the Shares; the Shares have been duly and
+     validly authorized, and, when duly issued and delivered to holders of the
+     Notes upon conversion of the Notes from time to time, the Shares will be
+     duly and validly authorized and issued, fully paid and nonassessable and
+     will be free and clear of any preemptive rights and Liens.
+
+
+                                        5
+<PAGE>
+               (q)     The Company has all necessary power and authority to
+     execute, issue and deliver the Notes and perform its obligations
+     thereunder; the Notes have been duly authorized by the Company, will be in
+     the form attached hereto as Exhibit A and, when executed, authenticated,
+                                 ---------
+     delivered to and paid for by the Purchaser pursuant to this Agreement, will
+     constitute valid and binding obligations of the Company, enforceable
+     against the Company in accordance with their terms, subject to (i) the
+     effects of bankruptcy, insolvency, fraudulent conveyance, reorganization,
+     moratorium and other similar laws relating to or affecting creditors'
+     rights generally and (ii) general equitable principles (whether considered
+     in a proceeding in equity or at law).
+
+               (r)     The execution, delivery and performance by the Company of
+     this Agreement and the other Transaction Documents, the performance of the
+     obligations of the Company hereunder and thereunder, the issuance of the
+     Securities and the consummation of the other Transactions will not, as of
+     the Closing Date, (i) conflict with or result in a breach or violation of
+     any of the terms or provisions of, or constitute a default under, any
+     indenture, mortgage, deed of trust, loan agreement, note, lease, license,
+     franchise agreement, permit, certificate, contract or other agreement or
+     instrument to which the Company is a party or by which the Company is bound
+     or to which any of the property or assets of the Company is subject, (ii)
+     result in any violation of the provisions of the charter, by laws or
+     formation documents of the Company or any statute or any order, rule or
+     regulation of any court or governmental agency or body having jurisdiction
+     over the Company or any of their properties or assets, (iii) result in the
+     imposition or creation of (or the obligation to create or impose) any Lien
+     under any agreement or instrument to which the Company is a party or by
+     which any of the Company or its properties or assets is bound or (iv)
+     result in the suspension, termination or revocation of any permit, license,
+     consent, exemption, franchise, authorization or other approval (each, an
+     "Authorization") the Company or any other impairment of the rights of the
+     holder of any such Authorization.
+
+               (s)     No consent, approval, authorization or order of, or
+     filing or registration with, any court or governmental agency or body is
+     required for the execution, delivery and performance of the Transaction
+     Documents by the Company, the issuance of the Securities, the performance
+     of the obligations of the Company hereunder and thereunder and the
+     consummation of the other Transactions contemplated hereby and thereby,
+     except (i) with respect to the transactions contemplated by the
+     Registration Rights Agreement as may be required under the Securities Act
+     and the Exchange Act, (ii) as required by the state securities or "blue
+     sky" laws and (ii) for such consents, approvals, authorizations, orders,
+     filings or registrations which have been obtained or made.
+
+               (t)     Each of the Company has such authorizations and has made
+     all filings with and notices to, all governmental or regulatory authorities
+     and self-regulatory organizations and all courts and other tribunals, as
+     are necessary to own, lease, license and operate its properties and to
+     conduct its business in the manner described in the Private Placement
+     Memorandum, except where the failure to have any such Authorization or to
+     make any such filing or notice would not have a Material Adverse Effect.
+     Each such Authorization is valid and in full force and effect and the
+     Company is in material compliance with all the terms and conditions thereof
+     and with the rules and regulations of the authorities and governing bodies
+     having jurisdiction with respect
+
+
+                                        6
+<PAGE>
+     thereto, except where the failure to be valid, in full force and effect or
+     in compliance would not have a Material Adverse Effect. No event has
+     occurred (including, without limitation, the receipt of any notice from any
+     authority or governing body) which allows or, after notice or lapse of time
+     or both, would allow, revocation, suspension or termination of any such
+     Authorization or results or, after notice or lapse of time or both, would
+     result in any other material impairment of the rights of the holder of any
+     such Authorization except to the extent that such revocation, suspension or
+     other impairment would not have a Material Adverse Effect. To the knowledge
+     of the Company, no governmental body or agency has threatened to limit,
+     suspend or revoke any such Authorization, except where such limitation,
+     suspension or revocation would not have a Material Adverse Effect.
+
+               (u)     Neither the Company nor any agent thereof acting on their
+     behalf has taken, and none of them will take, any action that might cause
+     this Agreement or the issuance or sale of the Notes to violate Regulation T
+     (12 C.F.R. Part 220), Regulation U (12 C.F.R. Part 221) or Regulation X (12
+     C.F.R. Part 224) of the Board of Governors of the Federal Reserve System.
+
+               (v)     The Company has good and marketable title in fee simple
+     to, or valid and enforceable leasehold estates in, all items of real and
+     personal property owned or leased by it, in each case free and clear of all
+     liens, charges, claims, encumbrances, pledges, security interests, defects
+     or other restrictions or equities of any kind whatsoever, except such as
+     are described in the Private Placement Memorandum.
+
+               (w)     The Company carries, or is covered by, insurance in such
+     amounts and covering such risks as is adequate for the conduct of its
+     respective businesses and the value of its respective properties and as is
+     customary for companies engaged in similar businesses in similar
+     industries.
+
+               (x)     The Company owns or possesses adequate rights to use all
+     patents, patent applications, trademarks, service marks, trade names,
+     trademark registrations, service mark registrations, copyrights and
+     licenses necessary for the conduct of its business (the "Intellectual
+     Property") and has no reason to believe that the conduct of its business
+     will conflict with, and has not received any notice of any claim of
+     conflict with, any such rights of others, in each case except as could not
+     reasonably be expected to have a Material Adverse Effect. The Company has
+     taken reasonable security measures to protect the secrecy, confidentiality
+     and value of its Intellectual Property and other proprietary information in
+     all respects.
+
+               (y)     No relationship, direct or indirect, exists between or
+     among the Company on the one hand, and the directors, officers,
+     stockholders, customers or suppliers of the Company on the other hand,
+     which is required to be described in the Private Placement Memorandum which
+     is not so described.
+
+
+                                        7
+<PAGE>
+               (z)     The Company is in compliance with all presently
+     applicable provisions of the Employee Retirement Income Security Act of
+     1974, as amended, including the regulations and published interpretations
+     thereunder ("ERISA"); no "reportable event" (as defined in ERISA) has
+     occurred with respect to any "pension plan" (as defined in ERISA) for which
+     the Company would have any material liability; the Company has not incurred
+     and does not expect to incur liability under (i) Title IV of ERISA with
+     respect to termination of, or withdrawal from, any "pension plan" or (ii)
+     Sections 412 or 4971 of the Internal Revenue Code of 1986, as amended,
+     including the regulations and published interpretations thereunder (the
+     "Code"); and each "pension plan" for which the Company would have any
+     liability that is intended to be qualified under Section 401(a) of the Code
+     is so qualified and nothing has occurred, whether by action or by failure
+     to act, which would cause the loss of such qualification.
+
+               (aa)     The Company has filed all federal, state and local
+     income and franchise tax returns required to be filed through the date
+     hereof, has paid all taxes due thereon and has established adequate
+     reserves for such taxes which are not yet due and payable, and does not
+     have any tax deficiency or claims outstanding, proposed or assessed against
+     it.
+
+               (bb)     Neither the Company nor any director, officer, agent,
+     employee or other person associated with or acting on behalf of the
+     Company, has used any corporate funds for any unlawful contribution, gift,
+     entertainment or other unlawful expense relating to political activity;
+     made any direct or indirect unlawful payment to any foreign or domestic
+     government official or employee from corporate funds; violated or is in
+     violation of any provision of the Foreign Corrupt Practices Act of 1977; or
+     made any bribe, rebate, payoff, influence payment, kickback or other
+     unlawful payment.
+
+               (cc)     The Company is not, nor, as of the Closing Date, after
+     giving effect to the issuance of the Securities and the application of the
+     net proceeds therefrom as set forth in the Private Placement Memorandum
+     (including completion of the Transactions), will be an "investment company"
+     as defined, and subject to regulation, under the Investment Company Act of
+     1940, as amended, and the rules and regulations of the Commission
+     thereunder (collectively, the "Investment Company Act").
+
+               (dd)     All indebtedness of the Company that will be repaid with
+     the proceeds of the issuance and sale of the Notes was incurred, and the
+     indebtedness represented by the Notes is being incurred, for proper
+     purposes and in good faith and the Company was, at the time of the
+     incurrence of such indebtedness that will be repaid with the proceeds of
+     the issuance and sale of the Securities, and will be on the Closing Date
+     (after giving effect to the application of the proceeds from the issuance
+     of the Notes) solvent, and had at the time of the incurrence of such
+     indebtedness that will be repaid with the proceeds of the issuance and sale
+     of the Notes and will have on the Closing Date (after giving effect to the
+     application of the proceeds from the issuance of the Notes) sufficient
+     capital for carrying on its business and was, at the time of the incurrence
+     of such indebtedness that will be repaid with the proceeds of the issuance
+     and sale of the Notes, and will be on the Closing Date (after giving effect
+     to the application of the proceeds from the issuance of the Notes) able to
+     pay its debts as they mature.
+
+
+                                        8
+<PAGE>
+               (ee)     No event has occurred nor has any circumstance arisen
+     which, had the Securities been issued on such Closing Date, would
+     constitute a default or an event of default under the Note as summarized in
+     the Private Placement Memorandum.
+
+               (ff)     Assuming the accuracy of the representations and
+     warranties of the Purchaser contained in Section 3 and the compliance of
+     the Purchaser with the agreements set forth herein, it is not necessary, in
+     connection with the issuance and sale of the Securities, in the manner
+     contemplated by Transaction Documents and the Private Placement Memorandum,
+     to register the Securities under the Securities Act.
+
+               (gg)     None of the Company or any of its Affiliates (as defined
+     in Rule 501(b) of Regulation D) has engaged, and will not engage, directly
+     or indirectly in any form of general solicitation or general advertising in
+     connection with the offering of the Securities (as those terms are used in
+     Regulation D) under the Securities Act or in any manner involving a public
+     offering within the meaning of Section 4(2); and the Company has not
+     entered, and will not enter, into any arrangement or agreement with respect
+     to the distribution of the Securities, except for this Agreement and the
+     Registration Rights Agreement, and the Company agrees not to enter into any
+     such arrangement or agreement.
+
+               (hh)     Neither the Company nor any of its Affiliates has
+     directly or indirectly sold, offered for sale, solicited offers to buy or
+     otherwise negotiated in respect of any "security" (as defined in the
+     Securities Act) which is, or would be, integrated with the sale of any of
+     the Securities in a manner that would require the registration under the
+     Securities Act of any of the Securities.
+
+               (ii)     Neither the Company nor, to the Company's knowledge, any
+     of the Affiliates of the Company, have taken, directly or indirectly, any
+     action designed to cause or result in, or which has constituted or which
+     might reasonably be expected to constitute, the stabilization or
+     manipulation of the price of the Securities to facilitate the sale or
+     resale of such securities.
+
+               (jj)     The Company has not sold or issued any security of the
+     same or similar class or series as any of the Securities or any security
+     convertible into any of the Securities during the six-month period
+     preceding the Closing Date, including any sales pursuant to Rule 144A, or
+     Regulation D (other than shares issued pursuant to employee benefit plans,
+     qualified stock options plans or other employee compensation plans or
+     pursuant to outstanding options, rights or warrants), and has no intention
+     of making, and will not make, an offer or sale of such securities, for a
+     period of six months after the Closing Date, except for the offering of
+     Securities as contemplated by this Agreement and the Registration Rights
+     Agreement. As used in this paragraph, the terms "offer" and "sale" have the
+     meanings specified in Section 2(a)(3) of the Securities Act.
+
+               (kk)     The Company will not offer or sell any of the Securities
+     to any person who is not whom it reasonably believes to be a Qualified
+     Institutional Buyer ("QIB") or accredited investor ("Accredited Investor"),
+     as those terms are defined under the Securities Act.
+
+
+                                        9
+<PAGE>
+               (ll)     Each certificate signed by any officer of the Company
+     and delivered to the Purchaser or counsel to the Purchaser shall be deemed
+     to be a representation and warranty by the Company to the Purchaser as to
+     the matters covered thereby.
+
+          3.     REPRESENTATIONS, WARRANTIES AND AGREEMENTS OF THE PURCHASER.
+The Purchaser represents and warrants to, and agrees with, the Company that it:
+
+               (a)     is not acquiring the Notes with a view to any
+     distribution thereof or with any present intention of offering or selling
+     any of the Notes in a transaction that would violate the Securities Act or
+     the securities laws of any State of the United States or any other
+     applicable jurisdiction.
+
+               (b)     is a QIB or Accredited Investor, as reflected in the
+     Investor Questionnaire delivered simultaneous herewith, and the information
+     contained in said Investor Questionnaire is true and correct.
+
+               (c)     is aware that the Notes are speculative and that it may
+     lose its entire investment and it can afford to bear the risks of an
+     investment in the Company, including the risk of losing its entire
+     investment.
+
+               (d)     has (i) been provided an opportunity to obtain
+     information concerning the Company and any other relevant matters as
+     Purchaser has requested, and (ii) been given the opportunity to ask
+     questions of and receive answers from the Company concerning the terms and
+     conditions of the offering of the Notes.
+
+               (e)     is aware that its must bear the economic risk of its
+     investment in the Company for an indefinite period of time because: (1) the
+     Notes have not been registered under the Securities Act, or qualified under
+     the state securities laws of any state, and therefore cannot be sold,
+     assigned or otherwise disposed of unless appropriate exemptions from such
+     registration or qualification requirements are available; (2) the Company
+     will place a legend on the certificates evidencing the Notes stating that
+     the Notes have not been registered under the Act or any state securities
+     laws and setting forth the limitations on resale contained above and the
+     Company will also require that its registrar and transfer agent make a
+     notation of such restrictions in its appropriate records; and (3) there is
+     no public market for such Notes. The Purchaser further understands and
+     agrees that the Company will not honor any attempt by Purchaser to sell,
+     transfer of otherwise dispose of the Notes in the absence of either an
+     effective registration statement and qualification under applicable Blue
+     Sky laws or exemptions therefrom.
+
+
+                                       10
+<PAGE>
+          4.     FURTHER AGREEMENTS OF THE COMPANY.  In addition to the other
+agreements of the Company in this Agreement, the Company further agrees as
+follows:
+
+               (a)     the Company will promptly notify the Purchaser, and
+     confirm such notice in writing, of the happening of any event prior to the
+     Closing Date that makes any statement of a material fact made or
+     incorporated by reference in the Private Placement Memorandum untrue or
+     that requires any additions to, or changes in, the Private Placement
+     Memorandum or any Exchange Act Document in order to make the statements
+     therein, in the light of the circumstances under which they were made, not
+     misleading;
+
+               (b)     to advise the Purchaser promptly of any proposal to amend
+     or supplement the Private Placement Memorandum or any Exchange Act
+     Document; and if any event shall occur or any condition shall exist as a
+     result of which it is necessary, in the reasonable opinion of counsel to
+     the Company, to amend or supplement the Private Placement Memorandum in
+     order that the Private Placement Memorandum and the Exchange Act Documents
+     will not, as of their respective dates, as of the date of this Agreement
+     and as of the Closing Date, include an untrue statement of a material fact
+     or omit to state a material fact necessary in order to make the statements
+     therein, in the light of the circumstances under which they were made, not
+     misleading, to promptly notify the Purchaser and promptly prepare or, with
+     respect to any Exchange Act Documents, file with the Commission such
+     amendment or supplement as may be necessary to correct such untrue
+     statement or omission;
+
+               (c)     to use reasonable best efforts to qualify the Notes and
+     the Shares for offering and sale under the securities laws of such
+     jurisdictions as the Purchaser may reasonably request and to comply with
+     such laws so as to permit the continuance of sales and dealings therein in
+     such jurisdictions for as long as may be necessary to complete the Private
+     Placement; provided that, in connection therewith, the Company shall not be
+     required to qualify as a foreign corporation or to file a general consent
+     to service of process in any jurisdiction;
+
+               (d)     to advise the Purchaser promptly of the issuance by any
+     state securities commission of any stop order suspending the qualification
+     or exemption from qualification of any Notes for offering or sale in any
+     jurisdiction designated by the Purchaser pursuant to Section 4(c) hereof,
+     or the initiation of any proceeding by any state securities commission or
+     other federal or state regulatory authority for such purpose. The Company
+     shall use all commercially reasonable efforts to prevent the issuance of
+     any stop order or order suspending the qualification or exemption of any of
+     the Notes under any state securities or Blue Sky laws, and if at any time
+     any state securities commission or other federal or state regulatory
+     authority shall issue an order suspending the qualification or exemption of
+     any Notes under any state securities or Blue Sky laws, the Company shall
+     use all commercially reasonable efforts to obtain the withdrawal or lifting
+     of such order at the earliest possible time.
+
+               (e)     to apply the proceeds therefrom as set forth under the
+     caption "Use of Proceeds" in the Private Placement Memorandum.
+
+
+                                       11
+<PAGE>
+               (f)     so long as the Notes are outstanding, (i) to furnish to
+     the Purchaser as soon as reasonably practicable after the end of each
+     fiscal year, a copy of its annual report to stockholders for such year, if
+     one is prepared, and (ii) to make available to the Purchaser as soon as
+     reasonably practicable after such materials become available, copies of all
+     other reports or other communications furnished by the Company to its
+     security holders or furnished to or filed with the Commission or any
+     national securities exchange on which any class of securities of the
+     Company is listed and such other publicly available information concerning
+     the Company as the Purchaser may reasonably request; provided, however,
+     that any such report filed on the Commission's EDGAR system need not be
+     furnished pursuant to this Section 4(d).
+
+               (g)     so long as any of the Notes remain outstanding and are
+     "restricted securities" within the meaning of Rule 144(a)(3) under the
+     Securities Act, to make available to any holder of Notes in connection with
+     any sale thereof and any prospective purchaser of such Notes from such
+     holder, upon the request of such holder or prospective purchaser, the
+     information ("Rule 144A Information") required by Rule 144A(d)(4) under the
+     Securities Act if, at the time of such request, the Company is not subject
+     to Section 13 or 15(d) of the Exchange Act.
+
+               (h)     not to sell, offer for sale or solicit offers to buy or
+     otherwise negotiate in respect of any security (as defined in the
+     Securities Act) that would be integrated with the sale of the Notes to the
+     Purchaser in a manner that would require the registration of any such sale
+     of the Notes under the Securities Act.
+
+               (i)     to use all commercially reasonable efforts to do and
+     perform all things required or necessary to be done and performed under
+     this Agreement prior to the Closing Date and to satisfy all conditions
+     precedent to the delivery of the Notes.
+
+               (j)     for a period of 90 days from the date hereof, not to,
+     directly or indirectly, (1) announce an offering of, or file a registration
+     statement with the Commission relating to, equity securities of the Company
+     (other than the offering contemplated by this Agreement) or offer for sale,
+     sell, pledge or otherwise dispose of (or enter into any transaction or
+     device which is designed to, or could be expected to, result in the
+     disposition or purchase by any person at any time in the future of) any
+     shares of Common Stock or securities convertible into or exchangeable for
+     Common Stock other than the Notes and shares of Common Stock to be issued
+     in the ordinary course pursuant to currently outstanding options, warrants
+     or rights), or (2) enter into any swap or other derivatives transaction
+     that transfers to another, in whole or in part, any of the economic
+     benefits or risks of ownership of such shares of Common Stock, whether any
+     such transaction described in clause (1) or (2) above is to be settled by
+     delivery of Common Stock or other securities, in cash or otherwise, without
+     the prior written consent of the Purchaser.
+
+
+                                       12
+<PAGE>
+          5.     CONDITIONS OF THE PURCHASER'S OBLIGATIONS. The obligations of
+the Purchaser hereunder are subject to the accuracy, in all material respects,
+when made and on the Closing Date, of the representations, warranties and
+agreements of the Company contained herein, to the performance by the Company of
+its obligations hereunder, and to each of the following additional conditions:
+
+
+               (a)     The representations and warranties made by the Company in
+     Section 2 hereof shall have been true and correct when made, and shall be
+     true and correct on the Closing Date as if made on the Closing Date.
+
+
+               (b)     Except for any notices required or permitted to be filed
+     after the Closing Date with certain federal and state securities
+     commissions, the Company shall have obtained all governmental approvals
+     required in connection with the lawful sale and issuance of the Notes.
+
+
+               (c)     At the Closing Date, the sale and issuance by the
+     Company, and the purchase by the Purchaser, of the Notes shall be legally
+     permitted by all laws and regulations to which the Purchaser or the Company
+     are subject.
+
+
+               (d)     All corporate and other proceedings in connection with
+     the transactions contemplated at the Closing Date and all documents and
+     instruments incident to such transactions shall be reasonably satisfactory
+     in substance and form to the Purchaser.
+
+               (e)     No default or Event of Default shall have occurred under
+     any of the Transaction Documents.
+
+               (f)     The Company shall have delivered to the Purchaser each of
+     the following:
+
+                    (i)     Certificate of Good Standing or comparable
+          certificate as to the Company, certified as of a recent date prior to
+          the Closing Date by the Secretary of State of each such company's
+          state of incorporation;
+
+                    (ii)     An opinion of counsel to the Company, in form and
+          substance reasonably satisfactory to the Purchaser;
+
+                    (iii)     A certificate of the Secretary of the Company,
+          dated the Closing Date, certifying that (1) attached thereto are true
+          and correct copies of the organizational documents of the Company, and
+          that such organizational documents are in full force and effect and
+          have not been amended, supplemented, revoked or repealed since the
+          date of such certification; (2) attached thereto is a true and correct
+          copy of resolutions duly adopted by the Board of Directors of the
+          Company authorizing the execution, delivery, and performance by the
+          Company of this Agreement and the other Transaction Documents and the
+          consummation of the transactions contemplated hereby and thereby; and
+          (3) there are no proceedings for the dissolution or liquidation of the
+          Company that have commenced or, to the knowledge of the Company, been
+          threatened;
+
+
+                                       13
+<PAGE>
+                    (iv)     A certificate of the Secretary of the Company,
+          dated the Closing Date, certifying the incumbency, signatures and
+          authority of the officers of the Company authorized to execute and
+          deliver this Agreement and the Notes on behalf of the Company and
+          perform the Company's obligations thereunder on behalf of the Company;
+
+                    (v)     A certificate of an officer of the Company, dated
+          the Closing Date, certifying that (A) the representations and
+          warranties of the Company set forth in this Agreement were true and
+          correct as of the date hereof and are true and correct as of the
+          Closing Date; (B) that the Company has performed and complied with all
+          agreements, obligations and covenants to be performed or complied by
+          the Company under this Agreement; (C) since the respective dates as of
+          which information is given in the Private Placement Memorandum, other
+          than as set forth in the Private Placement Memorandum (exclusive of
+          any amendments or supplements thereto subsequent to the date of this
+          Agreement), (1) there has not occurred any change or any development
+          that might have a Material Adverse Effect, (2) there has not been any
+          change in the common stock, equity interests, the short-term debt or
+          the long-term debt of the Company that might have a Material Adverse
+          Effect, (3) the Company has not incurred any material liability or
+          obligation, direct or contingent, (4) a Material Loss has not occurred
+          and (5) the Company has not declared or paid any dividend on its
+          common stock, except for dividends declared in the ordinary course of
+          business and consistent with past practice; and (D) he has reviewed
+          the Private Placement Memorandum and, in his opinion (A) the Private
+          Placement Memorandum, as of its date and the Closing Date, did not and
+          does not include any untrue statement of a material fact and did not
+          and does not omit to state any material fact necessary to make the
+          statements therein, in the light of the circumstances under which they
+          were made, not misleading, and (B) since the date of the Private
+          Placement Memorandum, no event has occurred which should have been set
+          forth in a supplement or amendment to the Private Placement
+          Memorandum; and
+
+                    (vi)     a letter from the Accountants, in form and
+          substance reasonably satisfactory to the Purchaser and dated not more
+          than five days prior to the Closing Date (i) confirming that they are
+          independent public accountants within the meaning of the Securities
+          Act and are in compliance with the applicable requirements relating to
+          the qualification of accountants under Rule 2-01 of Regulation S-X of
+          the Commission and (ii) stating, as of the date thereof (or, with
+          respect to matters involving changes or developments since the
+          respective dates as of which specified financial information is given
+          in the Private Placement Memorandum, as of a date not more than five
+          days prior to the date thereof), the conclusions and findings of such
+          firm with respect to the financial information and other matters
+          ordinarily covered by accountants' "comfort letters" to underwriters
+          in connection with registered public offerings.
+
+
+                                       14
+<PAGE>
+               (g)     Each of the Transaction Documents, other than this
+     Agreement, shall be in form and substance reasonably satisfactory to the
+     Purchaser and shall have been duly executed and delivered by the Company
+     and the other parties thereto, and the Notes shall have been duly executed
+     and delivered by the Company.
+
+               (h)     The sale of the Notes shall not be enjoined (temporarily
+     or permanently) on the Closing Date.
+
+               (i)     The Company shall not have sustained since the date of
+     the latest audited financial statements incorporated by reference in the
+     Private Placement Memorandum (A) any material loss or interference with its
+     business from fire, explosion, flood or other calamity, whether or not
+     covered by insurance, or from any labor dispute or court or governmental
+     action, order or decree, otherwise than as described or contemplated in the
+     Private Placement Memorandum, or (B) since such date there shall not have
+     been any change in the capital stock, short-term debt or long-term debt of
+     the Company or any change, or any development involving a prospective
+     change, in or affecting the general affairs, management, financial
+     position, prospects, stockholders' equity or results of operations of the
+     Company, otherwise than as described or contemplated in the Private
+     Placement Memorandum, the effect of which, in any such case described in
+     clause (A) or (B), is, in the judgment of the Purchaser, so material and
+     adverse as to make it impracticable or inadvisable to proceed with the
+     delivery of the Securities being delivered on the Closing Date on the terms
+     and in the manner contemplated in the Private Placement Memorandum and this
+     Agreement.
+
+     In addition, the Company shall have furnished to the Purchaser such further
+information, certificates and documents as the Purchaser may reasonably request
+to evidence compliance with the conditions set forth in this Section.
+
+          6.     MISCELLANEOUS.
+
+               (a)     Governing Law. This Agreement shall be governed by, and
+     construed in accordance with, the laws of the State of New York.
+
+               (b)     Consent to Jurisdiction; Forum Selection; Appointment of
+     Agent for Service of Process
+
+                    (i)     Each of the Purchaser and the Company hereby submits
+          to the jurisdiction of the courts of the State of New York and the
+          courts of the United States of America located in the State of New
+          York over any suit, action or proceeding with respect to this
+          Agreement or the transactions contemplated hereby.
+
+
+                                       15
+<PAGE>
+                    (ii)     Any suit, action or proceeding with respect to this
+          Agreement or the transactions contemplated hereby may be brought only
+          in the courts of the State of New York or the courts of the United
+          States of America located in the State of New York, located in the
+          Borough of Manhattan, City of New York, State of New York. Each of the
+          parties hereto waives any objection that it may have to the venue of
+          such suit, action or proceeding in any such court or that such suit,
+          action or proceeding in such court was brought in an inconvenient
+          court and agrees not to plead or claim the same.
+
+               (c)     Waiver of Jury Trial. Any right to trial by jury with
+     respect to any lawsuit, claim, action or other proceeding arising out of or
+     relating to this Agreement or the services to be rendered by you hereunder
+     is expressly and irrevocably waived.
+
+               (d)     Entire Agreement.  This Agreement constitutes the entire
+     agreement among the parties hereto with respect to the subject matter
+     hereof and supersede all prior agreements and undertakings, both written
+     and oral, among the parties, or any of them, with respect to the subject
+     matter hereof. No provision of this Agreement may be waived or amended
+     other than by an instrument in writing signed by the party to be charged
+     with enforcement.
+
+               (e)     Amendments and Waiver.  The provisions of this Agreement
+     may not be amended, modified or supplemented, and waivers or consents to
+     departures from the provisions hereof may not be given, except by the
+     parties to this Agreement. The failure by any party to exercise any right
+     or remedy under this Agreement or otherwise, or delay by a party in
+     exercising such right or remedy, shall not operate as a waiver thereof.
+
+               (f)     Persons Entitled to Benefit of Agreement.  This Agreement
+     will inure to the benefit of and be binding upon the Purchaser, the
+     Company, and their respective successors and assigns. This Agreement and
+     the terms and provisions hereof are for the sole benefit of only those
+     persons, except that (i) the representations, warranties, indemnities and
+     agreements of the Company contained in this Agreement will also be deemed
+     to be for the benefit of the officers, agents, representatives and
+     employees of the Purchaser and the person or persons, if any, who control
+     the Purchaser within the meaning of Section 15 of the Securities Act.
+
+               (g)     Severability.  If any provision of this Agreement shall
+     be invalid or unenforceable in any jurisdiction, such invalidity or
+     unenforceability shall not affect the validity or enforceability of the
+     remainder of this Agreement or the validity or enforceability of this
+     Agreement in any other jurisdiction.
+
+               (h)     Counterparts.  This Agreement may be executed in one or
+     more counterparts and, if executed in more than one counterpart, the
+     executed counterparts shall each be deemed to be an original but all such
+     counterparts shall together constitute one and the same instrument.
+
+
+                                       16
+<PAGE>
+               (i)     Headings.  The headings herein are inserted for
+     convenience of reference only and are not intended to be part of, or to
+     affect the meaning or interpretation of, this Agreement.
+
+               (j)     Notices.  All statements, requests, notices and
+     agreements hereunder shall be in writing, and:
+
+                    (i)     if to the Purchaser, shall be delivered or sent by
+          mail, telex or facsimile transmission to the address set forth on the
+          signature page hereof;
+
+                    (ii)     if to any of the Company, shall be delivered or
+          sent by mail, telex or facsimile transmission to it at: Houston
+          American Energy Corp., 801 Travis, Suite 2020, Houston, Texas 77002,
+          Attention: John F. Terwilliger (fax: 713-222-6440, telephone:
+          713-222-6966)
+
+               Any such statements, requests or notices will take effect at the
+     time of receipt thereof. Each party shall provide notice to the other party
+     of any changes in address.
+
+
+                             [Signature page follows]
+
+
+                                       17
+<PAGE>
+     If the foregoing correctly sets forth the agreement between the Company and
+the Purchaser, please indicate your acceptance in the space provided for that
+purpose below.
+
+
+          Purchaser Name:           ______________________
+
+          Purchaser Address:        ______________________
+
+                                    ______________________
+
+          Telephone No.:            ______________________
+
+          Facsimile No.:            ______________________
+
+          Tax ID No.:               ______________________
+
+          Notes Subscribed:         $_____________________
+
+
+
+                                    PURCHASER:
+Date: ___________, 2005
+                                    By:_____________________________
+                                    Name:
+                                    Title:
+
+
+Accepted and agreed, this ___ day
+of _____________, 2005, by:
+
+Houston American Energy Corp.
+
+
+By:  ____________________________
+Name:
+Title:
+
+</TEXT>
+</DOCUMENT>

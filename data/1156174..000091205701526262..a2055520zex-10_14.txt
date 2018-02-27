@@ -1,0 +1,170 @@
+<DOCUMENT>
+<TYPE>EX-10.14
+<SEQUENCE>19
+<FILENAME>a2055520zex-10_14.txt
+<DESCRIPTION>EXHIBIT 10.14
+<TEXT>
+<Page>
+
+
+                   NORTHWESTERN PUBLIC SERVICE - SOUTH DAKOTA
+
+                              SERVICE REQUEST FORM
+
+This form shall constitute the Customer's Agreement to the terms of the Gas
+Transportation Tariff. The Company shall have the right, to file for, and seek
+approval by the South Dakota Public Utilities Commission of, changes in rates,
+charges or other tariff provisions applicable to service hereunder and to place
+such changes in effect in accordance with applicable law; and this Agreement
+shall be deemed to have been amended to include such changes and any other
+changes which become effective by operation of law or by order of any
+governmental body with jurisdiction.
+
+This agreement shall become effective as of INITIAL START-UP PLANT, and shall be
+in effect for a primary term of 10 year(s) from such date, with a 10 year
+rollover right at the same rate exercisable by Dakota Ethanol, and from year to
+year thereafter, unless and until terminated by either party upon six (6)
+months' written notice.
+
+CUSTOMER NAME:  DAKOTA ETHANOL - LLC
+              -----------------------
+
+CUSTOMER ACCOUNT NUMBER:                                     SIC CODE:  2869
+                         -----------------------------------
+
+NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM CODE:  325193
+                                                   ---------
+
+CUSTOMER ADDRESS - GAS DELIVERY POINT:  WENTWORTH, SD
+                                      ----------------
+
+CUSTOMER ADDRESS - NOTICES:  P.O. BOX 100 WENTWORTH, SD 57075
+                           -----------------------------------
+
+CUSTOMER ADDRESS - INVOICES:  P.O. BOX 100 WENTWORTH, SD 57075
+                           -----------------------------------
+
+CUSTOMER CONTACT:  ROB BROIN/STEVE SERSHEN  TITLE:  V. P.
+                 --------------------------       ---------
+
+PHONE:  605-483-2676       FAX:  605-489-2677
+       -------------            --------------
+
+RECEIPT POINT (NWPS TBS):  LAKE MADISON
+                          --------------
+
+DELIVERY POINT:  DAKOTA ETHANOL
+                ----------------
+
+METER NUMBER(S):
+
+PREVIOUS RATE DESIGNATION(S):  N/A
+                              -----
+
+SERVICE QUANTITY:          THERMS/DAY                42,000
+
+FIRM TRANSPORTATION:       THERMS/DAY
+
+DAILY BALANCING:           THERMS/DAY
+
+STANDBY SUPPLY             THERMS/DAY
+
+<Page>
+
+                   NORTHWESTERN PUBLIC SERVICE - SOUTH DAKOTA
+
+                              SERVICE REQUEST FORM
+
+PRICING:
+
+From time to time, Customer and Company shall negotiate a rate and term of
+transportation which shall be by purchase nomination order in the form which is
+attached as Exhibit A and incorporated by reference in this Agreement.
+
+Service Qualifications:
+
+The Company is notifying Customers who have elected Gas Transportation Service
+of the risks of transportation reasonably known at the time the Customer begins
+transporting gas. The Customer hereby understands it may be subject to risks
+which include, but may not be limited to, the following:
+
+         1)       The Company may not have firm or interruptible gas sales
+                  service available if the Customer seeks to purchase gas from
+                  the Company;
+
+         2)       The Customer may be subject to pipeline penalties assessed to
+                  the Company which are caused by the Customer consuming the
+                  Company's gas with no authority to do so; and
+
+         3)       If the Customer elects to discontinue transporting gas and if
+                  the Company is able to secure a source of gas supply and
+                  transportation for the Customer, the cost of such gas and
+                  transportation may exceed the cost of gas being purchased by
+                  the Company's other Customers.
+
+IN WITNESS WHEREOF, the Parties hereto have executed this Service Request Form
+as of the day and year set forth below.
+
+Company                                              Customer
+
+Northwestern Public Service                          Dakota Ethanol - LLC
+                                                     --------------------
+
+
+By: /s/ Glen Hen                                     By: /s/ Jeff Broin
+  -------------------------                             ------------------------
+
+Title: Vice President                                Title: Vice Chairman
+      ---------------------                                ---------------------
+
+Date: 8/10/00                                        Date: 8-25-00
+     ----------------------                               ----------------------
+
+<Page>
+
+                   NORTHWESTERN PUBLIC SERVICE - SOUTH DAKOTA
+                              SERVICE REQUEST FORM
+
+
+                                   EXHIBIT "A"
+                            GAS TRANSPORTATION TARIFF
+                            PURCHASE NOMINATION ORDER
+
+         This Purchase Nomination Order ("PNO") is made and entered into by and
+between Customer and Company. This PNO is pursuant to and in accordance with the
+provisions of the Agreement for Gas Transportation Tariff executed between the
+Parties and Company's Gas Transportation Tariff as on file with and made
+effective by the South Dakota Public Utilities Commission.
+
+TELECOPY TO:  Dakota Ethanol
+
+ATTENTION:  Steve Sershen
+
+Telephone: 605-483-2676    Telecopier: 605-489-2677
+
+RATES:
+
+Transportation: $0.12 per MMBtu transported (Up to 1,533,000 MMBtu/Yr.)
+                                           Total maximum annual cost equals
+                                           $183,960 unless capital improvements
+                                           are required.
+
+Others:
+
+     Customer Charge - SDPUC Rate No. 87B tariff
+     No NorthWestern Pubic Service fuel retention
+
+Please acknowledge the terms outlined above by signing below, and return via
+facsimile to 605-353-8216.
+             ------------
+
+NorthWestern Public Service               DAKOTA ETHANOL -LLC
+"Company"                                 -------------------
+                                          "Customer"
+
+/s/ Glen Hen            8/10/00           /s/ Jeff Broin             8/25/00
+------------------------------------    ----------------------------------------
+Name                   Date               Name                      Date
+
+</TEXT>
+</DOCUMENT>

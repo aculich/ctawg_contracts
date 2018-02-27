@@ -1,0 +1,226 @@
+<DOCUMENT>
+<TYPE>EX-10.10
+<SEQUENCE>15
+<FILENAME>a2055520zex-10_10.txt
+<DESCRIPTION>EXHIBIT 10.10
+<TEXT>
+<Page>
+
+                                                                   Exhibit 10.10
+
+                            LINE EXTENSION AGREEMENT
+
+         This Agreement made and entered into 7-21-00 by and between the Sioux
+Valley Southwestern Electric Cooperative, Inc., Colman, South Dakota
+(hereinafter called the COOPERATIVE) and the Dakota Ethanol, L.L.C., Wentworth,
+South Dakota (hereinafter called the CUSTOMER).
+
+         Witnesseth:
+
+         Whereas, the CUSTOMER is constructing an ethanol plant located in
+Section 21 of Wentworth Township, Lake County, South Dakota (hereinafter called
+the FACILITY); and
+
+         Whereas, the CUSTOMER desires to have the COOPERATIVE provide
+three-phase construction power and limited contingency back-up capability to the
+FACILITY and the COOPERATIVE is willing and able to provide these requirements.
+
+         Now, Therefore, in consideration of the mutual promises, covenants and
+conditions contained herein, the COOPERATIVE and CUSTOMER agree as follows:
+
+1.0      DESCRIPTION OF FACILITY
+
+         The FACILITY shall include the CUSTOMER-owned ethanol plant and related
+         facilities located in the west half of the northeast quarter of Section
+         21, Township 106 North, Range 51 West, Lake County, South Dakota.
+
+2.0      AGREEMENT TO CONSTRUCT AND MAINTAIN THREE-PHASE LINE
+
+         2.1      LINE EXTENSION - The COOPERATIVE hereby agrees to construct
+                  and maintain approximately three miles of three-phase 12.5 kV
+                  distribution line originating from existing COOPERATIVE lines
+                  and extending to the FACILITY.
+
+         2.2      FUNCTION - The new line will be available for use by the
+                  FACILITY for construction power and back-up to the commercial
+                  operation and to the COOPERATIVE for any utility purpose.
+
+         2.3      CAPACITY - Electrical service delivery capacity to the
+                  FACILITY under this Agreement shall be approximately 1,000
+                  kVA.
+
+         2.4      COOPERATIVE OWNED FACILITIES - Electric service equipment
+                  furnished, installed, operated and maintained by the
+                  COOPERATIVE shall remain the property of the COOPERATIVE.
+
+3.0      CUSTOMER CONTRIBUTION AND PAYMENT TERMS
+
+
+                                       1
+<Page>
+
+         3.1      CONTRIBUTION-IN-AID TO CONSTRUCTION - The CUSTOMER agrees to
+                  pay to the COOPERATIVE a non-refundable contribution to the
+                  cost of construction in the amount of $100,000.
+
+         3.2      PAYMENT TERMS - The CUSTOMER shall have the option: (A) - to
+                  pay the entire $100,000 within 30 days of completion of the
+                  line construction, or (8) - to pay $15,000 within 30 days of
+                  completion of the line construction, plus $1,183 per month for
+                  a period of 120 months beginning with the commercial operation
+                  of the FACILITY or October 1, 2001, whichever occurs first.
+                  The amortization includes a carrying charge rate of 11.25% per
+                  year.
+
+4.0      SECURITY AGREEMENT FOR CUSTOMER OBLIGATIONS
+
+         To secure the CUSTOMER's performance of its obligations to the
+         COOPERATIVE under this Agreement, the CUSTOMER hereby agrees that, in
+         the event of non-payment, any unpaid balance will be transferred to the
+         FACILITY's electric service account and will be subject to the electric
+         energy collection terms associated with such account. In addition, the
+         CUSTOMER hereby grants the COOPERATIVE a security interest in any of
+         the COOPERATIVE's patronage capital credits owned or hereafter accrued
+         by the CUSTOMER.
+
+5.0      AGREEMENT TERM AND TERMINATION
+
+         5.1      DELIVERY OBLIGATION - The COOPERATIVE shall provide back-up
+                  service to the FACILITY, as described in paragraph 2 above,
+                  until such time as the CUSTOMER ceases to purchase the
+                  electric energy requirements of the FACILITY from the
+                  COOPERATIVE.
+
+         5.2      OBLIGATION FOR REIMBURSEMENT OF COOPERATIVE INVESTMENT - The
+                  CUSTOMER is responsible for paying for the COOPERATIVE's cats
+                  associated with installing the facilities described in
+                  paragraph 3 above. In the event that the CUSTOMER ceases to
+                  use the COOPERATIVE'S facilities, the CUSTOMER agrees to pay
+                  to the COOPERATIVE any unpaid balance of financed amount.
+
+         5.3      DEFAULT AND TERMINATION - The CUSTOMER shall be in default if
+                  it fails to timely pay for service under this Agreement, If it
+                  breaches any other of its obligations to the COOPERATIVE, or
+                  if it becomes the subject of bankruptcy or insolvency
+                  proceedings. If the CUSTOMER fails to cure that default within
+                  ten (10) days after the CUSTOMER receives written notice of
+                  default from the COOPERATIVE, the COOPERATIVE may, at its sole
+                  option, suspend or terminate its further performance under
+                  this Agreement, disconnect electric service to the CUSTOMER,
+                  terminate this Agreement, or take other action to address the
+                  CUSTOMER's default. This provision shall not limit the
+                  COOPERATIVE's right to take immediate action to suspend
+                  service if the CUSTOMER's act or omission interferes with the
+                  safe and efficient operation of the COOPERATIVE's electric
+                  system, nor shall it limit the COOPERATIVE's right to pursue
+                  any other or further remedy available to it by law.
+
+
+                                       2
+<Page>
+
+6.0      DISCLAIMER OF WARRANTY AN LIMITATION OF LIABILITY
+
+         Each party shall be responsible for its own facilities and personnel
+         provided or used in the performance of this Agreement. Neither
+         COOPERATIVE nor CUSTOMER shall be responsible to the other party for
+         damage to or loss of any property, wherever located, unless the damage
+         or loss is caused by its own negligence or intentional conduct or by
+         the negligence or intentional conduct of that party's officers,
+         employees, or agents, in which case the damage or loss shall be borne
+         by the responsible party. The COOPERATIVE shall not be responsible or
+         liable to the CUSTOMER or to any other party for any indirect, special
+         or consequential damages, or for loss of revenues from any cause.
+
+7.0      GENERAL
+
+         7.1      GOVERNING LAW - This Agreement and the rights and obligations
+                  of the parties hereunder shall be construed in accordance with
+                  and shall be governed by the laws of the State of South
+                  Dakota.
+
+         7.2      NOTICES - All notices under this Agreement shall be given in
+                  writing and shall be delivered personally or mailed by first
+                  class U.S. mail to the respective parties as follows:
+
+                  (a)      To CUSTOMER:
+
+                           Manager
+                           Dakota Ethanol, L.L.C.
+                           P.O. Box 100
+                           Wentworth, South Dakota 57075
+
+                  (b)      To COOPERATIVE:
+
+                           Manager
+                           Sioux Valley Southwestern Electric Cooperative, Inc.
+                           P.O. Box 216
+                           Colman, South Dakota 57017
+
+         7.3      NO WAIVER - No course of dealing nor any failure or delay on
+                  the part of a party in exercising any right, power or
+                  privilege under this Agreement shall operate as a waiver of
+                  any such right, power or privilege. The rights and remedies
+                  herein expressly provided are cumulative and not exclusive of
+                  any rights or remedies, which a party would otherwise have.
+
+         7.4      ENTIRE AGREEMENT/AMENDMENT - This Agreement represents the
+                  entire Agreement between the parties with respect to the
+                  matters addressed in this Agreement, except as provided in the
+                  COOPERATIVE's Bylaws, rules, and regulations applicable to
+                  similarly situated customers, which are incorporated herein.
+                  This Agreement may be
+
+
+                                       3
+<Page>
+
+                  changed, waived, or terminated only by written agreement
+                  signed by both parties as set forth herein.
+
+         7.5      ASSIGNMENT/BENEFIT OF AGREEMENT - Neither party may assign
+                  this agreement without the expressed written approval of the
+                  other party, which consent shall not be unreasonably withheld.
+
+         7.6      SEVERABILITY - If any provision of this Agreement is held
+                  invalid under any applicable laws, that invalidity shall not
+                  affect any other provision of this Agreement that can be given
+                  an effect without the invalid provision, and to this end the
+                  provisions are severable. If any term or condition of this
+                  Agreement is unenforceable under applicable law, such term or
+                  condition shall nevertheless be deemed enforceable to the
+                  fullest extent permissible and the applicable court is
+                  requested to reform the offending term or condition.
+
+         IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be
+executed by their duly authorized representatives, all as of the day and year
+first above written.
+
+Attest:                                             SIOUX VALLEY SOUTHWESTERN
+-----------------------------------                 ELECTRIC COOPERATIVE, INC.
+
+-----------------------------------
+
+Title:                                              By /s/ Don L.
+      -----------------------------
+                                                    Title:  General Manager
+
+
+===================================
+
+
+
+Attest:                                             DAKOTA ETHANOL, L.L.C.
+
+/s/ Steven Sershen                                  By /s/ Doug Van Duyn
+
+Title: Project Coordinator                          Title:  President
+
+
+
+
+
+                                       4
+
+</TEXT>
+</DOCUMENT>

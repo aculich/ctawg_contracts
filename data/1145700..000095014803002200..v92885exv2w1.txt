@@ -1,0 +1,1962 @@
+<DOCUMENT>
+<TYPE>EX-2.1
+<SEQUENCE>3
+<FILENAME>v92885exv2w1.txt
+<DESCRIPTION>EXHIBIT 2.1
+<TEXT>
+<PAGE>
+
+                                                                     EXHIBIT 2.1
+
+                          AGREEMENT AND PLAN OF MERGER
+
+                                  BY AND AMONG
+
+                        VITAL LIVING, INC. ("ACQUIROR"),
+
+                   VLEN ACQUISITION CORP., INC. ("MERGER SUB")
+
+                                       AND
+
+                         E-NUTRICEUTICALS, INC. ("ENI")
+
+<PAGE>
+
+                          AGREEMENT AND PLAN OF MERGER
+
+         This Agreement and Plan of Merger (the "Agreement") is made and entered
+into as of August 20, 2003, by and among VITAL LIVING, INC., a Nevada
+corporation ("Acquiror"), VLEN ACQUISITION CORP., INC., a Delaware corporation
+("Merger Sub") and wholly owned subsidiary of Acquiror, on the one hand, and
+E-NUTRICEUTICALS, INC., a Delaware corporation ("ENI") on the other hand.
+
+                                    RECITALS
+
+         A.       The boards of directors of ENI, Acquiror and Merger Sub
+believe it is in the best interests of their respective companies and the
+shareholders of their respective companies that ENI and Merger Sub combine into
+a single company through the merger of Merger Sub and ENI (the "Merger") and, in
+furtherance thereof, have approved the Merger and adopted this Agreement.
+Pursuant to the Merger, among other things, all outstanding shares of common
+stock of ENI (the "ENI Common Stock") shall be converted into shares of the
+common stock of Acquiror (the "Acquiror Common Stock"), and certain options to
+purchase shares of ENI Common Stock shall be assumed by Acquiror in the manner
+set forth herein.
+
+         B.       The Shareholders of ENI have approved the Merger and ENI's
+entering into this Agreement, in accordance with the General Corporation Law of
+Delaware (the "DGCL").
+
+         C.       The parties intend, by executing this Agreement, to adopt a
+plan of reorganization within the meaning of Section 368 of the Internal Revenue
+Code of 1986, as amended (the "Code"), and to cause the Merger to qualify as a
+reorganization under the provisions of Section 368(a)(2)(E) of the Code.
+
+         D.       Whereas concurrently with the execution of this Agreement and
+as an inducement to the Acquiror and ENI to enter into this Agreement and
+whereas SkyePharma PLC ("Skye") has indicated its intention to support the
+Merger and to waive certain of its rights as a preferred shareholder, the
+parties intend that Acquiror and Skye enter into an agreement granting certain
+registration rights to Skye with respect to the Acquiror Common Stock.
+
+                                    AGREEMENT
+
+         The parties hereby agree as follows:
+
+                                   SECTION ONE
+
+         1.       THE MERGER
+
+                  1.1      THE MERGER. Upon the terms and subject to the
+conditions set forth in this Agreement, and in accordance with Nevada Law and
+Delaware Law, as applicable, Merger Sub shall be merged with and into ENI, the
+separate corporate existence of Merger Sub shall cease
+
+<PAGE>
+
+and ENI shall continue as the surviving corporation of the Merger. ENI as the
+surviving corporation after the Merger is hereinafter sometimes referred to as
+the "Surviving Corporation."
+
+                  1.2      EFFECTIVE TIME; EFFECT OF THE MERGER. Concurrently
+herewith, the parties shall cause the Merger to be consummated by filing a
+certificate of merger subject to the fulfillment of the conditions contained in
+Section 5, in the form attached as Exhibit A hereto (the "Certificate of
+Merger") with the Secretary of State of Delaware in such form as required by,
+and executed in accordance with the relevant provisions of the DGCL (the date
+and time of such filing , or such later date and time as may be set forth
+therein, being the "Effective Time"). At the Effective Time, the effect of the
+Merger shall be as provided in this Agreement, the Certificate of Merger and the
+applicable provisions of the DGCL. At the Effective Time, all the property,
+rights, privileges, powers and franchises of ENI and Merger Sub shall vest in
+the Surviving Corporation, and all debts, liabilities and duties of ENI and
+Merger Sub shall become the debts, liabilities and duties of the Surviving
+Corporation.
+
+                  1.3      ARTICLES OF INCORPORATION; BYLAWS.
+
+                           (a)      At the Effective Time, the Certificate of
+Incorporation, as amended, of ENI shall be amended to be identical to that of
+Merger Sub, as in effect immediately prior to the Effective Time, except that
+Section One shall state that the name of the Surviving Corporation is
+"e-nutriceuticals, inc." The Certificate of Incorporation, as so amended, shall
+be the Certificate of Incorporation of the Surviving Corporation, until
+thereafter amended in accordance with the terms thereof and of the DGCL.
+
+                           (b)      At the Effective Time, the Bylaws of Merger
+Sub, as in effect immediately prior to the Effective Time, shall be the Bylaws
+of the Surviving Corporation until thereafter amended as provided by law, the
+Articles of Incorporation of the Surviving Corporation and such Bylaws.
+
+                  1.4      DIRECTORS AND OFFICERS. At the Effective Time, the
+directors of Merger Sub immediately prior to the Effective Time shall be the
+directors of the Surviving Corporation, and the officers of Merger Sub
+immediately prior to the Effective Time, shall be the officers of the Surviving
+Corporation, in each case until their respective successors are duly elected or
+appointed and qualified.
+
+                  1.5      EFFECT ON CAPITAL STOCK. By virtue of the Merger and
+without any action on the part of Merger Sub, ENI or any of their respective
+shareholders, the following shall occur at the Effective Time:
+
+                  (a)      CONVERSION OF ENI CAPITAL STOCK. All of the shares of
+ENI Common Stock outstanding immediately prior to the Effective Time, (except
+for shares of ENI Common Stock canceled pursuant to Section 1.5(b) or shares of
+ENI Common Stock ("Dissenting Shares") that are owned by stockholders
+("Dissenting Stockholders") exercising appraisal rights pursuant to Section 262
+of the DGCL (each, an "Excluded Share" and collectively, "Excluded Shares"))
+shall be converted and exchanged for an aggregate of Thirty One Million Two
+Hundred Forty
+
+                                       2
+
+<PAGE>
+
+Eight Thousand Six Hundred Ten (31,248,610) shares of Acquiror Common Stock (the
+"Merger Consideration"), assuming no rights are exercised pursuant to Section
+1.7. Pursuant to such exchange, each share of ENI Common Stock as completely and
+accurately listed on Exhibit B (except for shares of ENI Common Stock cancelled
+pursuant to Section 1.5(b) or Excluded Shares) hereto shall be entitled to
+receive 1.93084909 shares of the Acquiror Common Stock (the "Exchange Ratio").
+Subject to Section 1.7, all shares of ENI Common Stock, at the Effective Time,
+shall no longer be outstanding and shall automatically be cancelled and retired
+and shall cease to exist, and each holder of a certificate representing any such
+shares of ENI Common Stock shall cease to have any rights with respect thereto,
+except the right to receive the number of shares of Acquiror Common Stock equal
+to the number of shares of ENI Common Stock represented by such certificate
+multiplied by the Exchange Ratio upon the surrender of such certificate in
+accordance with Section 1.6, without interest, or Section 1.7 as the case may
+be. Exhibit B hereto contains a list of ENI capital stockholders immediately
+prior to the Effective Time and the number of shares of Acquiror Common Stock to
+which such holders are entitled, subject to Section 1.7.
+
+                           (b)      CANCELLATION OF ENI COMMON STOCK OWNED BY
+ACQUIROR OR ENI. At the Effective Time, all shares of ENI Common Stock that are
+owned by ENI as treasury stock, each share of ENI Common Stock owned by Acquiror
+or any direct or indirect wholly owned subsidiary of Acquiror or of ENI
+immediately prior to the Effective Time shall be cancelled and extinguished
+without any conversion thereof.
+
+                           (c)      ENI OPTIONS AND WARRANTS.
+
+                                    (i)      At the Effective Time (i) each
+option and warrant to purchase a share of ENI Common Stock (the "ENI Options")
+with an exercise price of $1.00 shall be deemed to constitute two options to
+purchase shares of Acquiror Common Stock (each, an "Acquiror Common Stock
+Option").
+
+                                    (ii)     each option and warrant to purchase
+a share of ENI Common Stock with an exercise price greater than $1.00 shall be
+converted into one Acquiror Common Stock Option.
+
+                                    (iii)    each Acquiror Common Stock Option
+shall (1) have an exercise price of $1.00 and (2) be exercisable from the date
+of issuance until the sixth anniversary of the Effective Time.
+
+                                    (iv)     Exhibit B-1 hereto contains a list
+of holders of ENI Options and the number of Acquiror Common Stock Options to
+which each is entitled.
+
+                                    (v)      As soon as practicable after the
+Effective Time, but no later than five (5) business days after the Effective
+Time, Acquiror shall deliver to the former holders of ENI Options appropriate
+notices setting forth such holders' rights pursuant to Acquiror's stock option
+plans (including that, in connection with the Merger and pursuant to the terms
+of the stock option plans, such options of such holders have become fully vested
+and exercisable). At or prior to the Effective Time, Acquiror shall take all
+corporate action necessary to reserve for issuance a
+
+                                       3
+
+<PAGE>
+
+sufficient number of shares of Acquiror Common Stock for delivery upon exercise
+of the Acquiror Common Stock Options issued by it in accordance with this
+Section.
+
+                           (d)      CAPITAL STOCK OF MERGER SUB. At the
+Effective Time, each share of common stock of Merger Sub ("Merger Sub Common
+Stock") issued and outstanding immediately prior to the Effective Time shall be
+converted into and exchanged for one validly issued, fully paid and
+nonassessable share of common stock of the Surviving Corporation. Each stock
+certificate of Merger Sub evidencing ownership of any such shares shall continue
+to evidence ownership of such shares of stock of the Surviving Corporation.
+
+                           (e)      FRACTIONAL SHARES. No fraction of a share of
+Acquiror Common Stock will be issued, but in lieu thereof each holder of shares
+of ENI Common Stock who would otherwise be entitled to a fraction of a share of
+Acquiror Common Stock (after aggregating all fractional shares of Acquiror
+Common Stock to be received by such holder) shall receive from Acquiror an
+amount of cash (rounded to the nearest whole cent) equal to the product of (i)
+such fraction, multiplied by (ii) the fair market value of a share of Acquiror
+Common Stock immediately prior to the Effective Time, as determined by reference
+to the closing price per share of Acquiror Common Stock, as reported at
+www.otcbb.com on the trading day immediately prior to the Effective Time.
+
+                  1.6      DELIVERY OF CERTIFICATES.
+
+                           (a)      EXCHANGE AGENT. Acquiror shall act as
+exchange agent for the Merger (the "Exchange Agent").
+
+                           (b)      ACQUIROR TO PROVIDE COMMON STOCK. Subject to
+Sections 1.13 and 1.14 promptly after the Effective Time, Acquiror shall make
+available for the benefit of all of the shareholders of ENI (the "ENI
+Shareholders"), certificates of Acquiror Common Stock ("Acquiror Certificates")
+representing the number of whole shares of Acquiror Common Stock issuable to the
+ENI Shareholders pursuant to Section 1.5.
+
+                           (c)      EXCHANGE PROCEDURES. Each holder of record
+of a certificate or certificates (the "ENI Certificates") which immediately
+prior to the Effective Time represented outstanding shares of ENI Common Stock,
+whose shares were converted into the right to receive shares of Acquiror Common
+Stock shall surrender each such ENI Certificate for cancellation to Acquiror or
+to such other agent or agents as may be appointed by Acquiror. Subject to
+Sections 1.13 and 1.14, the holder of such ENI Certificate shall be entitled to
+receive in exchange therefor, and Acquiror shall cause to be delivered to such
+holder, or its nominee, within ten (10) days of such delivery, a certificate
+representing the number of whole shares of Acquiror Common Stock which such
+holder has the right to receive pursuant to Section 1.5, and the ENI Certificate
+so surrendered shall forthwith be canceled. Until so surrendered, each
+outstanding ENI Certificate that, prior to the Effective Time, represented
+shares of ENI Common Stock will be deemed from and after the Effective Time, for
+all corporate purposes other than the payment of dividends, to evidence the
+ownership of the number of full shares of Acquiror Common Stock into which such
+shares of ENI Common Stock are entitled to be so converted.
+
+                                       4
+
+<PAGE>
+
+                           (d)      DISTRIBUTION WITH RESPECT TO UNEXCHANGED
+SHARES. No dividends or other distributions with respect to Acquiror Common
+Stock with a record date after the Effective Time will be paid to the holder of
+any unsurrendered ENI Certificate with respect to the shares of Acquiror Common
+Stock represented thereby until the holder of record of such ENI Certificate
+shall surrender such ENI Certificate. Subject to the effect of applicable
+escheat or similar laws, following surrender of any such ENI Certificate, there
+shall be paid to the record holder of the Acquiror Certificates issued in
+exchange therefor, without interest, at the time of such surrender, the amount
+of any such dividends or other distributions with a record date after the
+Effective Time theretofore payable (but for the provisions of this Section
+1.6(d)) with respect to such shares of Acquiror Common Stock.
+
+                           (e)      TRANSFER OF OWNERSHIP. If any Acquiror
+Certificate is to be issued in a name other than that in which the ENI
+Certificate surrendered in exchange therefor is registered, it will be a
+condition of the issuance thereof that the ENI Certificate so surrendered will
+be properly endorsed and otherwise in proper form for transfer and that the
+person requesting such exchange will have paid to Acquiror or any agent
+designated by it any transfer or other taxes required by reason of the issuance
+of an Acquiror Certificate for shares of Acquiror Common Stock in any name other
+than that of the registered holder of the ENI Certificate surrendered, or
+established to the satisfaction of Acquiror or any agent designated by it that
+such tax has been paid or is not payable. Each Acquiror Certificate will contain
+a customary legend as relative to the lack of registration. The legend will be
+substantially as follows except as otherwise agreed with the Acquiror:
+
+                  THE SHARES OF STOCK REPRESENTED BY THIS CERTIFICATE HAVE NOT
+                  BEEN REGISTERED UNDER THE SECURITIES ACT OF 1933, AS AMENDED,
+                  AND MAY NOT BE SOLD OR OTHERWISE TRANSFERRED UNLESS COMPLIANCE
+                  WITH THE REGISTRATION PROVISIONS OF SUCH ACT HAS BEEN MADE OR
+                  UNLESS AVAILABILITY OF AN EXEMPTION FROM SUCH REGISTRATION
+                  PROVISIONS HAS BEEN ESTABLISHED OR UNLESS SOLD PURSUANT TO
+                  RULE 144 UNDER THE SECURITIES ACT OF 1933. THESE SHARES OF
+                  COMMON STOCK MAY NOT BE PLEDGED, ASSIGNED HYPOTHECATED OR
+                  OTHERWISE USED IN ANY HEDGING OR SHORT SALE.
+
+         After the expiration of one year, Acquiror agrees that it will remove
+the last sentence of the legend for any holder so making such a request.
+
+                           (f)      NO LIABILITY. Notwithstanding anything to
+the contrary in this Section 1.6, none of the Exchange Agent, the Surviving
+Corporation or any party hereto shall be liable to any person in respect of any
+shares of Acquiror Common Stock delivered to a public official pursuant to any
+applicable abandoned property, escheat or similar law.
+
+                  1.7      DISSENTING SHARES. No Dissenting Stockholder shall be
+entitled to shares of Acquiror Common Stock or cash in lieu of fractional shares
+thereof or any dividends or other
+
+                                       5
+
+<PAGE>
+
+distributions pursuant to this Section 1 unless and until the holder thereof
+shall have failed to perfect or shall have effectively withdrawn or lost such
+holder's right to dissent from the Merger under the DGCL, and any Dissenting
+Stockholder shall be entitled to receive only the payment provided by Section
+262 of the DGCL with respect to ENI Common Stock or other shares owned by such
+Dissenting Stockholder. If any person who otherwise would be deemed a Dissenting
+Stockholder shall have failed to properly perfect or shall have effectively
+withdrawn or lost the right to dissent with respect to any ENI Common Stock,
+such ENI Common Stock shall thereupon be treated as though such shares of ENI
+Common Stock had been converted into shares of Acquiror Common Stock pursuant to
+Section 1.5 hereof.
+
+                  1.8      NO FURTHER OWNERSHIP RIGHTS IN ENI COMMON STOCK. All
+shares of Acquiror Common Stock issued upon the surrender for exchange of shares
+of ENI Common Stock in accordance with the terms hereof (including any cash paid
+in lieu of fractional shares) shall be deemed to have been issued in full
+satisfaction of all rights pertaining to such shares of ENI Common Stock, and
+there shall be no further registration of transfers on the records of the
+Surviving Corporation of shares of ENI Common Stock which were outstanding
+immediately prior to the Effective Time. If, after the Effective Time, ENI
+Certificates are presented to the Surviving Corporation for any reason, they
+shall be cancelled and exchanged as provided in this Section 1.
+
+                  1.9      TAX AND ACCOUNTING CONSEQUENCES. It is intended by
+the parties that the Merger shall constitute a reorganization within the meaning
+of Section 368 of the Code.
+
+                  1.10     TAKING OF NECESSARY ACTION; FURTHER ACTION. If at any
+time after the Effective Time, any further action is necessary or desirable to
+carry out the purposes of this Agreement and to vest the Surviving Corporation
+with full right, title and possession to all assets, property, rights,
+privileges, powers and franchises of ENI and Merger Sub, the officers and
+directors of ENI and Merger Sub are fully authorized in the name of their
+respective corporations or otherwise to take, and each of them will take, all
+such lawful and necessary action, so long as such action is not inconsistent
+with this Agreement.
+
+                  1.11     WITHHOLDING. Each of the Escrow Agent (as defined in
+Section 1.13), Acquiror, and the Surviving Corporation shall be entitled to
+deduct and withhold from any consideration payable or otherwise deliverable
+pursuant to this Agreement to any holder or former holder of ENI Common Stock
+such amounts as may be required to be deducted or withheld therefrom under the
+Code or any provision of state, local or foreign tax law or under any other
+applicable legal requirement. To the extent such amounts are so deducted or
+withheld, such amounts shall be treated for all purposes under this Agreement as
+having been paid to the person to whom such amounts would otherwise have been
+paid.
+
+                  1.12     LOST, STOLEN OR DESTROYED CERTIFICATES. In the event
+any ENI Certificates shall have been lost, stolen or destroyed, Acquiror shall
+issue subject to Sections 1.13 and 1.14, in exchange for such lost, stolen or
+destroyed certificates, upon the making of an affidavit of that fact by the
+holder thereof, such shares of Acquiror Common Stock (and cash in lieu of
+fractional shares) as may be required pursuant to Section 1.5.
+
+                                       6
+
+<PAGE>
+
+                  1.13     ESCROWED SHARES. It shall be a condition precedent to
+the issuance of the Merger Consideration that ENI and the Acquiror shall execute
+a Securities Escrow Agreement, substantially in the form attached hereto as
+Exhibit C (the "Escrow Agreement"). At the Effective Time, shares of Acquiror
+Common Stock representing 100% of the Merger Consideration other than the shares
+of Acquiror Common Stock which are to be issued to SkyePharma PLC (the "Skye
+Merger Consideration") shall be delivered to Mercantile National Bank, or such
+other escrow agent as may be mutually acceptable to ENI and the Acquiror (the
+"Escrow Agent") for the purposes of securing the indemnity obligations under
+Section 6 and the obligation set forth in Section 1.14.
+
+                  1.14     INITIAL RELEASE FROM ESCROW; ADJUSTMENT FOR EXCESS
+LIABILITIES.
+
+                  (a)      Upon the completion of the audited financial
+statements (balance sheets, income statements, statements of stockholders'
+equity and cash flows) for ENI's two fiscal years ended March 31, 2002 and March
+31, 2003 and unaudited financial statements for the three months ended June 30,
+2003 in a form acceptable to Acquiror for filing on a Form 8-K/A or Form 10-Q,
+as applicable, then, as provided in the Escrow Agreement, the Escrow Agent shall
+release , on a pro rata basis, an aggregate of fifty percent (50%) of all shares
+of Acquiror Common Stock issued to ENI Stockholders other than Fifth Avenue
+Capital, Inc.; provided however, that the unaudited financial statements for
+June 30, 3003 do not reveal liabilities in excess of $4,000,000. In which case,
+such shares shall not be released until the completion of the calculation of
+liabilities assumed by the Acquiror at the Effective Time (the "Effective Time
+Assumed Liabilities") as set forth in (b) below.
+
+                  (b)      (i) Upon completion of the calculation of the
+Effective Time Assumed Liabilities, the Escrow Agent shall return to Acquiror,
+as provided in the Escrow Agreement, three shares of Acquiror Common Stock for
+each dollar in liabilities by which the Effective Time Assumed Liabilities
+exceed $100,000 (the "Retained Shares"), which amount shall include $50,000
+which has been advanced by Skye to ENI to defray certain transactional costs
+hereunder but shall not include the $100,000 owed to Fifth Avenue Capital, Inc.,
+under the Promissory Note dated September 1, 1998. Notwithstanding the
+foregoing, the $100,000 limitation will be increased to $175,000 if, and only
+if, Stephen Morris ("Morris") meets the terms of that certain engagement letter
+being entered into concurrently herewith. In calculating the Assumed
+Liabilities, the sum of $183,179 representing the accrued expenses of ENI's UK
+subsidiary, X-Fat (UK) Ltd., as of March 31, 2001, shall not be included if
+Morris can reasonably demonstrate, as provided in Section 4.2 below, that
+Acquiror shall not be responsible for such obligation.
+
+                           (ii) As set forth in the Escrow Agreement, any return
+of shares of Acquiror Common Stock to the Acquiror in respect of excess
+Effective Time Assumed Liabilities shall be taken on a pro rata basis from
+shares beneficially owned by all ENI Shareholders that are subject to the Escrow
+Agreement.
+
+                           (iii) After calculation of the Effective Time Assumed
+Liabilities and the return of shares of Acquiror Common Stock in respect
+thereof, if any, to the Acquiror, any shares
+
+                                       7
+
+<PAGE>
+
+which would have been released pursuant to Section 1.14(a) but for there having
+been liabilities in excess of $4,000,000, shall be released.
+
+                  (c)      Any shares of Acquiror Common Stock returned to
+Acquiror as a result of any provision of this Agreement or the Escrow Agreement
+shall have the status of authorized but unissued shares of Acquiror Common
+Stock.
+
+                                   SECTION TWO
+
+         2.       REPRESENTATIONS AND WARRANTIES OF ENI.
+
+                  In this Agreement, any reference to a "Material Adverse
+Effect" with respect to any entity or group of entities means any event, change
+or effect that, when taken individually or together with all other adverse
+changes and effects, is or is reasonably likely to be materially adverse to the
+condition (financial or otherwise), properties, assets, liabilities, business,
+operations, results of operations or prospects of such entity and its
+subsidiaries, taken as a whole, or to prevent or materially delay consummation
+of the Merger or otherwise to prevent such entity and its subsidiaries from
+performing their obligations under this Agreement.
+
+                  In this Agreement, any reference to a party's "knowledge"
+means what such party actually knew or should have known after due and diligent
+inquiry of officers, directors and other employees of such party reasonably
+believed to have knowledge of the matter in questions. Each of Acquiror and
+Merger Sub acknowledges that Stephen Morris is the sole officer and director of
+ENI and that ENI does not have any employees.
+
+                  Except as disclosed in a document dated as of the date of this
+Agreement and delivered by ENI to Acquiror prior to the execution and delivery
+of this Agreement and referring to the representations and warranties in this
+Agreement (the "ENI Disclosure Schedule"), ENI represents and warrants to
+Acquiror and Merger Sub as follows:
+
+                  2.1      ORGANIZATION; SUBSIDIARIES. ENI is a corporation duly
+organized, validly existing and in good standing under the laws of its
+jurisdiction of organization. ENI has the requisite corporate power and
+authority and all necessary government approvals to own, lease and operate its
+properties and to carry on its business as now being conducted and as proposed
+to be conducted, except where the failure to have such power, authority and
+governmental approvals would not, individually or in the aggregate, have a
+Material Adverse Effect on ENI. ENI is duly qualified or licensed as a foreign
+corporation to do business, and is in good standing in the State of New York.
+ENI has one subsidiary, X-Fat (UK) Ltd., incorporated in the United Kingdom. ENI
+does not directly or indirectly own any equity or similar interest in, or any
+interest convertible into or exchangeable or exercisable for, any equity or
+similar interest in, any corporation, partnership, limited liability company,
+joint venture or other business association or entity.
+
+                  2.2      CERTIFICATE OF INCORPORATION AND BYLAWS. ENI has
+delivered a true and correct copy of the Certificate of Incorporation and Bylaws
+or other charter documents, as
+
+                                       8
+
+<PAGE>
+
+applicable, of ENI to Acquiror. ENI is not in violation of any of the provisions
+of its Certificate of Incorporation or Bylaws or equivalent organizational
+documents.
+
+                  2.3      CAPITAL STRUCTURE. The authorized capital stock of
+ENI consists of (i) Twenty Million (20,000,000) shares of Common Stock, of which
+there were issued and outstanding as of the date hereof, Sixteen Million One
+Hundred Eighty Three Thousand Eight Hundred Seventy (16,183,870) shares and (ii)
+five million (5,000,000) shares of preferred stock, no shares of which are now
+issued and outstanding. There are no other outstanding shares of capital stock
+or voting securities and no outstanding commitments to issue any shares of
+capital stock or voting securities, except as disclosed in Section 2.3 of the
+ENI Disclosure Schedule. All outstanding shares of ENI Common Stock are duly
+authorized, validly issued, fully paid and non-assessable and are free of any
+liens or encumbrances and are not subject to preemptive rights or rights of
+first refusal created by statute, the Certificate of Incorporation or Bylaws of
+ENI or any agreement to which ENI is a party or by which it is bound. All
+outstanding shares of ENI Common Stock were issued in compliance with all
+applicable federal and state securities laws. ENI has not issued or granted any
+options, warrants, calls, rights, commitments, agreements or arrangements of any
+character to which ENI is a party or by which ENI is bound relating to the
+issued or unissued capital stock of ENI or obligating ENI to issue, deliver,
+sell, repurchase or redeem, or cause to be issued, delivered, sold, repurchased
+or redeemed, any shares of capital stock of ENI or obligating ENI to grant,
+extend, accelerate the vesting of, change the price of, or otherwise amend or
+enter into any such option, warrant, call, right, commitment or agreement,
+except as disclosed in Section 2.3 of the ENI Disclosure Schedule. There are no
+contracts, commitments or agreements relating to voting, purchase or sale of
+ENI's capital stock (i) between or among ENI and any of its shareholders and
+(ii) to the knowledge of ENI, between or among any of ENI's shareholders. For
+the avoidance of doubt, Acquiror is not assuming any responsibility for, or
+otherwise agreeing to the issuance of any other shares of Acquiror Common Stock
+or Acquiror Common Stock Options, other than the Merger Consideration or the
+Acquiror Common Stock Options to be issued pursuant to Section 1.5(c)(i), in
+respect of any ENI options, warrants, convertible securities, or other equity
+equivalents, whether or not listed in Section 2.3 of the ENI Disclosure
+Schedule.
+
+                  2.4      AUTHORITY. ENI has all requisite corporate power and
+authority to enter into this Agreement and to consummate the transactions
+contemplated hereby. The execution and delivery of this Agreement and the
+consummation of the transactions contemplated hereby have been duly authorized
+by all necessary action on the part of ENI. ENI's sole director has approved the
+Merger and this Agreement. This Agreement has been duly executed and delivered
+by ENI and assuming due authorization, execution and delivery by Acquiror and
+Merger Sub, constitutes the valid and binding obligation of ENI enforceable
+against it in accordance with its terms.
+
+                  2.5      NO CONFLICTS; REQUIRED FILINGS AND CONSENTS. Except
+as disclosed in Section 2.5 of the ENI Disclosure Schedule:
+
+                           (a)      The execution and delivery of this Agreement
+by ENI does not, and the consummation of the transactions contemplated hereby
+will not, conflict with, or result in any violation of, or default under (with
+or without notice or lapse of time, or both), or give rise to a
+
+                                       9
+
+<PAGE>
+
+right of termination, cancellation or acceleration of any obligation or loss of
+any benefit under (i) any provision of the Certificate of Incorporation or
+Bylaws of ENI, as amended, or (ii) any material mortgage, indenture, lease,
+contract or other agreement or instrument, permit, concession, franchise,
+license, judgment, order, decree, statute, law, ordinance, rule or regulation
+applicable to ENI or any of its properties or assets.
+
+                           (b)      No consent, approval, order or authorization
+of, or registration, declaration or filing with, any court, administrative
+agency or commission or other governmental authority or instrumentality
+("Governmental Entity") is required by or with respect to ENI in connection with
+the execution and delivery of this Agreement or the consummation of the
+transactions contemplated hereby, except for (i) the filing of the Certificate
+of Merger, as provided in Section 1.2, and (ii) such consents, approvals,
+orders, authorizations, registrations, declarations and filings as may be
+required under the Securities Exchange Act of 1934, as amended (the "Exchange
+Act"), and the Securities Act of 1933, as amended (the "Securities Act").
+
+                  2.6      FINANCIAL STATEMENTS. Section 2.6 of the ENI
+Disclosure Schedule includes a true, correct and complete copy of ENI's
+unaudited financial statements for each of the fiscal years ended March 31, 2001
+and 2002, respectively (collectively, the "Financial Statements"), and its
+unaudited balance sheet as at July 30, 2003 (the "ENI Balance Sheet"). The
+Financial Statements (i) have been prepared in accordance with generally
+accepted accounting principles applied on a consistent basis throughout the
+periods indicated and with each other, and (ii) accurately set out and describe
+the financial condition and operating results of ENI as of the dates, and for
+the periods, indicated therein, subject to normal year-end audit adjustments.
+The ENI Balance Sheet has been prepared in good faith by ENI, however, ENI is
+not certain to what extent, if any, its auditors may determine that the
+$4,000,000 SKP technology access fee listed under the heading Intangible Assets
+on the ENI Balance Sheet must be written-down, or over what period and ENI makes
+no representation in this regard.
+
+                  2.7      ABSENCE OF UNDISCLOSED LIABILITIES. ENI has no
+material obligations or liabilities of any nature (matured or unmatured, fixed
+or contingent) other than (i) those set forth or adequately provided for in the
+ENI Balance Sheet, all of which have been satisfied prior to the Effective Time
+(excluding the items set forth on Section 2.7 of the ENI Disclosure Schedule),
+and (ii) those incurred in connection with the negotiation, preparation and
+execution of this Agreement including loans from shareholders for working
+capital purposes.
+
+                  2.8      ABSENCE OF CERTAIN CHANGES. Except for transactions
+contemplated by this Agreement and the Related Agreements or as set forth in
+Section 2.8 of the ENI Disclosure Schedule, since July 30, 2003, (the "ENI
+Balance Sheet Date") there has not been, occurred or arisen, any: (a)
+transaction by ENI except in the ordinary course of business as conducted on
+that date and consistent with past practices;
+
+                           (b)      amendments or changes to the Certificate of
+Incorporation or Bylaws of ENI;
+
+                                       10
+
+<PAGE>
+
+                           (c)      capital expenditure or commitment by ENI in
+the aggregate exceeding $10,000;
+
+                           (d)      destruction of, damage to, or loss of any
+assets (including, without limitation, intangible assets), business or customer
+of ENI (whether or not covered by insurance) which would constitute a Material
+Adverse Effect;
+
+                           (e)      labor trouble or claim of wrongful discharge
+or other unlawful labor practice or action;
+
+                           (f)      change in accounting methods or practices
+(including any change in depreciation or amortization policies or rates, any
+change in policies in making or reversing accruals, or any change in
+capitalization of software development costs) by ENI or any revaluation by ENI
+of any of its assets;
+
+                           (g)      revaluation by ENI of any of its assets;
+
+                           (h)      declaration, setting aside, or payment of a
+dividend or other distribution in respect to the capital stock of ENI, or any
+direct or indirect redemption, purchase or other acquisition by ENI of any of
+its capital stock;
+
+                           (i)      increase in the salary or other compensation
+payable or to become payable by ENI to any officers, directors, employees or
+advisors of ENI, or the declaration, payment, or commitment or obligation of any
+kind for the payment by ENI of a bonus or other additional salary or
+compensation to any such person except as otherwise contemplated by this
+Agreement, or other than as set forth in Section 2.16 below, the establishment
+of any bonus, insurance, deferred compensation, pension, retirement, profit
+sharing, stock option (including without limitation, the granting of stock
+options, stock appreciation rights, performance awards), stock purchase or other
+employee benefit plan;
+
+                           (j)      sale, lease, license of other disposition of
+any of the assets or properties of ENI, except in the ordinary course of
+business and not in excess of $10,000 in the aggregate;
+
+                           (k)      termination or material amendment of any
+material contract, agreement or license (including any distribution agreement)
+to which ENI is a party or by which it is bound;
+
+                           (l)      loan by ENI to any person or entity, or
+guaranty by ENI of any loan, except for (a) travel or similar advances made to
+employees in connection with their employment duties in the ordinary course of
+business, consistent with past practices and (b) trade payables not in excess of
+$10,000 in the aggregate and in the ordinary course of business, consistent with
+past practices;
+
+                           (m)      waiver or release of any right or claim of
+ENI including any write-off or other compromise of any account receivable of
+ENI, in excess of $2,500 in the aggregate;
+
+                                       11
+
+<PAGE>
+
+                           (n)      the commencement or notice or threat of
+commencement of any lawsuit or proceeding against or, to the ENI's or ENI's
+officers' or directors' knowledge, investigation of ENI or its respective
+affairs;
+
+                           (o)      notice of any claim of ownership by a third
+party of ENI's Intellectual Property (as defined in Section 2.13 below) or of
+infringement by ENI or of any third party's Intellectual Property rights;
+
+                           (p)      issuance or sale by ENI of any of its shares
+of capital stock, or securities exchangeable, convertible or exercisable
+therefor, or of any other of its securities;
+
+                           (q)      change in pricing or royalties set or
+charged by ENI to its customers or licensees or in pricing or royalties set or
+charged by persons who have licensed Intellectual Property to ENI;
+
+                           (r)      event or condition of any character that has
+or could reasonably be expected to have a Material Adverse Effect on ENI; or
+
+                           (s)      agreement by ENI, any Shareholder or any
+officer or employee of either on behalf of such entity to do any of the things
+described in the preceding clauses (a) through (r) (other than negotiations with
+Acquiror and its representatives regarding the transactions contemplated by this
+Agreement).
+
+                  2.9      LITIGATION. There is no private or governmental
+action, suit, proceeding, claim, arbitration or investigation pending before any
+agency, court or tribunal, foreign or domestic, or, to the knowledge of ENI,
+threatened against ENI, any of its properties or any of its officers or
+directors (in their capacities as such) that, individually or in the aggregate,
+could reasonably be expected to have a Material Adverse Effect on ENI. There is
+no judgment, decree or order against ENI, or, to the knowledge of ENI, any of
+its directors or officers (in their capacities as such), that could prevent,
+enjoin, or materially alter or delay any of the transactions contemplated by
+this Agreement, or that could reasonably be expected to have a Material Adverse
+Effect on ENI. All litigation to which ENI is a party (or, to the knowledge of
+ENI, threatened to become a party) is disclosed in Section 2.9 of the ENI
+Disclosure Schedule.
+
+                  2.10     RESTRICTIONS ON BUSINESS ACTIVITIES. Except as set
+forth in Section 2.10 of the ENI Disclosure Schedule, there is no agreement,
+judgment, injunction, order or decree binding upon ENI which has or could
+reasonably be expected to have the effect of prohibiting or materially impairing
+any current or future business practice of ENI, any acquisition of property by
+ENI or the overall conduct of business by ENI as currently conducted or as
+proposed to be conducted by ENI. ENI has not entered into any agreement under
+which ENI is restricted from selling, licensing or otherwise distributing any of
+its products to any class of customers, in any geographic area, during any
+period of time or in any segment of the market.
+
+                  2.11     PERMITS; PRODUCTS; REGULATION.
+
+                           (a)      ENI is in possession of all franchises,
+grants, authorizations, licenses, permits, easements, variances, exceptions,
+consents, certificates, approvals and orders
+
+                                       12
+
+<PAGE>
+
+necessary for ENI, to own, lease and operate its properties or to carry on its
+business as it is now being conducted (the "ENI Authorizations") and no
+suspension or cancellation of any ENI Authorization is pending or, to the
+knowledge of ENI, threatened, except where the failure to have, or the
+suspension or cancellation of, any ENI Authorization would not have a Material
+Adverse Effect on ENI. ENI is not in conflict with, or in default or violation
+of, (i) any laws applicable to ENI or by which any property or asset of ENI is
+bound or affected, (ii) any ENI Authorization, or (iii) any note, bond,
+mortgage, indenture, contract, agreement, lease, license, permit, franchise or
+other instrument or obligation to which ENI is a party or by which ENI or any
+property or asset of ENI is bound or affected, except for any such conflict,
+default or violation that would not, individually or in the aggregate, have a
+Material Adverse Effect on ENI.
+
+                           (b)      Except as would not have a Material Adverse
+Effect on ENI, there have been no written notices, citations or decisions by any
+governmental or regulatory body that any product produced, manufactured,
+marketed or distributed at any time by ENI (the "Products") is defective or
+fails to meet any applicable standards promulgated by any such governmental or
+regulatory body. To the knowledge of ENI, ENI has complied in all material
+respects with the laws, regulations, policies, procedures and specifications
+with respect to the design, manufacture, labeling, testing and inspection of the
+Products. Except as disclosed in Section 2.11(b) of the ENI Disclosure Schedule,
+there have been no recalls, field notifications or seizures ordered or, to the
+knowledge of ENI, threatened by any such governmental or regulatory body with
+respect to any of the Products.
+
+                           (c)      ENI has obtained, in all countries where ENI
+is marketing or has marketed its Products, all applicable licenses,
+registrations, approvals, clearances and authorizations required by local, state
+or federal agencies in such countries regulating the safety, effectiveness and
+market clearance of the Products currently or previously marketed by ENI in such
+countries, except for any such failures as would not, individually or in the
+aggregate, have a Material Adverse Effect on ENI.
+
+                  2.12     TITLE TO ASSETS. ENI has good and marketable title to
+all of its assets reflected in the ENI Balance Sheet or acquired after the ENI
+Balance Sheet Date (except (i) assets listed as Computer Hardware, Computer
+Software and Office Equipment and (ii) assets sold or otherwise disposed of
+since the ENI Balance Sheet Date in the ordinary course of business), or with
+respect to leased assets, valid leasehold interests in, free and clear of all
+liens, pledges, charges or encumbrances of any kind or character, except (i) the
+lien of current taxes not yet due and payable, (ii) such imperfections of title,
+liens and easements as do not and will not materially detract from or interfere
+with the use of the properties subject thereto or affected thereby, or otherwise
+materially impair business operations involving such properties, and (iii) liens
+securing debt which is reflected on the ENI Balance Sheet. The plants, property
+and equipment of ENI that are used in the operations of its business are in good
+operating condition and repair. All properties used in the operations of ENI are
+reflected in the ENI Balance Sheet to the extent United States generally
+accepted accounting principles require the same to be reflected. ENI does not
+lease or own any real property.
+
+                                       13
+
+<PAGE>
+
+                  2.13     INTELLECTUAL PROPERTY.
+
+                           (a)      ENI owns, or is licensed or otherwise
+possesses legally enforceable rights to use all patents, patent rights,
+trademarks, trademark rights, trade names, trade name rights, service marks,
+copyrights, and any applications for any of the foregoing, maskworks, net lists,
+schematics, industrial models, inventions, technology, know-how, trade secrets,
+inventory, ideas, algorithms, processes, computer software programs or
+applications (in both source code and object code form), and tangible or
+intangible proprietary information or material ("Intellectual Property") that
+are used or proposed to be used in the business of ENI as currently conducted or
+as proposed to be conducted by ENI, except to the extent that the failure to
+have such rights has not had and could not reasonably be expected to have a
+Material Adverse Effect on ENI.
+
+                           (b)      Except as set forth in Section 2.13 of the
+ENI Disclosure Schedule, ENI is not in violation of any license, sublicense or
+agreement material to the business of ENI. The execution and delivery of this
+Agreement by ENI and the consummation of the transactions contemplated hereby,
+will not cause ENI to be in violation or default under any such license,
+sublicense or agreement, nor entitle any other party to any such license,
+sublicense or agreement to terminate or modify such license, sublicense or
+agreement. Except as set forth in Section 2.13 of the ENI Disclosure Schedule,
+ENI is the sole and exclusive owner or licensee of, with all right, title and
+interest in and to (free and clear of any liens), the Intellectual Property, and
+has sole and exclusive rights (and is not contractually obligated to pay any
+compensation to any third party in respect thereof) to the use thereof or to the
+material covered thereby in connection with the services or products in respect
+of which Intellectual Property is being used.
+
+                           (c)      There is no material unauthorized use,
+disclosure, infringement or misappropriation of any Intellectual Property rights
+of ENI, any trade secret material to ENI or any Intellectual Property right of
+any third party to the extent licensed by or through ENI, by any third party,
+including any employee or former employee of ENI. ENI has not entered into any
+agreement to indemnify any other person against any charge of infringement of
+any Intellectual Property, other than indemnification provisions contained in
+purchase orders arising in the ordinary course of business.
+
+                           (d)      ENI is not and will not be as a result of
+the execution and delivery of this Agreement or the performance of its
+obligations under this Agreement, in breach of any license, sublicense or other
+agreement relating to the Intellectual Property, the breach of which would have
+a Material Adverse Effect on ENI.
+
+                           (e)      All patents, registered trademarks, service
+marks and copyrights held by ENI are valid and existing and, there is no
+assertion or claim (or basis therefor) challenging the validity of any
+Intellectual Property of ENI. ENI has not been sued in any suit, action or
+proceeding which involves a claim of infringement of any patents, trademarks,
+service marks, copyrights or violation of any trade secret or other proprietary
+right of any third party. Neither the conduct of the business of ENI as
+currently conducted or contemplated nor the manufacture, sale, licensing or use
+of any of the products of ENI as now manufactured, sold or licensed or used, nor
+the use in any way of the Intellectual Property in the manufacture, use, sale
+
+                                       14
+
+<PAGE>
+
+or licensing by ENI of any products currently proposed, infringes on or will
+infringe or conflict with, in any way, any license, trademark, trademark right,
+trade name, trade name right, patent, patent right, industrial model, invention,
+service mark or copyright of any third party that, individually or in the
+aggregate, is reasonably likely to have a Material Adverse Effect on ENI. All
+registered trademarks, service marks and copyrights held by ENI are valid and
+existing. No third party is challenging the ownership by ENI, or the validity or
+effectiveness of, any of the Intellectual Property. ENI has not brought any
+action, suit or proceeding for infringement of Intellectual Property or breach
+of any license or agreement involving Intellectual Property against any third
+party. There are no pending, or to the knowledge of ENI, threatened
+interference, re-examinations, oppositions or nullities involving any patents,
+patent rights or applications therefor of ENI, except such as may have been
+commenced by ENI. There is no breach or violation of or threatened or actual
+loss of rights under any license agreement to which ENI is a party.
+
+                           (f)      ENI has secured valid written assignments
+from all consultants and employees who contributed to the creation or
+development of Intellectual Property of the rights to such contributions that
+ENI does not already own by operation of law.
+
+                           (g)      ENI has taken all necessary and appropriate
+steps to protect and preserve the confidentiality of all Intellectual Property
+not otherwise protected by patents, patent applications or copyright
+("Confidential Information"). All use, disclosure or appropriation of
+Confidential Information not owned by ENI has been pursuant to the terms of a
+written agreement between ENI and the owner of such Confidential Information, or
+is otherwise lawful.
+
+                           (h)      The Geomatrix License Agreement is in full
+force and effect, and no default, or event, which with the passage of time or
+notice or both, would constitute an event of default, exists with respect
+thereto.
+
+                           (i)      The Chitasorbe License Agreement is in full
+force and effect, and no default, or event, which with the passage of time or
+notice or both, would constitute an event of default, exists with respect
+thereto.
+
+                  2.14     ENVIRONMENTAL MATTERS.
+
+                           (a)      The following terms shall be defined as
+follows:
+
+                                    (i)      "Environmental and Safety Laws"
+shall mean any federal, state or local laws, ordinances, codes, regulations,
+rules, policies and orders, as each may be amended from time to time, that are
+intended to assure the protection of the environment, or that classify,
+regulate, call for the remediation of, require reporting with respect to, or
+list or define air, water, groundwater, solid waste, hazardous or toxic
+substances, materials, wastes, pollutants or contaminants; which regulate the
+manufacture, handling, transport, use, treatment, storage or disposal of
+Hazardous Materials or materials containing Hazardous Materials; or which are
+intended to assure the protection, safety and good health of employees, workers
+or other persons, including the public.
+
+                                       15
+
+<PAGE>
+
+                                    (ii)     "Hazardous Materials" shall mean
+any toxic or hazardous substance, material or waste or any pollutant or
+contaminant, or infectious or radioactive substance or material, including
+without limitation, those substances, materials and wastes defined in or
+regulated under any Environmental and Safety Laws; petroleum and petroleum
+products including crude oil and any fractions thereof; natural gas, synthetic
+gas, and any mixtures thereof; radon; asbestos; and any other pollutant or
+contaminant.
+
+                                    (iii)    "Property" shall mean all real
+property, if any, leased or owned by ENI either currently or in the past.
+
+                                    (iv)     "Facilities" shall mean all
+buildings and improvements, if any, on the Property of ENI.
+
+                           (b)      ENI represents and warrants as follows: (i)
+no methylene chloride or asbestos is contained in or has been used at or
+released from the Facilities; (ii) all Hazardous Materials and wastes have been
+disposed of in accordance with all Environmental and Safety Laws; (iii) ENI has
+received no notice (verbal or written) of any noncompliance of the Facilities or
+of its past or present operations with Environmental and Safety Laws; (iv) no
+notices, administrative actions or suits are pending or threatened relating to
+Hazardous Materials or a violation of any Environmental and Safety Laws; (v) ENI
+is not a potentially responsible party under the federal Comprehensive
+Environmental Response, Compensation and Liability Act ("CERCLA"), or any state
+analog statute, arising out of events occurring prior to the Effective Time;
+(vi) there has not been in the past, and are not now, any contamination,
+disposal, spilling, dumping, incineration, discharge, storage, treatment or
+handling of Hazardous Materials on, under or migrating to or from the Facilities
+or Property (including without limitation, soils and surface and ground waters);
+(vii) there have not been in the past, and are not now, any underground tanks or
+underground improvements at, on or under the Property including without
+limitation, treatment or storage tanks, sumps, or water, gas or oil wells;
+(viii) there are no polychlorinated biphenyls ("PCBs") deposited, stored,
+disposed of or located on the Property or Facilities or any equipment on the
+Property containing PCBs at levels in excess of 50 parts per million; (ix) there
+is no formaldehyde on the Property or in the Facilities, nor any insulating
+material containing urea formaldehyde in the Facilities; (x) the Facilities and
+ENI's uses and activities therein have at all times complied with all
+Environmental and Safety Laws; (xi) ENI has all the permits and licenses
+required to be issued, if any, and is in full compliance with the terms and
+conditions of those permits; and (xii) ENI is not liable for any off-site
+contamination nor under any Environmental and Safety Laws.
+
+                  2.15     TAXES.
+
+                           (a)      For purposes of this Section 2.15 and other
+provisions of this Agreement relating to Taxes, the following definitions shall
+apply:
+
+                                    (i)      The term "Taxes" (or, as the
+context may require, "Tax") shall mean all taxes, however denominated, including
+any interest, penalties or other additions to tax that may become payable in
+respect thereof, (A) imposed by any federal, territorial, state, local or
+foreign government or any agency or political subdivision of any such
+government,
+
+                                       16
+
+<PAGE>
+
+which taxes shall include, without limiting the generality of the foregoing, all
+income or profits taxes (including but not limited to, federal, state and
+foreign income taxes), payroll and employee withholding taxes, unemployment
+insurance contributions, social security taxes, sales and use taxes, ad valorem
+taxes, excise taxes, franchise taxes, gross receipts taxes, withholding taxes,
+business license taxes, occupation taxes, real and personal property taxes,
+stamp taxes, environmental taxes, transfer taxes, workers' compensation, Pension
+Benefit Guaranty Corporation premiums and other governmental charges, and other
+obligations of the same or of a similar nature to any of the foregoing, which
+are required to be paid, withheld or collected, (B) any liability for the
+payment of amounts referred to in (A) as a result of being a member of any
+affiliated, consolidated, combined or unitary group, or (C) any liability for
+amounts referred to in (A) or (B) as a result of any obligations to indemnify
+another person.
+
+                                    (ii)     The term "Returns" shall mean all
+reports, estimates, declarations of estimated tax, information statements and
+returns required to be filed in connection with any Taxes, including information
+returns with respect to backup withholding and other payments to third parties.
+
+                           (b)      All Returns required to be filed by or on
+behalf of ENI have been duly filed on a timely basis and such Returns are true,
+complete and correct. Other than as set forth in Schedule 2.15, all Taxes shown
+to be payable on such Returns or on subsequent assessments with respect thereto,
+and all payments of estimated Taxes required to be made by or on behalf of ENI
+under Section 6655 of the Code or comparable provisions of state, local or
+foreign law, have been paid in full on a timely basis, and no other Taxes are
+payable by ENI with respect to items or periods covered by such Returns (whether
+or not shown on or reportable on such Returns). ENI has withheld and paid over
+all Taxes required to have been withheld and paid over, and complied with all
+information reporting and backup withholding in connection with amounts paid or
+owing to any employee, creditor, independent contractor, or other third party.
+There are no liens on any of the assets of ENI with respect to Taxes, other than
+liens for Taxes not yet due and payable or for Taxes that ENI is contesting in
+good faith through appropriate proceedings. ENI has not been at any time a
+member of an affiliated group of corporations filing consolidated, combined or
+unitary income or franchise tax returns for a period for which the statute of
+limitations for any Tax potentially applicable as a result of such membership
+has not expired.
+
+                           (c)      The amount of ENI's liabilities for unpaid
+Taxes for all periods through the date of the Financial Statements do not, in
+the aggregate, exceed the amount of the current liability accruals for Taxes
+reflected on the Financial Statements, and the Financial Statements properly
+accrue in accordance with generally accepted accounting principles all
+liabilities for Taxes of ENI payable after the date of the Financial Statements
+attributable to transactions and events occurring prior to such date. No
+liability for Taxes of ENI has been incurred since such date other than in the
+ordinary course of business.
+
+                           (d)      No audit of the Returns of or including ENI
+by a government or taxing authority is in process, threatened or, to ENI's
+knowledge, pending (either in writing or orally, formally or informally). No
+deficiencies exist or have been asserted (either in writing or orally, formally
+or informally) or are expected to be asserted with respect to Taxes of ENI, and
+
+                                       17
+
+<PAGE>
+
+ENI has not received notice (either in writing or orally, formally or
+informally) nor does it expect to receive notice that it has not filed a Return
+or paid Taxes required to be filed or paid. ENI is not a party to any action or
+proceeding for assessment or collection of Taxes, nor has such event been
+asserted or threatened (either in writing or orally, formally or informally)
+against ENI, or any of its assets. No waiver or extension of any statute of
+limitations is in effect with respect to Taxes or Returns of ENI. ENI has
+disclosed on its federal and state income and franchise tax returns all
+positions taken therein that could give rise to a substantial understatement
+penalty within the meaning of Code Section 6662 or comparable provisions of
+applicable state tax laws.
+
+                           (e)      ENI is not (nor has it ever been) a party to
+any tax sharing agreement. ENI has not been a distributing corporation or a
+controlled corporation in a transaction described in Section 355(a) of the Code.
+
+                           (f)      ENI is not, nor has it been, a United States
+real property holding corporation within the meaning of Section 897(c)(2) of the
+Code during the applicable period specified in Section 897(c)(1)(A)(ii) of the
+Code. ENI is not a "consenting corporation" under Section 341(f) of the Code.
+ENI has not entered into any compensatory agreements with respect to the
+performance of services which payment thereunder would result in a nondeductible
+expense to ENI pursuant to Section 280G of the Code or an excise tax to the
+recipient of such payment pursuant to Section 4999 of the Code. ENI has not
+agreed to, nor is it required to make, other than by reason of the Merger, any
+adjustment under Code Section 481(a) by reason of, a change in accounting
+method, and ENI will not otherwise have any income reportable for a period
+ending after the Effective Time attributable to a transaction or other event
+(e.g., an installment sale) occurring prior to the Effective Time with respect
+to which ENI received the economic benefit prior to the Effective Time. ENI is
+not and has not been, a "reporting corporation" subject to the information
+reporting and record maintenance requirements of Section 6038A and the
+regulations thereunder.
+
+                           (i)      The ENI Disclosure Schedule contains
+accurate and complete information regarding ENI's net operating losses for
+federal and each state tax purposes. ENI has no net operating losses and credit
+carryovers or other tax attributes currently subject to limitation under
+Sections 382, 383, or 384 of the Code.
+
+                  2.16     EMPLOYEE BENEFIT PLANS. ENI does not have any
+employees nor any employee benefit plans within the meaning of the Employee
+Retirement Income Security Act of 1974, as amended ("ERISA"), except for the
+stock option plan described in Section 2.16 of the ENI Disclosure Schedule,
+which plan has been terminated or will be terminated as of the date hereof.
+
+                  2.17     CERTAIN AGREEMENTS AFFECTED BY THE MERGER. Neither
+the execution and delivery of this Agreement nor the consummation of the
+transactions contemplated hereby will (i) result in any payment (including,
+without limitation, severance, unemployment compensation, golden parachute,
+bonus or otherwise) becoming due to any director or employee of ENI or any
+shareholder thereof, (ii) materially increase any benefits otherwise payable by
+ENI, or (iii) result in the acceleration of the time of payment or vesting of
+any such benefits.
+
+                                       18
+
+<PAGE>
+
+                  2.18     EMPLOYEE MATTERS. ENI is in compliance in all
+material respects with all currently applicable federal, state, local and
+foreign laws and regulations respecting employment, discrimination in
+employment, terms and conditions of employment, wages, hours and occupational
+safety and health and employment practices, and is not engaged in any unfair
+labor practice. There are no pending claims against ENI under any workers
+compensation plan or policy or for long term disability. ENI has no material
+obligations under COBRA with respect to any former employees or qualifying
+beneficiaries thereunder. There are no controversies pending or, to the
+knowledge of ENI, threatened, between ENI or any of its respective employees,
+which controversies have or could reasonably be expected to have a Material
+Adverse Effect on ENI. ENI is not a party to any collective bargaining agreement
+or other labor unions contract nor does ENI know of any activities or
+proceedings of any labor union or other group to organize any such employees.
+
+                  2.19     MATERIAL CONTRACTS.
+
+                           (a)      Subsections (i) through (ix) of Section
+2.19(a) of the ENI Disclosure Schedule contain a list of all contracts and
+agreements to which ENI is a party and that are material to the business,
+results of operations, or condition (financial or otherwise), of ENI taken as a
+whole (such contracts, agreements and arrangements as are required to be set
+forth in Section 2.19(a) of the ENI Disclosure Schedule being referred to herein
+collectively as the "Material Contracts"). Material Contracts shall include,
+without limitation, the following and shall be categorized in the ENI Disclosure
+Schedule as follows:
+
+                                    (i)      each contract and agreement now in
+force (other than routine purchase orders and pricing quotes in the ordinary
+course of business covering a period of less than 1 year) for the purchase of
+inventory, spare parts, other materials or personal property with any supplier
+or for the furnishing of services to ENI under the terms of which ENI: (A) paid
+or otherwise gave consideration of more than $100,000 in the aggregate during
+the calendar year ended December 31, 2002, (B) is likely to pay or otherwise
+give consideration of more than $100,000 in the aggregate during the calendar
+year ending December 31, 2003, (C) is likely to pay or otherwise give
+consideration of more than $100,000 in the aggregate over the remaining term of
+such contract, or (D) cannot be cancelled by ENI without penalty or further
+payment of less than $100,000;
+
+                                    (ii)     each customer contract and
+agreement now in force (other than routine purchase orders, pricing quotes with
+open acceptance and other tender bids, in each case, entered into in the
+ordinary course of business and covering a period of less than one year) to
+which ENI is a party which (A) involved consideration of more than $100,000 in
+the aggregate during the calendar year ended December 31, 2002, (B) is likely to
+involve consideration of more than $100,000 in the aggregate during the calendar
+year ending December 31, 2003, (C) is likely to involve consideration of more
+than $100,000 in the aggregate over the remaining term of the contract, or (D)
+cannot be cancelled by ENI without penalty or further payment of less than
+$100,000;
+
+                                    (iii)    (A) all distributor, manufacturer's
+representative, broker, franchise, agency and dealer contracts and agreements
+now in force to which ENI is a party and
+
+                                       19
+
+<PAGE>
+
+(B) all sales promotion, market research, marketing and advertising contracts
+and agreements now in force to which ENI is a party which: (1) involved
+consideration of more than $100,000 in the aggregate during the calendar year
+ended December 31, 2002, (2) are likely to involve consideration of more than
+$100,000 in the aggregate during the calendar year ending December 31, 2003, or
+(3) are likely to involve consideration of more than $100,000 in the aggregate
+over the remaining term of the contract;
+
+                                    (iv)     all management contracts with
+independent contractors or consultants (or similar arrangements) now in force to
+which ENI is a party and which (A) involved consideration or more than $100,000
+in the aggregate during the calendar year ending December 31, 2002, (B) are
+likely to involve consideration of more than $100,000 in the aggregate during
+the calendar year ending December 31, 2003, or (C) are likely to involve
+consideration of more than $100,000 in the aggregate over the remaining term of
+the contract;
+
+                                    (v)      all contracts and agreements under
+which ENI has created, incurred, assumed or guaranteed (or may create, incur,
+assume or guarantee) indebtedness or under which ENI has imposed (or may impose)
+a security interest or lien on any its assets, whether tangible or intangible,
+to secure indebtedness;
+
+                                    (vi)     all contracts and agreements that
+limit the ability of ENI or, after the Effective Time, Acquiror or any of its
+affiliates, to compete in any line of business or with any person or in any
+geographic area or during any period of time, or to solicit any customer or
+client;
+
+                                    (vii)    all contracts and agreements
+between or among ENI, on the one hand, and any affiliate of ENI, on the other
+hand:
+
+                                    (viii)   all contracts and agreements to
+which ENI is a party under which it has agreed to supply products to a customer
+at specified prices, whether directly or through a specific distributor,
+manufacturer's representative or dealer; and
+
+                                    (ix)     all other contracts or agreements
+(A) which are material to ENI or the conduct of its business, (B) the absence of
+which would have a Material Adverse Effect on ENI, or (C) which are believed by
+ENI to be of unique value even though not material to the business of ENI.
+
+                           (b)      Except as would not, individually or in the
+aggregate, have a Material Adverse Effect on ENI, each Material Contract and
+each other material contract or agreement of ENI which would not have been
+required to be disclosed in Section 2.19(a) of the ENI Disclosure Schedule had
+such contract or agreement been entered into prior to the date of this
+Agreement, is a legal, valid and binding agreement, and none of the Material
+Contracts (other than the Promissory Note owed to Fifth Avenue Capital, Inc.
+dated September 1, 1998 which is still outstanding and in effect) is in default
+by its terms or has been cancelled by the other party; ENI is not in receipt of
+any claim of default under any such agreement; and ENI does not anticipate any
+termination or change to, or receipt of a proposal with respect to, any such
+agreement as a result of the Merger or otherwise.
+
+                                       20
+
+<PAGE>
+
+                  2.20     INTERESTED PARTY TRANSACTIONS. Except as set forth in
+Section 2.20 of the ENI Disclosure Schedule, ENI is not indebted to any
+director, officer, employee or agent of ENI (except for amounts due as normal
+salaries and bonuses and in reimbursement of ordinary expenses), and no such
+person is indebted to ENI.
+
+                  2.21     INSURANCE.  ENI has no insurance.
+
+                  2.22     COMPLIANCE WITH LAWS. Except as set forth in Section
+2.22 of the ENI Disclosure Schedule, ENI has complied with, is not in violation
+of, and has not received any notices of violation with respect to, any federal,
+state, local or foreign statute, law or regulation with respect to the conduct
+of its business, or the ownership or operation of its business, except for such
+violations or failures to comply as could not reasonably be expected to have a
+Material Adverse Effect on ENI.
+
+                  2.23     MINUTE BOOKS. The minute books of ENI made available
+to Acquiror contain a complete summary of all meetings of directors and
+shareholders or actions by written consent since the time of incorporation of
+ENI through the date of this Agreement, and reflect all transactions referred to
+in such minutes accurately in all material respects.
+
+                  2.24     COMPLETE COPIES OF MATERIALS. ENI has delivered or
+made available true copies of each document which has been requested by Acquiror
+or its counsel in connection with their legal and accounting review of ENI.
+
+                  2.25     BROKERS' AND FINDERS' FEES. Except as set forth in
+Section 2.25 of the ENI Disclosure Schedule, ENI has not incurred, nor will it
+incur, directly or indirectly, any liability for brokerage or finders' fees or
+agents' commissions or investment bankers' fees or any similar charges in
+connection with this Agreement or any transaction contemplated hereby.
+
+                  2.26     VOTE REQUIRED. The affirmative vote of the
+shareholders of ENI is the only vote of the holders of any of ENI's capital
+stock necessary to approve this Agreement and the transactions contemplated
+hereby.
+
+                  2.27     BOARD APPROVAL. The sole director of ENI has (i)
+approved this Agreement and the Merger, (ii) determined that the Merger is in
+the best interests of the shareholders of ENI and is on terms that are fair to
+such shareholders and (iii) recommended that the shareholders of ENI approve
+this Agreement and the Merger.
+
+                  2.28     THIRD PARTY CONSENTS. Except as set forth in Section
+2.28 of the ENI Disclosure Schedule or as contemplated by this Agreement, no
+consent or approval required by, or with respect to, ENI is needed from any
+third party in order to effect the Merger, this Agreement or any of the
+transactions contemplated hereby.
+
+                  2.29     INVENTORY. (a) The inventories shown on the Financial
+Statements or thereafter acquired by ENI, consisted of items of a quantity and
+quality usable or salable in the ordinary course of business. ENI has not
+received written or oral notice that it will experience in the foreseeable
+future any difficulty in obtaining, in the desired quantity and quality and at a
+
+                                       21
+
+<PAGE>
+
+reasonable price and upon reasonable terms and conditions, the raw materials,
+supplies or component products required for the manufacture, assembly or
+production of its products. The values at which inventories are carried reflect
+the inventory valuation policy of ENI, which is consistent with its past
+practice and in accordance with generally accepted accounting principles applied
+on a consistent basis.
+
+                           (b)      All of the inventories of ENI reflected in
+the Financial Statements were purchased, acquired or produced in the ordinary
+and regular course of business and in a manner consistent with ENI's regular
+inventory practices and are set forth on ENI's books and records in accordance
+with the practices and principles of ENI consistent with the method of treating
+said items in prior periods. The presentation of inventory on the Financial
+Statements conforms to GAAP and such inventory is stated at the lower of cost
+(determined using the first-in, first-out method) or net realizable value.
+
+                  2.30     ACCOUNTS RECEIVABLE.
+
+                           All Accounts Receivable of ENI arose in the ordinary
+course of business, are carried at values determined in accordance with GAAP
+consistently applied. No person has any lien on any of such Accounts Receivable
+and no request or agreement for deduction or discount has been made with respect
+to any of such Accounts Receivable.
+
+                  2.31     NO COMMITMENTS REGARDING FUTURE PRODUCTS. ENI has
+made no sales to customers that are contingent upon providing future
+enhancements of existing products, to add features not presently available on
+existing products or to otherwise enhance the performance of its existing
+products (other than beta or similar arrangements pursuant to which ENI's
+customers from time to time test or evaluate products). The products ENI has
+delivered to customers substantially comply with published specifications for
+such products and ENI has not received material complaints from customers about
+its products that remain unresolved. Section 2.31 of the ENI Disclosure Schedule
+accurately sets forth a complete list of products in development (exclusive of
+mere enhancements to and additional features for existing products).
+
+                  2.32     REPRESENTATIONS COMPLETE. None of the representations
+or warranties made by ENI herein or in any Schedule, including the ENI
+Disclosure Schedule, or certificate furnished by ENI pursuant to this Agreement,
+when all such documents are read together in their entirety, contains or will
+contain at the Effective Time any untrue statement of a material fact, or omits
+or will omit at the Effective Time to state any material fact necessary in order
+to make the statements contained herein or therein, in the light of the
+circumstances under which made, not misleading.
+
+                                  SECTION THREE
+
+         3.       REPRESENTATIONS AND WARRANTIES OF ACQUIROR AND MERGER SUB.
+
+                  Except as disclosed in a document dated as of the date of this
+Agreement and delivered by Acquiror to ENI prior to the execution and delivery
+of this Agreement and referring
+
+                                       22
+
+<PAGE>
+
+to the representations and warranties in this Agreement (the "Acquiror
+Disclosure Schedule"), Acquiror and Merger Sub hereby jointly and severally
+represent and warrant to ENI as follows:
+
+                  3.1      ORGANIZATION OF THE ACQUIROR. The Acquiror is a
+corporation duly organized, validly existing and in good standing under the laws
+of the State of Nevada. The Merger Sub is a corporation duly organized, validly
+existing and in good standing under the laws of the State of Delaware. Each of
+the Acquiror and Merger Sub has the corporate power to own its properties and to
+carry on its business as now being conducted and is duly qualified to do
+business as a foreign corporation in the state of Arizona and in any other
+jurisdiction where it is required to be qualified to do business.
+
+                  3.2      CAPITALIZATION
+
+                           (a)      The authorized capital stock of the Acquiror
+consists solely of 100,000,000 shares of Acquiror Common Stock, par value $0.001
+per share, of which 21,267,116 shares are issued and outstanding, and 50,000,000
+shares of Preferred Stock, par value $0.001 per share ("Preferred Stock"), of
+which 5,592,488 shares are issued and outstanding. All of the outstanding shares
+of Acquiror Common Stock and Preferred Stock of the Acquiror have been duly
+authorized, validly issued, fully paid and non-assessable and are not subject to
+preemptive rights.
+
+                           (b)      Section 3.2(b) of the Acquiror Disclosure
+Schedule sets forth the capital structure of the Acquiror (computed without
+taking into account the full-ratchet anti-dilution adjustments for the warrant
+issued to Stuart Benson which will be cancelled and of no further force and
+effect as of the Effective Time). Except as set forth in Section 3.2(b) of the
+Acquiror Disclosure Schedule there are no (i) outstanding warrants, options,
+agreements, convertible securities or other commitments or instruments pursuant
+to which the Acquiror is or may become obligated to issue or sell any shares of
+capital stock or other securities of the Acquiror, (ii) equity interests, stock
+appreciation rights, phantom stock, profit participation rights or other equity
+or equity derivative security of any kind of the Acquiror, (iii) preemptive or
+similar rights to purchase or otherwise acquire shares of capital stock of the
+Acquiror pursuant to any provision of law, the Articles of Incorporation or
+Bylaws of the Acquiror or any agreement to which the Acquiror is party or
+otherwise, (iv) obligation (contingent or otherwise) of the Acquiror to
+purchase, redeem or otherwise acquire any shares of its capital stock or any
+interest therein or to pay any dividend or make any other distribution in
+respect thereof or (v) voting trusts, voting agreements, proxies or other
+agreements or instruments with respect to the voting of the Acquiror's Common
+Stock or other securities to which the Acquiror is a party, or to the best
+knowledge of the Acquiror, among or between any individual, corporation,
+partnership, limited liability company, joint venture association, joint-stock
+company, trust, unincorporated organization or government or other agency or
+political subdivision thereof (any "Persons") other than the Acquiror.
+
+                           (c)      Section 3.2 (c) of the Acquiror Disclosure
+Schedule sets forth the post-merger capital structure of the Acquiror, on a
+fully diluted basis, as it will exist upon consummation of the Merger. Upon
+consummation of the Merger, the Acquiror will have
+
+                                       23
+
+<PAGE>
+
+54,965,726 shares of Acquiror Common Stock issued and outstanding (excluding the
+"Contingent Equity Issuances", as set forth on Section 3.4(b) of the Disclosure
+Schedule) and 6,592,488 shares of Preferred Stock issued and outstanding. If all
+of the shares of Acquiror Common Stock issuable after consummation of the Merger
+and assuming the conversion of all securities convertible at any time into
+shares of Acquiror Common Stock and the exercise of all options or warrants or
+other rights to purchase or receive shares of the Acquiror Common Stock, whether
+or not immediately exercisable, as described in Section 3.2(b) or 3.2 (c) of the
+Acquiror Disclosure Schedule, were issued, the Acquiror would have 81,379,212
+shares of Acquiror Common Stock issued and outstanding, not including the
+Contingent Equity Issuances or the shares which may be earned under the
+incentive plan for the former senior employees of Christopher's Original
+Formula. It shall not be a breach of this representation if Section 3.2(c) is
+inadvertently inaccurate by plus of minus 100,000 shares of Acquiror Common
+Stock.
+
+         Except for its ownership of 100% of the capital stock of Nature Systems
+Inc. and VLEN Acquisition Corp., Inc. and 100% of the limited liability company
+interests of MAF BioNutritionals, LLC (the "Subsidiaries"), the Acquiror does
+not own and had not owned any interest, beneficially or of record, any
+corporation, partnership, joint venture or organization, whether incorporated or
+unincorporated.
+
+                           (d)      All outstanding shares of Acquiror Common
+Stock are duly authorized, validly issued, fully paid and non-assessable, were
+issued in compliance with all applicable federal and state securities laws, and
+are not subject to preemptive rights.
+
+                           (e)      All shares of Acquiror Common Stock to be
+issued as part of the Merger Consideration have been duly authorized and will
+be, when issued, validly issued, fully paid and non-assessable, free of any
+liens or encumbrances and not subject to preemptive rights or rights of first
+refusal created by statute, the Articles of Incorporation or By-laws of the
+Acquiror or any agreement to which the Acquiror or any of its shareholders is a
+party or by which any of them is bound.
+
+                           (f)      All shares of Acquiror Common Stock to be
+issued as part of the Merger Consideration will be issued in compliance with all
+applicable federal and state securities laws, including the Exchange Act, the
+Securities Act, and the rules and regulations promulgated thereunder.
+
+                           (g)      All Acquiror Common Stock Options to be
+issued pursuant to Section 1.5(c)(i) have been duly authorized and will be, when
+issued, validly issued and freely exercisable for shares of Acquiror Common
+Stock.
+
+                           (h)      The authorized capital stock of Merger Sub
+consists of 10,000 shares of Common Stock, par value $.00001 per share, all of
+which are validly issued and outstanding. All of the issued and outstanding
+capital stock of Merger Sub is, and at the Effective Time will be, owned by the
+Acquiror, and there are (i) no other shares of capital stock or voting
+securities of Merger Sub, (ii) no securities of Merger Sub convertible into or
+exchangeable for shares of capital stock or voting securities of Merger Sub and
+(iii) no options or
+
+                                       24
+
+<PAGE>
+
+other rights to acquire from Merger Sub, and no obligations of Merger Sub to
+issue, any capital stock, voting securities or securities convertible into or
+exchangeable for capital stock or voting securities of Merger Sub. Merger Sub
+has not conducted any business prior to the date hereof and has no, and prior to
+the Effective Time will have no, assets, liabilities or obligations of any
+nature other than those incident to its formation and pursuant to this Agreement
+and the Merger and the other transactions contemplated by this Agreement.
+
+                  3.3      SUBSIDIARIES. The Acquiror has no subsidiaries,
+partnerships, joint ventures or equity interests in other entities other than
+the Subsidiaries or as set forth in Section 3.3 of the Acquiror Disclosure
+Schedule. The Acquiror does not own and has not owned any interest in,
+beneficially or of record, any corporation, partnership, joint venture or
+organization, whether incorporated or unincorporated.
+
+                  3.4      AUTHORITY. The Acquiror and Merger Sub have all
+requisite power and authority to enter into this Agreement and the various
+agreements referred to in Section 4 and 5 of this Agreement to which either
+shall be a party (the "Related Agreements"), as applicable, and to consummate
+the transactions contemplated hereby and thereby. The execution and delivery of
+this Agreement and the Related Agreements and the consummation of the
+transactions contemplated hereby and thereby have been duly authorized by all
+necessary corporate or other action on the part of the Acquiror. The Acquiror's
+board of directors has unanimously approved the Merger, this Agreement, the
+Related Agreements and the consummation of the transactions contemplated hereby
+and thereby. This Agreement has been duly executed and delivered, and the
+Related Agreements, when delivered, will have been duly executed and delivered
+by the Acquiror and the Merger Sub, as applicable, and constitute the valid and
+binding obligation of the Acquiror and the Merger Sub, as applicable,
+enforceable in accordance with their terms. The execution and delivery of this
+Agreement and the Related Agreements, and the consummation of the transactions
+contemplated hereby and thereby, by the Acquiror does not, and, as of the
+Effective Time will not, conflict with, or result in any violation of, or
+default under (with or without notice or lapse of time, or both), or give rise
+to a right of termination, cancellation, modification or acceleration of any
+obligation or loss of any benefit under (any such event, a "Conflict") (i) any
+provision of the Articles of Incorporation or By-laws of the Acquiror, as
+amended, (ii) any material mortgage, indenture, lease, contract or other
+material agreement or instrument applicable to the Acquiror or its properties or
+assets, or (iii) applicable federal and state securities laws, including the
+Exchange Act, the Securities Act, and the rules and regulations promulgated
+thereunder. No consent, waiver, approval, order or authorization of, or
+registration, declaration or filing with, any court, administrative agency or
+commission or other federal, state, county, local or foreign governmental
+authority, instrumentality, agency or commission (each, a "Governmental Entity")
+or any third party, including a party to any agreement with the Acquiror (so as
+not to create or cause any Conflict), is required by or with respect to the
+Acquiror in connection with the execution and delivery of this Agreement and the
+Related Agreements or the consummation of the transactions contemplated hereby
+or thereby
+
+                                       25
+
+<PAGE>
+
+                  3.5      CONSENTS.
+
+                           (a)      There are no consents, waivers, approvals,
+orders or authorizations of, or registrations, declarations or filings with, any
+Governmental Entity (so as not to trigger any Conflict), required by or with
+respect to the Acquiror in connection with the execution and delivery of this
+Agreement and the Related Agreements or the consummation of the transactions
+contemplated hereby or thereby.
+
+                           (b)      Neither the execution of this Agreement and
+the Related Agreements nor the consummation of the transactions contemplated
+hereby and thereby requires the approval of the shareholders of the Acquiror
+under (i) the Articles of Incorporation or the By-laws of the Acquiror, (ii) the
+laws of the State of Nevada or (iii) applicable federal and state securities
+laws, including the Exchange Act, the Securities Act, and the rules and
+regulations promulgated thereunder.
+
+                           (c)      Neither the execution of this Agreement and
+the Related Agreements nor the consummation of the transactions contemplated
+hereby and thereby (including, without limitation, the issuance of the Merger
+Consideration and issuance of the Series D Convertible Preferred and the
+Acquiror Common Stock Options) requires the approval of, or the filing of any
+registration statement or other document with, the United States Securities and
+Exchange Commission (the "SEC") under the Securities Act, the Exchange Act or
+the rules and regulations promulgated thereunder or the filing of any notice
+under the Hart-Scott-Rodino Antitrust Improvements Act of 1976.
+
+                  3.6      SEC FILINGS. All documents required to be filed by
+the Acquiror with the SEC prior to the Effective Time under the Exchange Act,
+the Securities Act, and the rules and regulations promulgated thereunder, have
+been filed in a timely manner. All such documents, including any financial
+statements or other financial information contained therein, are accurate and
+complete and have been filed in accordance with such Acts, rules and
+regulations.
+
+                  3.7      BROKERS' AND FINDERS' FEES. Except as set forth in
+Section 3.7 of the Acquiror Disclosure Schedule, neither the Acquiror nor any of
+its Subsidiaries has incurred, nor will any of them incur, directly or
+indirectly, any liability for brokerage or finders' fees or agents' commissions
+or investment bankers' fees or any similar charges in connection with this
+Agreement or any of the transactions contemplated hereby.
+
+                  3.8      REPRESENTATIONS COMPLETE. None of the representations
+or warranties made by Acquiror or Merger Sub herein or in any Schedule,
+including the Acquiror Disclosure Schedule, or certificate furnished by Acquiror
+or Merger Sub pursuant to this Agreement, when all such documents are read
+together in their entirety, contains or will contain at the Effective Time any
+untrue statement of a material fact, or omits or will omit at the Effective Time
+to state any material fact necessary in order to make the statements contained
+herein or therein, in the light of the circumstances under which made, not
+misleading.
+
+                                       26
+<PAGE>
+
+                                  SECTION FOUR
+
+         4.       ADDITIONAL AGREEMENTS
+
+                  4.1      LISTING ON THE AMERICAN STOCK EXCHANGE. Subsequent to
+the consummation of the Merger, the Acquiror shall use its reasonable best
+efforts to have all shares of Acquiror Common Stock listed for trading on the
+American Stock Exchange prior to December 31, 2003.
+
+                  4.2      X-FAT (UK) LTD. Subsequent to the Merger, if there
+shall be any adverse financial impact upon the Acquiror resulting from accrued
+liabilities for any other reason at X-Fat (UK) Ltd., it shall use its reasonable
+best efforts to cause such entity to be shut down or sold to such entity's
+current directors at a nominal cost.
+
+                                  SECTION FIVE
+
+         5.       CONDITIONS FOR CONCURRENT SIGNING AND CLOSING OF THE MERGER.
+
+                  5.1      CONCURRENT CONDITIONS. The parties acknowledge that
+each of the conditions set forth below have been satisfied or shall be satisfied
+or waived concurrently with the signing of this Agreement and the filing of the
+Agreement of Merger:
+
+                           (a)      SHAREHOLDER APPROVAL. This Agreement and the
+Merger shall have been duly approved and adopted by the holders of the shares of
+the capital stock of ENI, in accordance with its Certificate of Incorporation,
+By-laws and applicable laws. The requisite holders of the Series A Convertible
+Preferred Stock of ENI shall have waived their Sale of Control Preference under
+Section 2.2 under the Certificate of Designations, Preferences and Rights of
+Series A Convertible Preferred Stock (the "Certificate of Designations") and
+shall otherwise have approved the Merger under the terms of the Certificate of
+Designations, or shall otherwise have converted all of the outstanding shares of
+Series A Convertible Preferred Stock into ENI Common Stock.
+
+                           (b)      NO INJUNCTIONS OR RESTRAINTS; ILLEGALITY. No
+temporary restraining order, preliminary or permanent injunction or other order
+issued by any court of competent jurisdiction or other legal or regulatory
+restraint or prohibition preventing the consummation of the Merger shall be in
+effect, nor shall any proceeding brought by an administrative agency or
+commission or other governmental authority or instrumentality, domestic or
+foreign, seeking any of the foregoing be pending; nor shall there be any action
+taken, or any statute, rule, regulation or order enacted, entered, enforced or
+deemed applicable to the Merger, which makes the consummation of the Merger
+illegal. In the event an injunction or other order shall have been issued, each
+party agrees to use its reasonably diligent efforts to have such injunction or
+other order lifted.
+
+                           (c)      GOVERNMENTAL APPROVAL. Acquiror, ENI and
+Merger Sub and their respective subsidiaries shall have timely obtained from
+each Governmental Entity all
+
+                                       27
+
+<PAGE>
+
+approvals, waivers and consents, if any, necessary for consummation of, or in
+connection with, the Merger and the several transactions contemplated hereby.
+
+                           (d)      ESCROW AGREEMENT. Acquiror, ENI and the
+Escrow Agent shall have entered into the Escrow Agreement in the form attached
+hereto as Exhibit C.
+
+                           (e)      INVESTMENT BY SKYE. Skye shall have invested
+$1,000,000 in Acquiror in exchange for the issuance of Series D Convertible
+Preferred Stock, pursuant to the terms of the Subscription Agreement attached
+hereto as Exhibit "D"(the "Subscription Agreement"). Acquiror shall have filed
+the Certificate of Designations, Preferences and Rights of the Series D
+Convertible Preferred Stock with the Secretary of State of the State of Nevada
+as contemplated by the Subscription Agreement
+
+                           (f)      SHAREHOLDERS AGREEMENT. Each of Brad Edson,
+Stuart Benson, Skye, Fifth Avenue Capital, Inc. and certain other parties shall
+enter into a shareholders agreement in substantially the form of Exhibit "E".
+
+                           (g)      AMENDMENT OF THE GEOMATRIX LICENSE
+AGREEMENT. (i) The Geomatrix License Agreement between Skye and ENI shall have
+been amended (the "Material License Amendment") in the form attached hereto as
+Exhibit "F" and (ii) The Assignment and Assumption Agreement attached as Exhibit
+2 to the Material License Amendment shall have been executed by ENI, the
+Acquiror and Skye.
+
+                           (h)      RECEIPT OF BINDING FINANCING COMMITMENT
+LETTER. Skye shall have delivered a binding commitment letter to invest
+$1,000,000 (in addition to the amount set forth in Section 5.1(e)) in the event
+that the Acquiror raises an additional $3,000,000 within 90 days of the
+Effective Time in a private offering to be completed after the closing of the
+transaction contemplated hereby.
+
+                           (i)      CERTIFICATE OF SOLE OFFICER OF ENI. Acquiror
+and Merger Sub shall have been provided with a certificate executed by the sole
+officer of ENI certifying:
+
+                                    (i)      resolutions duly adopted by the
+sole director and the shareholders of ENI authorizing the execution of this
+Agreement and the execution, performance and delivery of all agreements,
+documents and transactions contemplated hereby;
+
+                                    (ii)     the Certificate of Incorporation
+and Bylaws of ENI, as in effect immediately prior to the Effective Time,
+including all amendments thereto; and
+
+                                    (iii)    the incumbency of the officer of
+ENI executing this Agreement and all agreements and documents contemplated
+hereby.
+
+                           (j)      OFFICER'S CERTIFICATE. The sole officer of
+ENI shall have furnished Acquiror with an Officer's Certificate relating to the
+status of ENI shareholders as "accredited investors" as that term is defined
+under Regulation D of the Securities Act and all documentation collected from
+shareholders establishing the conclusions drawn in such Officer's Certificate.
+
+                                       28
+
+<PAGE>
+
+                           (k)      CERTIFICATE OF SECRETARY OF ACQUIROR AND
+MERGER SUB. ENI shall have been provided with a certificate executed by the
+Secretary of each of Acquiror and Merger Sub certifying:
+
+                                    (i)      resolutions duly adopted by the
+board of directors of each of Acquiror and Merger Sub authorizing the execution
+of this Agreement and the execution, performance and delivery of all agreements,
+documents and transactions contemplated hereby;
+
+                                    (ii)     the Articles of Incorporation and
+By-laws of each of Acquiror and Merger Sub, as in effect immediately prior to
+the Effective Time, including all amendments thereto; and
+
+                                    (iii)    the incumbency of the officers of
+each of Acquiror and Merger Sub executing this Agreement, and all agreements and
+documents contemplated hereby.
+
+                           (l)      OFFICER RETENTION PLAN. The Board of
+Directors of Acquiror shall have authorized the issuance to the Acquiror's
+Chairman of the Board of 1,300,000 Shares of Acquiror Common Stock as well as
+have amended the warrant agreement with the Acquiror's President in a manner of
+Acquiror Common Stock acceptable to Acquiror, such that the full rachet anti-
+dilution protection will be eliminated from such Warrant Agreement on a
+prospective basis, and the total number of shares of Acquiror Common Stock
+subject to such Warrant Agreement shall be 6,310,000 after the Effective Time.
+
+                           (m)      RESIGNATION OF DIRECTORS. Acquiror shall
+have received a letter of resignation from the sole director and officer of ENI
+by Acquiror in office immediately prior to the Effective Time, which
+resignations in each case shall be effective as of the Effective Time.
+
+                           (n)      REGISTRATION RIGHTS AGREEMENT. Acquiror and
+Skye shall have entered into a Registration Rights Agreement, substantially in
+the form of Exhibit "G".
+
+                           (o)      LEGAL OPINION. The ENI Shareholders shall
+have received an opinion, dated as of the Effective Time, of Kelly Lytton & Vann
+LLP in the form attached hereto as Exhibit "H".
+
+                           (p)      CHITASORBE (X-FAT) LICENSE. SeaIences.com
+Inc. shall have signed a side letter representing that the Chitasorbe (X-Fat)
+License held by ENI is in full force and effect.
+
+                                   SECTION SIX
+
+         6.       ESCROW AND INDEMNIFICATION.
+
+                  6.1      SURVIVAL OF REPRESENTATIONS AND WARRANTIES. All
+covenants to be performed prior to or after the Effective Time, and all
+representations and warranties in this Agreement or in any instrument delivered
+pursuant to this Agreement shall survive until the termination of the Escrow
+Period (as defined in Section 6.4).
+
+                                       29
+
+<PAGE>
+
+                  6.2      ESCROW FUND. The shares remaining in the possession
+of the Escrow Agent after the adjustment contemplated by Section 1.14 (such
+remaining shares being referred to herein as the "Escrow Fund") shall be
+governed by the terms set forth herein and in the Escrow Agreement. The Escrow
+Fund shall be comprised of, (i) one hundred percent (100%) of the shares of
+Acquiror Common Stock issued to Fifth Avenue Capital, Inc. pursuant to Section
+1.5; and (ii) on a pro rata basis, fifty percent (50%) of the shares of Acquiror
+Common Stock issued to all ENI Shareholders pursuant to Section 1.5, other than
+Fifth Avenue Capital, Inc. and Skye (all such shares described in (i) and (ii),
+the "Escrow Shares"). For the avoidance of doubt, the Skye Merger Consideration
+shall not constitute any part of the Escrow Fund or the Escrow Shares. In the
+event that any Damages (as defined in Section 6.3) arise, then the Escrow Fund
+shall be available to compensate the Acquiror and the Indemnified Persons (as
+defined in Section 6.3) for such Damages pursuant to the indemnification
+obligations set forth in Section 6.3 and in accordance with the Escrow
+Agreement.
+
+                  6.3      INDEMNIFICATION; INDEMNIFIED DAMAGES. Subject to the
+limitations set forth in this Section 6, from and after the Effective Time, the
+Escrow Fund shall be used to indemnify Acquiror and the Surviving Corporation
+and their respective affiliates, officers, directors, employees, representatives
+and agents (Acquiror, Surviving Corporation and each of the foregoing persons or
+entities is hereinafter referred to individually as an "Indemnified Person" and
+collectively as "Indemnified Persons") from and against any and all losses,
+costs, damages, liabilities, fees (including without limitation attorneys' fees)
+and expenses (collectively, the "Damages"), that any of the Indemnified Persons
+incurs or reasonably anticipates incurring by reason of or in connection with
+any claim, demand, action or cause of action alleging misrepresentation, breach
+of, or default in connection with, any of the representations, warranties,
+covenants or agreements of ENI contained in this Agreement, including any
+Exhibits or Schedules, and the Agreement of Merger; provided, however that the
+maximum amount of any indemnification paid hereunder shall be limited, in the
+aggregate, to the total value of the Escrow Fund and any such indemnification
+shall only be paid from the Escrow Fund. The Escrow Fund shall be the only
+source from which compensation for Damages hereunder shall be paid. For the
+avoidance of doubt, none of the ENI Shareholders shall bear any liability for
+Damages hereunder, except for, and to the extent of, the shares of Acquiror
+Common Stock held in the Escrow Fund and beneficially owned by any such person.
+
+                  6.4      ESCROW PERIOD. Subject to the following requirements,
+the Escrow Fund shall remain in existence (the "Escrow Period") until one (1)
+year after the Effective Time (the "Escrow Termination Date"). On the Escrow
+Termination Date, the Escrow Fund shall terminate with respect to all Escrow
+Shares; provided, however, that the number of Escrow Shares, which, in the
+reasonable judgment of Acquiror, subject to the objection of the Shareholders'
+Representative (as defined in Section 6.7 below) and the subsequent arbitration
+of the claim in the manner provided in the Escrow Agreement, are necessary to
+satisfy any unsatisfied claims specified in an Officer's Certificate delivered
+to the Escrow Agent prior to the expiration of such Escrow Period with respect
+to facts and circumstances existing on or prior to the Escrow Termination Date
+shall remain in the Escrow Fund (and the Escrow Fund shall remain in existence)
+until such claims have been resolved; provided, however, that the Escrow Shares
+to be retained shall be taken from all Escrow Shares beneficially owned by the
+ENI Shareholders on a
+
+                                       30
+
+<PAGE>
+
+pro rata basis. As soon as all such claims have been resolved, the Escrow Agent
+shall deliver to the relevant ENI Shareholders all Escrow Shares and other
+property remaining in the Escrow Fund and not required to satisfy such claims.
+Deliveries of Escrow Shares to the ENI Shareholders pursuant to this Section 6.4
+and the Escrow Agreement shall be made in proportion to their respective
+original contributions to the Escrow Fund.
+
+                  6.5      DISTRIBUTIONS.
+
+                           Any shares of Acquiror Common Stock or other equity
+securities issued or distributed by Acquiror (including shares issued upon a
+stock split) in respect of the Escrow Shares that have not been released from
+the Escrow Fund shall be added to the Escrow Fund and become a part thereof.
+When and if cash dividends on Escrow Shares in the Escrow Fund shall be declared
+and paid, they shall be retained in escrow pending final distribution of the
+Escrow Fund and will not be immediately distributed to the beneficial owners of
+the Escrow Shares. Such dividends will become part of the Escrow Fund and will
+be available to satisfy Damages in accordance with the provisions set forth in
+the Escrow Agreement. The beneficial owners of the Escrow Shares shall pay any
+taxes on such dividends.
+
+                  6.6      METHOD OF ASSERTING CLAIMS. All claims for
+indemnification by the Surviving Corporation or any other Indemnified Person
+pursuant to this Section 6 shall be made in accordance with the provisions of
+the Escrow Agreement.
+
+                  6.7      REPRESENTATIVE OF THE SHAREHOLDERS; POWER OF
+ATTORNEY. Upon the execution of this Agreement, Stephen Morris shall be
+appointed as agent and attorney-in-fact (collectively, the "Shareholders'
+Representative") for each ENI Shareholder other than Skye for and on its behalf,
+to act in such capacity under the Escrow Agreement, to give and receive notices
+and communications, to authorize delivery to Acquiror of Escrow Shares, or other
+property from the Escrow Fund in satisfaction of claims by Acquiror or any other
+Indemnified Person, to object to such deliveries, to agree to, negotiate, enter
+into settlements and compromises of, and demand arbitration and comply with
+orders of courts and awards of arbitrators with respect to such claims, and to
+take all actions necessary or appropriate in the judgment of Shareholders'
+Representative for the accomplishment of the foregoing.
+
+                                  SECTION SEVEN
+
+         7.       GENERAL PROVISIONS.
+
+                  7.1      NOTICES. Any notice required or permitted by this
+Agreement shall be in writing and shall be deemed sufficient upon receipt, when
+delivered personally or by courier, overnight delivery service or confirmed
+facsimile, or 48 hours after being deposited in the regular mail as certified or
+registered mail (airmail if sent internationally) with postage prepaid, if such
+notice is addressed to the party to be notified at such party's address or
+facsimile number as set forth below, or as subsequently modified by written
+notice,
+
+                                       31
+
+<PAGE>
+
+                           (a)      if to Acquiror or Merger Sub, to:
+
+                                    Vital Living, Inc.
+                                    5080 North 40th Street, Suite 105
+                                    Phoenix, Arizona 85018-2158
+                                    Attention: Mr. Bradley D. Edson, CEO
+                                    Facsimile No.: (602) 952-6907
+                                    Telephone No.: (602) 952-9909
+
+                                    with a copy to:
+
+                                    Kelly Lytton & Vann LLP
+                                    1900 Avenue of the Stars, Suite 1450
+                                    Los Angeles, California 90067
+                                    Attention:  Bruce Vann, Esq.
+                                    Facsimile No.: (310) 277-5953
+                                    Telephone No.: (310) 277-5333
+
+                           (b)      if to ENI or the Shareholders'
+                                    Representative to:
+                                    Stephen Morris
+                                    Fifth Avenue Capital
+                                    10 East 63rd Street
+                                    New York, NY 10021
+
+         All notices hereunder provided to ENI or the Shareholders'
+Representative shall be copied to Skye at its address on the books of the
+Acquiror (attention: Company Secretary).
+
+                  7.2.     INTERPRETATION. When a reference is made in this
+Agreement to Exhibits or Schedules, such reference shall be to an Exhibit or
+Schedule to this Agreement unless otherwise indicated. The words "include,"
+"includes" and "including" when used herein shall be deemed in each case to be
+followed by the words "without limitation." The phrase "made available" in this
+Agreement shall mean that the information referred to has been made available if
+requested by the party to whom such information is to be made available. The
+phrases "the date of this Agreement," "the date hereof," and terms of similar
+import, unless the context otherwise requires, shall be deemed to refer
+to___________, 2003. The table of contents and headings contained in this
+Agreement are for reference purposes only and shall not affect in any way the
+meaning or interpretation of this Agreement.
+
+                  7.3      COUNTERPARTS. This Agreement may be executed in two
+or more counterparts, each of which shall be deemed an original and all of which
+together shall constitute one instrument.
+
+                  7.4      ENTIRE AGREEMENT; NONASSIGNABILITY; PARTIES IN
+INTEREST. This Agreement and the documents and instruments and other agreements
+specifically referred to herein or delivered pursuant hereto, including the
+Exhibits, the Schedules, including the ENI Disclosure Schedule and the Acquiror
+Disclosure Schedule (a) constitute the entire agreement
+
+                                       32
+
+<PAGE>
+
+among the parties with respect to the subject matter hereof and supersede all
+prior agreements and understandings, both written and oral, among the parties
+with respect to the subject matter hereof, except for the Confidentiality
+Agreement, which shall continue in full force and effect, and shall survive any
+termination of this Agreement or the Effective Time, in accordance with its
+terms; (b) are not intended to confer upon any other person any rights or
+remedies hereunder, except as set forth in Sections 1.5 (a)-(c) and (e), 1.6.
+1.8, 1.12; and (c) shall not be assigned by operation of law or otherwise except
+as otherwise specifically provided.
+
+                  7.5      SEVERABILITY. If one or more provisions of this
+Agreement are held to be unenforceable under applicable law, the parties agree
+to renegotiate such provision in good faith, in order to maintain the economic
+position enjoyed by each party as close as possible to that under the provision
+rendered unenforceable. In the event that the parties cannot reach a mutually
+agreeable and enforceable replacement for such provision, then (i) such
+provision shall be excluded from this Agreement, (ii) the balance of the
+Agreement shall be interpreted as if such provision were so excluded and (iii)
+the balance of the Agreement shall be enforceable in accordance with its terms.
+
+                  7.6      REMEDIES CUMULATIVE. Except as otherwise provided
+herein, any and all remedies herein expressly conferred upon a party will be
+deemed cumulative with and not exclusive of any other remedy conferred hereby,
+or by law or equity upon such party, and the exercise by a party of any one
+remedy will not preclude the exercise of any other remedy.
+
+                  7.7      GOVERNING LAW. This Agreement and all acts and
+transactions pursuant hereto and the rights and obligations of the parties
+hereto shall be governed, construed and interpreted in accordance with the laws
+of the State of New York without giving effect to principles of conflicts of
+law. Each of the parties to this Agreement consents to the exclusive
+jurisdiction and venue of the courts of the state of New York and United States
+federal courts located in New York.
+
+                  7.8      RULES OF CONSTRUCTION. The parties hereto agree that
+they have been represented by counsel during the negotiation, preparation and
+execution of this Agreement and, therefore, waive the application of any law,
+regulation, holding or rule of construction providing that ambiguities in an
+agreement or other document will be construed against the party drafting such
+agreement or document.
+
+                  7.9      AMENDMENTS AND WAIVERS. Any term of this Agreement
+may be amended or waived only with the written consent of the parties or their
+respective successors and assigns. Any amendment or waiver effected in
+accordance with this Section 7.9 shall be binding upon the parties and their
+respective successors and assigns.
+
+                            [Signature Page Follows]
+
+                                       33
+
+<PAGE>
+
+         ENI, Acquiror and Merger Sub have executed this Agreement as of the
+date first written above.
+
+                                             ENI
+                                             E-NUTRICEUTICALS, INC. ("ENI")
+
+                                             ___________________________________
+                                             Stephen Morris,
+                                             Sole Officer and Director
+
+                                             ACQUIROR
+                                             VITAL LIVING, INC.
+
+                                             ___________________________________
+                                             Bradley D. Edson,
+                                             Chief Executive Officer
+
+                                             ___________________________________
+                                             Stuart Benson,
+                                             President
+
+                                             MERGER SUB:
+
+                                             ___________________________________
+
+                                             ___________________________________
+                                             Chief Executive Officer
+
+
+</TEXT>
+</DOCUMENT>

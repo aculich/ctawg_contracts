@@ -1,0 +1,468 @@
+<DOCUMENT>
+<TYPE>EX-10.1
+<SEQUENCE>2
+<FILENAME>v021072_ex10-1.txt
+<TEXT>
+                                                                    Exhibit 10.1
+
+                              EMPLOYMENT AGREEMENT
+
+      This EMPLOYMENT AGREEMENT ("Agreement") is made and entered into as of
+this 30th day of June 2005, by and between Eugene V. Gartlan (the "Executive")
+and Innova Holdings, Inc., a Delaware corporation (the "Company").
+
+                                R E C I T A L S:
+
+      A.    Company is in the primary business of developing, marketing and
+            selling software products for use in the operation of robots and
+            automated systems for the industrial and service markets. The
+            Company also designs and sells computer hardware necessary to
+            operate the software.
+
+      B.    Executive has certain business planning, financial and accounting
+            experience that the Company believes to be valuable to it.
+
+      C     The Company desires to employ the Executive and the Executive
+            desires to accept such employment.
+
+      NOW THEREFORE, in consideration of the promises, mutual covenants and
+agreements contained herein, and for other good and valuable consideration, the
+receipt and sufficiency of which are hereby acknowledged, the Company and the
+Executive do hereby agree as follows:
+
+      1. Employment and Duties. On the terms and subject to the job conditions
+set forth in this Agreement, the Company shall employ the Executive as the Chief
+Financial Officer, and to perform such duties as are consistent with such
+position as may be assigned, from time to time, by the Chief Executive Officer
+of the Company and to render such additional services and discharge such other
+responsibilities as the Company may, from time to time, stipulate.
+
+      2. Performance. Performance. The Executive accepts the employment
+described in Paragraph 1 of this Agreement and agrees to devote all of his
+business time and efforts to the faithful and diligent performance of the
+services described therein, including the performance of such other services and
+responsibilities as the Corporation may, from time to time, stipulate.
+
+      3. Term. The term of employment as the Chief Financial Officer under this
+Agreement is effective as of June 14, 2005 (the "Commencement Date") and shall
+remain in effect for a period of five (5) years from the date Executive first
+became an Executive, ending on June 13, 2010 (the "Termination Date") (and each
+subsequent one year anniversary, if extended, as provided herein shall also be
+referred to herein as a Termination Date) unless sooner terminated hereunder
+(the "Employment Period"). This Agreement shall be automatically extended each
+year for an additional one (1) year period unless terminated by either party by
+giving written notice to the other no less than thirty (30) days prior to the
+Termination Date.
+
+      4. Compensation. For all the services to be rendered by the Executive
+beginning on the Commencement Date and ending December 14, 2005, and in lieu of
+
+
+                                       1
+<PAGE>
+
+all other compensation - cash or otherwise, Executive shall be granted stock
+options to purchase eighteen million (18,000,000) shares of common stock of the
+Company at the purchase price of $.036. Such options shall be granted under the
+terms of the Company's Stock Option Plan and shall vest equally over a period of
+three years, or upon the death of the Executive if sooner. After December 14,
+2005, Executive shall be paid a salary of Fifteen Thousand Dollars ($15,000) per
+month. The Company shall have the option to pay the salary in cash or in S-8
+shares of common stock of the Company. The stock price shall be determined by
+the ending market price for the shares on the first business day of the month in
+which the salary is earned (the "Market Price").
+
+      If the Executive is terminated without Just Cause as defined in Section 11
+(b) hereof, all remaining outstanding stock options that have not been exercised
+by the Executive, including additional stock options to purchase twelve million
+one hundred twenty one thousand two hundred seventy six (12,121,276) shares of
+common stock of the Company awarded by the Board of Directors of the Company to
+Stratex Solutions, LLC on April 12, 2005 and the stock options granted under
+this section 4. of this agreement shall immediately vest one hundred percent
+(100%) to the benefit of the Executive on the effective date of termination. If
+there is a change of ownership of the Company or any of its subsidiaries, all
+remaining outstanding stock options that have not been exercised by the
+Executive shall immediately vest one hundred percent (100%) to the benefit of
+the Executive on the day immediately preceding the effective date of the change
+of ownership.
+
+      5. Incentive Bonus Opportunity. During the Employment Period, the
+Executive shall be eligible for such incentive bonus as may be deemed advisable
+by the Board of Directors of the Company in consideration of the Executive's
+performance during each year of the Employment period and the Company's
+profitability. The Company, however, shall not be obligated to pay any bonus
+until the Board of Directors approves and declares such incentive fee.
+
+      6. Reimbursement of Expenses. The Company shall reimburse Executive for
+Executive's health insurance expenses until such time as the Company offers a
+health insurance plan for its employees and Executive is eligible gor such plan,
+and for other normal expenses, including cell phone expenses, on a monthly
+basis. Executive shall provide the Company with copies of all bills associated
+with reimbursed expenses. The Company has the option to reimburse Executive
+either in cash or in S-8 shares of common stock of the Company at the Market
+Price
+
+      7. Surrender of Properties. Upon termination of the Executive's employment
+with the Company, regardless of the cause therefore, the Executive shall
+promptly surrender to the Company all property provided Executive by the Company
+for use in relation to Executive's Employment, and, in addition, the Executive
+shall surrender to the Company any and all financial and tax records, accounting
+work papers, correspondence relating to SEC or legal matter, any other materials
+related to financial or SEC matters, sales materials, lists of customers and
+prospective customers, price lists, files, patent applications, records, models,
+software files, listings, copies of Windows(R) software, or other materials and
+information of or pertaining to the Company or its customers or prospective
+customers or the products, business, and operations of the Company.
+
+
+                                       2
+<PAGE>
+
+      8. Inventions and Secrecy. Except as otherwise provided in this Section 8,
+the Executive: (a) shall hold in a fiduciary capacity for the benefit of the
+Company all secret or confidential information, knowledge, or data of the
+Company or its business operations obtained by the Executive during Executive's
+employment by the Company, which shall not be generally known to the public or
+recognized as standard practice (whether or not developed by the Executive) and
+shall not, during his employment by the Company and after the termination of
+such Employment for any reason, communicate or divulge any such information,
+knowledge or data to any person, firm or corporation other than the Company or
+persons, firms or corporations designated by the Company; (b) shall promptly
+disclose to the Company all inventions, ideas, devices, and processes made or
+conceived by Executive alone or jointly with others, from the time of entering
+the Company's employment until such employment is terminated and within the six
+(6) month period immediately following such termination, relevant or pertinent
+in any way, whether directly or indirectly, to the Company's business or
+production operations or resulting from or suggested by any work which the
+Executive may have done for the Company or at its request; (c) shall, at all
+times during his Employment with the Company, assist the Company in every proper
+way (entirely at the Company's expense) to obtain and develop for the Company's
+benefit patents or copyrights on such inventions, ideas, devices and processes
+including without limitation software and software files and listings to be used
+with industrial automation and industrial robots, whether or not patented; and
+(d) shall do all such acts and execute, acknowledge and deliver all such
+instruments as may be necessary or desirable in the opinion of the Company to
+vest in the Company the entire interest in such inventions, ideas, devices, and
+processes referred to above. The foregoing to the contrary notwithstanding, the
+Executive shall not be required to assign or offer to assign to the Company any
+of the Executive's rights in any invention for which no equipment, supplies,
+facility, or trade secret information of the Company was used and which was
+developed entirely on the Executive's own time, unless (a) the invention related
+to (i) the business of the Company or (ii) the Company's actual or demonstrably
+anticipated research or development, or (b) the invention results from any work
+performed by the Executive for the Company. The Executive acknowledges
+Executive's prior receipt of written notification of the limitation set forth in
+the preceding sentence on the Executive's obligation to assign or offer to
+assign to the Company the Executive's rights in inventions.
+
+      9. Confidentiality of Information; Duty of Non-Disclosure.
+
+            (a) The Executive acknowledges and agrees that Executive's
+Employment by the Company under this Agreement necessarily involves Executive's
+understanding of and access to certain trade secrets and confidential
+information pertaining to the business of the Company. Accordingly, the
+Executive agrees that after the date of this Agreement at all times Executive
+will not, directly or indirectly, without the express written consent of the
+Company, disclose to or use for the benefit of any person, corporation or other
+entity, or for Executive any and all files, trade secrets or other confidential
+information concerning the internal affairs of the Company, including, but not
+limited to, information pertaining to its trade secrets, business plans,
+clients, services, products, earnings, finances, operations, methods or other
+activities, provided, however, that the foregoing shall not apply to information
+
+
+                                       3
+<PAGE>
+
+which is of public record or is generally known, disclosed or available to the
+general public or the industry generally. Further, the Executive agrees that
+Executive shall not, directly or indirectly, remove or retain, without the
+express prior written consent of the Company, and upon termination of this
+Agreement for any reason shall return to the Company, any figures, calculations,
+letters, papers, records, computer disks, computer print-outs, lists, documents,
+instruments, drawings, designs, programs, brochures, sales literature, business
+plans or any copies thereof, or any information or instruments derived
+therefrom, or any other similar information of any type or description, however
+such information might be obtained or recorded, arising out of or in any way
+relating to the business of the Company or obtained as a result of his
+Employment by the Company except as disseminated to the public at large or
+industry generally. The Executive acknowledges that all of the foregoing are
+proprietary information, and are the exclusive property of the Company. The
+covenants contained in this Section 9 shall survive Executive's employment and
+the termination of this Agreement.
+
+            (b) The Executive agrees and acknowledges that the Company does not
+have any adequate remedy at law for the breach or threatened breach by the
+Executive of Executive's covenant, and agrees that the Company shall be entitled
+to injunctive relief to bar the Executive from such breach or threatened breach
+in addition to any other remedies which may be available to the Company at law
+or in equity.
+
+      10. Covenant Not to Compete.
+
+            (a) During Employment Period. During the Employment Period, the
+Executive shall not engage its services for a firm or business that directly or
+indirectly competes with the business activities of the Company and its
+subsidiaries, nor engage in or in any manner be connected or concerned, directly
+or indirectly, whether as an officer, director, stockholder, partner, owner,
+employee, creditor, or otherwise, with the operation, management, or conduct of
+any business that competes with or is of a nature similar to that of the
+Company.
+
+            (b) Following Termination of Employment Period. Within the one (1)
+year period immediately following the later of the end of the Employment Period
+or termination of the Executive's Employment with the Company, for any reason
+except as set forth below, the Executive shall not, without the prior written
+consent of the Company, which consent may be withheld at the sole discretion of
+the Company: (a) engage in or in any manner be connected or concerned, directly
+or indirectly, whether as an officer, director, stockholder, partner, owner,
+employee, creditor, or otherwise with the operation, management, or conduct of
+any business similar to the business of the Company being conducted at the time
+of such termination anywhere in the United States, and any other area in which
+the Company is, or reasonably contemplating, doing business at the time of such
+termination; (b) solicit, contact, interfere with, or divert any customer served
+by the Company, or any prospective customer identified by or on behalf of the
+Company, during the Executive's Employment with the Company; or (c) solicit any
+person then or previously employed by the Company to join the Executive, whether
+as a partner, agent, employee or otherwise, in any enterprise engaged in a
+business similar to the business of the Company being conducted at the time of
+such termination. For purposes of this Agreement, the business is deemed to be
+
+
+                                       4
+<PAGE>
+
+the development and maintenance of computer software, controls, and hardware
+electronics for use in robotics, manufacturing, and automation industries and
+that all such software and hardware is owned and shall be exclusively owned by
+the Company.
+
+            (c) Severability. The covenants of the Executive contained in
+Sections 8, 9, and 10 of this Agreement shall each be construed as an agreement
+independent of any other provision in this Agreement, and the existence of any
+claim or cause of action of the Executive against the Company, whether
+predicated on this Agreement or otherwise, shall not constitute a defense to the
+enforcement by the Company of such covenants. Both parties hereby expressly
+agree and contract that it is not the intention of either party to violate any
+public policy, or statutory or common law, and that if any sentence, paragraph,
+clause, or combination of the same of this Agreement is in violation of the law,
+such sentence, paragraph, clause or combination of the same shall be void, and
+the remainder of such paragraph and this Agreement shall remain binding on the
+parties to make the covenants of this Agreement binding only to the extent that
+it may be lawfully done. In the event that any part of any covenant of this
+Agreement is determined by a court of law to be overly broad thereby making the
+covenant unenforceable, the parties hereto agree, and it is their desire, that
+such court shall substitute a judicially enforceable limitation in its place,
+and that as so modified the covenant shall be binding upon the parties as if
+originally set forth herein.
+
+
+      11. Termination.
+
+            (a) Termination for Just Cause. The Company shall have the option to
+terminate the Employment Period, effective immediately upon written notice of
+such termination to the Executive, for Just Cause. For purposes of this
+Agreement, the term "Just Cause" shall mean the occurrence of any one or more of
+the following events: (a) the death or permanent total disability of the
+Executive or Executive's absence from active Employment by reason of illness or
+incapacity for a period of sixty (60) consecutive days; (b) the breach by the
+Executive of Executive's covenants under this Agreement; (c) the commission by
+the Executive of theft or embezzlement of Company property or other acts of
+dishonesty; (d) the commission by the Executive of a crime resulting in injury
+to the business, property or reputation of the Company or any affiliate of the
+Company or commission of other significant activities harmful to the business or
+reputation of the Company or any affiliate of the Company; (e) the willful
+refusal to perform or substantial neglect of the activities to be performed by
+the Executive pursuant to Section 1 hereof; or (f) termination of the business
+of the Company for any reason, other than the sale of substantially all of the
+assets or common stock of the Company or its wholly-owned subsidiaries
+
+            Upon termination of the Employment period for Just Cause, the
+Executive shall have no rights to any future fees for any period beyond the
+effective date of termination.
+
+            (b) Termination without Just Cause. If the Employment Period is
+terminated by the Company without Just Cause, the Executive shall receive a
+payment equal to twenty four (24) months of salary paid to the Executive monthly
+prior to the effective date of termination (Severance Fee). For purposes only of
+determining the Severance Fee through December 14, 2005, salary is defined as a
+$15,000 per month payment. The Company has the option to pay such Severance Fee
+either in cash or in the common stock of the Company based on the per share
+price of common stock applicable in Section 4 hereof.
+
+
+                                       5
+<PAGE>
+
+      12. Change of Control. If during the Employment Period the Company enters
+into an agreement which effectively will result in a change of control of the
+ownership of either the Company or Robotic Workspace Technologies, Inc., the
+Company's wholly-owned subsidiary, or if during the Employment Period the
+Company enters into an agreement which effectively will result in a change of
+ownership of the assets of the Company or Robotic Workspace Technologies, Inc.,
+the Executive shall receive a payment equal to twenty four (24) months of the
+monthly salary paid to the Executive prior to the effective date of the change
+of control (Change of Control Fee). For purposes only of determining the Change
+of Control Fee through December 14, 2005, salary is defined as a $15,000 per
+month payment. The Company shall pay such Change of Control Fee in the common
+stock of the Company based on a price per share of $.005 if the effective date
+of the change of control is December 14, 2005 or sooner; thereafter the price
+per share shall be the Market Price. Such payment to Executive shall be made on
+the day immediately preceding the effective date of the change of ownership.
+Regarding the change of ownership of the assets of the Company or Robotic
+Workspace Technologies, Inc., such change of ownership shall be deemed to have
+occurred if the rights to use the software of Robotic Workspace Technologies,
+Inc., which software is the product of and protected by the patents of Robotic
+Workspace Technologies, Inc., is granted or sold to a party or parties in
+settlement of claims made by the Company and/or Robotic Workspace Technologies,
+Inc. of trade secret violations and/or patent infringements, and such rights to
+use the software results in a settlement payment to the Company and/or to
+Robotic Workspace Technologies, Inc. in a single payment or multiple payments
+other than a long term licensing agreement typical of software licensing
+agreements.
+
+
+      13. Indemnification. The Company agrees to indemnify and hold harmless
+Executive to the full extent lawful, from and against all losses, claims,
+damages, judgments, liabilities and expenses incurred by Executive (including
+attorneys' fees, disbursements, expenses, judgments, penalties, fines and
+amounts paid in settlement actually and reasonably incurred by Executive, or on
+Executive's behalf, in connection with any proceeding or any claim, issue or
+matter therein. Expenses shall include all attorneys' fees, retainers, court
+costs, transcript costs, fees of experts, witness fees, travel expenses,
+duplicating costs, printing and binding costs, telephone charges, postage,
+delivery service fees and all other disbursements or expenses of the types
+customarily incurred in connection with prosecuting, defending, preparing to
+prosecute or defend, investigating, participating, or being or preparing to be a
+witness in a proceeding. Expenses also shall include expenses incurred in
+connection with any appeal resulting from any proceeding, including without
+limitation the premium, security for, and other costs relating to any cost bond,
+supersede as bond, or other appeal bond or its equivalent. The Company shall pay
+the entire amount of any judgment or settlement of any threatened, pending or
+completed action, suit or proceeding without requiring Executive to contribute
+to such payment and the Company hereby waives and relinquishes any right of
+contribution it may have against Executive. In addition to, and without regard
+to any limitations on, the indemnification provided for in this Section 13 of
+
+
+                                       6
+<PAGE>
+
+this Agreement, the Company shall and hereby does indemnify and hold harmless
+Executive against all losses, claims, damages, judgments, liabilities and
+expenses incurred by Executive including attorneys' fees, disbursements,
+expenses, judgments, penalties, fines and amounts paid in settlement actually
+and reasonably incurred by Executive or on Executive's behalf if Executive is,
+or is threatened to be made, a party to or participant in any proceeding. The
+Company hereby agrees to fully indemnify and hold Executive harmless from any
+claims of contribution which may be brought by officers, directors or employees
+of the Company. Notwithstanding any other provision of this Section 13, the
+Company shall advance all expenses incurred by or on behalf of Executive in
+connection with any proceeding within thirty (30) days after the receipt by the
+Company of a statement or statements from Executive requesting such advance or
+advances from time to time, whether prior to or after final disposition of such
+proceeding.
+
+
+      14. General Provisions.
+
+            (a) Goodwill. The Company has invested substantial time and money in
+the development of its products and services, soliciting clients and creating
+goodwill. By accepting this Employment Agreement with the Company, the Executive
+acknowledges that the customers are the customers of the Company, and that any
+goodwill created by the Executive belongs to and shall inure to the benefit of
+the Company.
+
+            (b) Notices. Any notice required or permitted hereunder shall be
+made in writing (i) either by actual delivery of the notice into the hands of
+the party thereunder entitled, or (ii) by the mailing of the notice in the
+United States mail, certified or registered mail, return receipt requested, all
+postage prepaid and addressed to the party to whom the notice is to be given at
+the party's respective address as set forth in the records of the Company.
+
+The notice shall be deemed to be received in case (i) on the date of its actual
+receipt by the party entitled thereto and in case (ii) on the date which is
+three (3) days after its mailing.
+
+            (c) Amendment and Waiver. No amendment or modification of this
+Agreement shall be valid or binding upon the Company unless made in writing and
+signed by an officer of the Company duly authorized by the Board of Directors or
+upon the Executive unless made in writing and signed by Executive. The waiver by
+the Company of the breach of any provision of this Agreement by the Executive
+shall not operate or be construed as a waiver of any subsequent breach by
+Executive. The waiver by the Executive of the breach of any provision of this
+Agreement by the Company shall not operate or be construed as a waiver of any
+subsequent breach by Company.
+
+            (d) Entire Agreement. This Agreement constitutes the entire
+agreement between the parties with respect to the Executive's duties and payment
+as a Executive to the Company, and there are no representations, warranties,
+agreements or commitments between the parties hereto with respect to Executive's
+Employment except as set forth herein.
+
+            (e) Governing Law. Except for the Indemnification covered under
+Section 13 hereof, this Agreement shall be governed by and construed in
+accordance with the internal laws (and not the law of conflicts) of the State of
+Florida. Regarding the Indemnification covered under Section 13, and only for
+
+
+                                       7
+<PAGE>
+
+Section 13, this agreement and the legal relations among the parties shall be
+governed by, and construed and enforced in accordance with, the laws of the
+State of Delaware, without regard to its conflict of laws rules. The Company and
+Executive hereby irrevocably and unconditionally (i) agree that any action or
+proceeding arising out of or in connection with Section 13 of this Agreement
+shall be brought only in the Chancery Court of the State of Delaware (the
+"Delaware Court"), and not in any other state or federal court in the United
+States of America or any court in any other country, (ii) consent to submit to
+the exclusive jurisdiction of the Delaware Court for purposes of any action or
+proceeding arising out of or in connection with Section 13 of this Agreement.
+
+            (f) Severability. If any provision of this Agreement shall, for any
+reason, be held unenforceable, such provision shall be severed from this
+Agreement unless, as a result of such severance, the Agreement fails to reflect
+the basic intent of the parties. If the Agreement continues to reflect the basic
+intent of the parties, then the invalidity of such specific provision shall not
+affect the enforceability of any other provision herein, and the remaining
+provisions shall remain in full force and effect.
+
+            (g) Assignment. The Executive may not under any circumstances
+delegate any of Executive's rights and obligations hereunder without first
+obtaining the prior written consent of the Company. This Agreement and all of
+the Company's rights and obligations hereunder may be assigned or transferred by
+it, in whole or in part, to be binding upon and inure to the benefit of any
+subsidiary or successor of the Company.
+
+            (h) Costs of Enforcement. In the event of any suit or proceeding
+seeking to enforce the terms, covenants, or conditions of this Agreement, the
+prevailing party shall, in addition to all other remedies and relief that may be
+available under this Agreement or applicable law, recover its or its reasonable
+attorneys' fees and costs as shall be determined and awarded by the court.
+
+      IN WITNESS WHEREOF, this Agreement is entered into as of the day and year
+first above written.
+
+                                                 COMPANY:
+
+                                                 Innova Holdings, Inc.
+
+                                                 /s/ Walter Weisel
+                                                 -----------------
+                                                 By:  Walter Weisel
+                                                 Its: Chairman and CEO
+
+
+                                                 EXECUTIVE:
+
+                                                 /s/ Eugene Gartlan
+                                                 ------------------
+                                                 Eugene V. Gartlan
+
+
+
+
+                                       8
+</TEXT>
+</DOCUMENT>

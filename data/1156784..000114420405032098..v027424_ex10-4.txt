@@ -1,0 +1,845 @@
+<DOCUMENT>
+<TYPE>EX-10.4
+<SEQUENCE>5
+<FILENAME>v027424_ex10-4.txt
+<TEXT>
+                               SECURITY AGREEMENT
+
+
+      THIS  SECURITY  AGREEMENT  (the  "Agreement"),  is  entered  into and made
+effective as of October 7, 2005, by and between INNOVA HOLDINGS, INC, a Delaware
+corporation  with its  principal  place of business  located at 17105 San Carlos
+Boulevard  Suite A6151 Fort Myers,  FL 33931 (the  "Company"),  and the BUYER(S)
+listed on Schedule I attached to the  Securities  Purchase  Agreement  dated the
+date hereof (the "Secured Party").
+
+      WHEREAS,  the  Company  shall  issue  and sell to the  Secured  Party,  as
+provided in the Securities  Purchase Agreement of even date herewith between the
+Company and the Secured Party (the  "Securities  Purchase  Agreement"),  and the
+Secured Party shall purchase up to Fifty Five Thousand (U.S.) Dollars  ($55,000)
+secured convertible  debentures (the "Convertible  Debentures"),  which shall be
+convertible  into shares of the  Company's  common  stock,  par value $0.001 per
+share (the  "Common  Stock")  (as  converted,  the  "Conversion  Shares") in the
+respective  amounts set forth opposite each Buyer(s) name on Schedule I attached
+to the Securities Purchase Agreement;
+
+      WHEREAS,  to  induce  the  Secured  Party  to enter  into the  transaction
+contemplated by the Securities Purchase Agreement,  the Convertible  Debentures,
+the Investor  Registration  Rights  Agreement of even date herewith  between the
+Company and the Secured Party (the "Investor  Registration  Rights  Agreement"),
+the Escrow Agreement of even date herewith among the Company, the Secured Party,
+and David Gonzalez, Esq. (the "Escrow Agreement"),  and the Irrevocable Transfer
+Agent  Instructions  among the Company,  the Secured  Party,  Continental  Stock
+Transfer  &  Trust  Co.,  and  David   Gonzalez,   Esq.  (the  "Transfer   Agent
+Instructions")  (collectively referred to as the "Transaction  Documents"),  the
+Company  hereby  grants to the Secured  Party a security  interest in and to the
+pledged property identified on Exhibit A hereto (collectively referred to as the
+"Pledged Property") until the satisfaction of the Obligations, as defined herein
+below.
+
+      NOW, THEREFORE,  in consideration of the promises and the mutual covenants
+herein contained,  and for other good and valuable  consideration,  the adequacy
+and receipt of which are hereby acknowledged, the parties hereto hereby agree as
+follows:
+
+                                   ARTICLE 1.
+
+                         DEFINITIONS AND INTERPRETATIONS
+
+      Section 1.1. Recitals.
+
+      The above recitals are true and correct and are  incorporated  herein,  in
+their entirety, by this reference.
+
+      Section 1.2. Interpretations.
+
+      Nothing  herein  expressed or implied is intended or shall be construed to
+confer upon any person other than the Secured  Party any right,  remedy or claim
+under or by reason hereof.
+
+
+<PAGE>
+
+      Section 1.3. Obligations Secured.
+
+      The obligations  secured hereby are any and all obligations of the Company
+now  existing or  hereinafter  incurred to the Secured  Party,  whether  oral or
+written  and whether  arising  before,  on or after the date  hereof  including,
+without limitation,  those obligations of the Company to the Secured Party under
+this  Agreement,  the  Transaction  Documents,  and  any  other  amounts  now or
+hereafter  owed to the Secured  Party by the  Company  thereunder  or  hereunder
+(collectively, the "Obligations").
+
+                                   ARTICLE 2.
+
+                 PLEDGED PROPERTY, ADMINISTRATION OF COLLATERAL
+                      AND TERMINATION OF SECURITY INTEREST
+
+      Section 2.1. Pledged Property.
+
+            (a) Company hereby pledges to the Secured Party,  and creates in the
+Secured  Party for its  benefit,  a  security  interest  for such time until the
+Obligations  are paid in full,  in and to all of the  property of the Company as
+set forth in Exhibit  "A"  attached  hereto  and the  products  thereof  and the
+proceeds of all such items (collectively, the "Pledged Property"):
+
+            (b)   Simultaneously   with  the  execution  and  delivery  of  this
+Agreement,  the  Company  shall make,  execute,  acknowledge,  file,  record and
+deliver to the Secured Party any documents  reasonably  requested by the Secured
+Party to perfect its security interest in the Pledged  Property.  Simultaneously
+with the  execution  and  delivery of this  Agreement,  the Company  shall make,
+execute,  acknowledge  and  deliver  to the  Secured  Party such  documents  and
+instruments, including, without limitation, financing statements,  certificates,
+affidavits  and forms as may, in the Secured  Party's  reasonable  judgment,  be
+necessary to effectuate,  complete or perfect, or to continue and preserve,  the
+security interest of the Secured Party in the Pledged Property,  and the Secured
+Party shall hold such documents and instruments as secured party, subject to the
+terms and conditions contained herein.
+
+      Section 2.2. Rights; Interests; Etc.
+
+            (a) So long as no Event of Default (as  hereinafter  defined)  shall
+have occurred and be continuing:
+
+                  (i) the Company  shall be  entitled  to  exercise  any and all
+rights  pertaining  to the Pledged  Property or any part thereof for any purpose
+not inconsistent with the terms hereof; and
+
+                  (ii) the  Company  shall be entitled to receive and retain any
+and all payments paid or made in respect of the Pledged Property.
+
+            (b) Upon the  occurrence  and during the  continuance of an Event of
+Default:
+
+
+                                       2
+<PAGE>
+
+
+                  (i) All rights of the Company to exercise  the rights which it
+would otherwise be entitled to exercise pursuant to Section 2.2(a)(i) hereof and
+to receive payments which it would otherwise be authorized to receive and retain
+pursuant to Section  2.2(a)(ii)  hereof shall be suspended,  and all such rights
+shall thereupon  become vested in the Secured Party who shall thereupon have the
+sole right to exercise  such rights and to receive and hold as Pledged  Property
+such  payments;  provided,  however,  that if the  Secured  Party  shall  become
+entitled  and shall  elect to  exercise  its  right to  realize  on the  Pledged
+Property  pursuant  to  Article 5 hereof,  then all cash  sums  received  by the
+Secured Party,  or held by Company for the benefit of the Secured Party and paid
+over  pursuant  to  Section  2.2(b)(ii)  hereof,  shall be applied  against  any
+outstanding Obligations; and
+
+                  (ii) All interest,  dividends,  income and other  payments and
+distributions  which are received by the Company  contrary to the  provisions of
+Section  2.2(b)(i)  hereof  shall be  received  in trust for the  benefit of the
+Secured Party,  shall be segregated from other property of the Company and shall
+be forthwith paid over to the Secured Party; or
+
+                  (iii)  The  Secured  Party  in its  sole  discretion  shall be
+authorized to sell any or all of the Pledged  Property at public or private sale
+in order to recoup all of the outstanding  principal plus accrued  interest owed
+pursuant to the Convertible Debenture as described herein
+
+            (c) An "Event of  Default"  shall be deemed to have  occurred  under
+this Agreement upon an Event of Default under the Convertible Debentures.
+
+                                   ARTICLE 3.
+
+                          ATTORNEY-IN-FACT; PERFORMANCE
+
+      Section 3.1. Secured Party Appointed Attorney-In-Fact.
+
+      Upon the occurrence of an Event of Default,  the Company  hereby  appoints
+the Secured Party as its attorney-in-fact,  with full authority in the place and
+stead of the Company and in the name of the Company or  otherwise,  from time to
+time in the  Secured  Party's  discretion  to take any action and to execute any
+instrument  which the Secured Party may reasonably  deem necessary to accomplish
+the purposes of this Agreement,  including,  without limitation,  to receive and
+collect all instruments made payable to the Company representing any payments in
+respect of the Pledged  Property or any part thereof and to give full  discharge
+for the same.  The  Secured  Party may demand,  collect,  receipt  for,  settle,
+compromise,  adjust, sue for,  foreclose,  or realize on the Pledged Property as
+and when the Secured Party may determine. To facilitate collection,  the Secured
+Party may notify  account  debtors and obligors on any Pledged  Property to make
+payments directly to the Secured Party.
+
+      Section 3.2. Secured Party May Perform.
+
+      If the  Company  fails to perform  any  agreement  contained  herein,  the
+Secured Party, at its option, may itself perform,  or cause performance of, such
+agreement,  and  the  expenses  of the  Secured  Party  incurred  in  connection
+therewith shall be included in the Obligations secured hereby and payable by the
+Company under Section 8.3.
+
+
+                                       3
+<PAGE>
+
+                                   ARTICLE 4.
+
+                         REPRESENTATIONS AND WARRANTIES
+
+      Section 4.1. Authorization; Enforceability.
+
+      Each of the parties  hereto  represents and warrants that it has taken all
+action  necessary to authorize the execution,  delivery and  performance of this
+Agreement  and the  transactions  contemplated  hereby;  and upon  execution and
+delivery,  this Agreement shall constitute a valid and binding obligation of the
+respective party, subject to applicable bankruptcy, insolvency,  reorganization,
+moratorium  and similar laws  affecting  creditors'  rights or by the principles
+governing the availability of equitable remedies.
+
+      Section 4.2. Ownership of Pledged Property.
+
+      The Company  warrants and  represents  that it is the legal and beneficial
+owner of the Pledged  Property  free and clear of any lien,  security  interest,
+option or other charge or encumbrance  except for the security  interest granted
+to The U.S.  Small  Business  Administration  and Jerry  Horne and the  security
+interest created by this Agreement.
+
+                                   ARTICLE 5.
+
+                    DEFAULT; REMEDIES; SUBSTITUTE COLLATERAL
+
+      Section 5.1. Default and Remedies.
+
+            (a) If an  Event  of  Default  occurs,  then in each  such  case the
+Secured Party may declare the Obligations to be due and payable immediately,  by
+a  notice  in  writing  to the  Company,  and upon  any  such  declaration,  the
+Obligations shall become immediately due and payable.
+
+            (b) Upon the  occurrence  of an Event of Default,  the Secured Party
+shall: (i) be entitled to receive all distributions  with respect to the Pledged
+Property,  (ii) to cause the Pledged Property to be transferred into the name of
+the Secured Party or its nominee,  (iii) to dispose of the Pledged Property, and
+(iv) to realize upon any and all rights in the Pledged Property then held by the
+Secured Party.
+
+      Section  5.2.  Method  of  Realizing  Upon  the  Pledged  Property:  Other
+Remedies.
+
+      Upon the occurrence of an Event of Default,  in addition to any rights and
+remedies  available at law or in equity,  the following  provisions shall govern
+the Secured Party's right to realize upon the Pledged Property:
+
+            (a) Any item of the Pledged  Property  may be sold for cash or other
+value in any number of lots at brokers board, public auction or private sale and
+may be sold without  demand,  advertisement  or notice  (except that the Secured
+Party shall give the Company ten (10) days' prior written notice of the time and
+place  or of the  time  after  which  a  private  sale  may be made  (the  "Sale
+Notice")),  which notice period is hereby agreed to be commercially  reasonable.
+At any  sale or sales  of the  Pledged  Property,  the  Company  may bid for and
+purchase the whole or any part of the Pledged Property and, upon compliance with
+the terms of such  sale,  may hold,  exploit  and  dispose  of the same  without
+further  accountability  to the  Secured  Party.  The Company  will  execute and
+deliver,  or cause to be executed and delivered,  such  instruments,  documents,
+assignments,  waivers,  certificates,  and  affidavits and supply or cause to be
+supplied such further  information  and take such further  action as the Secured
+Party reasonably shall require in connection with any such sale.
+
+
+                                       4
+<PAGE>
+
+            (b) Any cash being held by the Secured Party as Pledged Property and
+all cash  proceeds  received  by the  Secured  Party  in  respect  of,  sale of,
+collection  from,  or other  realization  upon  all or any  part of the  Pledged
+Property shall be applied as follows:
+
+                  (i) to the payment of all  amounts  due the Secured  Party for
+the expenses  reimbursable to it hereunder or owed to it pursuant to Section 8.3
+hereof;
+
+                  (ii) to the payment of the Obligations then due and unpaid.
+
+                  (iii) the balance,  if any, to the person or persons  entitled
+thereto, including, without limitation, the Company.
+
+            (c) In addition to all of the rights and remedies  which the Secured
+Party may have pursuant to this  Agreement,  the Secured Party shall have all of
+the rights and remedies provided by law, including,  without  limitation,  those
+under the Uniform Commercial Code.
+
+                  (i) If the  Company  fails  to pay such  amounts  due upon the
+occurrence  of an Event of Default which is  continuing,  then the Secured Party
+may institute a judicial  proceeding  for the  collection of the sums so due and
+unpaid,  may  prosecute  such  proceeding  to judgment  or final  decree and may
+enforce the same against the Company and collect the monies  adjudged or decreed
+to be payable in the manner  provided  by law out of the  property  of  Company,
+wherever situated.
+
+                  (ii)  The  Company  agrees  that it shall  be  liable  for any
+reasonable fees,  expenses and costs incurred by the Secured Party in connection
+with  enforcement,  collection and  preservation of the  Transaction  Documents,
+including,  without  limitation,  reasonable  legal fees and expenses,  and such
+amounts shall be deemed  included as  Obligations  secured hereby and payable as
+set forth in Section 8.3 hereof.
+
+      Section 5.3. Proofs of Claim.
+
+      In case of the  pendency  of any  receivership,  insolvency,  liquidation,
+bankruptcy,  reorganization,   arrangement,  adjustment,  composition  or  other
+judicial proceeding relating to the Company or the property of the Company or of
+such other obligor or its creditors,  the Secured Party (irrespective of whether
+the  Obligations  shall  then be due and  payable  as  therein  expressed  or by
+declaration  or otherwise  and  irrespective  of whether the Secured Party shall
+have made any demand on the Company for the payment of the Obligations), subject
+to the rights of Previous Security Holders, shall be entitled and empowered,  by
+intervention in such proceeding or otherwise:
+
+
+                                       5
+<PAGE>
+
+                  (i) to file and  prove a claim  for the  whole  amount  of the
+Obligations  and to file such other  papers or  documents as may be necessary or
+advisable in order to have the claims of the Secured Party  (including any claim
+for the  reasonable  legal fees and expenses and other expenses paid or incurred
+by the Secured  Party  permitted  hereunder  and of the Secured Party allowed in
+such judicial proceeding), and
+
+                  (ii) to  collect  and  receive  any  monies or other  property
+payable or  deliverable  on any such claims and to distribute  the same; and any
+custodian,  receiver,  assignee,  trustee,  liquidator,  sequestrator  or  other
+similar  official in any such judicial  proceeding  is hereby  authorized by the
+Secured  Party to make such payments to the Secured Party and, in the event that
+the Secured Party shall  consent to the making of such payments  directed to the
+Secured  Party,  to pay to the Secured  Party any amounts  for  expenses  due it
+hereunder.
+
+      Section 5.4. Duties Regarding Pledged Property.
+
+      The Secured Party shall have no duty as to the collection or protection of
+the Pledged  Property  or any income  thereon or as to the  preservation  of any
+rights pertaining thereto, beyond the safe custody and reasonable care of any of
+the Pledged Property actually in the Secured Party's possession.
+
+                                   ARTICLE 6.
+
+                              AFFIRMATIVE COVENANTS
+
+      The Company  covenants and agrees that, from the date hereof and until the
+Obligations  have been fully paid and satisfied,  unless the Secured Party shall
+consent otherwise in writing (as provided in Section 8.4 hereof):
+
+      Section 6.1. Existence, Properties, Etc.
+
+            (a) The  Company  shall  do,  or cause to be done,  all  things,  or
+proceed with due  diligence  with any actions or courses of action,  that may be
+reasonably necessary (i) to maintain Company's due organization, valid existence
+and good  standing  under  the laws of its state of  incorporation,  and (ii) to
+preserve  and keep in full  force and effect all  qualifications,  licenses  and
+registrations in those  jurisdictions in which the failure to do so could have a
+Material Adverse Effect (as defined below); and (b) the Company shall not do, or
+cause to be done, any act impairing the Company's  corporate  power or authority
+(i) to carry on the Company's business as now conducted,  and (ii) to execute or
+deliver this Agreement or any other document  delivered in connection  herewith,
+including,  without limitation,  any UCC-1 Financing  Statements required by the
+Secured  Party  to  which  it is or  will  be a  party,  or  perform  any of its
+obligations  hereunder or thereunder.  For purpose of this  Agreement,  the term
+"Material  Adverse  Effect"  shall  mean any  material  and  adverse  affect  as
+determined by Secured Party in its sole discretion,  whether  individually or in
+the aggregate, upon (a) the Company's assets, business,  operations,  properties
+or condition,  financial or otherwise;  (b) the Company's to make payment as and
+when due of all or any part of the Obligations; or (c) the Pledged Property.
+
+
+                                       6
+<PAGE>
+
+      Section 6.2. Financial Statements and Reports.
+
+      The Company shall  furnish to the Secured  Party within a reasonable  time
+such  financial  data as the Secured Party may  reasonably  request,  including,
+without limitation, the following:
+
+            (a) The balance  sheet of the Company as of the close of each fiscal
+year,  the statement of earnings and retained  earnings of the Company as of the
+close of such fiscal year,  and statement of cash flows for the Company for such
+fiscal year,  all in reasonable  detail,  prepared in accordance  with generally
+accepted  accounting  principles  consistently  applied,  certified by the chief
+executive and chief financial  officers of the Company as being true and correct
+and  accompanied  by a certificate  of the chief  executive and chief  financial
+officers of the Company, stating that the Company has kept, observed,  performed
+and fulfilled  each covenant,  term and condition of this Agreement  during such
+fiscal  year  and  that no  Event  of  Default  hereunder  has  occurred  and is
+continuing, or if an Event of Default has occurred and is continuing, specifying
+the nature of same,  the period of  existence of same and the action the Company
+proposes to take in connection therewith;
+
+            (b) A balance  sheet of the  Company as of the close of each  month,
+and  statement of earnings and retained  earnings of the Company as of the close
+of  such  month,  all  in  reasonable  detail,  and  prepared  substantially  in
+accordance with generally accepted accounting  principles  consistently applied,
+certified by the chief executive and chief financial  officers of the Company as
+being true and correct; and
+
+            (c) Copies of all accountants'  reports and  accompanying  financial
+reports  submitted to the Company by independent  accountants in connection with
+each annual examination of the Company.
+
+      Section 6.3. Accounts and Reports.
+
+      The Company shall  maintain a standard  system of accounting in accordance
+with generally accepted accounting principles  consistently applied and provide,
+at its sole expense, to the Secured Party the following:
+
+            (a)  as  soon  as   available,   a  copy  of  any  notice  or  other
+communication  alleging any nonpayment or other material  breach or default,  or
+any  foreclosure or other action  respecting any material  portion of its assets
+and properties,  received  respecting any of the  indebtedness of the Company in
+excess of $15,000 (other than the  Obligations),  or any demand or other request
+for  payment  under any  guaranty,  assumption,  purchase  agreement  or similar
+agreement or arrangement respecting the indebtedness or obligations of others in
+excess of $15,000,  including  any received  from any person acting on behalf of
+the Secured Party or beneficiary thereof; and
+
+            (b) within fifteen (15) days after the making of each  submission or
+filing,  a copy of any report,  financial  statement,  notice or other document,
+whether periodic or otherwise,  submitted to the shareholders of the Company, or
+submitted to or filed by the Company with any governmental  authority  involving
+or affecting (i) the Company that could have a Material Adverse Effect; (ii) the
+Obligations;  (iii)  any  part  of the  Pledged  Property;  or  (iv)  any of the
+transactions contemplated in this Agreement or the Loan Instruments.
+
+
+                                       7
+<PAGE>
+
+      Section 6.4. Maintenance of Books and Records; Inspection.
+
+      The Company shall  maintain its books,  accounts and records in accordance
+with generally accepted accounting  principles  consistently applied, and permit
+the Secured Party, its officers and employees and any  professionals  designated
+by the  Secured  Party in  writing,  at any time to visit and inspect any of its
+properties  (including but not limited to the collateral  security  described in
+the  Transaction  Documents  and/or the Loan  Instruments),  corporate books and
+financial  records,  and to discuss its accounts,  affairs and finances with any
+employee, officer or director thereof.
+
+      Section 6.5. Maintenance and Insurance.
+
+            (a) The Company shall maintain or cause to be maintained, at its own
+expense,  all of its assets and  properties in good working order and condition,
+making all necessary repairs thereto and renewals and replacements thereof.
+
+            (b) The Company shall maintain or cause to be maintained, at its own
+expense, insurance in form, substance and amounts (including deductibles), which
+the Company deems reasonably  necessary to the Company's business,  (i) adequate
+to insure all assets and properties of the Company,  which assets and properties
+are of a  character  usually  insured by persons  engaged in the same or similar
+business  against loss or damage  resulting from fire or other risks included in
+an extended coverage policy; (ii) against public liability and other tort claims
+that may be incurred by the Company; (iii) as may be required by the Transaction
+Documents  and/or  applicable  law and (iv) as may be  reasonably  requested  by
+Secured Party, all with adequate, financially sound and reputable insurers.
+
+      Section 6.6. Contracts and Other Collateral.
+
+      The Company shall perform all of its obligations  under or with respect to
+each  instrument,  receivable,  contract  and other  intangible  included in the
+Pledged  Property  to which the Company is now or  hereafter  will be party on a
+timely basis and in the manner therein required,  including, without limitation,
+this Agreement.
+
+      Section 6.7. Defense of Collateral, Etc.
+
+      The Company shall defend and enforce its right,  title and interest in and
+to any part of: (a) the Pledged  Property;  and (b) if not  included  within the
+Pledged  Property,  those assets and properties whose loss could have a Material
+Adverse Effect,  the Company shall defend the Secured  Party's right,  title and
+interest in and to each and every part of the Pledged Property, each against all
+manner of claims and demands on a timely  basis to the full extent  permitted by
+applicable law.
+
+      Section 6.8. Payment of Debts, Taxes, Etc.
+
+      The Company shall pay, or cause to be paid,  all of its  indebtedness  and
+other liabilities and perform, or cause to be performed,  all of its obligations
+in accordance with the respective terms thereof, and pay and discharge, or cause
+to be paid or discharged,  all taxes, assessments and other governmental charges
+and levies  imposed upon it, upon any of its assets and  properties on or before
+the last day on which the same may be paid without  penalty,  as well as pay all
+other  lawful  claims  (whether  for  services,  labor,  materials,  supplies or
+otherwise) as and when due
+
+
+                                       8
+<PAGE>
+
+      Section 6.9. Taxes and Assessments; Tax Indemnity.
+
+      The  Company  shall (a) file all tax  returns  and  appropriate  schedules
+thereto that are required to be filed under applicable law, prior to the date of
+delinquency,  (b) pay and  discharge  all taxes,  assessments  and  governmental
+charges or levies imposed upon the Company,  upon its income and profits or upon
+any  properties  belonging  to it, prior to the date on which  penalties  attach
+thereto,  and (c) pay all taxes,  assessments and governmental charges or levies
+that,  if  unpaid,  might  become a lien or charge  upon any of its  properties;
+provided,  however,  that the  Company in good faith may  contest  any such tax,
+assessment,  governmental  charge or levy described in the foregoing clauses (b)
+and (c) so long as appropriate reserves are maintained with respect thereto.
+
+      Section 6.10. Compliance with Law and Other Agreements.
+
+      The Company shall  maintain its business  operations and property owned or
+used in connection  therewith in  compliance  with (a) all  applicable  federal,
+state and  local  laws,  regulations  and  ordinances  governing  such  business
+operations and the use and ownership of such property,  and (b) all  agreements,
+licenses,  franchises,  indentures and mortgages to which the Company is a party
+or by which the Company or any of its properties is bound.  Without limiting the
+foregoing,  the Company shall pay all of its indebtedness promptly in accordance
+with the terms thereof.
+
+      Section 6.11. Notice of Default.
+
+      The  Company  shall  give  written  notice  to the  Secured  Party  of the
+occurrence  of any  default  or Event  of  Default  under  this  Agreement,  the
+Transaction  Documents or any other Loan  Instrument  or any other  agreement of
+Company for the payment of money, promptly upon the occurrence thereof.
+
+      Section 6.12. Notice of Litigation.
+
+      The Company shall give notice, in writing, to the Secured Party of (a) any
+actions,  suits or  proceedings  wherein  the  amount  at issue is in  excess of
+$50,000,  instituted by any persons against the Company, or affecting any of the
+assets of the Company,  and (b) any dispute,  not resolved  within  fifteen (15)
+days of the  commencement  thereof,  between the Company on the one hand and any
+governmental  or regulatory  body on the other hand,  which might  reasonably be
+expected  to have a  Material  Adverse  Effect  on the  business  operations  or
+financial condition of the Company.
+
+
+                                       9
+<PAGE>
+
+                                   ARTICLE 7.
+
+                               NEGATIVE COVENANTS
+
+      The Company  covenants  and agrees  that,  from the date hereof  until the
+Obligations  have been fully paid and satisfied,  the Company shall not,  unless
+the Secured Party shall consent otherwise in writing:
+
+      Section 7.1. Reserved.
+
+      Section 7.2. Liens and Encumbrances.
+
+      The Company shall not directly or indirectly make, create,  incur,  assume
+or permit to exist any assignment, transfer, pledge, mortgage, security interest
+or other lien or  encumbrance  of any  nature in, to or against  any part of the
+Pledged Property or of the Company's  capital stock, or offer or agree to do so,
+or own or acquire or agree to acquire  any asset or  property  of any  character
+subject to any of the foregoing  encumbrances  (including any  conditional  sale
+contract or other title retention  agreement),  or assign,  pledge or in any way
+transfer or encumber  its right to receive any income or other  distribution  or
+proceeds from any part of the Pledged  Property or the Company's  capital stock;
+or enter into any  sale-leaseback  financing  respecting any part of the Pledged
+Property as lessee,  or cause or assist the inception or  continuation of any of
+the foregoing.
+
+      Section   7.3.   Certificate   of   Incorporation,    By-Laws,    Mergers,
+      Consolidations, Acquisitions and Sales.
+
+      Without  the prior  express  written  consent of the  Secured  Party,  the
+Company shall not: (a) Amend its Certificate of  Incorporation  or By-Laws;  (b)
+issue  or sell its  stock,  stock  options,  bonds,  notes  or  other  corporate
+securities  or  obligations;  (c) be a party  to any  merger,  consolidation  or
+corporate reorganization, (d) purchase or otherwise acquire all or substantially
+all of the assets or stock of, or any partnership or joint venture  interest in,
+any other person, firm or entity, (e) sell,  transfer,  convey, grant a security
+interest in or lease all or any substantial  part of its assets,  nor (f) create
+any subsidiaries nor convey any of its assets to any subsidiary.
+
+      Section 7.4. Management, Ownership.
+
+      The Company shall not materially change its ownership,  executive staff or
+management  without  the  prior  written  consent  of  the  Secured  Party.  The
+ownership, executive staff and management of the Company are material factors in
+the Secured Party's willingness to institute and maintain a lending relationship
+with the Company.
+
+      Section 7.5. Dividends, Etc.
+
+      The Company  shall not declare or pay any dividend of any kind, in cash or
+in property, on any class of its capital stock, nor purchase,  redeem, retire or
+otherwise  acquire for value any shares of such stock, nor make any distribution
+of any kind in respect thereof,  nor make any return of capital to shareholders,
+nor make any payments in respect of any  pension,  profit  sharing,  retirement,
+stock option,  stock bonus,  incentive  compensation  or similar plan (except as
+required  or  permitted  hereunder),  without the prior  written  consent of the
+Secured Party.
+
+
+                                       10
+<PAGE>
+
+      Section 7.6. Guaranties; Loans.
+
+      The  Company  shall not  guarantee  nor be liable in any  manner,  whether
+directly or  indirectly,  or become  contingently  liable after the date of this
+Agreement in connection  with the  obligations or  indebtedness of any person or
+persons,  except  for  (i)  the  indebtedness  currently  secured  by the  liens
+identified on the Pledged  Property  identified on Exhibit A hereto and (ii) the
+endorsement  of  negotiable  instruments  payable to the  Company for deposit or
+collection  in the ordinary  course of business.  The Company shall not make any
+loan,  advance or  extension  of credit to any  person  other than in the normal
+course of its business.
+
+      Section 7.7. Debt.
+
+      The  Company  shall  not  create,  incur,  assume  or  suffer to exist any
+additional  indebtedness of any description whatsoever in an aggregate amount in
+excess of $25,000  (excluding  any  indebtedness  of the  Company to the Secured
+Party,  trade  accounts  payable and accrued  expenses  incurred in the ordinary
+course of business and the endorsement of negotiable  instruments payable to the
+Company,  respectively  for  deposit or  collection  in the  ordinary  course of
+business).
+
+      Section 7.8. Conduct of Business.
+
+      The  Company  will  continue to engage,  in an  efficient  and  economical
+manner, in a business of the same general type as conducted by it on the date of
+this Agreement.
+
+      Section 7.9. Places of Business.
+
+      The location of the Company's  chief place of business is 17105 San Carlos
+Boulevard  Suite A6151 Fort Myers,  FL 33931.  The Company  shall not change the
+location of its chief place of business,  chief executive office or any place of
+business disclosed to the Secured Party or move any of the Pledged Property from
+its current  location  without  thirty (30) days'  prior  written  notice to the
+Secured Party in each instance.
+
+                                   ARTICLE 8.
+
+                                  MISCELLANEOUS
+
+      Section 8.1. Notices.
+
+      All  notices or other  communications  required or  permitted  to be given
+pursuant to this  Agreement  shall be in writing and shall be considered as duly
+given on:  (a) the date of  delivery,  if  delivered  in person,  by  nationally
+recognized  overnight  delivery  service or (b) five (5) days  after  mailing if
+mailed from within the  continental  United  States by  certified  mail,  return
+receipt requested to the party entitled to receive the same:
+
+
+
+                                       11
+<PAGE>
+
+If to the Secured Party:                   Cornell Capital Partners, LP
+                                           101 Hudson Street-Suite 3700
+                                           Jersey City, New Jersey 07302
+                                           Attention:        Mark Angelo
+                                                             Portfolio Manager
+                                           Telephone:        (201) 986-8300
+                                           Facsimile:        (201) 985-8266
+
+With a copy to:                            David Gonzalez, Esq.
+                                           101 Hudson Street, Suite 3700
+                                           Jersey City, NJ 07302
+                                           Telephone:        (201) 985-8300
+                                           Facsimile:        (201) 985-8266
+
+And if to the Company:                     Innova Holdings, Inc
+                                           17105 San Carlos Boulevard
+                                           Suite A6151
+                                           Fort Myers, FL 33931
+                                           Attention:        Walter Weisel
+                                           Telephone:        (239) 466-0488
+                                           Facsimile:        (239) 466-7270
+With a copy to:
+                                           Innova Holdings, Inc.
+                                           17105 San Carlos Boulevard
+                                           Suite A6151
+                                           For Myers, FL 33931
+                                           Attention:        Sheri Aws
+                                           Telephone:        (239) 466-0488
+                                           Facsimile:        (239) 466-7270
+
+
+      Any party may  change  its  address  by giving  notice to the other  party
+stating its new address.  Commencing on the tenth (10th) day after the giving of
+such notice, such newly designated address shall be such party's address for the
+purpose of all notices or other communications required or permitted to be given
+pursuant to this Agreement.
+
+      Section 8.2. Severability.
+
+      If any provision of this Agreement shall be held invalid or unenforceable,
+such  invalidity  or  unenforceability  shall attach only to such  provision and
+shall not in any  manner  affect or render  invalid or  unenforceable  any other
+severable  provision of this Agreement,  and this Agreement shall be carried out
+as if any such invalid or unenforceable provision were not contained herein.
+
+
+                                       12
+<PAGE>
+
+      Section 8.3. Expenses.
+
+      In the event of an Event of Default,  the Company  will pay to the Secured
+Party the amount of any and all  reasonable  expenses,  including the reasonable
+fees  and  expenses  of its  counsel,  which  the  Secured  Party  may  incur in
+connection  with: (i) the custody or  preservation  of, or the sale,  collection
+from, or other realization upon, any of the Pledged Property;  (ii) the exercise
+or enforcement of any of the rights of the Secured Party  hereunder or (iii) the
+failure by the Company to perform or observe any of the provisions hereof.
+
+      Section 8.4. Waivers, Amendments, Etc.
+
+      The Secured  Party's  delay or failure at any time or times  hereafter  to
+require  strict  performance  by  Company  of any  undertakings,  agreements  or
+covenants shall not waiver,  affect,  or diminish any right of the Secured Party
+under this Agreement to demand strict compliance and performance  herewith.  Any
+waiver by the  Secured  Party of any Event of Default  shall not waive or affect
+any other Event of Default, whether such Event of Default is prior or subsequent
+thereto and whether of the same or a different type.  None of the  undertakings,
+agreements  and  covenants of the Company  contained in this  Agreement,  and no
+Event of Default,  shall be deemed to have been waived by the Secured Party, nor
+may this  Agreement  be  amended,  changed  or  modified,  unless  such  waiver,
+amendment,  change or  modification  is  evidenced by an  instrument  in writing
+specifying  such waiver,  amendment,  change or  modification  and signed by the
+Secured Party.
+
+      Section 8.5. Continuing Security Interest.
+
+      This Agreement shall create a continuing  security interest in the Pledged
+Property and shall: (i) remain in full force and effect until payment in full of
+the  Obligations;  and (ii) be binding upon the Company and its  successors  and
+heirs and (iii) inure to the benefit of the Secured Party and its successors and
+assigns.  Upon the  payment  or  satisfaction  in full of the  Obligations,  the
+Company shall be entitled to the return, at its expense,  of such of the Pledged
+Property as shall not have been sold in  accordance  with  Section 5.2 hereof or
+otherwise applied pursuant to the terms hereof.
+
+      Section 8.6. Independent Representation.
+
+      Each party hereto  acknowledges and agrees that it has received or has had
+the opportunity to receive  independent legal counsel of its own choice and that
+it has been sufficiently apprised of its rights and responsibilities with regard
+to the substance of this Agreement.
+
+      Section 8.7. Applicable Law: Jurisdiction.
+
+      This Agreement shall be governed by and interpreted in accordance with the
+laws of the State of New Jersey  without regard to the principles of conflict of
+laws.  The parties  further agree that any action between them shall be heard in
+Hudson County,  New Jersey,  and expressly consent to the jurisdiction and venue
+of the  Superior  Court of New Jersey,  sitting in Hudson  County and the United
+States  District  Court for the  District of New Jersey  sitting in Newark,  New
+Jersey  for the  adjudication  of any civil  action  asserted  pursuant  to this
+Paragraph.
+
+
+                                       13
+<PAGE>
+
+      Section 8.8. Waiver of Jury Trial.
+
+      AS A FURTHER INDUCEMENT FOR THE SECURED PARTY TO ENTER INTO THIS AGREEMENT
+AND TO MAKE THE  FINANCIAL  ACCOMMODATIONS  TO THE COMPANY,  THE COMPANY  HEREBY
+WAIVES ANY RIGHT TO TRIAL BY JURY IN ANY LEGAL PROCEEDING  RELATED IN ANY WAY TO
+THIS AGREEMENT AND/OR ANY AND ALL OTHER DOCUMENTS RELATED TO THIS TRANSACTION.
+
+      Section 8.9. Entire Agreement.
+
+      This  Agreement  constitutes  the entire  agreement  among the parties and
+supersedes any prior agreement or  understanding  among them with respect to the
+subject matter hereof.
+
+
+
+                  [REMAINDER OF PAGE INTENTIONALLY LEFT BLANK]
+
+
+                                       14
+<PAGE>
+
+      IN WITNESS  WHEREOF,  the  parties  hereto  have  executed  this  Security
+Agreement as of the date first above written.
+
+
+                                       COMPANY:
+                                       INNOVA HOLDINGS, INC
+
+                                       By:    /s/ Walter K. Weisel
+                                              -------------------------------
+                                       Name:  Walter K. Weisel
+                                       Title: Chief Executive Officer
+
+
+                                       SECURED PARTY:
+                                       CORNELL CAPITAL PARTNERS, LP
+
+                                       By:    Yorkville Advisors, LLC
+                                       Its:   General Partner
+
+                                       By:    /s/ Mark Angelo
+                                              -------------------------------
+                                       Name:  Mark Angelo
+                                       Title: Portfolio Manager
+
+
+                                       15
+<PAGE>
+
+                                    EXHIBIT A
+                         DEFINITION OF PLEDGED PROPERTY
+
+      For the purpose of securing prompt and complete payment and performance by
+the  Company  of  all  of  the  Obligations,  the  Company  unconditionally  and
+irrevocably hereby grants to the Secured Party a continuing security interest in
+and to, and lien upon, the following Pledged Property of the Company:
+
+            (a)  all  goods  of  the  Company,  including,  without  limitation,
+machinery,  equipment, furniture,  furnishings,  fixtures, signs, lights, tools,
+parts,  supplies  and  motor  vehicles  of every  kind and  description,  now or
+hereafter owned by the Company or in which the Company may have or may hereafter
+acquire any interest, and all replacements, additions, accessions, substitutions
+and proceeds thereof,  arising from the sale or disposition  thereof,  and where
+applicable,  the proceeds of insurance  and of any tort claims  involving any of
+the foregoing;
+
+            (b) all inventory of the Company, including, but not limited to, all
+goods, wares,  merchandise,  parts, supplies,  finished products, other tangible
+personal  property,  including such inventory as is temporarily out of Company's
+custody or  possession  and  including  any returns  upon any  accounts or other
+proceeds,  including insurance proceeds,  resulting from the sale or disposition
+of any of the foregoing;
+
+            (c) all  contract  rights and general  intangibles  of the  Company,
+including, without limitation,  goodwill, trademarks, trade styles, trade names,
+leasehold interests,  partnership or joint venture interests, patents and patent
+applications,  copyrights,  deposit  accounts  whether  now  owned or  hereafter
+created;
+
+            (d) all documents, warehouse receipts, instruments and chattel paper
+of the Company whether now owned or hereafter created;
+
+            (e) all accounts and other  receivables,  instruments or other forms
+of  obligations  and  rights to  payment  of the  Company  (herein  collectively
+referred  to as  "Accounts"),  together  with the  proceeds  thereof,  all goods
+represented  by such  Accounts  and all such goods that may be  returned  by the
+Company's  customers,  and  all  proceeds  of any  insurance  thereon,  and  all
+guarantees,  securities  and liens which the Company may hold for the payment of
+any such  Accounts  including,  without  limitation,  all rights of  stoppage in
+transit,  replevin and reclamation and as an unpaid vendor and/or lienor, all of
+which  the  Company  represents  and  warrants  will be bona  fide and  existing
+obligations of its respective customers, arising out of the sale of goods by the
+Company in the ordinary course of business;
+
+            (f) to the extent assignable,  all of the Company's rights under all
+present and future  authorizations,  permits,  licenses and franchises issued or
+granted in connection with the operations of any of its facilities;
+
+            (g)  all  products  and  proceeds  (including,  without  limitation,
+insurance proceeds) from the above-described Pledged Property.
+
+
+                                       A-1
+
+</TEXT>
+</DOCUMENT>

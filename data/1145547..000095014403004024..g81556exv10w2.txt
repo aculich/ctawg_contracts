@@ -1,0 +1,407 @@
+<DOCUMENT>
+<TYPE>EX-10.2
+<SEQUENCE>4
+<FILENAME>g81556exv10w2.txt
+<DESCRIPTION>EX-10.2 EMPLOYEE INCENTIVE STOCK PLAN
+<TEXT>
+<PAGE>
+                                                                    EXHIBIT 10.2
+
+                                GREER STATE BANK
+                      EMPLOYEE INCENTIVE STOCK OPTION PLAN
+
+1.       PURPOSE.
+
+         The purpose of this Employee Incentive Stock Option Plan (the "Plan")
+is to give officers and executive personnel ("key employees") of GREER STATE
+BANK, a bank organized under the laws of the State of South Carolina ("Bank"),
+an opportunity to acquire shares of the common stock of the Bank ("Common
+Stock"), to provide an incentive for key employees to continue to promote the
+best interests of the Bank and enhance its long-term performance, and to provide
+an incentive for key employees to join or remain with the Bank and its
+subsidiaries.
+
+2.       ADMINISTRATION.
+
+         (a)  BOARD OF DIRECTORS.  The Plan shall be administered by the Board
+of Directors of the Bank (the "Board"), which, to the extent it shall determine,
+may delegate its powers with respect to the administration of the Plan (except
+its powers under Section 11(c) to a committee (the "Committee") appointed by the
+Board and composed of not less than three members of the Board. If the Board
+chooses to appoint a Committee, references hereinafter to the Board (Except in
+Section 11(c)) shall be deemed to refer to the Committee. Notwithstanding the
+preceding provisions of the Section, no member of the Board may exercise
+discretion with respect to, or participate in, the administration of the Plan,
+if, at any time within one year prior to such exercise or participation, he or
+she has been eligible for selection as a person to whom stock may be allocated
+or to whom stock options may be granted pursuant to the Plan or any other plan
+of the Bank or any affiliate thereof entitling the participants therein to
+acquire stock, stock options or stock appreciation rights of the Bank or of any
+of its affiliates.
+
+         (b)  POWERS.  Within the limits of the express provisions of the Plan,
+the Board shall determine: (i) the key employees to whom awards hereunder shall
+be granted, (ii) the key employees to whom awards hereunder shall be granted,
+(ii) the time or times at which such awards shall be granted, (iii) the form
+and amount of the
+
+
+<PAGE>
+awards, and (iv) the limitations, restrictions and conditions applicable to any
+such award. In making such determinations, the Board may take into account the
+nature of the services rendered by such employees, or classes of employees,
+their present and potential contributions to the Bank's success and such other
+factors as the Board in its discretion shall deem relevant.
+
+         (c)      INTERPRETATIONS. Subject to the express provisions of the
+Plan, the Board may interpret the Plan, prescribe, amend and rescind rules and
+regulations relating to it, determine the terms and provisions of the
+respective awards and make all other determinations it deems necessary or
+advisable for the administration of the Plan.
+
+         (d)      DETERMINATIONS. The determinations of the Board on all
+matters regarding the Plan shall be conclusive. A member of the Board shall
+only be liable for any action taken or determination made in bad faith.
+
+         (e)      NONUNIFORM DETERMINATIONS. The Board's determinations under
+the Plan, including without limitation, determinations as to the persons to
+receive awards, the terms and provisions of such awards and the agreements
+evidencing the same, need not be uniform and may be made by it selectively
+among persons who receive or are eligible to receive awards under the Plan,
+whether or not such persons are similarly situated.
+
+3.       AWARDS UNDER THE PLAN.
+
+         (a)      FORM. Awards under the Plan may be granted in the form of
+Incentive Stock Options as described in Section 4.
+
+         (b)      MAXIMUM LIMITATIONS. The aggregate number of shares of Common
+Stock available for grant under the Plan is Thirty Thousand Shares (30,000),
+subject to adjustment pursuant to Section 7. Shares of Common Stock issued
+pursuant to the Plan may be either authorized but unissued shares or shares now
+or hereafter held in the treasury of the Bank. In the event that, prior to the
+end of the period during which Incentive Stock Options may be granted under the
+Plan, any Incentive Stock Option under the Plan expires unexercised or is
+terminated, surrendered or cancelled without being
+
+
+                                      -2-
+<PAGE>
+exercised, in whole or in part, for any reason, the number of shares
+theretofore subject to such Incentive Stock Option, or the unexercised,
+terminated, forfeited or unearned portion thereof, shall be added to the
+remaining number of shares of Common Stock available for grant as an Incentive
+Stock Option under the Plan, including a grant to a former holder of such
+Incentive Stock Option, upon such terms and conditions as the Board shall
+determine, which terms may be more or less favorable than those applicable to
+such former Incentive Stock Option.
+
+         (c)      TEN PERCENT SHAREHOLDER.   Notwithstanding any other
+provisions herein contained, no key employee may receive an Incentive Stock
+Option under the Plan if such employee, at the time the award is granted, owns
+(as defined in Section 425(d) of the Internal Revenue Code of 1986, as amended
+(the "Code")) stock possessing more than 10% of the total combined voting power
+of all classes of stock of the Bank, its parent or any subsidiary, unless the
+option price for such Incentive Stock Option is at least 110% of the fair
+market value of the Common Stock subject to such Incentive Stock Option on the
+date of grant and such Option is not exercisable after the date five years from
+the date such Option is granted.
+
+4.       INCENTIVE STOCK OPTIONS.
+
+         It is intended that Incentive Stock Options granted under the Plan
+shall constitute Incentive Stock Options within the meaning of Section 422A of
+the Code. Incentive Stock Options may be granted under the Plan for the
+purchase of shares of Common Stock. Incentive Stock Options shall be in such
+form and upon such conditions as the Board shall from time to time determine,
+subject to the following:
+
+         (a)      OPTION PRICES.    The option price of each Incentive Stock
+Option shall be at least 100% of the fair market value of the Common Stock
+subject to such Incentive Stock Option on the date of grant.
+
+
+                                      -3-
+<PAGE>
+         (b)      TERMS OF OPTIONS.   No Incentive Stock Option shall be
+exercisable prior to the date one year, or after the date ten years, from the
+date such Incentive Stock Option is granted.
+
+         (c)      LIMITATION ON AMOUNTS.   The aggregate fair market value
+(determined with respect to each Incentive Stock Option as of the time such
+Incentive Stock Option is granted) of the capital stock with respect to which
+Incentive Stock Options are exercisable for the first time by a key employee
+during any calendar year (under this Plan or any other plan of the Bank or the
+parent or any subsidiary of the Bank) shall not exceed $100,000.
+
+5.       PROVISIONS APPLICABLE TO INCENTIVE STOCK OPTIONS.
+
+         (a)      EXERCISE.   Incentive Stock Options shall be subject to such
+terms and conditions, shall be exercisable at such time or times, and shall be
+evidenced by such form of written option agreement between the optionee and the
+Bank, as the Board shall determine; provided, that such determinations are not
+inconsistent with the other provisions of the Plan, and with Section 422A of
+the Code or regulations thereunder.
+
+         (b)      MANNER OF EXERCISE OF OPTIONS AND PAYMENT FOR COMMON STOCK.
+Incentive Stock Options may be exercised by an optionee by giving written
+notice to the Secretary of the Bank stating the number of shares of Common
+Stock with respect to which the Incentive Stock Option is being exercised and
+tendering payment therefor. At the time that an Incentive Stock Option granted
+under the Plan, or any part thereof, is exercised, payment for the Common
+Stock issuable thereupon shall be made in full in cash or by certified check
+or, if the Board in its discretion agrees to accept, in shares of Common Stock
+of the Bank (the number of such shares paid for each share subject to the
+Incentive Stock Option, or part thereof, being exercised shall be determined by
+dividing the option price by the fair market value per share of the Common
+Stock on the date of exercise). As soon as reasonably possible following such
+exercise, a certificate representing shares of Common Stock purchased,
+registered in the name of the optionee shall be delivered to the optionee.
+
+
+                                      -4-
+
+<PAGE>
+6.       TRANSFERABILITY.
+
+         No Incentive Stock Option may be transferred, assigned, pledged or
+hypothecated (whether by operation of law or otherwise), except as provided by
+will or the applicable laws of descent or distribution, and no Incentive Stock
+Option shall be subject to execution, attachment or similar process. Any
+attempted assignment, transfer, pledge, hypothecation or other disposition of an
+Incentive Stock Option, or levy of attachment or similar process upon the
+Incentive Stock Option not specifically permitted herein shall be null and void
+and without effect. An Incentive Stock Option may be exercised only by a key
+employee during his or her lifetime, or pursuant to Section 10(c), by his or her
+estate or the person who acquires the right to exercise such Incentive Stock
+Option upon his or her death by bequest or inheritance.
+
+7.       ADJUSTMENT PROVISIONS.
+
+         The aggregate number of shares of Common Stock with respect to which
+Incentive Stock Options may be granted, the aggregate number of shares of Common
+Stock subject to each outstanding Incentive Stock Option, and the option price
+per share of each such Incentive Stock Option, may all be appropriately
+adjusted as the Board may determine for any increase or decrease in the number
+of shares of issued Common Stock resulting from a subdivision or consolidation
+of shares, whether through reorganization, recapitalization, stock split-up,
+stock distribution or combination of shares, or the payment of a share dividend
+or other increase or decrease in the number of such shares outstanding effected
+without receipt of consideration by the Bank. Adjustments under this Section 7
+shall be made according to the sole discretion of the Board, and its decisions
+shall be binding and conclusive.
+
+
+                                      -5-
+<PAGE>
+8.       DISSOLUTION, MERGER AND CONSOLIDATION.
+
+         Upon the dissolution or liquidation of the Bank, or upon a merger or
+consolidation of the Bank in which the Bank is not the surviving corporation,
+each Incentive Stock Option granted hereunder shall expire as of the effective
+date of such transaction; provided, however, that the Board shall give at least
+30 days' prior written notice of such event to each optionee during which time
+he or she shall have a right to exercise his or her wholly or partially
+unexercised Incentive Stock Option (without regard to installment exercise
+limitations, if any) and, subject to prior expiration pursuant to Section 10(b)
+or (c), each Incentive Stock Option shall be exercisable after receipt of such
+written notice and prior to the effective date of such transaction.
+
+9.       EFFECTIVE DATE AND CONDITIONS SUBSEQUENT TO EFFECTIVE DATE.
+
+         The Plan shall become effective on the date of the approval of the
+Plan by the holders of a majority of the shares of Common Stock of the Bank;
+provided, however, that the adoption of the Plan is subject to such shareholder
+approval within twelve (12) months before or after the date of adoption of the
+Plan by the Board. The Plan shall be null and void and of no effect if the
+foregoing condition is not fulfilled, and in such event each Incentive Stock
+Option granted hereunder shall, notwithstanding any of the preceding provisions
+of the Plan, be null and void and of no effect.
+
+         No grant or award shall be made under the Plan more than 10 years from
+the date of adoption of the Plan by the Board; provided, however, that the Plan
+and all Incentive Stock Options granted under the Plan prior to such date shall
+remain in effect and subject to adjustment and amendment as herein provided
+until they have been satisfied or terminated in accordance with the terms of the
+respective grants or awards and the related agreements.
+
+
+                                      -6-
+<PAGE>
+10.      TERMINATION OF EMPLOYMENT.
+
+         (a)      Each Incentive Stock Option shall, unless sooner expired
+pursuant to Section 10(b) or (c) below, expire on the first to occur of the
+tenth anniversary of the date of grant thereof or the expiration date set forth
+in the applicable option agreement.
+
+         (b)      An Incentive Stock Option shall expire on the first to occur
+of the applicable date set forth in paragraph (a) next above and the date that
+the employment of the key employee with the Bank terminates for any reason other
+than death or disability. Notwithstanding the preceding provisions of this
+paragraph, the Board, in its sole discretion, may, by written notice given to an
+ex-employee, permit the ex-employee to exercise Incentive Stock Options during a
+period following his or her termination of employment, which period shall not
+exceed three months. In no event, however, may the Board permit an ex-employee
+to exercise an Incentive Stock Option after the expiration date contained in the
+agreement evidencing such Incentive Stock Option. Notwithstanding the preceding
+provisions of this paragraph, if the Board permits an ex-employee to exercise
+Incentive Stock Options during a period following his or her termination of
+employment pursuant to such preceding provisions, such Incentive Stock Options
+shall, to the extent unexercised, expire on the date that such ex-employee
+violates (as determined by the Board) any covenant not to compete in effect
+between the Bank and the ex-employee.
+
+         (c)      If the employment of a key employee with the Bank terminates
+by reason of disability (as defined in Section 422A(c)(9) of the Code as
+determined by the Board) or by reason of death, his or her Incentive Stock
+Options, if any, shall expire on the first to occur of the date set forth in
+paragraph (a) of this Section 10 and the first anniversary of such termination
+of employment.
+
+11.      MISCELLANEOUS.
+
+         (a)      LEGAL AND OTHER REQUIREMENTS.   The obligation of the Bank to
+sell and deliver Common Stock under the Plan shall be subject to all applicable
+laws, regulations, rules and approvals, including, but not by way of
+limitation, the effectiveness of a
+
+
+                                      -7-
+<PAGE>
+registration statement under the Securities Act of 1933 if deemed necessary or
+appropriate by the Bank. Certificates for shares of Common Stock issued
+hereunder may be legended as the Board shall deem appropriate.
+
+         (b)      NO OBLIGATION TO EXERCISE OPTIONS. The granting of an
+Incentive Stock Option shall impose no obligation upon an optionee to exercise
+such Incentive Stock Option.
+
+         (c)      TERMINATION AND AMENDMENT OF THE PLAN. The Board, without
+further action on the part of the shareholders of the Bank, may from time to
+time alter, amend or suspend the Plan or any Incentive Stock Option granted
+hereunder or may at any time terminate the Plan, except that it may not,
+without the approval of the shareholders of the Bank (except to the extent
+provided in Section 8 hereof): (i) change the total number of shares of Common
+Stock available for grant under the Plan; (ii) extend the duration of the Plan;
+(iii) increase the maximum term of Incentive Stock Options; (iv) change the
+class of employees eligible to be granted Incentive Stock Options under the
+Plan; or (vi) effect a change relating to Incentive Stock Options granted
+hereunder which is inconsistent with Section 422A of the Code or regulations
+issued thereunder. No action taken by the Board under this Section, either with
+or without the approval of the shareholders of the Bank, may materially and
+adversely affect any outstanding Incentive Stock Option without the consent of
+the holder thereof.
+
+         (d)      APPLICATION OF FUNDS. The proceeds received by the Bank from
+the sale of Common Stock pursuant to Incentive Stock Options will be used for
+general corporate purposes.
+
+         (e)      WITHHOLDING TAXES. Upon the exercise of any Incentive Stock
+Option, the Bank shall have the right to require the optionee to remit to the
+Bank an amount sufficient to satisfy all federal, state and local withholding
+tax requirements prior to the delivery of any certificate or certificates for
+shares of Common Stock.
+
+
+                                      -8-
+<PAGE>
+         Upon the disposition of any Common Stock acquired by the exercise of
+an Incentive Stock Option, the Bank shall have the right to require the
+optionee to remit to the Bank an amount sufficient to satisfy all federal,
+state and local withholding tax requirements as a condition to the registration
+of the transfer of such Common Stock on its books. Whenever under the Plan
+payments are to be made by the Bank in cash or by check, such payments shall be
+net of any amounts sufficient to satisfy all federal, state and local
+withholding tax requirements.
+
+         (f)      RIGHT TO TERMINATE EMPLOYMENT. Nothing in the Plan or any
+agreement entered into pursuant to the Plan shall confer upon any key employee
+or other optionee the right to continue in the employment of the Bank or any
+subsidiary or affect any right which the Bank or any subsidiary may have to
+terminate the employment of such key employee or other optionee.
+
+         (g)      RIGHTS AS A SHAREHOLDER. No optionee shall have any right as
+a shareholder unless and until certificates for shares of Common Stock are
+issued to him or her.
+
+         (h)      LEAVES OF ABSENCE AND DISABILITY. The Board shall be entitled
+to make such rules, regulations and determinations as it deems appropriate
+under the Plan in respect of any leave of absence taken by or disability of any
+key employee. Without limiting the generality of the foregoing, the Board shall
+be entitled to determine (i) whether or not any such leave of absence shall
+constitute a termination of employment within the meaning of the Plan, and (ii)
+the impact, if any, of any such leave of absence on awards under the Plan
+theretofore made to any key employee who takes such leave of absence.
+
+         (i)      FAIR MARKET VALUE. Whenever the fair market value of Common
+Stock is to be determined under the Plan as of a given date, such fair market
+value shall be:
+
+                  (i)      If the Common Stock is traded on the
+                  over-the-counter market, the average of the mean between the
+                  bid and the asked price for the Common Stock at the close of
+                  trading for the 10 consecutive trading days immediately
+                  preceding such given date;
+
+
+                                      -9-
+<PAGE>
+         (ii)     If the Common Stock is listed on a national securities
+         exchange, the average of the closing prices of the Common Stock on the
+         Composite Tape for the 10 consecutive trading days immediately
+         preceding such given date; and
+
+         (iii)    If the Common Stock is neither traded on the over-the-counter
+         market nor listed on a national securities exchange, such value as the
+         Board, in good faith, shall determine.
+
+Notwithstanding any provision of the Plan to the contrary, no determination
+made with respect to the fair market value of Common Stock subject to an
+Incentive Stock Option shall be inconsistent with Section 422A of the Code or
+regulations thereunder.
+
+         (j)      NOTICES. Every direction, revocation or notice authorized or
+required by the Plan shall be deemed delivered to the Bank on the date it is
+received by mail or personally delivered to the Secretary of the Bank, and
+shall be deemed delivered to an optionee (1) on the date it is personally
+delivered to him or her or (2) the date it is sent by registered or certified
+mail, postage prepaid, addressed to him or her at the last address shown for
+him or her on the records of the Bank.
+
+         (k)      APPLICABLE LAW. All questions pertaining to the validity,
+construction and administration of the Plan and Stock Options and Stock
+Appreciation Rights granted hereunder shall be determined in conformity with
+the laws of the State of South Carolina, to the extent not inconsistent with
+Section 422A of the Code and regulations thereunder.
+
+         (l)      ELIMINATION OF FRACTIONAL SHARES. If under any provision of
+the Plan which requires a computation of the number of shares of Common Stock
+subject to an Incentive Stock Option or Stock Appreciation Right, the number so
+computed is not a whole number
+
+
+                                      -10-
+<PAGE>
+
+
+of shares of Common Stock, such number of shares of Common Stock shall be
+rounded down to the next whole number.
+
+
+
+                                             ---------------------------------
+                                             Secretary of the Board
+
+ATTEST:
+
+
+
+---------------------------------
+Chairman of the Board
+
+
+                                      -11-
+
+</TEXT>
+</DOCUMENT>

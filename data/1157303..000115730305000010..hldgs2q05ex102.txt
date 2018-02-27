@@ -1,0 +1,347 @@
+<DOCUMENT>
+<TYPE>EX-10.2
+<SEQUENCE>3
+<FILENAME>hldgs2q05ex102.txt
+<DESCRIPTION>MANAGEMENT SERVICES AGREEMENT
+<TEXT>
+
+
+                                                               EXHIBIT 10.2
+
+
+
+                         MANAGEMENT SERVICES AGREEMENT
+                         -----------------------------
+
+
+
+         THIS MANAGEMENT SERVICES AGREEMENT ("Agreement") is made as of January
+1, 2005, by and among ISP Management Company, Inc., a Delaware corporation
+("ISP") Heyman Properties, LLC, a Connecticut limited liability company and
+Heyman Investment Associates Limited Partnership, a Connecticut limited
+partnership (collectively, the "Heyman Entities").
+
+
+
+         WHEREAS, the Heyman Entities desire to have ISP provide certain
+management services to each of them and certain of their affiliates; and
+
+
+
+         WHEREAS, ISP desires to have the Heyman Entities provide certain
+advising services to it and certain of its affiliates; and
+
+
+
+         WHEREAS, ISP and the Heyman Entities are willing to provide such
+services to each other, but will incur certain costs and expenses relating to
+those services; and
+
+
+
+         WHEREAS, the Heyman Entities desire to establish management fees
+payable to ISP in order to more appropriately reflect the usage of such
+management services provided by ISP and the costs to ISP of providing such
+management services, and
+
+
+
+         WHEREAS, ISP desires to establish advising fees payable to each of the
+Heyman Entities in order to more appropriately reflect the usage of such
+services provided by the Heyman Entities and the costs to the Heyman Entities of
+providing such services;
+
+
+
+         NOW, THEREFORE, in consideration of the mutual promises contained
+herein, and for other good and valuable consideration, the receipt and
+sufficiency of which is hereby acknowledged, and subject to the conditions
+contained herein, the parties hereby agree as follows:
+
+
+
+1.   Term. The term of this Agreement shall commence as of January 1, 2005 and
+     shall continue up to and including December 31, 2005 (the "Initial Term").
+     This Agreement may be renewed for additional terms of one (1) year (each a
+     "Renewal Term") unless terminated in writing by the parties hereto by
+     giving such notice not less than thirty (30) days prior to the expiration
+     of the Intitial Term or any Renewal Term.
+
+
+<PAGE>
+
+
+
+2.   Provision of Services. (a) ISP, or one of its affiliates, agrees to provide
+     to the Heyman Entities, or an affiliate, to the extent required, the
+     management services listed on Exhibit A attached hereto and made a part
+     hereof, wherever rendered, which shall be provided on a continuous basis
+     without specific request.
+
+              The management services listed on Exhibit A shall not be deemed
+     exhaustive and may be changed according to the changing business needs of
+     the parties hereto from time to time upon mutual agreement among such
+     parties (all services provided by ISP pursuant to this Agreement are
+     hereinafter collectively referred to as the "ISP Services").
+
+              (b) Each of the Heyman Entities agrees to provide to ISP, and from
+     time to time at ISP's request, the other parties to that certain Amended
+     and Restated Management Agreement dated as of January 1, 1999 as amended,
+     either through ISP or directly to the parties, and to the extent required,
+     the advisory services listed on Exhibit B attached hereto and made a part
+     hereof, wherever rendered, which shall be provided on a continuous basis
+     without specific request.
+
+              The services listed on Exhibit B shall not be deemed exhaustive
+     and may be changed according to the changing business needs of the parties
+     hereto from time to time upon mutual agreement among such parties (all
+     services provided by Heyman Entities pursuant to this Agreement are
+     hereinafter collectively referred to as the "Heyman Entities Services").
+
+
+
+3.   Fees. In consideration of ISP providing the ISP Services hereunder, the
+     Heyman Entities shall pay to ISP a management fee (the "Management Fee") as
+     set forth on Exhibit C attached hereto and made a part hereof. In
+     consideration of the Heyman Entities providing the Heyman Entities Services
+     hereunder, ISP shall pay to the Heyman Entities an advisory fee (the
+     "Advisory Fee") as set forth on Exhibit C attached hereto and made a part
+     hereof. The parties may replace Exhibit C from time to time to reflect
+     adjustments to the Management Fee and/or the Advisory Fee. The Management
+     Fee and/or the Advisory Fee shall be payable quarterly in arrears.
+
+
+
+4.   Reimbursement of Expenses.
+
+     (i)  To the extent ISP or the Heyman Entities pays any expense attributable
+          to the other party for reasons of administrative convenience (a
+          "Reimbursable Expense"), ISP or the Heyman Entities shall promptly
+          bill the other party for the amount thereof, and the other party shall
+          promptly pay such invoice. If a Reimbursable Expense is part of a
+          combined or consolidated expense billed or otherwise charged to ISP or
+          the Heyman Entities though incurred for the benefit of both parties,
+          the party for whose benefit such expense was incurred shall endeavor
+          to arrange for direct billing or charging to them of their respective
+          portions of such expense.
+
+     (ii) If ISP or the Heyman Entities bills the other party for Reimbursable
+          Expenses during a calendar quarter, it shall provide to the other
+          party, following the completion of such quarter, a statement
+          indicating all amounts invoiced during such quarter and whether such
+          amounts have been paid.
+
+     (iii) Any shared third party charges shall be allocated among the parties
+           hereto on such basis as ISP, in consultation with the Heyman
+           Entities, shall reasonably determine.
+
+
+                                       2
+<PAGE>
+
+
+     (iv) If, at the request of the Heyman Entities, ISP performs services
+          outside of the normal scope of the Services provided hereunder, the
+          Heyman Entities shall pay ISP such fee therefor as is reasonably
+          designated by ISP in advance of performing such services.
+
+
+
+5.   Warranty. The parties hereto warrant that they will employ sufficient and
+     properly skilled personnel to perform the ISP Services and the Heyman
+     Entities Services in a professional manner. It is understood that ISP may
+     enter into contracts with third party suppliers to supply the ISP Services
+     and shall take into account the best interests of the Heyman Entities in
+     negotiating the terms and conditions of such contracts. If necessary for
+     ISP's effective exercise of its responsibilities hereunder, the Heyman
+     Entities shall designate authorized representatives of ISP as their
+     officers and employees, subject to all of the other terms of this
+     Agreement.
+
+
+
+6.   Records and Audit. A party that bills the other for Reimbursable Expenses
+     shall make and maintain accurate and complete records of such expenses and
+     the basis for all invoices therefor, and shall ensure that there is no
+     duplication in the invoicing of costs to such party. A party that pays any
+     Reimbursable Expenses invoiced to it shall have the right to audit the
+     records relating thereto from time to time during normal business hours.
+
+
+
+7.   Amendments.
+
+     (i)   The parties acknowledge that the Management Fee and Advisory Fee has
+           been established to reflect the cost to both parties of providing the
+           ISP Services and the Heyman Entities Services hereunder on the date
+           hereof. In the event of a change of circumstances that materially
+           affects the cost to either party of providing any services hereunder,
+           including, without limitation, a substantial increase in the services
+           provided by either party hereunder, the parties shall negotiate in
+           good faith such amendments to this Agreement as may be appropriate to
+           take into account the effect of any such changes of circumstances.
+           Such amendments may include, without limitation, an increase or
+           decrease of the Management Fee or Advisory Fee.
+
+     (ii)  Subject to paragraph (iii) of this Section 7, any amendment,
+           modification or waiver of any provision of this Agreement shall only
+           be effective if evidenced by a written instrument signed by an
+           authorized representative of ISP and an authorized representative of
+           each of the Heyman Entities affected by such amendment, modification
+           or waiver.
+
+     (iii) Notwithstanding anything else to the contrary contained herein, the
+           list of Services may be revised by mutual agreement of an authorized
+           representative of each party without the need for a written
+           instrument.
+
+8.   Governing Law. The execution, validity, interpretation and enforcement of
+     this Agreement shall be governed by the internal laws of the State of New
+     York without regard to choice of law principles that would lead to the
+     application of any other state's law.
+
+
+                                       3
+<PAGE>
+
+
+     IN WITNESS WHEREOF, the parties have executed this Agreement on the date
+and year first above written.
+
+
+ISP MANAGEMENT COMPANY, INC.                   HEYMAN PROPERTIES, LLC
+
+
+
+
+By: /s/ Salvatore J. Guccione                  By: /s/ James R. Mazzeo
+    ----------------------------                   --------------------------
+Name:  Salvatore J. Guccione                   Name:  James R. Mazzeo
+Title: Senior Vice President and               Title: Chief Financial Officer
+       Chief Financial Officer
+
+
+HEYMAN INVESTMENT ASSOCIATES
+LIMITED PARTNERSHIP
+
+
+
+By: /s/ Samuel J. Heyman
+    ----------------------------
+Name:  Samuel J. Heyman
+Title: General Partner
+
+
+
+
+
+
+
+                                       4
+<PAGE>
+
+                                   EXHIBIT A
+
+                           Examples of ISP Services
+                           ------------------------
+
+(i)    accounting services;
+
+(ii)   computer services;
+
+(iii)  legal and corporate secretarial services;
+
+(iv)   tax advisory services;
+
+(v)    administrative services;
+
+(vi)   concierge services, including, but not limited to, travel and
+       entertainment arrangements and reservations;
+
+(vii)  general management services as requested from time to time;
+
+(viii) use of office space located in New York City;
+
+(ix)   investment management and advisory services, including, but not limited
+       to:
+
+       (a) portfolio management;
+
+       (b) equity management (i.e. Large Cap/Small Cap equities);
+
+       (c) bond management (i.e. cash, fixed income);
+
+       (d) alternative investments (i.e. hedge funds, swaps, derivatives)
+
+
+
+
+
+
+                                       5
+<PAGE>
+
+
+
+
+                                   EXHIBIT B
+
+                     Examples of Heyman Entities Services
+                     ------------------------------------
+
+
+(i)   corporate development;
+
+(ii)  strategic acquisitions;
+
+(iii) risk arbitrage;
+
+(iv)  all aspects of real estate and property portfolio management
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                       6
+<PAGE>
+
+
+                                   EXHIBIT C
+
+                        Fees (annual aggregate amount)
+                        ------------------------------
+
+            ENTITY                                                FEE
+            ------                                                ---
+
+Heyman Properties  (to ISP)                                     $245,000
+Heyman Investment Associates (to ISP)                           $470,000
+                                                                --------
+    Total fees payable by Heyman Entities to ISP                $715,000
+                                                                ========
+
+ISP (to Heyman Properties)                                      $230,000
+ISP (to Heyman Investment Associates)                           $200,000
+                                                                --------
+    Total fees payable by ISP to Heyman Entities                $430,000
+                                                                ========
+
+
+
+
+
+
+
+
+
+                                       7
+</TEXT>
+</DOCUMENT>

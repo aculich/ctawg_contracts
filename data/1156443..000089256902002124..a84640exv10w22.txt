@@ -1,0 +1,165 @@
+<DOCUMENT>
+<TYPE>EX-10.22
+<SEQUENCE>5
+<FILENAME>a84640exv10w22.txt
+<DESCRIPTION>EXHIBIT 10.22
+<TEXT>
+<PAGE>
+
+[RELIANT ENERGY LOGO]                                              Exhibit 10.22
+
+
+
+
+05/23/2002
+
+Commonwealth Energy Corporation
+15901 Red Hill Avenue, Suite 100
+Tustin, CA 92780
+
+Fax No. (714) 259-2553
+
+
+                            CONFIRMATION LETTER, 001
+
+
+This confirmation letter is being provided pursuant to and in accordance with
+the Master Power Purchase and Sale Agreement dated May 18, 2002 (the "Master
+Agreement") between Reliant Energy Services, Inc. ("RES") and Commonwealth
+Energy Corporation ("Counterparty"). Terms used but not defined herein shall
+have the meanings ascribed to them in the Master Agreement. This Confirmation
+Letter shall confirm the Transaction agreed to on May 23, 2002 ("Trade Date")
+regarding the sale of the Product under the terms and conditions that follow:
+
+     Seller:             RES
+
+     Buyer:              Counterparty
+
+     Product:            CAISO Energy
+
+     Delivery
+     Period:             [Confidential treatment requested]*
+
+                         Hours ending 0100 through 2400, Pacific Prevailing
+                         Time, Monday through Sunday, including NERC holidays.
+
+     Contact
+     Quantity:           Varies by the day and hour during the Delivery
+                         Period, as specified in Attachment A
+
+
+     Delivery Point:     SP-15, however, in the event that SP-15 is split into
+                         multiple zones or otherwise redefined, deliveries will
+                         be made to the Zone(s), Node(s) and/or Delivery
+                         Point(s) that most nearly resemble SP-15 as it exists
+                         on the Trade Date.
+
+     Contract Price:     [Confidential treatment requested]* per MWh
+
+
+Special Provisions
+
+1. As a condition precedent to the obligation of the Seller of this Transaction,
+within five (5) Business Days following the Trade Date, Counterparty shall
+provide RES with a letter of credit which shall be in form and substance
+acceptable to RES ("Letter of Credit"). The Letter of Credit shall be in the
+amount of [Confidential treatment requested]*, and must be maintained with RES
+through July 31, 2002. For the remaining months in the Contract Term (see
+below). Counterparty shall provide RES with a new Letter of Credit or amend the
+original Letter of Credit, in any event no later than ten (10) Business Days
+before the beginning of each month so that RES is in possession of a Letter of
+Credit in an amount which corresponds to the applicable month. The Letter of
+Credit must be maintained with RES throughout each month, for the amount
+specified below.
+
+Should the Letter of Credit ever cease to be in effect for the relevant Letter
+of Credit Amount during the Contract Term for any reason, this shall constitute
+an Event of Default pursuant to Section 5 1(c) of the Master Agreement. For the
+purposes of this Confirmation Letter 001, and Confirmation Letter 002, the
+three (3) Business Day "grace period" set forth in Section 5.1(c) shall be
+deemed not to apply and Counterparty shall be considered the "Defaulting Party".
+
+
+-------
+* The omitted information has been filed separately with the Securities and
+  Exchange Commission pursuant to Rule 24b-2.
+<PAGE>
+[RELIANT ENERGY LOGO]
+
+
+<Table>
+<Caption>
+CONTRACT TERM                         LETTER OF CREDIT AMOUNT IN $US
+-------------                         ------------------------------
+<S>                                   <C>
+[Confidential treatment requested]*   [Confidential treatment requested]*
+
+</Table>
+
+
+2. Notwithstanding 6.1 of the Master Agreement, Counterparty shall pay RES for
+any amounts due under this Transaction every two weeks rather than a calendar
+month, pursuant to the following payment schedule:
+
+<Table>
+<Caption>
+TWO WEEK PAYMENT SCHEDULE
+------------------------------------------------------------------------------------------------
+        DELIVERY PERIOD
+-----------------------------------
+   START                 END                      INVOICE DATE                 **PAYMENT DUE DATE
+   -----                 ---                      ------------                  -----------------
+<S>                      <C>                      <C>                           <C>
+1.  [Confidential treatment requested]*
+2.  [Confidential treatment requested]*
+3.  [Confidential treatment requested]*
+4.  [Confidential treatment requested]*
+5.  [Confidential treatment requested]*
+6.  [Confidential treatment requested]*
+7.  [Confidential treatment requested]*
+8.  [Confidential treatment requested]*
+9.  [Confidential treatment requested]*
+10. [Confidential treatment requested]*
+11. [Confidential treatment requested]*
+12. [Confidential treatment requested]*
+</Table>
+
+-------
+*  The omitted information has been filed separately with the Securities and
+   Exchange Commission pursuant to Rule 24b-2.
+
+** Prior Business Day convention
+
+
+<PAGE>
+[RELIANT ENERGY LOGO]
+
+3. Collateral Threshold: Notwithstanding Section 6.1(c) and 8.2(c) of the
+Master Agreement, neither party shall be required to provide performance
+Assurance in an amount in excess of [Confidential treatment requested]*.
+
+Please confirm that the terms stated herein accurately reflect the agreement
+reached on the Trade Date between you and RES by returning an executed copy of
+this Confirmation by facsimile to RES at (713) 393-0212. Your responses should
+reflect the appropriate party in your organization who has the authority to
+enter into this transaction. If you have any questions, please call
+(713) 207-5855.
+
+
+RELIANT ENERGY SERVICES                 COMMONWEALTH ENERGY CORPORATION
+
+By: [Signature Illegible]               By: [Signature Illegible]
+    -------------------------------         ------------------------------------
+
+Name: [Illegible]                       Name: [Illegible]
+      -----------------------------           ----------------------------------
+
+Title: V.P.                             Title: C.O.O.
+       ----------------------------            ---------------------------------
+
+-------
+* The omitted information has been filed separately with the Securities and
+  Exchange Commission pursuant to Rule 24b-2.
+
+</TEXT>
+</DOCUMENT>

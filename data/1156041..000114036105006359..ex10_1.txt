@@ -1,0 +1,508 @@
+<DOCUMENT>
+<TYPE>EX-10.1
+<SEQUENCE>2
+<FILENAME>ex10_1.txt
+<DESCRIPTION>EXHIBIT 10.1
+<TEXT>
+                          HOUSTON AMERICAN ENERGY CORP.
+
+                             2005 STOCK OPTION PLAN
+
+
+     1.  Purpose.  The  purpose  of this HOUSTON AMERICAN ENERGY CORP 2005 STOCK
+         -------
+OPTION PLAN ("Plan") is to encourage ownership of common stock, $0.001 par value
+("Common  Stock"),  of HOUSTON AMERICAN ENERGY CORP, a Delaware corporation (the
+"Company"),  by eligible key employees, consultants and directors of the Company
+and  its  Affiliates  (as  defined below) and to provide increased incentive for
+such  employees,  consultants  and  directors  to  render  services and to exert
+maximum  effort  for  the  business  success  of  the Company.  In addition, the
+Company  expects  that  this  Plan will further strengthen the identification of
+employees,  consultants and directors with the shareholders.  Certain options to
+be  granted  under  this Plan are intended to qualify as Incentive Stock Options
+("ISOs")  pursuant  to  Section  422  of  the  Internal Revenue Code of 1986, as
+amended  ("Code"),  while  other  options  granted  under  this  Plan  will  be
+nonqualified  options  which  are not intended to qualify as ISOs ("Nonqualified
+Options"),  either  or both as provided in the agreements evidencing the options
+as  provided  in  Section 6 hereof.  As used in this Plan, the term "Affiliates"
+means  any  "parent corporation" of the Company and any "subsidiary corporation"
+of  the  Company within the meaning of Sections 424(e) and (f), respectively, of
+the  Code.
+
+     2.  Administration.
+         --------------
+
+          2.1  Administration  by the Board or the Compensation Committee.  This
+               ----------------------------------------------------------
+Plan  shall  be  administered by the Board of Directors (the "Board") unless the
+Board  establishes  a committee comprised of one or more of its members to carry
+out  such administration, in which case administration of the Plan shall be by a
+Compensation Committee (the "Committee") designated by the Board of the Company,
+which  shall  also  designate  the  Chairman  of  the  Committee.
+
+          2.2  Board  or  Committee  Action.  The  Board,  or  the  Committee as
+               ----------------------------
+appropriate,  shall  hold  its  meetings  at  such times and places as it may be
+determine.  A  majority  of  the  members  of  such  Board  or  Committee  shall
+constitute  a  quorum, and all determinations of the Board or Committee shall be
+made  by not less than a majority of its members.  Any decision or determination
+reduced  to  writing  and  signed  by  a  majority of the members shall be fully
+effective  as if it had been made by a majority vote of its members at a meeting
+duly called and held.  The Board or Committee may designate the Secretary of the
+Company  or  other  Company  employees  to  assist the Board or Committee in the
+administration  of this Plan, and may grant authority to such persons to execute
+award  agreements or other documents on behalf of the Board or the Committee and
+the  Company.  Any  duly  constituted  committee  of  the  Board  satisfying the
+qualifications  of  this  Section  2  may  be  appointed  as  the  Committee.
+
+          2.3  Expenses.  All  expenses and liabilities incurred by the Board or
+               --------
+the  Committee in the administration of this Plan shall be borne by the Company.
+The  Board  or  the  Committee may employ attorneys, consultants, accountants or
+other  persons.
+
+
+<PAGE>
+     3.  Stock  Reserved.  Subject  to adjustment as provided in Section 3.2 and
+         ---------------
+6.11 hereof, the aggregate number of shares of Common Stock that may be optioned
+under  this  Plan  is 500,000.  The shares subject to this Plan shall consist of
+authorized  but  unissued shares of Common Stock and such number of shares shall
+be  and  is hereby reserved for sale for such purpose.  Any of such shares which
+may  remain  unsold  and  which  are  not  subject to outstanding options at the
+termination  of  this  Plan  shall  cease to be reserved for the purpose of this
+Plan,  but  until termination of this Plan or the termination of the last of the
+options granted under this Plan, whichever last occurs, the Company shall at all
+times  reserve  a  sufficient  number of shares to meet the requirements of this
+Plan.  Should  any  option  expire or be canceled prior to its exercise in full,
+the  shares  theretofore  subject to such option may again be made subject to an
+option  under  this  Plan.
+
+     4.  Eligibility.  The  persons  eligible  to  participate in this Plan as a
+         -----------
+recipient  of options ("Optionee") shall include only key employees, consultants
+and  directors  of  the  Company  or  its  Affiliates  at the time the option is
+granted.  An employee or consultant who has been granted an option hereunder may
+be  granted  an  additional option or options, if the Board or the Committee, as
+appropriate,  shall  so  determine.
+
+     5.  Grant  of  Options.
+         ------------------
+
+          5.1  Discretion.  The  Board  or Committee, as appropriate, shall have
+               ----------
+sole  and  absolute  discretionary  authority  (i)  to determine, authorize, and
+designate  those  key employees, consultants and directors of the Company or its
+Affiliates  who  are  to  receive options under this Plan, (ii) to determine the
+number  of  shares  of  Common Stock to be covered by such options and the terms
+thereof,  and  (iii) to determine the type of option granted: ISOs, Nonqualified
+Options  or  a  combination  of  ISOs  and  Nonqualified  Options; provided that
+consultants  and  directors who are not employees of the Company may not receive
+any  ISOs.  The  Board  or Committee shall thereupon grant options in accordance
+with  such determination as evidenced by a written option agreement.  Subject to
+the  express  provisions  of  this  Plan,  the Board or the Committee shall have
+discretionary  authority  to  prescribe, amend and rescind rules and regulations
+relating  to this Plan, to interpret this Plan, to prescribe and amend the terms
+of  the  option  agreements  (which need not be identical) and to make all other
+determinations  deemed  necessary  or  advisable  for the administration of this
+Plan.
+
+          5.2  Shareholder  Approval.  All  options  granted under this Plan are
+               ---------------------
+subject  to,  and  may not be exercised before, the approval of this Plan by the
+shareholders  prior  to  the first anniversary date of the Board meeting held to
+approve  this  Plan, by the affirmative vote of the holders of a majority of the
+outstanding shares of the Company present, or represented by proxy, and entitled
+to  vote  thereat or written consent in accordance with the laws of the State of
+Delaware;  provided  that if such approval by the shareholders of the Company is
+not  forthcoming,  all options previously granted under this Plan shall be void.
+
+          5.3  Limitation on Incentive Stock Options.  The aggregate fair market
+               -------------------------------------
+value  (determined  in  accordance with Section 6.2 of this Plan at the time the
+option  is  granted)  of  the  Common  Stock  with  respect to which ISOs may be
+exercisable  for  the  first time by any Optionee during any calendar year under
+all  such  plans  of  the  Company and its Affiliates shall not exceed $100,000.
+
+
+                                        2
+<PAGE>
+     6.  Terms  and  Conditions.   Each  option granted under this Plan shall be
+         ----------------------
+evidenced  by  an  agreement,  in a form approved by the Board or the Committee,
+which shall be subject to the following express terms and conditions and to such
+other  terms  and conditions as the Board or the Committee may deem appropriate.
+
+          6.1  Option  Period.  The Board or the Committee shall promptly notify
+               --------------
+the  Optionee  of  the  option  grant  and a written agreement shall promptly be
+executed  and  delivered  by  and  on  behalf  of  the Company and the Optionee,
+provided that the option grant shall expire if a written agreement is not signed
+by  said  Optionee (or his agent or attorney) and returned to the Company within
+60  days  from  date  of receipt by the Optionee of such agreement.  The date of
+grant  shall  be  the  date  the  option is actually granted by the Board or the
+Committee,  even  though  the written agreement may be executed and delivered by
+the  Company  and  the  Optionee  after  that date.  Each option agreement shall
+specify the period for which the option thereunder is granted (which in no event
+shall  exceed  ten years from the date of grant in the case of an ISO) and shall
+provide  that  the  ISO shall expire at the end of such period.  If the original
+term  of an option is less than ten years from the date of grant, the option may
+be  amended  prior  to  its  expiration,  with  the approval of the Board or the
+Committee  and  the  Optionee, to extend the term so that the term as amended is
+not  more than ten years from the date of grant.  However, in the case of an ISO
+granted  to  an individual who, at the time of grant, owns stock possessing more
+than  10  percent  of the total combined voting power of all classes of stock of
+the  Company or its Affiliate ("Ten Percent Stockholder"), such period shall not
+exceed  five  years  from  the  date  of  grant.
+
+          6.2  Exercise Price.  The exercise price of each share of Common Stock
+               --------------
+subject  to  each  option granted pursuant to this option is granted and, in the
+case of ISOs, shall not be less than 100% of the fair market value of a share of
+Common  Stock  on  the date the option is granted, as determined by the Board or
+the  Committee.  In  the  case of ISOs granted to a Ten Percent Stockholder, the
+exercise  price  shall not be less than 110% of the fair market value of a share
+of  Common  Stock on the date the option is granted.  The exercise price of each
+share  of Common Stock subject to a Nonqualified Option under this Plan shall be
+determined  by  the  Board  or  the Committee prior to granting the option.  The
+Board  or the Committee shall set the exercise price for each share subject to a
+Nonqualified  Option  at  such  price  as the Board or the Committee in its sole
+discretion  shall  determine,  provided that the exercise price of each share of
+Common  Stock subject to a Nonqualified Option shall not be less than 85% of the
+fair  market  value of a share of Common Stock on the date the option is granted
+as  determined  by  the  Board  or  the  Committee.
+
+     For  all  purposes  under  this  Plan,  the fair market value of a share of
+Common  Stock  on  a  particular date shall be equal to the mean of the reported
+high  and  low sales prices of the Common Stock on the principal market on which
+the  Common  Stock  is listed on that date, or if no prices are reported on that
+date, on the last preceding date on which such prices of the Common Stock are so
+reported.  If  the  Common  Stock  is  not traded on public market at the time a
+determination  of  its  fair  market value is required to be made hereunder, its
+fair market value shall be deemed to be equal to the average between the closing
+bid  and ask prices of the Common Stock on the most recent date the Common Stock
+was  publicly  traded.  In  the event the Common Stock is not publicly traded at
+the  time  a  determination  of  its value is required to be made hereunder, the
+determination  of  its  fair  market  value  shall  be  made by the Board or the
+Committee  in  such  manner  as  it  deems  appropriate.
+
+
+                                        3
+<PAGE>
+          6.3  Exercise  Period.  The  Board or the Committee may provide in the
+               ----------------
+option  agreement that an option may be exercised immediately or over the period
+of  the  grant and in whole or in increments.  However, no portion of any option
+may  be  exercisable  by  an  Optionee prior to the approval of this Plan by the
+shareholders  of  the  Company.
+
+          6.4  Procedure  for  Exercise.  Options  shall  be  exercised  by  the
+               ------------------------
+delivery  by  the  Optionee  of  written  notice to the Secretary of the Company
+setting  forth  the  number  of shares of Common Stock with respect to which the
+option  is being exercised.  The notice shall be accompanied by, at the election
+of  the Optionee and as permitted by the Board or the Committee in the Agreement
+granting  such  options,  (i)  cash,  cashier's  check, bank draft, or postal or
+express  money  order  payable  to  the  order of the Company, (ii) certificates
+representing  shares  of  Common  Stock  theretofore  owned by the Optionee duly
+endorsed  for transfer to the Company, (iii) an election by the Optionee to have
+the Company withhold the number of shares of Common Stock the fair market value,
+less  the  exercise  price, of which is equal to the aggregate exercise price of
+the  shares  of  Common  Stock issuable upon exercise of the option, or (iv) any
+combination  of the preceding, equal in value to the full amount of the exercise
+price.  Notice  may  also  be  delivered  by telecopy provided that the exercise
+price  of  such  shares is received by the Company via wire transfer on the same
+day  the  telecopy  transmission  is  received by the Company.  The notice shall
+specify  the address to which the certificates for such shares are to be mailed.
+An option to purchase shares of Common Stock in accordance with this Plan, shall
+be  deemed  to have been exercised immediately prior to the close of business on
+the  date  (i)  written  notice of such exercise and (ii) payment in full of the
+exercise  price  for  the number of share for which options are being exercised,
+are  both  received  by  the  Company  and the Optionee shall be treated for all
+purposes  as  the  record holder of such shares of Common Stock as of such date.
+
+     As  promptly  as  practicable  after  receipt  of  such  written notice and
+payment,  the  Company shall deliver to the Optionee certificates for the number
+of shares with respect to which such option has been so exercised, issued in the
+Optionee's  name or such other name as Optionee directs; provided, however, that
+such  delivery  shall  be deemed effected for all purposes when a stock transfer
+agent of the Company shall have deposited such certificates in the United States
+mail,  addressed  to  the  Optionee  at  the  address specified pursuant to this
+Section  6.4.
+
+          6.5  Termination  of  Employment.  If an employee to whom an option is
+               ---------------------------
+granted  ceases  to  be employed by the Company or its affiliates for any reason
+other  than death or disability or if a director or consultant to whom an option
+is  granted ceases to serve on the Board or as a consultant for any reason other
+than  death  or  disability, any option which is exercisable on the date of such
+termination  of  employment or cessation of serving on the Board or cessation of
+service  as  a  consultant  shall  expire  three-months  from  the  date of such
+termination  or  cessation but in no event may the option be exercised after its
+expiration  under  the  terms  of  the  option  agreement.
+
+
+                                        4
+<PAGE>
+          6.6  Disability  or  Death.  In  the  event  the  Optionee  dies or is
+               ---------------------
+determined  under this Plan to be disabled while the Optionee is employed by the
+Company  or  its  Affiliates,  acts  as consultant or serves on the Board of the
+Company, the options previously granted to the Optionee may be exercised (to the
+extent  the  Optionee  would have been entitled to do so at the date of death or
+the  determination  of  disability)  at any time and from time to time, within a
+twelve-month  period  after  such  death  or determination of disability, by the
+Optionee,  the  guardian of the Optionee's estate, the executor or administrator
+of  the  Optionee's  estate  or  by the person or persons to whom the Optionee's
+rights  under  the  option  shall  pass  by  will  or  the  laws  of descent and
+distribution,  but  in no event may the option be exercised after its expiration
+under  the  terms  of  the  option agreement.  An Optionee shall be deemed to be
+disabled  if,  in  the  opinion  of  a  physician  selected  by the Board or the
+Committee,  the  Optionee is incapable of performing services for the Company of
+the  kind  the  Optionee  was  performing at the time the disability occurred by
+reason  of any medically determinable physical or mental impairment which can be
+expected to result in death or to be of long, continued and indefinite duration.
+The date of determination of disability for purposes hereof shall be the date of
+such  determination  by  such  physician.
+
+          6.7  Transferability.  An  option  granted pursuant to this Plan shall
+               ---------------
+not  be  assignable  or otherwise transferable by the Optionee otherwise than by
+Optionee's  will  or  by  the  laws of descent and distribution or pursuant to a
+qualified  domestic  relations  order  as  defined in the code or Title I of the
+Employee  Retirement  Income  Security Act, as amended, or the rules thereunder.
+During  the lifetime of an Optionee, an option shall be exercisable only by such
+Optionee.  Any  heir or legatee of the Optionee shall take rights granted herein
+and  in  the  option  agreement  subject  to the terms and conditions hereof and
+thereof.  No  such  transfer  of any option to heirs or legatees of the Optionee
+shall  be  effective  to  bind  the  Company  unless the Company shall have been
+furnished  with  written notice thereof and a copy of such evidence as the Board
+or  the  Committee  may deem necessary to establish the validity of the transfer
+and  the acceptance by the transferee or transferees of the terms and conditions
+hereof.
+
+          6.8  Incentive  Stock Options.  Each option agreement may contain such
+               ------------------------
+terms and provisions as the Board or the Committee may determine to be necessary
+or  desirable  in  order  to  qualify  under the Code of option designated as an
+incentive  stock  option.
+
+          6.9  No Rights as Shareholder.  No Optionee shall have any rights as a
+               ------------------------
+shareholder  with  respect  to  shares  covered by an option until the option is
+exercised  by  written  notice and accompanied by payment as provided in Section
+6.4  above.
+
+          6.10  Extraordinary  Corporate  Transactions.  The  existence  of
+                --------------------------------------
+outstanding  options  shall  not  affect  in  any  way the right or power of the
+Company  or  its  shareholders  to  make  or  authorize  any or all adjustments,
+recapitalizations, reorganizations, exchanges, or other changes in the Company's
+capital  structure  or  its  business,  or  any  merger  or consolidation of the
+Company,  or  any  issuance  of Common Stock or other securities or subscription
+rights  thereto,  or  any  issuance  of  bonds,  debentures,  preferred or prior
+preference  stock  ahead of or affecting the Common Stock or the rights thereof,
+or the dissolution or liquidation of the Company, or any sale or transfer of all
+or any part of its assets or business, or any other corporate act or proceeding,
+whether  of  a  similar character or otherwise.  If the Company recapitalizes or
+
+
+                                        5
+<PAGE>
+otherwise  changes  its capital structure, or merges, consolidates, sells all of
+its  assets  or  dissolves  (each  of the forgoing a "Fundamental Change"), then
+thereafter upon any exercise of an option theretofore granted the Optionee shall
+be  entitled  to  purchase under such option, in lieu of the number of shares of
+Common  Stock as to which option shall then be exercisable, the number and class
+of shares of stock and securities to which the Optionee would have been entitled
+pursuant  to  the  terms of the Fundamental Change if, immediately prior to such
+Fundamental  Change, the Optionee had been the holder of record of the number of
+shares  of Common Stock as to which such option is then exercisable.  If (i) the
+Company  shall  not  be  the surviving entity in any merger or consolidation (or
+survives  only as a subsidiary of another entity), (ii) the Company sells all or
+substantially  all  of  its  assets  to any other person or entity (other than a
+wholly-owned  subsidiary),  (iii)  any  person or entity (including a "group" as
+contemplated  by  Section  13(d)(3)  of  the  Exchange  Act)  acquires  or gains
+ownership or control of (including, without limitation, power to vote) more than
+50%  of  the  outstanding  shares  of  Common  Stock,  (iv) the Company is to be
+dissolved  and  liquidated,  or  (v)  as  a  result  of  or in connection with a
+contested  election  of directors, the persons who were directors of the Company
+before  such  election  shall  cease to constitute a majority of the Board (each
+such  event  in  clauses  (i)  through  (v)  above  is  referred  to herein as a
+"Corporate  Change"),  the  Board  or the Committee, in its sole discretion, may
+accelerate  the  time  at which all or a portion of an Optionee's options may be
+exercised  for  a  limited  period  of  time  before  or after a specified date.
+
+          6.11  Changes  in  Capital  Structure.  If  the  outstanding shares of
+                -------------------------------
+Common  Stock  or other securities of the Company, or both, for which the option
+is  then exercisable shall at any time be changed or exchanged by declaration of
+a  stock  dividend,  stock split, combination of shares or recapitalization, the
+number  and kind of shares of Common Stock or other securities which are subject
+to  this  Plan  or  subject to any options theretofore granted, and the exercise
+prices,  shall  be  appropriately  and  equitably adjusted so as to maintain the
+proportionate  number  of  shares  or  other  securities  without  changing  the
+aggregate  exercise  price.
+
+          6.12  Acceleration  of  Options.  Except  as  hereinbefore  expressly
+                -------------------------
+provided,  (i)  the  issuance  by the Company of shares of stock of any class of
+securities  convertible  into  shares of stock of any class, for cash, property,
+labor  or services, upon direct sale, upon the exercise of rights or warrants to
+subscribe  therefor,  or upon conversion of shares or obligations of the Company
+convertible into such shares or other securities, (ii) the payment of a dividend
+in  property  other  than  Common  Stock, or (iii) the occurrence of any similar
+transaction,  and  in  any case whether or not for fair value, shall not affect,
+and no adjustment by reason thereof shall be made with respect to, the number of
+shares  of  Common Stock subject to options thereto fore granted or the purchase
+price  per  share, unless the Board or the Committee shall determine in its sole
+discretion  that  an  adjustment  is necessary to provide equitable treatment to
+Optionee.  Notwithstanding  anything to the contrary contained in this Plan, the
+Board  or  the Committee may in its sole discretion accelerate the time at which
+any  option may be exercised, including, but not limited to, upon the occurrence
+of  the  events  specified  in  this  Section  6.
+
+
+                                        6
+<PAGE>
+     7.  Amendments  or  Termination.  The Board may amend, alter or discontinue
+         ---------------------------
+this  Plan,  but no amendment or alteration shall be made which would impair the
+rights  of  any  Optionee,  without  his  consent,  under any option theretofore
+granted,  or  which, without the approval of the shareholders, would: (i) except
+as is provided in Section 6.11 of this Plan, increase the total number of shares
+reserved  for  the  purposes  of  this  Plan,  (ii)  change the class of persons
+eligible  to  participate  in  this  Plan as provided in Section 4 of this Plan,
+(iii) extend the applicable maximum option period provided for in Section 6.1 of
+this  Plan, (iv) extend the expiration date of this Plan set forth in Section 14
+of  this  Plan, (v) except as provided in Section 6.11 of this Plan, decrease to
+any  extent  the  exercise  price  of any option granted under this Plan or (vi)
+withdraw  the  administration  of  this  Plan  from  the Board or the Committee.
+
+     8.  Compliance  With  Other Laws and Regulations.  This Plan, the grant and
+         --------------------------------------------
+exercise  of  options  thereunder, and the obligation of the Company to sell and
+deliver  shares  under  such options, shall be subject to all applicable federal
+and  state laws, rules and regulations and to such approvals by any governmental
+or  regulatory  agency as may be required.  The Company shall not be required to
+issue  or  deliver  any  certificates  for  shares  of Common Stock prior to the
+completion of any registration or qualification of such shares under any federal
+or  state  law  or  issuance  of any ruling or regulation of any government body
+which  the  Company  shall, in its sole discretion, determine to be necessary or
+advisable.  Any  adjustments  provided for in Sections 6.10, .11 and .12 of this
+Plan  shall  be subject to any shareholder action required by Delaware corporate
+law.
+
+     9.  Purchase for Investment.  Unless the options and shares of Common Stock
+         -----------------------
+covered  by  this Plan have been registered under the Securities Act of 1933, as
+amended,  or  the  Company has determined that such registration is unnecessary,
+each  person exercising an option under this Plan may be required by the Company
+to  give  a  representation in writing that such person is acquiring such shares
+for his or her own account for investment and not with a view to, or for sale in
+connection  with,  the  distribution  of  any  part  thereof.
+
+     10.  Taxes.
+          -----
+
+          10.1  The  Company may make such provisions as it may deem appropriate
+for  the  withholding of any taxes which it determines is required in connection
+with  any  options  granted  under  this  Plan.
+
+          10.2 Notwithstanding the terms of Section 10.1, each Optionee must pay
+all  taxes  required  to  be  withheld by the Company or paid by the Optionee in
+connection  with  the  exercise  of  a  Nonqualified  Option.
+
+     11.  Replacement  of Options.  The Board or the Committee from time to time
+          -----------------------
+may  permit  an  Optionee  under  this  Plan  to  surrender for cancellation any
+unexercised  outstanding  option  and  receive  from  the Company in exchange an
+option  for  such  number  of shares of Common Stock as may be designated by the
+Board or the Committee.  The Board or the Committee may, with the consent of the
+person entitled to exercise any outstanding option, amend such option, including
+reducing the exercise price of any option to not less than the fair market value
+of the Common Stock at the time of the amendment and extending the term thereof.
+
+
+                                        7
+<PAGE>
+     12.  No  Right  to  Employment.  Employees shall be considered to be in the
+          -------------------------
+employment of the Company so long as they remain employees of the Company or its
+Affiliates.  Any  questions  as to whether and when there has been a termination
+of  such employment and the cause of such termination shall be determined by the
+Board or the Committee, and its determination shall be final.  Nothing contained
+herein  shall be construed as conferring upon the Optionee the right to continue
+in  the  employ  of  the Company or its Affiliates, nor shall anything contained
+herein  be  construed  or  interpreted  to  limit  the  "employment  at  will"
+relationship between the Optionee and the Company or its Affiliates.  The option
+agreements may contain such provisions as the Board or the Committee may approve
+with  reference  to  the  effect  of  approved  leaves  of  absence.
+
+     13.  Liability  of Company for Non-Issuance of Shares and Tax Consequences.
+          ---------------------------------------------------------------------
+The  Company  and  any  Affiliates  that are in existence or hereafter come into
+existence  shall  not  be  liable  to  an  Optionee  or  other  persons  as  to:
+
+          13.1  The  non-issuance  or sale of shares as to which the Company has
+been unable to obtain from any regulatory body having jurisdiction the authority
+deemed  by the Company's counsel to be necessary to the lawful issuance and sale
+of  any  shares  hereunder;  and
+
+          13.2  Any  tax consequence expected, but not realized, by any Optionee
+or  other  person  due  to  the  exercise  of  any  option  granted  hereunder.
+
+     14.  Effectiveness and Expiration of Plan.  This Plan shall be effective on
+          ------------------------------------
+the  date  of adoption by the Board.  If the shareholders of the Company fail to
+approve  this  Plan within twelve months of the date of the Board adoption, this
+Plan  shall  terminate  and all options previously granted under this Plan shall
+become  void  and of no effect.  This Plan shall expire ten years after the date
+of the Board adopts this Plan and thereafter no option shall be granted pursuant
+to  this  Plan.
+
+     15.  Non-Exclusivity  of  this Plan.  Neither the adoption by the Board nor
+          ------------------------------
+the  submission  for  approval  of  this Plan to the shareholders of the Company
+shall  be  construed  as  creating  any limitations on the power of the Board to
+adopt  such  other  incentive  arrangements  as it may deem desirable, including
+without  limitation, the granting of restricted stock or stock options otherwise
+than  under  this Plan, and such arrangements may be either generally applicable
+or  applicable  only  in  specific  cases.
+
+     16.  Governing  Law.  This  Plan  and  any  agreements  hereunder  shall be
+          --------------
+interpreted  and  construed in accordance with the laws of the State of Delaware
+and  applicable  federal  law.
+
+     17.  Cashless Exercise.  The Board or the Committee also may allow cashless
+          -----------------
+exercises  as  permitted under the Federal Reserve Board's Regulation T, subject
+to applicable securities law restrictions, or by any other means which the Board
+or  the  Committee  determines  to  be  consistent  with this Plan's purpose and
+applicable  law.  The proceeds from such a payment shall be added to the general
+funds  of  the  Company  and  shall  be  used  for  general  corporate purposes.
+
+
+<PAGE>
+     IN  WITNESS  WHEREOF,  and  as  conclusive  evidence of the adoption of the
+foregoing  by  directors of the Company, Houston American Energy Corp has caused
+these presents to be duly executed in its name and behalf by its proper officers
+thereunto  duly  authorized  as  of  this  12th  day  of  August  2005.
+
+
+                                        HOUSTON AMERICAN ENERGY CORP
+
+
+
+
+                                        By: /s/ John Terwilliger
+                                        Name:   John Terwilliger
+                                        Title:  President
+
+
+                                        9
+
+
+</TEXT>
+</DOCUMENT>

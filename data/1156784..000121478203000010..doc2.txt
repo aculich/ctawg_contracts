@@ -1,0 +1,1792 @@
+<DOCUMENT>
+<TYPE>EX-2.1
+<SEQUENCE>3
+<FILENAME>doc2.txt
+<TEXT>
+
+EXCHANGE AGREEMENT
+
+
+Between
+
+SRM NETWORKS, INC.
+
+and
+
+HY-TECH COMPUTER SYSTEMS, INC.
+
+
+
+
+
+
+Dated January  31, 2003
+
+<PAGE>
+
+<TABLE>
+<CAPTION>
+
+
+TABLE OF CONTENTS
+
+
+ARTICLE  I  REPRESENTATIONS,  COVENANTS,  AND  WARRANTIES  OF  HY-TECH  COMPUTER  SYSTEMS
+
+
+<S>                                                                                                                       <C>
+1.01    Organization . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   1
+1.02    Capitalization . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   1
+1.03    Subsidiaries and Predecessor Corporations. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   1
+1.04    Financial Statements
+1.05    Information. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   2
+1.06    Options and Warrants . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   2
+1.07    Absence of Certain Changes or Events . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   2
+1.08    Title and Related Matters. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   3
+1.09    Litigation and Proceedings . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   3
+1.10    Contracts. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   3
+1.11    Material Contract Defaults . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   4
+1.12    No Conflict With Other Instruments . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   4
+1.13    Governmental Authorizations. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   4
+1.14    Compliance With Laws and Regulations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   4
+1.15    Approval of Agreement. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   4
+1.16    Material Transactions or Affiliations. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   4
+1.17    Hy-Tech Computer Systems Schedules . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   5
+1.18    Valid Obligation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   6
+
+ARTICLE II  REPRESENTATIONS, COVENANTS, AND WARRANTIES OF SRM NETWORKS
+
+2.01    Organization . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   6
+2.02    Capitalization . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   6
+2.03    Subsidiaries and Predecessor Corporations. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   6
+2.04    Financial Statements . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   6
+2.05    Information. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   7
+2.06    Options and Warrants . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   7
+2.07    Absence of Certain Changes or Events . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   7
+2.08    Title and Related Matters. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   8
+2.09    Litigation and Proceedings . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   8
+2.10    Contracts. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   8
+2.11    Material Contract Defaults . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   9
+2.12    No Conflict With Other Instruments . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   9
+2.13    Governmental Authorizations. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   9
+2.14    Compliance With Laws and Regulations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   9
+2.15    Approval of Agreement. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   9
+2.16    Continuity of Business Enterprises . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   9
+2.17    Material Transactions or Affiliations. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   9
+2.18    SRM Networks Schedules . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  10
+2.19    Valid Obligation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  10
+
+ARTICLE III  PLAN OF EXCHANGE
+
+3.01    The Exchange . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  11
+3.02    Anti-Dilution. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  11
+3.03    Closing. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  11
+3.04    Closing Events . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  11
+3.05    Termination. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  11
+
+<PAGE>
+
+ARTICLE IV  SPECIAL COVENANTS
+
+4.01    Access to Properties and Records . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  13
+4.02    Delivery of Books and Records. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  13
+4.03    Third Party Consents and Certificates. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  13
+4.04    Accredited Status. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  13
+4.05    Consent of Hy-Tech Computer Systems Shareholders . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  13
+4.06    Designation of Directors and Officers. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  13
+4.07    Exclusive Dealing Rights . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  13
+4.08    Actions Prior to Closing . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  14
+4.09    Indemnification. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  15
+4.10    Limitation of Subsequent Corporate Actions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  16
+4.11    Indemnification of Subsequent Corporate Actions
+4.12    Name Change
+4.13    Financial Statements
+
+ARTICLE V  CONDITIONS PRECEDENT TO OBLIGATIONS OF SRM NETWORKS
+5.01    Accuracy of Representations and Performance of Covenants . . . . . . . . . . . . . . . . . . . . . . . . . . . .  16
+5.02    Officer's Certificates . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  16
+5.03    No Material Adverse Change . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  16
+5.04    Approval by Hy-Tech Computer Systems Shareholders. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  16
+5.05    No Governmental Prohibitions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  16
+5.06    Consents . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  16
+5.07    Other Items. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  16
+5.08    Accredited Status of Hy-Tech Computer Systems
+Shareholders . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  16
+
+ARTICLE VI  CONDITIONS PRECEDENT TO OBLIGATIONS OF HY-TECH COMPUTER SYSTEMS AND THE HY-TECH COMPUTER SYSTEMSSHAREHOLDERS
+
+6.01    Accuracy of Representations and Performance of Covenants . . . . . . . . . . . . . . . . . . . . . . . . . . . .  17
+6.02    Officer's Certificate. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  17
+6.03    No Material Adverse Change . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  17
+6.04    No Governmental Prohibition. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  17
+6.05    Consents . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  17
+6.06    Other Items. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  17
+
+ARTICLE VII  MISCELLANEOUS
+
+7.01    No Bankruptcy and No Criminal Convictions. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  18
+7.02    Brokers. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  18
+7.03    Governing Law. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  18
+7.04    Notices. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  18
+7.05    Attorney's Fees. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  19
+7.06    Confidentiality. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  19
+7.07    Public Announcements and Filings . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  19
+7.08    Schedules; Knowledge . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  19
+7.09    Third Party Beneficiaries. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  19
+7.10    Expenses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  19
+7.11    Entire Agreement . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  19
+7.12    Survival; Termination. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  19
+7.13    Counterparts . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  19
+7.14    Amendment or Waiver. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  19
+7.15    Best Efforts . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  20
+7.16    Faxed Copies . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  20
+</TABLE>
+
+
+                               EXCHANGE AGREEMENT
+
+
+     THIS  EXCHANGE  AGREEMENT  (hereinafter referred to as this "Agreement") is
+entered  into  as of this 31st day of January, 2003 by and between SRM NETWORKS,
+INC.,  a  Delaware  corporation  (hereinafter  referred to as the "Company") and
+HY-TECH  COMPUTER  SYSTEMS, INC., a Florida corporation (hereinafter referred to
+as  "Hy-Tech"),  upon  the  following  premises:
+
+                                    Premises
+                                    --------
+
+     WHEREAS,  the  Company  is  a publicly held corporation organized under the
+laws  of  the  State  of  Delaware;
+
+     WHEREAS,  Hy-Tech  is a privately held corporation organized under the laws
+of  the  State  of  Florida;
+
+     WHEREAS, management of the constituent corporations have determined that it
+is  in  the  best  interest  of the parties that the Company acquire 100% of the
+issued  and  outstanding  securities  of Hy-Tech in exchange for the issuance of
+certain  shares  of  the  Company (the "Exchange") and Hy-Tech agrees to use its
+best efforts to cause its shareholders (the " Hy-Tech Shareholders") to exchange
+their  securities  of  Hy-Tech  on  the  terms  described  herein;  and
+
+     WHEREAS,  the  Company  and  Hy-Tech  desire  to set forth the terms of the
+Exchange,  which is intended to constitute a tax-free reorganization pursuant to
+the  provisions  of  Section  368(a)(1)(B) of the Internal Revenue Code of 1986.
+
+                                    Agreement
+                                    ---------
+
+     NOW  THEREFORE,  on the stated premises and for and in consideration of the
+mutual covenants and agreements hereinafter set forth and the mutual benefits to
+the  parties  to  be  derived  herefrom,  it  is  hereby  agreed  as  follows:
+
+                                    ARTICLE I
+
+              REPRESENTATIONS, COVENANTS, AND WARRANTIES OF HY-TECH
+
+     As  an  inducement to, and to obtain the reliance of the Company, except as
+set  forth on the Hy-Tech Schedules (as hereinafter defined), Hy-Tech represents
+and  warrants  as  follows:
+
+     Section  1.01     Organization.  Hy-Tech  is  a corporation duly organized,
+                       ------------
+validly  existing,  and  in good standing under the laws of the State of Florida
+and  has  the corporate power and is duly authorized, qualified, franchised, and
+licensed  under  all  applicable  laws,  regulations,  ordinances, and orders of
+public  authorities  to own all of its properties and assets and to carry on its
+business  in  all  material  respects  as  it  is now being conducted, including
+qualification to do business as a foreign corporation in the states or countries
+in  which  the character and location of the assets owned by it or the nature of
+the business transacted by it requires qualification, except where failure to be
+so qualified would not have a material adverse effect on its business.  Included
+in  the  Hy-Tech  Schedules  are  complete and correct copies of the articles of
+incorporation,  and  bylaws  of  Hy-Tech  as  in effect on the date hereof.  The
+execution  and  delivery of this Agreement does not, and the consummation of the
+transactions  contemplated  hereby will not, violate any provision of Hy-Tech 's
+articles  of incorporation or bylaws.  Hy-Tech has taken all actions required by
+law,  its articles of incorporation, or otherwise to authorize the execution and
+delivery  of this Agreement.  Hy-Tech has full power, authority, and legal right
+and  has  taken  all  action required by law, its articles of incorporation, and
+otherwise  to  consummate  the  transactions  herein  contemplated.
+
+     Section  1.02     Capitalization.  The authorized capitalization of Hy-Tech
+                       --------------
+consists  of  10,000  shares  of  common  stock, $1.00 par value, of which 5,051
+shares  are currently issued and outstanding.  All issued and outstanding shares
+are  legally  issued, fully paid, and non-assessable and not issued in violation
+of  the  preemptive  or  other  rights  of  any  person.
+
+     Section  1.03     Subsidiaries  and Predecessor Corporations.  Hy-Tech does
+                       ------------------------------------------
+
+                                        1
+<PAGE>
+
+not  have  any  predecessor  corporation(s)  or  subsidiaries, and does not own,
+beneficially  or  of  record,  any  shares  of  any other corporation, except as
+disclosed  in  Schedule 1.03.  For purposes hereinafter, the term "Hy-Tech" also
+               -------------
+includes  those  subsidiaries,  if  any,  set  forth  on  Schedule  1.03.
+                                                          --------------
+
+     Section 1.04     Financial Statements.
+                      --------------------
+
+               (a)  Included  in  the Hy-Tech Schedules are the reviewed Hy-Tech
+          balance  sheet  as of December 31, 2000 and December 31, 2001, and the
+          related  statements  of  operations and cash flows for the period from
+          January  1,  2000  through  December 31, 2001 as well as the unaudited
+          balance  sheet  as  of  December  31,  2002.
+
+               (b) Hy-Tech has no liabilities with respect to the payment of any
+          federal,  state,  county,  local  or  other  taxes  (including  any
+          deficiencies, interest or penalties), except for taxes accrued but not
+          yet  due  and  payable.
+
+               (c)  Hy-Tech  has filed all state, federal or local income and/or
+          franchise tax returns required to be filed by it from inception to the
+          date  hereof.  Each  of such income tax returns reflects the taxes due
+          for  the  period  covered  thereby,  except  for amounts which, in the
+          aggregate,  are  immaterial.
+
+               (d)  The  books  and records, financial and otherwise, of Hy-Tech
+          are  in  all  material  respects  complete  and  correct and have been
+          maintained  in accordance with good business and accounting practices.
+
+               (e)  All  of  Hy-Tech's  assets  are  reflected  on its financial
+          statements,  and,  except as set forth in the Hy-Tech Schedules or the
+          financial  statements  of Hy-Tech or the notes thereto, Hy-Tech has no
+          material  liabilities,  direct  or  indirect,  matured  or  unmatured,
+          contingent  or  otherwise.
+
+     Section 1.05     Information.  The information concerning Hy-Tech set forth
+                      -----------
+in  this  Agreement and in the Hy-Tech Schedules is complete and accurate in all
+material  respects  and does not contain any untrue statement of a material fact
+or  omit to state a material fact required to make the statements made, in light
+of  the  circumstances under which they were made, not misleading.  In addition,
+Hy-Tech has fully disclosed in writing to the Company (through this Agreement or
+the  Hy-Tech Schedules) all information relating to matters involving Hy-Tech or
+its  assets  or its present or past operations or activities which (i) indicated
+or  may  indicate,  in  the  aggregate,  the existence of a greater than $25,000
+liability  or  diminution  in  value, (ii) have led or may lead to a competitive
+disadvantage on the part of Hy-Tech or (iii) either alone or in aggregation with
+other  information  covered by this Section, otherwise have led or may lead to a
+material  adverse  effect on the transactions contemplated herein or on Hy-Tech,
+its  assets,  or  its  operations  or  activities  as  presently conducted or as
+contemplated  to be conducted after the Closing Date, including, but not limited
+to,  information  relating  to governmental, employee, environmental, litigation
+and  securities  matters  and  transactions  with  affiliates.
+
+     Section  1.06     Options  or  Warrants.  There  are  no  existing options,
+                       ---------------------
+warrants,  calls,  or  commitments  of  Hy-Tech of any character relating to the
+authorized and unissued Hy-Tech common stock, except options, warrants, calls or
+commitments,  if  any,  to  which  Hy-Tech is not a party and by which it is not
+bound.
+
+     Section 1.07     Absence of Certain Changes or Events.  Except as set forth
+                      ------------------------------------
+in  this  Agreement  or  the  Hy-Tech  Schedules,  since  December  31,  2002:
+
+               (a)  there  has  not  been (i) any material adverse change in the
+          business,  operations,  properties, assets, or condition of Hy-Tech or
+          (ii)  any  damage,  destruction,  or  loss  to Hy-Tech (whether or not
+          covered by insurance) materially and adversely affecting the business,
+          operations,  properties,  assets,  or  condition  of  Hy-Tech;
+
+               (b)  Hy-Tech has not (i) amended its articles of incorporation or
+          bylaws,  except  to  increase  the  number  of authorized shares; (ii)
+          declared  or  made,  or  agreed  to  declare  or  make, any payment of
+          dividends  or  distributions  of  any assets of any kind whatsoever to
+          stockholders  or  purchased  or  redeemed,  or  agreed  to purchase or
+          redeem,  any  of  its  capital stock; (iii) waived any rights of value
+          which  in the aggregate are outside of the ordinary course of business
+          or  material  considering  the  business  of  Hy-Tech;  (iv)  made any
+          material  change in its method of management, operation or accounting;
+          (v)  entered  into  any other material transaction other than sales in
+          the  ordinary  course  of  its  business;  (vi)  made  any  accrual or
+          arrangement for payment of bonuses or special compensation of any kind
+          or  any  severance or termination pay to any present or former officer
+          or  employee;  (vii)  increased the rate of compensation payable or to
+          become payable by it to any of its officers or directors or any of its
+          salaried  employees  whose  monthly  compensation  exceeds  $1,000; or
+          (viii)  made  any  increase  in  any  profit  sharing, bonus, deferred
+          compensation,  insurance,  pension,  retirement,  or  other  employee
+          benefit  plan,  payment,  or  arrangement  made  to,  for, or with its
+          officers,  directors,  or  employees;
+
+                                        2
+<PAGE>
+
+               (c) Hy-Tech has not (i) borrowed or agreed to borrow any funds or
+          incurred,  or  become subject to, any material obligation or liability
+          (absolute  or  contingent)  except  as  disclosed  herein  and  except
+          liabilities  incurred in the ordinary course of business; (ii) paid or
+          agreed  to  pay  any  material  obligations  or liability (absolute or
+          contingent)  other  than  current liabilities, and current liabilities
+          incurred in the ordinary course of business and professional and other
+          fees and expenses in connection with the preparation of this Agreement
+          and  the  consummation  of the transactions contemplated hereby; (iii)
+          sold or transferred, or agreed to sell or transfer, any of its assets,
+          properties,  or  rights (except assets, properties, or rights not used
+          or useful in its business which, in the aggregate have a value of less
+          than  $5,000),  or  canceled, or agreed to cancel, any debts or claims
+          (except  debts or claims which in the aggregate are of a value of less
+          than  $1,000);  or (iv) made or permitted any amendment or termination
+          of  any contract, agreement, or license to which it is a party if such
+          amendment  or  termination  is  material,  considering the business of
+          Hy-Tech;  and
+
+               (d)  To  the  best  knowledge  of Hy-Tech, Hy-Tech has not become
+          subject  to  any  law  or  regulation  which  materially and adversely
+          affects,  or  in  the  future  may  adversely  affect  the  business,
+          operations,  properties,  assets,  or  condition  of  Hy-Tech.
+
+     Section  1.08     Title  and  Related  Matters.  Hy-Tech  has  good  and
+                       ----------------------------
+marketable  title  to all of its properties, inventory, interests in properties,
+and  assets,  real and personal, or acquired after that date (except properties,
+inventory,  interests  in  properties,  and assets sold or otherwise disposed of
+since such date in the ordinary course of business) free and clear of all liens,
+pledges,  charges,  or encumbrances except (a) statutory liens or claims not yet
+delinquent; (b) such imperfections of title and easements as do not and will not
+materially  detract  from  or  interfere with the present or proposed use of the
+properties  subject  thereto  or affected thereby or otherwise materially impair
+present  business  operations  on  such  properties; and (c) as described in the
+Hy-Tech  Schedules.  Except as set forth in the Hy-Tech Schedules, Hy-Tech owns,
+free  and  clear of any liens, claims, encumbrances, royalty interests, or other
+restrictions or limitations of any nature whatsoever, any and all products it is
+currently  manufacturing,  including the underlying technology and data, and all
+procedures,  techniques, marketing plans, business plans, methods of management,
+or other information utilized in connection with Hy-Tech 's business.  Except as
+set forth in the Hy-Tech Schedules, no third party has any right to, and Hy-Tech
+has  not received any notice of infringement of or conflict with asserted rights
+of  others  with  respect  to  any  product,  technology,  data,  trade secrets,
+know-how,  propriety  techniques,  trademarks,  service  marks,  trade names, or
+copyrights  which,  individually  or  in  the  aggregate,  if  the subject of an
+unfavorable  decision, ruling or finding, would have a materially adverse effect
+on  the business, operations, financial condition, income, or business prospects
+of  Hy-Tech  or  any  material  portion  of  its  properties, assets, or rights.
+
+     Section  1.09     Litigation  and  Proceedings.  Except as set forth in the
+                       ----------------------------
+Hy-Tech  Schedules,  there are no actions, suits, proceedings, or investigations
+pending  or,  to  the  knowledge  of  Hy-Tech  after  reasonable  investigation,
+threatened  by or against Hy-Tech or affecting Hy-Tech or its properties, at law
+or  in equity, before any court or other governmental agency or instrumentality,
+domestic  or  foreign,  or  before any arbitrator of any kind.  Hy-Tech does not
+have  any  knowledge  of  any  material  default on its part with respect to any
+judgment,  order,  injunction,  decree, award, rule, or regulation of any court,
+arbitrator,  or  governmental  agency or instrumentality or of any circumstances
+which,  after  reasonable investigation, would result in the discovery of such a
+default.  It  is  acknowledged  by  the  parties  that  Hy-Tech  has  provided
+information  to  the  Company  involving  a  lawsuit  with  Sun  Trust.
+
+      Section  1.10     Contracts.
+                        ---------
+
+               (a)  Except  as  included  or described in the Hy-Tech Schedules,
+          there  are  no  "material"  contracts, agreements, franchises, license
+          agreements,  debt instruments or other commitments to which Hy-Tech is
+          a  party or by which it or any of its assets, products, technology, or
+          properties  are bound other than those incurred in the ordinary course
+          of  business  (as  used  in  this  Agreement,  a  "material" contract,
+          agreement, franchise, license agreement, debt instrument or commitment
+          is  one  which  (i) will remain in effect for more than six (6) months
+          after  the  date  of  this  Agreement  or  (ii)  involves  aggregate
+          obligations  of  at  least  fifty  thousand  dollars  ($50,000));
+
+                                        3
+<PAGE>
+
+               (b)  All  contracts,  agreements, franchises, license agreements,
+          and  other  commitments  to  which  Hy-Tech is a party or by which its
+          properties  are  bound  and  which  are  material to the operations of
+          Hy-Tech  taken  as a whole are valid and enforceable by Hy-Tech in all
+          respects,  except  as limited by bankruptcy and insolvency laws and by
+          other  laws  affecting  the  rights  of  creditors  generally;
+
+               (c)  Hy-Tech is not a party to or bound by, and the properties of
+          Hy-Tech  are  not subject to any contract, agreement, other commitment
+          or  instrument;  any  charter  or  other corporate restriction; or any
+          judgment,  order,  writ, injunction, decree, or award which materially
+          and adversely affects, the business operations, properties, assets, or
+          condition  of  Hy-Tech;  and
+
+               (d)  Except  as  included  or described in the Hy-Tech Schedules,
+          Hy-Tech  is  not  a  party to any oral or written (i) contract for the
+          employment  of  any  officer or employee which is not terminable on 30
+          days,  or  less  notice;  (ii)  profit  sharing,  bonus,  deferred
+          compensation,  stock  option,  severance  pay,  pension  benefit  or
+          retirement  plan,  (iii) agreement, contract, or indenture relating to
+          the  borrowing  of  money, (iv) guaranty of any obligation, other than
+          one  on which Hy-Tech is a primary obligor, for the borrowing of money
+          or  otherwise,  excluding  endorsements  made for collection and other
+          guaranties  of  obligations which, in the aggregate do not exceed more
+          than  one  year  or providing for payments in excess of $25,000 in the
+          aggregate; (v) collective bargaining agreement; or (vi) agreement with
+          any  present  or  former  officer  or  director  of  Hy-Tech.
+
+     Section  1.11     Material  Contract  Defaults.  Hy-Tech is in default with
+                       ----------------------------
+Sun  Trust  pursuant  to  the information provided in Schedule 1.09.  Other than
+that,  Hy-Tech  is not in default in any material respect under the terms of any
+outstanding contract, agreement, lease, or other commitment which is material to
+the  business,  operations, properties, assets or condition of Hy-Tech and there
+is  no  event  of  default  in  any  material  respect  under any such contract,
+agreement,  lease, or other commitment in respect of which Hy-Tech has not taken
+adequate  steps  to  prevent  such  a  default  from  occurring.
+
+     Section 1.12     No Conflict With Other Instruments.  The execution of this
+                      ----------------------------------
+Agreement  and  the  consummation  of  the  transactions  contemplated  by  this
+Agreement  will not result in the breach of any term or provision of, constitute
+an  event  of default under, or terminate, accelerate or modify the terms of any
+material  indenture,  mortgage,  deed  of  trust,  or  other  material contract,
+agreement,  or  instrument  to  which  Hy-Tech is a party or to which any of its
+properties  or  operations  are subject, other than an agreement with Sun Trust.
+It  is  acknowledged by the parties that this Agreement will breach an agreement
+with  Sun  Trust.
+
+     Section  1.13     Governmental  Authorizations.  Except as set forth in the
+                       ----------------------------
+Hy-Tech  Schedules,  Hy-Tech  has  all  licenses, franchises, permits, and other
+governmental  authorizations  that  are legally required to enable it to conduct
+its  business  in all material respects as conducted on the date hereof.  Except
+for  compliance  with  federal  and  state  securities  and corporation laws, as
+hereinafter  provided,  no  authorization,  approval,  consent,  or order of, or
+registration,  declaration, or filing with, any court or other governmental body
+is  required  in  connection  with the execution and delivery by Hy-Tech of this
+Agreement  and  the  consummation  by  Hy-Tech  of the transactions contemplated
+hereby.
+
+     Section 1.14     Compliance With Laws and Regulations.  Except as set forth
+                      ------------------------------------
+in the Hy-Tech Schedules, to the best of its knowledge Hy-Tech has complied with
+all  applicable  statutes  and  regulations  of  any  federal,  state,  or other
+governmental  entity  or agency thereof, except to the extent that noncompliance
+would  not materially and adversely affect the business, operations, properties,
+assets, or condition of Hy-Tech or except to the extent that noncompliance would
+not  result  in  the  occurrence  of  any  material  liability  for  Hy-Tech.
+
+     Section  1.15     Approval of Agreement.  The board of directors of Hy-Tech
+                       ---------------------
+has  authorized  the execution and delivery of this Agreement by Hy-Tech and has
+approved  this  Agreement  and  the  transactions  contemplated hereby, and will
+recommend  to  the  Hy-Tech  Shareholders that the Exchange be accepted by them.
+
+     Section  1.16     Material  Transactions or Affiliations.  Set forth in the
+                       --------------------------------------
+Hy-Tech  Schedules is a description of every contract, agreement, or arrangement
+between  Hy-Tech  and any predecessor and any person who was at the time of such
+contract,  agreement,  or  arrangement an officer, director, or person owning of
+record,  or  known  by Hy-Tech to own beneficially, 5% or more of the issued and
+outstanding  common stock of Hy-Tech and which is to be performed in whole or in
+part  after  the date hereof or which was entered into not more than three years
+prior  to  the  date  hereof.  Except  as  disclosed in the Hy-Tech Schedules or
+otherwise  disclosed  herein, no officer, director, or 5% shareholder of Hy-Tech
+has,  or  has  had  since  inception  of  Hy-Tech, any known interest, direct or
+indirect,  in any transaction with Hy-Tech which was material to the business of
+Hy-Tech.  There  are no commitments by Hy-Tech, whether written or oral, to lend
+any  funds,  or  to  borrow  any money from, or enter into any other transaction
+with,  any  such  affiliated  person.
+
+                                        4
+<PAGE>
+
+     Section  1.17     Hy-Tech  Schedules.  Hy-Tech has delivered to the Company
+                       -------  ---------
+the  following  schedules,  which  are collectively referred to as the " Hy-Tech
+Schedules"  and  which  consist  of  separate  schedules dated as of the date of
+execution  of  this  Agreement,  all certified by the chief executive officer of
+Hy-Tech  as  complete, true, and correct as of the date of this Agreement in all
+material  respects:
+
+               (a)  a  schedule  containing  complete  and correct copies of the
+          articles  of  incorporation, and bylaws of Hy-Tech in effect as of the
+          date  of  this  Agreement;
+
+               (b)  a  schedule  containing  the financial statements of Hy-Tech
+          identified  in  paragraph  1.04(a);
+
+               (c)  a Schedule 1.17(c) containing a list indicating the name and
+          address  of  each  shareholder  of Hy-Tech together with the number of
+          shares  owned  by  him,  her  or  it;
+
+               (d)  a  schedule  containing  a  description of all real property
+          owned  by Hy-Tech, together with a description of every mortgage, deed
+          of  trust,  pledge,  lien,  agreement,  encumbrance,  claim, or equity
+          interest  of  any  nature  whatsoever  in  such  real  property;
+
+               (e)  copies  of  all  licenses,  permits,  and other governmental
+          authorizations  (or  requests  or  applications  therefor) pursuant to
+          which  Hy-Tech carries on or proposes to carry on its business (except
+          those  which,  in  the  aggregate,  are  immaterial  to the present or
+          proposed  business  of  Hy-Tech);
+
+               (f)  a  schedule  setting  forth  a  description  of any material
+          adverse  change  in  the  business,  operations,  property, inventory,
+          assets,  or  condition of Hy-Tech since December 31, 2002, required to
+          be  provided  pursuant  to  section  1.07  hereof;  and
+
+               (g) a schedule setting forth any other information, together with
+          any  required  copies  of  documents,  required to be disclosed in the
+          Hy-Tech  Schedules  by  Sections  1.01  through  1.17.
+
+     Hy-Tech  shall  cause  the  Hy-Tech  Schedules and the instruments and data
+delivered  to the Company hereunder to be promptly updated after the date hereof
+up  to  and  including  the  Closing  Date.
+
+     It is understood and agreed that not all of the schedules referred to above
+have  been completed or are available to be furnished by Hy-Tech.  Hy-Tech shall
+have  until  February  17, 2003 to provide such schedules.  If Hy-Tech cannot or
+fails  to do so, or if the Company acting reasonably finds any such schedules or
+updates  provided  after  the  date  hereof  to be unacceptable according to the
+criteria  set  forth  below,  the Company may terminate this Agreement by giving
+written  notice  to  Hy-Tech within five (5) days after the schedules or updates
+were  due  to  be produced or were provided.  For purposes of the foregoing, the
+Company  may consider a disclosure in the Hy-Tech Schedules to be "unacceptable"
+only  if  that  item  would  have  a  material  adverse  impact on the financial
+condition  of  Hy-Tech,  taken  as  a  whole.
+
+     Section  1.18     Valid  Obligation.  This Agreement and all agreements and
+                       -----------------
+other  documents executed by Hy-Tech in connection herewith constitute the valid
+and  binding  obligation of Hy-Tech, enforceable in accordance with its or their
+terms,  except  as may be limited by bankruptcy, insolvency, moratorium or other
+similar  laws  affecting  the  enforcement  of  creditors'  rights generally and
+subject  to  the  qualification  that  the availability of equitable remedies is
+subject  to the discretion of the court before which any proceeding therefor may
+be  brought.
+
+                                        5
+<PAGE>
+
+                                   ARTICLE II
+
+            REPRESENTATIONS, COVENANTS, AND WARRANTIES OF THE COMPANY
+
+     As  an inducement to, and to obtain the reliance of Hy-Tech and the Hy-Tech
+Shareholders,  except  as  set  forth  in  the Company Schedules (as hereinafter
+defined),  the  Company  represents  and  warrants  as  follows:
+
+     Section  2.01     Organization.  The  Company  is  a  corporation  duly
+                       ------------
+organized, validly existing, and in good standing under the laws of the State of
+Delaware  and  has  the  corporate  power  and  is  duly  authorized, qualified,
+franchised, and licensed under all applicable laws, regulations, ordinances, and
+orders  of  public authorities to own all of its properties and assets, to carry
+on  its  business  in  all  material  respects as it is now being conducted, and
+except where failure to be so qualified would not have a material adverse effect
+on  its business, there is no jurisdiction in which it is not qualified in which
+the  character  and  location  of  the  assets  owned by it or the nature of the
+business  transacted  by  it  requires  qualification.  Included  in the Company
+Schedules  are  complete  and correct copies of the certificate of incorporation
+and  bylaws  of  the  Company as in effect on the date hereof. The execution and
+delivery  of  this  Agreement does not, and the consummation of the transactions
+contemplated hereby will not, violate any provision of the Company's certificate
+of  incorporation  or bylaws.  The Company has taken all action required by law,
+its  certificate  of  incorporation,  its  bylaws, or otherwise to authorize the
+execution  and  delivery  of  this  Agreement,  and  the Company has full power,
+authority,  and  legal  right  and  has  taken  all  action required by law, its
+certificate  of  incorporation,  bylaws,  or  otherwise  to  consummate  the
+transactions  herein  contemplated.
+
+     Section  2.02     Capitalization.  The  Company's authorized capitalization
+                       --------------
+consists  of  50,000,000  shares  of  common  stock,  par  value  $.001 of which
+24,000,000  shares will be issued and outstanding within ten days of the Closing
+as  defined  in  Section 3.03 (the "Original Company Shares"), which number does
+not  include  13,888,889  shares  collateralizing  a  potential bridge loan, and
+5,000,000  shares  of  preferred  stock,  $.001  par value of which no shares of
+preferred  stock  are issued and outstanding.  All issued and outstanding shares
+are  legally  issued, fully paid, and non-assessable and not issued in violation
+of  the  preemptive  or  other  rights  of  any  person.
+
+     Section  2.03     Subsidiaries  and  Predecessor Corporations.  The Company
+                       -------------------------------------------
+does  not have any predecessor corporation(s) or subsidiaries, and does not own,
+beneficially  or  of  record,  any  shares  of  any other corporation, except as
+disclosed  in  Schedule 2.03.  For purposes hereinafter, the term "Company" also
+               -------------
+includes  those  subsidiaries,  if  any,  set  forth  on  Schedule  2.03.
+                                                          --------------
+
+     Section  2.04     Financial  Statements.
+                       ----------------------
+
+               (a) Included in the Company Schedules are (i) the audited balance
+          sheets  of  the  Company  and the related statements of operations and
+          cash flows as of and for the twelve months ended December 31, 2001 and
+          (ii)  the  unaudited  balance  sheets  of  the Company and the related
+          statements  of  operations  and  cash  flows for the nine months ended
+          September  30,  2002.
+
+               (b)  All  such  financial  statements  have  been  prepared  in
+          accordance  with generally accepted accounting principles consistently
+          applied  throughout  the  periods involved. The Company balance sheets
+          present fairly as of their respective dates the financial condition of
+          the  Company.  As of the date of such balance sheets, except as and to
+          the  extent  reflected or reserved against therein, the Company had no
+          liabilities  or  obligations  (absolute or contingent) which should be
+          reflected  in  the  balance  sheets  or  the notes thereto prepared in
+          accordance  with  generally  accepted  accounting  principles, and all
+          assets  reflected therein are properly reported and present fairly the
+          value  of  the  assets  of  the  Company, in accordance with generally
+          accepted  accounting  principles.  The  statements  of  operations,
+          stockholders'  equity  and  cash  flows reflect fairly the information
+          required  to  be  set  forth  therein by generally accepted accounting
+          principles.
+
+               (c) The Company has no liabilities with respect to the payment of
+          any  federal,  state,  county,  local  or  other  taxes (including any
+          deficiencies, interest or penalties), except for taxes accrued but not
+          yet  due  and  payable.
+
+               (d)  The  books  and  records,  financial  and  otherwise, of the
+          Company are in all material aspects complete and correct and have been
+          maintained  in accordance with good business and accounting practices.
+
+                                        6
+<PAGE>
+
+Section  2.05     Information.  The information concerning the Company set forth
+                  ------------
+in  this  Agreement  and  the  Company Schedules is complete and accurate in all
+material  respects and does not contain any untrue statements of a material fact
+or  omit to state a material fact required to make the statements made, in light
+of  the  circumstances under which they were made, not misleading.  In addition,
+the Company has fully disclosed in writing to Hy-Tech (through this Agreement or
+the Company Schedules) all information relating to matters involving the Company
+or  its  assets  or  its  present  or  past  operations  or activities which (i)
+indicated  or  may  indicate,  in the aggregate, the existence of a greater than
+$5,000  liability  or  diminution  in  value,  (ii)  have  led  or may lead to a
+competitive  disadvantage on the part of the Company or (iii) either alone or in
+aggregation  with  other information covered by this Section, otherwise have led
+or may lead to a material adverse effect on the transactions contemplated herein
+or  on  the  Company,  its  assets, or its operations or activities as presently
+conducted  or as contemplated to be conducted after the Closing Date, including,
+but  not  limited  to,  information  relating  to  governmental,  employee,
+environmental,  litigation  and  securities  matters  and  transactions  with
+affiliates.
+
+     Section  2.06     Options  or  Warrants.  The  Company  is  currently  in
+                       ----------------------
+negotiations  to  receive a bridge loan which provides for the issuance of up to
+325,000  two  year  warrants  to purchase 325,000 shares of Company common stock
+with  an exercise price of $1.50 per share and the bridge loan is convertible at
+$1.00  per  share  into  Company  common  stock.  In  addition,  the Company has
+authorized the grant of 1,000,000 two year warrants to purchase 1,000,000 shares
+of  Company  common  stock  with an exercise price of $1.00 per share, with such
+grants  to  be  designated  by  Imperium  Capital,  Inc.  There  are no existing
+options,  warrants,  calls,  or  commitments  of  any  character relating to the
+authorized  and unissued stock of the Company, other than those disclosed above.
+
+     Section 2.07     Absence of Certain Changes or Events.  Except as disclosed
+                      -------------------------------------
+in  Exhibit 2.07, or permitted in writing by Hy-Tech, since the date of the most
+recent  Company  balance  sheet:
+
+               (a)  there  has  not  been (i) any material adverse change in the
+          business,  operations,  properties, assets or condition of the Company
+          or (ii) any damage, destruction or loss to the Company (whether or not
+          covered by insurance) materially and adversely affecting the business,
+          operations,  properties,  assets  or  condition  of  the  Company;
+
+               (b) The Company has not and will not (i) amend its certificate of
+          incorporation  or  bylaws,  except to effect a reverse stock split and
+          name  change;  (ii)  declare  or make, or agree to declare or make any
+          payment  of  dividends  or  distributions  of  any  assets of any kind
+          whatsoever to stockholders or purchase or redeem, or agree to purchase
+          or  redeem,  any of its capital stock; (iii) waive any rights of value
+          which  in the aggregate are outside of the ordinary course of business
+          or  material  considering  the  business of the Company; (iv) make any
+          material change in its method of management, operation, or accounting;
+          (v) enter into any transaction or agreement other than in the ordinary
+          course  of  business;  (vi)  make  any  accrual  or arrangement for or
+          payment  of  bonuses  or  special  compensation  of  any  kind  or any
+          severance  or  termination  pay  to  any  present or former officer or
+          employee; (vii) increase the rate of compensation payable or to become
+          payable  by  it  to  any  of  its  officers or directors or any of its
+          salaried employees whose monthly compensation exceed $1,000; or (viii)
+          make any increase in any profit sharing, bonus, deferred compensation,
+          insurance,  pension,  retirement,  or  other  employee  benefit  plan,
+          payment, or arrangement, made to, for or with its officers, directors,
+          or  employees;
+
+               (c)  The  Company  has  not  (i)  granted  or agreed to grant any
+          options  or  warrants  except as disclosed in Section 2.06 above; (ii)
+          borrowed  or agreed to borrow any funds or incurred, or become subject
+          to,  any  material  obligation  or  liability (absolute or contingent)
+          except  liabilities incurred in the ordinary course of business except
+          as  provided  in  Section  2.06 above; (iii) paid or agreed to pay any
+          material  obligations  or  liabilities  (absolute or contingent) other
+          than  current liabilities reflected in or shown on the most recent the
+          Company balance sheet and current liabilities incurred since that date
+          in the ordinary course of business and professional and other fees and
+          expenses  in connection with the preparation of this Agreement and the
+          consummation  of  the  transaction  contemplated  hereby; (iv) sold or
+          transferred,  or  agreed  to  sell  or  transfer,  any  of its assets,
+          properties,  or  rights (except assets, properties, or rights not used
+          or useful in its business which, in the aggregate have a value of less
+          than  $1,000),  or  canceled, or agreed to cancel, any debts or claims
+          (except  debts  or  claims  which in the aggregate are of a value less
+          than  $1,000);  and (v) made or permitted any amendment or termination
+          of  any contract, agreement, or license to which it is a party if such
+          amendment  or termination is material, considering the business of the
+          Company;  and
+
+               (d)  to  the  best  knowledge  of  the Company, it has not become
+          subject  to  any  law  or  regulation  which  materially and adversely
+          affects,  or  in  the  future,  may  adversely  affect,  the business,
+          operations,  properties,  assets  or  condition  of  the  Company.
+
+                                        7
+<PAGE>
+
+     Section  2.08     Title  and  Related  Matters.  The  Company  has good and
+                       -----------------------------
+marketable  title  to  all of its properties, inventory, interest in properties,
+and  assets,  real  and personal, which are reflected in the most recent Company
+balance  sheet  or  acquired  after  that  date  (except  properties, inventory,
+interest in properties, and assets sold or otherwise disposed of since such date
+in  the  ordinary  course  of  business),  free and clear of all liens, pledges,
+charges,  or  encumbrances  except  (a)  statutory  liens  or  claims  not  yet
+delinquent; (b) such imperfections of title and easements as do not and will not
+materially  detract  from  or  interfere with the present or proposed use of the
+properties  subject  thereto  or affected thereby or otherwise materially impair
+present  business  operations  on  such  properties; and (c) as described in the
+Company  Schedules.  Except  as  set forth in the Company Schedules, the Company
+owns,  free  and clear of any liens, claims, encumbrances, royalty interests, or
+other restrictions or limitations of any nature whatsoever, any and all products
+it is currently manufacturing, including the underlying technology and data, and
+all  procedures,  techniques,  marketing  plans,  business  plans,  methods  of
+management,  or  other  information  utilized  in  connection with the Company's
+business.  Except  as set forth in the Company Schedules, no third party has any
+right  to,  and  the  Company  has not received any notice of infringement of or
+conflict with asserted rights of others with respect to any product, technology,
+data,  trade  secrets,  know-how,  proprietary  techniques,  trademarks, service
+marks,  trade  names,  or copyrights which, individually or in the aggregate, if
+the  subject  of  an  unfavorable  decision,  ruling  or  finding,  would have a
+materially  adverse  effect  on  the  business, operations, financial condition,
+income,  or  business  prospects  of  the Company or any material portion of its
+properties,  assets,  or  rights.
+
+     Section  2.09     Litigation and Proceedings.  There are no actions, suits,
+                       ---------------------------
+proceedings  or investigations pending or, to the knowledge of the Company after
+reasonable  investigation, threatened by or against the Company or affecting the
+Company  or  its  properties,  at  law  or  in equity, before any court or other
+governmental  agency  or  instrumentality,  domestic  or  foreign, or before any
+arbitrator  of  any  kind  except  a  lawsuit  against  weComm  Limited which is
+contemplated involving an investment of $700,000 by Bank Sal Oppenheim jr. & Cie
+(Schweiz).  Hy-Tech,  the  current management of Hy-Tech, and the new management
+of  the  Company acknowledge and agree to use reasonable efforts to carry on the
+lawsuit to return the $700,000 to Bank Sal Oppenheim jr. & Cie (Schweiz).  It is
+understood  that Bank Sal Oppenheim jr. & Cie (Schweiz) shall receive the amount
+that  is recovered, less the amount of attorneys fees and out of pocket expenses
+which  are not recovered.  In the event the Company recovers less than $700,000,
+Bank  Sal  Oppenheim jr. & Cie (Schweiz) shall be entitled to receive the amount
+that  is  recovered less un-recovered out of pocket expenses and legal expenses,
+with  the  remaining  balance  owed  to  Bank  Sal Oppenheim jr. & Cie (Schweiz)
+payable in restricted shares of Company common stock at $2.00 per share.  In the
+event  the  Company  does  not  proceed  with litigation for reasonable business
+reasons,  the Company shall have the right to issue Bank Sal Oppenheim & jr. Cie
+(Schweiz)  350,000  newly  issued  restricted  shares of Company common stock in
+settlement  of  the  $700,000.  The  issuance  of such 350,000 shares of Company
+common  stock  would  be  in  addition  to  the  shares  of Company common stock
+outstanding at the closing of this Agreement as agreed upon herein.  The Company
+has no knowledge of any default on its part with respect to any judgment, order,
+writ, injunction, decree, award, rule or regulation of any court, arbitrator, or
+governmental  agency  or  instrumentality  or  any  circumstance  which  after
+reasonable  investigation  would  result  in  the  discovery  of  such  default.
+
+     Section 2.10 Contracts.
+                       ----------
+
+               (a)  The  Company  is  not  a party to, and its assets, products,
+          technology  and  properties  are  not bound by, any material contract,
+          franchise,  license  agreement,  agreement,  debt  instrument or other
+          commitments  whether  such  agreement is in writing or oral, except as
+          disclosed  in  Schedule  2.10.  -------------
+
+               (b)  All  contracts,  agreements, franchises, license agreements,
+          and  other commitments to which the Company is a party or by which its
+          properties  are  bound and which are material to the operations of the
+          Company  taken  as a whole are valid and enforceable by the Company in
+          all  respects, except as limited by bankruptcy and insolvency laws and
+          by  other  laws  affecting  the  rights  of  creditors  generally;
+
+               (c) The Company is not a party to or bound by, and the properties
+          of  the  Company  are  not  subject  to any contract, agreement, other
+          commitment  or instrument; any charter or other corporate restriction;
+          or  any  judgment,  order,  writ,  injunction,  decree, or award which
+          materially and adversely affects, the business operations, properties,
+          assets,  or  condition  of  the  Company;  and
+
+                                        8
+<PAGE>
+
+               (d)  Except  as included or described in the Company Schedules or
+          reflected in the most recent Company balance sheet, the Company is not
+          a  party to any oral or written (i) contract for the employment of any
+          officer  or  employee  which  is  not  terminable  on 30 days, or less
+          notice;  (ii)  profit  sharing,  bonus,  deferred  compensation, stock
+          option,  severance  pay,  pension  benefit  or  retirement plan, (iii)
+          agreement,  contract, or indenture relating to the borrowing of money,
+          (iv)  guaranty  of any obligation, other than one on which the Company
+          is  a  primary  obligor,  for  the  borrowing  of  money or otherwise,
+          excluding  endorsements  made  for  collection and other guaranties of
+          obligations  which,  in the aggregate do not exceed more than one year
+          or  providing  for payments in excess of $25,000 in the aggregate; (v)
+          collective bargaining agreement; or (vi) agreement with any present or
+          former  officer  or  director  of  the  Company.
+
+     Section 2.11     Material Contract Defaults.  The Company is not in default
+                      --------------------------
+in  any material respect under the terms of any outstanding contract, agreement,
+lease,  or  other  commitment  which  is  material  to the business, operations,
+properties,  assets or condition of the Company and there is no event of default
+in  any  material  respect  under  any such contract, agreement, lease, or other
+commitment  in  respect  of  which  the  Company has not taken adequate steps to
+prevent  such  a  default  from  occurring.
+
+     Section 2.12     No Conflict With Other Instruments.  The execution of this
+                      -----------------------------------
+Agreement  and  the  consummation  of  the  transactions  contemplated  by  this
+Agreement  will not result in the breach of any term or provision of, constitute
+a default under, or terminate, accelerate or modify the terms of, any indenture,
+mortgage,  deed of trust, or other material agreement or instrument to which the
+Company  is  a  party  or  to which any of its assets or operations are subject.
+
+     Section  2.13     Governmental  Authorizations.  The  Company  has  all
+                       -----------------------------
+licenses,  franchises,  permits, and other governmental authorizations, that are
+legally required to enable it to conduct its business operations in all material
+respects  as  conducted  on the date hereof.  Except for compliance with federal
+and  state  securities  or  corporation  laws,  as  hereinafter  provided,  no
+authorization,  approval,  consent  or order of, of registration, declaration or
+filing with, any court or other governmental body is required in connection with
+the execution and delivery by the Company of this Agreement and the consummation
+by  the  Company  of  the  transactions  contemplated  hereby.
+
+     Section  2.14     Compliance With Laws and Regulations.  To the best of its
+                       -------------------------------------
+knowledge, the Company has complied with all applicable statutes and regulations
+of  any  federal,  state,  or  other  applicable  governmental  entity or agency
+thereof,  except  to  the  extent  that  noncompliance  would not materially and
+adversely  affect  the  business, operations, properties, assets or condition of
+the  Company  or except to the extent that noncompliance would not result in the
+occurrence  of  any  material  liability.  This  compliance includes, but is not
+limited  to, the filing of all reports to date with federal and state securities
+authorities.
+
+     Section  2.15     Approval  of  Agreement.  The  board  of directors of the
+                       ------------------------
+Company  has  authorized  the  execution  and  delivery of this Agreement by the
+Company  and  has  approved  this  Agreement  and  the transactions contemplated
+hereby.
+
+     Section  2.16     Continuity  of  Business Enterprises.  The Company has no
+                       -------------------------------------
+commitment  or  present  intention  to  liquidate  Hy-Tech  or sell or otherwise
+dispose  of  a  material  portion  of Hy-Tech's business or assets following the
+consummation  of  the  transactions  contemplated  hereby.
+
+     Section  2.17     Material  Transactions  or  Affiliations.  Except  as
+                       -----------------------------------------
+disclosed  herein  and  in  the  Company  Schedules,  there  exists no contract,
+agreement  or arrangement between the Company and any predecessor and any person
+who  was  at  the  time  of  such contract, agreement or arrangement an officer,
+director,  or  person  owning  of  record  or  known  by  the  Company  to  own
+beneficially,  5%  or  more  of  the  issued and outstanding common stock of the
+Company  and  which is to be performed in whole or in part after the date hereof
+or was entered into not more than three years prior to the date hereof.  Neither
+any  officer,  director, nor 5% shareholder of the Company has, or has had since
+inception  of  the  Company, any known interest, direct or indirect, in any such
+transaction  with the Company which was material to the business of the Company.
+The  Company  has  no commitment, whether written or oral, to lend any funds to,
+borrow  any  money  from,  or  enter  into  any other transaction with, any such
+affiliated  person.
+
+     Section  2.18     The  Company  Schedules.  The  Company  has  delivered to
+                       ------------------------
+Hy-Tech  the  following  schedules,  which  are  collectively referred to as the
+"Company Schedules" and which consist of separate schedules, which are dated the
+date  of  this  Agreement,  all  certified by the chief executive officer of the
+Company  to  be  complete, true, and accurate in all material respects as of the
+date  of  this  Agreement:
+
+               (a)  a  schedule  containing  complete and accurate copies of the
+          certificate of incorporation and bylaws of the Company as in effect as
+          of  the  date  of  this  Agreement;
+
+                                        9
+<PAGE>
+
+               (b) a schedule containing the financial statements of the Company
+          identified  in  paragraph  2.04(b);
+
+               (c)  a  schedule  containing  a  description of all real property
+          owned  by  the Company, together with a description of every mortgage,
+          deed  of trust, pledge, lien, agreement, encumbrance, claim, or equity
+          interest  of  any  nature  whatsoever  in  such  real  property;
+
+               (d)  copies  of  all  licenses,  permits,  and other governmental
+          authorizations  (or  requests  or  applications  therefor) pursuant to
+          which  the  Company  carries  on  or proposes to carry on its business
+          (except  those  which, in the aggregate, are immaterial to the present
+          or  proposed  business  of  the  Company);
+
+               (e)  a  schedule  setting  forth  a  description  of any material
+          adverse  change  in  the  business,  operations,  property, inventory,
+          assets,  or  condition of the Company since December 31, 2002 required
+          to  be  provided  pursuant  to  section  2.07  hereof;  and
+
+               (f) a schedule setting forth any other information, together with
+          any  required  copies  of  documents,  required to be disclosed in the
+          Company  Schedules  by  Sections  2.01  through  2.18.
+
+     The  Company shall cause the Company Schedules and the instruments and data
+delivered  to  Hy-Tech hereunder to be promptly updated after the date hereof up
+to  and  including  the  Closing  Date.
+
+     It is understood and agreed that not all of the schedules referred to above
+have  been  completed  or  are  available  to  be furnished by the Company.  The
+Company  shall  have  until February 17, 2003 to provide such schedules.  If the
+Company cannot or fails to do so, or if Hy-Tech acting reasonably finds any such
+schedules or updates provided after the date hereof to be unacceptable according
+to  the criteria set forth below, Hy-Tech may terminate this Agreement by giving
+written  notice  to  the  Company  within  five  (5) days after the schedules or
+updates  were  due  to  be  produced  or  were  provided.  For  purposes  of the
+foregoing,  Hy-Tech  may  consider  a  disclosure in the Company Schedules to be
+"unacceptable"  only  if  that  item would have a material adverse impact on the
+financial  statements  listed  in  Section  2.04(b),  taken  as  a  whole.
+
+     Section  2.19     Valid  Obligation.  This Agreement and all agreements and
+                       -----------------
+other  documents  executed  by the Company in connection herewith constitute the
+valid  and binding obligation of the Company, enforceable in accordance with its
+or  their  terms, except as may be limited by bankruptcy, insolvency, moratorium
+or  other  similar laws affecting the enforcement of creditors' rights generally
+and  subject to the qualification that the availability of equitable remedies is
+subject  to the discretion of the court before which any proceeding therefor may
+be  brought.
+
+                                   ARTICLE III
+
+                                PLAN OF EXCHANGE
+
+     Section  3.01     The Exchange.  On the terms and subject to the conditions
+                       -------------
+set  forth  in this Agreement, on the Closing Date (as defined in Section 3.03),
+each  Hy-Tech Shareholder who shall elect to accept the exchange offer described
+herein  (the "Accepting Shareholders"), shall assign, transfer and deliver, free
+and  clear  of  all liens, pledges, encumbrances, charges, restrictions or known
+claims of any kind, nature, or description, the number of shares of common stock
+of  HY-TECH  set  forth  on  Schedule  1.17(c) attached hereto, in the aggregate
+                             -----------------
+constituting  a  minimum  of  80% of the issued and outstanding shares of common
+stock  of  Hy-Tech  held  by  each  of  such shareholders; the objective of such
+Exchange  being  the  acquisition  by  the  Company  of  100%  of the issued and
+outstanding  common  stock  of  Hy-Tech.  In  exchange  for the transfer of such
+securities  by  the Hy-Tech Shareholders, the Company shall issue to the Hy-Tech
+Shareholders  an  aggregate  of  up  to 16,000,000 shares of common stock of the
+Company  (the  "Initial Shares"), which Initial Shares shall not be reduced when
+calculating the number of shares outstanding pursuant to Sections 2.02 and 6.01.
+At  the Closing, each Hy-Tech Shareholder shall, on surrender of his certificate
+or certificates representing such Hy-Tech shares to the Company or its registrar
+or  transfer  agent,  be  entitled  to  receive  a  certificate  or certificates
+evidencing  his proportionate interest in the Initial Shares.  Upon consummation
+of  the  transaction  contemplated  herein, assuming participation by all of the
+Hy-Tech  Shareholders,  all  of  the shares of capital stock of Hy-Tech shall be
+held  by  the  Company.
+
+                                       10
+<PAGE>
+
+     Section  3.02     Anti-Dilution.  The  number  of  shares  of the Company's
+                       --------------
+common  stock  issuable  upon  exchange  pursuant  to  Section  3.01  shall  be
+appropriately  adjusted  to  take  into  account  any  other  stock split, stock
+dividend,  reverse  stock  split,  recapitalization,  or  similar  change in the
+Company  common  stock  which may occur (i) between the date of the execution of
+this  Agreement and the Closing Date, as to the Initial Shares, and (ii) between
+the  date  of  the  execution  of this Agreement and the release date, as to the
+Additional  Shares.
+
+     Section  3.03     Closing.  The  closing  ("Closing")  of  the transactions
+                       --------
+contemplated  by  this  Agreement  shall  be  on  a date and at such time as the
+parties  may agree ("Closing Date") but not later than January 31, 2003, subject
+to  the  right of the Company or Hy-Tech to extend such Closing Date by up to an
+additional ten (10) days.  Such Closing shall take place at a mutually agreeable
+time  and  place.
+
+     Section  3.04     Closing Events.  At the Closing, the Company, Hy-Tech and
+                       ---------------
+each  of  the  Hy-Tech  Accepting  Shareholders  shall execute, acknowledge, and
+deliver  (or  shall  ensure to be executed, acknowledged, and delivered) any and
+all  certificates,  opinions,  financial  statements,  schedules,  agreements,
+resolutions,  rulings  or  other instruments required by this Agreement to be so
+delivered  at  or prior to the Closing, together with such other items as may be
+reasonably requested by the parties hereto and their respective legal counsel in
+order  to  effectuate  or  evidence the transactions contemplated hereby.  Among
+other  things,  the  Company  shall  provide an opinion of counsel acceptable to
+Hy-Tech  as  to  such  matters  as  Hy-Tech  may reasonably request, which shall
+include,  but  not  be  limited  to,  a  statement,  to  the effect that to such
+counsel's  best  knowledge, after reasonable investigation, from inception until
+the  Closing  Date,  the  Company  has complied with all applicable statutes and
+regulations  of  any  federal, state, or other applicable governmental entity or
+agency thereof, except to the extent that noncompliance would not materially and
+adversely  affect  the  business, operations, properties, assets or condition of
+the  Company  or except to the extent that noncompliance would not result in the
+occurrence  of  any material liability (such compliance including, but not being
+limited  to, the filing of all reports to date with federal and state securities
+authorities).
+
+     Section  3.05     Termination.
+                       ------------
+
+               (a) This Agreement may be terminated by the board of directors of
+          either  the  Company  or Hy-Tech at any time prior to the Closing Date
+          if:
+
+                    (i)  there  shall  be  any  actual  or  threatened action or
+               proceeding  before any court or any governmental body which shall
+               seek  to  restrain,  prohibit,  or  invalidate  the  transactions
+               contemplated by this Agreement and which, in the judgment of such
+               board  of directors, made in good faith and based upon the advice
+               of  its  legal  counsel, makes it inadvisable to proceed with the
+               Exchange;  or
+
+                    (ii)  any  of  the  transactions  contemplated  hereby  are
+               disapproved  by  any  regulatory  authority  whose  approval  is
+               required  to consummate such transactions (which does not include
+               the  Securities  and  Exchange  Commission) or in the judgment of
+               such  board  of  directors,  made  in good faith and based on the
+               advice  of counsel, there is substantial likelihood that any such
+               approval  will  not  be  obtained  or  will be obtained only on a
+               condition  or conditions which would be unduly burdensome, making
+               it  inadvisable  to  proceed  with  the  Exchange.
+
+In  the  event of termination pursuant to this paragraph (a) of Section 3.05, no
+obligation,  right or liability shall arise hereunder, and each party shall bear
+all of the expenses incurred by it in connection with the negotiation, drafting,
+and  execution  of  this  Agreement  and  the  transactions herein contemplated.
+
+               (b) This Agreement may be terminated by the board of directors of
+          the  Company  at  any  time  prior  to  the  Closing  Date  if:
+
+                    (i) the board of directors of the Company determines in good
+               faith that one or more of the Company's conditions to Closing has
+               not  occurred,  through  no  fault  of  the  Company.
+
+                    (ii)  The  Company takes the termination action specified in
+               Section  1.17 as a result of Hy-Tech Schedules or updates thereto
+               which  the  Company  finds  unacceptable;  or
+
+                    (iii)  Hy-Tech  shall fail to comply in any material respect
+               with  any  of  its  covenants  or  agreements  contained  in this
+               Agreement  or  if  any  of  the  representations or warranties of
+               Hy-Tech  contained  herein  shall  be  inaccurate in any material
+               respect,  where  such  noncompliance  or  inaccuracy has not been
+               cured  within  ten  (10)  days  after  written  notice  thereof.
+
+                                       11
+<PAGE>
+
+If  this Agreement is terminated pursuant to this paragraph (b) of Section 3.05,
+this  Agreement shall be of no further force or effect, and no obligation, right
+or  liability  shall arise hereunder, except that Purchaser shall bear the costs
+in connection with the negotiation, preparation, and execution of this Agreement
+and  qualifying  the  offer  and sale of securities to be issued in the Exchange
+under  the  registration  requirements,  or  exemption  from  the  registration
+requirements,  of  state  and  federal  securities  laws.
+
+               (c) This Agreement may be terminated by the board of directors of
+          Hy-Tech  at  any  time  prior  to  the  Closing  Date  if:
+
+                    (i)  there  shall have been any change after the date of the
+               latest  balance  sheet  of the Company in the assets, properties,
+               business  or financial condition of the Company, which could have
+               a  material  adverse  effect  on  the financial statements of the
+               Company  listed  in  Section 2.04(b) taken as a whole, except any
+               changes  disclosed  in  the  Company  Schedules;
+
+                    (ii)  the  board  of directors of Hy-Tech determines in good
+               faith that one or more of Hy-Tech's conditions to Closing has not
+               occurred,  through  no  fault  of  Hy-Tech;
+
+                    (iii)  Hy-Tech  takes  the  termination  action specified in
+               Section  2.18  as  a  result  of the Company Schedules or updates
+               thereto  which  Hy-Tech  finds  unacceptable;
+
+                    (iv)  on  or  before  January 31, 2003, Hy-Tech notifies the
+               Company  that  Hy-Tech's  investigation  pursuant to Section 4.01
+               below  has  uncovered  information which it finds unacceptable by
+               the  same  criteria  set  forth  in  Section  2.18;  or
+
+                    (v) The Company shall fail to comply in any material respect
+               with  any  of  its  covenants  or  agreements  contained  in this
+               Agreement  or  if any of the representations or warranties of the
+               Company  contained  herein  shall  be  inaccurate in any material
+               respect,  where  such  noncompliance  or  inaccuracy has not been
+               cured  within  ten  (10)  days  after  written  notice  thereof.
+
+If  this Agreement is terminated pursuant to this paragraph (c) of Section 3.05,
+this  Agreement shall be of no further force or effect, and no obligation, right
+or liability shall arise hereunder, except that the Company shall bear the costs
+as  well  as the reasonable costs of the Company incurred in connection with the
+negotiation,  preparation  and  execution  of  this  Agreement.
+
+                                   ARTICLE IV
+
+                                SPECIAL COVENANTS
+
+     Section 4.01     Access to Properties and Records.  The Company and Hy-Tech
+                      --------------------------------
+Will each afford  to  the  officers and authorized representatives of the other
+Full access  to the properties, books and records of the Company or, as the case
+May be, in order that each  may  have a full opportunity to make such reasonable
+investigation  as  it shall desire to make of the affairs of the other, and each
+will  furnish  the  other  with such additional financial and operating data and
+other  information  as to the business and properties of the Company or Hy-Tech,
+as  the  case  may  be, as the other shall from time to time reasonably request.
+Without  limiting  the  foregoing,  as soon as practicable after the end of each
+fiscal  quarter  (and  in any event through the last fiscal quarter prior to the
+Closing  Date),  the  Company  shall  provide  Hy-Tech with quarterly internally
+prepared  and  unaudited  financial  statements.
+
+     Section  4.02     Delivery  of  Books and Records.  At the Closing, Hy-Tech
+                       --------------------------------
+shall  deliver  to  the  Company  copies of the corporate minute books, books of
+account,  contracts, records, and all other books or documents of Hy-Tech now in
+the  possession  of  Hy-Tech  or  its  representatives.
+
+     Section  4.03     Third  Party  Consents and Certificates.  The Company and
+                       ----------------------------------------
+Hy-Tech agree to cooperate with each other in order to obtain any required third
+party  consents  to  this  Agreement  and  the transactions herein contemplated.
+
+                                       12
+<PAGE>
+
+     Section  4.04     Accredited  Status.  All  of  the  Hy-Tech  Shareholders
+                       -------------------
+participating  in  the  Share  Exchange  must represent that they are accredited
+investors  as that term is defined in Rule 501 of Regulation D promulgated under
+the  Securities  Act  of  1933,  except  as  otherwise  provided.
+
+     Section  4.05     Consent  ofHy-Tech  Shareholders.  Hy-Tech  shall use its
+                       -----------         -------------
+best efforts to obtain the consent of all Hy-Tech Shareholders to participate in
+the  Exchange.
+
+     Section  4.06     Designation  of  Directors  and Officers.On or before the
+                       -----------------------------------------
+Closing Date, the Company's board of directors shall consist of three directors,
+of  which  one director shall be appointed by Imperium Capital, Inc. which shall
+include  Gary  F.  McNear, Craig W. Conklin, and ______________.  Gary F. McNear
+shall  be  elected  Chief  Executive Officer of the Company and Craig W. Conklin
+shall  be  elected  President.
+
+     Section  4.07     Exclusive  Dealing  Rights.  Until  5:00  P.M.  Eastern
+                       ---------------------------
+Daylight  Time  on  February  17,  2003.
+
+               (a)  In  recognition of the substantial time and effort which the
+          Company  has spent and will continue to spend in investigating Hy-Tech
+          and  its  business  and  in  addressing  the  matters  related  to the
+          transactions  contemplated  herein, each of which may preempt or delay
+          other management activities, neither Hy-Tech, nor any of its officers,
+          employees,  representatives  or  agents  will  directly  or indirectly
+          solicit  or  initiate any discussions or negotiations with, or, except
+          where  required  by  fiduciary  obligations  under  applicable  law as
+          advised  by  counsel,  participate in any negotiations with or provide
+          any  information  to  or otherwise cooperate in any other way with, or
+          facilitate  or  encourage  any  effort or attempt by, any corporation,
+          partnership,  person  or other entity or group (other than the Company
+          and  its  directors,  officers, employees, representatives and agents)
+          concerning  any  merger, sale of substantial assets, sale of shares of
+          capital  stock,  (including  without limitation, any public or private
+          offering  of  the  common  stock  of  Hy-Tech) or similar transactions
+          involving  Hy-Tech  (all  such  transactions  being  referred  to as "
+          Hy-Tech  Acquisition  Transactions"). If Hy-Tech receives any proposal
+          with respect to a Hy-Tech Acquisition Transaction, it will immediately
+          communicate to the Company the fact that it has received such proposal
+          and  the  principal  terms  thereof.
+
+               (b)  In  recognition  of  the  substantial  time and effort which
+          Hy-Tech  has  spent  and  will  continue to spend in investigating the
+          Company  and its business and in addressing the matters related to the
+          transactions  contemplated  herein, each of which may preempt or delay
+          other  management  activities,  neither  the  Company,  nor any of its
+          officers,  employees,  representatives  or  agents  will  directly  or
+          indirectly  solicit  or initiate any discussions or negotiations with,
+          or,  except  where  required by fiduciary obligations under applicable
+          law  as  advised  by  counsel, participate in any negotiations with or
+          provide  any  information  to  or otherwise cooperate in any other way
+          with,  or  facilitate  or  encourage  any  effort  or  attempt by, any
+          corporation,  partnership, person or other entity or group (other than
+          Hy-Tech  and  its  directors, officers, employees, representatives and
+          agents)  concerning  any  merger,  sale of substantial assets, sale of
+          shares  of capital stock, (including without limitation, any public or
+          private  offering  of  the  common  stock  of  the  Company or similar
+          transactions  involving  the  Company  (all  such  transactions  being
+          referred  to  as  "Company  Acquisition Transactions"). If the Company
+          receives  any  proposal  with  respect  to  a  Company  Acquisition
+          Transaction,  it will immediately communicate to Hy-Tech the fact that
+          it  has  received  such  proposal  and  the  principal  terms thereof.
+
+     Section  4.08     Actions  Prior  to  Closing.
+                       ----------------------------
+
+               (a)  From  and after the date of this Agreement until the Closing
+          Date  and  except  as  set  forth  in the Company Schedules or Hy-Tech
+          Schedules  or  as  permitted  or  contemplated  by this Agreement, the
+          Company  (subject  to  paragraph  (d) below) and Hy-Tech respectively,
+          will  each:
+
+                    (i)  carry  on its business in substantially the same manner
+               as  it  has  heretofore;
+
+                    (ii)  maintain  and  keep  its  properties in states of good
+               repair  and  condition as at present, except for depreciation due
+               to  ordinary  wear  and  tear  and  damage  due  to  casualty;
+
+                    (iii) maintain in full force and effect insurance comparable
+               in  amount and in scope of coverage to that now maintained by it;
+
+                                       13
+<PAGE>
+
+                    (iv) perform in all material respects all of its obligations
+               under  material contracts, leases, and instruments relating to or
+               affecting  its  assets,  properties,  and  business;
+
+                    (v)  use  its  best  efforts  to  maintain  and preserve its
+               business organization intact, to retain its key employees, and to
+               maintain  its  relationship  with  its  material  suppliers  and
+               customers;  and
+
+                    (vi)  fully comply with and perform in all material respects
+               all obligations and duties imposed on it by all federal and state
+               laws and all rules, regulations, and orders imposed by federal or
+               state  governmental  authorities.
+
+          (b)  From and after the date of this Agreement until the Closing Date,
+     neither  the  Company  nor  Hy-Tech  will:
+
+               (i)  make  any  changes  in  their  articles  or  certificate  of
+          incorporation  or  bylaws,  except  as  otherwise  provided  in  this
+          Agreement;
+
+               (ii)  take  any  action  described in Section 1.07 in the case of
+          Hy-Tech, or in Section 2.07, in the case of the Company (all except as
+          permitted  therein  or  as  disclosed  in  the  applicable  party's
+          schedules);
+
+               (iii)  enter  into  or  amend  any  contract, agreement, or other
+          instrument  of  any  of the types described in such party's schedules,
+          except  that  a party may enter into or amend any contract, agreement,
+          or  other  instrument in the ordinary course of business involving the
+          sale  of  goods  or  services;  or
+
+               (iv)  sell  any  assets or discontinue any operations (other than
+          the  Divestiture),  sell  any  shares  of capital stock (other than as
+          contemplated  in  Section  4.06  hereof  and  the  sale  of securities
+          underlying existing warrants or options of the Company) or conduct any
+          similar  transactions  other  than in the ordinary course of business.
+
+     Section  4.09     Indemnification.
+                       ----------------
+
+               (a)  Hy-Tech  hereby  agrees to indemnify the Company and each of
+          the  officers,  agents  and directors of the Company as of the date of
+          execution  of  this  Agreement  against  any  loss,  liability, claim,
+          damage, or expense (including, but not limited to, any and all expense
+          whatsoever  reasonably  incurred  in  investigating,  preparing,  or
+          defending  against  any  litigation,  commenced  or threatened, or any
+          claim  whatsoever), to which it or they may become subject arising out
+          of  or based on any inaccuracy appearing in or misrepresentations made
+          under Article I of this Agreement. The indemnification provided for in
+          this  paragraph  shall  survive  the  Closing  and consummation of the
+          transactions  contemplated  hereby  and termination of this Agreement.
+
+               (b)  The  Company  hereby agrees to indemnify Hy-Tech and each of
+          the officers, agents, and directors of Hy-Tech and each of the Hy-Tech
+          Shareholders as of the date of execution of this Agreement against any
+          loss, liability, claim, damage, or expense (including, but not limited
+          to,  any  and  all  expense  whatsoever  reasonably  incurred  in
+          investigating,  preparing,  or  defending  against  any  litigation,
+          commenced or threatened, or any claim whatsoever), to which it or they
+          may become subject arising out of or based on any inaccuracy appearing
+          in  or  misrepresentation made under Article II of this Agreement. The
+          indemnification  provided  for  in  this  paragraph  shall survive the
+          Closing  and  consummation of the transactions contemplated hereby and
+          termination  of  this  Agreement.
+
+Section  4.10     Limitation  of  Subsequent  Corporate  Actions.
+                  -----------------------------------------------
+
+     It is expressly understood and agreed that the Company, the shareholders of
+Hy-Tech,  and  their  affiliates,  will take all steps necessary to ensure that:
+
+                                       14
+<PAGE>
+
+(1)  there  shall be no reverse split of the Company's common stock for a period
+     of  twelve  months  following  this  Agreement;
+
+(2)  that  the  assets  of  Hy-Tech  shall  remain in the Company as part of its
+     business  operations;  and
+
+(3)  that  no  shares of the Company's common stock shall be registered pursuant
+     to  an  S-8  registration statement for a period of twelve months following
+     this  Agreement.
+
+Notwithstanding  items  (1), (2), and (3), Imperium Capital, Inc. may waive such
+conditions  stated  above,  with  a  written  waiver.
+
+      Section  4.11     Indemnification  of  Subsequent  Corporate  Actions.
+                        ----------------------------------------------------
+
+(a)  No  officer,  director, controlling shareholder, agent or representative of
+     the Company, or any other person currently affiliated with the Company, has
+     offered  or  agreed to assist in the promotion, market making, development,
+     enhancement,  or  support  of  the  Company's business, capital raising, or
+     securities  market.
+
+(2)  Hy-Tech  hereby  represents  and  warrants  that it will indemnify and hold
+     harmless  any  officer,  director,  controlling  shareholder,  agent  or
+     representative  of  the  Company,  or  any other person affiliated with the
+     Company,  from  any  decisions,  activities,  or  conduct  of  the  Company
+     contemporaneous  with,  or  subsequent  to  this  Agreement.
+
+Section  4.12  Name  Change.  Prior  to  Closing,  the  Company  shall amend its
+               ------------
+certificate  of  incorporation  to  effect  a  name change to Hy-Tech Technology
+Group,  Inc.
+
+Section  4.13  Audited  Financial  Statements.  The  Company  shall file audited
+               ------------------------------
+financial  statements  of  Hy-Tech  as  required  by the Securities and Exchange
+Commission  within  75  days  from  the  Closing.
+
+                                    ARTICLE V
+
+               CONDITIONS PRECEDENT TO OBLIGATIONS OF THE COMPANY
+
+     The  obligations  of  the  Company  under this Agreement are subject to the
+satisfaction,  at  or  before  the  Closing  Date,  of the following conditions:
+
+     Section  5.01     Accuracy of Representations and Performance of Covenants.
+                       ---------------------------------------------------------
+The  representations  and warranties made by Hy-Tech in this Agreement were true
+when  made  and shall be true at the Closing Date with the same force and effect
+as  if  such  representations  and warranties were made at and as of the Closing
+Date  (except  for  changes therein permitted by this Agreement).  Hy-Tech shall
+have  performed  or  complied with all covenants and conditions required by this
+Agreement  to  be  performed  or  complied  with  by  Hy-Tech prior to or at the
+Closing.  The  Company  shall  be furnished with a certificate, signed by a duly
+authorized  executive  officer  of  Hy-Tech  and  dated the Closing Date, to the
+foregoing  effect.
+
+     Section  5.02     Officer's  Certificate.  The  Company  shall  have  been
+                       -----------------------
+furnished  with  a  certificate  dated  the  Closing  Date  and signed by a duly
+authorized  officer  of  Hy-Tech  to  the effect that no litigation, proceeding,
+investigation,  or  inquiry  is  pending,  or  to  the best knowledge of Hy-Tech
+threatened,  which  might  result  in  an  action  to  enjoin  or  prevent  the
+consummation  of  the  transactions  contemplated  by this Agreement, or, to the
+extent  not  disclosed  in  the  Hy-Tech Schedules, by or against Hy-Tech, which
+might  result  in  any material adverse change in any of the assets, properties,
+business,  or  operations  of  Hy-Tech.
+
+     Section  5.03     No  Material  Adverse Change.  Prior to the Closing Date,
+                       -----------------------------
+there  shall  not have occurred any change in the financial condition, business,
+or operations of Hy-Tech nor shall any event have occurred which, with the lapse
+of  time  or  the  giving  of notice, is determined to be unacceptable using the
+criteria  set  forth  in  Section  1.06.
+
+     Section  5.04     Approval byHy-Tech Shareholders.  The Exchange shall have
+                       -----------        -------------
+been  approved,  and  shares  delivered  in accordance with Section 3.01, by the
+holders of not less than eighty percent (80%) of the outstanding common stock of
+Hy-Tech,  unless  a  lesser  number  is  agreed  to  by  the  Company.
+
+                                       15
+<PAGE>
+
+     Section  5.05     No  Governmental  Prohibition.  No  order, statute, rule,
+                       ------------------------------
+regulation,  executive  order, injunction, stay, decree, judgment or restraining
+order  shall have been enacted, entered, promulgated or enforced by any court or
+governmental  or  regulatory  authority  or  instrumentality which prohibits the
+consummation  of  the  transactions  contemplated  hereby.
+
+     Section  5.06     Consents.  All consents, approvals, waivers or amendments
+                       ---------
+pursuant  to  all contracts, licenses, permits, trademarks and other intangibles
+in  connection  with  the transactions contemplated herein, or for the continued
+operation  of  the  Company  and  Hy-Tech after the Closing Date on the basis as
+presently  operated  shall  have  been  obtained.
+
+     Section  5.07     Other  Items.
+                       -------------
+
+               (a)  The  Company  shall  have  received  a  list  of  Hy-Tech 's
+          shareholders  containing  the name, address, and number of shares held
+          by each Hy-Tech shareholder as of the date of Closing, certified by an
+          executive officer of Hy-Tech as being true, complete and accurate; and
+
+               (b)  The  Company  shall  have  received  such  further opinions,
+          documents,  certificates  or  instruments relating to the transactions
+          contemplated  hereby  as  the  Company  may  reasonably  request.
+
+     Section  5.08     Accredited  Status.  All  of  the  Hy-Tech  Shareholders
+                       -------------------
+participating  in  the  Share  Exchange  must represent that they are accredited
+investors  as that term is defined in Rule 501 of Regulation D promulgated under
+the  Securities  Act  of  1933,  other  than  otherwise  disclosed.
+
+                                   ARTICLE VI
+
+                 CONDITIONS PRECEDENT TO OBLIGATIONS OF HY-TECH
+                          AND THE HY-TECH SHAREHOLDERS
+
+     The  obligations  of  Hy-Tech  and  the  Hy-Tech  Shareholders  under  this
+Agreement are subject to the satisfaction, at or before the Closing Date, of the
+following  conditions:
+
+     Section  6.01     Accuracy of Representations and Performance of Covenants.
+                       ---------------------------------------------------------
+The  representations  and  warranties made by the Company in this Agreement were
+true  when  made  and  shall  be true as of the Closing Date (except for changes
+therein  permitted  by this Agreement) with the same force and effect as if such
+representations  and  warranties  were  made  at  and  as  of  the Closing Date.
+Additionally,  the  Company shall have performed and complied with all covenants
+and  conditions  required  by this Agreement to be performed or complied with by
+the  Company and shall have satisfied the conditions described below prior to or
+at  the  Closing:
+
+               (a) Within ten days following the Closing, the Company shall have
+          no  more than an aggregate of 24,000,000 shares of common stock issued
+          and  outstanding,  not  counting  13,888,889  shares collateralizing a
+          possible  bridge  loan, and 0 shares of preferred stock, excluding any
+          shares  issuable  pursuant  to  the  Exchange.
+
+               (b) The directors of the Company shall have approved the Exchange
+          and  the  related  transactions  described  herein.
+
+Hy-Tech  shall  have been furnished with certificates, signed by duly authorized
+executive  officers  of the Company and dated the Closing Date, to the foregoing
+effect.
+
+     Section  6.02     Officer's  Certificate and Lawyer's Certificate.  Hy-Tech
+                       ------------------------------------------------
+shall have been furnished with certificates dated the Closing Date and signed by
+the  duly  authorized executive officer and legal counsel of the Company, to the
+effect  that  no litigation, proceeding, investigation or inquiry is pending, or
+to the best knowledge of the Company threatened, which might result in an action
+to  enjoin  or prevent the consummation of the transactions contemplated by this
+Agreement  or,  to  the  extent  not  disclosed  in the Company Schedules, by or
+against the Company, which might result in any material adverse change in any of
+the  assets,  properties  or  operations  of  the  Company.
+
+                                       16
+<PAGE>
+
+     Section  6.03     No  Material  Adverse Change.  Prior to the Closing Date,
+                       -----------------------------
+there shall not have occurred any change in the financial condition, business or
+operations  of  the  Company  nor  shall any event have occurred which, with the
+lapse  of  time  or the giving of notice, is determined to be unacceptable using
+the  criteria  set  forth  in  Section  2.18.
+
+     Section  6.04     No  Governmental  Prohibition.  No  order, statute, rule,
+                       ------------------------------
+regulation,  executive  order, injunction, stay, decree, judgment or restraining
+order  shall have been enacted, entered, promulgated or enforced by any court or
+governmental  or  regulatory  authority  or  instrumentality which prohibits the
+consummation  of  the  transactions  contemplated  hereby.
+
+     Section  6.05     Consents.  All consents, approvals, waivers or amendments
+                       ---------
+pursuant  to  all contracts, licenses, permits, trademarks and other intangibles
+in  connection  with  the transactions contemplated herein, or for the continued
+operation  of  the  Company  and  Hy-Tech after the Closing Date on the basis as
+presently  operated  shall  have  been  obtained.
+
+     Section  6.06     Other  Items.  Hy-Tech  shall  have  received  further
+                       -------------
+opinions,  documents,  certificates, or instruments relating to the transactions
+contemplated  hereby  as  Hy-Tech  may  reasonably  request.
+
+                                   ARTICLE VII
+
+                                  MISCELLANEOUS
+
+     Section  7.01     No  Bankruptcy  and  No  Criminal  Convictions.
+                       ----------------------------------------------
+
+     None  of  the  Parties  to  the Agreement, nor their officers, directors or
+affiliates,  promoter  or control person, nor any predecessor, thereof have been
+subject  to  the  following:
+
+     (3)  Any bankruptcy petition filed by or against any business of which such
+          person was a general partner or executive officer within the past five
+          years;
+
+     (4)  Any  conviction in a criminal proceeding or being subject to a pending
+          criminal  proceeding  (excluding  traffic  violations  and other minor
+          offenses);
+
+     (5)  Being  subject  to  any  order,  judgment, or decree, not subsequently
+          reversed,  suspended  or  vacated,  of  any  court  of  competent
+          jurisdiction,  permanently  or  temporarily  enjoining,  barring,
+          suspending  or  otherwise  limiting  his  involvement  in  any type of
+          business,  securities  or  banking  activities;  and
+
+     (6)  Being  found by a court of competent jurisdiction (in a civil action),
+          the  Securities  and  Exchange Commission (the "SEC") or the Commodity
+          Futures  Trading  Commission  to  have  violated  a  federal  or state
+          securities or commodities law, and the judgment has not been reversed,
+          suspended,  or  vacated.
+
+     Section  7.02     Brokers.  The  Company  and Hy-Tech agree that, except as
+                       --------
+set  out  on  Schedule  7.02  attached  hereto, there were no brokers or finders
+involved  in  bringing  the  parties  together  or  who were instrumental in the
+negotiation,  execution  or  consummation  of  this  Agreement.  The Company and
+Hy-Tech  each agree to indemnify the other against any claim by any third person
+other  than those described above for any commission, brokerage, or finder's fee
+arising from the transactions contemplated hereby based on any alleged agreement
+or  understanding  between the indemnifying party and such third person, whether
+express  or  implied  from  the  actions  of  the  indemnifying  party.
+
+     Section  7.03     Governing  Law.  This  Agreement  shall  be  governed by,
+                       ---------------
+enforced,  and  construed  under  and  in accordance with the laws of the United
+States  of  America and, with respect to the matters of state law, with the laws
+of the State of Delaware without giving effect to principles of conflicts of law
+thereunder.  Each  of  the  parties (a) irrevocably consents and agrees that any
+legal  or  equitable  action  or proceedings arising under or in connection with
+this  Agreement shall be brought exclusively in the federal courts of the United
+States,  (b) by execution and delivery of this Agreement, irrevocably submits to
+and  accepts,  with  respect  to  any  such  action or proceeding, generally and
+unconditionally, the jurisdiction of the aforesaid court, and irrevocably waives
+any  and  all  rights  such  party  may  now or hereafter have to object to such
+jurisdiction.
+
+                                       17
+<PAGE>
+
+     Section  7.04     Notices.  Any  notice or  other  communications  required
+                       --------
+or permitted  hereunder shall  be  in writing and shall be sufficiently given if
+personally  delivered to it or sent by telecopy, overnight courier or registered
+mail  or  certified  mail,  postage  prepaid,  addressed  as  follows:
+
+     If  to  the  Company,  to:          SRM  NETWORKS,  INC.
+                                         Attn:  Jan  Barickowski
+                                         C/o  Gersten  Savage  Kaplowitz
+                                         and Wolf
+                                         9th  Floor,  101  East  52nd  Street
+                                         New  York,  NY  10022-6018
+                                         Phone  (212)  752)  9700
+                                         Fax  (212)  980-5192
+
+
+
+     If  to  HY-TECH,  to:               HY-TECH  COMPUTER  SYSTEMS,  INC.
+                                         Attn:  Gary  McNear
+                                         1840  Boy  Scout  Drive
+                                         Fort  Myers,  Florida  33907-2113
+                                         Phone  (239)  278-4878
+
+
+     With  copies  to:                   David  M.  Loev,  Attorney  at  Law
+                                         2777  Allen  Parkway
+                                         Suite  1000
+                                         Houston,  Texas  77019
+                                         Phone  (713)  524-4110
+                                         Fax  (713)  524-4122
+
+or  such  other  addresses  as shall be furnished in writing by any party in the
+manner  for giving notices hereunder, and any such notice or communication shall
+be  deemed to have been given (i) upon receipt, if personally delivered, (ii) on
+the  day  after  dispatch, if sent by overnight courier, (iii) upon dispatch, if
+transmitted by telecopy and receipt is confirmed by telephone and (iv) three (3)
+days  after  mailing,  if  sent  by  registered  or  certified  mail.
+
+     Section  7.05     Attorney's  Fees.  In  the  event  that  either  party
+                       -----------------
+institutes any action or suit to enforce this Agreement or to secure relief from
+any default hereunder or breach hereof, the prevailing party shall be reimbursed
+by  the  losing  party  for  all  costs,  including  reasonable attorney's fees,
+incurred  in  connection  therewith  and in enforcing or collecting any judgment
+rendered  therein.
+
+     Section  7.06     Confidentiality.  Each party hereto agrees with the other
+                       ----------------
+that, unless and until the transactions contemplated by this Agreement have been
+consummated,  it and its representatives will hold in strict confidence all data
+and information obtained with respect to another party or any subsidiary thereof
+from  any  representative,  officer,  director or employee, or from any books or
+records or from personal inspection, of such other party, and shall not use such
+data  or  information  or  disclose the same to others, except (i) to the extent
+such  data  or  information is published, is a matter of public knowledge, or is
+required  by  law  to  be  published;  or  (ii)  to the extent that such data or
+information  must  be  used or disclosed in order to consummate the transactions
+contemplated  by  this  Agreement.  In  the  event  of  the  termination of this
+Agreement,  each  party  shall return to the other party all documents and other
+materials obtained by it or on its behalf and shall destroy all copies, digests,
+work  papers, abstracts or other materials relating thereto, and each party will
+continue  to  comply  with  the  confidentiality  provisions  set  forth herein.
+
+     Section  7.07     Public  Announcements  and  Filings.  Unless  required by
+                       ------------------------------------
+applicable  law  or  regulatory  authority,  none  of the parties will issue any
+report,  statement  or press release to the general public, to the trade, to the
+general trade or trade press, or to any third party (other than its advisors and
+representatives in connection with the transactions contemplated hereby) or file
+any  document,  relating  to  this  Agreement  and the transactions contemplated
+hereby,  except  as  may  be mutually agreed by the parties.  Copies of any such
+filings,  public  announcements  or  disclosures, including any announcements or
+disclosures  mandated  by  law  or regulatory authorities, shall be delivered to
+each  party  at  least  one  (1)  business  day  prior  to  the release thereof.
+
+                                       18
+<PAGE>
+
+     Section 7.08     Schedules; Knowledge.  Each party is presumed to have full
+                      ---------------------
+knowledge  of all information set forth in the other party's schedules delivered
+pursuant  to  this  Agreement.
+
+     Section  7.09     Third  Party  Beneficiaries.  This  contract  is strictly
+                       ----------------------------
+between  the  Company  and  Hy-Tech,  and,  except  as specifically provided, no
+director,  officer, stockholder (other than the Hy-Tech Shareholders), employee,
+agent,  independent  contractor or any other person or entity shall be deemed to
+be  a  third  party  beneficiary  of  this  Agreement.
+
+     Section  7.10     Expenses.  Subject  to  Sections  3.05  and  7.05  above,
+                       ---------
+whether  or not the Exchange is consummated, the Company will bear the expenses,
+including  legal,  accounting and professional fees, incurred in connection with
+the  Exchange  or  any  of  the  other  transactions  contemplated  hereby.
+
+     Section  7.11     Entire  Agreement.  This  Agreement represents the entire
+                       ------------------
+agreement  between  the  parties  relating  to  the  subject  matter thereof and
+supersedes  all  prior  agreements,  understandings and negotiations, written or
+oral,  with  respect  to  such  subject  matter.
+
+     Section  7.12     Survival;  Termination.  The representations, warranties,
+                       -----------------------
+and  covenants  of the respective parties shall survive the Closing Date and the
+consummation  of the transactions herein contemplated for a period of two years.
+
+     Section  7.13     Counterparts.  This Agreement may be executed in multiple
+                       -------------
+counterparts,  each  of which shall be deemed an original and all of which taken
+together  shall  be  but  a  single  instrument.
+
+     Section  7.14     Amendment  or  Waiver.  Every  right  and remedy provided
+                       ----------------------
+herein  shall be cumulative with every other right and remedy, whether conferred
+herein,  at law, or in equity, and may be enforced concurrently herewith, and no
+waiver  by  any party of the performance of any obligation by the other shall be
+construed  as  a  waiver  of the same or any other default then, theretofore, or
+thereafter  occurring  or existing.  At any time prior to the Closing Date, this
+Agreement may by amended by a writing signed by all parties hereto, with respect
+to  any  of  the  terms  contained  herein,  and  any  term or condition of this
+Agreement may be waived or the time for performance may be extended by a writing
+signed  by  the  party  or  parties for whose benefit the provision is intended.
+
+     Section  7.15     Best Efforts.  Subject to the terms and conditions herein
+                       -------------
+provided,  each  party  shall  use  its  best  efforts to perform or fulfill all
+conditions  and  obligations  to  be  performed  or  fulfilled  by it under this
+Agreement  so  that the transactions contemplated hereby shall be consummated as
+soon  as practicable.  Each party also agrees that it shall use its best efforts
+to  take,  or cause to be taken, all actions and to do, or cause to be done, all
+things  necessary,  proper or advisable under applicable laws and regulations to
+consummate  and  make effective this Agreement and the transactions contemplated
+herein.
+
+Section  7.16     Faxed  Copies.  For  purposes  of  this  Agreement,  a  faxed
+                  -------------
+signature  will  constitute  an  original  signature.
+
+
+
+
+
+
+
+
+     IN WITNESS WHEREOF, the corporate parties hereto have caused this Agreement
+to be executed by their respective officers, hereunto duly authorized, as of the
+date  first-above  written.
+
+                              SRM  NETWORKS,  INC.
+
+
+                              BY:/s/ Jan Barickowski
+                                 -------------------------------
+                                 Chief  Executive  Officer
+
+
+                              HY-TECH  COMPUTER  SYSTEMS,  INC.
+
+                              BY:/s/ Gary F. McNear
+                                 -------------------------------
+                                 Chief  Executive  Officer
+
+
+
+
+The undersigned Hy-Tech Shareholders hereby agree to participate in the Exchange
+on  the  terms  set  forth  above.  Subject  to  Section 7.12 above, each of the
+undersigned  hereby  represents  and  affirms  that  he  has  read  each  of the
+representations  and  warranties of Hy-Tech set out hereof and that, to the best
+of  his  knowledge,  all  of  such  representations  and warranties are true and
+correct.  PLEASE  RETURN  ORIGINAL  STOCK  CERTIFICATE  ALONG WITH THIS EXCHANGE
+AGREEMENT.
+
+
+               /s/ Gary F. McNear, individually  No. of Shares 2500
+               ------------------                              -----
+
+               Gary F. McNear, Printed Name
+               ------------------
+
+
+               Craig W. Conklin, individually  No. of Shares 2500
+               ------------------                             -----
+
+
+               Craig W. Conklin, Printed Name
+               ------------------
+
+
+               /s/ Jeffrey W. Sarver, individually  No. of Shares 51
+               ---------------------                                -----
+
+
+               Jeffrey W. Sarver, Printed Name
+               ------------------
+
+                                       19
+<PAGE>
+
+
+
+
+</TEXT>
+</DOCUMENT>

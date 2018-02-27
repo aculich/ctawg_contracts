@@ -1,0 +1,262 @@
+<DOCUMENT>
+<TYPE>EX-10.23
+<SEQUENCE>8
+<FILENAME>a94018exv10w23.txt
+<DESCRIPTION>EXHIBIT 10.23
+<TEXT>
+<PAGE>
+                                                                   EXHIBIT 10.23
+
+CONFIDENTIAL & PROPRIETARY                               [DTE ENERGY LETTERHEAD]
+
+                                                        DTE Energy Trading, Inc.
+                                                          414 S. Main, Suite 200
+                                                            Ann Arbor, MI  48104
+                                             Tel: 734.887.2000 Fax: 734.887.2104
+
+Date: July 24, 2003
+
+To:   Commonwealth Energy Corp.
+      15901 Red Hill Ave., Suite 100
+      Tustin, CA  92780
+      Attn:  Dick Paulsen
+      Phone:    714.259.2523
+      Fax:      714.259.2563
+
+RE:   CONFIRMATION OF TRANSACTION WITH COMMONWEALTH ENERGY FOR WHOLESALE
+      ELECTRICITY TO SUPPLY COMMONWEALTH ENERGY'S RETAIL CUSTOMER LOAD IN
+      DETROIT EDISON'S SERVICE TERRITORY
+
+This Confirmation memorializes the oral Transaction agreement between Steve
+Sheppard of DTE Energy Trading, Inc. ("DTEET") and Dick Paulsen of Commonwealth
+Energy ("CE") dated July 24, 2003 regarding the Transaction set forth below.
+
+AGREED TO ECONOMIC TERMS
+
+BUYER:         CE
+
+SELLER:        DTEET
+
+PRODUCT:       Full requirements service product ("FRSP") (as defined below) for
+               CE's retail customers in Detroit Edison's service territory (the
+               "CE Customers"):
+
+               Energy delivery is measured and billed at the CE Customer
+               meter(s). Energy is to be used only to serve CE Customer load
+               under Detroit Edison's Electric Choice Program.
+
+               FRSP means firm Energy as measured and delivered to the CE
+               Customer retail meters which shall include load following Energy,
+               load forecasting and scheduling services, applicable Detroit
+               Edison/International Transmission Company ("ITC") and Midwest
+               Independent System Operator ("MISO") transmission and ancillary
+               services charges, including imbalance charges.
+<PAGE>
+CONFIDENTIAL & PROPRIETARY                               [DTE ENERGY LETTERHEAD]
+
+
+DELIVERY       As defined in Sections 2.2 and 2.3 of the Revised Operating
+PERIOD:        Agreement between Seller and Buyer, effective July 24, 2003
+               ("Operating Agreement") and with respect to this Transaction:
+
+               [Confidential Treatment Requested]
+
+WHOLESALE      As defined in Sections 2.2, 2.3, and 3.1 of the Operating
+CONTRACT       Agreement and with respect to this Transaction:
+QUANTITY:
+
+
+               [Confidential Treatment Requested]
+
+TRANSMISSION   Seller will function as CE's Marketer in accordance with the
+& SCHEDULING   Marketer Agreement for Electric Choice Program between The
+REQUIREMENTS:  Detroit Edison Company and Seller.  Seller will schedule
+               point-to-point or network integrated transmission service and
+               schedule ancillary services up to the CE Customer meter(s).
+
+CONTRACT       As defined in Sections 2.2 and 3.2 of the Operating Agreement and
+PRICE:         with respect to this Transaction:
+
+
+               [Confidential Treatment Requested]
+
+DELIVERY       CE Customer meter(s)
+POINT:
+
+PRODUCT        Physical, Firm Energy with Liquidated Damages
+FIRMNESS:
+
+SCHEDULING     Seller will schedule and deliver Energy according to the
+REQUIREMENTS:  Wholesale Contract Quantity.  Further, Seller will develop its
+               own day-ahead forecast for energy scheduling.
+
+SPECIAL        Buyer will function as the AES/Retailer in accordance with the
+CONDITIONS:    AES/Retailer Agreement for Electric Choice Program between The
+               Detroit Edison Company and Buyer.
+
+               Buyer will select Optional Retail Access Backup Service when
+               enrolling CE Customers in Detroit Edison's Electric Choice
+               Program.
+
+               Buyer will transfer to Seller its rights to any congestion hedges
+               provided through MISO. Such congestion rights include, but are
+               not limited to, Financial Transmission Rights ("FTRs"). Seller
+               will request, procure, and utilize all FTRs to which the Buyer is
+               entitled and Seller elects to receive. Seller shall retain all
+               value, positive or negative, associated with such FTRs.
+
+
+                                      -2-
+<PAGE>
+CONFIDENTIAL & PROPRIETARY                               [DTE ENERGY LETTERHEAD]
+
+
+               If in any hour of any day during the Delivery Period, the actual
+               CE Customer demand exceeds [Confidential Treatment Requested],
+               Buyer will compensate Seller for the excess MW of demand as
+               specified below:
+
+               [Confidential Treatment Requested]
+
+               Buyer is responsible for all expenses, including taxes, after the
+               Delivery Point. Seller is responsible for all expenses, including
+               taxes, before the Delivery Point.
+
+REGULATORY OR  If any of the following occurrences have material adverse
+RULE CHANGES:  economic consequences to Seller or Buyer, then the parties agree
+               to use their best efforts to negotiate in good faith to restore
+               the original economic value of this Transaction: 1) a change in
+               existing rules, regulations, procedures or protocols of the
+               entity governing the transmission of Energy, capacity, scheduling
+               or ancillary services, or 2) a change in the obligations of load
+               serving entities in the Detroit Edison service territory or the
+               Michigan Electric Coordinated Systems ("MECS") (or its successor
+               entity) control area.
+
+SECURITY FOR   In connection with Energy provided by DTEET under this
+CE'S           Transaction, CE will grant DTEET a security interest in, and lien
+PERFORMANCE:   on (and right of setoff against), and assignment of, all account
+               receivables relating to the sale of Energy by CE to certain CE
+               Customers (the "Secured Party Accounts Receivable") pursuant to
+               that certain Security Agreement dated July 24, 2002, which is
+               hereby incorporated by reference ("the Security Agreement").
+
+SPECIAL        CE will pay DTEET for the Energy pursuant to the terms of that
+PAYMENT TERMS: certain Escrow Agreement dated July 24, 2002, which is
+               incorporated by reference (the "Escrow Agreement").
+
+CE'S           CE represents and warrants that there are no encumbrances
+REPRESENTATION limiting or interfering with DTEET's rights in the Secured Party
+AND            Accounts Receivable;
+WARRANTIES:
+
+               CE represents and warrants that it will undertake no action to
+               negate or diminish DTEET's interest in the Secured Party Accounts
+               Receivable and will cooperate fully with DTEET to protect DTEET's
+               interest arising under this Transaction;
+
+               CE represents and warrants that it has irrevocably instructed
+               each CE Customer receiving the Energy and all other persons or
+               entities paying CE for the Energy, and shall so instruct all
+               future
+
+
+                                      -3-
+<PAGE>
+CONFIDENTIAL & PROPRIETARY                               [DTE ENERGY LETTERHEAD]
+
+
+               CE Customers receiving the Energy and all other persons or
+               entities at any time paying CE for the Energy, to make payment to
+               the Lockbox (as defined in the Escrow Agreement), and that it
+               will use all commercially reasonable efforts to cause all such
+               persons or entities to agree to make payments to the Lockbox;
+               provided, however, that CE may, subject to the terms and
+               conditions of the Escrow Agreement, Security Agreement, and EEI
+               Master Power Purchase and Sale Agreement, instruct each CE
+               Customer receiving the Energy and all other persons or entities
+               paying CE for the Energy to make payment to a different account
+               upon the termination of this Transaction or the Escrow
+               Agreement); and
+
+               CE represents and warrants that it will promptly notify DTEET if
+               it is aware that any person or entity instructed to make payment
+               to the Lockbox has refused or failed to make any such payment to
+               the Lockbox, and will as promptly as possible deposit such
+               payments received by CE into the Lockbox.
+
+               CE represents and warrants that to further protect DTEET's first
+               priority security interest in the Secured Party Accounts
+               Receivable, it acknowledges that DTEET is the customer of
+               Standard Federal Bank with respect to the Lockbox/Escrow Account,
+               and furthermore, that CE agrees that it will not, at any time
+               during the Term of this Transaction, enter into any credit
+               transaction with Standard Federal Bank (because it is the Bank
+               maintaining the Lockbox/Escrow Account).
+
+               CE represents and warrants that it will only use the Product
+               purchased hereunder to serve its retail customer load under the
+               Detroit Edison Electric Choice Program, and that it will not be
+               resold in the wholesale market.
+
+This Transaction Letter shall be governed by the terms and conditions set forth
+herein and the EEI Master Power Purchase and Sale Agreement between DTEET and
+Buyer, effective July 1, 2003 (the "Master Agreement") which is incorporated by
+reference and made a part hereof. In the event of a conflict between this
+Transaction Letter and the terms and conditions of the Master Agreement,
+including, but not limited to, the product definitions in Schedule P of the
+Master Agreement, this Transaction Letter shall govern.
+
+Please execute this Transaction Letter by signing below and returning a copy to
+Joseph Gallagher, Risk Monitor, by facsimile at 734.887.2056.
+
+
+                                      -4-
+<PAGE>
+CONFIDENTIAL & PROPRIETARY                               [DTE ENERGY LETTERHEAD]
+
+
+If this Transaction Letter is not executed and returned within two (2) Business
+Days, it shall be deemed correct as sent. Questions should be referred to Joseph
+Gallagher, of DTEET, at 734.887.2004.
+
+
+Sincerely,
+
+DTE Energy Trading, Inc.
+
+
+Approved:
+
+
+/S/      RANDALL D. BALHORN
+--------------------------------------------
+Randall D. Balhorn, President
+
+7/24/03
+--------------------------------------------
+Date
+
+
+
+ACCEPTED AND AGREED:
+
+Commonwealth Energy Corporation
+
+/S/      DICK PAULSEN
+--------------------------------------------
+
+
+Dick Paulsen, COO
+--------------------------------------------
+Printed Name and Title
+
+7/24/03
+--------------------------------------------
+Date
+
+
+                                      -5-
+
+</TEXT>
+</DOCUMENT>

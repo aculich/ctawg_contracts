@@ -1,0 +1,162 @@
+<DOCUMENT>
+<TYPE>EX-2.5
+<SEQUENCE>6
+<FILENAME>v05312_ex2-5.txt
+<TEXT>
+                                                                     EXHIBIT 2.5
+
+                              ASSUMPTION AGREEMENT
+
+      ASSUMPTION  AGREEMENT (the "Assumption  Agreement"),  dated as of June 23,
+2004,   among  Encompass  Group   Affiliates,   Inc.,  a  Delaware   corporation
+("Encompass"),  and  Hy-Tech  Technology  Group,  Inc.,  a Delaware  corporation
+("Hy-Tech   Technology"),   and  Hy-Tech  Computer  Systems,  Inc.,  a  Delaware
+corporation ("Hy-Tech Computer" and together with Hy-Tech Technology, "HYTT").
+
+                                   BACKGROUND
+
+         A. HYTT is entering into an Agreement with  Encompass,  dated as of the
+date hereof (the "Agreement"),  pursuant to which HYTT concurrently  herewith is
+refraining from pursuing  certain of rights and licensing  certain of its assets
+to Encompass.
+
+         B. In partial  consideration  therefore,  the  Agreement  requires that
+Encompass agree to perform, pay or discharge certain liabilities and obligations
+of HYTT.
+
+         NOW,  THEREFORE,  for  valuable  consideration,  the  receipt and legal
+sufficiency of which are hereby acknowledged,  and intending to be legally bound
+hereby, the parties hereby agree as follows:
+
+         1. Assumption of Liabilities.  Encompass hereby undertakes, assumes and
+agrees to perform,  pay or discharge  in  accordance  with their  terms,  to the
+extent  not  heretofore  performed,  paid  or  discharged  and  subject  to  the
+limitations  contained  in  this  Assumption  Agreement,   the  liabilities  and
+obligations of HYTT  described in Schedule I hereto,  but only to the extent and
+in the amounts that such liabilities and obligations are so listed or described.
+
+         2.  Remedies.  The  assumption  by  Encompass  of the  liabilities  and
+obligations  set forth in this  Assumption  Agreement  shall not be construed to
+defeat,  impair or limit in any way the rights,  claims or remedies of Encompass
+under the Agreement.
+
+         3. No Other  Liabilities.  Other than as specifically set forth in this
+Assumption Agreement,  Encompass assumes no liability or obligation of any kind,
+character or description of HYTT or any other person.
+
+         4.  Governing  Law.  This  Assumption  Agreement  shall be governed and
+construed in accordance with the laws of the State of Delaware.
+
+         5. Binding Agreement.  This Assumption Agreement shall be binding upon,
+and shall  inure to the benefit  of, the  successors  and assigns of the parties
+hereto.
+
+
+                                       1
+<PAGE>
+
+
+         6.  Amendments and Waiver.  No  modification,  wavier or termination of
+this  Assumption  Agreement  shall be binding unless  executed in writing by the
+party to be bound thereby. No waiver of any of the provisions of this Assumption
+Agreement  shall be deemed or shall  constitute a waiver of any other  provision
+hereof,  nor shall such waiver  constitute a continuing  waiver unless otherwise
+expressly provided.
+
+         7.  Severability.  In the event that any  provision of this  Assumption
+Agreement   shall   be  held  to  be   unenforceable   for  any   reason,   such
+unenforceability shall not affect any other provision hereof.
+
+         8.  Counterparts.  This Assumption  Agreement may be executed in one or
+more counterparts,  each of which shall constitute an original, but all of which
+together shall be one and the same instrument.
+
+
+
+
+
+                    [REMAINDER OF PAGE PURPOSELY LEFT BLANK]
+
+
+
+
+
+
+
+                                       2
+<PAGE>
+
+         IN WITNESS WHEREOF,  the parties have caused this Assumption  Agreement
+to be executed  by their duly  authorized  representatives  as of the date first
+written above.
+
+                                     ENCOMPASS GROUP AFFILIATES, INC.
+
+
+                                     By:
+                                        ----------------------------------------
+                                        Name:
+                                        Title:
+
+
+                                     HY-TECH TECHNOLOGY, INC.
+
+
+                                     By:
+                                        ----------------------------------------
+                                        Name:
+                                        Title:
+
+
+                                     HY-TECH COMPUTER SYSTEMS, INC.
+
+
+                                     By:
+                                        ----------------------------------------
+                                        Name:
+                                        Title:
+
+
+
+
+
+
+
+                                       3
+<PAGE>
+
+                                   SCHEDULE I
+
+                               ASSUMED LIABILITIES
+
+--------------------------------------------------------------------------------
+Name and Address                                   Principal amount of Debenture
+--------------------------------------------------------------------------------
+KT Capital, LP                                     $100,000
+237 Park Avenue South
+New York, NY 10017
+Attn: Jeffrey Kwit, Managing Partner
+--------------------------------------------------------------------------------
+David H. Boshart & Elizabeth F. Boshart            $100,000
+8504 Charter Club Circle, No. 10
+Fort Myers, FL 33919
+--------------------------------------------------------------------------------
+David H. Boshart, Bruce H. Boshart &               $100,000
+ Bethany Maahs-Hoagsberg
+8504 Charter Club Circle, No. 10
+Fort Myers, FL 33919
+--------------------------------------------------------------------------------
+David H. Boshart                                   $100,000
+8504 Charter Club Circle, No. 10
+Fort Myers, FL 33919
+--------------------------------------------------------------------------------
+Maximum Ventures, Inc.                             $103,300
+1175 Walt Whitman Road
+Fort Myers, FL 33907
+--------------------------------------------------------------------------------
+Total                                              $503,300
+--------------------------------------------------------------------------------
+
+
+</TEXT>
+</DOCUMENT>

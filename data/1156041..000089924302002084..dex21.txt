@@ -1,0 +1,569 @@
+<DOCUMENT>
+<TYPE>EX-2.1
+<SEQUENCE>3
+<FILENAME>dex21.txt
+<DESCRIPTION>EXCHANGE AGREEMENT
+<TEXT>
+<PAGE>
+
+                                                                     Exhibit 2.1
+
+                               EXCHANGE AGREEMENT
+
+     THIS EXCHANGE AGREEMENT (this "Agreement"), is entered into as of the 19th
+day of July, 2002 (the "Effective Date"), by and between Millennium Seismic,
+Inc., a Texas corporation ("Millennium"), and Houston American Energy Corp., a
+Delaware corporation ("HAEC").
+
+                              W I T N E S S E T H:
+
+     WHEREAS, Millennium desires to acquire 1,000,000 shares (the "Purchased
+Shares") of HAEC's common stock, par value $0.001 per share (the "Common
+Stock"), in exchange for Millennium's issuance to HAEC of a no fee license
+agreement relating to HAEC's utilization of Millennium's seismic data, all as
+set forth in the following terms and conditions;
+
+     NOW THEREFORE, for and in consideration of the premises, and the mutual
+promises and covenants contained herein, and for other good and valuable
+consideration, the receipt and sufficiency of which are hereby acknowledged,
+HAEC and Millennium hereby agree as follows:
+
+     1. Exchange. On the terms and subject to the conditions of this Agreement,
+at the Closing (as that term is defined in Section 6): (i) HAEC agrees to sell
+and deliver to Millennium, and Millennium agrees to acquire from HAEC, the
+Purchased Shares and the Warrant (as that term is defined in Section 6.3); and
+(ii) in consideration for the Purchased Shares and the Warrant and in reliance
+upon the representations and warranties of HAEC contained herein, Millennium
+agrees to deliver to HAEC a no fee License Agreement For Use of Proprietary
+Data, substantially in the form attached hereto as Exhibit "A" (the "License
+Agreement").
+
+     2. Representations and Warranties of HAEC. HAEC represents and warrants to
+Millennium, as of the Closing Date, as follows:
+
+          2.1 The Purchased Shares. Upon delivery of the Purchased Shares to
+     Millennium in accordance herewith, the Purchased Shares shall be fully paid
+     and non-assessable shares of the Common Stock, free of any preemptive
+     rights and claims of any kind.
+
+          2.2 Organization and Existence. HAEC is a corporation duly organized
+     and validly existing and in good standing under the laws of the State of
+     Delaware, having all requisite corporate power to own, lease and otherwise
+     operate its properties and assets and to carry on its business as now being
+     conducted. HAEC is duly qualified as a foreign corporation and is in good
+     standing in each jurisdiction in which the nature of its business or the
+     location of its properties requires such qualification, and is duly
+     authorized and licensed and has all licenses, franchises, permits and other
+     governmental authorizations required under all applicable laws,
+     regulations, ordinances and orders of public authorities to carry on its
+     business in the places and in the manner as now conducted. On or before the
+     Closing Date, HAEC has delivered complete and correct copies of its
+     Certificate of Incorporation and Bylaws to Millennium, each as in effect on
+     the Closing Date.
+
+                                       1
+
+<PAGE>
+
+         2.3 Authority. The execution, delivery and performance by HAEC of this
+     Agreement, the Warrant, the License Agreement, the Registration Rights
+     Agreement (as this term is defined in Section 6.4), and the other
+     documents, instruments and transactions contemplated hereby and thereby to
+     which HAEC is a party or is to be a party (collectively, the "Transaction
+     Documents"), have been duly authorized by all necessary corporate action of
+     HAEC, and the Transaction Documents have been, or will be prior to Closing,
+     duly executed and delivered by HAEC. The Transaction Documents constitute
+     (or will constitute when executed and delivered at Closing) valid and
+     binding obligations of HAEC, enforceable against it in accordance with
+     their respective terms, except as that enforceability may be limited by
+     applicable bankruptcy, insolvency, fraudulent conveyance or transfer,
+     reorganization, moratorium, or similar laws of general application
+     affecting enforcement of creditors' rights generally.
+
+          2.4 No Conflict With Other Instruments. HAEC's execution, delivery and
+     performance of this Agreement will not result in a violation or breach of
+     any term or provision of, or constitute a default or accelerate the
+     performance required under, any indenture, mortgage, deed of trust or other
+     contract or agreement to which HAEC is a party or by which HAEC or its
+     assets are bound, or violate any order, writ, injunction or decree of any
+     court, administrative agency or governmental body.
+
+          2.5 Capitalization. The authorized capital stock of HAEC consists of:
+     (i) 100,000,000 shares of the Common Stock, of which 11,999,883 shares were
+     issued and outstanding immediately prior to the Closing Date; and (ii)
+     10,000,000 shares of preferred stock, par value $0.001 per share, none of
+     which are issued and outstanding as of the Closing Date. HAEC has no
+     treasury shares. All of the outstanding shares of the Common Stock are
+     validly issued, fully paid and nonassessable, and such shares were not
+     issued in violation of the preemptive rights of any of HAEC's stockholders.
+     Except as set forth on Schedule 2.4, there are no existing subscriptions,
+     options, warrants, conversion rights, calls, obligations or agreements
+     (voting or otherwise, including without limitation, registration rights)
+     relating to any of HAEC's authorized or outstanding capital stock.
+
+          2.6 Subsidiaries. Except as set forth on Schedule 2.6, HAEC has no
+     subsidiaries and does not, directly or indirectly, own or control any
+     capital stock, bonds or other securities of, or have any proprietary
+     interest in, any corporation, association, partnership, firm, joint venture
+     or other business organization or enterprise, and HAEC does not, directly
+     or indirectly, control the management of any such entities.
+
+          2.7 Litigation. Except as set forth on Schedule 2.7, there are no (and
+     HAEC has not received actual notice of any) claims, actions, suits,
+     investigations or proceedings, pending or threatened against HAEC or any of
+     its assets or properties, or which otherwise question the validity or
+     legality of the transactions contemplated hereby, whether at law or in
+     equity or before or by any court or federal, state, municipal or other
+     governmental department, commission, board, agency or instrumentality.
+     Except as set forth on Schedule 2.7, neither HAEC nor its assets are
+     subject to any court or administrative order, writ, injunction or decree,
+     nor does there exist any violation of or default with respect to any order,
+     writ, injunction or decree of any court or federal, state, municipal or
+     other governmental department, commission, board, agency, instrumentality
+     or arbitrator to which HAEC is a party.
+
+                                       2
+
+<PAGE>
+
+          2.8 Financial Statements. On or before the Closing Date, HAEC has
+     furnished Millennium with complete copies of HAEC's currently available
+     audited financial statements relating to: (i) the year ended December 31,
+     2001; and (ii) interim unaudited financial statements for the three-month
+     period ending March 31, 2002, including income statements through such
+     dates and balance sheets as of such dates (collectively, the "Financial
+     Statements"). The Financial Statements are true and complete in all
+     material respects, having been prepared from the books and records of HAEC
+     in accordance with generally accepted accounting principles, consistently
+     applied throughout the entire period presented (except as disclosed
+     therein) for the periods reflected therein. The balance sheets contained
+     within the Financial Statements fairly present the financial condition of
+     HAEC as of the respective dates thereof; and the income statements
+     contained within the Financial Statements fairly present the results of
+     operations of HAEC for the respective periods reflected therein. None of
+     the Financial Statements, as of the dates and the periods thereof,
+     misstates or omits to state any liability, absolute or contingent, the
+     omission of which renders the Financial Statements misleading.
+
+          2.9 Compliance with Laws. HAEC has complied in all material respects
+     with all applicable foreign, federal, state, municipal and other political
+     subdivision or governmental agency statutes, ordinances and regulations,
+     including, without limitation, those imposing taxes, in every applicable
+     jurisdiction, in respect of the ownership of its property and the conduct
+     of its business, and HAEC is not a party to any investigation or inquiry by
+     any foreign, federal, state or local governmental body or agency pending
+     or, to HAEC's knowledge, threatened with respect to its business,
+     operations, affairs or properties.
+
+          2.10 ERISA. HAEC is not a party to any defined benefit pension plan or
+     any defined contribution profit sharing plan. To the best of HAEC's
+     knowledge, HAEC is in compliance in all material respects with all
+     applicable provisions of ERISA. Neither a Reportable Event nor a Prohibited
+     Transaction has occurred and is continuing with respect to any Plan (as
+     such terms are defined herein). No notice of intent to terminate a Title IV
+     Plan has been filed, nor has any Title IV Plan been terminated. No
+     circumstances exist which constitute grounds entitling the PBGC to
+     institute proceedings to terminate, or appoint a trustee to administer, a
+     Title IV Plan, nor has the PBGC instituted any such proceedings. Neither
+     HAEC nor any of its ERISA Affiliates is a party to, or has completely or
+     partially withdrawn from, a Multiemployer Plan. Neither HAEC nor any ERISA
+     Affiliates has incurred any liability to the PBGC under ERISA. For purposes
+     of this Section 2.10, the following definitions apply:
+
+     "ERISA" means the Employee Retirement Income Security Act of 1974, as
+amended from time to time, and the regulations and published interpretations
+thereunder.
+
+     "ERISA Affiliate" means any corporation or trade or business that is a
+member of the same controlled group of corporations (within the meaning of
+Section 414(b) of the Code) as HAEC or is under common control (within the
+meaning of Section 414(c) of the Code) with HAEC.
+
+     "Multiemployer Plan" means a multiemployer plan defined as such in Section
+3(37) of ERISA to which contributions have been made by HAEC or any of its ERISA
+Affiliates and which is covered by Title IV of ERISA.
+
+                                       3
+
+<PAGE>
+
+     "PBGC" means the Pension Benefit Guaranty Corporation or any entity
+succeeding to all or any of its functions under ERISA.
+
+     "Plans" means all employee benefit plans as defined in Section 3(3) of
+ERISA maintained by HAEC or any of its ERISA Affiliate or to which HAEC or any
+of its ERISA Affiliate contributes or is required to contribute.
+
+     "Prohibited Transaction" means any transaction set forth in Section 406 of
+ERISA or Section 4975 of the Code.
+
+     "Reportable Event" means any of the events set forth in Section 4043 of
+ERISA.
+
+          2.11 Guaranties; Suretyships. HAEC is not a party to any guaranties or
+     matters of suretyship.
+
+          2.12 Absence of Undisclosed Liabilities. Except as set forth in the
+     Financial Statements or on Schedule 2.12, HAEC does not have any material
+     liabilities, debts or obligations of any nature incurred by HAEC, whether
+     accrued, absolute, contingent or otherwise, whether due or to become due,
+     including, without limitation, liabilities, debts or obligations on account
+     of taxes or other governmental charges, or penalties, interest or fines
+     thereon or in respect thereof, and whether such liabilities are normally
+     shown or reflected on a balance sheet prepared in a manner consistent with
+     generally accepted accounting principles. The term "material" contained in
+     the preceding sentence shall refer to liabilities, debts or obligations
+     aggregating in excess of $5,000. HAEC is not in default in respect of any
+     material term or condition of any indebtedness or liability. To HAEC's
+     knowledge, no facts exist which could serve as the basis for any assertion
+     against HAEC or any of its properties of any liability, debt or obligation
+     not otherwise disclosed in this Agreement or in the Financial Statements.
+
+          2.13 Tax Matters. HAEC has provided Millennium with copies of all tax
+     returns and related documents, and HAEC has filed or timely filed requests
+     for extensions of, all federal, foreign, state, county, and local tax
+     returns required to be filed by it for periods ending on or before the
+     Closing Date. HAEC has paid all Taxes shown to be due on such returns. For
+     purposes of this paragraph, the term "Taxes" shall mean, without
+     limitation, income taxes, corporate franchise taxes, payroll taxes, sales
+     taxes, and ad valorem taxes. The liabilities for such Taxes are properly
+     reflected in the Financial Statements of HAEC, and represent, as of the
+     Closing Date, reasonable provision for the payment of all accrued and
+     unpaid Taxes of HAEC accrued through that date, whether or not disputed, as
+     well as deferred Taxes required under generally accepted accounting
+     principles. The income tax returns of HAEC are not currently under audit by
+     any federal, state or foreign taxing authorities and have never been so
+     audited by federal authorities. There are no agreements, waivers or other
+     arrangements providing for an extension of time with respect to the payment
+     of any Tax or the assessment of any Tax or deficiency of any nature against
+     HAEC, nor are any suits or any other actions, proceedings, investigations
+     or claims now pending or threatened against HAEC with respect to any Tax or
+     assessment, nor are any matters under discussion with any federal, state,
+     foreign or local authority relating to any such Taxes or assessments, or to
+     any claims for additional Taxes or assessments asserted by any such
+     authority. HAEC will not cause, or voluntarily permit, a change in any
+     federal income tax method of accounting by HAEC or in the method of
+     allocation
+
+                                       4
+
+<PAGE>
+
+     of the federal income tax liability of HAEC during or applicable to its
+     current tax year which would render inaccurate, misleading or incomplete
+     the information concerning Taxes set forth or referred to herein, or which
+     would have a material adverse effect on HAEC for any period prior to the
+     Closing Date.
+
+          2.14 Insurance. HAEC has, or within 30 days after the Closing Date
+     will obtain, and will maintain in full force and effect fire and casualty
+     insurance policies, with extended coverage, sufficient in amount (subject
+     to reasonable deductibles) to allow HAEC to replace, as of the Closing
+     Date, any of its properties that might be damaged or destroyed. To the
+     extent HAEC has obtained any such policies prior to the Closing Date, HAEC
+     is not in default with respect to any provision contained therein and all
+     such policies are in full force and effect.
+
+          2.15 Licenses and Permits. HAEC has all material licenses, permits and
+     certificates necessary to conduct its business, all of which are valid and
+     in full force and effect. HAEC has not received any notice of violation
+     with respect to any such licenses or permits and, to HAEC's knowledge, no
+     proceeding is pending or threatened seeking the revocation or limitation of
+     any such license or permit.
+
+          2.16 Title to Assets, Etc. HAEC has good and indefeasible title to all
+     of its assets, including those reflected in the Financial Statements (other
+     than those that have since been sold or otherwise disposed of in the
+     ordinary course of business, consistent with past practice, and not
+     involving any misrepresentation or breach of warranty or covenant in this
+     Agreement), free and clear of all liens, mortgages, pledges, title
+     retention agreements, restrictions, security interests and encumbrances,
+     except as set forth in the Financial Statements.
+
+          2.17 Leased Property. All leases of real or personal property to which
+     HAEC is a party, including those which are necessary for the conduct of its
+     business as currently conducted, are in full force and effect. There is no
+     default as to HAEC under any such lease, and to HAEC's knowledge, no act
+     has occurred which following the passage of time will constitute a default
+     under any such lease. Millennium's purchase of the Purchased Shares will
+     not constitute a prohibited assignment or transfer under any such lease.
+
+          2.18 Machinery and Equipment. All of HAEC's personal property has been
+     well maintained and repaired and are in good operating condition, ordinary
+     wear and tear excepted, and are free from any known defects, except such as
+     require routine maintenance and except such minor defects as do not
+     substantially interfere with the continued use thereof in the conduct of
+     HAEC's operations. Additionally, HAEC has the legal right to use all
+     personal property utilized by HAEC in conducting its business as currently
+     conducted.
+
+          2.19 Patents and Trademarks. Schedule 2.19 contains a complete list of
+     the patents, patent applications, registered trademarks, trademark
+     applications, registered copyrights, and other intellectual property, which
+     HAEC owns or licenses from third parties, designated as such. As currently
+     conducted, HAEC's business does not infringe any third party's logo,
+     patent, trademark, trade name, copyright or other intellectual property. No
+     stockholder, director, officer, employee or consultant of HAEC (i) owns,
+     directly or indirectly, in whole or in part, any inventions or logos,
+     patents, trademarks, trade names, brand names, copyrights or third party
+     test results or applications therefor which HAEC is presently using and
+     which is necessary for its
+
+                                       5
+
+
+
+<PAGE>
+
+
+
+     business as currently conducted or (ii) has made any invention which has
+     not been assigned to HAEC and which is necessary for its business as
+     currently conducted.
+
+          2.20 Environmental and Safety Laws. HAEC is not in violation of any
+     applicable statute, law or regulation relating to the environment or
+     occupational health and safety, and, to the best of its knowledge, no
+     material expenditures are or will be required in order to comply with any
+     such existing statute, law or regulation.
+
+          2.21 Accuracy of Periodic Reports. The information contained in each
+     of the periodic reports HAEC has filed with the United States Securities
+     and Exchange Commission pursuant to the Securities Exchange Act of 1934
+     (the "1934 Act") was true and correct as of the date each such periodic
+     report was filed, and HAEC has amended or updated all such information as
+     required by the 1934 Act.
+
+          2.22 Completeness. The representations, warranties and statements made
+     by HAEC herein do not include any untrue statement of a material fact or
+     omit to state any material fact necessary in order to make the statements
+     made herein not misleading in light of the circumstances under which such
+     statements were made.
+
+          2.23 Miscellaneous. All agreements, reports and other documents HAEC
+     has heretofore furnished to Millennium are true, accurate and complete
+     copies of the agreements, reports and other documents they purport to be.
+
+     3. Representations and Warranties of Millennium. Millennium represents and
+warrants to with HAEC, as of the Closing Date, as follows:
+
+     3.1 Securities Representations and Warranties.
+
+          (a) The Purchased Shares are being acquired for Millennium's own
+     account, for investment purposes only, and not for the account of any other
+     person, and not with a view to distribution, assignment, or resale to
+     others or to fractionalization in whole or in part and that the issuance of
+     the Purchased Shares to Millennium is intended to be exempt from
+     registration under the Securities Act of 1933 (the "Act") by virtue of the
+     exemption under Section 4(2) of the Act. Millennium understands that the
+     Purchased Shares constitute "restricted securities," as said term is
+     defined in Rule 144 of the Rules and Regulations promulgated under the Act,
+     that the certificates representing the Purchased Shares will bear a legend
+     stating that the transfer of the securities represented thereby is subject
+     to the provisions hereof. Millennium represents, warrants, and agrees that:
+     (i) no other person has or will have a direct or indirect beneficial
+     interest in the Purchased Shares; (ii) Millennium is not acquiring the
+     Purchased Shares with a view toward resale, assignment, fractionalization
+     or distribution thereof; and (iii) Millennium will not sell, hypothecate,
+     or otherwise transfer any of the Purchased Shares except, (A) pursuant to
+     an effective registration statement filed in accordance with the Act and
+     applicable state securities laws or (B) in the opinion of HAEC's corporate
+     counsel, an exemption from the registration requirements of the Act and
+     such laws is available.
+
+          (b) Millennium is an accredited investor as that term is defined in
+     Rule 501 of Regulation D promulgated under the Act.
+
+                                       6
+
+
+<PAGE>
+
+
+         3.2 Authority. The execution, delivery and performance by Millennium
+     of this Agreement, the License Agreement, and the other documents,
+     instruments and transactions contemplated hereby and thereby to which
+     Millennium is a party or is to be a party, have been duly authorized by all
+     necessary corporate action of Millennium, and have been, or will be prior
+     to Closing, duly executed and delivered by Millennium. Such documents
+     constitute (or will constitute when executed and delivered at Closing)
+     valid and binding obligations of Millennium enforceable against it in
+     accordance with their respective terms, except as that enforceability may
+     be limited by applicable bankruptcy, insolvency, fraudulent conveyance or
+     transfer, reorganization, moratorium, or similar laws of general
+     application affecting enforcement of creditors' rights generally.
+
+          3.3 No Conflict with Other Agreement. Millennium's execution, delivery
+     and performance of this Agreement will not result in or constitute a
+     default or breach of, or accelerate the performance required under, or
+     require the consent of any person or entity under any indenture, mortgage,
+     deed of trust or other contract or agreement to which Millennium is a party
+     or by which it or any of its assets are bound, or violate any order, writ,
+     injunction or decree of any court, administrative agency or governmental
+     body.
+
+     4. Nature and Survival of Representations and Warranties. Regardless of any
+investigation at any time made by or on behalf of any party hereto or of any
+information any party may have in respect thereof, all representations and
+warranties made hereunder or pursuant hereto shall survive the Closing.
+
+     5. Conditions to Closing. The obligation of Millennium to purchase, and the
+obligation of HAEC to sell, the Purchased Shares are subject to the fulfillment,
+or the waiver by Millennium or HAEC, as the case may be, of the following
+conditions on or before the Closing Date:
+
+          5.1 Due Diligence Review. Millennium shall have completed to its
+     satisfaction a review of HAEC's books and records, and HAEC shall have
+     completed to its satisfaction a review of Millennium's seismic data.
+
+          5.2 Corporate Consents. The respective Boards of Directors of each of
+     HAEC and Millennium shall have approved the transactions contemplated
+     herein.
+
+     6. The Closing. HAEC and Millennium hereby agree to consummate the closing
+of the sale and purchase of the Purchased Shares (the "Closing") at the offices
+of Millennium's legal counsel, Boyar & Miller, located at 4265 San Felipe, Suite
+1200, Houston, Texas 77027 (or such other place as Millennium and HAEC mutually
+agree) immediately following the execution of this Agreement by all parties (the
+"Closing Date"). At the Closing, each of the following shall occur:
+
+          6.1 Certificates Representing Purchased Shares. HAEC shall deliver to
+     Millennium certificates representing the Purchased Shares, issued in the
+     names as directed by Millennium.
+
+          6.2 License Agreement. Millennium shall execute and deliver to HAEC
+     the License Agreement.
+
+                                       7
+
+
+<PAGE>
+
+
+
+         6.3 Warrant. HAEC shall execute and deliver to Millennium the Warrant
+     (the "Warrant") attached hereto as Exhibit "B", whereby Millennium is
+     granted the right to purchase 750,000 shares of the Common Stock at a
+     purchase price of $1.00 per share, as more particularly described therein.
+
+          6.4 Registration Rights Agreement. Each of HAEC and Millennium shall
+     execute and deliver the Registration Rights Agreement ("Registration Rights
+     Agreement") attached to the Warrant as Appendix A.
+
+     7. Further Acts. HAEC covenants and agrees that, from time to time on and
+after the Closing Date, at the request of Millennium, it will execute and
+deliver all documents that may be reasonably required to confirm and assure
+Millennium of its title and interest in the Purchased Shares.
+
+     8. Expenses and Commissions. Each of HAEC and Millennium shall pay their
+respective expenses incident to the transactions contemplated by this Agreement.
+Millennium and HAEC each represent to the other that there are no agents or
+brokers entitled to a commission in connection with the transaction contemplated
+by this Agreement. HAEC hereby agrees to indemnify and hold harmless Millennium
+against any and all claims of any agent, broker, finder or similar party
+claiming through HAEC, and Millennium hereby agrees to indemnify and hold
+harmless HAEC against any and all claims of any agent, broker, finder, or other
+similar party claiming through Millennium.
+
+     9. Miscellaneous.
+
+          9.1 Notices. All notices, requests, consents and other communications
+     hereunder shall be in writing and shall be deemed to have been given if
+     personally delivered or mailed, first class, registered or certified mail,
+     postage prepaid to the following:
+
+     If to Millennium, to:
+
+        Millennium Seismic, Inc.
+        7751 San Felipe, Suite 100
+        Houston, Texas 77063
+        Attn: Jesse R. Marion, President
+        Telecopy No.: 713-789-2304
+
+        If to HAEC, to:
+        Houston American Energy Corp.
+        801 Travis, Suite 2020
+        Houston, Texas 77002
+        Attention:  John F. Terwilliger, President
+        Telecopy No. (713) 222-6440
+
+
+     or to such other address as shall be given in writing by any party to the
+     others. If sent by U.S. mail in accordance with this Section 9.1, such
+     notices shall be deemed given and received on the earlier to occur of (a)
+     the recipient's actual receipt thereof, or (b) the third business day after
+     deposit thereof, with the United States Postal Service in the manner herein
+     provided. Notices may also be transmitted by facsimile, provided that such
+     facsimile transmission is evidenced by
+
+                                       8
+
+<PAGE>
+
+
+     electronic confirmation of delivery. Notices delivered by any other means
+     shall be deemed given and received upon the recipient's actual receipt
+     thereof.
+
+          9.2 Assignment. This Agreement may not be assigned by any party hereto
+     without the prior written consent of the other party. This Agreement shall
+     be binding upon and inure to the benefit of the parties hereto and their
+     respective heirs, legal representatives, successors and permitted assigns.
+
+          9.3 Entire Agreement. This Agreement, together with the Exhibits and
+     Schedules attached hereto, each of which are incorporated herein by this
+     reference, shall comprise the entire agreement among the parties hereto
+     regarding the subject matter hereof and thereof, and this Agreement
+     supersedes all prior agreements and understandings whether written or oral.
+
+          9.4 GOVERNING LAW; VENUE. THIS AGREEMENT SHALL BE GOVERNED BY THE LAWS
+     OF THE STATE OF TEXAS. VENUE FOR ANY DISPUTE ARISING OUT OF THIS AGREEMENT
+     SHALL BE PROPER IN ANY COURT OF COMPETENT JURISDICTION IN HOUSTON, HARRIS
+     COUNTY, TEXAS.
+
+          9.5 Counterparts. This Agreement may be executed in several
+     counterparts, each of which shall be deemed an original, but all of which
+     together shall constitute one and the same instrument. Signatures delivered
+     by telecopy shall be considered for all purposes to be the same as original
+     signatures.
+
+     IN WITNESS WHEREOF, this Agreement has been duly executed by the parties as
+of the Effective Date.
+
+                                 HOUSTON AMERICAN ENERGY CORP.
+
+
+                                 By:  /s/  John F. Terwilliger
+                                      ------------------------------------------
+                                      John F. Terwilliger, President
+
+
+
+                                 MILLENNIUM SEISMIC, INC.
+
+
+                                 By: /s/  Jesse R. Marion
+                                     -------------------------------------------
+                                     Jesse R. Marion, President
+
+                                       9
+
+
+<PAGE>
+
+
+                                   EXHIBIT A
+
+                               LICENSE AGREEMENT
+
+
+<PAGE>
+
+                                   EXHIBIT B
+
+                                    WARRANT
+
+
+
+</TEXT>
+</DOCUMENT>

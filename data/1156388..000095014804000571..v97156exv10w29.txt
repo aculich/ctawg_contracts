@@ -1,0 +1,353 @@
+<DOCUMENT>
+<TYPE>EX-10.29
+<SEQUENCE>4
+<FILENAME>v97156exv10w29.txt
+<DESCRIPTION>EXHIBIT 10.29              )
+<TEXT>
+<PAGE>
+
+                                                                   EXHIBIT 10.29
+
+                                JOINDER AGREEMENT
+
+         THIS JOINDER AGREEMENT ("AGREEMENT") dated as of January 28,2004 is
+made and entered into by and among Big 5 Corp., a Delaware corporation
+("EXISTING BORROWER"), and New Borrower (defined below), on the one hand, and
+the financial institutions identified as "Lenders" on the signature pages hereof
+(such lenders, together with their respective successors and assigns, are
+collectively "LENDERS"), and The CIT Group/Business Credit, Inc., a New York
+corporation (in its capacity as agent for Lenders, "AGENT"), on the other hand.
+Initially capitalized terms used herein and not defined herein shall have the
+meanings assigned to them in the Financing Agreement (defined below).
+
+                                    RECITALS:
+
+         A.       Existing Borrower, Agent and Lenders have previously entered
+into that certain Amended and Restated Financing Agreement, dated as of March
+20, 2003 (the "FINANCING AGREEMENT"; the Financing Agreement and the documents,
+instruments and agreements executed in connection therewith are collectively
+"FINANCING DOCUMENTS"), pursuant to which, subject to the terms and conditions
+set forth therein, Lenders acting through Agent have made certain credit
+facilities available to Existing Borrower;
+
+         B.       Existing Borrower has previously formed a new Subsidiary, Big
+5 Services Corp., a Virginia corporation ("NEW BORROWER"), which will own and
+operate Existing Borrower's gift card services business. In connection
+therewith, Existing Borrower has transferred certain assets and liabilities
+related to the gift cards services business to, and entered into certain
+intercompany agreements with, New Borrower in order to effectuate the transfer
+of the gift card operations (such transactions are collectively referred to as
+the "RESTRUCTURE");
+
+         C.       In connection with the Restructure, Existing Borrower has
+requested that Agent and Lenders permit New Borrower to be added and joined as
+an additional borrower and obligor under the Financing Documents and, subject to
+the terms and conditions set forth herein, Agent and Lenders have agreed to
+permit such addition; and
+
+         D.       Existing Borrower, New Borrower, Lenders and Agent desire to
+enter into this Agreement in order to provide for the joinder of New Borrower as
+a co-borrower and co-obligor under the Financing Documents.
+
+                                   AGREEMENT:
+
+         NOW, THEREFORE, In consideration of the foregoing premises, the mutual
+covenants and conditions herein contained, and for other good and valuable
+consideration, the receipt and sufficiency of which are hereby acknowledged, the
+parties agree as follows:
+
+         1.       Joinder. New Borrower hereby agrees as follows in favor of
+Agent and Lenders:
+
+                  (a)      Effective as of the date hereof, New Borrower hereby
+agrees to become a borrower and obligor under, and to bind itself to, the
+Financing Agreement and each other Financing Document to which Existing Borrower
+is bound as of the date hereof, and, in such capacity, to
+
+                                       1
+<PAGE>
+
+jointly and severally assume and bind itself to all debts, liabilities and
+obligations of Existing Borrower thereunder (including, without limitation, all
+Obligations).
+
+                  (b)      In furtherance but without limitation of the
+foregoing, as security for the prompt payment in full of all Obligations, New
+Borrower hereby pledges and grants to Agent on behalf of Lenders a continuing
+general lien upon, and security interest in, all of its Collateral. To
+facilitate the foregoing grant of a security interest, New Borrower agrees to
+execute (and, if required by Agent, acknowledge) and deliver to Agent such
+instruments and agreements as Agent may reasonably require in connection
+herewith, including, without limitation, UCC-1 financing statements, collateral
+assignments, legal opinions, resolutions, incumbency certificates, good standing
+certificates, qualifications to do business and other, related documents,
+instruments, certificates or agreements as Agent may reasonably request to give
+effect to this joinder of New Borrower as a borrower and obligor under the
+Financing Documents.
+
+                  (c)      To induce Agent and Lenders to accept New Borrower as
+a borrower and obligor under the Financing Documents, New Borrower hereby agrees
+to and makes each and every representation and warranty made in the Financing
+Agreement and the other Financing Documents in respect of Existing Borrower
+generally, as fully and completely as if New Borrower were an original party
+thereto (except to the extent that such representations and warranties relate
+solely to an earlier date).
+
+         2.       Conditions to the Effectiveness of this Agreement. This
+Agreement shall not become effective unless and until Agent shall have received
+each of the documents and other items listed on Schedule 1 attached hereto, each
+to be in form and substance reasonably satisfactory to Agent and its counsel,
+and, as applicable, duly executed and delivered by the party or parties thereto.
+
+         3.       Intercompany Transactions and Stand-Alone Covenants. The
+parties hereto acknowledge and agree that the intent and purpose of this
+Agreement is (i) to permit New Borrower to have access to the borrowing capacity
+of Existing Borrower under the Financing Agreement; (ii) to secure the payment
+and performance of the Obligations arising under the Financing Documents with
+all of New Borrower's Collateral; and (iii) to permit New Borrower and Existing
+Borrower to enter into or engage in transactions, relationships and agreements
+with each other that might otherwise be restricted by the terms and provisions
+of the Financing Documents. It is not the purpose and intent of this Agreement
+that New Borrower be required or obligated to maintain or comply with, on a
+stand-alone basis, any particular financial covenants (i.e., Existing Borrower
+and New Borrower, for purposes of the Financing Documents only, shall be deemed
+to be one entity). This Agreement and the Financing Documents shall be
+construed in light of these intents and purposes. In furtherance of this,
+
+                  (a)      Provisions of the Financing Documents which limit,
+condition or restrict in any manner the ability of Existing Borrower and New
+Borrower to engage in any activity, including, but not limited to the negative
+covenants provided for in Section 6.10 or 6.15 of the Financing Agreement, shall
+not be deemed to limit, condition or restrict in any manner any transactions,
+agreements or relationships solely as between Existing Borrower and New
+Borrower, including, but not limited to, the incurrence of Indebtedness, the
+payment of dividends or the making of distributions, and the making of advances,
+loans or investments;
+
+                  (b)      Any provision of the Financing Documents which, prior
+to the execution and delivery of this Agreement, required Existing Borrower,
+either alone or on a consolidated basis with
+
+                                       2
+<PAGE>
+
+its Subsidiaries, to maintain certain financial covenants (e.g., Section 6.9 of
+the Financing Agreement) or to provide financial statements to the Agent or the
+Lenders (e.g., Section 6.8 of the Financing Agreement), shall not be construed
+to apply to New Borrower as a stand-alone entity, so long as New Borrower is and
+continues to be a part of the consolidated group which includes Existing
+Borrower;
+
+                  (c)      Any provision of the Financing Documents which refers
+to the "Company and its Subsidiaries" shall not be construed to apply to New
+Borrower other than as a Subsidiary of Existing Borrower; and
+
+                  (d)      New Borrower shall be entitled to obtain borrowings
+under the Financing Agreement at any time that Existing Borrower would otherwise
+be able to obtain such borrowings.
+
+         4.       Miscellaneous.
+
+                  (a)      Effect of Agreement. Except as specifically set forth
+to the contrary in Section 3 hereof, all references to the "Company" in the
+Financing Agreement and the other Financing Documents shall be deemed to include
+New Borrower with the same force and effect as if New Borrower were an original
+signatory thereto. The Financing Agreement and Financing Documents shall be read
+in conjunction with this Agreement. This Agreement shall be considered a
+Financing Document.
+
+                  (b)      Reaffirmation of Representations and Warranties.
+Existing Borrower hereby ratifies and reaffirms all of the representations and
+warranties set forth in the Financing Agreement and the other Financing
+Documents, except to the extent that such representations and warranties relate
+to an earlier date.
+
+                  (c)      Ratification. Existing Borrower hereby restates,
+ratifies and reaffirms each and every term and condition set forth in the
+Financing Agreement and the Financing Documents effective as of the date hereof.
+In connection with the foregoing, nothing set forth in this Agreement shall be
+deemed to be a waiver, consent, or modification of any other term or condition
+of the Financing Documents with respect to Existing Borrower's duties and
+obligations hereunder.
+
+                  (d)      Estoppel. To induce Agent and Lenders to enter into
+this Agreement, Existing Borrower hereby acknowledges and agrees that, as of the
+date hereof, no Default or Event of Default has occurred and is continuing and,
+in addition, there exists no right of offset, defense, counterclaim or objection
+in favor of Existing Borrower in respect to any Obligations.
+
+                  (e)      Governing Law. This Agreement shall be governed by,
+and construed in accordance with, the laws of the State of California and all
+applicable federal laws of the United States of America.
+
+                  (f)      Reaffirmation of Guarantor. By its execution below,
+Guarantor hereby confirms that its guaranty executed and delivered in connection
+with the Financing Agreement remains in full force and effect.
+
+                  (g)      Costs and Expenses. Existing Borrower agrees to pay
+on demand all reasonable costs and out-of-pocket expenses of Agent in connection
+with the preparation, execution, delivery and enforcement of this Agreement and
+all other agreements and instruments executed in
+
+                                       3
+<PAGE>
+
+connection herewith, including, without limitation, the reasonable fees and
+out-of-pocket expenses of the Agent's counsel and the cost of any searches
+respecting New Borrower or its assets.
+
+                  (h)      Counterparts; Effectiveness. This Agreement may be
+executed in any number of counterparts and by different parties on separate
+counterparts, including by facsimile signature, each of which when so executed
+and delivered shall be deemed to be an original. All such counterparts, taken
+together, shall constitute but one and the same Agreement. This Agreement shall
+become effective upon the execution of a counterpart of this Agreement by each
+of the parties hereto.
+
+   [the remainder of this page left blank intentionally; signatures to follow]
+
+                                       4
+<PAGE>
+
+       IN WITNESS WHEREOF, the parties hereto have caused this Joinder Agreement
+to be executed and delivered by their proper and duly authorized officers as of
+the date set forth above.
+
+                                       AGENT:
+
+                                       THE CIT GROUP/BUSINESS CREDIT, INC.,
+                                       a New York corporation
+
+                                       By: /s/ Adrian Avalos
+                                           -------------------------------
+                                       Name: Adrian Avalos
+                                       Title: Vice President
+
+                                       S-1
+                               Joinder Agreement
+
+<PAGE>
+
+                                       EXISTING BORROWER:
+
+                                       BIG 5 CORP.,
+                                       a Delaware corporation
+
+                                       By: /s/ Charles P. Kirk
+                                           ----------------------------
+                                       Name: Charles P. Kirk
+                                       Title: Senior Vice President and
+                                              Chief Financial Officer
+
+                                       NEW BORROWER:
+
+                                       BIG 5 SERVICES CORP.,
+                                       a Virginia corporation
+
+                                       By: /s/ Charles P. Kirk
+                                          --------------------
+                                       Name: Charles P. Kirk
+                                       Title: Senior Vice President and
+                                              Chief Financial Officer
+                                       GUARANTOR:
+
+                                       BIG 5 SPORTING GOODS CORPORATION,
+                                       a Delaware corporation
+
+                                       By: /s/ Charles P. Kirk
+                                           ------------------------
+                                       Name: Charles P. Kirk
+                                       Title: Senior Vice President and
+                                              Chief Financial Officer
+
+                                       LENDERS:
+
+                                       THE CIT GROUP/BUSINESS CREDIT, INC.
+
+                                       By: /s/ Adrian Avalos
+                                           --------------------------------
+                                       Name: Adrian Avalos
+                                       Title: Vice President
+
+                                       S-2
+                                Joinder Agreement
+
+<PAGE>
+
+                                       FLEET CAPITAL CORPORATION
+
+                                       By: /s/ MATTHEW R. VAN STEENHUYSE
+                                           -------------------------------
+                                       Name: MATTHEW R. VAN STEENHUYSE
+                                       Title: SENIOR VICE PRESIDENT
+
+                                       BANK OF AMERICA, N.A.
+
+                                       By /s/ Stephen King
+                                          --------------------------
+                                       Name: Stephen King
+                                       Title: Vice President
+
+                                       TRANSAMERICA BUSINESS CAPITAL
+                                       CORPORATION
+
+                                       By: [ILLEGIBLE]
+                                          ---------------------------------
+                                       Name: [ILLEGIBLE]
+                                       Title: [ILLEGIBLE]
+
+                                       PNC BANK, NATIONAL ASSOCIATION
+
+                                       By: /s/ Mark A. Tito
+                                           ------------------------------
+                                       Name: Mark A. Tito
+                                       Title: Vice President
+
+                                       S-3
+                                Joinder Agreement
+
+<PAGE>
+
+                                   SCHEDULE 1
+
+-        That certain Co-Obligor Agreement, dated as of January 28, 2004, by and
+         between Existing Borrower and New Borrower;
+
+-        UCC-1 Financing Statements) duly prepared and delivered by New
+         Borrower;
+
+-        Certificate of the Secretary of New Borrower certifying to the
+         following: (1) a copy of resolutions of the board of directors of New
+         Borrower authorizing the execution, delivery and performance of this
+         Agreement, the Co-Obligor Agreement, the other Financing Documents, and
+         the transactions contemplated thereby, and such other documents
+         relating thereto as the Agent reasonably may request; (2) a certified
+         copy of the articles of incorporation of New Borrower; (3) a certified
+         copy of the by-laws of New Borrower; and (4) signature and incumbency
+         certificates of New Borrower's officers who are authorized to execute
+         this Agreement and the other Financing Documents to which New Borrower
+         is to be a party;
+
+-        Certificate of Good Standing from New Borrower's jurisdiction of
+         organization and the secretary of state of each jurisdiction in which
+         New Borrower is qualified to do business, each dated a recent date
+         prior to the date of this Agreement;
+
+-        Such opinions of counsel for New Borrower as the Agent shall reasonably
+         request, such opinion to be in a form, scope, and substance reasonably
+         satisfactory to Agent and its counsel; and
+
+-        New Borrower and Existing Borrower shall execute and deliver to the
+         Agent for the benefit of the Lenders any and all other loan and
+         security documents reasonably necessary to consummate the lending
+         arrangement contemplated between the New Borrower and Existing
+         Borrower, on the one hand, and the Lenders, on the other hand,
+         including, without limitation, control agreements over any and all of
+         New Borrower's deposit or security accounts.
+
+                                   Schedule 1
+                                Joinder Agreement
+
+
+</TEXT>
+</DOCUMENT>

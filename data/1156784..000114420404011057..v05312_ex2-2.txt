@@ -1,0 +1,819 @@
+<DOCUMENT>
+<TYPE>EX-2.2
+<SEQUENCE>3
+<FILENAME>v05312_ex2-2.txt
+<TEXT>
+                                                                     EXHIBIT 2.2
+
+                                    AGREEMENT
+
+         AGREEMENT  (the  "Agreement"),  dated  as of June 23,  2004,  by  and
+between Encompass Group Affiliates,  Inc., a Delaware corporation ("Encompass"),
+and  Hy-Tech   Technology  Group,   Inc.,  a  Delaware   corporation   ("Hy-Tech
+Technology"),  and  Hy-Tech  Computer  Systems,  Inc.,  a  Delaware  corporation
+("Hy-Tech Computer Systems" and together with Hy-Tech Technology, "HYTT").
+
+                                    Recitals
+
+         WHEREAS,  HYTT has been engaged in the  business of supplying  computer
+systems, components and peripherals; and
+
+         WHEREAS,  Martin Nielson is the Chairman and Chief Executive Officer of
+Hy-Tech Technology ("Nielson"); and
+
+         WHEREAS,  HYTT has entered into a (i) memorandum of understanding  (the
+"C-T  Memorandum")  with Cyber-Test,  Inc. ("C-T") to acquire the assets of C-T,
+(ii) a memorandum of understanding  (the "BCD  Memorandum")  with BCD 2000, Inc.
+("BCD") to acquire the assets of BCD,  and (iii) a memorandum  of  understanding
+(the "PMIC  Memorandum" and together with the C-T Memorandum and BCD Memorandum,
+the "Memoranda") with Pacific Magtron International,  Inc. ("PMIC") whereby PMIC
+would acquire the assets of HYTT; and
+
+         WHEREAS,   HYTT  no  longer  desires  to  consummate  the  transactions
+contemplated under the Memoranda; and
+
+         WHEREAS, Encompass desires to enter into negotiations with each of C-T,
+BCD and PMIC; and
+
+         WHEREAS,  in connection with the negotiations with each of C-T, BCD and
+PMIC,  Encompass  desires to employ Nielson as its President and Chief Executive
+Officer upon  consummation of the transactions  contemplated by the negotiations
+(the "Contemplated Transactions"); and
+
+         WHEREAS,  in connection with the Contemplated  Transactions,  Encompass
+desires to obtain  certain  rights and license  certain  assets from HYTT on the
+terms and conditions contained herein.
+
+         NOW,  THEREFORE,  in consideration of the mutual  agreements  contained
+herein,  and intending to be legally bound hereby,  the parties  hereto agree as
+follows:
+
+
+<PAGE>
+
+                     ARTICLE I. MEMORANDA OF UNDERSTANDING;
+
+                               LICENSE AGREEMENTS
+
+         1.1 Memoranda of Understanding
+
+                  (a) HYTT and its affiliates  hereby (i) acknowledge  that they
+no longer desire to consummate the  transactions  contemplated  by the Memoranda
+and have ceased all  negotiations in furtherance  thereof and (ii) waive any and
+all rights they may have, if any, with respect to Encompass' and its affiliates'
+pursuit of the Contemplated Transactions.
+
+                  (b) HYTT and its affiliates  hereby further  acknowledge  that
+Encompass and its affiliates  desire to initiate  negotiations  with, and pursue
+inquiries and solicit  offers from,  each of C-T, BCD and PMIC in furtherance of
+the Contemplated  Transactions;  and Encompass and its affiliates shall have the
+right to initiate,  solicit,  negotiate or pursue any such inquiry,  proposal or
+offer relating to the Contemplated Transactions.
+
+                  (c) Neither HYTT nor any of its  affiliates  shall  attempt to
+initiate,  solicit,  negotiate or pursue any inquiry, proposal or offer with any
+of C-T, BCD and PMIC relating to any acquisition  and/or financing of any of the
+foregoing,  whether by purchase of assets or stock, by merger,  by consolidation
+or other reorganization or by any other transaction.
+
+         1.2 Offer of Employment.  Upon  consummation of the Closing (as defined
+below),  Encompass shall have the sole and exclusive right to extend an offer of
+employment  to Nielson,  to become an  executive  officer of  Encompass  and its
+affiliates  as of  the  Closing,  substantially  on  the  terms  and  conditions
+contained  in an  employment  agreement to be entered  into among  Nielson,  and
+Encompass and its  affiliates,  the form of which is attached  hereto as Exhibit
+"A" (the "Employment Agreement"). Prior to the Closing, HYTT shall not engage in
+any  activity  that  would  dissuade  Nielson  from  accepting  employment  with
+Encompass and its affiliates.  Prior to the Closing,  HYTT shall release Nielson
+from any and all  obligations  under his  employment  agreement with HYTT, or at
+law. At Closing,  HYTT shall waive any and all rights with  respect to Nielson's
+employment,  or the  termination  of Nielson's  employment,  including,  without
+limitation,  any restriction on his employment or his  activities.  On and after
+the Closing Date,  HYTT shall not solicit,  directly or  indirectly,  Nielson to
+leave the employ of  Encompass  or any of its  affiliates.  At Closing,  Nielson
+shall resign from any and all positions as an officer  and/or  director of HYTT,
+except  that  Executive  may  remain  solely as an outside  director  of Hy-Tech
+Technology, but not as Chairman of the Board.
+
+         1.3 Non-Compete.  At the Closing, Encompass and HYTT shall enter into a
+Non-Compete  Agreement,  substantially  in the form of Exhibit  "B" hereto  (the
+"Non-Compete  Agreement"),  whereby HYTT shall agree not to compete, directly or
+indirectly,  with the businesses of Encompass or its affiliates;  provided that,
+for a period of three (3) months after the  Closing,  HYTT shall be permitted to
+sell, in the ordinary course of its business,  any inventory of HYTT not sold on
+or prior to the Closing.
+
+                                       2
+<PAGE>
+
+The rights of Encompass and its affiliates contained in Section 1.1, Section 1.2
+and Section 1.3 hereof shall be collectively referred to as the "Rights".
+
+         1.4 License Agreements. On the Closing Date,
+
+                  (a) HYTT shall enter into a license  agreement,  substantially
+in the form of Exhibit "C" hereto (the "Customer Lists License Agreement"), with
+Encompass  pursuant  to which  HYTT  shall  grant  to  Encompass  an  exclusive,
+worldwide,   royalty-free,   fully  paid  up,  perpetual,   non-terminable   and
+irrevocable  right and license to use, in any manner  determined by Encompass or
+its affiliates, the customer lists of HYTT (the "Customer Lists"); and
+
+                  (b) HYTT shall enter into a license  agreement,  substantially
+in the form of Exhibit "D" hereto (the "Websites License Agreement" and together
+with the Customer  Lists  License  Agreement,  the "License  Agreements"),  with
+Encompass  pursuant  to which  HYTT  shall  grant  to  Encompass  an  exclusive,
+worldwide,   royalty-free,   fully  paid  up,  perpetual,   non-terminable   and
+irrevocable right and license to use, in any manner determined by Encompass, the
+following websites and any and all derivatives thereof and intellectual property
+related thereto (the "Websites"):
+
+                            (i) www.e-hytech.com;
+
+                            (ii) www.hy-tech.com;
+
+                            (iii) www.pc-xpress.com;
+
+                            (iv) www.PXCP.com; and
+
+                            (v) www.computerliquidators.com.
+
+         1.5 Assumption of  Liabilities.  Subject to the terms and conditions of
+this Agreement, at the Closing, Encompass shall assume and agree to perform, pay
+or  discharge  all  liabilities  and  obligations  of HYTT under  those  certain
+convertible debentures (the "Convertible  Debentures") set forth in Schedule 1.5
+hereto (the  assumption of such  liabilities  shall be referred to herein as the
+"Consideration")  up to an  amount  not  to  exceed  $503,300,  pursuant  to the
+Assumption  Agreement,  substantially  in the form of Exhibit  "E"  hereto  (the
+"Assumption  Agreement").  Except  as set  forth  in  this  Section  1.5 and the
+Assumption  Agreement,  Encompass  shall not  assume or be  responsible  for any
+liabilities  or  obligations  of HYTT.  On and after  the  Closing,  HYTT  shall
+perform,  pay or  discharge  all  liabilities  and  obligations  relating to the
+Rights,  the License  Agreements,  the Release and Waiver (as defined in Section
+4.1  below),  and any other  rights and assets of HYTT,  other than the  Assumed
+Liabilities.
+
+                                       3
+<PAGE>
+
+                               ARTICLE II. CLOSING
+
+         2.1  Closing.  The  closing of the  transactions  contemplated  by this
+Agreement  (the  "Closing")  shall take place at the  offices of Eckert  Seamans
+Cherin & Mellott, LLC, 1515 Market Street, 9th Floor, Philadelphia, Pennsylvania
+19102,  at 10:00 A.M.,  on June 1, 2004 or such other time and date as Encompass
+and HYTT may agree. The date on which the Closing actually occurs is referred to
+herein as the "Closing Date."
+
+         2.2 Deliveries by Seller.
+
+                  (a) At the  Closing,  HYTT  shall  deliver  to  Encompass  the
+following:
+
+                           (i)  an   executed   counterpart   to  each   License
+Agreement;
+
+                           (ii) the Customer  Lists (which shall be delivered on
+CD Rom media in a file format that is compatible with Microsoft Excel);
+
+                           (iii)  an  executed  counterpart  of the  Non-Compete
+Agreement;
+
+                           (iv) a certificate,  dated the Closing Date, executed
+by the Secretary of Hy-Tech  Technology,  certifying as to Hy-Tech  Technology's
+certificate of incorporation (which shall be certified by the secretary of state
+of the state of its  jurisdiction of  incorporation),  bylaws or other governing
+documents and  resolutions  adopted by Hy-Tech  Technology's  board of directors
+with respect to the transactions contemplated hereby attached thereto;
+
+                           (v) a certificate,  dated the Closing Date,  executed
+by the Secretary of Hy-Tech Computer Systems,  certifying as to Hy-Tech Computer
+Systems' certificate of incorporation (which shall be certified by the secretary
+of state of the state of its  jurisdiction  of  incorporation),  bylaws or other
+governing  documents and resolutions  adopted by Hy-Tech Computer Systems' board
+of  directors  with respect to the  transactions  contemplated  hereby  attached
+thereto;
+
+                           (vi) a  certificate  of  good  standing  for  each of
+Hy-Tech  Technology  and  Hy-Tech  Computer  Systems  from its  jurisdiction  of
+incorporation;
+
+                           (vii) an  opinion  of  Gottbetter  &  Partners,  LLP,
+counsel to HYTT,  dated the Closing Date, in the form attached hereto as Exhibit
+"F";
+
+                                       4
+<PAGE>
+
+                           (viii) all consents,  approvals and authorizations of
+all third parties and governmental  bodies that are necessary in connection with
+(A)  the  execution  and  delivery  by HYTT of  this  Agreement  or the  Related
+Instruments,  and (B) the consummation by HYTT of the transactions  contemplated
+hereby or thereby; and
+
+                           (ix)  all  other  previously  undelivered  documents,
+instruments  and  writings  required to be  delivered by HYTT to Encompass at or
+prior to the  Closing  pursuant  to this  Agreement  or  otherwise  required  in
+connection herewith.
+
+         2.3  Deliveries by Buyer.  At the Closing,  Encompass  shall deliver to
+HYTT the following:
+
+                  (a) the Assumption Agreement;
+
+                  (b) an  opinion  of  Eckert  Seamans  Cherin &  Mellott,  LLC,
+counsel to Encompass,  dated the Closing  Date,  in the form attached  hereto as
+Exhibit "G"; and
+
+                  (c) all other previously  undelivered  documents,  instruments
+and  writings  required to be  delivered by Encompass to HYTT at or prior to the
+Closing pursuant to this Agreement or otherwise required in connection herewith.
+
+                        ARTICLE III. REPRESENTATIONS AND
+
+                                   WARRANTIES
+
+         3.1 Each party represents and warrants to the other as follows:
+
+                  (a)  Organization,  Etc.  Each  party  is a  corporation  duly
+organized,  validly  existing  and  in  good  standing  under  the  laws  of its
+jurisdiction of incorporation. Each party has the power and authority to conduct
+its  business  as it is  currently  being  conducted  and to own and  lease  the
+property and assets that it now owns and leases.
+
+                  (b)  Authorization.  Each  party has all  requisite  corporate
+power  and  authority  to  enter  into,  execute,  deliver  and  consummate  the
+transactions  contemplated  by this Agreement and any instruments and agreements
+contemplated herein required to be executed and delivered by it pursuant to this
+Agreement (collectively,  the "Related Instruments").  The board of directors of
+each  party  has  taken  all  action   required  by  law,  the   certificate  of
+incorporation,  bylaws  or  other  governing  documents  of each  such  party or
+otherwise to authorize  the  execution  and delivery of this  Agreement  and the
+Related Instruments and the consummation of the transactions contemplated hereby
+and thereby.
+
+                  (c) No  Violation.  Neither the execution and delivery by such
+party of this Agreement or any of the Related Instruments,  nor the consummation
+by such  party of the  transactions  contemplated  hereby or  thereby,  will (i)
+
+                                       5
+<PAGE>
+
+violate any provision of the laws of its jurisdiction of  incorporation,  or the
+certificate of incorporation, bylaws or other governing documents of such party,
+or (ii)  violate,  conflict  with,  or  constitute  a  default  (or an  event or
+condition  which,  with  notice  or lapse of time or both,  would  constitute  a
+default)  under,  or result in the termination of, or accelerate the performance
+required  by, or cause the  acceleration  of the  maturity of any  liability  or
+obligation  pursuant to, or result in the creation or imposition of any security
+interest,  lien,  charge or other  encumbrance  upon any of such party's  assets
+under any note,  bond,  mortgage,  indenture,  deed of  trust,  license,  lease,
+contract, commitment,  understanding,  arrangement,  agreement or restriction of
+any kind to which  such  party is a party or by which such party may be bound or
+affected or to which any of such party's  assets may be subject,  or violate any
+statute or law or any judgment,  decree, order, writ, injunction,  regulation or
+rule of any court or governmental authority,  except, in the case of clause (ii)
+above, for any such event that would not, individually or in the aggregate, have
+a material  adverse  effect or  prohibit  or restrict  the  consummation  of the
+transactions contemplated by this Agreement or the Related Instruments.
+
+                  (d) Litigation,  Orders. There are no claims,  actions, suits,
+proceedings, investigations or inquiries pending before any court, arbitrator or
+governmental or regulatory  official or office,  or, to such party's  knowledge,
+threatened  against or affecting  such party that questions the validity of this
+Agreement,  the  transactions  contemplated  hereby or any action taken or to be
+taken by such party pursuant to this Agreement,  at law or in equity,  before or
+by any federal,  state,  local or foreign  governmental  authority;  nor, to the
+knowledge  of such party,  is there any valid basis for any such claim,  action,
+suit, proceeding, inquiry or investigation.
+
+                  (e) Consents and  Approvals.  Other than  consents  previously
+obtained,  no party is required to obtain,  transfer or cause to be  transferred
+any  consent,  approval,  license,  permit  or  authorization  of,  or make  any
+declaration,  filing or registration  with, any third party or any  governmental
+authority in  connection  with (a) the  execution  and delivery by such party of
+this Agreement or the Related Instruments, or (b) the consummation by such party
+of the transactions contemplated hereby or thereby.
+
+                  (f) No  Injunction.  There is no effective  injunction,  writ,
+preliminary  restraining  order or other  order  issued by a court of  competent
+jurisdiction  restraining or prohibiting the  consummation  of the  transactions
+contemplated hereby.
+
+         3.2 Each of Hy-Tech  Technology and Hy-Tech Computer Systems represents
+and warrants to Encompass as follows:
+
+                  (a) Websites.
+
+                           (i) At  Closing,  upon  release by the holders of the
+Convertible  Debentures (the "Holders") of the liens on the assets of HYTT, HYTT
+shall own, free and clear of all liens, mortgages,  security interests,  charges
+
+                                       6
+<PAGE>
+
+and encumbrances and has good and merchantable title to, or otherwise  possesses
+all rights necessary to use and license all Websites and all other  intellectual
+property related thereto.
+
+                           (ii) No  notice  has been  received  by HYTT,  and no
+claims  have  been  asserted  by any  person,  challenging  or  questioning  the
+ownership, validity, enforceability or use by HYTT or any license thereof of any
+of the Websites and, to HYTT's  knowledge,  there is no valid basis for any such
+claim,  and the use or other  exploitation  of the Websites by HYTT or Encompass
+and its affiliates does not infringe on or dilute the rights of any person; and,
+to HYTT's  knowledge,  no other person is  infringing on the rights of HYTT with
+respect to any of the Websites.
+
+                  (b) Customer Lists.
+
+                           (i) At  Closing,  upon  release  of the  liens on the
+assets of HYTT by the  Holders,  HYTT  shall  own,  free and clear of all liens,
+mortgages,  security  interests,  charges  and  encumbrances  and has  good  and
+merchantable  title to, or otherwise  possesses all rights  necessary to use and
+license the Customer Lists and all rights related thereto.
+
+                           (ii) The Customer Lists  constitute true and accurate
+lists of all customers of HYTT's business;  HYTT has received no notice or other
+communication from, and there has been no indication by, any such customer of an
+intention to discontinue or change the terms of its relationship with HYTT.
+
+                  (c) Convertible  Debentures.  The aggregate amount outstanding
+under the  Convertible  Debentures  set forth on Schedule  1.5  attached  hereto
+represents the entire amount due and owing to the Holders.
+
+                  (d) Fair  Value.  Each of  Hy-Tech  Technology's  and  Hy-Tech
+Computer  Systems'  boards of directors has  determined  that the  Consideration
+represents fair value for the Rights, the License Agreements and the Release and
+Waiver.
+
+                  (e) No Brokers.  Other than its  engagement of Altos  Bancorp,
+Inc.,  HYTT has not taken any  action  that  would give rise to any claim by any
+person for brokerage commissions,  finder's fees or similar payments relating to
+this Agreement or the transactions contemplated hereby.
+
+                  (f) Note Payable. That certain Promissory Note in the original
+principal  amount of $105,000,  issued in April 2002 by HYTT to Bradley Conklin,
+Margaret Conklin and Susan McNear (collectively,  the "Note Holders"),  has been
+paid in full and HYTT has no further  obligations,  and the Note Holders have no
+further rights, thereunder, payment or otherwise.
+
+                                       7
+<PAGE>
+
+                  (g) Disclosure.
+
+                           (i) No  representation  or warranty by HYTT contained
+in this Agreement, and no statement contained in any document, list, certificate
+or  other  writing  furnished  or to be  furnished  by or on  behalf  of HYTT to
+Encompass or any of its  representatives  in  connection  with the  transactions
+contemplated hereby, contains or will contain any untrue statement of a material
+fact,  or omits or will omit to state any material fact  necessary,  in light of
+the  circumstances  under  which  it was or will be  made,  in order to make the
+statements herein or therein not misleading.
+
+                           (ii)  HYTT does not have  knowledge  of any fact that
+has  specific  application  to HYTT  (other  than  general  economic or industry
+conditions)  that may  materially  adversely  affect  the  Rights,  the  License
+Agreements  and the  Release  and  Waiver,  which has not been set forth in this
+Agreement.
+
+                           (iii) No investigation by, or knowledge of, Encompass
+or its agents shall affect the representations and warranties given by HYTT.
+
+         3.3 Encompass represents and warrants to HYTT as follows:
+
+                  (a) Brokers.  Other than its  engagement of Maximum  Ventures,
+Inc. ("Maximum"), Encompass has not taken any action that would give rise to any
+claim by any person for brokerage commission,  finder's fees or similar payments
+relating to this Agreement or the transactions contemplated hereby.
+
+                           ARTICLE IV. GENERAL RELEASE
+
+         4.1 Full  Release and Waiver.  Each of Hy-Tech  Technology  and Hy-Tech
+Computer  Systems,  on behalf  of  itself  and each of its  current  and  former
+parents, subsidiaries,  affiliates, officers, shareholders,  directors, members,
+predecessors,   successors,   employees,  agents,  attorneys,   assigns,  heirs,
+executors,  receivers,  trustees,  personal  representatives  and administrators
+(collectively,  the "Related  Persons"),  hereby releases,  waives,  acquits and
+forever  discharges  Encompass and each of its Related  Persons from any and all
+manner  of  actions  and  causes  of  action,  lawsuits,  charges,   complaints,
+liabilities,  promises,  covenants,  agreements,  judgments,  damages, expenses,
+suits, debts,  claims and demands whatsoever in law or in equity,  whether known
+or unknown,  direct or  indirect,  absolute or  contingent  (including,  but not
+limited to, claims for attorneys' fees and expenses whatsoever), which either of
+Hy-Tech  Technology and Hy-Tech  Computer Systems and/or its Related Persons has
+ever had, now has, or hereafter  may have against  Encompass  and/or its Related
+Persons  arising  out of, due to, or in any way related to this  Agreement,  the
+Related Instruments and the transactions contemplated hereby and thereby, except
+for Encompass' failure to perform,  pay and/or discharge the Assumed Liabilities
+or  breach  of this  Agreement  or the  License  Agreements  (the  "Release  and
+Waiver").
+
+                                       8
+<PAGE>
+
+         4.2  Covenant  Not to  Sue.  Each of  Hy-Tech  Technology  and  Hy-Tech
+Computer  Systems,  on behalf of itself and each of its Related  Persons  hereby
+covenants  that neither it nor any of its Related  Persons will sue Encompass or
+any of its Related Persons due to, or in any way related to this Agreement,  the
+Related Instruments and the transactions contemplated hereby and thereby, except
+for Encompass' failure to perform,  pay and/or discharge the Assumed Liabilities
+or for breach of this Agreement or the License Agreements.
+
+         4.3  Additional  Documents.  Each of  Hy-Tech  Technology  and  Hy-Tech
+Computer  Systems  hereby  agrees to  cooperate  fully and  execute  any and all
+supplementary  documents and to take any and all additional actions which may be
+necessary or  appropriate  to give full force and effect to the terms and intent
+of the Release and Waiver.
+
+         4.4  Third  Party  Beneficiaries.  This  Agreement  shall  inure to the
+benefit of Encompass and its Related  Persons,  and each of their successors and
+assigns, all of which are intended to be third-party beneficiaries hereunder.
+
+         4.5 C-T,  BCD,  PMIC.  In the event  Encompass  and/or  its  affiliates
+consummate  a  transaction  with each of C-T, BCD and PMIC,  effective  upon the
+closing of each such transaction with C-T, BCD and PMIC,  respectively,  each of
+Hy-Tech  Technology and Hy-Tech Computer Systems on behalf of itself and each of
+its Related Persons hereby releases, waives, acquits and forever discharges C-T,
+BCD and PMIC  and  each of their  Related  Persons  from any and all  manner  of
+actions  and  causes of  action,  lawsuits,  charges,  complaints,  liabilities,
+promises,  covenants,  agreements,  judgments,  damages, expenses, suits, debts,
+claims and demands  whatsoever  in law or in equity,  whether  known or unknown,
+direct or  indirect,  absolute  or  contingent  (including,  but not limited to,
+claims for  attorneys'  fees and expenses  whatsoever),  which either of Hy-Tech
+Technology and Hy-Tech Computer Systems and/or its Related Persons has ever had,
+now has, or  hereafter  may have  against  C-T, BCD and PMIC and/or any of their
+Related  Persons  arising out of, due to, or in any way related to the Memoranda
+and the transactions contemplated thereby.
+
+               ARTICLE V. OTHER OBLIGATIONS OF HYTT AND ENCOMPASS
+
+         5.1  Prohibited  Actions.  Between the date of this  Agreement  and the
+Closing  Date,  in the  conduct  of its  business,  HYTT  shall  not,  except as
+otherwise agreed by Encompass in writing:
+
+                  (a) Incurrence of Liens. Subject to lien, security interest or
+any other encumbrance any of the Websites or Customer Lists.
+
+                                       9
+<PAGE>
+
+                  (b) Publicity;  Advertisement. Except as required by law or in
+accordance  with  Section 8.1 hereof,  publicize,  advertise  or announce to any
+third party, except as required pursuant to this Agreement to obtain the consent
+of such third party,  the  entering  into of this  Agreement,  the terms of this
+Agreement or the transactions contemplated hereby.
+
+         5.2 Additional Covenants. On and after the date hereof:
+
+                  (a) Customer Lists; Websites. HYTT shall not sell, encumber or
+grant a license or other right in and to, the Customer Lists and/or the Websites
+to any third party.
+
+                  (b)  Dissolution.  Neither of Hy-Tech  Technology  nor Hy-Tech
+Computer Systems will voluntarily dissolve or file for bankruptcy.
+
+                  (c) Brokers.
+
+                           (i) HYTT shall pay, or cause to be paid, all fees and
+other  amounts  due and  owing to Altos  Bancorp,  Inc.  and its  affiliates  in
+connection with the Agreement.
+
+                           (ii)  Encompass  shall pay, or cause to be paid,  all
+fees and other amounts due and owing to Maximum in accordance  with that certain
+Advisory Agreement,  dated April 1, 2004, between and affiliate of Encompass and
+Maximum.
+
+               ARTICLE VI. CONDITIONS TO OBLIGATIONS OF EACH PARTY
+
+         6.1 The  obligations  of Encompass  under this Agreement are subject to
+the satisfaction, at or before the Closing, of each of the following conditions:
+
+                  (a)  Representations  and Warranties.  The representations and
+warranties  of HYTT  contained  herein,  and  the  statements  contained  in any
+schedule, instrument, list, certificate or writing delivered by HYTT pursuant to
+this Agreement shall be true, complete and accurate as of the date when made and
+as of the Closing Date as though such  representations  and warranties were made
+at and as of such dates,  except for any  changes  expressly  permitted  by this
+Agreement.
+
+                  (b) Performance. HYTT shall have performed and complied in all
+material  respects with all covenants,  agreements,  obligations  and conditions
+required by this  Agreement to be performed or complied with by HYTT at or prior
+to the Closing.
+
+                  (c) Cyber Test,  Inc.  Encompass  or an affiliate of Encompass
+shall have  simultaneously  closed the acquisition of all, or substantially all,
+of the assets of C-T on terms mutually agreeable to C-T and Encompass.
+
+                                       10
+<PAGE>
+
+                  (d)  Employment  Matters.  Nielson shall have entered into the
+Employment Agreement.
+
+                  (e)  Debenture   Holders.   The  holders  of  the  Convertible
+Debentures  (the  "Holders")  (i) shall have  agreed  upon the  exchange  of the
+Convertible  Debentures  for  preferred  stock of Encompass  and cash,  on terms
+mutually agreeable to Encompass and the Holders,  and (ii) shall have authorized
+Encompass  to  file  financing  statements  with  the  applicable   governmental
+authority(ies)  filing  offices to  terminate  the liens placed on the assets of
+HYTT by the Holders.
+
+                  (f) Other  Acquisitions.  In the event the BCD  Memorandum and
+the PMIC Memorandum  shall not have already expired by their  respective  terms,
+HYTT shall have  terminated  each of the BCD Memorandum and PMIC  Memorandum and
+waived any and all rights it may have thereunder; and PMIC shall have executed a
+letter of intent with Encompass or an affiliate of Encompass.
+
+                  (g)  Consulting  Agreements.  Encompass and Maximum shall have
+agreed on a mutually acceptable arrangement for advisory services to be provided
+by, and fees to be paid to, Maximum which such  arrangement  shall supersede any
+prior arrangements between Encompass and Maximum. AltosBanCorp., Inc. shall have
+released  Encompass  from  any  obligation  with  respect  to  the  transactions
+contemplated by this Agreement.
+
+                  (h)  Landlord;  Noteholders.  Each of Lee  Coast  Enterprises,
+Inc.,  Brad Conklin,  Margaret  Conklin and Susan McNear shall have  delivered a
+release and waiver, substantially in the form of Exhibit "H" attached hereto.
+
+         6.2 The  obligations  of HYTT under this  Agreement  are subject to the
+satisfaction, at or before the Closing, of each of the following conditions:
+
+                  (a)  Representations  and Warranties.  The representations and
+warranties of Encompass  contained herein,  and the statements  contained in any
+schedule,  instrument,  list,  certificate  or writing  delivered  by  Encompass
+pursuant to this Agreement  shall be true,  complete and accurate as of the date
+when  made  and as of the  Closing  Date  as  though  such  representations  and
+warranties were made at and as of such dates,  except for any changes  expressly
+permitted by this Agreement.
+
+                  (b)  Performance.  Encompass shall have performed and complied
+in all  material  respects  with  all  covenants,  agreements,  obligations  and
+conditions  required by this  Agreement  to be  performed  or  complied  with by
+Encompass at or prior to the Closing.
+
+                                       11
+<PAGE>
+
+                            ARTICLE VII. TERMINATION
+
+         7.1 Termination of Agreement. This Agreement may be terminated:
+
+                  (i) by the mutual consent of HYTT and Encompass;
+
+                  (ii) by HYTT or  Encompass  if the Closing has not taken place
+on or before June 8, 2004;  provided,  however,  that no Party then in breach of
+any obligations hereunder shall have the right to terminate;
+
+                  (iii)  by  Encompass  if  any  of  the   representations   and
+warranties  of HYTT  contained  in Article  III  hereof  were  incorrect  in any
+material respect when made or become incorrect in any material respect; and
+
+                  (iv) by HYTT if any of the  representations  and warranties of
+Encompass contained in Article III hereof were incorrect in any material respect
+when made or become incorrect in any material respect.
+
+         7.2 Limitations on Remedies. If this Agreement is terminated by HYTT or
+Encompass  as permitted  under  Section 7.1 and not as a result of a breach of a
+representation  or  warranty  or  the  failure  of  any  party  to  perform  its
+obligations hereunder, such termination shall be without liability of any party.
+If a party terminates this Agreement as a result of a breach of a representation
+or  warranty by the other party or the failure of the other party to perform its
+obligations  hereunder,  the  nonbreaching  party  shall,  in  addition to other
+remedies  provided  by this  Agreement,  at law,  or in equity,  be  entitled to
+reimbursement  from  the  breaching  party  for  all  expenses  incurred  by the
+nonbreaching  party in  connection  with  this  Agreement  and the  transactions
+contemplated hereby.
+
+                           ARTICLE VIII. MISCELLANEOUS
+
+         8.1 Press Releases and Public Announcements.  Neither Encompass, on the
+one hand, nor HYTT, on the other hand, shall issue any press release or make any
+public announcement relating to the subject matter of this Agreement without the
+prior written approval of the other parties. Encompass and HYTT shall agree upon
+the text of, and jointly  issue,  a press release or other public  communication
+announcing the consummation of the transactions  contemplated  hereunder, a form
+of which is attached hereto as Exhibit "I".
+
+         8.2 Further  Assurances.  From time to time, at Encompass'  request and
+without further consideration,  HYTT shall execute and deliver to Encompass such
+documents  and take such other action as  Encompass  may  reasonably  request in
+order to consummate more effectively the transactions contemplated hereby.
+
+         8.3 Parties in Interest. This Agreement shall be binding upon, inure to
+the benefit of, and be enforceable  by the  respective  successors and permitted
+assigns of the parties hereto.  The rights and obligations of HYTT hereunder may
+not be assigned without the prior written consent of Encompass.
+
+                                       12
+<PAGE>
+
+         8.4 Entire  Agreement,  Amendments  and  Waiver.  This  Agreement,  the
+exhibits,  the  schedules  and other  writings  referred to herein or  delivered
+pursuant hereto that form a part hereof contain the entire  understanding of the
+parties with respect to its subject matter. This Agreement  supersedes all prior
+understandings  and agreements.  This Agreement may be amended only by a written
+instrument duly executed by the parties.  Any condition to a party's obligations
+hereunder may be waived in writing by such party to the extent permitted by law.
+
+         8.5  Headings.  The  Article  and Section  headings  contained  in this
+Agreement  are for  reference  purposes only and shall not affect in any way the
+meaning or interpretation of this Agreement.
+
+         8.6 Notices. All notices, claims,  certificates,  requests, demands and
+other  communications  hereunder shall be in writing and shall be deemed to have
+been  received  (i) on the  same  business  day if  delivered  personally  or by
+confirmed facsimile transmission,  (ii) on the next business day if delivered by
+a reputable and nationally  recognized overnight courier, and (iii) on the third
+business day if mailed  (registered or certified mail,  postage prepaid,  return
+receipt requested), as follows:
+
+If to Encompass :         c/o Advanced Communications Technologies, Inc.
+                          420 Lexington Avenue, Suite 2739
+                          New York, New York  10170
+                          Attention: Wayne I. Danson
+                          Facsimile No.: 646-227-1666
+
+with a copy to:           Eckert Seamans Cherin & Mellott, LLC
+                          1515 Market Street, 9th Floor
+                          Philadelphia, Pennsylvania  19102
+                          Attention: Gary A. Miller, Esquire
+                          Facsimile No.:  215-851-8383
+
+                                         and
+
+                          Levinson & Lichtman, LLP
+                          120 E. Palmetto Park Road, Suite 100
+                          Boca Raton, FL  33432
+                          Attention: Jonathan J. Lichtman, Esquire
+                          Facsimile No.:  561-869-3601
+
+                                       13
+<PAGE>
+
+If to HYTT:               Hy-Tech Technology Group, Inc.
+                          1840 Boy Scout Drive
+                          Ft. Myers, Florida
+                          Attention: Martin Nielson
+                          Facsimile No.: __________________
+
+with a copy to:           Gottbetter & Partners, LLP
+                          488 Madison Avenue, 12th Floor
+                          New York, New York  10022-5718
+                          Attention: Adam Gottbetter, Esquire
+                          Facsimile No.: 212-400-6901
+
+or to such other  address  as the person to whom  notice is to be given may have
+previously  furnished  to the others in  writing in the manner set forth  above,
+provided  that  notice of a change of  address  shall be deemed  given only upon
+receipt.
+
+         8.7 Governing Law;  Jurisdiction.  This Agreement  shall be governed by
+and  construed in  accordance  with the laws of the State of  Delaware,  without
+regard to its or any other  jurisdiction's  conflicts  of laws  principles.  Any
+legal action or proceeding with respect to this Agreement or for recognition and
+enforcement of any judgment in respect hereof brought by any party hereto or its
+successors  or assigns may be brought and  determined in the courts of the State
+of Delaware or the federal district court for the District of Delaware, and each
+party hereto submits with regard to any such action or proceeding for itself and
+in respect to its  property,  generally  and  unconditionally,  to the exclusive
+jurisdiction  of such  courts,  and agrees  that  service of process in any such
+action or  proceeding  shall be effective if mailed to such party at the address
+specified  herein.  Each  party  hereto  irrevocably  waives,  and agrees not to
+assert, by way of motion, as a defense, counterclaim or otherwise, in any action
+or  proceeding  with  respect  to this  Agreement  (i) any claim  that it is not
+personally subject to the jurisdiction of such courts for any reason,  (ii) that
+it or its  property is exempt or immune from  jurisdiction  of any court or from
+any legal process  commenced in such courts (whether  through service of notice,
+attachment  prior to  judgment,  attachment  in aid of  execution  of  judgment,
+execution of judgment or otherwise),  and (iii) to the fullest extent  permitted
+by applicable law, that (a) the suit,  action or proceeding in any such court is
+brought  in an  inconvenient  forum,  (b) the  venue  of such  suit,  action  or
+proceeding is improper and (c) this Agreement, or the subject matter hereof, may
+not be enforced in or by such courts.
+
+         8.8 Third Parties.  Nothing herein  expressed or implied is intended or
+shall be construed to confer upon or give to any person,  other than the parties
+hereto and their successors or permitted  assigns,  any rights or remedies under
+or by reason of this Agreement.
+
+         8.9  Counterparts.  This  Agreement may be executed  simultaneously  in
+several  counterparts,  each of which  shall be deemed an  original,  but all of
+which  together  shall  constitute  one  and  the  same  instrument,   and  such
+counterparts may be delivered by facsimile transmission.
+
+                                       14
+<PAGE>
+
+         8.10  Expenses.  Each party hereto will bear its own costs and expenses
+(including fees and expenses of legal counsel, accountants,  investment bankers,
+brokers or other  representatives  or  consultants)  incurred in connection with
+this Agreement and the transactions contemplated hereby.
+
+         8.11 Construction.  Encompass and HYTT have participated jointly in the
+negotiation  and  drafting  of this  Agreement.  In the  event an  ambiguity  or
+question of intent or interpretation arises, this Agreement will be construed as
+if drafted  jointly by the parties  hereto and no presumption or burden of proof
+will arise favoring or disfavoring  any party by virtue of the authorship of any
+of the provisions of this Agreement.  Any reference to any federal, state, local
+or  foreign  statute  or law  will be  deemed  also to refer  to all  rules  and
+regulations promulgated thereunder, unless the context requires otherwise.
+
+
+
+
+
+
+
+
+
+                                       15
+<PAGE>
+
+         IN WITNESS WHEREOF, this Agreement has been duly executed and delivered
+by the duly authorized  officers of each of the parties hereto on the date first
+written above.
+
+                                      ENCOMPASS GROUP AFFILIATES, INC.
+
+
+
+                                      By:
+                                         ---------------------------------------
+                                          Name:
+                                          Title:
+
+
+
+                                      HY-TECH TECHNOLOGY GROUP, INC.
+
+
+                                      By:
+                                         ---------------------------------------
+                                          Name:
+                                          Title:
+
+
+
+                                      HY-TECH COMPUTER SYSTEMS, INC.
+
+
+                                      By:
+                                         ---------------------------------------
+                                          Name:
+                                          Title:
+
+
+
+
+                                       16
+<PAGE>
+
+                                                                  EXECUTION COPY
+
+                                  SCHEDULE 1.5
+                             CONVERTIBLE DEBENTURES
+
+--------------------------------------------------------------------------------
+Name and Address                                   Principal amount of Debenture
+--------------------------------------------------------------------------------
+KT Capital, LP                                     $100,000
+237 Park Avenue South
+New York, NY 10017
+Attn: Jeffrey Kwit, Managing Partner
+--------------------------------------------------------------------------------
+David H. Boshart & Elizabeth F. Boshart            $100,000
+8504 Charter Club Circle, No. 10
+Fort Myers, FL 33919
+--------------------------------------------------------------------------------
+David H. Boshart, Bruce H. Boshart &               $100,000
+ Bethany Maahs-Hoagsberg
+8504 Charter Club Circle, No. 10
+Fort Myers, FL 33919
+--------------------------------------------------------------------------------
+David H. Boshart                                   $100,000
+8504 Charter Club Circle, No. 10
+Fort Myers, FL 33919
+--------------------------------------------------------------------------------
+Maximum Ventures, Inc.                             $103,300
+1175 Walt Whitman Road
+Fort Myers, FL 33907
+--------------------------------------------------------------------------------
+Total                                              $503,300
+--------------------------------------------------------------------------------
+
+
+
+
+<PAGE>
+
+                                  SCHEDULE 1.6
+                          ALLOCATION OF PURCHASE PRICE
+
+Rights and Release and Waiver-$103,300
+Customer Lists License Agreement-$300,000
+Websites License Agreement-$100,000
+
+</TEXT>
+</DOCUMENT>
